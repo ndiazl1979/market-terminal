@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>MARKET TERMINAL — Live Financial Dashboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --bg: #0a0a0a;
+    --panel: #111418;
+    --panel2: #15191e;
+    --grid: #1d242c;
+    --amber: #ffb000;
+    --amber-dim: #b87d00;
+    --txt: #e6e6e6;
+    --txt-dim: #8a8f98;
+    --up: #00e676;
+    --down: #ff3b3b;
+    --hold: #ffb000;
+    --cyan: #3dd6f5;
+    --mono: 'IBM Plex Mono', ui-monospace, 'Cascadia Mono', Consolas, monospace;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { background: var(--bg); color: var(--txt); font-family: var(--mono); font-size: 14px; }
+  body { padding: 0 0 40px; }
+
+  /* ---- Top bar ---- */
+  .topbar {
+    display: flex; align-items: center; justify-content: space-between;
+    background: linear-gradient(180deg, #15191e, #0c0f12);
+    border-bottom: 1px solid var(--amber-dim);
+    padding: 8px 16px;
+    position: sticky; top: 0; z-index: 50;
+  }
+  .brand { display: flex; align-items: baseline; gap: 12px; }
+  .brand .logo { color: var(--amber); font-weight: 700; letter-spacing: 2px; font-size: 18px; }
+  .brand .sub { color: var(--txt-dim); font-size: 11px; letter-spacing: 1px; }
+  .topbar-right { display: flex; align-items: center; gap: 20px; font-size: 12px; }
+  .clock { color: var(--cyan); font-weight: 600; }
+  .status-pill { display: flex; align-items: center; gap: 6px; color: var(--txt-dim); }
+  .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--up); box-shadow: 0 0 8px var(--up); animation: pulse 2s infinite; }
+  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.35} }
+
+  /* ---- Ticker tape ---- */
+  .tape { overflow: hidden; white-space: nowrap; background: #000; border-bottom: 1px solid var(--grid); padding: 5px 0; }
+  .tape-track { display: inline-block; padding-left: 100%; animation: scroll 40s linear infinite; }
+  .tape:hover .tape-track { animation-play-state: paused; }
+  @keyframes scroll { 0%{transform:translateX(0)} 100%{transform:translateX(-100%)} }
+  .tape-item { display: inline-block; margin: 0 28px; font-size: 13px; }
+  .tape-item .sym { color: var(--amber); font-weight: 600; }
+
+  /* ---- Layout ---- */
+  .wrap { max-width: 1480px; margin: 0 auto; padding: 18px 16px; }
+  .section-label { color: var(--amber); font-size: 11px; letter-spacing: 2px; margin: 6px 0 12px; border-left: 3px solid var(--amber); padding-left: 8px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(420px, 1fr)); gap: 14px; }
+
+  /* ---- Card ---- */
+  .card {
+    background: linear-gradient(180deg, var(--panel), var(--panel2));
+    border: 1px solid var(--grid);
+    border-radius: 4px;
+    padding: 14px 16px 16px;
+    position: relative;
+    overflow: hidden;
+  }
+  .card::before { content:""; position:absolute; top:0; left:0; right:0; height:2px; background: var(--bar, var(--amber)); opacity:.8; }
+  .card-head { display: flex; justify-content: space-between; align-items: flex-start; }
+  .sym-block .sym { font-size: 22px; font-weight: 700; color: var(--txt); letter-spacing: 1px; }
+  .sym-block .badge-type { font-size: 9px; padding: 1px 5px; border:1px solid var(--grid); border-radius:3px; color: var(--txt-dim); margin-left: 6px; vertical-align: middle; }
+  .sym-block .name { color: var(--txt-dim); font-size: 11px; margin-top: 2px; }
+
+  .price-block { text-align: right; }
+  .price { font-size: 24px; font-weight: 600; }
+  .chg { font-size: 13px; font-weight: 600; margin-top: 2px; }
+  .up { color: var(--up); } .down { color: var(--down); } .flat { color: var(--txt-dim); }
+
+  /* signal badge */
+  .signal { display:inline-flex; align-items:center; gap:6px; font-weight:700; font-size:12px; padding:3px 10px; border-radius:3px; letter-spacing:1px; }
+  .sig-COMPRA { color:#031b0e; background: var(--up); }
+  .sig-VENTA  { color:#1b0303; background: var(--down); }
+  .sig-MANTENER { color:#1b1403; background: var(--hold); }
+
+  .row { display:flex; align-items:center; justify-content:space-between; margin-top:12px; }
+
+  /* sparkline */
+  .spark { width:100%; height:46px; margin:12px 0 6px; }
+
+  /* fundamentals grid */
+  .funds { display:grid; grid-template-columns: repeat(2, 1fr); gap:1px; background: var(--grid); border:1px solid var(--grid); border-radius:3px; margin-top:10px; }
+  .fund { background: var(--panel); padding:6px 9px; display:flex; justify-content:space-between; font-size:11.5px; }
+  .fund .k { color: var(--txt-dim); }
+  .fund .v { color: var(--txt); font-weight:500; }
+
+  /* technicals */
+  .tech { margin-top:12px; }
+  .rsi-wrap { margin-top:4px; }
+  .rsi-bar { height:6px; border-radius:3px; background: linear-gradient(90deg,#1a6b3a 0%, #2e7d32 30%, #b8a200 50%, #c0392b 70%, #8e1b1b 100%); position:relative; }
+  .rsi-mark { position:absolute; top:-3px; width:2px; height:12px; background:#fff; box-shadow:0 0 4px #fff; }
+  .reasons { margin-top:10px; font-size:10.5px; color: var(--txt-dim); line-height:1.5; }
+  .reasons li { list-style:none; padding-left:12px; position:relative; }
+  .reasons li::before { content:"▸"; position:absolute; left:0; color: var(--amber-dim); }
+
+  .label { color: var(--txt-dim); font-size:10px; letter-spacing:1px; text-transform:uppercase; }
+
+  footer { text-align:center; color: var(--txt-dim); font-size:11px; margin-top:24px; line-height:1.7; }
+  footer a { color: var(--amber-dim); text-decoration:none; }
+  .err { background:#2a0d0d; border:1px solid var(--down); color:#ffb4b4; padding:10px 14px; border-radius:4px; margin:16px 0; font-size:12px; }
+  @media (max-width:520px){ .grid{grid-template-columns:1fr;} .topbar-right .status-pill{display:none;} }
+</style>
+</head>
+<body>
+  <div class="topbar">
+    <div class="brand">
+      <span class="logo">◧ MARKET TERMINAL</span>
+      <span class="sub">LIVE EQUITIES &amp; DIGITAL ASSETS</span>
+    </div>
+    <div class="topbar-right">
+      <div class="status-pill"><span class="dot"></span><span id="feed-status">FEED LIVE</span></div>
+      <div>UPD <span id="updated" style="color:var(--amber)">—</span></div>
+      <div class="clock" id="clock">--:--:-- UTC</div>
+    </div>
+  </div>
+
+  <div class="tape"><div class="tape-track" id="tape">cargando feed…</div></div>
+
+  <div class="wrap">
+    <div id="error-slot"></div>
+    <div class="section-label">▣ WATCHLIST · FUNDAMENTALES · SEÑALES TÉCNICAS</div>
+    <div class="grid" id="grid"></div>
+
+    <footer>
+      Datos: acciones vía Yahoo Finance · cripto vía CoinGecko · refrescados del lado servidor cada ~15 min por GitHub Actions.<br />
+      Indicadores SMA50/SMA200/RSI-14 y señal COMPRA/MANTENER/VENTA calculados sobre histórico de 1 año.<br />
+      <strong>Solo con fines informativos — no constituye asesoría de inversión.</strong> · La página se auto-actualiza cada 60 s.
+    </footer>
+  </div>
+
+<script>
+const NF = (n, d=2) => (n===null||n===undefined||isNaN(n)) ? '—' :
+  Number(n).toLocaleString('en-US', {minimumFractionDigits:d, maximumFractionDigits:d});
+
+function fmtBig(n){
+  if(n===null||n===undefined||isNaN(n)) return '—';
+  const a=Math.abs(n);
+  if(a>=1e12) return '$'+(n/1e12).toFixed(2)+'T';
+  if(a>=1e9)  return '$'+(n/1e9).toFixed(2)+'B';
+  if(a>=1e6)  return '$'+(n/1e6).toFixed(2)+'M';
+  if(a>=1e3)  return '$'+(n/1e3).toFixed(2)+'K';
+  return '$'+NF(n);
+}
+function fmtNum(n){
+  if(n===null||n===undefined||isNaN(n)) return '—';
+  const a=Math.abs(n);
+  if(a>=1e9) return (n/1e9).toFixed(2)+'B';
+  if(a>=1e6) return (n/1e6).toFixed(2)+'M';
+  if(a>=1e3) return (n/1e3).toFixed(2)+'K';
+  return NF(n,0);
+}
+
+function sparkline(data, up){
+  if(!data || data.length<2) return '';
+  const w=380, h=46, pad=2;
+  const min=Math.min(...data), max=Math.max(...data), rng=(max-min)||1;
+  const step=(w-pad*2)/(data.length-1);
+  const pts=data.map((v,i)=>[pad+i*step, h-pad-((v-min)/rng)*(h-pad*2)]);
+  const d=pts.map((p,i)=>(i?'L':'M')+p[0].toFixed(1)+' '+p[1].toFixed(1)).join(' ');
+  const col=up?'var(--up)':'var(--down)';
+  const area=d+` L ${pts[pts.length-1][0].toFixed(1)} ${h} L ${pad} ${h} Z`;
+  const gid='g'+Math.random().toString(36).slice(2,7);
+  return `<svg class="spark" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none">
+    <defs><linearGradient id="${gid}" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="${col}" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="${col}" stop-opacity="0"/>
+    </linearGradient></defs>
+    <path d="${area}" fill="url(#${gid})"/>
+    <path d="${d}" fill="none" stroke="${col}" stroke-width="1.6"/>
+  </svg>`;
+}
+
+function card(a){
+  const up = (a.changePct||0) > 0, down = (a.changePct||0) < 0;
+  const cls = up?'up':down?'down':'flat';
+  const arrow = up?'▲':down?'▼':'—';
+  const barColor = up?'var(--up)':down?'var(--down)':'var(--amber)';
+  const rsi = a.rsi;
+  const rsiPos = rsi==null?50:Math.max(0,Math.min(100,rsi));
+
+  const fundsStock = `
+    <div class="fund"><span class="k">Mkt Cap</span><span class="v">${fmtBig(a.marketCap)}</span></div>
+    <div class="fund"><span class="k">P/E (TTM)</span><span class="v">${NF(a.pe)}</span></div>
+    <div class="fund"><span class="k">EPS</span><span class="v">${NF(a.eps)}</span></div>
+    <div class="fund"><span class="k">P/E Fwd</span><span class="v">${NF(a.forwardPe)}</span></div>
+    <div class="fund"><span class="k">Div Yield</span><span class="v">${a.dividendYield==null?'—':NF(a.dividendYield,2)+'%'}</span></div>
+    <div class="fund"><span class="k">Beta</span><span class="v">${NF(a.beta)}</span></div>
+    <div class="fund"><span class="k">52w Range</span><span class="v">${NF(a.week52Low,0)}–${NF(a.week52High,0)}</span></div>
+    <div class="fund"><span class="k">Volumen</span><span class="v">${fmtNum(a.volume)}</span></div>`;
+
+  const fundsCrypto = `
+    <div class="fund"><span class="k">Mkt Cap</span><span class="v">${fmtBig(a.marketCap)}</span></div>
+    <div class="fund"><span class="k">Vol 24h</span><span class="v">${fmtBig(a.volume)}</span></div>
+    <div class="fund"><span class="k">Supply</span><span class="v">${fmtNum(a.circulatingSupply)}</span></div>
+    <div class="fund"><span class="k">ATH</span><span class="v">${fmtBig(a.ath)}</span></div>
+    <div class="fund"><span class="k">vs ATH</span><span class="v ${(a.athChangePct||0)<0?'down':'up'}">${NF(a.athChangePct,1)}%</span></div>
+    <div class="fund"><span class="k">High 24h</span><span class="v">${fmtBig(a.dayHigh)}</span></div>
+    <div class="fund"><span class="k">Low 24h</span><span class="v">${fmtBig(a.dayLow)}</span></div>
+    <div class="fund"><span class="k">Rango ATL</span><span class="v">${fmtBig(a.week52Low)}</span></div>`;
+
+  const reasons = (a.signalReasons||[]).map(r=>`<li>${r}</li>`).join('');
+
+  return `<div class="card" style="--bar:${barColor}">
+    <div class="card-head">
+      <div class="sym-block">
+        <div><span class="sym">${a.symbol}</span><span class="badge-type">${a.type==='crypto'?'CRYPTO':'EQUITY'}</span></div>
+        <div class="name">${a.name}</div>
+      </div>
+      <div class="price-block">
+        <div class="price">$${NF(a.price, a.price<10?4:2)}</div>
+        <div class="chg ${cls}">${arrow} ${NF(a.change, a.price<10?4:2)} (${NF(a.changePct)}%)</div>
+      </div>
+    </div>
+
+    ${sparkline(a.spark, !down)}
+
+    <div class="row">
+      <span class="label">Señal técnica</span>
+      <span class="signal sig-${a.signal}">${a.signal} · ${a.signalScore>0?'+':''}${a.signalScore}</span>
+    </div>
+
+    <div class="funds">${a.type==='crypto'?fundsCrypto:fundsStock}</div>
+
+    <div class="tech">
+      <div class="row" style="margin-top:0">
+        <span class="label">RSI 14 · <b style="color:var(--txt)">${NF(rsi,1)}</b></span>
+        <span class="label">SMA50 ${NF(a.sma50,0)} · SMA200 ${NF(a.sma200,0)}</span>
+      </div>
+      <div class="rsi-wrap"><div class="rsi-bar"><div class="rsi-mark" style="left:${rsiPos}%"></div></div></div>
+    </div>
+
+    <ul class="reasons">${reasons}</ul>
+  </div>`;
+}
+
+function tape(assets){
+  return assets.map(a=>{
+    const up=(a.changePct||0)>0, cls=up?'up':(a.changePct||0)<0?'down':'flat';
+    const arrow=up?'▲':(a.changePct||0)<0?'▼':'—';
+    return `<span class="tape-item"><span class="sym">${a.symbol}</span> $${NF(a.price,a.price<10?4:2)} <span class="${cls}">${arrow} ${NF(a.changePct)}%</span></span>`;
+  }).join('');
+}
+
+async function load(){
+  try{
+    const res = await fetch('data.json?t='+Date.now(), {cache:'no-store'});
+    if(!res.ok) throw new Error('HTTP '+res.status);
+    const d = await res.json();
+    document.getElementById('error-slot').innerHTML='';
+    document.getElementById('grid').innerHTML = d.assets.map(card).join('');
+    const tapeHtml = tape(d.assets);
+    document.getElementById('tape').innerHTML = tapeHtml + tapeHtml; // duplicado para loop continuo
+    const u = new Date(d.updated);
+    document.getElementById('updated').textContent =
+      u.toUTCString().slice(17,25)+' UTC';
+    document.getElementById('feed-status').textContent='FEED LIVE';
+  }catch(e){
+    document.getElementById('error-slot').innerHTML =
+      `<div class="err">⚠ No se pudo cargar data.json (${e.message}). El feed se actualiza vía GitHub Actions; si es el primer despliegue, espera a que corra el workflow.</div>`;
+    document.getElementById('feed-status').textContent='FEED ERR';
+  }
+}
+
+function clock(){
+  const n=new Date();
+  document.getElementById('clock').textContent =
+    n.toUTCString().slice(17,25)+' UTC';
+}
+
+clock(); setInterval(clock, 1000);
+load(); setInterval(load, 60000);
+</script>
+</body>
+</html>

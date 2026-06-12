@@ -2,7 +2,7 @@ name: Update market data
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # cada 15 minutos (UTC)
+    - cron: "*/5 * * * *"    # cada 5 minutos (UTC) — mínimo permitido por GitHub Actions
   workflow_dispatch:          # permite ejecutarlo manualmente
   push:
     branches: [ main ]

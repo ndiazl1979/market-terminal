@@ -8,11 +8,14 @@ CORS ni se necesita ninguna API key:
     + histórico diario de 1 año).
   - Cripto (BTC, ETH): CoinGecko API pública.
 
-Para cada activo calcula indicadores técnicos (SMA50, SMA200, RSI-14) a partir del
-histórico y deriva una señal compuesta COMPRA / MANTENER / VENTA.
+Para cada activo calcula indicadores técnicos (SMA50, SMA200, RSI-14, MACD), una
+señal compuesta COMPRA / MANTENER / VENTA y un bloque de ANÁLISIS QUANT
+(volatilidad anualizada, Sharpe, Sortino, máximo drawdown, VaR 95%, retornos
+1M/3M/1A y posición Bollinger).
 """
 
 import json
+import math
 import sys
 import time
 from datetime import datetime, timezone
@@ -23,15 +26,17 @@ import yfinance as yf
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) market-terminal/1.0"
 
 STOCKS = [
-    {"symbol": "AAPL", "name": "Apple Inc.", "logo": "AAPL"},
-    {"symbol": "TSLA", "name": "Tesla, Inc.", "logo": "TSLA"},
-    {"symbol": "NVDA", "name": "NVIDIA Corp.", "logo": "NVDA"},
+    {"symbol": "AAPL", "name": "Apple Inc."},
+    {"symbol": "TSLA", "name": "Tesla, Inc."},
+    {"symbol": "NVDA", "name": "NVIDIA Corp."},
 ]
 
 CRYPTOS = [
     {"symbol": "BTC", "name": "Bitcoin", "cg_id": "bitcoin"},
     {"symbol": "ETH", "name": "Ethereum", "cg_id": "ethereum"},
 ]
+
+TRADING_DAYS = 252
 
 
 # ---------------------------------------------------------------------------
@@ -41,6 +46,33 @@ def sma(values, period):
     if len(values) < period:
         return None
     return sum(values[-period:]) / period
+
+
+def ema_series(values, period):
+    if len(values) < period:
+        return []
+    k = 2 / (period + 1)
+    out = [sum(values[:period]) / period]
+    for v in values[period:]:
+        out.append(v * k + out[-1] * (1 - k))
+    return out
+
+
+def macd(values, fast=12, slow=26, signal=9):
+    if len(values) < slow + signal:
+        return None
+    ema_fast = ema_series(values, fast)
+    ema_slow = ema_series(values, slow)
+    # alinear longitudes (ema_fast es más larga)
+    diff = len(ema_fast) - len(ema_slow)
+    ema_fast = ema_fast[diff:]
+    macd_line = [f - s for f, s in zip(ema_fast, ema_slow)]
+    signal_line = ema_series(macd_line, signal)
+    if not signal_line:
+        return None
+    m = macd_line[-1]
+    s = signal_line[-1]
+    return {"macd": m, "signal": s, "hist": m - s, "bull": m > s}
 
 
 def rsi(values, period=14):
@@ -63,41 +95,124 @@ def rsi(values, period=14):
     return 100.0 - (100.0 / (1.0 + rs))
 
 
-def build_signal(price, sma50, sma200, rsi_val):
-    """Combina varios criterios técnicos en una señal y un puntaje [-100, 100]."""
+def bollinger_pct_b(values, period=20, mult=2):
+    if len(values) < period:
+        return None
+    window = values[-period:]
+    mid = sum(window) / period
+    var = sum((x - mid) ** 2 for x in window) / period
+    sd = math.sqrt(var)
+    upper = mid + mult * sd
+    lower = mid - mult * sd
+    if upper == lower:
+        return None
+    return (values[-1] - lower) / (upper - lower) * 100
+
+
+def _stats(returns):
+    n = len(returns)
+    mean = sum(returns) / n
+    var = sum((r - mean) ** 2 for r in returns) / (n - 1) if n > 1 else 0.0
+    return mean, math.sqrt(var)
+
+
+def compute_quant(closes):
+    """Bloque de análisis cuantitativo a partir de cierres diarios."""
+    q = {
+        "volAnnual": None, "sharpe": None, "sortino": None,
+        "maxDrawdown": None, "var95": None,
+        "ret1m": None, "ret3m": None, "ret1y": None,
+        "macd": None, "macdState": None, "bollPctB": None,
+    }
+    if len(closes) < 30:
+        return q
+
+    rets = [closes[i] / closes[i - 1] - 1 for i in range(1, len(closes))]
+    mean, sd = _stats(rets)
+
+    if sd > 0:
+        q["volAnnual"] = round(sd * math.sqrt(TRADING_DAYS) * 100, 2)
+        q["sharpe"] = round((mean * TRADING_DAYS) / (sd * math.sqrt(TRADING_DAYS)), 2)
+
+    downside = [min(r, 0.0) ** 2 for r in rets]
+    dd = math.sqrt(sum(downside) / len(downside))
+    if dd > 0:
+        q["sortino"] = round((mean * TRADING_DAYS) / (dd * math.sqrt(TRADING_DAYS)), 2)
+
+    # Máximo drawdown
+    peak = closes[0]
+    max_dd = 0.0
+    for c in closes:
+        peak = max(peak, c)
+        max_dd = min(max_dd, (c - peak) / peak)
+    q["maxDrawdown"] = round(max_dd * 100, 2)
+
+    # VaR histórico 95% (pérdida diaria en el percentil 5)
+    srt = sorted(rets)
+    idx = max(0, int(0.05 * len(srt)) - 1)
+    q["var95"] = round(srt[idx] * 100, 2)
+
+    def ret_over(n):
+        if len(closes) > n:
+            return round((closes[-1] / closes[-1 - n] - 1) * 100, 2)
+        return None
+
+    q["ret1m"] = ret_over(21)
+    q["ret3m"] = ret_over(63)
+    q["ret1y"] = round((closes[-1] / closes[0] - 1) * 100, 2)
+
+    m = macd(closes)
+    if m:
+        q["macd"] = round(m["hist"], 3)
+        q["macdState"] = "alcista" if m["bull"] else "bajista"
+
+    q["bollPctB"] = round(bollinger_pct_b(closes), 1) if bollinger_pct_b(closes) is not None else None
+    return q
+
+
+def build_signal(price, sma50, sma200, rsi_val, macd_obj):
+    """Combina criterios técnicos en una señal y un puntaje [-100, 100]."""
     score = 0
     reasons = []
 
     if sma50 is not None and price is not None:
         if price > sma50:
-            score += 25
+            score += 22
             reasons.append("Precio sobre SMA50 (tendencia corta alcista)")
         else:
-            score -= 25
+            score -= 22
             reasons.append("Precio bajo SMA50 (tendencia corta bajista)")
 
     if sma200 is not None and price is not None:
         if price > sma200:
-            score += 20
+            score += 18
             reasons.append("Precio sobre SMA200 (tendencia larga alcista)")
         else:
-            score -= 20
+            score -= 18
             reasons.append("Precio bajo SMA200 (tendencia larga bajista)")
 
     if sma50 is not None and sma200 is not None:
         if sma50 > sma200:
-            score += 15
+            score += 13
             reasons.append("Golden cross (SMA50 > SMA200)")
         else:
-            score -= 15
+            score -= 13
             reasons.append("Death cross (SMA50 < SMA200)")
+
+    if macd_obj:
+        if macd_obj["bull"]:
+            score += 12
+            reasons.append("MACD sobre señal (momentum alcista)")
+        else:
+            score -= 12
+            reasons.append("MACD bajo señal (momentum bajista)")
 
     if rsi_val is not None:
         if rsi_val < 30:
-            score += 30
+            score += 25
             reasons.append(f"RSI {rsi_val:.0f}: sobreventa")
         elif rsi_val > 70:
-            score -= 30
+            score -= 25
             reasons.append(f"RSI {rsi_val:.0f}: sobrecompra")
         else:
             reasons.append(f"RSI {rsi_val:.0f}: neutral")
@@ -142,7 +257,8 @@ def fetch_stock(meta):
     s50 = sma(closes, 50)
     s200 = sma(closes, 200)
     r = rsi(closes, 14)
-    signal, score, reasons = build_signal(price, s50, s200, r)
+    m = macd(closes)
+    signal, score, reasons = build_signal(price, s50, s200, r, m)
 
     return {
         "symbol": sym,
@@ -169,6 +285,7 @@ def fetch_stock(meta):
         "signal": signal,
         "signalScore": score,
         "signalReasons": reasons,
+        "quant": compute_quant(closes),
         "spark": [safe_round(c) for c in closes[-40:]],
         "currency": info.get("currency", "USD"),
     }
@@ -181,7 +298,6 @@ def fetch_crypto(meta, markets_by_id):
     cg = meta["cg_id"]
     m = markets_by_id.get(cg, {})
 
-    # Histórico diario 1 año para indicadores
     closes = []
     try:
         r = requests.get(
@@ -204,7 +320,8 @@ def fetch_crypto(meta, markets_by_id):
     s50 = sma(closes, 50)
     s200 = sma(closes, 200)
     rv = rsi(closes, 14)
-    signal, score, reasons = build_signal(price, s50, s200, rv)
+    mc = macd(closes)
+    signal, score, reasons = build_signal(price, s50, s200, rv, mc)
 
     return {
         "symbol": meta["symbol"],
@@ -228,6 +345,7 @@ def fetch_crypto(meta, markets_by_id):
         "signal": signal,
         "signalScore": score,
         "signalReasons": reasons,
+        "quant": compute_quant(closes),
         "spark": [safe_round(c) for c in closes[-40:]],
         "currency": "USD",
     }

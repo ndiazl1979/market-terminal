@@ -225,6 +225,34 @@
   .wc-thirds tr.cutline td { border-top:2px solid var(--amber); }
 
   @media (max-width:520px){ .wc-vb{grid-template-columns:1fr;} .wc-groups{grid-template-columns:1fr;} }
+
+  /* ===== noticias: tablero de tickers ===== */
+  .tkboard { display:grid; grid-template-columns:repeat(auto-fill,minmax(120px,1fr)); gap:8px; margin-bottom:8px; }
+  .tkb { background:linear-gradient(180deg,var(--panel),var(--panel2)); border:1px solid var(--grid);
+    border-radius:4px; padding:8px 10px; text-align:center; }
+  .tkb .s { font-size:13px; font-weight:700; color:var(--txt); letter-spacing:.5px; }
+  .tkb .p { font-size:16px; font-weight:700; margin-top:2px; }
+  .tkb .n { font-size:8.5px; color:var(--txt-dim); margin-top:1px; }
+
+  /* ===== noticias: tarjetas ===== */
+  .news-cat { margin-bottom:6px; }
+  .news-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(330px,1fr)); gap:10px; margin-bottom:14px; }
+  .news-card { background:linear-gradient(180deg,var(--panel),var(--panel2)); border:1px solid var(--grid);
+    border-left:3px solid var(--txt-dim); border-radius:4px; padding:10px 12px; display:flex; flex-direction:column; }
+  .news-card.pos { border-left-color:var(--up); } .news-card.neg { border-left-color:var(--down); }
+  .news-card .nt { font-size:12.5px; color:var(--txt); line-height:1.35; font-weight:500; }
+  .news-card a.nt { text-decoration:none; } .news-card a.nt:hover { color:var(--cyan); }
+  .news-card .nm { font-size:9.5px; color:var(--txt-dim); margin-top:6px; display:flex; gap:8px; flex-wrap:wrap; }
+  .news-card .nm .src { color:var(--amber-dim); }
+  .tk-row { display:flex; gap:6px; flex-wrap:wrap; margin-top:9px; }
+  .tk-chip { font-size:10.5px; font-weight:700; padding:2px 7px; border-radius:3px; border:1px solid var(--grid);
+    display:inline-flex; gap:5px; align-items:center; }
+  .tk-chip .sym { color:var(--txt); }
+  .tk-chip.up { background:rgba(0,230,118,.12); border-color:#1c5e3a; } .tk-chip.up .pct { color:var(--up); }
+  .tk-chip.down { background:rgba(255,59,59,.12); border-color:#6e2222; } .tk-chip.down .pct { color:var(--down); }
+  .tk-chip.flat { } .tk-chip.flat .pct { color:var(--txt-dim); }
+  .sent-dot { width:7px; height:7px; border-radius:50%; display:inline-block; }
+  .sent-dot.pos { background:var(--up); } .sent-dot.neg { background:var(--down); } .sent-dot.neu { background:var(--txt-dim); }
 </style>
 </head>
 <body>
@@ -245,6 +273,8 @@
   <nav class="nav" id="nav">
     <button class="nav-btn active" data-view="markets">▣ MERCADOS</button>
     <button class="nav-btn" data-view="worldcup">⚽ MUNDIAL 2026</button>
+    <button class="nav-btn" data-view="news">📰 NOTICIAS</button>
+    <button class="nav-btn" data-view="ecuador">🇪🇨 ECUADOR</button>
   </nav>
 
   <div class="wrap" id="view-markets">
@@ -311,6 +341,50 @@
       matriz de marcadores Poisson con corrección Dixon-Coles → 1X2, doble oportunidad, total O/U, BTTS, hándicap asiático,
       marcador probable y tiros a puerta estimados. EV = prob (mezcla modelo+mercado) × cuota − 1; cuotas de DraftKings vía ESPN.<br />
       <strong>Solo con fines informativos y de entretenimiento — no es asesoría de apuestas. Apuesta con responsabilidad; +18.</strong>
+    </footer>
+  </div>
+
+  <div class="wrap" id="view-news" hidden>
+    <div class="wc-banner" style="border-left-color:var(--violet)">
+      <div class="wc-banner-l">
+        <span class="wc-cup" style="color:var(--violet)">📰 NOTICIAS QUE MUEVEN LA BOLSA</span>
+        <span class="wc-sub">Big 7 · semiconductores/IA · satelital · defensa/armamento · petróleo · guerra/geopolítica · macro</span>
+      </div>
+      <div class="wc-banner-r">ACT <span id="news-updated" style="color:var(--amber)">—</span></div>
+    </div>
+
+    <div id="news-error"></div>
+
+    <div class="section-label">★ IMPACTO POR TICKER · VARIACIÓN NETA ESTIMADA 24 H</div>
+    <div id="news-board" class="tkboard">cargando…</div>
+
+    <div id="news-cats"></div>
+
+    <footer>
+      Fuente: titulares vía RSS público de Google News · refrescado del lado servidor por GitHub Actions.<br />
+      El <strong>ticker afectado</strong> se detecta por palabras clave; la <strong>variación estimada a 24 h</strong> es una
+      heurística (sentimiento de la noticia × volatilidad típica del ticker × recencia), <strong>no un pronóstico</strong>.<br />
+      <strong>Solo con fines informativos — no constituye asesoría de inversión.</strong>
+    </footer>
+  </div>
+
+  <div class="wrap" id="view-ecuador" hidden>
+    <div class="wc-banner" style="border-left-color:#ffd200">
+      <div class="wc-banner-l">
+        <span class="wc-cup" style="color:#ffd200">🇪🇨 MERCADO ECUATORIANO</span>
+        <span class="wc-sub">Bolsa de Valores (BVG/BVQ) · riesgo país · petróleo · macro · deuda e inversión</span>
+      </div>
+      <div class="wc-banner-r">ACT <span id="ec-updated" style="color:var(--amber)">—</span></div>
+    </div>
+
+    <div id="ec-error"></div>
+    <div class="section-label">▣ NOTICIAS DEL MERCADO ECUATORIANO</div>
+    <div id="ec-list" class="news-grid">cargando…</div>
+
+    <footer>
+      Fuente: titulares vía RSS público de Google News (Ecuador) · refrescado por GitHub Actions.<br />
+      Las etiquetas (petróleo WTI, riesgo país, dólar/macro, BVG/BVQ) indican el factor afectado y su dirección estimada.<br />
+      <strong>Solo con fines informativos — no constituye asesoría de inversión.</strong>
     </footer>
   </div>
 
@@ -799,13 +873,14 @@ async function loadWC(){
   }
 }
 
+const VIEWS=['markets','worldcup','news','ecuador'];
 document.getElementById('nav').addEventListener('click',e=>{
   const btn=e.target.closest('.nav-btn'); if(!btn) return;
   document.querySelectorAll('.nav-btn').forEach(b=>b.classList.toggle('active',b===btn));
   const v=btn.dataset.view;
-  document.getElementById('view-markets').hidden = v!=='markets';
-  document.getElementById('view-worldcup').hidden = v!=='worldcup';
+  VIEWS.forEach(name=>{ document.getElementById('view-'+name).hidden = name!==v; });
   if(v==='worldcup' && !WC) loadWC();
+  if((v==='news'||v==='ecuador') && !NEWS) loadNews();
 });
 document.getElementById('wc-filter').addEventListener('click',e=>{
   const btn=e.target.closest('.seg-b'); if(!btn) return;
@@ -813,9 +888,75 @@ document.getElementById('wc-filter').addEventListener('click',e=>{
   WC_FILTER=btn.dataset.f; renderMatches();
 });
 
+/* ============================ NOTICIAS / ECUADOR ============================ */
+let NEWS=null;
+function relTime(ts){
+  if(!ts) return '';
+  const s=(Date.now()-ts)/1000;
+  if(s<3600) return 'hace '+Math.max(1,Math.round(s/60))+' min';
+  if(s<86400) return 'hace '+Math.round(s/3600)+' h';
+  return 'hace '+Math.round(s/86400)+' d';
+}
+const CAT_ICON={tech:'💻',semis:'🔌',space:'🛰️',defense:'🛡️',oil:'🛢️',war:'⚔️',macro:'🏦'};
+function tkChip(t){
+  const cls=t.pct==null?(t.dir>0?'up':t.dir<0?'down':'flat'):t.pct>0?'up':t.pct<0?'down':'flat';
+  const val=t.pct==null?(t.dir>0?'▲':t.dir<0?'▼':'•'):`${t.pct>0?'+':''}${NF(t.pct,1)}%`;
+  return `<span class="tk-chip ${cls}" title="${t.name||t.sym}"><span class="sym">${t.sym}</span><span class="pct">${val}</span></span>`;
+}
+function newsCard(it){
+  const s=it.sentiment, cls=s>0.05?'pos':s<-0.05?'neg':'';
+  const chips=((it.tickers||it.tags)||[]).map(tkChip).join('');
+  const link=it.link?`<a class="nt" href="${it.link}" target="_blank" rel="noopener">${it.title}</a>`
+                     :`<span class="nt">${it.title}</span>`;
+  return `<div class="news-card ${cls}">
+    ${link}
+    <div class="nm"><span class="src">${it.source||'—'}</span><span>${relTime(it.ts)}</span></div>
+    ${chips?`<div class="tk-row">${chips}</div>`:''}
+  </div>`;
+}
+function tkBoard(board){
+  if(!board||!board.length) return '<div style="color:var(--txt-dim);font-size:12px">Sin datos de impacto aún.</div>';
+  return board.map(b=>{
+    const c=b.net>0?'up':b.net<0?'down':'flat';
+    return `<div class="tkb"><div class="s">${b.sym}</div>
+      <div class="p ${c}">${b.net>0?'+':''}${NF(b.net,1)}%</div>
+      <div class="n">${b.n} noticia${b.n===1?'':'s'}</div></div>`;
+  }).join('');
+}
+function renderNews(){
+  if(!NEWS) return;
+  document.getElementById('news-board').innerHTML=tkBoard(NEWS.tickerBoard);
+  document.getElementById('news-cats').innerHTML=(NEWS.categories||[]).map(c=>{
+    if(!c.items||!c.items.length) return '';
+    return `<div class="section-label">${CAT_ICON[c.key]||'•'} ${c.label.toUpperCase()}</div>
+      <div class="news-grid">${c.items.map(newsCard).join('')}</div>`;
+  }).join('') || '<div style="color:var(--txt-dim);font-size:12px">Sin noticias por ahora.</div>';
+  document.getElementById('ec-list').innerHTML=(NEWS.ecuador||[]).length
+    ? NEWS.ecuador.map(newsCard).join('')
+    : '<div style="color:var(--txt-dim);font-size:12px">Sin noticias por ahora.</div>';
+  if(NEWS.updated){
+    const u=new Date(NEWS.updated).toUTCString().slice(17,25)+' UTC';
+    document.getElementById('news-updated').textContent=u;
+    document.getElementById('ec-updated').textContent=u;
+  }
+}
+async function loadNews(){
+  try{
+    NEWS=await jget('news.json?t='+Date.now());
+    document.getElementById('news-error').innerHTML='';
+    document.getElementById('ec-error').innerHTML='';
+    renderNews();
+  }catch(e){
+    const msg=`<div class="err">⚠ No se pudo cargar news.json (${e.message}). Se genera vía GitHub Actions; si es el primer despliegue, espera a que corra el workflow.</div>`;
+    document.getElementById('news-error').innerHTML=msg;
+    document.getElementById('ec-error').innerHTML=msg;
+  }
+}
+
 clock(); setInterval(clock,1000);
 load(); setInterval(load,60000);
 loadWC(); setInterval(loadWC,60000);
+setInterval(()=>{ if(NEWS) loadNews(); },60000);
 </script>
 </body>
 </html>

@@ -9,6 +9,7 @@ on:
     paths:
       - "fetch_data.py"
       - "fetch_worldcup.py"
+      - "fetch_news.py"
       - ".github/workflows/update-data.yml"
 
 permissions:
@@ -39,14 +40,18 @@ jobs:
         run: python fetch_worldcup.py
         continue-on-error: true   # si ESPN falla, no abortar el feed de mercados
 
+      - name: Fetch market news
+        run: python fetch_news.py
+        continue-on-error: true   # si los RSS fallan, no abortar el resto
+
       - name: Commit data if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data.json worldcup.json
+          git add data.json worldcup.json news.json
           if git diff --staged --quiet; then
-            echo "Sin cambios en data.json / worldcup.json"
+            echo "Sin cambios en los datos"
           else
-            git commit -m "chore: actualizar datos de mercado y Mundial [skip ci]"
+            git commit -m "chore: actualizar datos de mercado, Mundial y noticias [skip ci]"
             git push
           fi

@@ -67,12 +67,40 @@ por la API pública de ESPN (sin keys, igual que el resto):
 > Solo con fines informativos y de entretenimiento — **no es asesoría de apuestas.
 > Apuesta con responsabilidad; +18.**
 
+## 📰 Noticias que mueven la bolsa + 🇪🇨 Ecuador
+
+Dos pestañas adicionales alimentadas por **RSS público de Google News** (sin keys):
+
+- **NOTICIAS**: titulares internacionales que impactan la bolsa, agrupados por categoría
+  — **Big 7/Tecnología**, **Semiconductores/IA**, **Satelital/Espacio**, **Defensa/Armamento**,
+  **Petróleo/Energía**, **Guerra/Geopolítica** y **Macro/Bolsa**. En cada noticia se detecta
+  el **ticker afectado** (por palabras clave, con match por límite de palabra) y se estima
+  una **variación aproximada a 24 h**:
+
+  ```
+  variación ≈ dirección · volatilidad_típica_del_ticker · (0.5 + |sentimiento|) · recencia
+  ```
+
+  El **sentimiento** sale de un léxico ES/EN (alcista vs bajista) y la **dirección** admite
+  relaciones inversas (p. ej. una guerra: defensa ↑, petróleo ↑, bolsa general ↓). Un
+  **tablero de impacto por ticker** agrega la variación neta estimada de todo el flujo.
+- **ECUADOR**: noticias del mercado ecuatoriano (Bolsa de Valores BVG/BVQ, riesgo país,
+  petróleo, deuda, macro) con etiquetas del factor afectado (WTI, riesgo país, dólar) y su
+  dirección estimada.
+
+> La variación a 24 h es una **estimación heurística** (sentimiento × volatilidad), **no un
+> pronóstico**. Solo con fines informativos — no constituye asesoría de inversión.
+
+`fetch_news.py` escribe `news.json` (compartido por ambas pestañas); el frontend lo carga
+al abrir la pestaña y se auto-refresca cada 60 s.
+
 ## Ejecutar localmente
 
 ```bash
 pip install -r requirements.txt
 python fetch_data.py          # genera data.json (mercados)
 python fetch_worldcup.py      # genera worldcup.json (Mundial 2026)
+python fetch_news.py          # genera news.json (noticias + Ecuador)
 python -m http.server 8765    # abre http://localhost:8765
 ```
 

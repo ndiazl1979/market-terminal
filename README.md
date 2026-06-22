@@ -39,11 +39,40 @@ GitHub Pages sirve index.html ──► lee data.json (mismo origen) y se auto-r
 No requiere ningún servicio de pago ni clave de API: todo se obtiene de fuentes
 públicas desde el runner de GitHub Actions.
 
+## ⚽ Mundial FIFA 2026
+
+Pestaña **MUNDIAL 2026** con análisis cuantitativo de la Copa del Mundo, alimentada
+por la API pública de ESPN (sin keys, igual que el resto):
+
+- **Tabla actualizada** de los 12 grupos (PJ, G/E/P, GF:GC, DG, Pts) con clasificación
+  en color: clasifica · 3er lugar · eliminado.
+- **Carrera de terceros**: ranking de los 12 terceros por criterios FIFA (Pts, DG, GF);
+  los **8 mejores clasifican** a la ronda de 32 (formato de 48 equipos).
+- **Predicción quant por partido**: la fuerza ofensiva/defensiva de cada selección se
+  estima mezclando un **prior Elo** con el **rendimiento real** del torneo (shrinkage
+  bayesiano según partidos jugados). Con eso se calculan goles esperados (λ) y una
+  **matriz de marcadores Poisson con corrección Dixon-Coles**, de la que salen:
+  - **1X2** (gana local / empate / gana visita) y doble oportunidad
+  - **Total** de goles Over/Under (1.5 / 2.5 / 3.5) y **ambos anotan** (BTTS)
+  - **Hándicap asiático sugerido** (línea + probabilidad de cubrir)
+  - **Marcador más probable** y goles esperados
+  - **Tiros a puerta** esperados por equipo (estimados desde λ)
+- **Valor / EV**: cuando ESPN trae cuotas (DraftKings) se les quita el margen (de-vig) y
+  se calcula `EV% = prob × cuota − 1`. Para evitar sobreconfianza, la probabilidad usada
+  en el EV **mezcla modelo + mercado**. El **tablero de valor** ordena los mejores picks
+  por estabilidad (`EV × probabilidad`), destacando la *predicción más estable y de buen EV*.
+
+`fetch_worldcup.py` escribe `worldcup.json`; el frontend lo lee y se auto-refresca cada 60 s.
+
+> Solo con fines informativos y de entretenimiento — **no es asesoría de apuestas.
+> Apuesta con responsabilidad; +18.**
+
 ## Ejecutar localmente
 
 ```bash
 pip install -r requirements.txt
-python fetch_data.py          # genera data.json
+python fetch_data.py          # genera data.json (mercados)
+python fetch_worldcup.py      # genera worldcup.json (Mundial 2026)
 python -m http.server 8765    # abre http://localhost:8765
 ```
 

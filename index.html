@@ -119,6 +119,112 @@
   footer a { color: var(--amber-dim); text-decoration:none; }
   .err { background:#2a0d0d; border:1px solid var(--down); color:#ffb4b4; padding:10px 14px; border-radius:4px; margin:16px 0; font-size:12px; }
   @media (max-width:520px){ .grid{grid-template-columns:1fr;} .topbar-right .status-pill{display:none;} .quant{grid-template-columns:repeat(3,1fr);} }
+
+  /* ===== navegación de vistas ===== */
+  .nav { display:flex; gap:0; background:#0c0f12; border-bottom:1px solid var(--grid); padding:0 16px; }
+  .nav-btn { background:none; border:none; border-bottom:2px solid transparent; color:var(--txt-dim);
+    font-family:var(--mono); font-size:12px; letter-spacing:1.5px; padding:11px 18px; cursor:pointer; }
+  .nav-btn:hover { color:var(--txt); }
+  .nav-btn.active { color:var(--amber); border-bottom-color:var(--amber); font-weight:700; }
+
+  /* ===== mundial: banner / disclaimer ===== */
+  .wc-banner { display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;
+    background:linear-gradient(180deg,var(--panel),var(--panel2)); border:1px solid var(--grid);
+    border-left:3px solid var(--cyan); border-radius:4px; padding:12px 16px; margin-bottom:14px; }
+  .wc-cup { color:var(--cyan); font-weight:700; font-size:16px; letter-spacing:1px; }
+  .wc-sub { color:var(--txt-dim); font-size:10.5px; letter-spacing:.5px; display:block; margin-top:3px; }
+  .wc-banner-r { font-size:12px; color:var(--txt-dim); }
+
+  /* ===== tablero de valor ===== */
+  .wc-vb { display:grid; grid-template-columns:repeat(auto-fill,minmax(230px,1fr)); gap:10px; margin-bottom:8px; }
+  .vb-card { background:linear-gradient(180deg,var(--panel),var(--panel2)); border:1px solid var(--grid);
+    border-top:2px solid var(--up); border-radius:4px; padding:10px 12px; position:relative; }
+  .vb-rank { position:absolute; top:8px; right:10px; font-size:10px; color:var(--txt-dim); }
+  .vb-match { font-size:12px; color:var(--txt); font-weight:600; }
+  .vb-round { font-size:9.5px; color:var(--txt-dim); margin-top:1px; }
+  .vb-bet { margin-top:8px; font-size:13px; color:var(--amber); font-weight:700; }
+  .vb-stats { display:flex; gap:12px; margin-top:7px; font-size:10.5px; }
+  .vb-stats .k { color:var(--txt-dim); } .vb-stats b { color:var(--txt); }
+  .vb-ev { color:var(--up); font-weight:700; }
+
+  /* ===== filtro partidos ===== */
+  .wc-filter { display:flex; gap:0; border:1px solid var(--grid); border-radius:3px; overflow:hidden; width:max-content; margin-bottom:12px; }
+  .seg-b { background:var(--panel); color:var(--txt-dim); border:none; border-right:1px solid var(--grid);
+    font-family:var(--mono); font-size:11px; padding:6px 14px; cursor:pointer; letter-spacing:1px; }
+  .seg-b:last-child { border-right:none; } .seg-b.active { background:var(--cyan); color:#04222a; font-weight:700; }
+
+  /* ===== tarjeta de partido ===== */
+  .m-card { background:linear-gradient(180deg,var(--panel),var(--panel2)); border:1px solid var(--grid);
+    border-radius:4px; padding:13px 15px 15px; position:relative; overflow:hidden; }
+  .m-card::before { content:""; position:absolute; top:0; left:0; right:0; height:2px; background:var(--bar,var(--cyan)); opacity:.8; }
+  .m-top { display:flex; justify-content:space-between; align-items:center; font-size:9.5px; color:var(--txt-dim); letter-spacing:1px; }
+  .m-state { padding:1px 6px; border:1px solid var(--grid); border-radius:3px; }
+  .m-state.live { color:var(--down); border-color:var(--down); }
+  .m-state.final { color:var(--txt-dim); }
+  .m-teams { display:flex; align-items:center; justify-content:space-between; margin:10px 0 4px; }
+  .m-team { display:flex; align-items:center; gap:8px; flex:1; }
+  .m-team.away { flex-direction:row-reverse; text-align:right; }
+  .m-team img { width:26px; height:26px; object-fit:contain; }
+  .m-team .ab { font-size:17px; font-weight:700; color:var(--txt); }
+  .m-team .nm { font-size:9px; color:var(--txt-dim); display:block; }
+  .m-vs { font-size:11px; color:var(--txt-dim); padding:0 8px; }
+  .m-score { font-size:20px; font-weight:700; color:var(--amber); padding:0 8px; }
+
+  /* barra de probabilidad 1X2 */
+  .prob-bar { display:flex; height:24px; border-radius:3px; overflow:hidden; margin:10px 0 4px; font-size:10px; font-weight:700; }
+  .prob-bar > div { display:flex; align-items:center; justify-content:center; min-width:18px; white-space:nowrap; }
+  .pb-h { background:var(--up); color:#04210f; } .pb-d { background:var(--hold); color:#211900; } .pb-a { background:var(--cyan); color:#04222a; }
+  .prob-legend { display:flex; justify-content:space-between; font-size:9px; color:var(--txt-dim); margin-bottom:8px; }
+
+  .m-grid { display:grid; grid-template-columns:repeat(2,1fr); gap:1px; background:var(--grid); border:1px solid var(--grid); border-radius:3px; margin-top:8px; }
+  .m-cell { background:var(--panel); padding:6px 9px; display:flex; justify-content:space-between; font-size:11px; }
+  .m-cell .k { color:var(--txt-dim); } .m-cell .v { color:var(--txt); font-weight:600; }
+  .m-cell.full { grid-column:1 / -1; }
+
+  .m-rec { margin-top:10px; background:#0b1f12; border:1px solid var(--up); border-radius:3px; padding:8px 10px; }
+  .m-rec.none { background:#1a1407; border-color:var(--amber-dim); }
+  .m-rec .lbl { font-size:9px; color:var(--up); letter-spacing:1.5px; }
+  .m-rec.none .lbl { color:var(--amber-dim); }
+  .m-rec .pick { font-size:13px; font-weight:700; color:var(--txt); margin-top:3px; }
+  .m-rec .ev { color:var(--up); }
+
+  .m-bets { margin-top:8px; width:100%; border-collapse:collapse; font-size:10.5px; }
+  .m-bets th { color:var(--txt-dim); text-align:right; font-weight:500; padding:3px 6px; border-bottom:1px solid var(--grid); font-size:9px; letter-spacing:.5px; }
+  .m-bets th:first-child { text-align:left; }
+  .m-bets td { padding:3px 6px; text-align:right; border-bottom:1px solid #14181d; }
+  .m-bets td:first-child { text-align:left; color:var(--txt-dim); }
+  .m-bets .ev-pos { color:var(--up); font-weight:700; } .m-bets .ev-neg { color:var(--down); }
+
+  /* ===== grupos ===== */
+  .wc-groups { display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:12px; }
+  .gtbl { background:linear-gradient(180deg,var(--panel),var(--panel2)); border:1px solid var(--grid); border-radius:4px; overflow:hidden; }
+  .gtbl h4 { color:var(--amber); font-size:12px; letter-spacing:1px; padding:8px 12px; border-bottom:1px solid var(--grid); }
+  .gtbl table { width:100%; border-collapse:collapse; font-size:11px; }
+  .gtbl th { color:var(--txt-dim); font-weight:500; font-size:9px; padding:5px 4px; text-align:right; }
+  .gtbl th:nth-child(2) { text-align:left; }
+  .gtbl td { padding:5px 4px; text-align:right; border-top:1px solid #14181d; }
+  .gtbl td.team { text-align:left; color:var(--txt); display:flex; align-items:center; gap:6px; }
+  .gtbl td.team img { width:16px; height:16px; object-fit:contain; }
+  .gtbl td.pts { color:var(--txt); font-weight:700; }
+  .gtbl tr.q td:first-child { border-left:3px solid var(--up); }
+  .gtbl tr.t3 td:first-child { border-left:3px solid var(--amber); }
+  .gtbl tr.out td:first-child { border-left:3px solid #3a3f47; }
+  .gtbl tr.out td { color:var(--txt-dim); }
+
+  /* ===== terceros ===== */
+  .wc-thirds { background:linear-gradient(180deg,var(--panel),var(--panel2)); border:1px solid var(--grid); border-radius:4px; overflow-x:auto; }
+  .wc-thirds table { width:100%; border-collapse:collapse; font-size:11.5px; min-width:480px; }
+  .wc-thirds th { color:var(--txt-dim); font-weight:500; font-size:9px; padding:7px 8px; text-align:right; border-bottom:1px solid var(--grid); }
+  .wc-thirds th:nth-child(2){ text-align:left; }
+  .wc-thirds td { padding:6px 8px; text-align:right; border-top:1px solid #14181d; }
+  .wc-thirds td.team { text-align:left; display:flex; align-items:center; gap:7px; color:var(--txt); }
+  .wc-thirds td.team img { width:17px; height:17px; object-fit:contain; }
+  .wc-thirds tr.qual td.st { color:var(--up); font-weight:700; }
+  .wc-thirds tr.no td { color:var(--txt-dim); }
+  .wc-thirds tr.no td.st { color:var(--down); }
+  .wc-thirds tr.cutline td { border-top:2px solid var(--amber); }
+
+  @media (max-width:520px){ .wc-vb{grid-template-columns:1fr;} .wc-groups{grid-template-columns:1fr;} }
 </style>
 </head>
 <body>
@@ -136,7 +242,12 @@
 
   <div class="tape"><div class="tape-track" id="tape">cargando feed…</div></div>
 
-  <div class="wrap">
+  <nav class="nav" id="nav">
+    <button class="nav-btn active" data-view="markets">▣ MERCADOS</button>
+    <button class="nav-btn" data-view="worldcup">⚽ MUNDIAL 2026</button>
+  </nav>
+
+  <div class="wrap" id="view-markets">
     <div class="adder">
       <div class="adder-row">
         <h3>➕ AGREGAR ACTIVO</h3>
@@ -163,6 +274,43 @@
       Datos: acciones vía Yahoo Finance · cripto vía CoinGecko · núcleo refrescado del lado servidor cada ~5 min por GitHub Actions.<br />
       Quant: volatilidad anualizada, Sharpe/Sortino, máx. drawdown, VaR-95%, retornos y MACD/Bollinger sobre histórico de 1 año.<br />
       <strong>Solo con fines informativos — no constituye asesoría de inversión.</strong> · La página se auto-actualiza cada 60 s.
+    </footer>
+  </div>
+
+  <div class="wrap" id="view-worldcup" hidden>
+    <div class="wc-banner">
+      <div class="wc-banner-l">
+        <span class="wc-cup">⚽ MUNDIAL FIFA 2026</span>
+        <span class="wc-sub">análisis cuantitativo · modelo Poisson / Dixon-Coles · datos vía ESPN</span>
+      </div>
+      <div class="wc-banner-r">ACT <span id="wc-updated" style="color:var(--amber)">—</span></div>
+    </div>
+
+    <div id="wc-error"></div>
+
+    <div class="section-label">★ TABLERO DE VALOR · MEJORES PICKS (EV+, ordenado por estabilidad)</div>
+    <div id="wc-valueboard" class="wc-vb">cargando…</div>
+
+    <div class="section-label">⚽ PARTIDOS · PREDICCIÓN QUANT (1X2 · hándicap · total · goles · tiros · EV)</div>
+    <div class="wc-filter" id="wc-filter">
+      <button class="seg-b active" data-f="upcoming">PRÓXIMOS</button>
+      <button class="seg-b" data-f="all">TODOS</button>
+      <button class="seg-b" data-f="value">SOLO CON VALOR</button>
+    </div>
+    <div id="wc-matches" class="grid"></div>
+
+    <div class="section-label">▣ GRUPOS · TABLA ACTUALIZADA (▮ clasifica · ▮ 3er lugar · ▮ eliminado)</div>
+    <div id="wc-groups" class="wc-groups"></div>
+
+    <div class="section-label">③ CARRERA DE TERCEROS · LOS 8 MEJORES TERCEROS CLASIFICAN</div>
+    <div id="wc-thirds" class="wc-thirds"></div>
+
+    <footer>
+      Datos: standings, calendario y cuotas vía la API pública de ESPN · refrescado del lado servidor por GitHub Actions.<br />
+      Modelo: fuerza ofensiva/defensiva (prior Elo + rendimiento real, shrinkage bayesiano) → goles esperados λ →
+      matriz de marcadores Poisson con corrección Dixon-Coles → 1X2, doble oportunidad, total O/U, BTTS, hándicap asiático,
+      marcador probable y tiros a puerta estimados. EV = prob (mezcla modelo+mercado) × cuota − 1; cuotas de DraftKings vía ESPN.<br />
+      <strong>Solo con fines informativos y de entretenimiento — no es asesoría de apuestas. Apuesta con responsabilidad; +18.</strong>
     </footer>
   </div>
 
@@ -497,8 +645,177 @@ async function load(){
   }
 }
 function clock(){ const n=new Date(); document.getElementById('clock').textContent=n.toUTCString().slice(17,25)+' UTC'; }
+
+/* ============================ MUNDIAL 2026 ============================ */
+const P = v => (v===null||v===undefined||isNaN(v)) ? '—' : NF(v,1);
+const evClass = e => e>0?'ev-pos':e<0?'ev-neg':'';
+const signed = e => (e>0?'+':'')+NF(e,1);
+let WC=null, WC_FILTER='upcoming';
+
+function teamMini(t, away){
+  const img = t.logo ? `<img src="${t.logo}" alt="" onerror="this.style.display='none'">` : '';
+  return `<div class="m-team ${away?'away':''}">${img}
+     <div><span class="ab">${t.abbr}</span><span class="nm">${t.name||''}</span></div></div>`;
+}
+
+function valueBoard(board){
+  if(!board || !board.length) return '<div style="color:var(--txt-dim);font-size:12px;padding:8px">Sin picks con valor positivo en la ventana actual. Vuelve cuando haya cuotas de próximos partidos.</div>';
+  return board.map((b,i)=>`<div class="vb-card">
+    <span class="vb-rank">#${i+1}</span>
+    <div class="vb-match">${b.home} <span style="color:var(--txt-dim)">vs</span> ${b.away}</div>
+    <div class="vb-round">${b.round||''}</div>
+    <div class="vb-bet">${b.label}</div>
+    <div class="vb-stats">
+      <span class="k">cuota <b>${NF(b.odds,2)}</b></span>
+      <span class="k">P <b>${P(b.pFair!=null?b.pFair:b.pModel)}%</b></span>
+      <span class="vb-ev">EV ${signed(b.ev)}%</span>
+    </div></div>`).join('');
+}
+
+function betsTable(bets){
+  if(!bets || !bets.length) return '';
+  const rows = bets.map(b=>`<tr>
+    <td>${b.label}</td><td>${NF(b.odds,2)}</td><td>${P(b.pModel)}%</td>
+    <td>${P(b.implied)}%</td><td class="${evClass(b.ev)}">${signed(b.ev)}%</td></tr>`).join('');
+  return `<table class="m-bets">
+    <tr><th>Mercado / cuota</th><th>cuota</th><th>modelo</th><th>mercado</th><th>EV</th></tr>
+    ${rows}</table>`;
+}
+
+function matchCard(m){
+  const st=m.state, isFinal=st==='post', isLive=st==='in';
+  const stCls=isFinal?'final':isLive?'live':'';
+  const stTxt=isFinal?'FINAL':isLive?'EN VIVO':'PRÓXIMO';
+  let center;
+  if(isFinal || isLive){
+    const hs=m.home.score??'-', as=m.away.score??'-';
+    center=`<div class="m-score">${hs} : ${as}</div>`;
+  } else center=`<div class="m-vs">vs</div>`;
+
+  let body='';
+  const p=m.pred;
+  if(p){
+    const bar=`<div class="prob-bar">
+      <div class="pb-h" style="flex:${Math.max(p.pHome,6)}" title="Gana ${m.home.abbr}">${p.pHome>=10?Math.round(p.pHome)+'%':''}</div>
+      <div class="pb-d" style="flex:${Math.max(p.pDraw,6)}" title="Empate">${p.pDraw>=10?Math.round(p.pDraw)+'%':''}</div>
+      <div class="pb-a" style="flex:${Math.max(p.pAway,6)}" title="Gana ${m.away.abbr}">${p.pAway>=10?Math.round(p.pAway)+'%':''}</div>
+    </div>
+    <div class="prob-legend"><span>1 ${m.home.abbr} ${P(p.pHome)}%</span><span>X ${P(p.pDraw)}%</span><span>2 ${m.away.abbr} ${P(p.pAway)}%</span></div>`;
+
+    const ah=p.ah||{};
+    const ahTxt = ah.fav==='home'
+      ? `${m.home.abbr} ${NF(ah.line,2)} (${P(ah.coverFav)}%)`
+      : `${m.away.abbr} ${NF(ah.line,2)} (${P(ah.coverFav)}%)`;
+    const sot=p.sot||{};
+    const grid=`<div class="m-grid">
+      <div class="m-cell"><span class="k">Goles esp (xG)</span><span class="v">${NF(p.lamHome,2)} – ${NF(p.lamAway,2)}</span></div>
+      <div class="m-cell"><span class="k">Total esperado</span><span class="v">${NF(p.expTotal,2)}</span></div>
+      <div class="m-cell"><span class="k">Marcador prob.</span><span class="v">${p.likely}</span></div>
+      <div class="m-cell"><span class="k">Ambos anotan</span><span class="v">${P(p.btts)}%</span></div>
+      <div class="m-cell"><span class="k">+2.5 / −2.5</span><span class="v">${P(p.over['2.5'])}% / ${P(p.under['2.5'])}%</span></div>
+      <div class="m-cell"><span class="k">+1.5 / +3.5</span><span class="v">${P(p.over['1.5'])}% / ${P(p.over['3.5'])}%</span></div>
+      <div class="m-cell full"><span class="k">Hándicap asiático sugerido</span><span class="v">${ahTxt}</span></div>
+      <div class="m-cell full"><span class="k">Tiros a puerta esp. (L / V)</span><span class="v">${NF(sot.home,1)} / ${NF(sot.away,1)} · tot ${NF(sot.total,1)}</span></div>
+    </div>`;
+
+    let rec='';
+    if(m.rec){
+      rec=`<div class="m-rec"><span class="lbl">▲ PICK MÁS ESTABLE + EV</span>
+        <div class="pick">${m.rec.label} · ${m.rec.market} @ ${NF(m.rec.odds,2)}
+        <span class="ev">EV ${signed(m.rec.ev)}%</span> · P ${P(m.rec.pFair!=null?m.rec.pFair:m.rec.pModel)}%</div></div>`;
+    } else if(m.odds){
+      rec=`<div class="m-rec none"><span class="lbl">▢ SIN VALOR CLARO</span>
+        <div class="pick" style="font-size:11px;color:var(--txt-dim)">El mercado está eficiente: ninguna apuesta supera al modelo con margen.</div></div>`;
+    }
+    body = bar+grid+rec+betsTable(m.bets);
+  } else if(!isFinal){
+    body='<div style="color:var(--txt-dim);font-size:11px;margin-top:8px">Sin predicción disponible.</div>';
+  }
+
+  const barColor = m.rec ? 'var(--up)' : isFinal ? 'var(--txt-dim)' : 'var(--cyan)';
+  return `<div class="m-card" style="--bar:${barColor}">
+    <div class="m-top"><span>${m.round||''}</span><span class="m-state ${stCls}">${stTxt}${m.detail&&!isFinal?' · '+m.detail:''}</span></div>
+    <div class="m-teams">${teamMini(m.home)}${center}${teamMini(m.away,true)}</div>
+    ${body}</div>`;
+}
+
+function groupTable(g){
+  const rows=g.teams.map(t=>{
+    const cls=t.status==='Clasifica'?'q':t.status==='3er lugar'?'t3':'out';
+    const img=t.logo?`<img src="${t.logo}" onerror="this.style.display='none'">`:'';
+    return `<tr class="${cls}"><td>${t.pos}</td><td class="team">${img}${t.abbr}</td>
+      <td>${t.pj}</td><td>${t.w}</td><td>${t.d}</td><td>${t.l}</td>
+      <td>${t.gf}:${t.ga}</td><td>${t.gd>0?'+':''}${t.gd}</td><td class="pts">${t.pts}</td></tr>`;
+  }).join('');
+  return `<div class="gtbl"><h4>${g.name}</h4><table>
+    <tr><th>#</th><th>Equipo</th><th>PJ</th><th>G</th><th>E</th><th>P</th><th>GF:GC</th><th>DG</th><th>Pts</th></tr>
+    ${rows}</table></div>`;
+}
+
+function thirdsTable(thirds){
+  const rows=thirds.map(t=>{
+    const qual=t.status==='Clasifica';
+    const cut = t.pos===9 ? 'cutline' : '';
+    const img=t.logo?`<img src="${t.logo}" onerror="this.style.display='none'">`:'';
+    return `<tr class="${qual?'qual':'no'} ${cut}"><td>${t.pos}</td>
+      <td class="team">${img}${t.name}</td><td>${t.group.replace('Group','Gr.')}</td>
+      <td>${t.pj}</td><td>${t.pts}</td><td>${t.gd>0?'+':''}${t.gd}</td><td>${t.gf}</td>
+      <td class="st">${t.status}</td></tr>`;
+  }).join('');
+  return `<table>
+    <tr><th>#</th><th>Selección</th><th>Grupo</th><th>PJ</th><th>Pts</th><th>DG</th><th>GF</th><th>Estado</th></tr>
+    ${rows}</table>`;
+}
+
+function renderMatches(){
+  if(!WC) return;
+  let ms=WC.matches||[];
+  if(WC_FILTER==='upcoming') ms=ms.filter(m=>m.state!=='post');
+  else if(WC_FILTER==='value') ms=ms.filter(m=>m.rec);
+  document.getElementById('wc-matches').innerHTML =
+    ms.length ? ms.map(matchCard).join('') : '<div style="color:var(--txt-dim);font-size:12px">Sin partidos para este filtro.</div>';
+}
+
+function renderWC(){
+  if(!WC) return;
+  document.getElementById('wc-valueboard').innerHTML = valueBoard(WC.valueBoard);
+  renderMatches();
+  document.getElementById('wc-groups').innerHTML = (WC.groups||[]).map(groupTable).join('');
+  document.getElementById('wc-thirds').innerHTML = thirdsTable(WC.thirdPlace||[]);
+  if(WC.updated){
+    const u=new Date(WC.updated);
+    document.getElementById('wc-updated').textContent=u.toUTCString().slice(17,25)+' UTC';
+  }
+}
+
+async function loadWC(){
+  try{
+    WC=await jget('worldcup.json?t='+Date.now());
+    document.getElementById('wc-error').innerHTML='';
+    renderWC();
+  }catch(e){
+    document.getElementById('wc-error').innerHTML=
+      `<div class="err">⚠ No se pudo cargar worldcup.json (${e.message}). Se genera vía GitHub Actions; si es el primer despliegue, espera a que corra el workflow “Update market &amp; World Cup data”.</div>`;
+  }
+}
+
+document.getElementById('nav').addEventListener('click',e=>{
+  const btn=e.target.closest('.nav-btn'); if(!btn) return;
+  document.querySelectorAll('.nav-btn').forEach(b=>b.classList.toggle('active',b===btn));
+  const v=btn.dataset.view;
+  document.getElementById('view-markets').hidden = v!=='markets';
+  document.getElementById('view-worldcup').hidden = v!=='worldcup';
+  if(v==='worldcup' && !WC) loadWC();
+});
+document.getElementById('wc-filter').addEventListener('click',e=>{
+  const btn=e.target.closest('.seg-b'); if(!btn) return;
+  document.querySelectorAll('#wc-filter .seg-b').forEach(b=>b.classList.toggle('active',b===btn));
+  WC_FILTER=btn.dataset.f; renderMatches();
+});
+
 clock(); setInterval(clock,1000);
 load(); setInterval(load,60000);
+loadWC(); setInterval(loadWC,60000);
 </script>
 </body>
 </html>

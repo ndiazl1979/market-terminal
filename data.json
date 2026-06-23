@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T05:48:08.465573+00:00",
+  "updated": "2026-06-23T08:51:04.935808+00:00",
   "assets": [
     {
       "symbol": "AAPL",
@@ -13,7 +13,7 @@
       "dayLow": 296.76,
       "week52High": 317.4,
       "week52Low": 199.26,
-      "volume": 40202659,
+      "volume": 40149242,
       "marketCap": 4362291642368,
       "pe": 35.96,
       "forwardPe": 30.94,
@@ -269,21 +269,21 @@
       "symbol": "BTC",
       "name": "Bitcoin",
       "type": "crypto",
-      "price": 63341.0,
-      "change": -853.92,
-      "changePct": -1.33,
+      "price": 62266.0,
+      "change": -1817.67,
+      "changePct": -2.84,
       "dayHigh": 65469.0,
-      "dayLow": 63359.0,
+      "dayLow": 62045.0,
       "week52High": 126080.0,
       "week52Low": 67.81,
-      "volume": 25208424059,
-      "marketCap": 1270200527230,
-      "circulatingSupply": 20046693.0,
+      "volume": 30500487480,
+      "marketCap": 1248514502004,
+      "circulatingSupply": 20046762.0,
       "ath": 126080.0,
-      "athChangePct": -49.76,
-      "sma50": 71478.68,
-      "sma200": 76454.17,
-      "rsi": 39.0,
+      "athChangePct": -50.61,
+      "sma50": 71457.79,
+      "sma200": 76448.95,
+      "rsi": 36.3,
       "signal": "VENTA",
       "signalScore": -41,
       "signalReasons": [
@@ -291,20 +291,20 @@
         "Precio bajo SMA200 (tendencia larga bajista)",
         "Death cross (SMA50 < SMA200)",
         "MACD sobre señal (momentum alcista)",
-        "RSI 39: neutral"
+        "RSI 36: neutral"
       ],
       "quant": {
-        "volAnnual": 35.56,
-        "sharpe": -0.81,
-        "sortino": -1.09,
+        "volAnnual": 35.62,
+        "sharpe": -0.84,
+        "sortino": -1.13,
         "maxDrawdown": -51.22,
         "var95": -3.73,
-        "ret1m": -5.01,
-        "ret3m": -17.08,
-        "ret1y": -40.0,
-        "macd": 430.529,
+        "ret1m": -6.58,
+        "ret3m": -18.45,
+        "ret1y": -40.99,
+        "macd": 363.877,
         "macdState": "alcista",
-        "bollPctB": 47.0
+        "bollPctB": 30.1
       },
       "spark": [
         79068.82,
@@ -346,7 +346,7 @@
         64240.23,
         63231.87,
         63957.2,
-        63311.79
+        62267.38
       ],
       "currency": "USD"
     },
@@ -354,21 +354,21 @@
       "symbol": "ETH",
       "name": "Ethereum",
       "type": "crypto",
-      "price": 1711.7,
-      "change": -23.35,
-      "changePct": -1.35,
+      "price": 1645.11,
+      "change": -101.09,
+      "changePct": -5.79,
       "dayHigh": 1773.96,
-      "dayLow": 1710.81,
+      "dayLow": 1642.63,
       "week52High": 4946.05,
       "week52Low": 0.432979,
-      "volume": 13258430961,
-      "marketCap": 206649734165,
+      "volume": 12990799596,
+      "marketCap": 198760182017,
       "circulatingSupply": 120683835.7987661,
       "ath": 4946.05,
-      "athChangePct": -65.39,
-      "sma50": 1966.21,
-      "sma200": 2350.1,
-      "rsi": 40.7,
+      "athChangePct": -66.74,
+      "sma50": 1964.9,
+      "sma200": 2349.77,
+      "rsi": 35.8,
       "signal": "VENTA",
       "signalScore": -41,
       "signalReasons": [
@@ -376,20 +376,20 @@
         "Precio bajo SMA200 (tendencia larga bajista)",
         "Death cross (SMA50 < SMA200)",
         "MACD sobre señal (momentum alcista)",
-        "RSI 41: neutral"
+        "RSI 36: neutral"
       ],
       "quant": {
-        "volAnnual": 55.76,
-        "sharpe": -0.15,
-        "sortino": -0.22,
+        "volAnnual": 55.89,
+        "sharpe": -0.2,
+        "sortino": -0.29,
         "maxDrawdown": -67.52,
         "var95": -5.62,
-        "ret1m": -7.82,
-        "ret3m": -26.49,
-        "ret1y": -29.41,
-        "macd": 18.928,
+        "ret1m": -11.36,
+        "ret3m": -29.31,
+        "ret1y": -32.12,
+        "macd": 14.737,
         "macdState": "alcista",
-        "bollPctB": 56.2
+        "bollPctB": 30.3
       },
       "spark": [
         2223.59,
@@ -431,7 +431,7 @@
         1739.16,
         1704.6,
         1726.72,
-        1710.95
+        1645.28
       ],
       "currency": "USD"
     }

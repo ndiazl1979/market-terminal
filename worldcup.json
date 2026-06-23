@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T17:02:57.797252+00:00",
+  "updated": "2026-06-23T19:13:31.607691+00:00",
   "tournament": "FIFA World Cup 2026",
   "groups": [
     {
@@ -736,6 +736,23 @@
       "name": "Group K",
       "teams": [
         {
+          "abbr": "POR",
+          "name": "Portugal",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+          "pj": 2,
+          "w": 1,
+          "d": 1,
+          "l": 0,
+          "gf": 6,
+          "ga": 1,
+          "gd": 5,
+          "pts": 4,
+          "rank": 1,
+          "group": "Group K",
+          "pos": 1,
+          "status": "Clasifica"
+        },
+        {
           "abbr": "COL",
           "name": "Colombia",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/col.png",
@@ -747,32 +764,15 @@
           "ga": 1,
           "gd": 2,
           "pts": 3,
-          "rank": 1,
-          "group": "Group K",
-          "pos": 1,
-          "status": "Clasifica"
-        },
-        {
-          "abbr": "COD",
-          "name": "Congo DR",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rdc.png",
-          "pj": 1,
-          "w": 0,
-          "d": 1,
-          "l": 0,
-          "gf": 1,
-          "ga": 1,
-          "gd": 0,
-          "pts": 1,
           "rank": 2,
           "group": "Group K",
           "pos": 2,
           "status": "Clasifica"
         },
         {
-          "abbr": "POR",
-          "name": "Portugal",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+          "abbr": "COD",
+          "name": "Congo DR",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rdc.png",
           "pj": 1,
           "w": 0,
           "d": 1,
@@ -790,13 +790,13 @@
           "abbr": "UZB",
           "name": "Uzbekistan",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uzb.png",
-          "pj": 1,
+          "pj": 2,
           "w": 0,
           "d": 0,
-          "l": 1,
+          "l": 2,
           "gf": 1,
-          "ga": 3,
-          "gd": -2,
+          "ga": 8,
+          "gd": -7,
           "pts": 0,
           "rank": 4,
           "group": "Group K",
@@ -953,9 +953,9 @@
       "status": "Clasifica"
     },
     {
-      "abbr": "POR",
-      "name": "Portugal",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+      "abbr": "COD",
+      "name": "Congo DR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rdc.png",
       "group": "Group K",
       "pj": 1,
       "pts": 1,
@@ -1218,15 +1218,15 @@
     {
       "id": "760461",
       "date": "2026-06-23T17:00Z",
-      "state": "in",
-      "detail": "3'",
+      "state": "post",
+      "detail": "FT",
       "round": "Group K",
       "home": {
         "abbr": "POR",
         "name": "Portugal",
         "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
         "id": "482",
-        "score": "0"
+        "score": "5"
       },
       "away": {
         "abbr": "UZB",
@@ -1234,61 +1234,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uzb.png",
         "id": "2570",
         "score": "0"
-      },
-      "pred": {
-        "pHome": 80.6,
-        "pDraw": 12.2,
-        "pAway": 7.2,
-        "over": {
-          "1.5": 85.5,
-          "2.5": 67.0,
-          "3.5": 45.2
-        },
-        "under": {
-          "1.5": 14.5,
-          "2.5": 33.0,
-          "3.5": 54.8
-        },
-        "btts": 46.7,
-        "topScores": [
-          {
-            "score": "2-0",
-            "p": 12.0
-          },
-          {
-            "score": "3-0",
-            "p": 11.1
-          },
-          {
-            "score": "1-0",
-            "p": 9.1
-          }
-        ],
-        "likely": "2-0",
-        "lamHome": 2.76,
-        "lamAway": 0.7,
-        "expTotal": 3.46,
-        "ah": {
-          "fav": "home",
-          "line": -2.0,
-          "coverFav": 48.7,
-          "lineAway": 2.0,
-          "coverDog": 51.3
-        },
-        "sot": {
-          "home": 8.6,
-          "away": 2.2,
-          "total": 10.8,
-          "shotsHome": 20.5,
-          "shotsAway": 5.2
-        },
-        "eloHome": 2010,
-        "eloAway": 1640,
-        "confidence": 80.6
-      },
-      "odds": null,
-      "bets": [],
-      "rec": null
+      }
     },
     {
       "id": "760458",
@@ -1364,15 +1310,15 @@
       "odds": {
         "source": "DraftKings",
         "details": "ENG -2.5",
-        "mlHome": -525,
+        "mlHome": -550,
         "mlAway": 1500,
-        "mlDraw": 600.0,
+        "mlDraw": 650.0,
         "spread": -2.5,
-        "spreadHome": 135.0,
+        "spreadHome": 140.0,
         "spreadAway": -175.0,
         "total": 3.5,
-        "overOdds": 140.0,
-        "underOdds": -175.0
+        "overOdds": 135.0,
+        "underOdds": -170.0
       },
       "bets": [
         {
@@ -1380,20 +1326,20 @@
           "label": "Gana local",
           "sel": "1",
           "pModel": 70.1,
-          "pFair": 75.2,
-          "implied": 80.4,
-          "odds": 1.19,
-          "ev": -10.4
+          "pFair": 75.7,
+          "implied": 81.2,
+          "odds": 1.18,
+          "ev": -10.6
         },
         {
           "market": "1X2",
           "label": "Empate",
           "sel": "X",
           "pModel": 16.8,
-          "pFair": 15.2,
-          "implied": 13.7,
-          "odds": 7.0,
-          "ev": 6.6
+          "pFair": 14.8,
+          "implied": 12.8,
+          "odds": 7.5,
+          "ev": 11.0
         },
         {
           "market": "1X2",
@@ -1403,47 +1349,47 @@
           "pFair": 9.5,
           "implied": 6.0,
           "odds": 16.0,
-          "ev": 52.6
+          "ev": 52.8
         },
         {
           "market": "Total 3.5",
           "label": "Más de 3.5",
           "sel": "O",
           "pModel": 39.3,
-          "pFair": 39.4,
-          "implied": 39.6,
-          "odds": 2.4,
-          "ev": -5.4
+          "pFair": 39.8,
+          "implied": 40.3,
+          "odds": 2.35,
+          "ev": -6.4
         },
         {
           "market": "Total 3.5",
           "label": "Menos de 3.5",
           "sel": "U",
           "pModel": 60.7,
-          "pFair": 60.6,
-          "implied": 60.4,
-          "odds": 1.57,
-          "ev": -4.8
+          "pFair": 60.2,
+          "implied": 59.7,
+          "odds": 1.59,
+          "ev": -4.4
         },
         {
           "market": "Hándicap -2.5 L",
           "label": "Local -2.5",
           "sel": "H",
           "pModel": 25.8,
-          "pFair": 32.9,
-          "implied": 40.1,
-          "odds": 2.35,
-          "ev": -22.6
+          "pFair": 32.7,
+          "implied": 39.6,
+          "odds": 2.4,
+          "ev": -21.5
         },
         {
           "market": "Hándicap +2.5 V",
           "label": "Visita +2.5",
           "sel": "A",
           "pModel": 74.2,
-          "pFair": 67.1,
-          "implied": 59.9,
+          "pFair": 67.3,
+          "implied": 60.4,
           "odds": 1.57,
-          "ev": 5.4
+          "ev": 5.8
         }
       ],
       "rec": {
@@ -1451,11 +1397,11 @@
         "label": "Visita +2.5",
         "sel": "A",
         "pModel": 74.2,
-        "pFair": 67.1,
-        "implied": 59.9,
+        "pFair": 67.3,
+        "implied": 60.4,
         "odds": 1.57,
-        "ev": 5.4,
-        "stability": 3.6
+        "ev": 5.8,
+        "stability": 3.9
       }
     },
     {
@@ -1532,12 +1478,12 @@
       "odds": {
         "source": "DraftKings",
         "details": "CRO -1.5",
-        "mlHome": 600,
-        "mlAway": -205,
-        "mlDraw": 340.0,
+        "mlHome": 650,
+        "mlAway": -220,
+        "mlDraw": 360.0,
         "spread": 1.5,
-        "spreadHome": -155.0,
-        "spreadAway": 125.0,
+        "spreadHome": -150.0,
+        "spreadAway": 115.0,
         "total": 2.5,
         "overOdds": -150.0,
         "underOdds": 120.0
@@ -1548,30 +1494,30 @@
           "label": "Gana local",
           "sel": "1",
           "pModel": 22.5,
-          "pFair": 18.1,
-          "implied": 13.7,
-          "odds": 7.0,
-          "ev": 26.7
+          "pFair": 17.7,
+          "implied": 12.8,
+          "odds": 7.5,
+          "ev": 32.5
         },
         {
           "market": "1X2",
           "label": "Empate",
           "sel": "X",
           "pModel": 20.7,
-          "pFair": 21.3,
-          "implied": 21.8,
-          "odds": 4.4,
-          "ev": -6.5
+          "pFair": 20.8,
+          "implied": 20.9,
+          "odds": 4.6,
+          "ev": -4.2
         },
         {
           "market": "1X2",
           "label": "Gana visita",
           "sel": "2",
           "pModel": 56.8,
-          "pFair": 60.6,
-          "implied": 64.5,
-          "odds": 1.49,
-          "ev": -9.8
+          "pFair": 61.5,
+          "implied": 66.2,
+          "odds": 1.45,
+          "ev": -10.5
         },
         {
           "market": "Total 2.5",
@@ -1598,20 +1544,20 @@
           "label": "Local +1.5",
           "sel": "H",
           "pModel": 66.9,
-          "pFair": 62.4,
-          "implied": 57.8,
-          "odds": 1.65,
-          "ev": 2.6
+          "pFair": 61.6,
+          "implied": 56.3,
+          "odds": 1.67,
+          "ev": 2.7
         },
         {
           "market": "Hándicap -1.5 V",
           "label": "Visita -1.5",
           "sel": "A",
           "pModel": 33.1,
-          "pFair": 37.6,
-          "implied": 42.2,
-          "odds": 2.25,
-          "ev": -15.3
+          "pFair": 38.4,
+          "implied": 43.7,
+          "odds": 2.15,
+          "ev": -17.5
         }
       ],
       "rec": {
@@ -1619,11 +1565,11 @@
         "label": "Local +1.5",
         "sel": "H",
         "pModel": 66.9,
-        "pFair": 62.4,
-        "implied": 57.8,
-        "odds": 1.65,
-        "ev": 2.6,
-        "stability": 1.6
+        "pFair": 61.6,
+        "implied": 56.3,
+        "odds": 1.67,
+        "ev": 2.7,
+        "stability": 1.7
       }
     },
     {
@@ -1700,15 +1646,15 @@
       "odds": {
         "source": "DraftKings",
         "details": "COL -0.5",
-        "mlHome": -190,
+        "mlHome": -180,
         "mlAway": 600,
         "mlDraw": 300.0,
         "spread": -0.5,
-        "spreadHome": -195.0,
+        "spreadHome": -190.0,
         "spreadAway": 150.0,
         "total": 2.5,
-        "overOdds": 115.0,
-        "underOdds": -140.0
+        "overOdds": 120.0,
+        "underOdds": -145.0
       },
       "bets": [
         {
@@ -1716,20 +1662,20 @@
           "label": "Gana local",
           "sel": "1",
           "pModel": 67.3,
-          "pFair": 64.9,
-          "implied": 62.5,
-          "odds": 1.53,
-          "ev": -0.9
+          "pFair": 64.7,
+          "implied": 62.1,
+          "odds": 1.56,
+          "ev": 0.6
         },
         {
           "market": "1X2",
           "label": "Empate",
           "sel": "X",
           "pModel": 18.3,
-          "pFair": 21.1,
-          "implied": 23.9,
+          "pFair": 21.2,
+          "implied": 24.1,
           "odds": 4.0,
-          "ev": -15.7
+          "ev": -15.1
         },
         {
           "market": "1X2",
@@ -1737,49 +1683,49 @@
           "sel": "2",
           "pModel": 14.3,
           "pFair": 14.0,
-          "implied": 13.6,
+          "implied": 13.8,
           "odds": 7.0,
-          "ev": -2.2
+          "ev": -1.7
         },
         {
           "market": "Total 2.5",
           "label": "Más de 2.5",
           "sel": "O",
           "pModel": 56.8,
-          "pFair": 50.6,
-          "implied": 44.4,
-          "odds": 2.15,
-          "ev": 8.7
+          "pFair": 50.1,
+          "implied": 43.4,
+          "odds": 2.2,
+          "ev": 10.3
         },
         {
           "market": "Total 2.5",
           "label": "Menos de 2.5",
           "sel": "U",
           "pModel": 43.2,
-          "pFair": 49.4,
-          "implied": 55.6,
-          "odds": 1.71,
-          "ev": -15.3
+          "pFair": 49.9,
+          "implied": 56.6,
+          "odds": 1.69,
+          "ev": -15.7
         },
         {
           "market": "Hándicap -0.5 L",
           "label": "Local -0.5",
           "sel": "H",
           "pModel": 67.3,
-          "pFair": 64.8,
-          "implied": 62.3,
-          "odds": 1.51,
-          "ev": -1.9
+          "pFair": 64.7,
+          "implied": 62.1,
+          "odds": 1.53,
+          "ev": -1.2
         },
         {
           "market": "Hándicap +0.5 V",
           "label": "Visita +0.5",
           "sel": "A",
           "pModel": 32.7,
-          "pFair": 35.2,
-          "implied": 37.7,
+          "pFair": 35.3,
+          "implied": 37.9,
           "odds": 2.5,
-          "ev": -12.0
+          "ev": -11.8
         }
       ],
       "rec": {
@@ -1787,11 +1733,11 @@
         "label": "Más de 2.5",
         "sel": "O",
         "pModel": 56.8,
-        "pFair": 50.6,
-        "implied": 44.4,
-        "odds": 2.15,
-        "ev": 8.7,
-        "stability": 4.4
+        "pFair": 50.1,
+        "implied": 43.4,
+        "odds": 2.2,
+        "ev": 10.3,
+        "stability": 5.2
       }
     },
     {
@@ -1875,8 +1821,8 @@
         "spreadHome": 105.0,
         "spreadAway": -130.0,
         "total": 2.5,
-        "overOdds": -170.0,
-        "underOdds": 135.0
+        "overOdds": -175.0,
+        "underOdds": 140.0
       },
       "bets": [
         {
@@ -1914,20 +1860,20 @@
           "label": "Más de 2.5",
           "sel": "O",
           "pModel": 61.9,
-          "pFair": 60.8,
-          "implied": 59.7,
-          "odds": 1.59,
-          "ev": -3.5
+          "pFair": 61.2,
+          "implied": 60.4,
+          "odds": 1.57,
+          "ev": -3.9
         },
         {
           "market": "Total 2.5",
           "label": "Menos de 2.5",
           "sel": "U",
           "pModel": 38.1,
-          "pFair": 39.2,
-          "implied": 40.3,
-          "odds": 2.35,
-          "ev": -7.8
+          "pFair": 38.8,
+          "implied": 39.6,
+          "odds": 2.4,
+          "ev": -6.8
         },
         {
           "market": "Hándicap -1.5 L",
@@ -2716,7 +2662,7 @@
         "spreadAway": -155.0,
         "total": 2.5,
         "overOdds": 105.0,
-        "underOdds": -135.0
+        "underOdds": -130.0
       },
       "bets": [
         {
@@ -2754,20 +2700,20 @@
           "label": "Más de 2.5",
           "sel": "O",
           "pModel": 41.7,
-          "pFair": 43.8,
-          "implied": 45.9,
+          "pFair": 44.0,
+          "implied": 46.3,
           "odds": 2.05,
-          "ev": -10.2
+          "ev": -9.8
         },
         {
           "market": "Total 2.5",
           "label": "Menos de 2.5",
           "sel": "U",
           "pModel": 58.3,
-          "pFair": 56.2,
-          "implied": 54.1,
-          "odds": 1.74,
-          "ev": -2.2
+          "pFair": 56.0,
+          "implied": 53.7,
+          "odds": 1.77,
+          "ev": -0.9
         },
         {
           "market": "Hándicap +0.5 L",
@@ -3219,7 +3165,7 @@
         "spreadHome": -115.0,
         "spreadAway": -110.0,
         "total": 2.5,
-        "overOdds": -125.0,
+        "overOdds": -130.0,
         "underOdds": 105.0
       },
       "bets": [
@@ -3258,20 +3204,20 @@
           "label": "Más de 2.5",
           "sel": "O",
           "pModel": 77.8,
-          "pFair": 65.5,
-          "implied": 53.2,
-          "odds": 1.8,
-          "ev": 17.9
+          "pFair": 65.7,
+          "implied": 53.7,
+          "odds": 1.77,
+          "ev": 16.3
         },
         {
           "market": "Total 2.5",
           "label": "Menos de 2.5",
           "sel": "U",
           "pModel": 22.2,
-          "pFair": 34.5,
-          "implied": 46.8,
+          "pFair": 34.3,
+          "implied": 46.3,
           "odds": 2.05,
-          "ev": -29.3
+          "ev": -29.8
         },
         {
           "market": "Hándicap -0.5 L",
@@ -3299,11 +3245,11 @@
         "label": "Más de 2.5",
         "sel": "O",
         "pModel": 77.8,
-        "pFair": 65.5,
-        "implied": 53.2,
-        "odds": 1.8,
-        "ev": 17.9,
-        "stability": 11.7
+        "pFair": 65.7,
+        "implied": 53.7,
+        "odds": 1.77,
+        "ev": 16.3,
+        "stability": 10.7
       }
     },
     {
@@ -3552,10 +3498,10 @@
         "mlAway": 295,
         "mlDraw": 120.0,
         "spread": -0.5,
-        "spreadHome": 180.0,
-        "spreadAway": -230.0,
+        "spreadHome": 185.0,
+        "spreadAway": -235.0,
         "total": 1.5,
-        "overOdds": -160.0,
+        "overOdds": -155.0,
         "underOdds": 125.0
       },
       "bets": [
@@ -3594,40 +3540,40 @@
           "label": "Más de 1.5",
           "sel": "O",
           "pModel": 72.1,
-          "pFair": 65.1,
-          "implied": 58.1,
-          "odds": 1.62,
-          "ev": 5.8
+          "pFair": 64.9,
+          "implied": 57.8,
+          "odds": 1.65,
+          "ev": 6.8
         },
         {
           "market": "Total 1.5",
           "label": "Menos de 1.5",
           "sel": "U",
           "pModel": 27.9,
-          "pFair": 34.9,
-          "implied": 41.9,
+          "pFair": 35.1,
+          "implied": 42.2,
           "odds": 2.25,
-          "ev": -21.4
+          "ev": -21.1
         },
         {
           "market": "Hándicap -0.5 L",
           "label": "Local -0.5",
           "sel": "H",
           "pModel": 30.2,
-          "pFair": 32.1,
-          "implied": 33.9,
-          "odds": 2.8,
-          "ev": -10.3
+          "pFair": 31.8,
+          "implied": 33.3,
+          "odds": 2.85,
+          "ev": -9.4
         },
         {
           "market": "Hándicap +0.5 V",
           "label": "Visita +0.5",
           "sel": "A",
           "pModel": 69.8,
-          "pFair": 67.9,
-          "implied": 66.1,
+          "pFair": 68.2,
+          "implied": 66.7,
           "odds": 1.43,
-          "ev": -2.5
+          "ev": -2.8
         }
       ],
       "rec": {
@@ -3635,11 +3581,11 @@
         "label": "Más de 1.5",
         "sel": "O",
         "pModel": 72.1,
-        "pFair": 65.1,
-        "implied": 58.1,
-        "odds": 1.62,
-        "ev": 5.8,
-        "stability": 3.8
+        "pFair": 64.9,
+        "implied": 57.8,
+        "odds": 1.65,
+        "ev": 6.8,
+        "stability": 4.4
       }
     },
     {
@@ -3884,7 +3830,7 @@
       "odds": {
         "source": "DraftKings",
         "details": "FRA -0.5",
-        "mlHome": 400,
+        "mlHome": 425,
         "mlAway": -160,
         "mlDraw": 330.0,
         "spread": 0.5,
@@ -3900,30 +3846,30 @@
           "label": "Gana local",
           "sel": "1",
           "pModel": 11.9,
-          "pFair": 15.5,
-          "implied": 19.1,
-          "odds": 5.0,
-          "ev": -22.5
+          "pFair": 15.1,
+          "implied": 18.3,
+          "odds": 5.25,
+          "ev": -20.6
         },
         {
           "market": "1X2",
           "label": "Empate",
           "sel": "X",
           "pModel": 14.9,
-          "pFair": 18.5,
-          "implied": 22.2,
+          "pFair": 18.6,
+          "implied": 22.4,
           "odds": 4.3,
-          "ev": -20.3
+          "ev": -19.8
         },
         {
           "market": "1X2",
           "label": "Gana visita",
           "sel": "2",
           "pModel": 73.3,
-          "pFair": 66.0,
-          "implied": 58.7,
+          "pFair": 66.3,
+          "implied": 59.3,
           "odds": 1.62,
-          "ev": 7.3
+          "ev": 7.7
         },
         {
           "market": "Total 2.5",
@@ -3971,11 +3917,11 @@
         "label": "Gana visita",
         "sel": "2",
         "pModel": 73.3,
-        "pFair": 66.0,
-        "implied": 58.7,
+        "pFair": 66.3,
+        "implied": 59.3,
         "odds": 1.62,
-        "ev": 7.3,
-        "stability": 4.8
+        "ev": 7.7,
+        "stability": 5.1
       }
     },
     {
@@ -4052,15 +3998,15 @@
       "odds": {
         "source": "DraftKings",
         "details": "SEN -1.5",
-        "mlHome": -425,
+        "mlHome": -450,
         "mlAway": 1100,
-        "mlDraw": 550.0,
+        "mlDraw": 600.0,
         "spread": -1.5,
         "spreadHome": -150.0,
         "spreadAway": 120.0,
         "total": 3.5,
         "overOdds": 135.0,
-        "underOdds": -170.0
+        "underOdds": -165.0
       },
       "bets": [
         {
@@ -4068,20 +4014,20 @@
           "label": "Gana local",
           "sel": "1",
           "pModel": 65.2,
-          "pFair": 71.3,
-          "implied": 77.3,
-          "odds": 1.24,
-          "ev": -12.0
+          "pFair": 71.8,
+          "implied": 78.3,
+          "odds": 1.22,
+          "ev": -12.3
         },
         {
           "market": "1X2",
           "label": "Empate",
           "sel": "X",
           "pModel": 17.1,
-          "pFair": 15.9,
-          "implied": 14.7,
-          "odds": 6.5,
-          "ev": 3.3
+          "pFair": 15.4,
+          "implied": 13.7,
+          "odds": 7.0,
+          "ev": 7.7
         },
         {
           "market": "1X2",
@@ -4091,27 +4037,27 @@
           "pFair": 12.9,
           "implied": 8.0,
           "odds": 12.0,
-          "ev": 54.6
+          "ev": 54.7
         },
         {
           "market": "Total 3.5",
           "label": "Más de 3.5",
           "sel": "O",
           "pModel": 50.8,
-          "pFair": 45.6,
-          "implied": 40.3,
+          "pFair": 45.7,
+          "implied": 40.6,
           "odds": 2.35,
-          "ev": 7.1
+          "ev": 7.4
         },
         {
           "market": "Total 3.5",
           "label": "Menos de 3.5",
           "sel": "U",
           "pModel": 49.2,
-          "pFair": 54.4,
-          "implied": 59.7,
-          "odds": 1.59,
-          "ev": -13.5
+          "pFair": 54.3,
+          "implied": 59.4,
+          "odds": 1.61,
+          "ev": -12.8
         },
         {
           "market": "Hándicap -1.5 L",
@@ -4724,14 +4670,14 @@
       "odds": {
         "source": "DraftKings",
         "details": "BEL -1.5",
-        "mlHome": 1300,
-        "mlAway": -500,
-        "mlDraw": 600.0,
+        "mlHome": 1400,
+        "mlAway": -525,
+        "mlDraw": 650.0,
         "spread": 1.5,
-        "spreadHome": 135.0,
-        "spreadAway": -170.0,
+        "spreadHome": 140.0,
+        "spreadAway": -180.0,
         "total": 3.5,
-        "overOdds": 140.0,
+        "overOdds": 135.0,
         "underOdds": -170.0
       },
       "bets": [
@@ -4740,70 +4686,70 @@
           "label": "Gana local",
           "sel": "1",
           "pModel": 8.1,
-          "pFair": 7.5,
-          "implied": 6.8,
-          "odds": 14.0,
-          "ev": 4.4
+          "pFair": 7.3,
+          "implied": 6.4,
+          "odds": 15.0,
+          "ev": 8.8
         },
         {
           "market": "1X2",
           "label": "Empate",
           "sel": "X",
           "pModel": 14.1,
-          "pFair": 13.9,
-          "implied": 13.6,
-          "odds": 7.0,
-          "ev": -2.9
+          "pFair": 13.5,
+          "implied": 12.8,
+          "odds": 7.5,
+          "ev": 1.0
         },
         {
           "market": "1X2",
           "label": "Gana visita",
           "sel": "2",
           "pModel": 77.9,
-          "pFair": 78.7,
-          "implied": 79.5,
-          "odds": 1.2,
-          "ev": -5.5
+          "pFair": 79.3,
+          "implied": 80.8,
+          "odds": 1.19,
+          "ev": -5.6
         },
         {
           "market": "Total 3.5",
           "label": "Más de 3.5",
           "sel": "O",
           "pModel": 37.3,
-          "pFair": 38.6,
-          "implied": 39.8,
-          "odds": 2.4,
-          "ev": -7.5
+          "pFair": 38.8,
+          "implied": 40.3,
+          "odds": 2.35,
+          "ev": -8.8
         },
         {
           "market": "Total 3.5",
           "label": "Menos de 3.5",
           "sel": "U",
           "pModel": 62.7,
-          "pFair": 61.4,
-          "implied": 60.2,
+          "pFair": 61.2,
+          "implied": 59.7,
           "odds": 1.59,
-          "ev": -2.4
+          "ev": -2.8
         },
         {
           "market": "Hándicap +1.5 L",
           "label": "Local +1.5",
           "sel": "H",
           "pModel": 45.0,
-          "pFair": 42.7,
-          "implied": 40.3,
-          "odds": 2.35,
-          "ev": 0.3
+          "pFair": 42.2,
+          "implied": 39.3,
+          "odds": 2.4,
+          "ev": 1.2
         },
         {
           "market": "Hándicap -1.5 V",
           "label": "Visita -1.5",
           "sel": "A",
           "pModel": 55.0,
-          "pFair": 57.3,
-          "implied": 59.7,
-          "odds": 1.59,
-          "ev": -8.9
+          "pFair": 57.8,
+          "implied": 60.7,
+          "odds": 1.56,
+          "ev": -10.0
         }
       ],
       "rec": {
@@ -4811,11 +4757,11 @@
         "label": "Local +1.5",
         "sel": "H",
         "pModel": 45.0,
-        "pFair": 42.7,
-        "implied": 40.3,
-        "odds": 2.35,
-        "ev": 0.3,
-        "stability": 0.1
+        "pFair": 42.2,
+        "implied": 39.3,
+        "odds": 2.4,
+        "ev": 1.2,
+        "stability": 0.5
       }
     },
     {
@@ -4892,12 +4838,12 @@
       "odds": {
         "source": "DraftKings",
         "details": "CRO -0.5",
-        "mlHome": -150,
+        "mlHome": -145,
         "mlAway": 475,
-        "mlDraw": 275.0,
+        "mlDraw": 260.0,
         "spread": -0.5,
-        "spreadHome": -160.0,
-        "spreadAway": 125.0,
+        "spreadHome": -155.0,
+        "spreadAway": 120.0,
         "total": 2.5,
         "overOdds": 110.0,
         "underOdds": -135.0
@@ -4908,20 +4854,20 @@
           "label": "Gana local",
           "sel": "1",
           "pModel": 43.7,
-          "pFair": 50.7,
-          "implied": 57.7,
-          "odds": 1.67,
-          "ev": -15.5
+          "pFair": 50.2,
+          "implied": 56.7,
+          "odds": 1.69,
+          "ev": -15.2
         },
         {
           "market": "1X2",
           "label": "Empate",
           "sel": "X",
           "pModel": 22.9,
-          "pFair": 24.3,
-          "implied": 25.6,
-          "odds": 3.75,
-          "ev": -9.0
+          "pFair": 24.8,
+          "implied": 26.6,
+          "odds": 3.6,
+          "ev": -10.9
         },
         {
           "market": "1X2",
@@ -4931,7 +4877,7 @@
           "pFair": 25.1,
           "implied": 16.7,
           "odds": 5.75,
-          "ev": 44.4
+          "ev": 44.2
         },
         {
           "market": "Total 2.5",
@@ -4958,20 +4904,20 @@
           "label": "Local -0.5",
           "sel": "H",
           "pModel": 43.7,
-          "pFair": 50.9,
-          "implied": 58.1,
-          "odds": 1.62,
-          "ev": -17.3
+          "pFair": 50.4,
+          "implied": 57.2,
+          "odds": 1.65,
+          "ev": -17.0
         },
         {
           "market": "Hándicap +0.5 V",
           "label": "Visita +0.5",
           "sel": "A",
           "pModel": 56.3,
-          "pFair": 49.1,
-          "implied": 41.9,
-          "odds": 2.25,
-          "ev": 10.5
+          "pFair": 49.6,
+          "implied": 42.8,
+          "odds": 2.2,
+          "ev": 9.0
         }
       ],
       "rec": {
@@ -4979,11 +4925,11 @@
         "label": "Visita +0.5",
         "sel": "A",
         "pModel": 56.3,
-        "pFair": 49.1,
-        "implied": 41.9,
-        "odds": 2.25,
-        "ev": 10.5,
-        "stability": 5.2
+        "pFair": 49.6,
+        "implied": 42.8,
+        "odds": 2.2,
+        "ev": 9.0,
+        "stability": 4.5
       }
     },
     {
@@ -5082,55 +5028,55 @@
         "score": "0"
       },
       "pred": {
-        "pHome": 31.0,
-        "pDraw": 23.8,
-        "pAway": 45.2,
+        "pHome": 22.3,
+        "pDraw": 21.7,
+        "pAway": 56.0,
         "over": {
-          "1.5": 75.3,
-          "2.5": 51.8,
-          "3.5": 29.6
+          "1.5": 77.2,
+          "2.5": 54.4,
+          "3.5": 32.0
         },
         "under": {
-          "1.5": 24.7,
-          "2.5": 48.2,
-          "3.5": 70.4
+          "1.5": 22.8,
+          "2.5": 45.6,
+          "3.5": 68.0
         },
-        "btts": 54.4,
+        "btts": 53.5,
         "topScores": [
           {
-            "score": "1-1",
-            "p": 11.2
+            "score": "0-1",
+            "p": 11.1
           },
           {
-            "score": "0-1",
-            "p": 10.5
+            "score": "1-1",
+            "p": 10.2
           },
           {
             "score": "1-2",
-            "p": 9.1
+            "p": 9.9
           }
         ],
-        "likely": "1-1",
-        "lamHome": 1.22,
-        "lamAway": 1.53,
-        "expTotal": 2.75,
+        "likely": "0-1",
+        "lamHome": 1.04,
+        "lamAway": 1.81,
+        "expTotal": 2.86,
         "ah": {
           "fav": "away",
-          "line": -0.25,
-          "coverFav": 45.2,
-          "lineAway": 0.25,
-          "coverDog": 54.8
+          "line": -0.75,
+          "coverFav": 56.0,
+          "lineAway": 0.75,
+          "coverDog": 44.0
         },
         "sot": {
-          "home": 3.8,
-          "away": 4.8,
-          "total": 8.6,
-          "shotsHome": 9.1,
-          "shotsAway": 11.4
+          "home": 3.3,
+          "away": 5.7,
+          "total": 8.9,
+          "shotsHome": 7.8,
+          "shotsAway": 13.5
         },
         "eloHome": 1880,
         "eloAway": 2010,
-        "confidence": 45.2
+        "confidence": 56.0
       },
       "odds": null,
       "bets": [],
@@ -5157,55 +5103,55 @@
         "score": "0"
       },
       "pred": {
-        "pHome": 45.0,
-        "pDraw": 23.9,
-        "pAway": 31.2,
+        "pHome": 59.1,
+        "pDraw": 20.5,
+        "pAway": 20.4,
         "over": {
-          "1.5": 75.0,
-          "2.5": 51.5,
-          "3.5": 29.4
+          "1.5": 79.4,
+          "2.5": 57.5,
+          "3.5": 35.1
         },
         "under": {
-          "1.5": 25.0,
-          "2.5": 48.5,
-          "3.5": 70.6
+          "1.5": 20.6,
+          "2.5": 42.5,
+          "3.5": 64.9
         },
-        "btts": 54.2,
+        "btts": 54.9,
         "topScores": [
           {
-            "score": "1-1",
-            "p": 11.3
-          },
-          {
             "score": "1-0",
-            "p": 10.6
+            "p": 10.4
           },
           {
             "score": "2-1",
-            "p": 9.1
+            "p": 9.9
+          },
+          {
+            "score": "1-1",
+            "p": 9.6
           }
         ],
-        "likely": "1-1",
-        "lamHome": 1.52,
-        "lamAway": 1.22,
-        "expTotal": 2.73,
+        "likely": "1-0",
+        "lamHome": 1.95,
+        "lamAway": 1.04,
+        "expTotal": 2.99,
         "ah": {
           "fav": "home",
-          "line": -0.25,
-          "coverFav": 45.0,
-          "lineAway": 0.25,
-          "coverDog": 55.0
+          "line": -1.0,
+          "coverFav": 46.0,
+          "lineAway": 1.0,
+          "coverDog": 54.0
         },
         "sot": {
-          "home": 4.7,
-          "away": 3.8,
-          "total": 8.5,
-          "shotsHome": 11.3,
-          "shotsAway": 9.0
+          "home": 6.1,
+          "away": 3.3,
+          "total": 9.4,
+          "shotsHome": 14.5,
+          "shotsAway": 7.8
         },
         "eloHome": 1640,
         "eloAway": 1640,
-        "confidence": 45.0
+        "confidence": 59.1
       },
       "odds": null,
       "bets": [],
@@ -6889,11 +6835,11 @@
       "awayName": "Sweden",
       "market": "Total 2.5",
       "label": "Más de 2.5",
-      "odds": 1.8,
+      "odds": 1.77,
       "pModel": 77.8,
-      "pFair": 65.5,
-      "ev": 17.9,
-      "stability": 11.7
+      "pFair": 65.7,
+      "ev": 16.3,
+      "stability": 10.7
     },
     {
       "id": "760468",
@@ -6960,20 +6906,36 @@
       "stability": 6.2
     },
     {
-      "id": "760480",
-      "date": "2026-06-27T21:00Z",
-      "round": "Group L",
-      "home": "CRO",
-      "away": "GHA",
-      "homeName": "Croatia",
-      "awayName": "Ghana",
-      "market": "Hándicap +0.5 V",
-      "label": "Visita +0.5",
-      "odds": 2.25,
-      "pModel": 56.3,
-      "pFair": 49.1,
-      "ev": 10.5,
+      "id": "760459",
+      "date": "2026-06-24T02:00Z",
+      "round": "Group K",
+      "home": "COL",
+      "away": "COD",
+      "homeName": "Colombia",
+      "awayName": "Congo DR",
+      "market": "Total 2.5",
+      "label": "Más de 2.5",
+      "odds": 2.2,
+      "pModel": 56.8,
+      "pFair": 50.1,
+      "ev": 10.3,
       "stability": 5.2
+    },
+    {
+      "id": "760475",
+      "date": "2026-06-26T19:00Z",
+      "round": "Group I",
+      "home": "NOR",
+      "away": "FRA",
+      "homeName": "Norway",
+      "awayName": "France",
+      "market": "1X2",
+      "label": "Gana visita",
+      "odds": 1.62,
+      "pModel": 73.3,
+      "pFair": 66.3,
+      "ev": 7.7,
+      "stability": 5.1
     },
     {
       "id": "760474",
@@ -6992,36 +6954,20 @@
       "stability": 4.9
     },
     {
-      "id": "760475",
-      "date": "2026-06-26T19:00Z",
-      "round": "Group I",
-      "home": "NOR",
-      "away": "FRA",
-      "homeName": "Norway",
-      "awayName": "France",
-      "market": "1X2",
-      "label": "Gana visita",
-      "odds": 1.62,
-      "pModel": 73.3,
-      "pFair": 66.0,
-      "ev": 7.3,
-      "stability": 4.8
-    },
-    {
-      "id": "760459",
-      "date": "2026-06-24T02:00Z",
-      "round": "Group K",
-      "home": "COL",
-      "away": "COD",
-      "homeName": "Colombia",
-      "awayName": "Congo DR",
-      "market": "Total 2.5",
-      "label": "Más de 2.5",
-      "odds": 2.15,
-      "pModel": 56.8,
-      "pFair": 50.6,
-      "ev": 8.7,
-      "stability": 4.4
+      "id": "760480",
+      "date": "2026-06-27T21:00Z",
+      "round": "Group L",
+      "home": "CRO",
+      "away": "GHA",
+      "homeName": "Croatia",
+      "awayName": "Ghana",
+      "market": "Hándicap +0.5 V",
+      "label": "Visita +0.5",
+      "odds": 2.2,
+      "pModel": 56.3,
+      "pFair": 49.6,
+      "ev": 9.0,
+      "stability": 4.5
     },
     {
       "id": "760469",
@@ -7033,11 +6979,11 @@
       "awayName": "Australia",
       "market": "Total 1.5",
       "label": "Más de 1.5",
-      "odds": 1.62,
+      "odds": 1.65,
       "pModel": 72.1,
-      "pFair": 65.1,
-      "ev": 5.8,
-      "stability": 3.8
+      "pFair": 64.9,
+      "ev": 6.8,
+      "stability": 4.4
     },
     {
       "id": "760458",
@@ -7051,9 +6997,9 @@
       "label": "Visita +2.5",
       "odds": 1.57,
       "pModel": 74.2,
-      "pFair": 67.1,
-      "ev": 5.4,
-      "stability": 3.6
+      "pFair": 67.3,
+      "ev": 5.8,
+      "stability": 3.9
     }
   ]
 }

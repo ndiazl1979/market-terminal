@@ -1,10 +1,48 @@
 {
-  "updated": "2026-06-25T19:20:25.850081+00:00",
+  "updated": "2026-06-25T21:08:15.530975+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Elon Musk perdió su estatus como el primer “billonario” de la historia: caen acciones de SpaceX y Tesla",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMkMxa0JQNkRZV0FYOXBLckxtR0NGVEQ4TkMtNVhjTzgtdUQ0ZHV3QlJYVV9aWklWb2JtS3VEY0dpR19pVFRiZmZQVURqZ3BXZm13cjY1VDhfUXF4aG9CT2lsanhJQm9SOHlmRGd0SEhWaDJMdkMzaEYtdlpfNk1xQ2FSSE80Z1JOMEpQMG1uUkJMdnlJSkNoc0prSzBjb1l0RlhmMjdHQXFsWEXSAcYBQVVfeXFMUFcza1U5MThNVnVFQkdSMGFmd21ITHdrUkJ3Ykp0OUxLWXh2YmV6MnRsODhSVXlXNkFVVk9hd0t0N0RsdzZhb2haR0JTMEVrVy15ai1hX0tPakhQbXRsYTNqNml0bG1XWTkwZjF5ODJFS0xyNXB0RW82Q1FEOXhvX1JINExJbk9yVlBtQkJqaHRIWnd0ajljOUlvaHlFNlc3RHlEb09yTGcxVkJUQjRBUldVcWtFcjlSdXprTXFPdzNGSHgyMmdB?oc=5",
+          "ts": 1782417764000,
+          "sentiment": -0.67,
+          "tickers": [
+            {
+              "sym": "TSLA",
+              "name": "Tesla",
+              "pct": -4.4,
+              "dir": -1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Apple aplica inédito aumento de precios por la escasez de chips; acciones caen | TECNOLOGIA",
+          "source": "gestion.pe",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNzEzckFmZU9fa1lYZHEtY3BwQzk0cGZES01sSDhLZFg0eVpIR3IwTWtEWHlUZEVKYUlNakdrZFlibzZUVFlpMUpkR1BsRlpXd2Jya2hEcktKZ2N5bGkzU0J0UTFCUktoN0drcUFNdHd0NEppSnd0dHRtVlFGYTNQd2dnU1ZBY0ViNkZ2YTg1aVVQbzRDaDVkU3ZxX18yMmNRV3p5MDV4dlc4c3cwVU9fd3JldjRwVjA?oc=5",
+          "ts": 1782416954000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": -2.0,
+              "dir": -1
+            },
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": -1.6,
+              "dir": -1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Acciones de Micron se disparan 15% tras cuadruplicar ingresos y superar a Nvidia en rentabilidad gracias a la iA",
           "source": "Comercio TV",
@@ -117,7 +155,7 @@
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": -1.6,
+              "pct": -1.4,
               "dir": -1
             }
           ],
@@ -138,50 +176,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Acciones de Nvidia pendientes de Micron: el informe que puede revelar la verdadera fuerza del boom de la IA",
-          "source": "Benzinga España",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMzRvVjFKdVVmdlRocmRielJqc3FlMXRnaWxMU3FCMnhPa1FNUXdYcEhXc3FNcXBjYklrY1BieW12a3dfcnZTNmlRYWRmekZvV2M3UU9GYklmUlg0TmE5MjhGQlk0VFgxUm1HUFZ3SUg3RXBQRUVvRVdmb0JqLVMxVVg2Z1hEbENIWlB5NHV0SmxLZlBxWTFoeTNZVGFuWEhmY3R2aHRGZ0FCSHVSR2Iw?oc=5",
-          "ts": 1782320745000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 2.5,
-              "dir": 1
-            },
-            {
-              "sym": "MU",
-              "name": "Micron",
-              "pct": 2.2,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Acciones de Micron en máximos: Anthropic, Nvidia y la IA elevan la expectativa por sus resultados",
-          "source": "Benzinga España",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXYtTU5xTUp0dW10eWRmRHQ3UVhjbzJQamVBZjhKVTM4T0FCZWxBQUFSZEMyTlpIcWRzQUlWWVpHdVBEa0ZHZ2VUVjdwVFJ6M29LazdjaDdhbnVjZmV6YjBFQjgxLW9rYWhIay1UWGZaTkhKSlJ0OWlUUzAxWUdJczBhV3hobjZjRjJQd0hfeHV0S09zN1c3YmlVTFB5bnc4TWVJZUdWY0J2RExBRUlOMkNuLUhEUQ?oc=5",
-          "ts": 1782320468000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 2.5,
-              "dir": 1
-            },
-            {
-              "sym": "MU",
-              "name": "Micron",
-              "pct": 2.2,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -189,6 +183,38 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Biolevate impulsará el descubrimiento de fármacos mediante inteligencia artificial con el kit de herramientas BioNeMo de NVIDIA",
+          "source": "MarketScreener España",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPX2pkMTNsU2ZDSGhqRkVUbmY3MVN1Qk83QUdfQ1JYVUxKc29Wcm9xbE12LUV1RU5QNWRHcjU0eFBWbTNzQlgwYkpnX0x0Z1RISVVnQTY1ek1FcmVjWGxYTGVYdm1pQUtqMmR2M3RmWG5oZlR5RHZhN19PZnVtTmZtUUNpZjZ6NjF3aVVCTmlDZDUyZW1XdGdRQWxGQXluRmEycTJEYzctNF9NR1NtVnNfQk90UTMyQUdCeElpTmVSM2FRa2ZDbzcxTEx4WXk0UmU2R2xyVkNqazZJbjJYRW5yamZUdzNYSFBsWTFF?oc=5",
+          "ts": 1782420709000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Adecco supera el millón de interacciones con candidatos impulsadas por Inteligencia Artificial",
+          "source": "Edomex Al Día",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdXNqMlFVLXdzZXUyOW5PZzNTbnhpUjVqX0RTVTNsdlVaRzRsZFFxNzF0aURnLVItNWRFd1Jzbk12TU1VNFBLZG5CYXFIaW9tNldyS1lPd0h5enBZSkNFUHhSVDlnMnJUOTdRbDh1RGFRNlY2LWgtWnhBZEpEc3ZvVjg1RGZNRVVmckQxTDZwYi1PS1JPQ185MnhlX1BNeDVaVEZoOXZiNXVNZ2pkXzQweFFhSlpxYnZqdS1R?oc=5",
+          "ts": 1782418992000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 2.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Google Finance incorpora la inteligencia artificial y estrena aplicación",
           "source": "López-Dóriga Digital",
@@ -228,16 +254,38 @@
           "category": "semis"
         },
         {
-          "title": "Diseña OpenAI su primer chip y lo nombra ‘Jalapeño’; quiere competir con NVIDIA",
-          "source": "vanguardia.com.mx",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY25VaWxsWF83aUU4NW1kS2hQSTZkYjZwUVZacHFyQlUxRmpuSVpwSi1ybVIxSG4wVDIwUkVYN3o2MWdIcGFxeGppNElVZjF5eUVydmZWcTFOM2J5aS1iMDJ0VUduajhWalNyTE5pZUZ4V3RIdmNiRDdXUXA0V3ExTEJtSWs2eGlZMWFlX1JnYVIyb0hWY0VURVpRMnJuSm10V1RFMEhkS0RQdVdITG85TElXb0RERUhtQ0E?oc=5",
-          "ts": 1782410995000,
+          "title": "“Jalapeño”, el primer chip de OpenAI diseñado para la inteligencia artificial | ChatGPT | Broadcom",
+          "source": "El Comercio Perú",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaWw4ZXhLQjVBS1F6T29GUFZJNlI4SmRUU3lwRDBJV0duNEY4NGdDVVJsVGlXdmoyNVBOVzN0dmRXZHYzelU0LTRCcDBEWmFVZkU1YWVJa2ZQd0hmVUk3c003anpGbUpCM0RMY2hLNF9rTzRLYnYxd0JMWUhKVUZCY19tMHlJX2pDVFQ3cVVPcU80S3VkaUtMQWw3Z0dIZkF1ZlMyS2tXbHlMa0E5V0pEaVR6QTU1VXBLOXJPcmNTNjRlOGNUcl9WbGFSM3dVRzZwMS1zT3RoYVh1a0JDRmNHTldlcFVJM25SdGpocmVB?oc=5",
+          "ts": 1782411018000,
           "sentiment": 0.0,
           "tickers": [
             {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
+              "sym": "AVGO",
+              "name": "Broadcom",
+              "pct": 1.3,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Micron y la gran prueba de la IA: ¿boom sostenible o nueva burbuja de Wall Street?",
+          "source": "www.revistaeyn.com",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa2xfVVZyOGlzbF9HVkdyR2dDTnpudmRjQVhleWg5Yk9EbGNCSG90eVE4b1RvaHVBN1huRkpDVzlCWURqVnBfTFo3Nk04aFVPRXVaMUItcUNsMUNfbVpzMTRfOEsxOVQ2N1R1VVVreW5RSDJ6dzd3RW1taVY3Q3Q3OTdpLUFIdmtUb04yek5HT09XNHFUdnFmUzJNMVYwamJ5SDJBU2hsSzdrYVRsSTJzLWtsMFFyaG1SeFpwZ2Y1WVpUUzZ0bG9aSjRReEdkZzQ5NnFJ?oc=5",
+          "ts": 1782410280000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "MU",
+              "name": "Micron",
+              "pct": 3.2,
+              "dir": 1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 1.3,
               "dir": 1
             }
           ],
@@ -254,22 +302,6 @@
               "sym": "AAPL",
               "name": "Apple",
               "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Las claves del poder de fijación de precios de Micron gracias a la inteligencia artificial",
-          "source": "MarketScreener España",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPemFyV1Y4ZEFwZjNLcVB1bUJXa0MtM3R6ZkZ5U2JxMFBmdzlJNnhTOU9TN1NsclRyZUpjRUU0VDJFMkpwSHEyQVNzS1p6MXlFSl9oREdkWFR4bnhBWmxVM2d2Q0F5MUVTZ1lSSnJSeVVSZGxncXBBWkZ0Rk1wUFZxWEs0LXgwazlsYjFTY3h1UmpGNUtWQWo5SmtYVDFfQ19vcDBPS2V6UDhXMnk0cnZUcmFfRGlTVmtZd2hGQnZWekh2RzkyRGtTejFrYmRGa2RwNFFqNFpNQk5odTNmaUQw?oc=5",
-          "ts": 1782408335000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "MU",
-              "name": "Micron",
-              "pct": 1.6,
               "dir": 1
             }
           ],
@@ -318,44 +350,6 @@
               "sym": "META",
               "name": "Meta",
               "pct": 1.2,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Acciones mundiales de chips se disparan tras espectaculares resultados de Micron",
-          "source": "GBM",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQWs3bGNzYkhJM1ZJcUtleU5IcGxpRmxMdFhXam9vZXRLRDVKa01IQmdYcXdJOWd4OEZLY3hEejdRUzlPMGdrNlVVem8yVjljNXV3TU5XWkpjcjhqaGVlRlR0S2FPeUpyVllUNWw5X0xhOWtnZGdvV2dxYlRVWHI2elFGaUYtY1I4UmVDVS1xUmJTUG9zc1A0THZtT0NCRm5DUFM3Q3lnaFc2ZXdLejVmVQ?oc=5",
-          "ts": 1782403597000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "MU",
-              "name": "Micron",
-              "pct": 1.6,
-              "dir": 1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Nvidia busca mejorar la seguridad de los robots humanoides dotados de inteligencia artificial en entornos compartidos con personas",
-          "source": "MarketScreener España",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOTZlRXRsakNuUlpFc2ZHejdlb2hkWmVJMXRVOHBocFFKM2g4QS1qYWM5blJBc1czNFgzS01WRUp6bllMSjIwSElvRkFUQ2wwdkRMXzBFdmVzdWlJTWxQRVJ4SkNEN1IzRUwzNXRpZUxDUGcwclVvSU0tVDEzR0lfcjdHbE5saE5uN1ZSVEFnejJvNlVRYUhyYlhvQ2RnNXFBZDhBNms1VzdKa3FGUWMtUk56eFNFbWh4TUYtb1BLb0VJb1pXM01QcHh1RjZPcjk5V21jRHNwVFVUYUs2Yy1fRmJuM1F4alVQY19LVQ?oc=5",
-          "ts": 1782402730000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
               "dir": 1
             }
           ],
@@ -512,17 +506,23 @@
           "category": "space"
         },
         {
-          "title": "Acciones de SpaceX se hunden más de 10% en Wall Street",
-          "source": "El Economista",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNEpCT285UUhDUVduQnRxQmp3ZVJNbEV3LUtkS1lGRkxqYUpkeGxReGdDcFZBTUpkQmFaaUN6eHdsREtNQnFqMlRMdVMxZ2ZQc3gzVktndmxVenAwX25OSTNKTDJ4V0FCSzV2NktmVk5PZlYzRFhWNHZ4Q1J0a1RicVJtejdoREY3SkQzOS1nUmQ2ZHNQMkh0M0ZZYzZMWmpScks4U3dB0gGmAUFVX3lxTE80SkJPbzlRSENRV25CdHFCandlUk1sRXctS2RLWUZGTGphSmR4bFF4Z0NwVkFNSmRCYVppQ3p4d2xES01CcWoyVEx1UzFnZlBzeDNWS2d2bFV6cDBfbk5JM0pMMnhXQUJLNXY2S2ZWTk9mVjNEWFY0dnhDUnRrVGJxUm16N2hERjdKRDM5LWdSZDZkc1AySHQzRlljNkxaalJySzhTd0E?oc=5",
-          "ts": 1782157400000,
-          "sentiment": -0.5,
+          "title": "La salida a bolsa de SpaceX sacude Wall Street: el efecto dominó que podría impulsar a Nvidia y todo el ecosistema de IA",
+          "source": "Benzinga España",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdjlaVUtiNmNFN0t4TTVWa0hlNWFvSlNRVkFKSHNBdHlmNkc0ZXRfOThkMm13bzNzZGhNbmxmMkhkcDhxN0J6U0NENUJrTUstNUZ3S2JZRjFkTGhLNWxPUDBJX3JHVTF1MUltWGVKVkUybk5oeUJYMmV3RWtyYzVVQzU5TEc2ay1QY2phWmRWdmN5bkQxZWZ6bW5tWWtZZzlzQUJZ?oc=5",
+          "ts": 1782149292000,
+          "sentiment": 0.0,
           "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.0,
+              "dir": 1
+            },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": -0.7,
-              "dir": -1
+              "pct": 0.4,
+              "dir": 1
             }
           ],
           "category": "space"
@@ -1144,28 +1144,6 @@
       "label": "Macro / Bolsa",
       "items": [
         {
-          "title": "Wall Street anticipa compras: el Nasdaq rebota con fuerza gracias a Micron",
-          "source": "Bolsamania",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSFlQbGsxZnVCRWQySDNFTXZBM3BPMUdzY0dRWXpnRkdFekpDajhPeWsxX0FNRS01TjBIajluYjBzZEtJcmg0ODdhR0JQMHQxM1Jsb3V3WFJXc2JFMXpFTUhWdHlaRndyazNjblNLMlFnVGFfVzVMUWRYYktLMTd4el95czVFcGVvSDVnM1FZZ19PalpSWTNPeUtZQXd0RnYzM1Rudm5Xbkw0NUI2eGVyZHQ4Z1ZPQURYVVRyVjNR0gHDAUFVX3lxTFAwaEtaVnpDU0R1TDQ3c0JDYk1XamZ1VmdSRjZPbXlBak9NMnFneWpMMmhFeGZtdHJGOXlkQjY4RDhjTUxueGJDRXEybFAzeG1KMGoySG9EU1diUFBGWWFCdE1qYkNab294ZlcxU3AtRGhMQ2tWbThBTFVWMjVlMXFLcGF6blZHNVczcUdVekY1VWpVdU50R2VQRXNHRTVZSDRZMk9SQjJhQTNkZkpIUVlPbEJ1a2ZpZFlKcXdGUWRjc3Q2Zw?oc=5",
-          "ts": 1782384037000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "MU",
-              "name": "Micron",
-              "pct": 2.7,
-              "dir": 1
-            },
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 1.1,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
-        },
-        {
           "title": "Las tecnológicas arrastran al Nasdaq y al S&P 500 en un cierre mixto en Wall Street",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMGFNazgwamFERDdkZXp3THlqRGhROUFGRGlOVHltME5IUDZaTlVDdHFCNl96WWl4WnFPZ1doRTF4dV9IX0x4aDRqUE1RLUxyYW5ncERYZThPak9kNXFmNm1HVnF1S2ljMDVMdnRJU0hrSXdEeUNZcXJZRjBLc2tESDRFVk1oV1BRRkJmZzJITGljX0NicTVIcGpyVExiTXU0d29mNERJRWgyZUQ4V3pvaV9CamhvSDNhTFRiZDhha3JHZjlQcDZtT0lJMU3SAecBQVVfeXFMT005SHR3TUxnbDlLMTR0SUZkUVVXZEl4Z0pyVmgzZkl0dHlGSTdocWJPOXZHMUh2OTR6SGRqeTJQZ1ZRSG5lY0JnNU1qZjFmMFVhckJNTTJlRjc1VGxPY3JnS0hYX0tVUWNaMVRhUGxpbE5OODBObnYwWFp4cGxmRUJ4SmhJNEtXMG1WenRBeDVWM3RWUFc1aEpSUlRaTWhSTHhpdHV5TUtsQUFtQ1VkcE83TDZYWEJ4SVFQbk1OcDFkdEZvS2FHU1VFRldZWXFqNWZkZHpHV002Z0J4RjcwM2NVay03T2tB?oc=5",
@@ -1193,6 +1171,22 @@
               "name": "Nasdaq 100",
               "pct": -0.7,
               "dir": -1
+            }
+          ],
+          "category": "macro"
+        },
+        {
+          "title": "Bolsa de Santiago y Wall Street caen ante expectativas de alza de tasas en Estados Unidos",
+          "source": "MSN",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVC1KbkdBdnNoakZOU2JicXl5SF9PdU1ueU9FM3BhLWsyeUdLTWpRTENvWXdmeVZyVFA5SFBiMzZCcl95NUVoQUlMUGlnOEtPMVl5VG8tRU5VTm4zOHZBdWc1clV5RWJuNTBNMHR3c2pqX3Rzd1BUTUxKd3dDMktFSTdub0JyVHRRUlh0X2hTMF91ZXQ4ckQ3X0ZpdnZocHNqdk5VSkVVVENqR2pyNHUzSEdyeUpGTG1KRmVmRWlYMVZmOElveEpzTUg5XzUyWFk4NlR2YndUN0hlMlpYTEFRNWd3T0l2WUhuUWFLNHdIWERSaDczaS1Pa3ZmTWY?oc=5",
+          "ts": 1782220409000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.4,
+              "dir": 1
             }
           ],
           "category": "macro"
@@ -1338,22 +1332,16 @@
   ],
   "tickerBoard": [
     {
-      "sym": "MU",
-      "name": "Micron",
-      "net": 11.9,
-      "n": 6
-    },
-    {
       "sym": "WTI",
       "name": "Petróleo WTI",
       "net": -10.8,
       "n": 22
     },
     {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": 10.4,
-      "n": 5
+      "sym": "AAPL",
+      "name": "Apple",
+      "net": -8.2,
+      "n": 9
     },
     {
       "sym": "ITA",
@@ -1362,22 +1350,40 @@
       "n": 19
     },
     {
-      "sym": "AAPL",
-      "name": "Apple",
-      "net": -6.8,
-      "n": 8
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": -4.9,
+      "n": 7
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 4.0,
+      "sym": "MU",
+      "name": "Micron",
+      "net": 4.8,
+      "n": 2
+    },
+    {
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 4.6,
       "n": 3
+    },
+    {
+      "sym": "QQQ",
+      "name": "Nasdaq 100",
+      "net": 3.7,
+      "n": 17
     },
     {
       "sym": "SPY",
       "name": "S&P 500",
       "net": -3.3,
       "n": 18
+    },
+    {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 3.0,
+      "n": 4
     },
     {
       "sym": "INTC",
@@ -1392,10 +1398,10 @@
       "n": 1
     },
     {
-      "sym": "QQQ",
-      "name": "Nasdaq 100",
-      "net": 2.0,
-      "n": 16
+      "sym": "AVGO",
+      "name": "Broadcom",
+      "net": 1.3,
+      "n": 1
     },
     {
       "sym": "META",
@@ -1408,12 +1414,6 @@
       "name": "Alphabet",
       "net": 0.9,
       "n": 1
-    },
-    {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": -0.5,
-      "n": 6
     }
   ],
   "ecuador": [
@@ -1427,7 +1427,7 @@
         {
           "sym": "WTI",
           "name": "Petróleo WTI",
-          "pct": 1.2,
+          "pct": 1.0,
           "dir": 1
         },
         {

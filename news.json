@@ -1,10 +1,48 @@
 {
-  "updated": "2026-06-26T03:59:17.465872+00:00",
+  "updated": "2026-06-26T07:57:27.395159+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Las acciones de Apple bajan tras el sorpresivo aumento de precios en sus productos",
+          "source": "EBC Financial Group",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS0hUa3N1YVVWRnJxVFZvSV9rbG11RERnUkhIZ0JQSmNvV2pua1RrSWRTOFpsUjVvWV9lSERTMTlvSUsyUmw1UUlfUDFCN3JRUHB0OGNVOVV6RS1lRUtvemFXOHFUX3pMTWJNYU12N1VqVkxlZ2lGeFlRMFFUQTQ2YnM4SDkzOGNPeF9WUDh6UDgtQmpiNzlhVU9MeG1vUQ?oc=5",
+          "ts": 1782446160000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": -1.6,
+              "dir": -1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Apple aplica inédito aumento de precios por la escasez de chips; acciones caen | TECNOLOGIA",
+          "source": "gestion.pe",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNzEzckFmZU9fa1lYZHEtY3BwQzk0cGZES01sSDhLZFg0eVpIR3IwTWtEWHlUZEVKYUlNakdrZFlibzZUVFlpMUpkR1BsRlpXd2Jya2hEcktKZ2N5bGkzU0J0UTFCUktoN0drcUFNdHd0NEppSnd0dHRtVlFGYTNQd2dnU1ZBY0ViNkZ2YTg1aVVQbzRDaDVkU3ZxX18yMmNRV3p5MDV4dlc4c3cwVU9fd3JldjRwVjA?oc=5",
+          "ts": 1782445633000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": -2.0,
+              "dir": -1
+            },
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": -1.6,
+              "dir": -1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Las acciones de Lingyi, proveedor de Apple, suben un 6 % en su debut en Hong Kong",
           "source": "TradingView",
@@ -15,7 +53,23 @@
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 1.6,
+              "pct": 1.4,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Las acciones de Lingyi iTech, proveedor de Apple, apuntan al alza en su debut en la Bolsa de Hong Kong",
+          "source": "MarketScreener España",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaUx2SnlVeXJBSVZxbmxSc2RpU3liS0laX0lxbURFQm5uR1V5TWVwLVptc3VwQU9mOTNhNy1tdFZqQUVKRkFvVXBCdEFwdGxXMll2bTRYeUVqTWdnQzRoWVZMV1RmMEp3YXlfN2MwX0ZpNUR3QTZqM2gzUmE3TW9NeENjN0VmWkxtY0FwMGVKZ3NxY1VMTkM0UXc4cFhudVdMSWRNOEFPT290XzFCcDdGRmpaN2VSZm9DcTJJME41a2M4QzRQMV9ibUpQdE83QngyaFlvMkRrSzVJQm5vS1dnazVIeWRYSDJ3SVE?oc=5",
+          "ts": 1782437372000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 1.4,
               "dir": 1
             }
           ],
@@ -48,28 +102,6 @@
               "sym": "TSLA",
               "name": "Tesla",
               "pct": -3.8,
-              "dir": -1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Apple aplica inédito aumento de precios por la escasez de chips; acciones caen | TECNOLOGIA",
-          "source": "gestion.pe",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNzEzckFmZU9fa1lYZHEtY3BwQzk0cGZES01sSDhLZFg0eVpIR3IwTWtEWHlUZEVKYUlNakdrZFlibzZUVFlpMUpkR1BsRlpXd2Jya2hEcktKZ2N5bGkzU0J0UTFCUktoN0drcUFNdHd0NEppSnd0dHRtVlFGYTNQd2dnU1ZBY0ViNkZ2YTg1aVVQbzRDaDVkU3ZxX18yMmNRV3p5MDV4dlc4c3cwVU9fd3JldjRwVjA?oc=5",
-          "ts": 1782419867000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": -1.7,
-              "dir": -1
-            },
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": -1.4,
               "dir": -1
             }
           ],
@@ -150,38 +182,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Acciones de Apple caen mientras la compañía sube precios por la crisis global de memoria para IA",
-          "source": "Benzinga España",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWnJXenhBYWI3SS1pdW85YWptOGtsV21XWmhGVk1fOXpUOW1kekpQR01xM1VZSkJvMUstajkwSjZ3anE2RTBHT2JJX1BJSkNxRVF3ZE9qc1NXVWVkeEVoY2VwVEtfaG0yYk42V2lyQXpyVE9sNWpnZkhFUDVRN18xbE1Ma2V1dzF5SUJfMk5DSG1icHlSVjlYbnVKTWdXN2s0TEE?oc=5",
-          "ts": 1782407173000,
-          "sentiment": -0.25,
-          "tickers": [
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": -1.0,
-              "dir": -1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Las acciones de Apple caen por el aumento de precios de MacBook y iPad.",
-          "source": "es.qz.com",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyQ0ptdS1IUGhuWTVaZzJ3Ulh5RGdhQ3BhZ3hrNnNUWHVEQWE4S0l4SjVxUWwtLWlwY1BCbmVMcHJMU1pvT1FlZlp4QTlQOFVyeF9kMmV4OGhSNnRuM2FIZXJEOWpMejdYbXVWLVBqRE5pdFdBU083TWFnSUVpbVE?oc=5",
-          "ts": 1782400931000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": -1.4,
-              "dir": -1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -189,6 +189,86 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Los valores vinculados a la inteligencia artificial vuelven a corregir arrastrados por la debilidad de las bolsas asiáticas",
+          "source": "MarketScreener España",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeDRURUFvRVRVTkF0WWpxSGFnLUZGQmVhaW96bEwtbElEYjNwR0ljdVNDVHBEeVMtVXZRX0Q0bjQ2RnlkMFJqemRaQ3BFcUlEdmtpYTFKaThGZXpibUYyaFJRVlByQU8xOUZ3QWtrMWtQbUNhNFpuWEJMb0ljem9nSUQybVBTcV8zb0JUNk5RcHYxVTdBS3JES184ZDhDYTd2cW1KOGNYczljSUFfMF9aSk9xR2txcjdiZERLcTI5Z1F0OXpWWGNCN1RpTW1ra3p5cGdwTUEySk9mNktCbFpOS2xGZU1yekR5NkEw?oc=5",
+          "ts": 1782455972000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Samsung prepara una inversión histórica de 648 mil millones de dólares para acelerar la inteligencia artificial y transformar la economía de Corea del Sur",
+          "source": "El Imparcial",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPM3FPREN4Zk1zV252Q2M5WU9FVXRYQVY2VnVPcVZpbTVlUEhKbHFzZndQUXhJY3p1OVdndlhPSUpMRzVVZ1c2WlZoME1ib1J1ckVzZXREc1lNNVJwWmxoUXhOcmM0TXhRUkZONHR3WUs2TTFZdXNZeXJfLW1ETGNZR1ZkVUtYd19TaTB6cEZjMTI4NHRaUi1ad0JnQ3pCWXBGRjRHaERDNWpNOUZJLWlfbFprV3BWcW44LXVGNTBjNmdISlVBNTZlZVJEcGIwU194eVBuWm80bnNib0pJdGR0S0RWa21QNFI0R1Iwd3IxdUxtcWh6UmJEblY3b0JYTUxzbmRtMnkxUHozSDZfQnViaTYyWE9Ba1dqM0t1ZVowdjVTOXluUFFZ0gHCAkFVX3lxTE9ZX0E1SXV6QjM3eWpwWHVPbjY4N3VIU205OWd5NWh6c2ZGNm5TTDRLbUp3SFlmUDZVdy1fVkJmRXVBQUFCV3Rzem5tMFBCRExxWmg1eVY4OUtjUFNibTZfY3l5VGtHNW1CYWVZa2kzUnlfR1FZQzhFeFdjN3JoLWdBR0lpX1hENmZvQ0ladUhNR3FaeS1hV040UlRHcm1mNXRwbVNqUWJTX293NFI0WDVvbFpLUFRPRE9mMUJlNFhjSEloSE9sQUtCMjZFX2xhWUN4UlJhT1BWc1R4UlVLN3hkR01oOG1Gb2NIWFVHUE1hNlZ0SllxejJlbDhvMU94UkY2V28wY2Z5V3U2TlU4MVVTQnRLekY0Yk5WbXpyb0xpM2FyQU9ObmFFSnlXNnZUdkVBU0xKNnJ4eWoyWnZ6LTlGd3c?oc=5",
+          "ts": 1782455281000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "'MANGOS', parte 7 | Google: la inteligencia artificial que no necesita pedir permiso porque ya vive en tu móvil",
+          "source": "Spanish Revolution",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUUtSbGgzYmlxWWtSYTFocmZIVW1kMnpUenpwczRZS2JMZDBydTRKUmtFZ1lOeTBtd0ZTcnpzdVM3c2xINEhtOS1tYWZrZF9aTVVycFdlS1pZRk5qdEg3RGYxX05qY3dJeGhZYVFTN2h3U18tTlNXd3dfcXhYUzRUU2o1N3MzXzd4YzZ0aVhoTGVBQ0l6UktObWtUUTdfRUl5TC1aWnFtT3B2Mnc2RzhTTFNabGN2bXJRaHROSEU1X0szcGktSWFRZXdFMDdDUQ?oc=5",
+          "ts": 1782452032000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 0.9,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "‘MANGOS’, parte 6 | Nvidia: la fábrica de picos de la fiebre del oro de la inteligencia artificial",
+          "source": "Spanish Revolution",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVUNrLWdkcENocEgyWlRTcXQ5ajVqd2pzNVR6TlZQSmNSc3lFRkxyRWVZaTFWR1V3cm5OWllOUk1taU93RElTRTFnUGJlZ25OWWVkY3NTMmt1OEVPSXhMRnU2SVdXMXJlNGZNM2tYVHIxN3FUMHZGVU9pX2VNd3JBekFzSTVNX0MyenVaTkN2QzlrNVRndnQtYnNkZ3pPUnBQeldFZnhyd2Y0dWtwX0dSX1lYSWV3SDliZzBIdjg3Q1c?oc=5",
+          "ts": 1782451890000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "‘MANGOS’, parte 3 | Zuckerberg y Meta: la inteligencia artificial como red social obligatoria",
+          "source": "Spanish Revolution",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR1k1M0pGVFRHRWljZ25NcF9OcktiUHdVOHhXNGozSDVkUlZrTC1jMjdEME91QnJQZUdNRFBDVG1Ta0MxRjNVa1JEb1QyZ0E0ekRuTzFIYzRZVi1POFJ1dEtYQnNNQ0RrT2dpS2t0VnpzZFF4SWQwVkdqel9GZHJqaWlCLUQ4eFMzaDUya2ItQ0FxUVJwWnN4bnBQakhUaWcwdGRUaDJqRUNqanBXN05uODJvRUZDYkN3ZFE?oc=5",
+          "ts": 1782451328000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": 1.2,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "OpenAI y Broadcom anuncian el chip de inteligencia artificial Jalapeño.",
           "source": "Vietnam.vn",
@@ -231,7 +311,7 @@
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -268,98 +348,6 @@
             }
           ],
           "category": "semis"
-        },
-        {
-          "title": "Biolevate impulsará el descubrimiento de fármacos mediante inteligencia artificial con el kit de herramientas BioNeMo de NVIDIA",
-          "source": "MarketScreener España",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPX2pkMTNsU2ZDSGhqRkVUbmY3MVN1Qk83QUdfQ1JYVUxKc29Wcm9xbE12LUV1RU5QNWRHcjU0eFBWbTNzQlgwYkpnX0x0Z1RISVVnQTY1ek1FcmVjWGxYTGVYdm1pQUtqMmR2M3RmWG5oZlR5RHZhN19PZnVtTmZtUUNpZjZ6NjF3aVVCTmlDZDUyZW1XdGdRQWxGQXluRmEycTJEYzctNF9NR1NtVnNfQk90UTMyQUdCeElpTmVSM2FRa2ZDbzcxTEx4WXk0UmU2R2xyVkNqazZJbjJYRW5yamZUdzNYSFBsWTFF?oc=5",
-          "ts": 1782420709000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Adecco supera el millón de interacciones con candidatos impulsadas por Inteligencia Artificial",
-          "source": "Edomex Al Día",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdXNqMlFVLXdzZXUyOW5PZzNTbnhpUjVqX0RTVTNsdlVaRzRsZFFxNzF0aURnLVItNWRFd1Jzbk12TU1VNFBLZG5CYXFIaW9tNldyS1lPd0h5enBZSkNFUHhSVDlnMnJUOTdRbDh1RGFRNlY2LWgtWnhBZEpEc3ZvVjg1RGZNRVVmckQxTDZwYi1PS1JPQ185MnhlX1BNeDVaVEZoOXZiNXVNZ2pkXzQweFFhSlpxYnZqdS1R?oc=5",
-          "ts": 1782418992000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.7,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Google Finance incorpora la inteligencia artificial y estrena aplicación",
-          "source": "López-Dóriga Digital",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLThRWkRNdk9OZVNaZnBqcU55Q3NkdHZ2WkRpYUVTRGN2aDVnTTdrQkUxcmFYZXlvMjV1VlhGSTFRRWdsSm9zQ0xBZ3drZ0pLU1Ywb0tjb0lYckNZd1R4SmZETU14YS0xb0ZPaGpGdjF5WENxUXFGVjdKX0hBVmcyMS14WGo3bTU1dkdnaWVXSUg4aTdPUTM1Q0hFOVR0V2liU3VERnkwS2VxN2RkdDFqbmF6aVkyWlU?oc=5",
-          "ts": 1782414900000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Apple sube los precios de sus dispositivos por la escasez de los chips impulsada por la inteligencia artificial",
-          "source": "EFE - Agencia de noticias",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc2dlT3ZHaWwzNWFVVVM0YjZ0dGVRUXdXNVdOVlduZjNfbDJaYXBxVlJKYnRNM1dQcVR2OVkxZ2JvY05lMEdBQzJ5b296TzFBMGhMUjhUWHJuWlFEZHJJa2NYVkd5enczbS1Hb0FGM21BZm5QVW81N3VFWVF4WkZ3QnNWUGhfZw?oc=5",
-          "ts": 1782414547000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.7,
-              "dir": 1
-            },
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": 1.4,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Micron y la gran prueba de la IA: ¿boom sostenible o nueva burbuja de Wall Street?",
-          "source": "www.revistaeyn.com",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa2xfVVZyOGlzbF9HVkdyR2dDTnpudmRjQVhleWg5Yk9EbGNCSG90eVE4b1RvaHVBN1huRkpDVzlCWURqVnBfTFo3Nk04aFVPRXVaMUItcUNsMUNfbVpzMTRfOEsxOVQ2N1R1VVVreW5RSDJ6dzd3RW1taVY3Q3Q3OTdpLUFIdmtUb04yek5HT09XNHFUdnFmUzJNMVYwamJ5SDJBU2hsSzdrYVRsSTJzLWtsMFFyaG1SeFpwZ2Y1WVpUUzZ0bG9aSjRReEdkZzQ5NnFJ?oc=5",
-          "ts": 1782410346000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "MU",
-              "name": "Micron",
-              "pct": 2.7,
-              "dir": 1
-            },
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 1.1,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
         }
       ]
     },
@@ -367,6 +355,40 @@
       "key": "space",
       "label": "Satelital / Espacio",
       "items": [
+        {
+          "title": "Irán amenaza con atacar las empresas de Elon Musk en plena salida a bolsa de SpaceX",
+          "source": "MSN",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWW50TWdCQXJ6ZElVYTdtRU8wQlpHa2lWaF9IRHc0MEh0Z2o4ZkZsbDJreWtidE9YbEpaTmFqRUxMWEVhdGQ5bDI2Q0VPNGhoYXVEUWZzMHR1MWFJWWt1RGl5VXRQdVFSUUZOLTMzTlBvVVNrTGFmMVFhVUpyaUVrWTlRN1RuQ2tSRkQ2M0RNSm5PTEkwUGhqZk9IblZ5ZEdxb1hjTUk3aDh3dkF6R283VGozZzJyVTJvQTNYOWhSTFpiSHNHcnF1YlMxeTJmOXJ1MEZ6WGRJcU4?oc=5",
+          "ts": 1782406059000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "TSLA",
+              "name": "Tesla",
+              "pct": -3.2,
+              "dir": -1
+            },
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": 2.0,
+              "dir": 1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 1.4,
+              "dir": 1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": -0.8,
+              "dir": -1
+            }
+          ],
+          "category": "space"
+        },
         {
           "title": "SpaceX lleva a Wall Street al espacio",
           "source": "Prensa Obrera",
@@ -393,7 +415,7 @@
             {
               "sym": "TSLA",
               "name": "Tesla",
-              "pct": 1.6,
+              "pct": 1.3,
               "dir": 1
             }
           ],
@@ -496,38 +518,22 @@
           "category": "space"
         },
         {
-          "title": "La salida a bolsa de SpaceX sacude Wall Street: el efecto dominó que podría impulsar a Nvidia y todo el ecosistema de IA",
-          "source": "Benzinga España",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdjlaVUtiNmNFN0t4TTVWa0hlNWFvSlNRVkFKSHNBdHlmNkc0ZXRfOThkMm13bzNzZGhNbmxmMkhkcDhxN0J6U0NENUJrTUstNUZ3S2JZRjFkTGhLNWxPUDBJX3JHVTF1MUltWGVKVkUybk5oeUJYMmV3RWtyYzVVQzU5TEc2ay1QY2phWmRWdmN5bkQxZWZ6bW5tWWtZZzlzQUJZ?oc=5",
-          "ts": 1782149292000,
-          "sentiment": 0.0,
+          "title": "SpaceX pasó de una salida a bolsa récord a caer más de 10% en Wall Street tras anunciar deuda por 20,000 millones de dólares para financiar inteligencia artificial",
+          "source": "El Imparcial",
+          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNX2xHNzRsVGN5UFNBdzMxRWVsLUJVZGZrQ0lyOEhHTmJnZDIxVjNaNWVtSUc2SEt1RE9ueHZzSDIybTdzWkZkaTBYWFZJcVV2S0RueUF5V1ZpMlFXZlhOdUhUQ0xPaVlMX2QwclpTSnNhNF9pQlp4VThqemp0VUwtOThDUWpjcmpQcXdIZ1U5MmYzUURCUnhMNnpJZXpodHBFUzlfN2NVRUswOHc5SVJIUFAtS3lzYnJzQnE0Mk5ield4bFJxTE83MENyUUdESEI3cnc0R0lITUp4MEhSa3hzMEZGc0FySE9ZOU5hZTdvaE9BY0M3T3htRUFKUDFzWEF2WTMxLTAzYVRvYTAwdGw3TlN6YkZZeGxKN1RkNHFHRER1Ql9PQUlCT0dSX1JLR0pSZkHSAcwCQVVfeXFMUFlYdmJuUC1qaHdRdG5DTE9Cd2ZNSEhZYWF1Q3lkSUVTOXl6X09DTkV2aldZT2NYclJ0dUd4ckhhX2ZXQ25nU3pMTmdad3lBSUt3TUZKdTUtSGlTMWRrNEJIbFA5TDNrZzJhUkRENThXU1h0M21IMFNYa0IweHhvSWRZYmZFMVpFaW1FdWk3VWR1RU1tZ0pGZTNIdEtHMldrS05pempOb3NNelhUSm1hcHFrWUxicW5samRxYjZoLUFQa3JMM0IzUUY0X2lqX09RSFNvc2w2UDg5MWdYdkhDOWMxMUdHX1UxT1RBZVE2RFRZNE13eGZUZDhXNWRiSXZtcU8tTlVYeXVPbTI5Q0VCZ2pXUDRhQkJtSjBheHdaVHNZLU4tYUhDeEwyQllaVVFGZ2JPLTNveWxZaU9jcmVaa1c2Z0hfMG9IVWh5eVQ?oc=5",
+          "ts": 1782178180000,
+          "sentiment": 0.5,
           "tickers": [
             {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.0,
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.1,
               "dir": 1
             },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "space"
-        },
-        {
-          "title": "La primera semana de SpaceX, dirigida por Elon Musk, como empresa que cotiza en bolsa desata el frenesí en los mercados",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05WUU3eG9aUUUzNjhSZzZfSnE2ZjlvS3dnRDNobGVqdjFwZW1MeTZzZ0ZWTHNYMkdsTWZCbDRsS1NRcUVqOTVDXzdURWtLRWhxdW9mQTZJTHNoeVdoaF9tcjJvSlpRSXN0X3VTN1pwSk16MlJCTmJDaQ?oc=5",
-          "ts": 1782125874000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSLA",
-              "name": "Tesla",
-              "pct": 1.0,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -540,12 +546,18 @@
       "label": "Defensa / Armamento",
       "items": [
         {
-          "title": "EM&E y el gigante emiratí EDGE elevan a 1.725 millones su alianza industrial para vender armas en todo el m...",
-          "source": "OkDiario",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbjExS25CYlhhbVd2ZmpRWFJKMy0xSzkxRHo1S2FMSE16NkJYZDlnNWhLR3FYSzloWFpBV1BKd3pkNXdpM21sUHNzVS1YZ0toOTB0TnN1YXFiQmFnV1lEX2pLM1R3S2QwQjZ2bkl1NlFweFBCeXRBeFV5TVBXUHh1Q0dsekczdTFtZjdOMENmNmc4cXg1LS1QblJ1M1otY1J6NzF6b2pfUGdTWTE3am85SGlvMTVHdDlHV2s4UHpDVWN0S1RseWtkUVRTRkxmWGRhbGRV0gHYAUFVX3lxTE9iWndYR1hLRnJSS1J4UGJwMXl4ZFVnTHh6MHhocnhmZzZ6MnZybnljT2g4SXhyOE5wQmNYbk9lQ2ZtdTFPSzNKQmk2VEh4ZTZ5cThpRGNnTkpOMUZicldjNE5QVi1fb0Fibmc4cnpIek5LekFjQnR5MXFvSXFrWk05NGV6N1RGQWpFN0tkcTNrZ2xmeGNlSlllaWRPaTVXOFdRTVZSaW03V2VpN0JjeVRqUzlRaVZpRWhYSURMZmp4VmdBUTY2R0F2VngyTERyWVJEZFZHWGtKQw?oc=5",
+          "title": "El Gobierno destina más de 5.000 millones a gasto militar: munición, equipos, mantenimiento de los Falcon, satélites…",
+          "source": "Libertad Digital",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONXVFT0hBRFVWMXdIWDh5ekNldjZIUTVOUnJPU0doTW80NXZPZms2ckZsREltYmJULU1MU0JKSHBmSmtvZEY4Zld5UFdSUGtmbUd1V1E0OGpCVmhQRFFXb3BOOUZfdVBSMkd3TWc4WEwzcEpDQlduQnZ5WXJVTW14bW5FQzE5RWdKWE5OXzZGRVVsaFFvRGlqeTVzNVkySXZlYU1RS3pXTy1JdjlXNjBEYU5hYlRnaFpiTDNFQ3IySF9UNFRIYmRqdGRYTEhWd1EzYmJRRWUtd1dmay1GUllVVnEwUXRPdklpaXhDNnNSS3BaYlJEZ25qWHpueHFXeEhzQWfSAYwCQVVfeXFMT2lRZi1KSDZ1Yk5tV3RHOEZWZUdYMjhpc1NtVll5cElTcnVKYnpPLTA0WWZhd1AyWjFuSFVUNWxIU1gtaDVta1Myd2kwN0xCa3F5b3dvSkNIVEtwZjJVVmxGZXZRT1I3S0VhV2Y0RkFDWmtUeWM5QV9KbkFJdDdQdWxSTnNkLS1ra2I2SFkyR3h1dlRrY05HNmg4MnJMTjJuSWVPX0xVYWJqNXg2SjhoeWdsSzBfSUNRc2JQWE51cFV3Nm9nX3RaTnlIeVhGTFRia29pSWRLTFRqYW13UDBYRnktV3drTjZRejZXUjczZS1xclFSSnpleDNMVVVFQU9oa3dEZVJkOC04UTl5VA?oc=5",
           "ts": 1781679600000,
           "sentiment": 0.0,
           "tickers": [
+            {
+              "sym": "ASTS",
+              "name": "AST SpaceMobile",
+              "pct": 2.1,
+              "dir": 1
+            },
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
@@ -556,18 +568,12 @@
           "category": "defense"
         },
         {
-          "title": "El Gobierno destina más de 5.000 millones a gasto militar: munición, equipos, mantenimiento de los Falcon, satélites…",
-          "source": "Libertad Digital",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONXVFT0hBRFVWMXdIWDh5ekNldjZIUTVOUnJPU0doTW80NXZPZms2ckZsREltYmJULU1MU0JKSHBmSmtvZEY4Zld5UFdSUGtmbUd1V1E0OGpCVmhQRFFXb3BOOUZfdVBSMkd3TWc4WEwzcEpDQlduQnZ5WXJVTW14bW5FQzE5RWdKWE5OXzZGRVVsaFFvRGlqeTVzNVkySXZlYU1RS3pXTy1JdjlXNjBEYU5hYlRnaFpiTDNFQ3IySF9UNFRIYmRqdGRYTEhWd1EzYmJRRWUtd1dmay1GUllVVnEwUXRPdklpaXhDNnNSS3BaYlJEZ25qWHpueHFXeEhzQWfSAYwCQVVfeXFMT2lRZi1KSDZ1Yk5tV3RHOEZWZUdYMjhpc1NtVll5cElTcnVKYnpPLTA0WWZhd1AyWjFuSFVUNWxIU1gtaDVta1Myd2kwN0xCa3F5b3dvSkNIVEtwZjJVVmxGZXZRT1I3S0VhV2Y0RkFDWmtUeWM5QV9KbkFJdDdQdWxSTnNkLS1ra2I2SFkyR3h1dlRrY05HNmg4MnJMTjJuSWVPX0xVYWJqNXg2SjhoeWdsSzBfSUNRc2JQWE51cFV3Nm9nX3RaTnlIeVhGTFRia29pSWRLTFRqYW13UDBYRnktV3drTjZRejZXUjczZS1xclFSSnpleDNMVVVFQU9oa3dEZVJkOC04UTl5VA?oc=5",
-          "ts": 1781667007000,
+          "title": "EM&E y el gigante emiratí EDGE elevan a 1.725 millones su alianza industrial para vender armas en todo el m...",
+          "source": "OkDiario",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbjExS25CYlhhbVd2ZmpRWFJKMy0xSzkxRHo1S2FMSE16NkJYZDlnNWhLR3FYSzloWFpBV1BKd3pkNXdpM21sUHNzVS1YZ0toOTB0TnN1YXFiQmFnV1lEX2pLM1R3S2QwQjZ2bkl1NlFweFBCeXRBeFV5TVBXUHh1Q0dsekczdTFtZjdOMENmNmc4cXg1LS1QblJ1M1otY1J6NzF6b2pfUGdTWTE3am85SGlvMTVHdDlHV2s4UHpDVWN0S1RseWtkUVRTRkxmWGRhbGRV0gHYAUFVX3lxTE9iWndYR1hLRnJSS1J4UGJwMXl4ZFVnTHh6MHhocnhmZzZ6MnZybnljT2g4SXhyOE5wQmNYbk9lQ2ZtdTFPSzNKQmk2VEh4ZTZ5cThpRGNnTkpOMUZicldjNE5QVi1fb0Fibmc4cnpIek5LekFjQnR5MXFvSXFrWk05NGV6N1RGQWpFN0tkcTNrZ2xmeGNlSlllaWRPaTVXOFdRTVZSaW03V2VpN0JjeVRqUzlRaVZpRWhYSURMZmp4VmdBUTY2R0F2VngyTERyWVJEZFZHWGtKQw?oc=5",
+          "ts": 1781679600000,
           "sentiment": 0.0,
           "tickers": [
-            {
-              "sym": "ASTS",
-              "name": "AST SpaceMobile",
-              "pct": 2.1,
-              "dir": 1
-            },
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
@@ -610,6 +616,22 @@
           "source": "Rebelión",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaEZBYjRCRTlocnRJWWJ2MnA0emJxd2x6ZkVFNkpLLVZhQm0zTVlOYnZTQktoUG5aUkoxNGVJN3E3NGlxYnhZdkVCdXlGNFFTZHpObkhxZl9zYjJqMG9ZMUR3a0VXUWwzZWo3V1haX1hQUWlucHNXN1hpRGpidFc4Q3lJd245YTZieHMyR1paNS01eE9LbzZjT0dpVzhWNHM?oc=5",
           "ts": 1778051219000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "defense"
+        },
+        {
+          "title": "Las empresas españolas, a la caza de 817.000 millones sin asignar en Europa para defensa hasta 2030",
+          "source": "EL PAÍS",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTXkzTnVEOTZFYndKam5kTjJlU3NPRGc4OGdRT09mb2pSYjhkRHYyTnZYNjZrYll0WjQ4OTZoeER3alFaWExhQTdPSVcxaEg4d1ZteTdzR0xVQkNjdW1rbVRYMjhMMkxvTU1ueUxjUjc4NGgxM2Y3R09vQ0NhOTQ1dWJ1OXE1R050NktFTlUwYXdGTlhJSm0tdmxqakt2ZVlXUEhrQ2h2dVJ5NmNtOUJrelhKREtrRm9LMFh4RjFKcklsRzN3bS1ta09BTWE1dXY3Wk14ZkhtbDfSAewBQVVfeXFMTnY0ZEI4eFJROU1WR29ia09kWkxSd05vT1hwTjg3OGlwaTZud2tpTjZSX3FDTlNuMERwYkZQYmdLbFlCYzNqR2FCc0tzZ1NFV2FzcnhETlNxVzNuX3J4M25IR2FUU2lrdTJQTGdicWluYWxKS2dKU19PSVFpS0NQbTU0Z0ZyRVFMQzB2MTFBX2FwYWJuU2hPaWFCSERENHdnS3NLc1dUUU96cVRMalFsNy1MSDhDUDJTTVliWWJ0NmphQ3J6NEtqVEZGYnkyUndHeHlOLTBTMHVSbkZ4OUZOT01yd0NZbjhDZmFQWHc?oc=5",
+          "ts": 1777791600000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -669,19 +691,19 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": -2.4,
+              "pct": -2.0,
               "dir": -1
             },
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": 1.6,
+              "pct": 1.3,
               "dir": 1
             },
             {
               "sym": "SPY",
               "name": "S&P 500",
-              "pct": -1.0,
+              "pct": -0.8,
               "dir": -1
             }
           ],
@@ -1372,40 +1394,40 @@
   ],
   "tickerBoard": [
     {
-      "sym": "WTI",
-      "name": "Petróleo WTI",
-      "net": -12.0,
-      "n": 22
-    },
-    {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 9.5,
-      "n": 21
+      "net": 11.0,
+      "n": 23
     },
     {
-      "sym": "MU",
-      "name": "Micron",
-      "net": 4.1,
-      "n": 2
+      "sym": "WTI",
+      "name": "Petróleo WTI",
+      "net": -10.6,
+      "n": 23
     },
     {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": 4.0,
-      "n": 3
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": -4.9,
+      "n": 7
     },
     {
       "sym": "SPY",
       "name": "S&P 500",
-      "net": -3.9,
-      "n": 19
+      "net": -4.5,
+      "n": 20
+    },
+    {
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 3.3,
+      "n": 2
     },
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 3.7,
-      "n": 16
+      "net": 2.9,
+      "n": 15
     },
     {
       "sym": "MSFT",
@@ -1414,22 +1436,22 @@
       "n": 2
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 2.6,
-      "n": 7
-    },
-    {
       "sym": "ASTS",
       "name": "AST SpaceMobile",
       "net": 2.1,
       "n": 1
     },
     {
-      "sym": "AAPL",
-      "name": "Apple",
-      "net": -1.4,
-      "n": 9
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 2.0,
+      "n": 8
+    },
+    {
+      "sym": "MU",
+      "name": "Micron",
+      "net": 1.4,
+      "n": 1
     },
     {
       "sym": "AVGO",
@@ -1438,16 +1460,22 @@
       "n": 1
     },
     {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": 0.8,
+      "sym": "META",
+      "name": "Meta",
+      "net": 1.2,
       "n": 1
     },
     {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": -0.4,
-      "n": 7
+      "sym": "AAPL",
+      "name": "Apple",
+      "net": -1.1,
+      "n": 8
+    },
+    {
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "net": 0.9,
+      "n": 1
     }
   ],
   "ecuador": [

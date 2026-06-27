@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T15:53:51.255458+00:00",
+  "updated": "2026-06-27T16:54:43.237976+00:00",
   "categories": [
     {
       "key": "tech",
@@ -184,15 +184,15 @@
       "label": "Semiconductores / IA",
       "items": [
         {
-          "title": "Unconventional AI levanta $475M: chip 1.000x más eficiente",
-          "source": "Ecosistema Startup",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaGtERkVwVzBqTm5Yb1ZNbWlhVDBTQWVFNUtqV0R4S1V3NFFNbjVQbXFDSFZyQlB5LUpna1NaWnJBOVBkMVl4dmRHT01YNEoxXzF0Wm9sU2g1cUNNcmpYdkxZM3VjUmc0bWJxMUd5SFpKamJhTmVBVmF0SkNIVVRPLVczbzZDVUZQM2dxR05zNXI?oc=5",
-          "ts": 1782555506000,
+          "title": "Jeff Bezos, el cuarto hombre más rico del mundo, confirma que la IA no destruirá empleos, sino que provocará escasez de trabajadores y abrirá \"múltiples edades doradas\" mientras que Goldman Sachs dice que ya elimina 16.000 puestos al mes",
+          "source": "OkDiario",
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNY0U2SzdaVmpwR0JtbXVBM0VuN0t6ZUZpQ19xVC1Kbi1kUEFSM3NkeURka2NrTE9XQ2lXc2M2VE5xMkcxN3VCYmxpRmY3UGxGYWpMY0NGeTUyQk5yNXlpTFoxU3pnWUdhNzJIMzV3UEN6VGxlZk94NEp5bWtKUnVBeFBGMUNfNk1CaE5nZXljU3h4ckR0MHNqdXlLYVRoQVIwcTNHY0I3RXhZVVFLVVZuRkVkWmZOaVFHRXFRLXhFdWdqTjc2U0V2TGxMcVp0dVh4U0syMV94aGk5OU5kS3Z5WkxIMFMydDA2V2x3bTdybTBMWGxycVRrMl9LRm8wVXBfd2thRFhrZWZ3OWx3bU1iX2hfTVd2bW1Ub1UzM3ZURlduVm5xMk05YktZeVY3SFNGR0RDUHRMZFJOd0NDdG5hdmo5ZmI2NWNxeXc?oc=5",
+          "ts": 1782578520000,
           "sentiment": 0.0,
           "tickers": [
             {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
+              "sym": "AMZN",
+              "name": "Amazon",
               "pct": 1.0,
               "dir": 1
             }
@@ -203,19 +203,35 @@
           "title": "València negocia con OpenAI, Google y NVIDIA en Silicon Valley para llevar la inteligencia artificial más avanzada a sus pymes y ciudadanos",
           "source": "València Extra",
           "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPMU5GQ3o1Wkd2TzE0aHJFQ0ppSDQ2amVSNUo0Mk5SWDZHdTVmQzQ4TFJUMWVULTBmS2JMLVhkdVpFRUduN1A5dlZYQ09BM3hLYUI5eV9KOWR5MVdnZEtDUVBDa3ZhSDV4NzVFZ1ZGcHFhRFFHM1JkX3NTbUpUQTc1dFdYZzZiamdxWXFqcEhjZnY5OHZQNlBsZzdFZVh4blhrU2lTaWFKNUJZZ2NQeEJxcG5pM3hPejZnT1pqbHU3Z0VoMldqMHRBVnFNeHRWNVR1X2ZkWWhYdS1EbHBGTEFkdWt1eFdmNEVrVjJMWm1MZldSaVhhNGgwbXJEei1DclZGaHFmbm1kTGxjOUxQY3ZaNGRtWkw4Yjc3eFFKYUt4OWJVQQ?oc=5",
-          "ts": 1782554654000,
+          "ts": 1782557100000,
           "sentiment": 0.0,
           "tickers": [
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             },
             {
               "sym": "GOOGL",
               "name": "Alphabet",
-              "pct": 0.9,
+              "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Unconventional AI levanta $475M: chip 1.000x más eficiente",
+          "source": "Ecosistema Startup",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaGtERkVwVzBqTm5Yb1ZNbWlhVDBTQWVFNUtqV0R4S1V3NFFNbjVQbXFDSFZyQlB5LUpna1NaWnJBOVBkMVl4dmRHT01YNEoxXzF0Wm9sU2g1cUNNcmpYdkxZM3VjUmc0bWJxMUd5SFpKamJhTmVBVmF0SkNIVVRPLVczbzZDVUZQM2dxR05zNXI?oc=5",
+          "ts": 1782555506000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -308,22 +324,6 @@
           "category": "semis"
         },
         {
-          "title": "Inteligencia artificial: una investigación detectó diferencias ideológicas entre ChatGPT, Gemini y Grok",
-          "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZFFNYjVNbXpYV3JhTHh3UGpEQmZxYXRwZFRMa2hBYlRnTUY5TjFLZHo3a3EzcmdFNlY5TmpLNVo5c0xwd0JhYklXRkdSOGlnUVc1UTdOTENic1BwVEVvQzNyY0Z1UzdTYTh3S1h2U1hucWEzN0FLY3k1cjItcklTakQwbk1VUXRGc01ZZVVkRXV1RjVnWi1ER3hQZWZ4X1htVDNhRTczZ0t4N1g5eG5icXVES2N5N3JUTFc3UWpNWnUwOElqUmlMcndyVTJLVThjQng5cXVpc0lPZlnSAfYBQVVfeXFMTTgzV25oVUNfU2x6ejBEYXZzZENYc2VYOWxpaTZ4cWdVLVhUYXRVZkIyMW5aUExwNHpwVmxkYzNsOG5Ma0xYM1lJZ1F6RFNpc3BMaWFXNF9hTnVYVGdzRWdPa3pfMWUxSnctX3BZam5RMGFoNVpnR0QyVEw1WlpXOUJfQ1RDMkNWTXlscnZmS2phTFVFaU9jZC0xYnZ3Z2luRlJPNHdocVd5ek5QU3o2d19jODl6dDBUa2VSN2dtcWVfMHF0SUVOeXRGVmt0aDZfMXA1dHZ1NzFEVk8yd1NmblZMaFNTaVRkd0Z6azdxUUJyZE5wWWRn?oc=5",
-          "ts": 1782498240000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
           "title": "ETF: La luz que hace posible la inteligencia artificial",
           "source": "MarketScreener España",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZExBTVctejlHMFBwOVhyTHU3WUZxYVFOOUVIUlY2QzA3NnFWakxVZEJwQi1hOXYzc1A1MFFndVQxYmpyNWJrVFVQODBrOUEyWnJDR1o0QWVlaEVyOTJFbmk1RUx3eUdKQnlzalFjR3VfYTBiRGhhbm5Ea1h1cm1KNnJ3QTZyNTdEcnVpbWlEd2RTNm5uODMycDBOTWkzbjRVWEJhQUE5Y0daSGE2OHlV?oc=5",
@@ -365,7 +365,7 @@
           "title": "SpaceX sorprende con una incorporación récord al Nasdaq-100",
           "source": "Cointribune",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNUZ0YmkyTlJHTzhJUzJqUm1Pc0RSSEFURlhycm1INlA5Y1RhNUdpTXZxMWVQWmduQkt3TTNXVURXSWhQRFBFT2ZLdV9DVUVuUXRVMmNpbzRsMk1qRUN0M0lDc2liNkVlbHlxQ1g0Rml1RUIzZ3FEakpqNDFaLWc5X3Nja29HaXJuaHl1eS1mTTBlNmhBdGdTLU5vZw?oc=5",
-          "ts": 1782545512000,
+          "ts": 1782545100000,
           "sentiment": 0.5,
           "tickers": [
             {
@@ -403,25 +403,25 @@
             {
               "sym": "TSLA",
               "name": "Tesla",
-              "pct": -2.7,
+              "pct": -2.1,
               "dir": -1
             },
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": 1.7,
+              "pct": 1.3,
               "dir": 1
             },
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": 1.1,
+              "pct": 0.9,
               "dir": 1
             },
             {
               "sym": "SPY",
               "name": "S&P 500",
-              "pct": -0.7,
+              "pct": -0.6,
               "dir": -1
             }
           ],
@@ -1372,25 +1372,25 @@
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 11.0,
+      "net": 10.8,
       "n": 20
     },
     {
       "sym": "WTI",
       "name": "Petróleo WTI",
-      "net": -9.6,
+      "net": -10.0,
       "n": 24
     },
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 5.3,
+      "net": 5.0,
       "n": 4
     },
     {
       "sym": "SPY",
       "name": "S&P 500",
-      "net": -3.7,
+      "net": -3.6,
       "n": 17
     },
     {
@@ -1402,8 +1402,14 @@
     {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 2.9,
+      "net": 2.7,
       "n": 7
+    },
+    {
+      "sym": "AMZN",
+      "name": "Amazon",
+      "net": 2.5,
+      "n": 3
     },
     {
       "sym": "ASTS",
@@ -1420,26 +1426,20 @@
     {
       "sym": "GOOGL",
       "name": "Alphabet",
-      "net": 1.7,
-      "n": 2
-    },
-    {
-      "sym": "AMZN",
-      "name": "Amazon",
-      "net": 1.5,
-      "n": 2
-    },
-    {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": -0.5,
-      "n": 6
+      "net": 0.8,
+      "n": 1
     },
     {
       "sym": "MSFT",
       "name": "Microsoft",
       "net": 0.1,
       "n": 3
+    },
+    {
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": 0.1,
+      "n": 6
     }
   ],
   "ecuador": [
@@ -1465,6 +1465,21 @@
       "ts": 1781852400000,
       "sentiment": 0.0,
       "tags": []
+    },
+    {
+      "title": "Riesgo país de Ecuador perfora los 380 puntos y toca su nivel más bajo desde 2014",
+      "source": "Bloomberg Línea",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMGs2VDMwZTlidUYwTE5HdWxtZDN6THYtdGoxNmU2Nlh2RDFPejZmNHk1SGE2cHBkeTF3bkFrbGJtNlUyYWl0Z3J0NVRZOWZLT21OMTRDSzlVLVB3cjNHcHNPMTV5bHM3LTQ1WnFhOE1iTUZrbUNNRGdSRWhCZVFsWjd3Zkh4cHc1OTFjN25yWFZLMGhOaGRCSXJNemFMZnExWDFhSWc1VHlxcENnbXJwZEdhYjNSeldEMTdubXpvODk5NmhITlpobzhJSXhGNlJ30gHkAUFVX3lxTFBrbS1IZnpJcUxLNk45RGZHeDBHel95UVZnUVduU0JDcDR1NUpJWHhBbTQ3NlgyXzAyYjZTM3ZGeGZ3azdiSjluM2J0Vk9VN1hNZHlnazJLZnVxN1p0anllN2phaUxkS3ZwZU53UTN1N18yNGRGOVgtNG9hdW1YWDZhN0NmTDRTVjZpMlQ1VEJrQ3ZBazFoUFpqcFlDc3EzRTNJQWtjMmpwdF9zdGZLTFNLczRjczV4VUpYVTdqQ1kzUDk5cGlSREMteWF3WktqZTZ3dm9XSW9oR1V1cXdDSzRUd2l1TQ?oc=5",
+      "ts": 1781593200000,
+      "sentiment": -0.5,
+      "tags": [
+        {
+          "sym": "RIESGO PAÍS",
+          "name": "Riesgo país (EMBI)",
+          "pct": null,
+          "dir": 1
+        }
+      ]
     },
     {
       "title": "Petróleo vuelve a liderar exportaciones de Ecuador, impulsado por el alza del precio del crudo",
@@ -1617,14 +1632,6 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMlF3UmlxSFhqQzhnWnF3U1IwU2NqQ240Szl3OWhXNnp6VUQ2Nm0xdkQzd3cxSkJSUG45MXJGbWQ5M2dDVjBQUEl1d3FaeGJzeFMxYXhadmFlLTZlM2JCLTc5MVFiZExnZ1pQWWJKRWh6eFRya0FNc3M4bmlXMmg3Y0l5ZkZDc2tOWnJsd1k3Tkxkd21kYU5uRGktajJaM0V4cVVUNVpmcl8zbFdtckZPbmZTUTVnc3d6anlEUFpkUVVMUk5aeDZuRU9RYWPSAeABQVVfeXFMTzdMYXdSdWRxdFA4cWZLbUpqV0RPTkJpMnV2ZzVpODlCXzJLaURQZURSZVdWX3k1LVRNZW1DbnRQSUhPVmhISDhJRGVHQ1docDJ1V1lpYi1aMV9vaW9IUElhMkZpRFU0YkNiTTczYjRmNzFaSWVtZDEySHRYcVdXaHJ5emtoRWstM2hJaHVkSHJJSThjV3cwNTJpaW1UaXlkb0k1Y01KcXE0RVU2dDFnLUE1eTNBSDhmVGd6NUd0UlN0R01Ec1k4cVlIQk5ETW0yTzBlX21xczFobzIwSTJHNGI?oc=5",
       "ts": 1779865200000,
       "sentiment": 0.0,
-      "tags": []
-    },
-    {
-      "title": "El crédito hipotecario impulsa la construcción y la economía ecuatoriana",
-      "source": "El Comercio",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNDJmNllibkp6Y29NSnQ0enRRVVdZVjdSTEo4cG1Ed2ZUVlNHcHV3dTkxbDd4eWNSTmw4OVFOOEJfSUJnZEp0M3JDNzJ2ZzdMYUl1amtFVzg3NnBTdGRkMUZSUUROTzMtcVNuVHlQcGlQRElxdlJVbEthbi1Lcl9WbWE3NmtDbDk3cWpRUWpfWlhZa3U1bkpTeWZxZmdkRnFRVE5jQzJEbXAwUQ?oc=5",
-      "ts": 1779692400000,
-      "sentiment": 0.5,
       "tags": []
     }
   ]

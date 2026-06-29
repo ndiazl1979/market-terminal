@@ -25,6 +25,7 @@
     --mono: 'IBM Plex Mono', ui-monospace, 'Cascadia Mono', Consolas, monospace;
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
   html, body { background: var(--bg); color: var(--txt); font-family: var(--mono); font-size: 14px; }
   body { padding: 0 0 40px; }
 
@@ -51,7 +52,7 @@
   .tape-item .sym { color: var(--amber); font-weight: 600; }
 
   .wrap { max-width: 1480px; margin: 0 auto; padding: 18px 16px; }
-  .section-label { color: var(--amber); font-size: 11px; letter-spacing: 2px; margin: 6px 0 12px; border-left: 3px solid var(--amber); padding-left: 8px; }
+  .section-label { color: var(--amber); font-size: 11px; letter-spacing: 2px; margin: 6px 0 12px; border-left: 3px solid var(--amber); padding-left: 8px; scroll-margin-top: 64px; }
 
   /* add-asset panel */
   .adder { background: linear-gradient(180deg,var(--panel),var(--panel2)); border:1px solid var(--grid); border-radius:4px; padding:12px 14px; margin-bottom:16px; }
@@ -224,7 +225,54 @@
   .wc-thirds tr.no td.st { color:var(--down); }
   .wc-thirds tr.cutline td { border-top:2px solid var(--amber); }
 
-  @media (max-width:520px){ .wc-vb{grid-template-columns:1fr;} .wc-groups{grid-template-columns:1fr;} }
+  /* ===== salto rápido (quick nav) ===== */
+  .wc-quicknav { position:sticky; top:0; z-index:30; display:flex; flex-wrap:wrap; align-items:center; gap:6px;
+    background:rgba(12,15,18,.96); -webkit-backdrop-filter:blur(4px); backdrop-filter:blur(4px);
+    border:1px solid var(--grid); border-radius:4px; padding:8px 10px; margin-bottom:14px; }
+  .wc-quicknav a { font-size:10.5px; letter-spacing:.5px; color:var(--txt-dim); text-decoration:none;
+    border:1px solid var(--grid); border-radius:3px; padding:4px 9px; background:var(--panel); white-space:nowrap; cursor:pointer; }
+  .wc-quicknav a:hover { color:var(--cyan); border-color:var(--cyan); }
+  .wc-tz { margin-left:auto; align-self:center; font-size:9.5px; color:var(--txt-dim); }
+  .wc-tz b { color:var(--amber); }
+
+  /* ===== cuadro / bracket eliminatorias ===== */
+  .wc-bracket { display:flex; gap:14px; overflow-x:auto; padding:4px 2px 12px; }
+  .bk-col { flex:0 0 auto; width:205px; display:flex; flex-direction:column; gap:10px; }
+  .bk-col.center { justify-content:center; }
+  .bk-col h5 { font-size:10px; letter-spacing:1.5px; color:var(--amber); text-align:center; margin:0;
+    padding:6px; border:1px solid var(--grid); border-radius:3px; background:var(--panel); }
+  .bk-col h5 small { display:block; color:var(--txt-dim); font-size:8.5px; letter-spacing:.5px; margin-top:2px; }
+  .bk-cell { background:linear-gradient(180deg,var(--panel),var(--panel2)); border:1px solid var(--grid);
+    border-left:3px solid var(--cyan); border-radius:4px; padding:7px 9px; cursor:pointer; transition:.15s; }
+  .bk-cell:hover { border-color:var(--cyan); transform:translateY(-1px); }
+  .bk-cell.done { border-left-color:var(--txt-dim); }
+  .bk-cell.live { border-left-color:var(--down); }
+  .bk-time { font-size:8.5px; color:var(--txt-dim); letter-spacing:.3px; display:flex; justify-content:space-between; gap:6px; }
+  .bk-time .st { color:var(--cyan); } .bk-cell.done .bk-time .st { color:var(--txt-dim); } .bk-cell.live .bk-time .st { color:var(--down); }
+  .bk-team { display:flex; align-items:center; gap:6px; font-size:12.5px; margin-top:5px; }
+  .bk-team img { width:16px; height:16px; object-fit:contain; flex:0 0 auto; }
+  .bk-team .bn { font-weight:700; color:var(--txt); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .bk-team.ph .bn { color:var(--txt-dim); font-weight:500; font-size:10.5px; }
+  .bk-team .bp { margin-left:auto; font-size:10px; color:var(--txt-dim); flex:0 0 auto; }
+  .bk-team.win .bn { color:var(--up); }
+  .bk-team.win .bp { color:var(--up); font-weight:700; }
+  .bk-link { margin-top:7px; font-size:9px; color:var(--cyan); letter-spacing:.5px; }
+  .bk-cell.done .bk-link { color:var(--txt-dim); }
+  .bk-empty { font-size:10px; color:var(--txt-dim); text-align:center; padding:16px 6px;
+    border:1px dashed var(--grid); border-radius:4px; line-height:1.5; }
+
+  /* ===== botón subir + flash ===== */
+  #toTop { position:fixed; right:18px; bottom:18px; z-index:60; width:42px; height:42px; border-radius:50%;
+    background:var(--cyan); color:#04222a; border:none; font-size:20px; font-weight:700; cursor:pointer;
+    line-height:42px; text-align:center; padding:0; opacity:0; pointer-events:none; transition:opacity .2s;
+    box-shadow:0 3px 12px rgba(0,0,0,.5); }
+  #toTop.show { opacity:.9; pointer-events:auto; }
+  #toTop:hover { opacity:1; }
+  .m-card { scroll-margin-top:64px; }
+  .m-card.flash { animation:cardflash 1.8s ease-out; }
+  @keyframes cardflash { 0%,15%{ box-shadow:0 0 0 2px var(--cyan); border-color:var(--cyan); } 100%{ box-shadow:0 0 0 0 transparent; } }
+
+  @media (max-width:520px){ .wc-vb{grid-template-columns:1fr;} .wc-groups{grid-template-columns:1fr;} .bk-col{width:170px;} }
 
   /* ===== noticias: tablero de tickers ===== */
   .tkboard { display:grid; grid-template-columns:repeat(auto-fill,minmax(120px,1fr)); gap:8px; margin-bottom:8px; }
@@ -318,10 +366,22 @@
 
     <div id="wc-error"></div>
 
-    <div class="section-label">★ TABLERO DE VALOR · MEJORES PICKS (EV+, ordenado por estabilidad)</div>
+    <nav class="wc-quicknav" id="wc-quicknav">
+      <a data-jump="sec-bracket">🏆 Cuadro</a>
+      <a data-jump="sec-value">★ Valor</a>
+      <a data-jump="sec-matches">⚽ Partidos</a>
+      <a data-jump="sec-groups">▣ Grupos</a>
+      <a data-jump="sec-thirds">③ Terceros</a>
+      <span class="wc-tz" id="wc-tz"></span>
+    </nav>
+
+    <div class="section-label" id="sec-bracket">🏆 CUADRO DE ELIMINATORIAS · DE 16AVOS A LA FINAL (clic en un partido → su predicción)</div>
+    <div id="wc-bracket" class="wc-bracket">cargando…</div>
+
+    <div class="section-label" id="sec-value">★ TABLERO DE VALOR · MEJORES PICKS (EV+, ordenado por estabilidad)</div>
     <div id="wc-valueboard" class="wc-vb">cargando…</div>
 
-    <div class="section-label">⚽ PARTIDOS · PREDICCIÓN QUANT (1X2 · hándicap · total · goles · tiros · EV)</div>
+    <div class="section-label" id="sec-matches">⚽ PARTIDOS · PREDICCIÓN QUANT (1X2 · hándicap · total · goles · tiros · EV)</div>
     <div class="wc-filter" id="wc-filter">
       <button class="seg-b active" data-f="upcoming">PRÓXIMOS</button>
       <button class="seg-b" data-f="all">TODOS</button>
@@ -329,10 +389,10 @@
     </div>
     <div id="wc-matches" class="grid"></div>
 
-    <div class="section-label">▣ GRUPOS · TABLA ACTUALIZADA (▮ clasifica · ▮ 3er lugar · ▮ eliminado)</div>
+    <div class="section-label" id="sec-groups">▣ GRUPOS · TABLA ACTUALIZADA (▮ clasifica · ▮ 3er lugar · ▮ eliminado)</div>
     <div id="wc-groups" class="wc-groups"></div>
 
-    <div class="section-label">③ CARRERA DE TERCEROS · LOS 8 MEJORES TERCEROS CLASIFICAN</div>
+    <div class="section-label" id="sec-thirds">③ CARRERA DE TERCEROS · LOS 8 MEJORES TERCEROS CLASIFICAN</div>
     <div id="wc-thirds" class="wc-thirds"></div>
 
     <footer>
@@ -387,6 +447,8 @@
       <strong>Solo con fines informativos — no constituye asesoría de inversión.</strong>
     </footer>
   </div>
+
+  <button id="toTop" title="Subir al inicio" aria-label="Subir al inicio">↑</button>
 
 <script>
 /* ============================ helpers de formato ============================ */
@@ -726,6 +788,102 @@ const evClass = e => e>0?'ev-pos':e<0?'ev-neg':'';
 const signed = e => (e>0?'+':'')+NF(e,1);
 let WC=null, WC_FILTER='upcoming';
 
+/* ---- hora local del navegador (la "hora local" del usuario) ---- */
+const LOCAL_TZ = (()=>{ try{ return Intl.DateTimeFormat().resolvedOptions().timeZone || 'local'; }catch(e){ return 'local'; } })();
+function fmtLocal(iso, opts){
+  if(!iso) return '';
+  const d=new Date(iso);
+  if(isNaN(d)) return '';
+  return d.toLocaleString('es-ES', opts || {weekday:'short', day:'2-digit', month:'short', hour:'2-digit', minute:'2-digit'});
+}
+function fmtLocalShort(iso){ return fmtLocal(iso, {day:'2-digit', month:'short', hour:'2-digit', minute:'2-digit'}); }
+
+/* ---- bracket: detección de etapa y etiquetas ---- */
+const KO_STAGES = [
+  {key:'R32', title:'16AVOS', sub:'Ronda de 32'},
+  {key:'R16', title:'8VOS',   sub:'Octavos'},
+  {key:'QF',  title:'4TOS',   sub:'Cuartos'},
+  {key:'SF',  title:'SEMIS',  sub:'Semifinales'},
+  {key:'F',   title:'FINAL',  sub:'Final · 3er puesto'},
+];
+function koStage(m){
+  const r=(m.round||'');
+  if(/^Group/i.test(r)) return null;                 // partido de grupos, no es eliminatoria
+  const txt=((m.home.name||'')+' '+(m.away.name||'')).toLowerCase();
+  // la etapa es un nivel por encima de la ronda de la que provienen los equipos
+  if(/round of 32/.test(txt)) return 'R16';
+  if(/round of 16/.test(txt)) return 'QF';
+  if(/quarterfinal|quarter-final/.test(txt)) return 'SF';
+  if(/semifinal|semi-final/.test(txt)) return 'F';
+  if(/round of 32/.test(r) || /16avos|dieciseisavos/i.test(r)) return 'R32';
+  if(/round of 16|octavos/i.test(r)) return 'R16';
+  if(/quarter|cuartos/i.test(r)) return 'QF';
+  if(/semi/i.test(r)) return 'SF';
+  if(/final/i.test(r)) return 'F';
+  return 'R32';   // equipos ya definidos (sin referencia a ronda previa) → primera eliminatoria
+}
+function isPlaceholder(t){ return /^RD\d/i.test(t.abbr||'') || /winner|loser|runner|round of|group [a-l] /i.test((t.name||'')); }
+function koTeamLabel(t){
+  if(!isPlaceholder(t)) return t.abbr || t.name || '—';
+  const n=(t.name||'');
+  let mtch=n.match(/Round of (\d+)\s+(\d+)\s+(Winner|Loser)/i);
+  if(mtch){ const pre = mtch[3].toLowerCase()==='winner' ? 'Gan.' : '3°'; return `${pre} R${mtch[1]}·${mtch[2]}`; }
+  mtch=n.match(/(Quarterfinal|Semifinal)\s+(\d+)\s+(Winner|Loser)/i);
+  if(mtch){ const pre = mtch[3].toLowerCase()==='winner' ? 'Gan.' : '3°'; const tag = /quarter/i.test(mtch[1])?'4tos':'Semi'; return `${pre} ${tag}·${mtch[2]}`; }
+  return n.replace(/\s*Winner$/i,'').replace('Round of','R') || 'Por definir';
+}
+
+function bracketCell(m){
+  const st=m.state, isFinal=st==='post', isLive=st==='in';
+  const cls=isFinal?'done':isLive?'live':'';
+  const stTxt=isFinal?'FINAL':isLive?'EN VIVO':'PRÓXIMO';
+  const p=m.pred||null;
+  const phH=isPlaceholder(m.home), phA=isPlaceholder(m.away);
+  // ganador resaltado: por marcador si terminó, por probabilidad si hay predicción
+  let winH=false, winA=false, pH='', pA='';
+  if(isFinal){
+    const hs=+m.home.score, as=+m.away.score;
+    if(hs>as) winH=true; else if(as>hs) winA=true;
+    pH=(m.home.score??''); pA=(m.away.score??'');
+  } else if(p){
+    if(p.pHome>p.pAway) winH=true; else if(p.pAway>p.pHome) winA=true;
+    pH=Math.round(p.pHome)+'%'; pA=Math.round(p.pAway)+'%';
+  }
+  const teamRow=(t,ph,win,val)=>{
+    const img=(!ph && t.logo)?`<img src="${t.logo}" onerror="this.style.display='none'">`:'';
+    return `<div class="bk-team ${ph?'ph':''} ${win?'win':''}">${img}
+      <span class="bn" title="${(t.name||t.abbr||'').replace(/"/g,'')}">${koTeamLabel(t)}</span>
+      <span class="bp">${val}</span></div>`;
+  };
+  return `<div class="bk-cell ${cls}" data-match="${m.id}" title="Ver predicción de este partido">
+    <div class="bk-time"><span>${fmtLocalShort(m.date)}</span><span class="st">${stTxt}</span></div>
+    ${teamRow(m.home,phH,winH,pH)}
+    ${teamRow(m.away,phA,winA,pA)}
+    <div class="bk-link">▾ ver predicción</div>
+  </div>`;
+}
+
+function renderBracket(){
+  const el=document.getElementById('wc-bracket');
+  if(!WC){ el.innerHTML='cargando…'; return; }
+  const ko=(WC.matches||[]).filter(m=>koStage(m));
+  if(!ko.length){
+    el.innerHTML='<div class="bk-empty">El cuadro de eliminatorias se completará cuando ESPN publique el calendario de la ronda de 32 en adelante.<br>Por ahora la fase de grupos sigue en juego.</div>';
+    return;
+  }
+  const byStage={};
+  ko.forEach(m=>{ const s=koStage(m); (byStage[s]=byStage[s]||[]).push(m); });
+  Object.values(byStage).forEach(list=>list.sort((a,b)=>(a.date||'').localeCompare(b.date||'')));
+  el.innerHTML = KO_STAGES.map(s=>{
+    const list=byStage[s.key]||[];
+    const cells = list.length
+      ? list.map(bracketCell).join('')
+      : `<div class="bk-empty">Por definir</div>`;
+    return `<div class="bk-col ${list.length?'':'center'}">
+      <h5>${s.title}<small>${s.sub}</small></h5>${cells}</div>`;
+  }).join('');
+}
+
 function teamMini(t, away){
   const img = t.logo ? `<img src="${t.logo}" alt="" onerror="this.style.display='none'">` : '';
   return `<div class="m-team ${away?'away':''}">${img}
@@ -807,8 +965,9 @@ function matchCard(m){
   }
 
   const barColor = m.rec ? 'var(--up)' : isFinal ? 'var(--txt-dim)' : 'var(--cyan)';
-  return `<div class="m-card" style="--bar:${barColor}">
-    <div class="m-top"><span>${m.round||''}</span><span class="m-state ${stCls}">${stTxt}${m.detail&&!isFinal?' · '+m.detail:''}</span></div>
+  const when = fmtLocal(m.date);
+  return `<div class="m-card" id="m-${m.id}" style="--bar:${barColor}">
+    <div class="m-top"><span>${m.round||''}${when?' · 🕑 '+when:''}</span><span class="m-state ${stCls}">${stTxt}${m.detail&&!isFinal?' · '+m.detail:''}</span></div>
     <div class="m-teams">${teamMini(m.home)}${center}${teamMini(m.away,true)}</div>
     ${body}</div>`;
 }
@@ -852,13 +1011,32 @@ function renderMatches(){
 
 function renderWC(){
   if(!WC) return;
+  renderBracket();
   document.getElementById('wc-valueboard').innerHTML = valueBoard(WC.valueBoard);
   renderMatches();
   document.getElementById('wc-groups').innerHTML = (WC.groups||[]).map(groupTable).join('');
   document.getElementById('wc-thirds').innerHTML = thirdsTable(WC.thirdPlace||[]);
+  const tz=document.getElementById('wc-tz');
+  if(tz) tz.innerHTML=`🕑 horas en tu hora local · <b>${LOCAL_TZ}</b>`;
   if(WC.updated){
     const u=new Date(WC.updated);
     document.getElementById('wc-updated').textContent=u.toUTCString().slice(17,25)+' UTC';
+  }
+}
+
+/* desplazarse a la predicción exacta de un partido del cuadro */
+function jumpToMatch(id){
+  if(WC_FILTER==='value'){   // garantiza que la tarjeta esté renderizada
+    WC_FILTER='all';
+    document.querySelectorAll('#wc-filter .seg-b').forEach(b=>b.classList.toggle('active',b.dataset.f==='all'));
+    renderMatches();
+  }
+  const card=document.getElementById('m-'+id);
+  if(card){
+    card.scrollIntoView({behavior:'smooth', block:'center'});
+    card.classList.remove('flash'); void card.offsetWidth; card.classList.add('flash');
+  } else {
+    document.getElementById('sec-matches').scrollIntoView({behavior:'smooth'});
   }
 }
 
@@ -887,6 +1065,21 @@ document.getElementById('wc-filter').addEventListener('click',e=>{
   document.querySelectorAll('#wc-filter .seg-b').forEach(b=>b.classList.toggle('active',b===btn));
   WC_FILTER=btn.dataset.f; renderMatches();
 });
+/* clic en una celda del cuadro → su predicción exacta más abajo */
+document.getElementById('wc-bracket').addEventListener('click',e=>{
+  const cell=e.target.closest('.bk-cell'); if(!cell) return;
+  jumpToMatch(cell.dataset.match);
+});
+/* salto rápido entre secciones */
+document.getElementById('wc-quicknav').addEventListener('click',e=>{
+  const a=e.target.closest('a[data-jump]'); if(!a) return;
+  const t=document.getElementById(a.dataset.jump);
+  if(t) t.scrollIntoView({behavior:'smooth', block:'start'});
+});
+/* botón subir al inicio */
+const toTop=document.getElementById('toTop');
+window.addEventListener('scroll',()=>{ toTop.classList.toggle('show', window.scrollY>400); }, {passive:true});
+toTop.addEventListener('click',()=>window.scrollTo({top:0, behavior:'smooth'}));
 
 /* ============================ NOTICIAS / ECUADOR ============================ */
 let NEWS=null;

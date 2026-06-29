@@ -45,8 +45,18 @@ SESSION = requests.Session()
 SESSION.headers.update({"User-Agent": UA})
 
 # Ventana de partidos a predecir (desde hoy). El Mundial 2026 va ~jun 11 – jul 19.
-PREDICT_DAYS_AHEAD = 12
+PREDICT_DAYS_AHEAD = 30        # cubre desde 16avos hasta la final
 PREDICT_DAYS_BACK = 2          # para mostrar también resultados recientes
+
+# Etiquetas de etapa (slug de ESPN -> nombre mostrado) para el cuadro de eliminatorias.
+STAGE_LABELS = {
+    "round-of-32": "Ronda de 32",
+    "round-of-16": "Octavos",
+    "quarterfinals": "Cuartos",
+    "semifinals": "Semifinal",
+    "3rd-place-match": "3er puesto",
+    "final": "Final",
+}
 MAX_ODDS_FETCH = 22            # tope de summaries (cuotas) por corrida
 
 # Parámetros del modelo
@@ -573,17 +583,25 @@ def main():
             continue
         status = ev.get("status", {}).get("type", {})
         state = status.get("state", "pre")  # pre / in / post
-        note = ""
-        notes = comp.get("notes") or []
-        if notes:
-            note = notes[0].get("headline", "")
-        if not note:
-            note = (index.get(home["abbr"], {}) or {}).get("group", "") or "Mundial 2026"
+        slug = (ev.get("season") or {}).get("slug", "") or ""
+
+        # Etiqueta de ronda: en eliminatorias usa la etapa real (ESPN season slug);
+        # en fase de grupos, el grupo del equipo (o el headline si lo trae).
+        if slug in STAGE_LABELS:
+            note = STAGE_LABELS[slug]
+        else:
+            note = ""
+            notes = comp.get("notes") or []
+            if notes:
+                note = notes[0].get("headline", "")
+            if not note:
+                note = (index.get(home["abbr"], {}) or {}).get("group", "") or "Mundial 2026"
 
         match = {
             "id": ev.get("id"),
             "date": ev.get("date"),
             "state": state,
+            "stage": slug,
             "detail": status.get("shortDetail") or status.get("description"),
             "round": note,
             "home": home,

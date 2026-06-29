@@ -806,21 +806,27 @@ const KO_STAGES = [
   {key:'SF',  title:'SEMIS',  sub:'Semifinales'},
   {key:'F',   title:'FINAL',  sub:'Final · 3er puesto'},
 ];
+const SLUG_STAGE = {'round-of-32':'R32','round-of-16':'R16','quarterfinals':'QF','semifinals':'SF','final':'F','3rd-place-match':'F'};
 function koStage(m){
+  // 1) fuente fiable: etapa real de ESPN (season slug)
+  if(m.stage){
+    if(m.stage==='group-stage') return null;
+    if(SLUG_STAGE[m.stage]) return SLUG_STAGE[m.stage];
+  }
+  // 2) respaldo (json antiguo sin stage): heurística por etiqueta y nombres
   const r=(m.round||'');
-  if(/^Group/i.test(r)) return null;                 // partido de grupos, no es eliminatoria
+  if(/^Group/i.test(r)) return null;
   const txt=((m.home.name||'')+' '+(m.away.name||'')).toLowerCase();
-  // la etapa es un nivel por encima de la ronda de la que provienen los equipos
-  if(/round of 32/.test(txt)) return 'R16';
+  if(/round of 32/.test(txt)) return 'R16';          // proviene de ganadores de 16avos → octavos
   if(/round of 16/.test(txt)) return 'QF';
   if(/quarterfinal|quarter-final/.test(txt)) return 'SF';
   if(/semifinal|semi-final/.test(txt)) return 'F';
-  if(/round of 32/.test(r) || /16avos|dieciseisavos/i.test(r)) return 'R32';
-  if(/round of 16|octavos/i.test(r)) return 'R16';
-  if(/quarter|cuartos/i.test(r)) return 'QF';
+  if(/ronda de 32|16avos|dieciseisavos/i.test(r)) return 'R32';
+  if(/octavos|round of 16/i.test(r)) return 'R16';
+  if(/cuartos|quarter/i.test(r)) return 'QF';
   if(/semi/i.test(r)) return 'SF';
-  if(/final/i.test(r)) return 'F';
-  return 'R32';   // equipos ya definidos (sin referencia a ronda previa) → primera eliminatoria
+  if(/final|3er puesto|3rd/i.test(r)) return 'F';
+  return null;
 }
 function isPlaceholder(t){ return /^RD\d/i.test(t.abbr||'') || /winner|loser|runner|round of|group [a-l] /i.test((t.name||'')); }
 function koTeamLabel(t){
@@ -1026,12 +1032,13 @@ function renderWC(){
 
 /* desplazarse a la predicción exacta de un partido del cuadro */
 function jumpToMatch(id){
-  if(WC_FILTER==='value'){   // garantiza que la tarjeta esté renderizada
+  let card=document.getElementById('m-'+id);
+  if(!card && WC_FILTER!=='all'){   // el filtro actual oculta la tarjeta → mostrar TODOS
     WC_FILTER='all';
     document.querySelectorAll('#wc-filter .seg-b').forEach(b=>b.classList.toggle('active',b.dataset.f==='all'));
     renderMatches();
+    card=document.getElementById('m-'+id);
   }
-  const card=document.getElementById('m-'+id);
   if(card){
     card.scrollIntoView({behavior:'smooth', block:'center'});
     card.classList.remove('flash'); void card.offsetWidth; card.classList.add('flash');

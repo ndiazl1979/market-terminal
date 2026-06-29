@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T11:28:05.308972+00:00",
+  "updated": "2026-06-29T12:26:12.601192+00:00",
   "tournament": "FIFA World Cup 2026",
   "groups": [
     {
@@ -1030,6 +1030,7 @@
       "id": "760480",
       "date": "2026-06-27T21:00Z",
       "state": "post",
+      "stage": "group-stage",
       "detail": "FT",
       "round": "Group L",
       "home": {
@@ -1051,6 +1052,7 @@
       "id": "760485",
       "date": "2026-06-27T21:00Z",
       "state": "post",
+      "stage": "group-stage",
       "detail": "FT",
       "round": "Group L",
       "home": {
@@ -1072,6 +1074,7 @@
       "id": "760481",
       "date": "2026-06-27T23:30Z",
       "state": "post",
+      "stage": "group-stage",
       "detail": "FT",
       "round": "Group K",
       "home": {
@@ -1093,6 +1096,7 @@
       "id": "760482",
       "date": "2026-06-27T23:30Z",
       "state": "post",
+      "stage": "group-stage",
       "detail": "FT",
       "round": "Group K",
       "home": {
@@ -1114,6 +1118,7 @@
       "id": "760484",
       "date": "2026-06-28T02:00Z",
       "state": "post",
+      "stage": "group-stage",
       "detail": "FT",
       "round": "Group J",
       "home": {
@@ -1135,6 +1140,7 @@
       "id": "760483",
       "date": "2026-06-28T02:00Z",
       "state": "post",
+      "stage": "group-stage",
       "detail": "FT",
       "round": "Group J",
       "home": {
@@ -1156,8 +1162,9 @@
       "id": "760486",
       "date": "2026-06-28T19:00Z",
       "state": "post",
+      "stage": "round-of-32",
       "detail": "FT",
-      "round": "Group A",
+      "round": "Ronda de 32",
       "home": {
         "abbr": "RSA",
         "name": "South Africa",
@@ -1177,8 +1184,9 @@
       "id": "760487",
       "date": "2026-06-29T17:00Z",
       "state": "pre",
+      "stage": "round-of-32",
       "detail": "Scheduled",
-      "round": "Group C",
+      "round": "Ronda de 32",
       "home": {
         "abbr": "BRA",
         "name": "Brazil",
@@ -1345,8 +1353,9 @@
       "id": "760489",
       "date": "2026-06-29T20:30Z",
       "state": "pre",
+      "stage": "round-of-32",
       "detail": "Scheduled",
-      "round": "Group E",
+      "round": "Ronda de 32",
       "home": {
         "abbr": "GER",
         "name": "Germany",
@@ -1513,8 +1522,9 @@
       "id": "760488",
       "date": "2026-06-30T01:00Z",
       "state": "pre",
+      "stage": "round-of-32",
       "detail": "Scheduled",
-      "round": "Group F",
+      "round": "Ronda de 32",
       "home": {
         "abbr": "NED",
         "name": "Netherlands",
@@ -1590,8 +1600,8 @@
         "spreadHome": 125.0,
         "spreadAway": -155.0,
         "total": 2.5,
-        "overOdds": 120.0,
-        "underOdds": -150.0
+        "overOdds": 115.0,
+        "underOdds": -145.0
       },
       "bets": [
         {
@@ -1629,20 +1639,20 @@
           "label": "Más de 2.5",
           "sel": "O",
           "pModel": 65.5,
-          "pFair": 54.3,
-          "implied": 43.1,
-          "odds": 2.2,
-          "ev": 19.5
+          "pFair": 54.8,
+          "implied": 44.0,
+          "odds": 2.15,
+          "ev": 17.7
         },
         {
           "market": "Total 2.5",
           "label": "Menos de 2.5",
           "sel": "U",
           "pModel": 34.5,
-          "pFair": 45.7,
-          "implied": 56.9,
-          "odds": 1.67,
-          "ev": -23.8
+          "pFair": 45.2,
+          "implied": 56.0,
+          "odds": 1.69,
+          "ev": -23.5
         },
         {
           "market": "Hándicap -0.5 L",
@@ -1670,19 +1680,20 @@
         "label": "Más de 2.5",
         "sel": "O",
         "pModel": 65.5,
-        "pFair": 54.3,
-        "implied": 43.1,
-        "odds": 2.2,
-        "ev": 19.5,
-        "stability": 10.6
+        "pFair": 54.8,
+        "implied": 44.0,
+        "odds": 2.15,
+        "ev": 17.7,
+        "stability": 9.7
       }
     },
     {
       "id": "760490",
       "date": "2026-06-30T17:00Z",
       "state": "pre",
+      "stage": "round-of-32",
       "detail": "Scheduled",
-      "round": "Group E",
+      "round": "Ronda de 32",
       "home": {
         "abbr": "CIV",
         "name": "Ivory Coast",
@@ -1849,8 +1860,9 @@
       "id": "760492",
       "date": "2026-06-30T21:00Z",
       "state": "pre",
+      "stage": "round-of-32",
       "detail": "Scheduled",
-      "round": "Group I",
+      "round": "Ronda de 32",
       "home": {
         "abbr": "FRA",
         "name": "France",
@@ -1921,12 +1933,12 @@
         "details": "FRA -1.5",
         "mlHome": -370,
         "mlAway": 950,
-        "mlDraw": 550.0,
+        "mlDraw": 500.0,
         "spread": -1.5,
         "spreadHome": -140.0,
         "spreadAway": 110.0,
         "total": 3.5,
-        "overOdds": 120.0,
+        "overOdds": 125.0,
         "underOdds": -150.0
       },
       "bets": [
@@ -1935,20 +1947,20 @@
           "label": "Gana local",
           "sel": "1",
           "pModel": 85.9,
-          "pFair": 80.9,
-          "implied": 76.0,
+          "pFair": 80.5,
+          "implied": 75.0,
           "odds": 1.27,
-          "ev": 2.8
+          "ev": 2.2
         },
         {
           "market": "1X2",
           "label": "Empate",
           "sel": "X",
           "pModel": 8.5,
-          "pFair": 11.7,
-          "implied": 14.8,
-          "odds": 6.5,
-          "ev": -24.1
+          "pFair": 12.2,
+          "implied": 15.9,
+          "odds": 6.0,
+          "ev": -26.8
         },
         {
           "market": "1X2",
@@ -1956,29 +1968,29 @@
           "sel": "2",
           "pModel": 5.5,
           "pFair": 7.3,
-          "implied": 9.2,
+          "implied": 9.1,
           "odds": 10.5,
-          "ev": -22.9
+          "ev": -23.5
         },
         {
           "market": "Total 3.5",
           "label": "Más de 3.5",
           "sel": "O",
           "pModel": 65.1,
-          "pFair": 54.1,
-          "implied": 43.1,
-          "odds": 2.2,
-          "ev": 19.0
+          "pFair": 53.8,
+          "implied": 42.6,
+          "odds": 2.25,
+          "ev": 21.1
         },
         {
           "market": "Total 3.5",
           "label": "Menos de 3.5",
           "sel": "U",
           "pModel": 34.9,
-          "pFair": 45.9,
-          "implied": 56.9,
+          "pFair": 46.2,
+          "implied": 57.4,
           "odds": 1.67,
-          "ev": -23.5
+          "ev": -23.0
         },
         {
           "market": "Hándicap -1.5 L",
@@ -2006,19 +2018,20 @@
         "label": "Más de 3.5",
         "sel": "O",
         "pModel": 65.1,
-        "pFair": 54.1,
-        "implied": 43.1,
-        "odds": 2.2,
-        "ev": 19.0,
-        "stability": 10.3
+        "pFair": 53.8,
+        "implied": 42.6,
+        "odds": 2.25,
+        "ev": 21.1,
+        "stability": 11.4
       }
     },
     {
       "id": "760491",
       "date": "2026-07-01T01:00Z",
       "state": "pre",
+      "stage": "round-of-32",
       "detail": "Scheduled",
-      "round": "Group A",
+      "round": "Ronda de 32",
       "home": {
         "abbr": "MEX",
         "name": "Mexico",
@@ -2185,8 +2198,9 @@
       "id": "760495",
       "date": "2026-07-01T16:00Z",
       "state": "pre",
+      "stage": "round-of-32",
       "detail": "Scheduled",
-      "round": "Group L",
+      "round": "Ronda de 32",
       "home": {
         "abbr": "ENG",
         "name": "England",
@@ -2353,8 +2367,9 @@
       "id": "760493",
       "date": "2026-07-01T20:00Z",
       "state": "pre",
+      "stage": "round-of-32",
       "detail": "Scheduled",
-      "round": "Group G",
+      "round": "Ronda de 32",
       "home": {
         "abbr": "BEL",
         "name": "Belgium",
@@ -2521,8 +2536,9 @@
       "id": "760494",
       "date": "2026-07-02T00:00Z",
       "state": "pre",
+      "stage": "round-of-32",
       "detail": "Scheduled",
-      "round": "Group D",
+      "round": "Ronda de 32",
       "home": {
         "abbr": "USA",
         "name": "United States",
@@ -2689,8 +2705,9 @@
       "id": "760497",
       "date": "2026-07-02T19:00Z",
       "state": "pre",
+      "stage": "round-of-32",
       "detail": "Scheduled",
-      "round": "Group H",
+      "round": "Ronda de 32",
       "home": {
         "abbr": "ESP",
         "name": "Spain",
@@ -2857,8 +2874,9 @@
       "id": "760496",
       "date": "2026-07-02T23:00Z",
       "state": "pre",
+      "stage": "round-of-32",
       "detail": "Scheduled",
-      "round": "Group K",
+      "round": "Ronda de 32",
       "home": {
         "abbr": "POR",
         "name": "Portugal",
@@ -3025,8 +3043,9 @@
       "id": "760498",
       "date": "2026-07-03T03:00Z",
       "state": "pre",
+      "stage": "round-of-32",
       "detail": "Scheduled",
-      "round": "Group B",
+      "round": "Ronda de 32",
       "home": {
         "abbr": "SUI",
         "name": "Switzerland",
@@ -3193,8 +3212,9 @@
       "id": "760499",
       "date": "2026-07-03T18:00Z",
       "state": "pre",
+      "stage": "round-of-32",
       "detail": "Scheduled",
-      "round": "Group D",
+      "round": "Ronda de 32",
       "home": {
         "abbr": "AUS",
         "name": "Australia",
@@ -3361,8 +3381,9 @@
       "id": "760500",
       "date": "2026-07-03T22:00Z",
       "state": "pre",
+      "stage": "round-of-32",
       "detail": "Scheduled",
-      "round": "Group J",
+      "round": "Ronda de 32",
       "home": {
         "abbr": "ARG",
         "name": "Argentina",
@@ -3519,8 +3540,9 @@
       "id": "760501",
       "date": "2026-07-04T01:30Z",
       "state": "pre",
+      "stage": "round-of-32",
       "detail": "Scheduled",
-      "round": "Group K",
+      "round": "Ronda de 32",
       "home": {
         "abbr": "COL",
         "name": "Colombia",
@@ -3687,8 +3709,9 @@
       "id": "760502",
       "date": "2026-07-04T17:00Z",
       "state": "pre",
+      "stage": "round-of-16",
       "detail": "Scheduled",
-      "round": "Group B",
+      "round": "Octavos",
       "home": {
         "abbr": "CAN",
         "name": "Canada",
@@ -3762,8 +3785,9 @@
       "id": "760503",
       "date": "2026-07-04T21:00Z",
       "state": "pre",
+      "stage": "round-of-16",
       "detail": "Scheduled",
-      "round": "Mundial 2026",
+      "round": "Octavos",
       "home": {
         "abbr": "RD32",
         "name": "Round of 32 2 Winner",
@@ -3837,8 +3861,9 @@
       "id": "760504",
       "date": "2026-07-05T20:00Z",
       "state": "pre",
+      "stage": "round-of-16",
       "detail": "Scheduled",
-      "round": "Mundial 2026",
+      "round": "Octavos",
       "home": {
         "abbr": "RD32",
         "name": "Round of 32 4 Winner",
@@ -3912,8 +3937,9 @@
       "id": "760505",
       "date": "2026-07-06T00:00Z",
       "state": "pre",
+      "stage": "round-of-16",
       "detail": "Scheduled",
-      "round": "Mundial 2026",
+      "round": "Octavos",
       "home": {
         "abbr": "RD32",
         "name": "Round of 32 7 Winner",
@@ -3987,8 +4013,9 @@
       "id": "760506",
       "date": "2026-07-06T19:00Z",
       "state": "pre",
+      "stage": "round-of-16",
       "detail": "Scheduled",
-      "round": "Mundial 2026",
+      "round": "Octavos",
       "home": {
         "abbr": "RD32",
         "name": "Round of 32 11 Winner",
@@ -4062,8 +4089,9 @@
       "id": "760507",
       "date": "2026-07-07T00:00Z",
       "state": "pre",
+      "stage": "round-of-16",
       "detail": "Scheduled",
-      "round": "Mundial 2026",
+      "round": "Octavos",
       "home": {
         "abbr": "RD32",
         "name": "Round of 32 9 Winner",
@@ -4137,8 +4165,9 @@
       "id": "760509",
       "date": "2026-07-07T16:00Z",
       "state": "pre",
+      "stage": "round-of-16",
       "detail": "Scheduled",
-      "round": "Mundial 2026",
+      "round": "Octavos",
       "home": {
         "abbr": "RD32",
         "name": "Round of 32 14 Winner",
@@ -4212,8 +4241,9 @@
       "id": "760508",
       "date": "2026-07-07T20:00Z",
       "state": "pre",
+      "stage": "round-of-16",
       "detail": "Scheduled",
-      "round": "Mundial 2026",
+      "round": "Octavos",
       "home": {
         "abbr": "RD32",
         "name": "Round of 32 13 Winner",
@@ -4287,8 +4317,9 @@
       "id": "760510",
       "date": "2026-07-09T20:00Z",
       "state": "pre",
+      "stage": "quarterfinals",
       "detail": "Scheduled",
-      "round": "Mundial 2026",
+      "round": "Cuartos",
       "home": {
         "abbr": "RD16 W1",
         "name": "Round of 16 1 Winner",
@@ -4362,8 +4393,9 @@
       "id": "760511",
       "date": "2026-07-10T19:00Z",
       "state": "pre",
+      "stage": "quarterfinals",
       "detail": "Scheduled",
-      "round": "Mundial 2026",
+      "round": "Cuartos",
       "home": {
         "abbr": "RD16 W5",
         "name": "Round of 16 5 Winner",
@@ -4437,8 +4469,9 @@
       "id": "760512",
       "date": "2026-07-11T21:00Z",
       "state": "pre",
+      "stage": "quarterfinals",
       "detail": "Scheduled",
-      "round": "Mundial 2026",
+      "round": "Cuartos",
       "home": {
         "abbr": "RD16 W3",
         "name": "Round of 16 3 Winner",
@@ -4512,8 +4545,9 @@
       "id": "760513",
       "date": "2026-07-12T01:00Z",
       "state": "pre",
+      "stage": "quarterfinals",
       "detail": "Scheduled",
-      "round": "Mundial 2026",
+      "round": "Cuartos",
       "home": {
         "abbr": "RD16 W7",
         "name": "Round of 16 7 Winner",
@@ -4582,13 +4616,333 @@
       "odds": null,
       "bets": [],
       "rec": null
+    },
+    {
+      "id": "760514",
+      "date": "2026-07-14T19:00Z",
+      "state": "pre",
+      "stage": "semifinals",
+      "detail": "Scheduled",
+      "round": "Semifinal",
+      "home": {
+        "abbr": "QFW1",
+        "name": "Quarterfinal 1 Winner",
+        "logo": "",
+        "id": "17631",
+        "score": "0"
+      },
+      "away": {
+        "abbr": "QFW2",
+        "name": "Quarterfinal 2 Winner",
+        "logo": "",
+        "id": "17629",
+        "score": "0"
+      },
+      "pred": {
+        "pHome": 37.7,
+        "pDraw": 24.7,
+        "pAway": 37.7,
+        "over": {
+          "1.5": 73.3,
+          "2.5": 49.2,
+          "3.5": 27.3
+        },
+        "under": {
+          "1.5": 26.7,
+          "2.5": 50.8,
+          "3.5": 72.7
+        },
+        "btts": 53.0,
+        "topScores": [
+          {
+            "score": "1-1",
+            "p": 11.7
+          },
+          {
+            "score": "0-1",
+            "p": 10.2
+          },
+          {
+            "score": "1-0",
+            "p": 10.2
+          }
+        ],
+        "likely": "1-1",
+        "lamHome": 1.32,
+        "lamAway": 1.32,
+        "expTotal": 2.64,
+        "ah": {
+          "fav": "home",
+          "line": -0.25,
+          "coverFav": 37.7,
+          "lineAway": 0.25,
+          "coverDog": 62.3
+        },
+        "sot": {
+          "home": 4.1,
+          "away": 4.1,
+          "total": 8.2,
+          "shotsHome": 9.8,
+          "shotsAway": 9.8
+        },
+        "eloHome": 1675,
+        "eloAway": 1675,
+        "confidence": 37.7
+      },
+      "odds": null,
+      "bets": [],
+      "rec": null
+    },
+    {
+      "id": "760515",
+      "date": "2026-07-15T19:00Z",
+      "state": "pre",
+      "stage": "semifinals",
+      "detail": "Scheduled",
+      "round": "Semifinal",
+      "home": {
+        "abbr": "QFW3",
+        "name": "Quarterfinal 3 Winner",
+        "logo": "",
+        "id": "17630",
+        "score": "0"
+      },
+      "away": {
+        "abbr": "QW4",
+        "name": "Quarterfinal 4 Winner",
+        "logo": "",
+        "id": "17632",
+        "score": "0"
+      },
+      "pred": {
+        "pHome": 37.7,
+        "pDraw": 24.7,
+        "pAway": 37.7,
+        "over": {
+          "1.5": 73.3,
+          "2.5": 49.2,
+          "3.5": 27.3
+        },
+        "under": {
+          "1.5": 26.7,
+          "2.5": 50.8,
+          "3.5": 72.7
+        },
+        "btts": 53.0,
+        "topScores": [
+          {
+            "score": "1-1",
+            "p": 11.7
+          },
+          {
+            "score": "0-1",
+            "p": 10.2
+          },
+          {
+            "score": "1-0",
+            "p": 10.2
+          }
+        ],
+        "likely": "1-1",
+        "lamHome": 1.32,
+        "lamAway": 1.32,
+        "expTotal": 2.64,
+        "ah": {
+          "fav": "home",
+          "line": -0.25,
+          "coverFav": 37.7,
+          "lineAway": 0.25,
+          "coverDog": 62.3
+        },
+        "sot": {
+          "home": 4.1,
+          "away": 4.1,
+          "total": 8.2,
+          "shotsHome": 9.8,
+          "shotsAway": 9.8
+        },
+        "eloHome": 1675,
+        "eloAway": 1675,
+        "confidence": 37.7
+      },
+      "odds": null,
+      "bets": [],
+      "rec": null
+    },
+    {
+      "id": "760516",
+      "date": "2026-07-18T21:00Z",
+      "state": "pre",
+      "stage": "3rd-place-match",
+      "detail": "Scheduled",
+      "round": "3er puesto",
+      "home": {
+        "abbr": "SF L1",
+        "name": "Semifinal 1 Loser",
+        "logo": "",
+        "id": "5958",
+        "score": "0"
+      },
+      "away": {
+        "abbr": "SF L2",
+        "name": "Semifinal 2 Loser",
+        "logo": "",
+        "id": "5959",
+        "score": "0"
+      },
+      "pred": {
+        "pHome": 37.7,
+        "pDraw": 24.7,
+        "pAway": 37.7,
+        "over": {
+          "1.5": 73.3,
+          "2.5": 49.2,
+          "3.5": 27.3
+        },
+        "under": {
+          "1.5": 26.7,
+          "2.5": 50.8,
+          "3.5": 72.7
+        },
+        "btts": 53.0,
+        "topScores": [
+          {
+            "score": "1-1",
+            "p": 11.7
+          },
+          {
+            "score": "0-1",
+            "p": 10.2
+          },
+          {
+            "score": "1-0",
+            "p": 10.2
+          }
+        ],
+        "likely": "1-1",
+        "lamHome": 1.32,
+        "lamAway": 1.32,
+        "expTotal": 2.64,
+        "ah": {
+          "fav": "home",
+          "line": -0.25,
+          "coverFav": 37.7,
+          "lineAway": 0.25,
+          "coverDog": 62.3
+        },
+        "sot": {
+          "home": 4.1,
+          "away": 4.1,
+          "total": 8.2,
+          "shotsHome": 9.8,
+          "shotsAway": 9.8
+        },
+        "eloHome": 1675,
+        "eloAway": 1675,
+        "confidence": 37.7
+      },
+      "odds": null,
+      "bets": [],
+      "rec": null
+    },
+    {
+      "id": "760517",
+      "date": "2026-07-19T19:00Z",
+      "state": "pre",
+      "stage": "final",
+      "detail": "Scheduled",
+      "round": "Final",
+      "home": {
+        "abbr": "SFW1",
+        "name": "Semifinal 1 Winner",
+        "logo": "",
+        "id": "5960",
+        "score": "0"
+      },
+      "away": {
+        "abbr": "SFW2",
+        "name": "Semifinal 2 Winner",
+        "logo": "",
+        "id": "5961",
+        "score": "0"
+      },
+      "pred": {
+        "pHome": 37.7,
+        "pDraw": 24.7,
+        "pAway": 37.7,
+        "over": {
+          "1.5": 73.3,
+          "2.5": 49.2,
+          "3.5": 27.3
+        },
+        "under": {
+          "1.5": 26.7,
+          "2.5": 50.8,
+          "3.5": 72.7
+        },
+        "btts": 53.0,
+        "topScores": [
+          {
+            "score": "1-1",
+            "p": 11.7
+          },
+          {
+            "score": "0-1",
+            "p": 10.2
+          },
+          {
+            "score": "1-0",
+            "p": 10.2
+          }
+        ],
+        "likely": "1-1",
+        "lamHome": 1.32,
+        "lamAway": 1.32,
+        "expTotal": 2.64,
+        "ah": {
+          "fav": "home",
+          "line": -0.25,
+          "coverFav": 37.7,
+          "lineAway": 0.25,
+          "coverDog": 62.3
+        },
+        "sot": {
+          "home": 4.1,
+          "away": 4.1,
+          "total": 8.2,
+          "shotsHome": 9.8,
+          "shotsAway": 9.8
+        },
+        "eloHome": 1675,
+        "eloAway": 1675,
+        "confidence": 37.7
+      },
+      "odds": null,
+      "bets": [],
+      "rec": null
     }
   ],
   "valueBoard": [
     {
+      "id": "760492",
+      "date": "2026-06-30T21:00Z",
+      "round": "Ronda de 32",
+      "home": "FRA",
+      "away": "SWE",
+      "homeName": "France",
+      "awayName": "Sweden",
+      "market": "Total 3.5",
+      "label": "Más de 3.5",
+      "odds": 2.25,
+      "pModel": 65.1,
+      "pFair": 53.8,
+      "ev": 21.1,
+      "stability": 11.4
+    },
+    {
       "id": "760493",
       "date": "2026-07-01T20:00Z",
-      "round": "Group G",
+      "round": "Ronda de 32",
       "home": "BEL",
       "away": "SEN",
       "homeName": "Belgium",
@@ -4604,7 +4958,7 @@
     {
       "id": "760498",
       "date": "2026-07-03T03:00Z",
-      "round": "Group B",
+      "round": "Ronda de 32",
       "home": "SUI",
       "away": "ALG",
       "homeName": "Switzerland",
@@ -4620,39 +4974,23 @@
     {
       "id": "760488",
       "date": "2026-06-30T01:00Z",
-      "round": "Group F",
+      "round": "Ronda de 32",
       "home": "NED",
       "away": "MAR",
       "homeName": "Netherlands",
       "awayName": "Morocco",
       "market": "Total 2.5",
       "label": "Más de 2.5",
-      "odds": 2.2,
+      "odds": 2.15,
       "pModel": 65.5,
-      "pFair": 54.3,
-      "ev": 19.5,
-      "stability": 10.6
-    },
-    {
-      "id": "760492",
-      "date": "2026-06-30T21:00Z",
-      "round": "Group I",
-      "home": "FRA",
-      "away": "SWE",
-      "homeName": "France",
-      "awayName": "Sweden",
-      "market": "Total 3.5",
-      "label": "Más de 3.5",
-      "odds": 2.2,
-      "pModel": 65.1,
-      "pFair": 54.1,
-      "ev": 19.0,
-      "stability": 10.3
+      "pFair": 54.8,
+      "ev": 17.7,
+      "stability": 9.7
     },
     {
       "id": "760494",
       "date": "2026-07-02T00:00Z",
-      "round": "Group D",
+      "round": "Ronda de 32",
       "home": "USA",
       "away": "BIH",
       "homeName": "United States",
@@ -4668,7 +5006,7 @@
     {
       "id": "760496",
       "date": "2026-07-02T23:00Z",
-      "round": "Group K",
+      "round": "Ronda de 32",
       "home": "POR",
       "away": "CRO",
       "homeName": "Portugal",
@@ -4684,7 +5022,7 @@
     {
       "id": "760501",
       "date": "2026-07-04T01:30Z",
-      "round": "Group K",
+      "round": "Ronda de 32",
       "home": "COL",
       "away": "GHA",
       "homeName": "Colombia",
@@ -4700,7 +5038,7 @@
     {
       "id": "760491",
       "date": "2026-07-01T01:00Z",
-      "round": "Group A",
+      "round": "Ronda de 32",
       "home": "MEX",
       "away": "ECU",
       "homeName": "Mexico",
@@ -4716,7 +5054,7 @@
     {
       "id": "760487",
       "date": "2026-06-29T17:00Z",
-      "round": "Group C",
+      "round": "Ronda de 32",
       "home": "BRA",
       "away": "JPN",
       "homeName": "Brazil",
@@ -4732,7 +5070,7 @@
     {
       "id": "760489",
       "date": "2026-06-29T20:30Z",
-      "round": "Group E",
+      "round": "Ronda de 32",
       "home": "GER",
       "away": "PAR",
       "homeName": "Germany",
@@ -4748,7 +5086,7 @@
     {
       "id": "760490",
       "date": "2026-06-30T17:00Z",
-      "round": "Group E",
+      "round": "Ronda de 32",
       "home": "CIV",
       "away": "NOR",
       "homeName": "Ivory Coast",
@@ -4764,7 +5102,7 @@
     {
       "id": "760497",
       "date": "2026-07-02T19:00Z",
-      "round": "Group H",
+      "round": "Ronda de 32",
       "home": "ESP",
       "away": "AUT",
       "homeName": "Spain",

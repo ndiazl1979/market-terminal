@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T05:50:53.244201+00:00",
+  "updated": "2026-06-30T08:49:00.313958+00:00",
   "categories": [
     {
       "key": "tech",
@@ -585,7 +585,7 @@
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -658,8 +658,24 @@
           "category": "defense"
         },
         {
+          "title": "Defensa prepara con hermetismo una treintena de programas para elevar el gasto militar a 35.000 millones",
+          "source": "El Economista",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQc0NNOVUwUUNaRHlyeGVnNG9rMFI2T0U1RkkwQlhaUGZVNzlCdFp2bDhGa1paSTk3amVDYlNXN01Gcy1HS0czVEpuSVNTUTVuSWJIckpIZGg1MkZPdHpFTDBBdU43S29RbjVpRGM3b0hvSjU2NHZkVDZHN3JkTjZPZTFndGMxYTh1LWh6TFJ6THBhb09YNm1ydFpiTEdaU2pMN3ZfSk9hZ0pIU1RITGJrLVJJb1R1UWRwTy1LWF82Ulh0UURYSDdjWWd4UnQ4c3NmZ05nR1V4VEtpc2tURzg0UDJZUndMdlZsUWRZemRvbDhtekRjTGZIU1lzaGIxazDSAeoBQVVfeXFMTVNMNlpzUkdMMWdPZEN2cGxPQktPSmVyTkljaTVtVGUtQ25iTjBHdzc0ZkdrODR4QmowODQ5Q2JQZjd0Z1FkaXNkcm45V0QtcGtmRWd3cndiV3JRdmlsc2IzNXNOdEF2N1RxRUlBUTQyMVdaLVlmUkt1MzVlNnVxa256a1g0bjJVay1ZUUt1eUdVb0o2M3pXR1FBajlyaXZQbDdLZVNqSVNoX0ZvRzJNQkcwNE9KeFNQTkJEMUsxMEc0NEJMNW1NS3htV1lRMkNBYVdzM2F4OWlsdmZicTV6Rkl2UENDUGxLc2R3?oc=5",
+          "ts": 1778914800000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "defense"
+        },
+        {
           "title": "El gasto militar suma 2,9 billones de dólares y alcanza el 2,5% del PIB mundial",
-          "source": "Rebelión",
+          "source": "Rebelion",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaEZBYjRCRTlocnRJWWJ2MnA0emJxd2x6ZkVFNkpLLVZhQm0zTVlOYnZTQktoUG5aUkoxNGVJN3E3NGlxYnhZdkVCdXlGNFFTZHpObkhxZl9zYjJqMG9ZMUR3a0VXUWwzZWo3V1haX1hQUWlucHNXN1hpRGpidFc4Q3lJd245YTZieHMyR1paNS01eE9LbzZjT0dpVzhWNHM?oc=5",
           "ts": 1778051219000,
           "sentiment": 0.0,
@@ -711,6 +727,22 @@
       "key": "oil",
       "label": "Petróleo / Energía",
       "items": [
+        {
+          "title": "El petróleo se enfría: el Brent baja y el WTI ronda los 70 dólares",
+          "source": "Negocios.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV3FITi10dEhRb29TcjhUTUduVU9wd3RiV1BmZVFzTnF4ejl3QzZoclJiT0hUNjVxT2JYb0NxbHhZRkVRd1ZfRDJwWi1QdlJMazVSVUZEeFh2NW1MdF9WdUpGSkxUWXJ3U29sX1RERHVSM2tsSGd6b0R2QkpaVTBBSWg0VDZHMEtabWZ2ZXZlVHdaN0RHNVg1RUg0aU9YUHROWVNfemNoRHdLXzlMNXd4TkNJZXZMN2fSAbwBQVVfeXFMTmJDQ0ZGenFDRkNrbS1GdDBDeVVHcEtoQ3RnZDVhRXNBMllTUjRxcjV4WGRHRnZnTWVYN1ZSNkh5MjBWaDRubWpuMjgwOUY2ekdfU1hvMDJMVVlQX1RmZHhXelZ1ZE1WZVFOdUpvazdrY0tYU0J4d1IzU2ZIWWJoZTlkNjVRcmRQa3p1OC1nVnVZLVFRU3B1U2Q0S0ZNLVE1Nk9jSmNUckE2ZUJBOWFZekttcXZQNDBnZ2w2Z2Y?oc=5",
+          "ts": 1782799938000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -2.4,
+              "dir": -1
+            }
+          ],
+          "category": "oil"
+        },
         {
           "title": "El petróleo Brent cae más de un 4% y vuelve a niveles previos a la escalada entre EEUU e Irán",
           "source": "El Boletín",
@@ -914,34 +946,6 @@
             }
           ],
           "category": "oil"
-        },
-        {
-          "title": "Barril de petróleo Brent baja de los 78 dólares y se acerca a niveles previos al conflicto con Irán",
-          "source": "El diario de la Araucanía",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONzM3MWZ6c2tBQXhJaXhZamVSQ0RrQkh6a19hNmZMdklfQ3lnVkhuQ1hPZFotS2p5Z1JpdVdNTWlrU1BrQ1FlbWJqakhBalMycWp4ZmszaDR2cXZSNDFwWW82TV93R09SU0hoTXpwWlFnS1J1NlUyMy13Vm1WTjNFNkluejQyVDJBZ0N1SXpGNnI2NUR6WFhNRXhIN2x0a0lFbHVTczZoUW3SAa4BQVVfeXFMT1Jja2t5cWREanF2LVlKbjFtUmVrd2dyRTRaOXNsQ2xvWE9CNlhUMWt5MjNXRnphNUxaQjRyQWRtQlcyNHJIMzVYMlkxR2NTNTMwUGVNX2hwQWhYR1RQRUwybnNfTXBJT2Nsa3JKcmpqSUkxM1JzeWRoMGV4b1hmZTAxaGxlMmRoRy1LMm16dHFaMXBNLWd3UldiWXBJWHVYUk96UnpXR0ZETFU0RWpn?oc=5",
-          "ts": 1781679600000,
-          "sentiment": -0.67,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": -1.5,
-              "dir": -1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 1.0,
-              "dir": 1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": -0.6,
-              "dir": -1
-            }
-          ],
-          "category": "oil"
         }
       ]
     },
@@ -949,6 +953,34 @@
       "key": "war",
       "label": "Guerra / Geopolítica",
       "items": [
+        {
+          "title": "El mercado ya mira más allá de la guerra en Irán: sectores que pueden liderar las subidas",
+          "source": "Estrategias de Inversión",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT2VsSzBtcGlLaHFxUWhKRGFXZjAtRnhnZGx5N25Zams1NG53TlhwcEI1dzRQUDlYVVNYVEFrVkZxci1YbE95Q1hlMVhlcnBHLWhJbVlvZDBQa05HNElac2swVDYzdzVUWVFid1BHNzFOTDdyaDVYQUxJR2V3cVpFV3FhY1hpN3pOZ2sxWndJWF9EV1BkRzBSaWVxbXNXTGtXZWfSAaIBQVVfeXFMT09lbEswbXBpS2hxcVFoSkRhV2YwLUZ4Z2RseTduWWprNTRud05YcHBCNXc0UFA5WFVTWFRBa1ZGcXItWGxPeUNYZTFYZXJwRy1oSW1Zb2QwUGtORzRJWnNrMFQ2M3c1VFlRYndQRzcxTkw3cmg1WEFMSUdld3FaRVdxYWNYaTd6TmdrMVp3SVhfRFdQZEcwUmllcW1zV0xrV2Vn?oc=5",
+          "ts": 1782792600000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": 2.4,
+              "dir": 1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 1.6,
+              "dir": 1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": -1.0,
+              "dir": -1
+            }
+          ],
+          "category": "war"
+        },
         {
           "title": "La Bolsa cede ante el cóctel de guerra, inflación y ajuste tecnológico",
           "source": "Cinco Días",
@@ -1194,34 +1226,6 @@
             }
           ],
           "category": "war"
-        },
-        {
-          "title": "Los mercados se alejan del abismo pero sin despejar las dudas: “El conflicto sigue un patrón de ‘reality show”",
-          "source": "Cinco Días",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOS1RwdDhuQjNzTlNLOGFLSkMxSVZhLUVma1N2NlQzbVpQOW54US1sb3daQy1yMk1KdTdEbkZmaDBPMWFsM1VQQzFjYW9Wb21FQ3FqbEFYYURLa0lYUE5BR2d2dWo3akxhM0JCR2NkTWdaRkVSNjJQVG1lZlFmZmF0YndHUzUxM0I1eUN4MGNHRmp1WkNTNUVMTTRucXFvSUc0Y0VlektjWm1hZjFucmM2Y1lLMUdmNEZ3c1pOaVNVNm5Oc1l5S3pyT0xENnZ1YmVzSE40eDNpY3QyempjaHg2dEdobjlRNUVnblVqOHRrVU1yR2hEWWM4cTRTTEtmT3FVcnfSAZYCQVVfeXFMT2t0RHM0UldzRnY1eG52Q28tb20tUWIzbXJkNUY1MGdHalREajNSOWpaU3FlSnBZR2VseEczMmNZV3RaSnBza2c2RTE2LUpfNEZLQkpPbWhBU2pNQ0FwLVRnbGlfa1RDbUpmN2d3a1lIVDBIQlI4c3BmN29EWmxMSEZyTTRaclVLVmNkZVN6b1RLcVRNNDJ6RWdnNVM1OTM3ZmJPSm1KNmFvZ0VVS1lFd0pXSTRWS3VQVkVYV0lvQnlZb0ViUW1JcWt0UHlzZFlpSFNVbVlFc1dvOHRQUl91V1B3RW81XzZXeWtSSGRqRU9YTHV1NnlzM1JITlFRbDBqak1CamVhTmxTdXR5NHNCZzZhc3MzWFE?oc=5",
-          "ts": 1775631600000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 1.3,
-              "dir": 1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.9,
-              "dir": 1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": -0.6,
-              "dir": -1
-            }
-          ],
-          "category": "war"
         }
       ]
     },
@@ -1264,22 +1268,6 @@
           "category": "macro"
         },
         {
-          "title": "Por qué una Fed más agresiva no asusta a Wall Street",
-          "source": "Invezz",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb1U3cEc5MnJfRWlUUWhvVG9NeWZjR0lTSUF2XzBYbTlXcFVDcTlYTVB6Zkx1N0o0TkpSRkVqZUE1TkFaSW05MnpwTXZhMEsyV3czSDFHanJ4ampsVW5tZ0NLcmVWa0xzenZZVTZURHBkdERMMHh2V2pKMW44YktTdHVWcmJTUV8zci03cWdXUm1BTXJQTHg2bEZSdw?oc=5",
-          "ts": 1781953800000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
-        },
-        {
           "title": "Wall Street cierra en rojo tras decisión de Reserva Federal",
           "source": "El Horizonte",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeDlrYUFYSnNlS3RYLURHMFctSXZ5WTFuQTB4OTRYVkNPLXh0N2xVY1J3Y2V2WkRKTkw0WmlMQkZwUUZQcXM1NnJuOFBITkJkeVBDYmpmUTV1YzdtSmZtLXk3NW9HRENablNfa2Q0TGJMOExEeWV3Zm1xMWVLWXhEX3RDMnhwVXAtakh6Mm8tMlJob3dITlc3RUQ2NWQxdFhvbkV6U0JFYXBWdw?oc=5",
@@ -1306,22 +1294,6 @@
           "source": "LatinUS",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTXBXVXc1NFkzSWpva1dILVhQYl9LaHZxZEpRdERpM3FIS2p6TXhWZGxmZWZRN2dDU0N1TGlQbE5ESGRsdG1JTURiblEtN2QtS1RJbjVDaTQxQVFXU3hWMDlQeUlRVjB2a0JvSGhkMkx2T1lZYzZkTDZKQVUwR2FsWDBWWVhabmUtcC1KVFA2SXl5RlV0a1V6VlNqZzJaZnZqQW5UTEdISmtNNnlVX1ZwQ1BMazF6U09ZaUFsM1d4aDUza1BYMWFDOGsxUnZ5bHY5SE1B0gHTAUFVX3lxTE5NcFdVdzU0WTNJam9rV0gtWFBiX0todnFkSlF0RGkzcUhLanpNeFZkbGZlZlE3Z0NTQ3VMaVBsTkRIZGx0bUlNRGJuUS03ZC1LVEluNUNpNDFBUVdTeFYwOVB5SVFWMHZrQm9IaGQyTHZPWVljNmRMNkpBVTBHYWxYMFZZWFpuZS1wLUpUUDZJeXlGVXRrVXpWU2pnMlpmdmpBblRMR0hKa002eVVfVnBDUExrMXpTT1lpQWwzV3hoNTNrUFgxYUM4azFSdnlsdjlITUE?oc=5",
           "ts": 1781733060000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
-        },
-        {
-          "title": "Wall Street cae luego de que la Fed sugiriera alza de tasas a fin de año",
-          "source": "Diario Las Américas",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSmVqMlV5U283X2Z4NGdmT2J6ZlRicnNvU1MtNmd0T2VpZFBDWEVaVE5fSkJMSkRFbC1VamxKMHVUbWN1MTBVX09GSDRNX25OQ2lvdWdwOTRhc2VpbkRsNnlHZi1KOFA3QW91QTFiSi1Fem9iWEJxcE5GeVpQZmx2clNoOGFhUEp5aGtyUzJuSDhvYjZZWHBvV0p5YXhhVjNZSW14YUticDZTQ2NIYU1DWjlsMA?oc=5",
-          "ts": 1781679600000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -1424,6 +1396,62 @@
             }
           ],
           "category": "macro"
+        },
+        {
+          "title": "Wall Street celebró el acuerdo entre Estados Unidos e Irán: el Dow Jones marcó un máximo histórico y el Nasdaq subió más de 3%",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQWUl3dzZJSGRfNUVocjVjVVZaQ1oyX1B6ZmE5cTdUaG16MnNsMW1kam1JTHB3aWxXekFfUlBaYlA2WnVkd2xKRXBSMVFpbk05dnk4YWtUdnhRZjNSSW1YYmtJRkZ6ckZjSzVxRFdKbG9GcTVXZEtuSl9HWElZbWNTSUxoRGF6c1ZrTVRpYS1Fc0lzWV8tNEVWNkJQeGdnRjNfM2FEZXg5Rk5xa0g3S3RKbHZ2cTl5NHBZVXFGNjgzVV9YcmpQZmdrV01xQmZQdC05UWJMUm5nLVpuUnV3NVhRQTdIT1FXNVpIdlcyRTZKTXc3S0loRlRROEhQQm5hYTFlTjVoUNIBnwJBVV95cUxPSEVldmlrZ1JKU2U4SjdpZFgzU3g2SU9ha3hPWXQ0U1JQWFpTUElwMUdtdHVfYWF4VTlnRkxtU3hMTXVHaHprNldJV0toNE5CSkl5OWl2Q0VwMkh4R1g0UW5IRURfdWs1b04xMGtTa25MSlRsZER5V01JWHBmaDR5dWZyM05ONDNZQXNva1BoRmxsT0FyNlpWbjNBbExKN3pRbDYyN3lPS3NOb2hvbVR0dERUVUJOQWtzd3FVQ1VpUTAwNS11dmh3bVp6YU5TMURiajdzRXFESzYwQ2lzUkJTZk5lN01IU3lBX3Q2blB1YVA4eWMxUUVNZVp0NTI2XzZQY0k2MWdOUHFnZXV2QkhqTjlSOUQxQjVxUk5ULUoxMA?oc=5",
+          "ts": 1781506800000,
+          "sentiment": 0.75,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -1.7,
+              "dir": -1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": -1.1,
+              "dir": -1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.9,
+              "dir": 1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "macro"
+        },
+        {
+          "title": "Wall Street cierra mixto, con nuevas caídas en las empresas tecnológicas y de semiconductores",
+          "source": "EFE - Agencia de noticias",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5meldZZUt3bG5INzY4NTBLb2JZSzNYdGZSQVBHT1NSc28tNFlKenpRSkt2VkFuZVczZXc2NmdnSXgwLUlfdnM4UnpFanR1d0VicnVYVTQtbjB2djZHMWNqaU43RHFjMHRxNzVlWldFeHFvZE92MWJadGRvR0c2MjQ?oc=5",
+          "ts": 1781074800000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 0.6,
+              "dir": 1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "macro"
         }
       ]
     }
@@ -1432,19 +1460,19 @@
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 12.0,
-      "n": 25
+      "net": 10.9,
+      "n": 26
     },
     {
       "sym": "WTI",
       "name": "Petróleo WTI",
-      "net": -7.8,
-      "n": 24
+      "net": -9.3,
+      "n": 25
     },
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 5.1,
+      "net": 5.6,
       "n": 17
     },
     {
@@ -1454,10 +1482,10 @@
       "n": 5
     },
     {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": -4.2,
-      "n": 21
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 3.9,
+      "n": 8
     },
     {
       "sym": "TSLA",
@@ -1466,10 +1494,10 @@
       "n": 5
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 3.3,
-      "n": 7
+      "sym": "SPY",
+      "name": "S&P 500",
+      "net": -3.3,
+      "n": 21
     },
     {
       "sym": "NVDA",
@@ -1661,21 +1689,6 @@
       ]
     },
     {
-      "title": "El riesgo país en Ecuador perforó los 400 puntos y alcanzó su nivel más bajo en 12 años",
-      "source": "Bloomberg Línea",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVGlTNnVxX3NxVW5OWVptbmVKRkNidkNIc2wwdktTT2tvckVpZXozWG1VS0xCQ20xa2NfUHFsd0p3dVR1dFBRSVY2ZlpoLU5RRWUzeDRuQlRfbjZXbHZTb05rUWpTeDN2TGJkRmpCS0xqMmZIN1NjQ0ZEdjVSUFNfREJyWHlnUmhTS0xhbEZOOEVKNUp1YlI3Wm5IMVNiamVnWlQ1dWwxWGpnWDh0Yzk5ZVRiUjZjcXlUZDZMVWVlcHZCeVR1OE1FOG0xV2lhQmdvdEpuZlNaekLSAewBQVVfeXFMUDEwUFVYOXBORDZtRVNVVy13SmRhanJDQnNrQzctRm1LX3o2UDFscDFYR0JXQVk1cDg5dE54Z3AyX3IyZDlSUnlxMGZzMWI2N1F2blhiTnhHVWVGZXRJeDFrdDdXNmpmQzI4c3V3TkwzSWJrUVBiRXVNUXZUZ3VCNnBRQXRKbnBuQ3U3ZE1tNEx6TXVkWFdQSDZvSGVoLWpHT0VlT0dJNjNZQzQ3TDQwd2FkZmFGcjIwYXliU1pOUUhaaV9TY09lZE1kVUotUC1fN0JQbWV1eDNjME5GVmxyczVTanpDTXNNb01HQU8?oc=5",
-      "ts": 1780556400000,
-      "sentiment": -0.5,
-      "tags": [
-        {
-          "sym": "RIESGO PAÍS",
-          "name": "Riesgo país (EMBI)",
-          "pct": null,
-          "dir": 1
-        }
-      ]
-    },
-    {
       "title": "El riesgo país de Ecuador cae por debajo de los 400 puntos",
       "source": "Primicias",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdHdDdkVWMFNudlljNlBzNWFfQnRlRkZKc1FZYnd4MWR0YW5wZktQdWlPaEpCaVR4UmlUN0hOdTlwRzB2Umx3SndKZlFTSkduc25NQkliWEdFbGlBNEE5VTliTG9zWUlBTXNMUnJpY3FyRnRPVjVZYVZzRDg4Rm9paW9WVFhZM2RYZk9sSlBnb0hOcTd3TXlSVjk1VHp3NnpKcHc?oc=5",
@@ -1703,6 +1716,14 @@
       "source": "expreso.ec",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa21rdHNIQ0RJazlVZHB5SGlIRzNBbmp1aDREUmEtNTMxbG02eW9qdjFVTTVmM2YtS1dPLUtncl9lNVBVbDRlNXhiX0ZyX1RETTcyejFNNWFCMEhYRlFuUjJhZ3UtQm94bTN2LTNvNEkzUFQ2eWZzbVNhSWtLREZ1TjJydHZXajlnc1lHMzVjcFRJU1pvOGZNcnBkY3VHNGlhM280aVZkRGV4UXY3bU9TU1VfdmVSX1pXWmNaTHZ5VWl3WnVS?oc=5",
       "ts": 1779951600000,
+      "sentiment": 0.0,
+      "tags": []
+    },
+    {
+      "title": "¿Por qué ha bajado el precio del plátano en Ecuador?",
+      "source": "El Universo",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMlF3UmlxSFhqQzhnWnF3U1IwU2NqQ240Szl3OWhXNnp6VUQ2Nm0xdkQzd3cxSkJSUG45MXJGbWQ5M2dDVjBQUEl1d3FaeGJzeFMxYXhadmFlLTZlM2JCLTc5MVFiZExnZ1pQWWJKRWh6eFRya0FNc3M4bmlXMmg3Y0l5ZkZDc2tOWnJsd1k3Tkxkd21kYU5uRGktajJaM0V4cVVUNVpmcl8zbFdtckZPbmZTUTVnc3d6anlEUFpkUVVMUk5aeDZuRU9RYWPSAeABQVVfeXFMTzdMYXdSdWRxdFA4cWZLbUpqV0RPTkJpMnV2ZzVpODlCXzJLaURQZURSZVdWX3k1LVRNZW1DbnRQSUhPVmhISDhJRGVHQ1docDJ1V1lpYi1aMV9vaW9IUElhMkZpRFU0YkNiTTczYjRmNzFaSWVtZDEySHRYcVdXaHJ5emtoRWstM2hJaHVkSHJJSThjV3cwNTJpaW1UaXlkb0k1Y01KcXE0RVU2dDFnLUE1eTNBSDhmVGd6NUd0UlN0R01Ec1k4cVlIQk5ETW0yTzBlX21xczFobzIwSTJHNGI?oc=5",
+      "ts": 1779865200000,
       "sentiment": 0.0,
       "tags": []
     }

@@ -1,10 +1,44 @@
 {
-  "updated": "2026-06-30T18:08:14.309155+00:00",
+  "updated": "2026-06-30T20:16:18.431473+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Acciones de Micron superan a Nvidia: el nuevo líder del auge de la inteligencia artificial sorprende a Wall Street",
+          "source": "Benzinga España",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOME1wbEtaOVdzUEw5MkE4aHk5TllFeFVXVEZiZmMxNVV2Y3d0NnN5OGlMN0NPWEgzM21xZWx0cHl3NkdvT1VkdnhjNlpXdzYwOVJWTE96bnBTTEQxcGxLMGk4S0VDOGdVRnVwWDRRX05HMGxmWnBEUFpfVy1pQTlMcDJ4bDlNN0xFZDVCbDBZb0ptT09YVkdXdzBwS0ZpY0pYY1NiNjlKUmpFN0JTb3N5X3R0SWs?oc=5",
+          "ts": 1782845826000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            },
+            {
+              "sym": "MU",
+              "name": "Micron",
+              "pct": 1.6,
+              "dir": 1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Las acciones de Tesla y SpaceX se dispararon y Elon Musk volvió a pasar el billón de dólares",
           "source": "BAE Negocios",
@@ -39,9 +73,9 @@
         },
         {
           "title": "Acciones de Nvidia aún por debajo de $200: ¿qué explica su reciente retroceso?",
-          "source": "Invezz",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWWVHNFlTdVctNWtuWVowamRGSEJORmZZR0pIS3VITnBPNVIzdzE5Z2Q4cmc4ekRhYTBIVmdmdVBRYjVCTFpibzZfOTZNckVkend2ajRtODFLT2NWYm8zRERXcFRTbWw1SHc2d0cxd2ZpUXNFclpNQndqV2FEaVVsa2VYYjg3WGUwNVhZTVRkUndpTUJYZ3g5aWRuTmVKZGZmUzgycXB1UGtqNUhXRWRRVUZNSXR6RFlZU19uS3hLVUo?oc=5",
-          "ts": 1782834796000,
+          "source": "TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIcEs3Y242LWJKNE1TSHR6amNLakpXeTNRb2dsZGhVNmxoSTF6bzJzTXVRbW8xMkV1VkhWX2JqMlBuOVZITUVVZkVQbHBhcldQZDZHbUo3cE1ORHZUUGhYR3JsSWJNdw?oc=5",
+          "ts": 1782834627000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -63,7 +97,7 @@
             {
               "sym": "TSLA",
               "name": "Tesla",
-              "pct": 1.9,
+              "pct": 1.6,
               "dir": 1
             }
           ],
@@ -79,13 +113,13 @@
             {
               "sym": "META",
               "name": "Meta",
-              "pct": 1.2,
+              "pct": 1.0,
               "dir": 1
             },
             {
               "sym": "MSFT",
               "name": "Microsoft",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -154,34 +188,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Meta, Nvidia y Apple lideran caída de los 'siete magníficos'; miedo a la IA golpea sus acciones",
-          "source": "EL CEO",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYlpHYkxrVlZUN1dPM2hCbjZ6Q3BwT1dNTHBhY05BelJOQWJubDVINXFGTmRZZGc5Y0U2UHctcVZHZkY1MGpLZlpid29oNTY2Vm5oeUhpVUpfS01tek5HM25CaFh3ZV9kU0xrTV9xTWE4UmQ1Z044SWJKZWxQVmlITi1xY2cxVVR3UkpSVUZ0U2NRdVg3RFVJQWIyVlEwdEY2cU5WTloxU0ZhYnJDaFFOSk1GRlBUNTcxNm9Z?oc=5",
-          "ts": 1782774497000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": -3.1,
-              "dir": -1
-            },
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": -2.0,
-              "dir": -1
-            },
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": -1.4,
-              "dir": -1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -189,6 +195,88 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Ganan más de 180.000 dólares pero se sienten pobres en San Francisco: cómo la nueva élite de la inteligencia artificial ha disparado el coste de vivir en la ciudad",
+          "source": "El HuffPost",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOQmp3TU9vNzYwVnk2d0l5V3ZIdUtJaXdZeEduWFdZUWhudEQ0cEdjb2lWdlZMSnpxalpXakhQQzU0NG1NM284MVdrVXd3RkVKWEl5ajdZemdsWnlhcnJma2VnRmcxVXVvNHppME1BZ3d3WTlvYUZCMnRyUWFyUlBrdjNuV0M3eWprNHk3T0stVzIteHBTaXNsZWFhZ0RJQWczVUJrako4THBZUmhIVjAwcmxOSjliSERzcmVqUklUMDRUczJ2OW54RDVXZDhjOEdZMFJfQkxWSk51VG90T1ZxZTBrRW1tNzBkYk00SThRUGthNFh3YkFrX2RWTXZxd3JXRHZxemFn0gGaAkFVX3lxTE0tY0R5TjJUTi1CQ09oQWFLbVpnYmg5dE12Y3hIaVdIRGc5UGtUZU5iNEh2TEJoNFR6VmtRUUZ2Q05DOGRaRWx4LUNwVU9QeW5MWEkwbDd4UEc0c1V6Z2djdndVMXJ2c1lraHdjWVlTWnRYWTRKbzhnQjRSdjdyNElabmt4U1dJcUdtMUY4TjBCc2JhV2k2ZC1OVGVFdnliXy1EZXZCdFhEbTg3U0tnbUVmQ2JfRkpHVXQ1Qy1FR05KbjRZWk1tQ0lZV0hoTzdwbC10Rlg4MmNSb3JEaEZkVS16T25rU2tYRHhIWjFUZ0hzTGJPR2g2WXNhZUlUdmhTNDluNlRpUm5fVkhnTEQtTHNKRjQzMG1MbmhIQQ?oc=5",
+          "ts": 1782849147000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 2.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "TSMC apunta a 2029 para empaque CoPoS en chips de IA",
+          "source": "Investing.com México",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcldmM0g4MllvdE0xbnZMc3ZYWmZqX2tNU21pUzdmckl4N0dNZWpDTXlKanRGN1BlNS1zTy1GZlNiWG9qOFU5aHozMTZ5UlZ2cTdWZ3BqOTNKUGJjUzc4ZTdrelpMYnBiZk00M1hGRE85ZFgyOVNYcEwtM0t1RjY5S0s1SE0xb2oxZnl5MUFWQnhhbDhGUGNmTlRCVmJwYlptYzRMNmF1SHMyUXp6?oc=5",
+          "ts": 1782847922000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "TSM",
+              "name": "TSMC",
+              "pct": 1.2,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "TSMC apunta a 2029 para el empaquetado CoPoS en chips de IA",
+          "source": "Investing.com España",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcFdHU3Y5cnhOaHFKQzNmRHc4RDYyb3Q5OTRIOXNyUm40N01CUTF5S0twZE5BVFJqVDJhaHlfakcyOEs3YkE5WVlqMVVodFhqTm1hNUFWQm1vTENKQVZtbVJtb1cyNE5tTzB2Ny1NUTdRYlVNdnVwcW1pRE5TX0Q5TXk4NHEtN1BTR1AzR2w1UGZ0WnRmSmVTTFdlUWttbTNwOU91bmY0OG5BREE0cnMzRnBhUlIydw?oc=5",
+          "ts": 1782847620000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "TSM",
+              "name": "TSMC",
+              "pct": 1.2,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Acciones de Micron superan a Nvidia: el nuevo líder del auge de la inteligencia artificial sorprende a Wall Street",
+          "source": "Benzinga España",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOME1wbEtaOVdzUEw5MkE4aHk5TllFeFVXVEZiZmMxNVV2Y3d0NnN5OGlMN0NPWEgzM21xZWx0cHl3NkdvT1VkdnhjNlpXdzYwOVJWTE96bnBTTEQxcGxLMGk4S0VDOGdVRnVwWDRRX05HMGxmWnBEUFpfVy1pQTlMcDJ4bDlNN0xFZDVCbDBZb0ptT09YVkdXdzBwS0ZpY0pYY1NiNjlKUmpFN0JTb3N5X3R0SWs?oc=5",
+          "ts": 1782845826000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            },
+            {
+              "sym": "MU",
+              "name": "Micron",
+              "pct": 1.6,
+              "dir": 1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Alcanza Conalep la meta de 4 mil certificaciones en Inteligencia Artificial",
           "source": "secretaría de educación y deporte",
@@ -282,22 +370,6 @@
           "category": "semis"
         },
         {
-          "title": "Schneider Electric adquirirá la firma de software de inteligencia artificial Cognite por 3.100 millones USD",
-          "source": "MarketScreener España",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeldJVWVVY0xRVjhlbzQ5VUpadUQ3VllxdnlscmpwMVZaTGRQSGpudkpxcU1SVVFSLVJvQXBwWmVNekRhdUdBbUhHV3Q0akY3U3U2bkNzVHVXX1VRMlAzSHhnSDdxRWxtMFExUlloR19mZFBsTkZ6TS1heHBJOHR2Tnp3VlpNQkRZaDk1QW1LUXhJcHI5c2FQVUY3Snczd2FmV1otZlFMeHNVOXhtekk4STA3YnhfTXdERUJfN002RVZhWEcxWndmS3JZYnBEczR3NXhqbHRoazBZbGdqd01UT25jdkg1LW9Kc2k0?oc=5",
-          "ts": 1782836780000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
           "title": "España | El Laboratorio de Ideas de la AESIA abre nuevas líneas de trabajo sobre el impacto de la inteligencia artificial en los menores y en el mercado laboral",
           "source": "DPL News",
           "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxORkpJVE5DT2VSaS1QOWdFR1NYV19yTzdhV0RodnJFR2VEMzRmeTR1LXlvQVhidmpFcUpqQUJERnFzYnZnZ2lmNnZHaC05TkhnWU9IMmgwNDhiR2Z6MmtuTW1NanVncTNNR2M4dDBQcTVSdW54N0V6V1lpUGEya0hXU2xobm1xVVNLSkdvaThQZ3VFLVZnWlkteTdZdmZIU0ZGYjlxSnpveTRhRUgtNHlzLVpxSko4R0JCYm1GVS1NWmRjTmJzQlhGRWhQbDl0T21wY3lDdGdhU2NpclFqT2VwU0l1d2V0WUtHWTVNVjRuaW9YMGFoc2xPQWpBM3NzaTMyM2YtVnpRNm04UmM?oc=5",
@@ -308,72 +380,6 @@
               "sym": "SMH",
               "name": "ETF Semiconductores",
               "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "LongCat-2.0 de China se convierte en el mayor modelo de IA sin chips de NVIDIA",
-          "source": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR1NCOEUzWEN4aWJ3c0RydjBNQkFxZlYya2pVNFFxODFVODRkYTBtZTVjRkdKSHMzdHo0RkhtdUlGRzU0RG9UdFJETkk2TlZENUFDcU1BcGhQQ0Jtd0V5X1ZzMFRBOUVBRkFOSmdmLVlUZjJzS1dKWHd1a01NRXBjM3hYMjJfZjQ?oc=5",
-          "ts": 1782832140000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "La guerra en Irán y el auge de la inteligencia artificial provocan una montaña rusa en los mercados mundiales",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOUzl4U3o0bjB5Yk9aWTd3WUQ2cFE2d2RmSGlWb2xjNkNDZGpGdVRYNjZUVkpZeGRtQVBCbDdFOXpJN1VBMmJEU0V4Q2lQTDhlN0pqUk9YZWFibDVHTmxsMm1xS1l6Tk1leXlGbkR6VzhJUEE3bnpV?oc=5",
-          "ts": 1782830726000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 2.4,
-              "dir": 1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": -2.0,
-              "dir": -1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 1.6,
-              "dir": 1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": -1.0,
-              "dir": -1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "China desafía a Nvidia con LongCat-2.0, su mayor modelo de IA entrenado con chips nacionales",
-          "source": "DiarioBitcoin",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObXp3cFNEYjBuS3FNRTZ2d1JLMzBwMVMyay1vVDRlLVlhVDkxTnRsaUM4Z1FDVm53R2NSV2otdGV6QU5pNlNRNnN1eHkwV19YZ2JHRndmbURUeWRDdmdhY0FYakd0Nm5abzZwXzVkaW5McEk1U0NDQVlkeHpuMmZKVTdURFZvR0dyS2w3Vk1mX1BDUjE1V0k4R3NIQmM3Z1pkZVJqb0xuMTR6TFIzUEtJTGwwM285aEowQk1nZU5HS3RDNmVvYThz?oc=5",
-          "ts": 1782830720000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
               "dir": 1
             }
           ],
@@ -428,22 +434,6 @@
               "sym": "TSLA",
               "name": "Tesla",
               "pct": 1.3,
-              "dir": 1
-            }
-          ],
-          "category": "space"
-        },
-        {
-          "title": "SpaceX sorprende con una incorporación récord al Nasdaq-100",
-          "source": "Cointribune",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNUZ0YmkyTlJHTzhJUzJqUm1Pc0RSSEFURlhycm1INlA5Y1RhNUdpTXZxMWVQWmduQkt3TTNXVURXSWhQRFBFT2ZLdV9DVUVuUXRVMmNpbzRsMk1qRUN0M0lDc2liNkVlbHlxQ1g0Rml1RUIzZ3FEakpqNDFaLWc5X3Nja29HaXJuaHl1eS1mTTBlNmhBdGdTLU5vZw?oc=5",
-          "ts": 1782545100000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -568,6 +558,22 @@
             }
           ],
           "category": "space"
+        },
+        {
+          "title": "SpaceX adelanta a Amazon y es la quinta empresa más valiosa",
+          "source": "Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTWhKVmRqM2l1b1ZGWTlpNDRtQjhrYlBqMUpsZHRwOVBHeVZ4UzdfdF9kemxMVXZ3c2pmbjdGRmthNGNPOV9ZQS02ajQ0SGxYT3hPbUNVWDZvTmRDNWRHWjVBbWpPVVpBdVJtenNtemhqMW44LWRjTkpxSk96ZldJc0tlQy1lN0dIY291OU9NemM0UkVzcDRwa2gtX1FMaXdZSERkWFAzYmxqWVU3LXRNOW84ZXcxYUtSdTQ4WWtR?oc=5",
+          "ts": 1781679600000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "AMZN",
+              "name": "Amazon",
+              "pct": 0.6,
+              "dir": 1
+            }
+          ],
+          "category": "space"
         }
       ]
     },
@@ -658,10 +664,10 @@
           "category": "defense"
         },
         {
-          "title": "El gasto militar suma 2,9 billones de dólares y alcanza el 2,5% del PIB mundial",
-          "source": "Rebelión",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaEZBYjRCRTlocnRJWWJ2MnA0emJxd2x6ZkVFNkpLLVZhQm0zTVlOYnZTQktoUG5aUkoxNGVJN3E3NGlxYnhZdkVCdXlGNFFTZHpObkhxZl9zYjJqMG9ZMUR3a0VXUWwzZWo3V1haX1hQUWlucHNXN1hpRGpidFc4Q3lJd245YTZieHMyR1paNS01eE9LbzZjT0dpVzhWNHM?oc=5",
-          "ts": 1778051219000,
+          "title": "Defensa prepara con hermetismo una treintena de programas para elevar el gasto militar a 35.000 millones",
+          "source": "El Economista",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQc0NNOVUwUUNaRHlyeGVnNG9rMFI2T0U1RkkwQlhaUGZVNzlCdFp2bDhGa1paSTk3amVDYlNXN01Gcy1HS0czVEpuSVNTUTVuSWJIckpIZGg1MkZPdHpFTDBBdU43S29RbjVpRGM3b0hvSjU2NHZkVDZHN3JkTjZPZTFndGMxYTh1LWh6TFJ6THBhb09YNm1ydFpiTEdaU2pMN3ZfSk9hZ0pIU1RITGJrLVJJb1R1UWRwTy1LWF82Ulh0UURYSDdjWWd4UnQ4c3NmZ05nR1V4VEtpc2tURzg0UDJZUndMdlZsUWRZemRvbDhtekRjTGZIU1lzaGIxazDSAeoBQVVfeXFMTVNMNlpzUkdMMWdPZEN2cGxPQktPSmVyTkljaTVtVGUtQ25iTjBHdzc0ZkdrODR4QmowODQ5Q2JQZjd0Z1FkaXNkcm45V0QtcGtmRWd3cndiV3JRdmlsc2IzNXNOdEF2N1RxRUlBUTQyMVdaLVlmUkt1MzVlNnVxa256a1g0bjJVay1ZUUt1eUdVb0o2M3pXR1FBajlyaXZQbDdLZVNqSVNoX0ZvRzJNQkcwNE9KeFNQTkJEMUsxMEc0NEJMNW1NS3htV1lRMkNBYVdzM2F4OWlsdmZicTV6Rkl2UENDUGxLc2R3?oc=5",
+          "ts": 1778914800000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -938,34 +944,6 @@
       "label": "Guerra / Geopolítica",
       "items": [
         {
-          "title": "El mercado ya mira más allá de la guerra en Irán: sectores que pueden liderar las subidas",
-          "source": "Estrategias de Inversión",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT2VsSzBtcGlLaHFxUWhKRGFXZjAtRnhnZGx5N25Zams1NG53TlhwcEI1dzRQUDlYVVNYVEFrVkZxci1YbE95Q1hlMVhlcnBHLWhJbVlvZDBQa05HNElac2swVDYzdzVUWVFid1BHNzFOTDdyaDVYQUxJR2V3cVpFV3FhY1hpN3pOZ2sxWndJWF9EV1BkRzBSaWVxbXNXTGtXZWfSAaIBQVVfeXFMT09lbEswbXBpS2hxcVFoSkRhV2YwLUZ4Z2RseTduWWprNTRud05YcHBCNXc0UFA5WFVTWFRBa1ZGcXItWGxPeUNYZTFYZXJwRy1oSW1Zb2QwUGtORzRJWnNrMFQ2M3c1VFlRYndQRzcxTkw3cmg1WEFMSUdld3FaRVdxYWNYaTd6TmdrMVp3SVhfRFdQZEcwUmllcW1zV0xrV2Vn?oc=5",
-          "ts": 1782792600000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 2.0,
-              "dir": 1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 1.4,
-              "dir": 1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": -0.8,
-              "dir": -1
-            }
-          ],
-          "category": "war"
-        },
-        {
           "title": "La Bolsa cede ante el cóctel de guerra, inflación y ajuste tecnológico",
           "source": "Cinco Días",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFdPMVR0UGdRRVRXTUc2RVMzbm5MZU9yMWpxY2FGVU9ncTluWU9mbDFyYlhGdjFMLXpUX2VIU1lPaTRxMWlVNmt6MWU5Q2JJaDlhVm5LZmpyWTlDWkZZY2RMWDBxeHR1WXlYNUt4SEQ5YXNtM2tUX3JLN0ZnOTRZTlFldHg4Z1VNZ2FMNVBEcjTSAaQBQVVfeXFMT0c1TzRQNEVWYWdWaDJpU0ZFTGJYd2NTdUNubFdqaTlSVVdnU0Z6ZXV6TllsSUhfc1JtUnFycHRKNUNyUXpmY2s5bnlTZHZLcGY0Q2l1R1VuZlVFNXlGQzcycjRDN1ZlTlVRbXVuZ3hnNDMxel84Y0I0dWhkS29kY0RPWWVRcnlXUzY1RWlmcTA3bll6enJfckxoMURnNm9EdHFCNWE?oc=5",
@@ -1210,6 +1188,34 @@
             }
           ],
           "category": "war"
+        },
+        {
+          "title": "Bolsas en modo rally: el mercado reacciona a un posible final del conflicto en Irán | Resumen diario de mercados",
+          "source": "Finect",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaHlGanFfaHExaDZHTVBhcUhLbHZrM3N1ZDJ1YzkwaHEwbHBfalFwTUdMZUxQODk2T1ZDc1dTNjRYcXZ4eFBQS2s1dkE5RTBKNVhaQ1NvZ0hsNUJHazdObEdzN1JaQVBqYW1uazY0ZDZMTzljOVg0Y1RoNnlwZHU5LXVvQm92dVRiLVRNOXN0ek1GX3ZHTWFFalJHdlhrUTRfaEZUTUdDVU5lTG1IaTdfUl9fZnQ2TzRtUzdfUUtUQVlXcFF4NmlKOTFUMG9CZEFING1HWkl1dHkzVW5HOTlpdlN3ZG5Da3JPUHhsMzZ1TzNCLThwcEE?oc=5",
+          "ts": 1775026800000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -0.7,
+              "dir": -1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": -0.4,
+              "dir": -1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 0.3,
+              "dir": 1
+            }
+          ],
+          "category": "war"
         }
       ]
     },
@@ -1227,25 +1233,25 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": 2.0,
+              "pct": 1.7,
               "dir": 1
             },
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": -1.4,
+              "pct": -1.1,
               "dir": -1
             },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 1.1,
+              "pct": 0.9,
               "dir": 1
             },
             {
               "sym": "SPY",
               "name": "S&P 500",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -1430,45 +1436,63 @@
   ],
   "tickerBoard": [
     {
-      "sym": "ITA",
-      "name": "ETF Defensa/Aeroespacial",
-      "net": 11.6,
+      "sym": "WTI",
+      "name": "Petróleo WTI",
+      "net": -11.9,
       "n": 24
     },
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 10.5,
-      "n": 8
+      "net": 11.8,
+      "n": 6
     },
     {
-      "sym": "WTI",
-      "name": "Petróleo WTI",
-      "net": -6.5,
-      "n": 25
+      "sym": "ITA",
+      "name": "ETF Defensa/Aeroespacial",
+      "net": 8.5,
+      "n": 23
+    },
+    {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 6.0,
+      "n": 5
     },
     {
       "sym": "TSLA",
       "name": "Tesla",
-      "net": 5.1,
+      "net": 4.8,
       "n": 8
     },
     {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": -4.8,
-      "n": 21
+      "sym": "META",
+      "name": "Meta",
+      "net": 3.2,
+      "n": 3
     },
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 3.1,
+      "net": 2.9,
       "n": 15
+    },
+    {
+      "sym": "SPY",
+      "name": "S&P 500",
+      "net": -2.8,
+      "n": 20
     },
     {
       "sym": "AMZN",
       "name": "Amazon",
-      "net": 2.1,
+      "net": 2.7,
+      "n": 3
+    },
+    {
+      "sym": "TSM",
+      "name": "TSMC",
+      "net": 2.4,
       "n": 2
     },
     {
@@ -1478,34 +1502,22 @@
       "n": 1
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 2.0,
-      "n": 5
+      "sym": "AAPL",
+      "name": "Apple",
+      "net": 1.7,
+      "n": 2
     },
     {
-      "sym": "META",
-      "name": "Meta",
-      "net": 1.4,
-      "n": 4
+      "sym": "MU",
+      "name": "Micron",
+      "net": 1.6,
+      "n": 1
     },
     {
       "sym": "MSFT",
       "name": "Microsoft",
-      "net": 1.4,
+      "net": 1.3,
       "n": 2
-    },
-    {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": 0.8,
-      "n": 1
-    },
-    {
-      "sym": "AAPL",
-      "name": "Apple",
-      "net": 0.3,
-      "n": 3
     }
   ],
   "ecuador": [
@@ -1533,12 +1545,48 @@
       "tags": []
     },
     {
+      "title": "Ecuador cierra exportación de crudo por 313 millones de dólares",
+      "source": "El Comercio",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRHZtVnBjSTZEeXdvOW1ZX3Qybjk4UHZGckdEMFRYclRLMVNkdEVTUVZlRGl2US1WX081QUFBOTFGQkN2cU8zNXVfRTdpZmpRV0lmV3A1NnZPbkdNbUFCR3NYTTRSMF9ZYkQzcVo0cHM2QktfZVQ0Z3Jia0JmdlFaTzJMaV83QmZJczZtN3N5allSUXBRSGoyYkl0ODRUZw?oc=5",
+      "ts": 1781852400000,
+      "sentiment": 0.0,
+      "tags": [
+        {
+          "sym": "WTI",
+          "name": "Petróleo WTI",
+          "pct": 0.7,
+          "dir": 1
+        },
+        {
+          "sym": "USD/MACRO",
+          "name": "Macro / dólar",
+          "pct": null,
+          "dir": 1
+        }
+      ]
+    },
+    {
       "title": "Fitch pone a Ecuador como ejemplo de éxito financiero en América Latina",
       "source": "Diario La Hora",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWEJBcUlXSUJ5YW54X2llTGtSaGJiTERoMFNFUE9DeDFrSEdzbmZCS1RDeXEzSTNlcHJPWWljSjM2a2pqNjNlc1paZ2dtQjZ2RmhyYmppU1g3RFVTTkpXM0VPOVJiVG9BRjhyVUtMQjE1U1JhYllhMVU3elJXcWsxeTlrbDM1T0E1dF9KZnFncTB2eUJBNlhFdnU2YV9abERrZW1FNDJHVExnM3MyODQ2RG8wUUFTVjROWC00dTBVSDdaSTg?oc=5",
       "ts": 1781679600000,
       "sentiment": 0.0,
       "tags": []
+    },
+    {
+      "title": "Riesgo país de Ecuador perfora los 380 puntos y toca su nivel más bajo desde 2014",
+      "source": "Bloomberg Línea",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMGs2VDMwZTlidUYwTE5HdWxtZDN6THYtdGoxNmU2Nlh2RDFPejZmNHk1SGE2cHBkeTF3bkFrbGJtNlUyYWl0Z3J0NVRZOWZLT21OMTRDSzlVLVB3cjNHcHNPMTV5bHM3LTQ1WnFhOE1iTUZrbUNNRGdSRWhCZVFsWjd3Zkh4cHc1OTFjN25yWFZLMGhOaGRCSXJNemFMZnExWDFhSWc1VHlxcENnbXJwZEdhYjNSeldEMTdubXpvODk5NmhITlpobzhJSXhGNlJ30gHkAUFVX3lxTFBrbS1IZnpJcUxLNk45RGZHeDBHel95UVZnUVduU0JDcDR1NUpJWHhBbTQ3NlgyXzAyYjZTM3ZGeGZ3azdiSjluM2J0Vk9VN1hNZHlnazJLZnVxN1p0anllN2phaUxkS3ZwZU53UTN1N18yNGRGOVgtNG9hdW1YWDZhN0NmTDRTVjZpMlQ1VEJrQ3ZBazFoUFpqcFlDc3EzRTNJQWtjMmpwdF9zdGZLTFNLczRjczV4VUpYVTdqQ1kzUDk5cGlSREMteWF3WktqZTZ3dm9XSW9oR1V1cXdDSzRUd2l1TQ?oc=5",
+      "ts": 1781593200000,
+      "sentiment": -0.5,
+      "tags": [
+        {
+          "sym": "RIESGO PAÍS",
+          "name": "Riesgo país (EMBI)",
+          "pct": null,
+          "dir": 1
+        }
+      ]
     },
     {
       "title": "Petróleo vuelve a liderar exportaciones de Ecuador, impulsado por el alza del precio del crudo",
@@ -1675,29 +1723,6 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMlF3UmlxSFhqQzhnWnF3U1IwU2NqQ240Szl3OWhXNnp6VUQ2Nm0xdkQzd3cxSkJSUG45MXJGbWQ5M2dDVjBQUEl1d3FaeGJzeFMxYXhadmFlLTZlM2JCLTc5MVFiZExnZ1pQWWJKRWh6eFRya0FNc3M4bmlXMmg3Y0l5ZkZDc2tOWnJsd1k3Tkxkd21kYU5uRGktajJaM0V4cVVUNVpmcl8zbFdtckZPbmZTUTVnc3d6anlEUFpkUVVMUk5aeDZuRU9RYWPSAeABQVVfeXFMTzdMYXdSdWRxdFA4cWZLbUpqV0RPTkJpMnV2ZzVpODlCXzJLaURQZURSZVdWX3k1LVRNZW1DbnRQSUhPVmhISDhJRGVHQ1docDJ1V1lpYi1aMV9vaW9IUElhMkZpRFU0YkNiTTczYjRmNzFaSWVtZDEySHRYcVdXaHJ5emtoRWstM2hJaHVkSHJJSThjV3cwNTJpaW1UaXlkb0k1Y01KcXE0RVU2dDFnLUE1eTNBSDhmVGd6NUd0UlN0R01Ec1k4cVlIQk5ETW0yTzBlX21xczFobzIwSTJHNGI?oc=5",
       "ts": 1779865200000,
       "sentiment": 0.0,
-      "tags": []
-    },
-    {
-      "title": "Los mercados castigan a Bolivia: ya supera a Argentina en riesgo país y solo queda detrás de Venezuela",
-      "source": "americaeconomica.com",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcnprcGtUSjV5dktkeGdvcElLdC1FTndXMXB1amtFdFBMdTczVXdjYVBGR2F2Y1lyeEFDcTZQWUpfU3BNWFN4cFBDbTBSeXFVU080R0poN1B1WjlSbmJlTzlDYVk0allzYzh5eVdoVzY4ZHhtOXd2UFBtSVNOb3BiY0xoYzUybGxPWkQ0UlhZWnZHUG90MEF2eGxNRnhpOXZPdXNTbGhIeTlhZmZtLWFzQ0g3OWdZWjhWSFc0OHh3QzlQRjlma3RDczFhbWVlbDlaQW0yc1dvejRHWEdNMWRJSFE0V3g2d9IB6wFBVV95cUxQUDZzY1dCRmtkQXMyRldGUUpxUzJyWVR4QlpFUmp4ZkhBRDFVcWlVN29wOG1uUVBzd0VQVzVhVVpQcjhieHBvcWVwcGpFcVpON3o2UjMwcFJIX2c1UjR3WGp4dDBfZHUyWGJHbnRjR2FHS2VhVTBLcGQ3b0dMMEJFd014R0JpSGdPTXVJeU1xUkUyQWh2c0tSR19jS3RrMUpUVDk3aVMxNHJ4S0VnbERfMlNBWUNTamMtR281dGc5ak0tVzhYRFNrOEdzaXFwV0pOVUhXOHRGWHVSeEJBU2V6NUdPbkw2QXNEYmdB?oc=5",
-      "ts": 1779778800000,
-      "sentiment": 0.5,
-      "tags": [
-        {
-          "sym": "RIESGO PAÍS",
-          "name": "Riesgo país (EMBI)",
-          "pct": null,
-          "dir": -1
-        }
-      ]
-    },
-    {
-      "title": "El crédito hipotecario impulsa la construcción y la economía ecuatoriana",
-      "source": "El Comercio",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNDJmNllibkp6Y29NSnQ0enRRVVdZVjdSTEo4cG1Ed2ZUVlNHcHV3dTkxbDd4eWNSTmw4OVFOOEJfSUJnZEp0M3JDNzJ2ZzdMYUl1amtFVzg3NnBTdGRkMUZSUUROTzMtcVNuVHlQcGlQRElxdlJVbEthbi1Lcl9WbWE3NmtDbDk3cWpRUWpfWlhZa3U1bkpTeWZxZmdkRnFRVE5jQzJEbXAwUQ?oc=5",
-      "ts": 1779692400000,
-      "sentiment": 0.5,
       "tags": []
     }
   ]

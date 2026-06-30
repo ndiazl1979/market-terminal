@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T15:59:41.223739+00:00",
+  "updated": "2026-06-30T17:57:13.365674+00:00",
   "tournament": "FIFA World Cup 2026",
   "groups": [
     {
@@ -1117,9 +1117,9 @@
     {
       "id": "760490",
       "date": "2026-06-30T17:00Z",
-      "state": "pre",
+      "state": "in",
       "stage": "round-of-32",
-      "detail": "Scheduled",
+      "detail": "HT",
       "round": "Ronda de 32",
       "home": {
         "abbr": "CIV",
@@ -1133,7 +1133,7 @@
         "name": "Norway",
         "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
         "id": "464",
-        "score": "0"
+        "score": "1"
       },
       "pred": {
         "pHome": 40.4,
@@ -1186,102 +1186,9 @@
         "eloAway": 1790,
         "confidence": 40.4
       },
-      "odds": {
-        "source": "DraftKings",
-        "details": "NOR -0.5",
-        "mlHome": 255,
-        "mlAway": 115,
-        "mlDraw": 240.0,
-        "spread": 0.5,
-        "spreadHome": -135.0,
-        "spreadAway": 105.0,
-        "total": 2.5,
-        "overOdds": -115.0,
-        "underOdds": -110.0
-      },
-      "bets": [
-        {
-          "market": "1X2",
-          "label": "Gana local",
-          "sel": "1",
-          "pModel": 40.4,
-          "pFair": 33.7,
-          "implied": 27.1,
-          "odds": 3.55,
-          "ev": 19.7
-        },
-        {
-          "market": "1X2",
-          "label": "Empate",
-          "sel": "X",
-          "pModel": 22.2,
-          "pFair": 25.2,
-          "implied": 28.3,
-          "odds": 3.4,
-          "ev": -14.2
-        },
-        {
-          "market": "1X2",
-          "label": "Gana visita",
-          "sel": "2",
-          "pModel": 37.4,
-          "pFair": 41.0,
-          "implied": 44.7,
-          "odds": 2.15,
-          "ev": -11.8
-        },
-        {
-          "market": "Total 2.5",
-          "label": "Más de 2.5",
-          "sel": "O",
-          "pModel": 61.5,
-          "pFair": 56.0,
-          "implied": 50.5,
-          "odds": 1.87,
-          "ev": 4.7
-        },
-        {
-          "market": "Total 2.5",
-          "label": "Menos de 2.5",
-          "sel": "U",
-          "pModel": 38.5,
-          "pFair": 44.0,
-          "implied": 49.5,
-          "odds": 1.91,
-          "ev": -16.0
-        },
-        {
-          "market": "Hándicap +0.5 L",
-          "label": "Local +0.5",
-          "sel": "H",
-          "pModel": 62.6,
-          "pFair": 58.4,
-          "implied": 54.1,
-          "odds": 1.74,
-          "ev": 1.6
-        },
-        {
-          "market": "Hándicap -0.5 V",
-          "label": "Visita -0.5",
-          "sel": "A",
-          "pModel": 37.4,
-          "pFair": 41.6,
-          "implied": 45.9,
-          "odds": 2.05,
-          "ev": -14.6
-        }
-      ],
-      "rec": {
-        "market": "Total 2.5",
-        "label": "Más de 2.5",
-        "sel": "O",
-        "pModel": 61.5,
-        "pFair": 56.0,
-        "implied": 50.5,
-        "odds": 1.87,
-        "ev": 4.7,
-        "stability": 2.6
-      }
+      "odds": null,
+      "bets": [],
+      "rec": null
     },
     {
       "id": "760492",
@@ -1365,8 +1272,8 @@
         "spreadHome": -125.0,
         "spreadAway": 100.0,
         "total": 3.5,
-        "overOdds": 105.0,
-        "underOdds": -130.0
+        "overOdds": 100.0,
+        "underOdds": -125.0
       },
       "bets": [
         {
@@ -1404,20 +1311,20 @@
           "label": "Más de 3.5",
           "sel": "O",
           "pModel": 65.1,
-          "pFair": 55.7,
-          "implied": 46.3,
-          "odds": 2.05,
-          "ev": 14.2
+          "pFair": 56.2,
+          "implied": 47.4,
+          "odds": 2.0,
+          "ev": 12.5
         },
         {
           "market": "Total 3.5",
           "label": "Menos de 3.5",
           "sel": "U",
           "pModel": 34.9,
-          "pFair": 44.3,
-          "implied": 53.7,
-          "odds": 1.77,
-          "ev": -21.6
+          "pFair": 43.8,
+          "implied": 52.6,
+          "odds": 1.8,
+          "ev": -21.2
         },
         {
           "market": "Hándicap -1.5 L",
@@ -1445,11 +1352,11 @@
         "label": "Más de 3.5",
         "sel": "O",
         "pModel": 65.1,
-        "pFair": 55.7,
-        "implied": 46.3,
-        "odds": 2.05,
-        "ev": 14.2,
-        "stability": 7.9
+        "pFair": 56.2,
+        "implied": 47.4,
+        "odds": 2.0,
+        "ev": 12.5,
+        "stability": 7.0
       }
     },
     {
@@ -4476,22 +4383,6 @@
       "stability": 10.6
     },
     {
-      "id": "760492",
-      "date": "2026-06-30T21:00Z",
-      "round": "Ronda de 32",
-      "home": "FRA",
-      "away": "SWE",
-      "homeName": "France",
-      "awayName": "Sweden",
-      "market": "Total 3.5",
-      "label": "Más de 3.5",
-      "odds": 2.05,
-      "pModel": 65.1,
-      "pFair": 55.7,
-      "ev": 14.2,
-      "stability": 7.9
-    },
-    {
       "id": "760494",
       "date": "2026-07-02T00:00Z",
       "round": "Ronda de 32",
@@ -4506,6 +4397,22 @@
       "pFair": 61.9,
       "ev": 11.4,
       "stability": 7.1
+    },
+    {
+      "id": "760492",
+      "date": "2026-06-30T21:00Z",
+      "round": "Ronda de 32",
+      "home": "FRA",
+      "away": "SWE",
+      "homeName": "France",
+      "awayName": "Sweden",
+      "market": "Total 3.5",
+      "label": "Más de 3.5",
+      "odds": 2.0,
+      "pModel": 65.1,
+      "pFair": 56.2,
+      "ev": 12.5,
+      "stability": 7.0
     },
     {
       "id": "760502",
@@ -4586,22 +4493,6 @@
       "pFair": 63.7,
       "ev": 4.8,
       "stability": 3.1
-    },
-    {
-      "id": "760490",
-      "date": "2026-06-30T17:00Z",
-      "round": "Ronda de 32",
-      "home": "CIV",
-      "away": "NOR",
-      "homeName": "Ivory Coast",
-      "awayName": "Norway",
-      "market": "Total 2.5",
-      "label": "Más de 2.5",
-      "odds": 1.87,
-      "pModel": 61.5,
-      "pFair": 56.0,
-      "ev": 4.7,
-      "stability": 2.6
     },
     {
       "id": "760495",

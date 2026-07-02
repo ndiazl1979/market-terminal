@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T22:59:37.719578+00:00",
+  "updated": "2026-07-02T00:13:29.896250+00:00",
   "categories": [
     {
       "key": "tech",
@@ -69,13 +69,13 @@
             {
               "sym": "META",
               "name": "Meta",
-              "pct": 2.4,
+              "pct": 2.0,
               "dir": 1
             },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 1.3,
+              "pct": 1.1,
               "dir": 1
             }
           ],
@@ -91,7 +91,7 @@
             {
               "sym": "TSLA",
               "name": "Tesla",
-              "pct": 1.9,
+              "pct": 1.6,
               "dir": 1
             }
           ],
@@ -107,13 +107,13 @@
             {
               "sym": "META",
               "name": "Meta",
-              "pct": 1.2,
+              "pct": 1.0,
               "dir": 1
             },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.7,
+              "pct": 0.6,
               "dir": 1
             }
           ],
@@ -196,6 +196,22 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "Japón aspira a tener 10 millones de robots con inteligencia artificial en funcionamiento para 2040.",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWWs0TUJWZTNmS2VRWC1VcHNQNEtKbjBDVk5PRzEtdHlLeVNwMDV0UXlNUEhaaXh2MlF0WktkNGgtR0xjTFlvRnlnakE1cmV5Z2ZPNXVfcWdKZE16a1kzX21ZWGtVX083NFFmNkllZW1CRzNzLUZsOFJxbDkwRkFjY1F1WUJEZVFuM080VE9OSy1vLV83ZHhUX0M0aTdCeUk?oc=5",
+          "ts": 1782951103000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "La apuesta de Meta por la nube y la inteligencia artificial dispara sus acciones 9%",
           "source": "Forbes Centroamérica",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWHp5VldmaVhyYzlHaHZjZDJYUmozeG4xOHJSaEJydlhuLW9DS1dmRFBpU2FXUjlROF9hMEhJa29pWWNMSklJeC1ZUFJJeDMtMENuX0xueUNkVGloX2ExM2NSS0RXWFNlTFp3RkdseHA0QXRYeTYtSl9RazV2TUlvWThkcEhUUGwwRUc4QXZqYzQzckxXTG8wSTdvU2MyY19ubHh1Rkl3R1hUa2p6ZG5oSVVsRkRuRUlUa2xTMGlrRTJIYWlK?oc=5",
@@ -243,7 +259,7 @@
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -259,7 +275,7 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             }
           ],
@@ -351,40 +367,6 @@
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "El Nikkei japonés prolonga su racha alcista impulsado por la inteligencia artificial, aunque el estancamiento entre EE. UU. e Irán lastra el mercado",
-          "source": "MarketScreener España",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWVpFVzRIaC1Uc3puWVB6WWxlcXVZSDVYVGNtNWp3UW4yZHU5ek4xem1aX3hqdWR0U1NHTkU3NFNxZm5RN3M5ZHhka1ZRN01FRl9rRkFqX3h3RlhuWWhZaHBEdFhmVkxWYzIxU2s1ci1peWlxeDNwaE5zZ1dFbkQwdm1Xb3lSVTZMTFNIWG5rWndPT3hTVDFnOFB6YW5WTlZFekVjMDUyalFVV1NRNDhqSkdjY0Z2V3BvdzNQcjJ6dGxSTkxnTnB3MmlpUGRZTjk5ZlZMN2xDYW9YVDJhUGJrYVVDWkpITEJhaUNR?oc=5",
-          "ts": 1782890289000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": -2.0,
-              "dir": -1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.7,
-              "dir": 1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": -1.4,
-              "dir": -1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
               "pct": 0.8,
               "dir": 1
             }
@@ -539,7 +521,7 @@
         },
         {
           "title": "SpaceX adelanta a Amazon y se convierte en la 5ª empresa más valiosa del mundo",
-          "source": "Euronews.com",
+          "source": "Euronews",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTWhKVmRqM2l1b1ZGWTlpNDRtQjhrYlBqMUpsZHRwOVBHeVZ4UzdfdF9kemxMVXZ3c2pmbjdGRmthNGNPOV9ZQS02ajQ0SGxYT3hPbUNVWDZvTmRDNWRHWjVBbWpPVVpBdVJtenNtemhqMW44LWRjTkpxSk96ZldJc0tlQy1lN0dIY291OU9NemM0UkVzcDRwa2gtX1FMaXdZSERkWFAzYmxqWVU3LXRNOW84ZXcxYUtSdTQ4WWtR?oc=5",
           "ts": 1781679600000,
           "sentiment": 0.0,
@@ -686,22 +668,6 @@
           "category": "defense"
         },
         {
-          "title": "Acciones de defensa: cómo invertir en el sector",
-          "source": "XTB.com",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xT1pqWmZDazdCMTFUc3p3dmw2bEs0VmsxNUU2aTViLTRLZkVocW9YQW04dGNqN2dLZU1UMzJxaWZFaXRRS0Noa25udjU1OU5TVERGV0hKYUhNWjRmS0kyMmoyR2hUYkZNVTVQU3Bvcm5qSjIyR0ZBU1l3?oc=5",
-          "ts": 1773853741000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
-        },
-        {
           "title": "Estados Unidos aprobó la venta de emergencia de armamento militar a Israel por USD 151 millones",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcF9VdnhySEpWcF9kS212MGZtOFNIeW1oU1dsdnFqb2ZJbEZLZTNCaVVRQk5YUW14X1oyMXBsNVpuV3E1alpOTVJpMXNVUUpLckdJUkJmdWR5M2ljOUxxTlEzMk5IUnZMYWNVVTVMcGVCTGtPT2VTdWkydkxxN001ZjB1U3dfZWJCbkRkcXF5VldkM2Z2aHFSVHRpM25HZGZfU0dQRS1iTjQ5NTYtSFVJaGZMTy1INlk5SGdGR2c1UkRTNTUwUFAyM0hxa2U2bjFwUmJXY0V2UW5GMnp5RHfSAfgBQVVfeXFMTmJYWERJQXRNU2R6cm9iby1aV20tUjJ1RGNod2V4SUlnMjA4T21GRWZROTVGb2U5cHMzTzJJcUxnWERZUGFwRDF2YU43eG5wYzhIZVg1YjJMUFFyOG9MMC10dXN2UHV5UE5PQVBSYlhXX0JVZE5YbmNEY0pxdm1JQUhGaDQ0SnZXUTRpbFVvY2tKcW11SU12VFFJTGVsdjluTXhibG9ZZ3lHYnlsWG9uWEs2anEyUXp3MG8wSTJ5eUFReXY1Y0JidHpHZm9nRXBJTjBFXzNVbmItNVBZa0FkTTNZY2lKaEJJZldhNnJEWVdNeVFNdVNYdUU?oc=5",
@@ -770,7 +736,7 @@
         {
           "title": "Cae precio del petróleo mientras mercados esperan resultado de conversaciones Irán-EU",
           "source": "Milenio",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLXVsV19Kb0pOVTJvLXpLTlFRUWkzdms0c252ZndRUDAtX0VOVTBwM19DeXNJN0VxVHBMREdteVR2RGppT0FXemZfUmJKVWotcV9sUGJiTzZrRmo2d18ySlF4MkZrOWVtZVJmZ1RfaFliUGsweXhTaEgzcjVFR1VPUmptbkdJeFdJUkdkWkxhazlScnNINy1fQWZ1U0xVN2s00gGgAUFVX3lxTE8tdWxXX0pvSk5VMm8tektOUVFRaTN2azRzbnZmd1FQMC1fRU5VMHAzX0N5c0k3RXFUcExER215VHZEamlPQVd6Zl9SYkpVai1xX2xQYmJPNmtGajZ3XzJKUXgyRms5ZW1lUmZnVF9oWWJQazB5eFNoSDNyNUVHVU9Sam1uR0l4V0lSR2RaTGFrOVJyc0g3LV9BZnVTTFU3azQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYUdTdzVkZmxmTGxhOFlfemVQNmtCRXRkYlZoRmMwaGVoZkhwa2ZhNHhPc1l3ZlVKdmhYVFdtVTkzQ3JIdlB6VFpSc3ExUjJLTF9Ec3pURjIwTzV5TDNBa0Q2WkdoaUhJTTFKRDFRRDAyeF9TbVJKNlUxdTZsWEhTODVnU0ttbVZKYkx6NzFLOUVCWU5vbkJhdUZWT0NXMUp00gGgAUFVX3lxTE8tdWxXX0pvSk5VMm8tektOUVFRaTN2azRzbnZmd1FQMC1fRU5VMHAzX0N5c0k3RXFUcExER215VHZEamlPQVd6Zl9SYkpVai1xX2xQYmJPNmtGajZ3XzJKUXgyRms5ZW1lUmZnVF9oWWJQazB5eFNoSDNyNUVHVU9Sam1uR0l4V0lSR2RaTGFrOVJyc0g3LV9BZnVTTFU3azQ?oc=5",
           "ts": 1782914640000,
           "sentiment": -0.5,
           "tickers": [
@@ -1168,6 +1134,34 @@
           "category": "war"
         },
         {
+          "title": "Economía/Bolsa.- El Ibex 35 sube un 4,3% en abril, hasta los 17.781 puntos, con el conflicto iraní aún de telón de fondo",
+          "source": "Bolsamania",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNend5VGdyU2VUckhpbVI0TGdkU3lPZjFhOTVmR0gxM3ZXeUpBN184a0pMQ2FsLThqcWNlNFhwOEJVYkNNRXlyRzBkYjBYX2JpWGdSdDY5TjNIWkhaQ1N2VlZkQ2ZiMTNOelBtWi1seVIycWstY3ZjZWJZXzdadk1UUjJPNURoUHhOaHNmZVU2ZEhYV0NyOUpRWDFyZ1Q1YW5RdVVkZ203VXNRSk9MR2NCMlJJNGwwdnhLLXZVUW1zSkM5aVlrd2pnWnYyMjFkbzhsazRXSGsyVGc0d0pHcWNZeFZ3OGpoR0pNS3ctU2E5UjFUZnpMWmdXcGI3eDNqeDQ2SUgw0gGIAkFVX3lxTE1OMkRUQmhuY1RSNHp6UDJCb1VnSUg5dm5ScWV6U0h2WjM2eEtQUHllZmsyTlgwVWhxRi1iWmNZQlR3VEMxbm9iWkkwRG10WnZhM0k0YW5kS29RVmE4Ym5WLXZiT0FxbGlIeUpkTHhIVHJyZlZrRG5TcDZqUXltWFVHWmI5TS1uczZMUUM2ZXVReUVyX1p1N0tDeVdoQjBqc2F0NVZ5ZVVXeEs3REtpcUJqZ1Y1M3ViNHpRWGFrSnZQMGNTNU9pVzY1Nm1iYm5ORXJsRXFKUWRsX1ItdXJQSTd4V0twenZtNDRpLWJybklLU1Voa1ZyNlRKbWNKbWxUSFRkeEVMckZ6bw?oc=5",
+          "ts": 1777532400000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -0.7,
+              "dir": -1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": -0.4,
+              "dir": -1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 0.3,
+              "dir": 1
+            }
+          ],
+          "category": "war"
+        },
+        {
           "title": "El ibex 35 cae un 1,2% por la tensión en Irán y el petróleo dispara a Repsol",
           "source": "El Boletín",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWldlek1CSGxuWFc1bkl0MDBORjA0X3lCTlROMkVDMWlnX3lPdndzNldfbzNiUC1iYmQ4eUc4SlRkZm1BZHFfM3hwY3M4S1BoV0llZ2lwMWJFcGZOQ3hmSGN3OWx3OFVRQ2x5MUE3QnNfT0h6Y0oxbVhhNEs0blc0TF93dnlCUnFWUnl3UkRTMFZCVXRNdWMtYXBSWUkwZnozNURr0gGoAUFVX3lxTFA2UUhWcTZKN2VVazBLUElSY3NPRTB2dXpBMTF6MlphdUtaRjN5dUctaV8yZWF6N1JSbUt2MjB4ZE5vQm5RMGpmTjdqN1pwcF9xekpEeWstZVd1RHVLUFlMVGFpQ2Zaek1Hc2NVckdnaDJxd0NaTzBVT1JyQWFnZnRKb1BZTlM1Z2R6N0g4WDRhWDJTNzFZWEZZZndxejU0U3pOZTd4N0d2VA?oc=5",
@@ -1222,34 +1216,6 @@
             }
           ],
           "category": "war"
-        },
-        {
-          "title": "Las bolsas vuelan por el fin de la guerra, oro sube y el petróleo se desploma",
-          "source": "Negocios.com",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWVpiUEVWZGR3eXNtRm41NkFadmFfVG9yRmUtRlJWSU1PblV0QnI4VHp2akx4Nm1McEFZN252Vm4yQ29jZUdIUlRRUWlyUkI3TC1oWFZBTjFoUEVJWS15TFZrbHE4Si1rNHJXMnRCRXlPZHFKVEJQcFpwRkUzNnVud2tBRmI1S1VZZ3ZITEw5MXY2OHBWY2FVYTZ6NzZKWDRIMFR4NW9KZ09OSTI3QzdFSXJrMnhFeEVXVjBJY2FZc1FOXzJLdXR1aTBjTFBUeDg1a2lqT9IB2gFBVV95cUxPZFJlVXJ3T0kxNkQ2NVhJZFF6NF9IZlRja1lHX2EtQUYyY0lHaVhYaXBtOWZDNVRZYjVRaU9YeFpMb1FBNmlFRk5XMW5uSlhmSjg1dnZpMWgxdGlBbmxHbURYeEJpWGMxX0FXZzlUS1BqSGdkbnJEVGdsX0pRR3NkMzNocldId1pFNDNnYnM1Z2lCMklaN1NLejlLWHI4RUd1bDNzMVhoTTg0Uk1rN3p3bGJzYTVSRjlWZzJCY1RhV2k3blVVUnN5WTZkWTRPTS1EeUQxSW1iVC1aUQ?oc=5",
-          "ts": 1775631600000,
-          "sentiment": -0.25,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": -1.0,
-              "dir": -1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.7,
-              "dir": 1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": -0.4,
-              "dir": -1
-            }
-          ],
-          "category": "war"
         }
       ]
     },
@@ -1257,6 +1223,28 @@
       "key": "macro",
       "label": "Macro / Bolsa",
       "items": [
+        {
+          "title": "Wall Street arranca julio en rojo; Nasdaq baja 0.66%, arrastrado por firmas de chips",
+          "source": "El Informador",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUTRtT3dXN29fZUJKTUVoZXdTZ2g3LU11NlJSUm5OT0xxUVAwQmlhelU3clVqNzM4dnVhV3FFblEyU0c2dkFKWFBDSkhrM1EwRFVSaHlFVUxLM0JwUThHcGI5bW1UbHpFR3pvQlhLRG9MSE4xOWc5S1J4TjNUNVh5d2N4MWhDSWxiU0xYMTlucF8tbEFXcDdZSEtFNTE3Vl9kUmFUMU16T3N1ZXhFdWpDSjN2X1VHLUVPNDlYcWp4S2NVY0ZZaGFvbHotRzZPVzRTYUHSAdcBQVVfeXFMTXFDOEFTZ0NUWVdBWXZQUEVDbGVFMkJXaTk5NlM3SUsxajhKZFU5UGg5aEJkWk5iTFBSQTJIWXZ2SHZPYkl6bFlHMEJXRmxJMTZWTUxyVzFSNkVDSHI2XzQxUks0VkExODRMRGl3cUpUSm1lN0hEYTdaOHRzTXV6MGhseHAzOTJhXy1nZTRPMU9oaWVjY2pEUnZVSk9ZRWFZeXFTU2FDamJqd1Y5NjJvNHIyUHR6UzhUb3k5SVVQUUhEUHNpX1JKb0RrVEFWTHpZenJaTGFybTg?oc=5",
+          "ts": 1782946645000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": -2.0,
+              "dir": -1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": -1.3,
+              "dir": -1
+            }
+          ],
+          "category": "macro"
+        },
         {
           "title": "Julio llega con frío a Wall Street: ¿Cómo cerraron los indicadores bursátiles HOY?",
           "source": "El Financiero",
@@ -1436,22 +1424,6 @@
             }
           ],
           "category": "macro"
-        },
-        {
-          "title": "Wall Street cae luego de que la Fed sugiriera alza de tasas a fin de año",
-          "source": "Diario Las Américas",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSmVqMlV5U283X2Z4NGdmT2J6ZlRicnNvU1MtNmd0T2VpZFBDWEVaVE5fSkJMSkRFbC1VamxKMHVUbWN1MTBVX09GSDRNX25OQ2lvdWdwOTRhc2VpbkRsNnlHZi1KOFA3QW91QTFiSi1Fem9iWEJxcE5GeVpQZmx2clNoOGFhUEp5aGtyUzJuSDhvYjZZWHBvV0p5YXhhVjNZSW14YUticDZTQ2NIYU1DWjlsMNIBuAFBVV95cUxQUlhVUmNzazZaWE1ESC1JXzRIR3h1ZjUtSGNyRmhsaTN6Q3IzUG16cWVuX0I1b3NFUndGM29IUVJBTHdCaTZuRk81MVY3aU5TOVg2ZzNlTElpSEl0aWRoa2pfZ3VJVWZpckdGQl9mZFV2Q0FBUC1SM0F0cmJGNmtZNnFEZUEwNWVrY1hLeXR1eTBnYlkyaE9mVzRWSlY4clhLVVpqWkJHSmlZWkNXMDRueUhHTHdfQUJM?oc=5",
-          "ts": 1781679600000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
         }
       ]
     }
@@ -1460,44 +1432,38 @@
     {
       "sym": "WTI",
       "name": "Petróleo WTI",
-      "net": -12.0,
-      "n": 25
+      "net": -11.9,
+      "n": 24
     },
     {
       "sym": "META",
       "name": "Meta",
-      "net": 11.6,
+      "net": 11.0,
       "n": 9
     },
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 10.5,
-      "n": 24
+      "net": 10.4,
+      "n": 22
     },
     {
       "sym": "TSLA",
       "name": "Tesla",
-      "net": 6.5,
+      "net": 6.2,
       "n": 5
-    },
-    {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 6.0,
-      "n": 7
-    },
-    {
-      "sym": "QQQ",
-      "name": "Nasdaq 100",
-      "net": 4.7,
-      "n": 17
     },
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 3.7,
+      "net": 3.4,
       "n": 6
+    },
+    {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 3.1,
+      "n": 8
     },
     {
       "sym": "AMZN",
@@ -1508,8 +1474,14 @@
     {
       "sym": "SPY",
       "name": "S&P 500",
-      "net": -2.7,
-      "n": 19
+      "net": -2.8,
+      "n": 18
+    },
+    {
+      "sym": "QQQ",
+      "name": "Nasdaq 100",
+      "net": 2.7,
+      "n": 17
     },
     {
       "sym": "MSFT",
@@ -1546,19 +1518,12 @@
       "tags": []
     },
     {
-      "title": "WTI sube a 72,01 mientras el mercado sigue atento a la crisis entre Estados Unidos e Irán",
-      "source": "El Comercio",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb3c1RnRTOTdnVmVLSmhRQTBTeVlnYVFOMEloMXJjS1dBd3llVXRLdU1XazNjbjBNZkVoOHlIa3FTUUFUUkc1UkVObE01ZUxJVU41YVM1NWtqWVJ2b1IzcDctVTBJem1seUhLdUtoQm1aeTVkWEY3RWhYTWZ6XzJuOExoeUtTclRsVFFOT2VJTTFHLWtxOFE?oc=5",
-      "ts": 1782417051000,
+      "title": "Honduras busca atraer más inversión a través del mercado de capitales",
+      "source": "www.laprensa.hn",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVlhpSm1sdWxNWXJKMHJwWnZ1bk9LZjdDdVdtRUViUC1IZUFrVk5mdFd3VW5tU1AyTEUtVXVPZm1PejdQdkdSaHhwSXFfaE03RHlyd2g0aG9ONDZmRmtsX25uOTlqend5MkZ4ZUQ4RGNGQ2M1S2JUZjl1QUZIamJtb3hGUEgxc2tTUmNSZmlFMWdHbEVJbFQ0cGlLa1VOZw?oc=5",
+      "ts": 1782475980000,
       "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "WTI",
-          "name": "Petróleo WTI",
-          "pct": 0.7,
-          "dir": 1
-        }
-      ]
+      "tags": []
     },
     {
       "title": "Mercado de valores será parte de la formación académica",
@@ -1588,14 +1553,6 @@
           "dir": 1
         }
       ]
-    },
-    {
-      "title": "Fitch pone a Ecuador como ejemplo de éxito financiero en América Latina",
-      "source": "Diario La Hora",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWEJBcUlXSUJ5YW54X2llTGtSaGJiTERoMFNFUE9DeDFrSEdzbmZCS1RDeXEzSTNlcHJPWWljSjM2a2pqNjNlc1paZ2dtQjZ2RmhyYmppU1g3RFVTTkpXM0VPOVJiVG9BRjhyVUtMQjE1U1JhYllhMVU3elJXcWsxeTlrbDM1T0E1dF9KZnFncTB2eUJBNlhFdnU2YV9abERrZW1FNDJHVExnM3MyODQ2RG8wUUFTVjROWC00dTBVSDdaSTg?oc=5",
-      "ts": 1781679600000,
-      "sentiment": 0.0,
-      "tags": []
     },
     {
       "title": "Riesgo país de Ecuador perfora los 380 puntos y toca su nivel más bajo desde 2014",
@@ -1674,17 +1631,17 @@
       "tags": []
     },
     {
-      "title": "El riesgo país de Ecuador cayó a 396 puntos y alcanzó su nivel más bajo en casi 12 años",
-      "source": "Infobae",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb19XU0tYMVU1QjRWTTdtazhlS3BSNV9aLWdob2NnNklsSUxPSEZQUTlVbU83MnZ2dmZiYmdaUHFtdGE2TF9Fc081aG1ELTdFMDhKZFBYX1R4VUFsMVI4aXFiM0QzbVhsTThZMktQWk1kc1NkRW1jXzAwTUwwdm4zQjhYdVBsc1AyTm1QTzY0TWd3dkVmcnBrV0R2UTdFbjVTTEV1dUpQUllqRmt2aXpaYTQ4Z2NqNS1BbF9kMlZWYmE5RVBNVUJZa1A3U0F0ZWFsdGJGcjZyWGdZOEVsRHhj0gH6AUFVX3lxTE1YUEozdnVLLXdpQjUtZ0gyaXNxRkRWdFRRVmwzSTZmSWNDejRFbk1fMk05MnN5X1ZZc3JucnRBVEpHUEQzM0VOdUNGXzQ5bnFnYzlKWW9iTkNSSnU4eElPZGpSMmVlUDdzV1hSS1N1akJYOU1MelB2UGpGak9pd1V3MllsMjZPeXItQWhnUGp6RVhfRmdISk90Wjc0NGxkQmp0a3JBcEIxd2xDY2hZT09mTlJoWXFadkNxUlNTRGFHSkRiVWxRdjBUVExUQjJlaWJKOV9URVBOYjQ3Y1hJVkhoOHJZVWctU1cxRmR3d1h1UTBoOU5tWktfUHc?oc=5",
-      "ts": 1780556400000,
-      "sentiment": -0.67,
+      "title": "La deuda con el IESS supera los $41.000 millones y pone presión sobre las pensiones",
+      "source": "Diario La Hora",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORm94OHRPQ0pWaWNoNWRSYXhkMHhhN3A1TEFUSWNEY2Z6RVF2NlZBQkJSME9OLXdocTdraXdveEZESThJUXFsak51RTRkNWtIWHRmMGc5RHZ5Y2lWRHdocnJjSzVYVHBtTUFjXzIzdEpZQXhkN3NGMlJjUTlvZV9yV0gyWFdKd2oyWGN2bUdUdjRILTdjU0lyS0Fobmk4VzhvaFNhcFRwOTRnY2syc3FfZG5tQkVwRkFRUnlKQlllR2d3SnFPbVFZUDNQTWMtOUF3RVE?oc=5",
+      "ts": 1780642800000,
+      "sentiment": 0.5,
       "tags": [
         {
           "sym": "RIESGO PAÍS",
           "name": "Riesgo país (EMBI)",
           "pct": null,
-          "dir": 1
+          "dir": -1
         }
       ]
     },
@@ -1738,6 +1695,14 @@
       "source": "expreso.ec",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa21rdHNIQ0RJazlVZHB5SGlIRzNBbmp1aDREUmEtNTMxbG02eW9qdjFVTTVmM2YtS1dPLUtncl9lNVBVbDRlNXhiX0ZyX1RETTcyejFNNWFCMEhYRlFuUjJhZ3UtQm94bTN2LTNvNEkzUFQ2eWZzbVNhSWtLREZ1TjJydHZXajlnc1lHMzVjcFRJU1pvOGZNcnBkY3VHNGlhM280aVZkRGV4UXY3bU9TU1VfdmVSX1pXWmNaTHZ5VWl3WnVS?oc=5",
       "ts": 1779951600000,
+      "sentiment": 0.0,
+      "tags": []
+    },
+    {
+      "title": "¿Por qué ha bajado el precio del plátano en Ecuador?",
+      "source": "El Universo",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMlF3UmlxSFhqQzhnWnF3U1IwU2NqQ240Szl3OWhXNnp6VUQ2Nm0xdkQzd3cxSkJSUG45MXJGbWQ5M2dDVjBQUEl1d3FaeGJzeFMxYXhadmFlLTZlM2JCLTc5MVFiZExnZ1pQWWJKRWh6eFRya0FNc3M4bmlXMmg3Y0l5ZkZDc2tOWnJsd1k3Tkxkd21kYU5uRGktajJaM0V4cVVUNVpmcl8zbFdtckZPbmZTUTVnc3d6anlEUFpkUVVMUk5aeDZuRU9RYWPSAeABQVVfeXFMTzdMYXdSdWRxdFA4cWZLbUpqV0RPTkJpMnV2ZzVpODlCXzJLaURQZURSZVdWX3k1LVRNZW1DbnRQSUhPVmhISDhJRGVHQ1docDJ1V1lpYi1aMV9vaW9IUElhMkZpRFU0YkNiTTczYjRmNzFaSWVtZDEySHRYcVdXaHJ5emtoRWstM2hJaHVkSHJJSThjV3cwNTJpaW1UaXlkb0k1Y01KcXE0RVU2dDFnLUE1eTNBSDhmVGd6NUd0UlN0R01Ec1k4cVlIQk5ETW0yTzBlX21xczFobzIwSTJHNGI?oc=5",
+      "ts": 1779865200000,
       "sentiment": 0.0,
       "tags": []
     }

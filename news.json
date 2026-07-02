@@ -1,10 +1,26 @@
 {
-  "updated": "2026-07-02T16:24:37.453700+00:00",
+  "updated": "2026-07-02T18:10:13.927879+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Las acciones de IREN se desploman y no es solo por la amenaza de Meta",
+          "source": "Invezz",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYmRwNzg3Z2pBOTRIb29vajA4QUpEbXc1WVppMGZydmJuU2owNjY4VEJoX0dBbjZ6ei1aVGJFRzhOM0dZR1l2UHpzcjhpeFJ5ZFduR1lJUHFDYmxSOU9hRkluNkhITUtmY3JRSG9pWFRiTm16dElxa0JSWHF6bER2RnhCZG9ady02NnBVR1JQX3pzT1Z0U0dabXlvcUVYT1doUnlHQjUzUmsyaDF6WDVPb3pB?oc=5",
+          "ts": 1783012705000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": -2.4,
+              "dir": -1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Las acciones de Nvidia siguen en descenso: ¿qué está afectando a la favorita de la IA?",
           "source": "Invezz",
@@ -79,7 +95,7 @@
             {
               "sym": "META",
               "name": "Meta",
-              "pct": 1.2,
+              "pct": 1.0,
               "dir": 1
             }
           ],
@@ -166,28 +182,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Las acciones de Nvidia pierden los 200 dólares: Wall Street mantiene su apuesta",
-          "source": "Benzinga España",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWnlmaW9YRGtiLXZTM0M4blJ1eE9UemVlTmc0VTJBOEI4R2lSUWduOVVTZ0V3ZUUtMVNPMDY4dllEUFBnOTV3Nm8tczFwdXZuRS14Qi1oOUpFZWt3Vk52YnNKTVhuNXJmQW4zTkZEX29fNE02cGtOOTk0WmpPdmxJeFZsLXdJQQ?oc=5",
-          "ts": 1782981340000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": -3.1,
-              "dir": -1
-            },
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": -1.1,
-              "dir": -1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -195,6 +189,38 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "El índice Nikkei de Japón cae a medida que bajan las acciones de inteligencia artificial",
+          "source": "وكالة سبأ",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HeTZMdGFhZjY4dkd0LXpQcXlRSm1SRl9OM3Jtc29yQXBrQWRrU29nN3FZdHJWVUlBbW00WGgzRVF4bGZPMko2V2RpMFotbWc?oc=5",
+          "ts": 1783014348000,
+          "sentiment": -0.67,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": -2.3,
+              "dir": -1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Anthropic explora chips de IA con Samsung en 2nm y aumenta la presión sobre Nvidia",
+          "source": "DiarioBitcoin",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX0tkeTBCdWtoYXlGMVJheFRKWllULWxDZHZCblZ0Y0hJX2lQcVV5MXVpcnJRSXJJajVKblBhdlhMUXkyZ1pVREp2OEwyU0MteHlJVkZNTzFQTmhOTV8wVGF2Sl9SQWtLdW1QQ2luVHpNRGNwdnRWUGVfVFhwNGVfYTlnSVQ0bEZibUU0LVVZYkxpY0JNNmRTZnRlUjdGNFdNOFJfeS1uaFZjX050dlI3bnc1OV9peXJLSnF6MVZDRFpYR01hb2c?oc=5",
+          "ts": 1783009984000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "La carrera por la inteligencia artificial despierta nuevos temores ante la saturación del mercado",
           "source": "MarketScreener España",
@@ -282,22 +308,6 @@
           "category": "semis"
         },
         {
-          "title": "Google lanza Nano Banana 2 Lite, una versión más rápida y barata de su generador de imágenes por IA",
-          "source": "Profesional Review",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTC1ZajJLd2xvQXF5eHpBWU85NHIyWFUyMjFET2dCY2dFOXB6TWFacVJkZzVzeUVWLWhzTnJ6NFBaQ2lwVXlLbmNadk1uMmNJZEJPMUpzbmM5b3N5dUFOOHhYUV9rLU4yTDIxTjRfVnowQUxrQlJqMG8wVEJmNV9BX2NLeG1Xdmd5VGU5c3Vwb08yTnJPaDFkX3NZTTFabEtHRGpGMXppZjdVM1d6NVJqUElPbTFuOFIyaEo2aUdIZnhvdEZZam5uQnN0a0k3WlU0QjdPWGEzMEQ4X0x10gHiAUFVX3lxTE81eXZ1aFRjRlRlV1hFZ01kcFV2TE1UM1dYVzNaWndXSk5tTTFJZFQ2X2ZzVkx2aDZzZTZJTG9kdXh6YzhZWGpiU3BscGpsaTRUMGpZR0lPQlI5UHlTZERhaFZmdlpHd0xkYlI1dUxhb3dxOUU0OGc1ZDZlWHVHdm1QYUJBdW5vblh5a29qTEhVcm1COWdaQ3VGUzJ3T3ZvMjBFZlNQVUxTajVjcC1DVEdZMko3VkhmQ1Z6TkFSdk9EUUktMGw4dW96ZWtLdkJtbERTSXp5Y1pqWkRHWTVqclVXY0E?oc=5",
-          "ts": 1782995017000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 0.9,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
           "title": "El Traductor de Google planea añadir una función al estilo Duolingo para que no dejes de aprender idiomas",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWlFHZ2QwLWNuMWVTN20zNFpfNGJ3WHZYN1Yzbnl0YVJsVWsxRXl3UHU3RXF2bmFFd0F6UnZ1YU9QRzYxOS1aRmxxR3ZZbjZDcEg5RDBNc1I3dWhQNjR0NktSbUhrSHdURmdNSkI2Vi1KaWlmVERQUmsxbzY5cFFEVUNrNDFsb3pSeEFSYTVQV2o4YUZQdXFxNnMtdUVwMU1ESUl3NFNKUV9lazhyMXE0em1IeWZlRnNqQWRSbld6ZkFlaHlPdEp6aTdjbDhIMmt0elV5Zng3WjhMQjdtVVFIVNIB-wFBVV95cUxNVllIbW1FM0RaVkVObVFWNGNWdDVodWxDd1lYd0FsbDJ2VGRQaURKd3ZJbng5WllwbnlQZl9BQm5GQzQ5UXlOb2x6aU5CdTJaVXFyN2FnOTBYOEdyQ09EUjJZc19KREowbVhCZWJ0QzJVMzdlbFp4aXNMSFhqY0h0SHo5d3UtWjRfUVI1WXRmbjlFcE5fU3hUMXMxLXAwRlItdlhHR0dFcmQzS09ueElNRFZtMzYxa0R3Wlo4VG1PMWNKOUpQSTBZaDRRTC1ndE9VWC00ZzdHOFhoQ3ducHlEVVMwQktvLWRKNE45eUhRemVLV2o2VkpqTmR3WQ?oc=5",
@@ -314,37 +324,15 @@
           "category": "semis"
         },
         {
-          "title": "Las acciones de Nvidia pierden los 200 dólares: Wall Street mantiene su apuesta",
-          "source": "Yahoo Finanzas",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQlA4cXdfaUV3cUV5UmpCSHM5YkhjZ04yVkxRVnhxaEhDLS05YnlEUG5nYzI1OUJST2pNZ2JWMTJGRUtRdnNIb1M3bUJGdWFkOTdrY3BMSEY5Y2FOaXVTRVRlTFpLcWZub2JwVmk4TXZLU3h1YW1fMTZqdXNsZTljWVhLdUV4VU9pNTE1clNDT2Q5QTljdDJ4NmJGXzhkdw?oc=5",
-          "ts": 1782988540000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": -3.6,
-              "dir": -1
-            },
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": -1.3,
-              "dir": -1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Amazon.com desarrolla sus propios chips de inteligencia artificial para dispositivos de consumo",
-          "source": "MarketScreener España",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNc0hGN0xOZFRqVDBwVFEwelNVb3ktbW1nVDFsMTBfYnM0amlabWFPTmZyVUtkN0hVaXdqMVJWWm81X19WclZJRnJLSTZUMFRfZ0VzX1JJdktTVEVabFFVNXNwenBlcDJKdXVMcEp3dUlQemFueExldkhkR0ZDejNrRHJXLUhrbDVhRllVOWdtVm1yZ1c2RDhPdTItTFlNanhXdmFldElwb25vUGM4UWRPN3Z2M1hDQ0JfcTE2d0tfblNGemp4OHY3LWpCS1NzUWRvVkpPeXJ4cGFQc3ZHYWFmc0xRVEdxQQ?oc=5",
-          "ts": 1782988498000,
+          "title": "Kung Ming-hsin no rechaza la afirmación de Trump de que TSMC duplicará su capacidad de fabricación en Arizona",
+          "source": "rti.org.tw",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fT2NPUndqS1JleWdmZk9sVUtmeXBPLTJDU0xHREF3c3pWQkV1cW1BVEFuQk5wTy1vZ0s3ZElCeVhFejZvTkxPNWdfaHJLSUNDUXFNU0YxNm1oZlk?oc=5",
+          "ts": 1782988375000,
           "sentiment": 0.0,
           "tickers": [
             {
-              "sym": "AMZN",
-              "name": "Amazon",
+              "sym": "TSM",
+              "name": "TSMC",
               "pct": 1.0,
               "dir": 1
             }
@@ -650,22 +638,6 @@
           "source": "El Economista",
           "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQc0NNOVUwUUNaRHlyeGVnNG9rMFI2T0U1RkkwQlhaUGZVNzlCdFp2bDhGa1paSTk3amVDYlNXN01Gcy1HS0czVEpuSVNTUTVuSWJIckpIZGg1MkZPdHpFTDBBdU43S29RbjVpRGM3b0hvSjU2NHZkVDZHN3JkTjZPZTFndGMxYTh1LWh6TFJ6THBhb09YNm1ydFpiTEdaU2pMN3ZfSk9hZ0pIU1RITGJrLVJJb1R1UWRwTy1LWF82Ulh0UURYSDdjWWd4UnQ4c3NmZ05nR1V4VEtpc2tURzg0UDJZUndMdlZsUWRZemRvbDhtekRjTGZIU1lzaGIxazDSAeoBQVVfeXFMTVNMNlpzUkdMMWdPZEN2cGxPQktPSmVyTkljaTVtVGUtQ25iTjBHdzc0ZkdrODR4QmowODQ5Q2JQZjd0Z1FkaXNkcm45V0QtcGtmRWd3cndiV3JRdmlsc2IzNXNOdEF2N1RxRUlBUTQyMVdaLVlmUkt1MzVlNnVxa256a1g0bjJVay1ZUUt1eUdVb0o2M3pXR1FBajlyaXZQbDdLZVNqSVNoX0ZvRzJNQkcwNE9KeFNQTkJEMUsxMEc0NEJMNW1NS3htV1lRMkNBYVdzM2F4OWlsdmZicTV6Rkl2UENDUGxLc2R3?oc=5",
           "ts": 1778914800000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
-        },
-        {
-          "title": "Las cuatro principales empresas de defensa de EE.UU. acumularon casi 600.000 millones en pedidos en 2025",
-          "source": "Diario Red",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPd1hySlk0cWdvem84QjZkN0NyT0lrVGRiMnlWbkJ1UTl3WTBWYWxQRTlFN0lpZGJTMUxsNHBqU21VU0l3Smw0NzJxTWRybkI5VUxJalAwSTVKblV6TkQzaXFwN1o1N3JlYnVtRU93eGpxOWZpTU40SF9uSW9mY01aU2JjSWduTUZvOVJjRjFwS0tvMXJHRDVLVFB1akllNEZjOWFubWhiS256RlU3SWxlZUNJRlcwdmgzVTQ4ZTZ5aGh5SVBaUExzZGU5QWZzZUJiY3pNY0M3MGJNYWNOWVdscjhEdC1kQ25jZE4tTl9uUi02MUM40gH6AUFVX3lxTFBMVkxCWi1ncy03b1dRWE5zVjl6QTE4VTJoaEJXWmcyUFRiNmpYbnJYekdqeExZVm91V3E2R0xGbXJVaU1UcE9nRUYtQkpfRWJWOXZ1UGFuSWpYc3VjZmhVMllWS0VuLXhmMFgwNE9BSzFqbW0wWlFicTZaN0JFREYzUnR6X1ByYkdKeDl1cHU5RjI4LVRpSi1HeEFXbUVZNkt2bGdQWHQ4bWlZbE84OS1sN0h0M2JRaUYzMWhhTHJWSGRobFc5ZkptRXRUWGdPVkxHRVpkenhEOTFWUGNEQjF0dk40R3FvY0tLSnplRE1XOExLb24zcVZPcVE?oc=5",
-          "ts": 1770019200000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -1144,10 +1116,10 @@
           "category": "war"
         },
         {
-          "title": "El posible fin de la guerra abre oportunidades fuera de la bolsa: 3 estrategias de trading con fuerte poten...",
-          "source": "Estrategias de Inversión",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPM1BwYlZGRFBySzR6NEp4TE9uYkJQQUNxU3dhMnZqYVNzWW9GYU1pSENEazhhcjFrQm5SWDB5dllCX1Zqbnp2VnBXZEJpQ2dxSTQ1Rzg4UERIano4SWlreEhwb2RDWVFYM0V5S2Z5Z0FLSnFpUUV1UThOVVQ4eFZ5OG1XbGh5cDJkVGRsc0RfS3kzRVVzblpwUjF6Q1Vha2czbUl3S1FmZzFfS2xIMVBJblBGb2dMLWV4MGF3ZHhpMEZNRlBibEo4cEllSkZkS2lpYzRkZ2t30gGiAUFVX3lxTFB6cWdrV0I2bFNiaWtoMkRoMTJULUZHeFN6eGFGd1VxZVdybm9aYkxabUttS3JJUGxaaVhTOHpoM2NlQzlodFZ3eEFUUWtpbkFMQkVoRFU1Q0pMLUVPWGx6OVc2OVZmeFVtLTdkWkkxUk1YZjI4d2Y2S09HQS1NdzlJYmYwQ2tJUHV1V3A5eExvbm8xRnlDWXN6MzF2cVZRdE8xdw?oc=5",
-          "ts": 1775286000000,
+          "title": "Bolsas en modo rally: el mercado reacciona a un posible final del conflicto en Irán | Resumen diario de mercados",
+          "source": "Finect",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaHlGanFfaHExaDZHTVBhcUhLbHZrM3N1ZDJ1YzkwaHEwbHBfalFwTUdMZUxQODk2T1ZDc1dTNjRYcXZ4eFBQS2s1dkE5RTBKNVhaQ1NvZ0hsNUJHazdObEdzN1JaQVBqYW1uazY0ZDZMTzljOVg0Y1RoNnlwZHU5LXVvQm92dVRiLVRNOXN0ek1GX3ZHTWFFalJHdlhrUTRfaEZUTUdDVU5lTG1IaTdfUl9fZnQ2TzRtUzdfUUtUQVlXcFF4NmlKOTFUMG9CZEFING1HWkl1dHkzVW5HOTlpdlN3ZG5Da3JPUHhsMzZ1TzNCLThwcEE?oc=5",
+          "ts": 1775026800000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -1273,7 +1245,7 @@
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": -1.3,
+              "pct": -1.1,
               "dir": -1
             }
           ],
@@ -1289,7 +1261,7 @@
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.6,
+              "pct": 0.5,
               "dir": 1
             }
           ],
@@ -1380,14 +1352,20 @@
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 9.4,
-      "n": 20
+      "net": 9.0,
+      "n": 19
     },
     {
-      "sym": "AMZN",
-      "name": "Amazon",
-      "net": 6.6,
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": -7.7,
       "n": 7
+    },
+    {
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 5.6,
+      "n": 4
     },
     {
       "sym": "TSLA",
@@ -1396,9 +1374,9 @@
       "n": 4
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": -5.4,
+      "sym": "AMZN",
+      "name": "Amazon",
+      "net": 5.6,
       "n": 6
     },
     {
@@ -1406,6 +1384,12 @@
       "name": "S&P 500",
       "net": -3.8,
       "n": 15
+    },
+    {
+      "sym": "META",
+      "name": "Meta",
+      "net": -2.4,
+      "n": 6
     },
     {
       "sym": "MSFT",
@@ -1420,34 +1404,28 @@
       "n": 1
     },
     {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": 1.8,
-      "n": 2
-    },
-    {
-      "sym": "QQQ",
-      "name": "Nasdaq 100",
-      "net": -1.6,
-      "n": 17
-    },
-    {
       "sym": "AAPL",
       "name": "Apple",
       "net": 1.6,
       "n": 2
     },
     {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": 0.7,
-      "n": 4
+      "sym": "TSM",
+      "name": "TSMC",
+      "net": 1.0,
+      "n": 1
     },
     {
-      "sym": "META",
-      "name": "Meta",
-      "net": 0.2,
-      "n": 5
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "net": 0.9,
+      "n": 1
+    },
+    {
+      "sym": "QQQ",
+      "name": "Nasdaq 100",
+      "net": -0.4,
+      "n": 16
     }
   ],
   "ecuador": [
@@ -1549,14 +1527,6 @@
       ]
     },
     {
-      "title": "Fitch pone a Ecuador como ejemplo de éxito financiero en América Latina",
-      "source": "Diario La Hora",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWEJBcUlXSUJ5YW54X2llTGtSaGJiTERoMFNFUE9DeDFrSEdzbmZCS1RDeXEzSTNlcHJPWWljSjM2a2pqNjNlc1paZ2dtQjZ2RmhyYmppU1g3RFVTTkpXM0VPOVJiVG9BRjhyVUtMQjE1U1JhYllhMVU3elJXcWsxeTlrbDM1T0E1dF9KZnFncTB2eUJBNlhFdnU2YV9abERrZW1FNDJHVExnM3MyODQ2RG8wUUFTVjROWC00dTBVSDdaSTg?oc=5",
-      "ts": 1781679600000,
-      "sentiment": 0.0,
-      "tags": []
-    },
-    {
       "title": "Riesgo país de Ecuador perfora los 380 puntos y toca su nivel más bajo desde 2014",
       "source": "Bloomberg Línea",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMGs2VDMwZTlidUYwTE5HdWxtZDN6THYtdGoxNmU2Nlh2RDFPejZmNHk1SGE2cHBkeTF3bkFrbGJtNlUyYWl0Z3J0NVRZOWZLT21OMTRDSzlVLVB3cjNHcHNPMTV5bHM3LTQ1WnFhOE1iTUZrbUNNRGdSRWhCZVFsWjd3Zkh4cHc1OTFjN25yWFZLMGhOaGRCSXJNemFMZnExWDFhSWc1VHlxcENnbXJwZEdhYjNSeldEMTdubXpvODk5NmhITlpobzhJSXhGNlJ30gHkAUFVX3lxTFBrbS1IZnpJcUxLNk45RGZHeDBHel95UVZnUVduU0JDcDR1NUpJWHhBbTQ3NlgyXzAyYjZTM3ZGeGZ3azdiSjluM2J0Vk9VN1hNZHlnazJLZnVxN1p0anllN2phaUxkS3ZwZU53UTN1N18yNGRGOVgtNG9hdW1YWDZhN0NmTDRTVjZpMlQ1VEJrQ3ZBazFoUFpqcFlDc3EzRTNJQWtjMmpwdF9zdGZLTFNLczRjczV4VUpYVTdqQ1kzUDk5cGlSREMteWF3WktqZTZ3dm9XSW9oR1V1cXdDSzRUd2l1TQ?oc=5",
@@ -1633,17 +1603,32 @@
       "tags": []
     },
     {
-      "title": "La deuda con el IESS supera los $41.000 millones y pone presión sobre las pensiones",
-      "source": "Diario La Hora",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORm94OHRPQ0pWaWNoNWRSYXhkMHhhN3A1TEFUSWNEY2Z6RVF2NlZBQkJSME9OLXdocTdraXdveEZESThJUXFsak51RTRkNWtIWHRmMGc5RHZ5Y2lWRHdocnJjSzVYVHBtTUFjXzIzdEpZQXhkN3NGMlJjUTlvZV9yV0gyWFdKd2oyWGN2bUdUdjRILTdjU0lyS0Fobmk4VzhvaFNhcFRwOTRnY2syc3FfZG5tQkVwRkFRUnlKQlllR2d3SnFPbVFZUDNQTWMtOUF3RVE?oc=5",
-      "ts": 1780642800000,
-      "sentiment": 0.5,
+      "title": "El riesgo país de Ecuador cayó a 396 puntos y alcanzó su nivel más bajo en casi 12 años",
+      "source": "Infobae",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb19XU0tYMVU1QjRWTTdtazhlS3BSNV9aLWdob2NnNklsSUxPSEZQUTlVbU83MnZ2dmZiYmdaUHFtdGE2TF9Fc081aG1ELTdFMDhKZFBYX1R4VUFsMVI4aXFiM0QzbVhsTThZMktQWk1kc1NkRW1jXzAwTUwwdm4zQjhYdVBsc1AyTm1QTzY0TWd3dkVmcnBrV0R2UTdFbjVTTEV1dUpQUllqRmt2aXpaYTQ4Z2NqNS1BbF9kMlZWYmE5RVBNVUJZa1A3U0F0ZWFsdGJGcjZyWGdZOEVsRHhj0gH6AUFVX3lxTE1YUEozdnVLLXdpQjUtZ0gyaXNxRkRWdFRRVmwzSTZmSWNDejRFbk1fMk05MnN5X1ZZc3JucnRBVEpHUEQzM0VOdUNGXzQ5bnFnYzlKWW9iTkNSSnU4eElPZGpSMmVlUDdzV1hSS1N1akJYOU1MelB2UGpGak9pd1V3MllsMjZPeXItQWhnUGp6RVhfRmdISk90Wjc0NGxkQmp0a3JBcEIxd2xDY2hZT09mTlJoWXFadkNxUlNTRGFHSkRiVWxRdjBUVExUQjJlaWJKOV9URVBOYjQ3Y1hJVkhoOHJZVWctU1cxRmR3d1h1UTBoOU5tWktfUHc?oc=5",
+      "ts": 1780556400000,
+      "sentiment": -0.67,
       "tags": [
         {
           "sym": "RIESGO PAÍS",
           "name": "Riesgo país (EMBI)",
           "pct": null,
-          "dir": -1
+          "dir": 1
+        }
+      ]
+    },
+    {
+      "title": "El riesgo país en Ecuador perforó los 400 puntos y alcanzó su nivel más bajo en 12 años",
+      "source": "Bloomberg Línea",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVGlTNnVxX3NxVW5OWVptbmVKRkNidkNIc2wwdktTT2tvckVpZXozWG1VS0xCQ20xa2NfUHFsd0p3dVR1dFBRSVY2ZlpoLU5RRWUzeDRuQlRfbjZXbHZTb05rUWpTeDN2TGJkRmpCS0xqMmZIN1NjQ0ZEdjVSUFNfREJyWHlnUmhTS0xhbEZOOEVKNUp1YlI3Wm5IMVNiamVnWlQ1dWwxWGpnWDh0Yzk5ZVRiUjZjcXlUZDZMVWVlcHZCeVR1OE1FOG0xV2lhQmdvdEpuZlNaekLSAewBQVVfeXFMUDEwUFVYOXBORDZtRVNVVy13SmRhanJDQnNrQzctRm1LX3o2UDFscDFYR0JXQVk1cDg5dE54Z3AyX3IyZDlSUnlxMGZzMWI2N1F2blhiTnhHVWVGZXRJeDFrdDdXNmpmQzI4c3V3TkwzSWJrUVBiRXVNUXZUZ3VCNnBRQXRKbnBuQ3U3ZE1tNEx6TXVkWFdQSDZvSGVoLWpHT0VlT0dJNjNZQzQ3TDQwd2FkZmFGcjIwYXliU1pOUUhaaV9TY09lZE1kVUotUC1fN0JQbWV1eDNjME5GVmxyczVTanpDTXNNb01HQU8?oc=5",
+      "ts": 1780556400000,
+      "sentiment": -0.5,
+      "tags": [
+        {
+          "sym": "RIESGO PAÍS",
+          "name": "Riesgo país (EMBI)",
+          "pct": null,
+          "dir": 1
         }
       ]
     }

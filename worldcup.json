@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T18:54:48.277515+00:00",
+  "updated": "2026-07-03T20:09:36.458805+00:00",
   "tournament": "FIFA World Cup 2026",
   "groups": [
     {
@@ -1163,14 +1163,14 @@
       "date": "2026-07-03T18:00Z",
       "state": "in",
       "stage": "round-of-32",
-      "detail": "44'",
+      "detail": "ET",
       "round": "Ronda de 32",
       "home": {
         "abbr": "AUS",
         "name": "Australia",
         "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
         "id": "628",
-        "score": "0"
+        "score": "1"
       },
       "away": {
         "abbr": "EGY",
@@ -1314,10 +1314,10 @@
         "mlDraw": 700.0,
         "spread": -2.5,
         "spreadHome": 125.0,
-        "spreadAway": -155.0,
+        "spreadAway": -160.0,
         "total": 2.5,
-        "overOdds": -160.0,
-        "underOdds": 130.0
+        "overOdds": -155.0,
+        "underOdds": 125.0
       },
       "bets": [
         {
@@ -1355,40 +1355,40 @@
           "label": "Más de 2.5",
           "sel": "O",
           "pModel": 56.8,
-          "pFair": 57.7,
-          "implied": 58.6,
-          "odds": 1.62,
-          "ev": -6.2
+          "pFair": 57.3,
+          "implied": 57.8,
+          "odds": 1.65,
+          "ev": -5.8
         },
         {
           "market": "Total 2.5",
           "label": "Menos de 2.5",
           "sel": "U",
           "pModel": 43.2,
-          "pFair": 42.3,
-          "implied": 41.4,
-          "odds": 2.3,
-          "ev": -2.7
+          "pFair": 42.7,
+          "implied": 42.2,
+          "odds": 2.25,
+          "ev": -3.9
         },
         {
           "market": "Hándicap -2.5 L",
           "label": "Local -2.5",
           "sel": "H",
           "pModel": 40.9,
-          "pFair": 41.6,
-          "implied": 42.2,
+          "pFair": 41.4,
+          "implied": 41.9,
           "odds": 2.25,
-          "ev": -6.4
+          "ev": -6.8
         },
         {
           "market": "Hándicap +2.5 V",
           "label": "Visita +2.5",
           "sel": "A",
           "pModel": 59.1,
-          "pFair": 58.4,
-          "implied": 57.8,
-          "odds": 1.65,
-          "ev": -3.9
+          "pFair": 58.6,
+          "implied": 58.1,
+          "odds": 1.62,
+          "ev": -4.8
         }
       ],
       "rec": null
@@ -2471,13 +2471,13 @@
       },
       "odds": {
         "source": "DraftKings",
-        "details": "USA -0.5",
-        "mlHome": 160,
-        "mlAway": 170,
+        "details": "BEL -0.5",
+        "mlHome": 165,
+        "mlAway": 165,
         "mlDraw": 240.0,
-        "spread": -0.5,
-        "spreadHome": 155.0,
-        "spreadAway": -200.0,
+        "spread": 0.5,
+        "spreadHome": -195.0,
+        "spreadAway": 150.0,
         "total": 2.5,
         "overOdds": -135.0,
         "underOdds": 105.0
@@ -2488,10 +2488,10 @@
           "label": "Gana local",
           "sel": "1",
           "pModel": 24.0,
-          "pFair": 30.3,
-          "implied": 36.7,
-          "odds": 2.6,
-          "ev": -21.1
+          "pFair": 30.0,
+          "implied": 36.0,
+          "odds": 2.65,
+          "ev": -20.5
         },
         {
           "market": "1X2",
@@ -2501,17 +2501,17 @@
           "pFair": 24.7,
           "implied": 28.0,
           "odds": 3.4,
-          "ev": -16.0
+          "ev": -15.9
         },
         {
           "market": "1X2",
           "label": "Gana visita",
           "sel": "2",
           "pModel": 54.6,
-          "pFair": 45.0,
-          "implied": 35.3,
-          "odds": 2.7,
-          "ev": 21.4
+          "pFair": 45.3,
+          "implied": 36.0,
+          "odds": 2.65,
+          "ev": 20.0
         },
         {
           "market": "Total 2.5",
@@ -2534,24 +2534,24 @@
           "ev": -9.8
         },
         {
-          "market": "Hándicap -0.5 L",
-          "label": "Local -0.5",
+          "market": "Hándicap +0.5 L",
+          "label": "Local +0.5",
           "sel": "H",
-          "pModel": 24.0,
-          "pFair": 30.5,
-          "implied": 37.0,
-          "odds": 2.55,
-          "ev": -22.2
+          "pModel": 45.4,
+          "pFair": 53.8,
+          "implied": 62.3,
+          "odds": 1.51,
+          "ev": -18.5
         },
         {
-          "market": "Hándicap +0.5 V",
-          "label": "Visita +0.5",
+          "market": "Hándicap -0.5 V",
+          "label": "Visita -0.5",
           "sel": "A",
-          "pModel": 76.0,
-          "pFair": 69.5,
-          "implied": 63.0,
-          "odds": 1.5,
-          "ev": 4.2
+          "pModel": 54.6,
+          "pFair": 46.2,
+          "implied": 37.7,
+          "odds": 2.5,
+          "ev": 15.4
         }
       ],
       "rec": {
@@ -2559,11 +2559,11 @@
         "label": "Gana visita",
         "sel": "2",
         "pModel": 54.6,
-        "pFair": 45.0,
-        "implied": 35.3,
-        "odds": 2.7,
-        "ev": 21.4,
-        "stability": 9.6
+        "pFair": 45.3,
+        "implied": 36.0,
+        "odds": 2.65,
+        "ev": 20.0,
+        "stability": 9.1
       }
     },
     {
@@ -3370,11 +3370,11 @@
       "awayName": "Belgium",
       "market": "1X2",
       "label": "Gana visita",
-      "odds": 2.7,
+      "odds": 2.65,
       "pModel": 54.6,
-      "pFair": 45.0,
-      "ev": 21.4,
-      "stability": 9.6
+      "pFair": 45.3,
+      "ev": 20.0,
+      "stability": 9.1
     },
     {
       "id": "760502",

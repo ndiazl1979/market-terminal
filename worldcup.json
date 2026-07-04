@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T21:32:47.984504+00:00",
+  "updated": "2026-07-04T22:32:08.298127+00:00",
   "tournament": "FIFA World Cup 2026",
   "groups": [
     {
@@ -1185,7 +1185,7 @@
       "date": "2026-07-04T21:00Z",
       "state": "in",
       "stage": "round-of-16",
-      "detail": "28'",
+      "detail": "68'",
       "round": "Octavos",
       "home": {
         "abbr": "PAR",
@@ -1508,7 +1508,7 @@
         "spreadAway": 130.0,
         "total": 2.5,
         "overOdds": 135.0,
-        "underOdds": -170.0
+        "underOdds": -165.0
       },
       "bets": [
         {
@@ -1546,20 +1546,20 @@
           "label": "Más de 2.5",
           "sel": "O",
           "pModel": 34.6,
-          "pFair": 37.5,
-          "implied": 40.3,
+          "pFair": 37.6,
+          "implied": 40.6,
           "odds": 2.35,
-          "ev": -12.0
+          "ev": -11.6
         },
         {
           "market": "Total 2.5",
           "label": "Menos de 2.5",
           "sel": "U",
           "pModel": 65.4,
-          "pFair": 62.5,
-          "implied": 59.7,
-          "odds": 1.59,
-          "ev": -0.7
+          "pFair": 62.4,
+          "implied": 59.4,
+          "odds": 1.61,
+          "ev": 0.2
         },
         {
           "market": "Hándicap +0.5 L",
@@ -1582,7 +1582,17 @@
           "ev": -3.3
         }
       ],
-      "rec": null
+      "rec": {
+        "market": "Total 2.5",
+        "label": "Menos de 2.5",
+        "sel": "U",
+        "pModel": 65.4,
+        "pFair": 62.4,
+        "implied": 59.4,
+        "odds": 1.61,
+        "ev": 0.2,
+        "stability": 0.1
+      }
     },
     {
       "id": "760506",
@@ -1997,8 +2007,8 @@
       "odds": {
         "source": "DraftKings",
         "details": "ARG -1.5",
-        "mlHome": -275,
-        "mlAway": 850,
+        "mlHome": -265,
+        "mlAway": 800,
         "mlDraw": 370.0,
         "spread": -1.5,
         "spreadHome": 110.0,
@@ -2013,10 +2023,10 @@
           "label": "Gana local",
           "sel": "1",
           "pModel": 80.8,
-          "pFair": 75.3,
-          "implied": 69.8,
-          "odds": 1.36,
-          "ev": 2.6
+          "pFair": 75.0,
+          "implied": 69.2,
+          "odds": 1.38,
+          "ev": 3.3
         },
         {
           "market": "1X2",
@@ -2024,19 +2034,19 @@
           "sel": "X",
           "pModel": 12.8,
           "pFair": 16.5,
-          "implied": 20.2,
+          "implied": 20.3,
           "odds": 4.7,
-          "ev": -22.4
+          "ev": -22.3
         },
         {
           "market": "1X2",
           "label": "Gana visita",
           "sel": "2",
           "pModel": 6.4,
-          "pFair": 8.2,
-          "implied": 10.0,
-          "odds": 9.5,
-          "ev": -22.0
+          "pFair": 8.5,
+          "implied": 10.6,
+          "odds": 9.0,
+          "ev": -23.6
         },
         {
           "market": "Total 2.5",
@@ -2923,6 +2933,22 @@
       "pFair": 51.7,
       "ev": 8.7,
       "stability": 4.5
+    },
+    {
+      "id": "760505",
+      "date": "2026-07-06T00:00Z",
+      "round": "Octavos",
+      "home": "MEX",
+      "away": "ENG",
+      "homeName": "Mexico",
+      "awayName": "England",
+      "market": "Total 2.5",
+      "label": "Menos de 2.5",
+      "odds": 1.61,
+      "pModel": 65.4,
+      "pFair": 62.4,
+      "ev": 0.2,
+      "stability": 0.1
     }
   ]
 }

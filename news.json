@@ -1,26 +1,10 @@
 {
-  "updated": "2026-07-05T18:40:36.234878+00:00",
+  "updated": "2026-07-05T19:56:26.131001+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
-        {
-          "title": "Acciones de Apple caen 4% por retrasos en iPhone plegable y caída de App Store",
-          "source": "Investing.com México",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUFo1RFJTdG9VNEJoYzNheEt5eERUVkNkUTJmWG8yNzVTSm1pZ3R5aUxDNzYzSXlNSUUzTGtJVldOZWpTcjh4cHhNcXZUcnRpNDhyT015Q1RQYXdmZlVRSkZEaW1Ma0F3SXVFSmxXUTVhOGVYdXB2T0didEgtazRlQ0dfUHFfMkVlMEdQZUtZMHpPdnhzWnN2bDdvQWw3V1o5WURtZF84aHUyakpTMll5dUZQU0prckwxZUdtek11QVZxRDU2d0FFR09GcWkxdw?oc=5",
-          "ts": 1783149780000,
-          "sentiment": -0.67,
-          "tickers": [
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": -1.3,
-              "dir": -1
-            }
-          ],
-          "category": "tech"
-        },
         {
           "title": "CoreWeave Stock Plummets 14% on Reports of Meta Entering the Cloud Computing Market",
           "source": "TIKR.com",
@@ -172,6 +156,22 @@
               "sym": "META",
               "name": "Meta",
               "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Las acciones de Nvidia siguen en descenso: ¿qué está afectando a la favorita de la IA?",
+          "source": "Invezz",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU091QWMzQ0ZoS25qVFFtVDgwMzF0aFFpQTVEeVZVbUVQNkdOdFZfMnZheFJjaGtBYkVVdzk3bU1UVDFDekM4Sl84S01WVS1yZUIwbzlLLUZZNlMxZmlYVkFySlNQOEhhVDc1YmtKVGhIbS1zYklBRnhCai0wZmpBeVdJdUZHdXRueGxoVDJuUXRmX09Ya3VNeGpINVlseDZVcGpWZm1Bb2xKc2xpYk02c1dMUXpuazhRcHhSdGo2Q0JpWGRp?oc=5",
+          "ts": 1783005331000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.0,
               "dir": 1
             }
           ],
@@ -660,6 +660,22 @@
               "sym": "SPY",
               "name": "S&P 500",
               "pct": 0.3,
+              "dir": 1
+            }
+          ],
+          "category": "defense"
+        },
+        {
+          "title": "Defensa prepara con hermetismo una treintena de programas para elevar el gasto militar a 35.000 millones",
+          "source": "El Economista",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQc0NNOVUwUUNaRHlyeGVnNG9rMFI2T0U1RkkwQlhaUGZVNzlCdFp2bDhGa1paSTk3amVDYlNXN01Gcy1HS0czVEpuSVNTUTVuSWJIckpIZGg1MkZPdHpFTDBBdU43S29RbjVpRGM3b0hvSjU2NHZkVDZHN3JkTjZPZTFndGMxYTh1LWh6TFJ6THBhb09YNm1ydFpiTEdaU2pMN3ZfSk9hZ0pIU1RITGJrLVJJb1R1UWRwTy1LWF82Ulh0UURYSDdjWWd4UnQ4c3NmZ05nR1V4VEtpc2tURzg0UDJZUndMdlZsUWRZemRvbDhtekRjTGZIU1lzaGIxazDSAeoBQVVfeXFMTVNMNlpzUkdMMWdPZEN2cGxPQktPSmVyTkljaTVtVGUtQ25iTjBHdzc0ZkdrODR4QmowODQ5Q2JQZjd0Z1FkaXNkcm45V0QtcGtmRWd3cndiV3JRdmlsc2IzNXNOdEF2N1RxRUlBUTQyMVdaLVlmUkt1MzVlNnVxa256a1g0bjJVay1ZUUt1eUdVb0o2M3pXR1FBajlyaXZQbDdLZVNqSVNoX0ZvRzJNQkcwNE9KeFNQTkJEMUsxMEc0NEJMNW1NS3htV1lRMkNBYVdzM2F4OWlsdmZicTV6Rkl2UENDUGxLc2R3?oc=5",
+          "ts": 1778914800000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 0.4,
               "dir": 1
             }
           ],
@@ -1408,14 +1424,14 @@
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 9.6,
-      "n": 23
+      "net": 10.0,
+      "n": 24
     },
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 6.0,
-      "n": 6
+      "net": 7.0,
+      "n": 7
     },
     {
       "sym": "SPY",
@@ -1436,6 +1452,12 @@
       "n": 5
     },
     {
+      "sym": "AAPL",
+      "name": "Apple",
+      "net": 2.2,
+      "n": 4
+    },
+    {
       "sym": "META",
       "name": "Meta",
       "net": 2.1,
@@ -1446,12 +1468,6 @@
       "name": "AST SpaceMobile",
       "net": 2.1,
       "n": 1
-    },
-    {
-      "sym": "AAPL",
-      "name": "Apple",
-      "net": 0.9,
-      "n": 5
     },
     {
       "sym": "AMD",

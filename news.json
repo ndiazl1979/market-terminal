@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T20:28:45.419009+00:00",
+  "updated": "2026-07-06T21:55:57.601562+00:00",
   "categories": [
     {
       "key": "tech",
@@ -69,7 +69,7 @@
             {
               "sym": "TSLA",
               "name": "Tesla",
-              "pct": 4.4,
+              "pct": 3.8,
               "dir": 1
             }
           ],
@@ -195,6 +195,28 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Wall Street avanza impulsada por la inteligencia artificial a la espera de los primeros resultados empresariales",
+          "source": "MarketScreener España",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbFc0NGhmWV9FVEJQVTVJUTdlZzJaWFZqLTI1eVNkdTFsb2NCeHR0dlJJeGtsRDM1UW1ZVDdUd1R2RlNvTnkwZFZpU1RteGp6UVNPbVlleFNVMkZmQlpUWVlTTU8tbm1jczBadTNWT1dGMmxXZXY5cV9KS3pETUdOWFZJdHEydzgzWUFWYktVeFBZSWVEcDloTHVaRmdlclFTWUxLOTFsS01mRURjbW1Wb0pGNy1abnpkLW5YMDIxLUxoLWpxVnJDbTJoc2xXcTdQYmJ6NUROTndvLVhHMl8xQjV1OV9ONF9jMllDdw?oc=5",
+          "ts": 1783370786000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 2.0,
+              "dir": 1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 1.3,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Microsoft recorta 4.800 empleos en una reorganización vinculada al avance de la inteligencia artificial",
           "source": "EFE - Agencia de noticias",
@@ -350,22 +372,6 @@
             }
           ],
           "category": "semis"
-        },
-        {
-          "title": "Microsoft y la Universidad San Jorge promueven el uso responsable de la inteligencia artificial en el ámbito educativo",
-          "source": "Microsoft Source",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQaHlJWkhaQjYxZHF0MjZPVzZKMEJHSGRQa0g4STJYM1NFUDNmc3ROR2RKdmZYVl9zTk1BMzhPTG9Ub3E4d05qUERCWTlQYWR5QVI4Vnc0UDdQSjd6cmVlYW51SFk0ZlBpbDRrOHNSY1d2NzhVNFdFdTB2N2xrZS1uRjlxOXJxMlZlSDlGd3FlWkRSZjM4LWR2YmJVc2dFSUhxV1JrVjljZVJCX0cwYk1rbHhDZHNGU3lNRWpoR1pqTXl3QjZjbmVGeHE0YjRfYVBYN0xqTnBOTC1FNHNfZTdwVGFnaEVHTmpMeHZmajFMcmM0dXBPa09XVVJuMjU2U2hLYlhMUW9R?oc=5",
-          "ts": 1783337902000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "MSFT",
-              "name": "Microsoft",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
         }
       ]
     },
@@ -373,6 +379,22 @@
       "key": "space",
       "label": "Satelital / Espacio",
       "items": [
+        {
+          "title": "Las acciones de empresas relacionadas con el sector espacial en la bolsa de EE.UU. registraron bajas, y SpaceX cayó cerca del 3%.",
+          "source": "Bitget",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VWmIwZGdHTEd2UDZaZzhBWmZ0MzZic1BjYWp3c2Q0ZkVwaERXWUhPZFd1SXZOOEIxUGM3aVRBRFpyMTJweUw0THZXQ29rc2xXSkRTcWpVQTQyTnA3Vmc5WEFB0gFnQVVfeXFMTVpMRk1PSXZFbl8tS2hmd3pTbzk3dUN2d2Nza0daQkppeE1kamwzR05PTnl6LW9jN29MUHRLTlJJdkppYXpjc002a1hFMTBPWXBZS0pQRzJXTmpsNURUU1FkNzAtcWVKdw?oc=5",
+          "ts": 1783332105000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "ASTS",
+              "name": "AST SpaceMobile",
+              "pct": -6.4,
+              "dir": -1
+            }
+          ],
+          "category": "space"
+        },
         {
           "title": "SpaceX lleva al Nasdaq a registrar el mejor semestre de su historia en volumen de salidas a Bolsa",
           "source": "Cinco Días",
@@ -524,34 +546,6 @@
               "sym": "QQQ",
               "name": "Nasdaq 100",
               "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "space"
-        },
-        {
-          "title": "¿Puede SpaceX superar a Nvidia? La empresa de Elon Musk ya vale más que Amazon tras su histórica salida a bolsa",
-          "source": "Benzinga España",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaXNnWk9heWdoYVNidVN6bFRhdUltRjlVSUFUcGNlSGhreGlhTTNJWjhNcmRxSUxkR2NJdlZBU0FuTGRlY1Q2Z0VLQ09XYWVtR0JqQTdPZkhxT1hleVhLck5YU1E4Y2xMUVdLMjVEd1JQcHdGYVFtRHN3Vko1Ujgza3ZILU5lSGl4bnpuR2RsRFRLNGZxOFc0YVBzXzg?oc=5",
-          "ts": 1781593200000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.0,
-              "dir": 1
-            },
-            {
-              "sym": "TSLA",
-              "name": "Tesla",
-              "pct": 1.0,
-              "dir": 1
-            },
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": 0.6,
               "dir": 1
             }
           ],
@@ -1434,16 +1428,16 @@
   ],
   "tickerBoard": [
     {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": 12.0,
-      "n": 6
-    },
-    {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
       "net": 12.0,
       "n": 24
+    },
+    {
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": 10.6,
+      "n": 5
     },
     {
       "sym": "WTI",
@@ -1452,16 +1446,22 @@
       "n": 24
     },
     {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": 6.8,
-      "n": 8
-    },
-    {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 4.8,
-      "n": 4
+      "net": 6.8,
+      "n": 5
+    },
+    {
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 5.8,
+      "n": 7
+    },
+    {
+      "sym": "QQQ",
+      "name": "Nasdaq 100",
+      "net": 5.8,
+      "n": 17
     },
     {
       "sym": "SPY",
@@ -1470,16 +1470,10 @@
       "n": 18
     },
     {
-      "sym": "QQQ",
-      "name": "Nasdaq 100",
-      "net": 4.5,
-      "n": 16
-    },
-    {
-      "sym": "AMZN",
-      "name": "Amazon",
-      "net": 2.9,
-      "n": 4
+      "sym": "ASTS",
+      "name": "AST SpaceMobile",
+      "net": -4.3,
+      "n": 2
     },
     {
       "sym": "AVGO",
@@ -1506,16 +1500,16 @@
       "n": 1
     },
     {
-      "sym": "MSFT",
-      "name": "Microsoft",
+      "sym": "AMZN",
+      "name": "Amazon",
       "net": 2.3,
-      "n": 4
+      "n": 3
     },
     {
-      "sym": "ASTS",
-      "name": "AST SpaceMobile",
-      "net": 2.1,
-      "n": 1
+      "sym": "MSFT",
+      "name": "Microsoft",
+      "net": 1.6,
+      "n": 3
     }
   ],
   "ecuador": [

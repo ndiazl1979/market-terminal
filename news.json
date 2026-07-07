@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T23:02:29.206823+00:00",
+  "updated": "2026-07-07T00:16:38.809558+00:00",
   "categories": [
     {
       "key": "tech",
@@ -31,7 +31,7 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             }
           ],
@@ -265,7 +265,7 @@
             {
               "sym": "META",
               "name": "Meta",
-              "pct": 1.2,
+              "pct": 1.0,
               "dir": 1
             }
           ],
@@ -281,7 +281,7 @@
             {
               "sym": "GOOGL",
               "name": "Alphabet",
-              "pct": 0.9,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -297,7 +297,7 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": -3.6,
+              "pct": -3.1,
               "dir": -1
             }
           ],
@@ -313,7 +313,7 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             }
           ],
@@ -770,34 +770,6 @@
           "category": "oil"
         },
         {
-          "title": "El Brent se mantiene en los 71 dólares ante el avance de las negociaciones EEUU-Irán",
-          "source": "El Periódico de la Energía",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbXE1WjVWQXB1b09jWkpPMEtGaDJQQURSNHJwOS1ReU1JSVpQRFltZjJVUWhJMVpteVNRc215aVNkYnY1d0JFblduSHd4VTk0T1kwTVBmOFozUklsb0MxNEtuSDdZUWhJQjJoM2t6RmNXSHd0Z2U1YkhNMEpiY1Y3eXU5d3oxazE3YTdyNGxNSi10MzVobzl5ZGlGT0ZsSUhVZXZnQUpNNW9nSmVlbEJYN1RZZUF0bHBnTFlkcQ?oc=5",
-          "ts": 1783031684000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 0.7,
-              "dir": 1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": -0.4,
-              "dir": -1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": 0.3,
-              "dir": 1
-            }
-          ],
-          "category": "oil"
-        },
-        {
           "title": "Petróleo cae a mínimos de cuatro meses por negociaciones EE.UU.-Irán y expectativa OPEP+",
           "source": "Inspenet",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nSkVTT3JvSVBYRGpsSFRKQXhPdi13Vnl0RFlndVUya0xSLW84SDJfXy1lTVR5eVpGbmQ1UzVfLUNXeHhxbDFCREtPZVhPR3dBc0NCWnAweGhid0Y2TFc3aHk4SDZUd3h0d2pzRkVmRDF1SmVWZHpYTnFwcEI?oc=5",
@@ -936,6 +908,22 @@
               "sym": "SPY",
               "name": "S&P 500",
               "pct": -0.6,
+              "dir": -1
+            }
+          ],
+          "category": "oil"
+        },
+        {
+          "title": "Baja a 70. 34 dólares el precio del petróleo de Texas",
+          "source": "Hoy Digital",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc3pCay1NS3VpZ2pLVGw0RWl1R25jdjBYaEg1T3RfNUhtWTFxeUo3V0RQeHc4cjAwQ3JsN2NNbkRjMndwcEl3RGpwUC1ROVVrTjFhbDNzTFJSTHBJbGUtdk9zcm83ZVFvNVJubXFKbGZrT0ktdnFELXFMOU9YempjckJTZl9YWVJY0gGOAUFVX3lxTE5vR1I5TEdLVVdmdW9ocnV1UlltYkx1b3ZnOUJXRENTSFQ0cVVfSHd0VWtSdk4tUjZKNEFTbFJuSWFXV0xUaXpaWmh0LUljWGszSFNVQ2trVUVCM29Vc2dmZXZxdVNqV0p6WFVJWTRjVHlUNzY2VjU4b3VIbEJCMkxDNk1YNkU2YmdkQVZaMkE?oc=5",
+          "ts": 1782360000000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -1.3,
               "dir": -1
             }
           ],
@@ -1431,7 +1419,7 @@
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
       "net": 12.0,
-      "n": 24
+      "n": 23
     },
     {
       "sym": "TSLA",
@@ -1442,7 +1430,7 @@
     {
       "sym": "WTI",
       "name": "Petróleo WTI",
-      "net": -8.2,
+      "net": -10.2,
       "n": 24
     },
     {
@@ -1460,8 +1448,8 @@
     {
       "sym": "SPY",
       "name": "S&P 500",
-      "net": -4.6,
-      "n": 18
+      "net": -4.9,
+      "n": 17
     },
     {
       "sym": "ASTS",
@@ -1472,13 +1460,13 @@
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 4.0,
+      "net": 3.9,
       "n": 6
     },
     {
       "sym": "META",
       "name": "Meta",
-      "net": 3.4,
+      "net": 3.2,
       "n": 3
     },
     {

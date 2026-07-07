@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T23:52:31.348960+00:00",
+  "updated": "2026-07-07T01:29:25.722877+00:00",
   "tournament": "FIFA World Cup 2026",
   "groups": [
     {
@@ -1027,50 +1027,6 @@
   ],
   "matches": [
     {
-      "id": "760502",
-      "date": "2026-07-04T17:00Z",
-      "state": "post",
-      "stage": "round-of-16",
-      "detail": "FT",
-      "round": "Octavos",
-      "home": {
-        "abbr": "CAN",
-        "name": "Canada",
-        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/can.png",
-        "id": "206",
-        "score": "0"
-      },
-      "away": {
-        "abbr": "MAR",
-        "name": "Morocco",
-        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mar.png",
-        "id": "2869",
-        "score": "3"
-      }
-    },
-    {
-      "id": "760503",
-      "date": "2026-07-04T21:00Z",
-      "state": "post",
-      "stage": "round-of-16",
-      "detail": "FT",
-      "round": "Octavos",
-      "home": {
-        "abbr": "PAR",
-        "name": "Paraguay",
-        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/par.png",
-        "id": "210",
-        "score": "0"
-      },
-      "away": {
-        "abbr": "FRA",
-        "name": "France",
-        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
-        "id": "478",
-        "score": "1"
-      }
-    },
-    {
       "id": "760504",
       "date": "2026-07-05T20:00Z",
       "state": "post",
@@ -1139,23 +1095,23 @@
     {
       "id": "760507",
       "date": "2026-07-07T00:00Z",
-      "state": "pre",
+      "state": "in",
       "stage": "round-of-16",
-      "detail": "Scheduled",
+      "detail": "64'",
       "round": "Octavos",
       "home": {
         "abbr": "USA",
         "name": "United States",
         "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
         "id": "660",
-        "score": "0"
+        "score": "1"
       },
       "away": {
         "abbr": "BEL",
         "name": "Belgium",
         "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
         "id": "459",
-        "score": "0"
+        "score": "3"
       },
       "pred": {
         "pHome": 24.0,
@@ -1208,102 +1164,9 @@
         "eloAway": 1965,
         "confidence": 54.6
       },
-      "odds": {
-        "source": "DraftKings",
-        "details": "USA +155",
-        "mlHome": 155,
-        "mlAway": 185,
-        "mlDraw": 225.0,
-        "spread": -0.5,
-        "spreadHome": 145.0,
-        "spreadAway": -185.0,
-        "total": 2.5,
-        "overOdds": -125.0,
-        "underOdds": 100.0
-      },
-      "bets": [
-        {
-          "market": "1X2",
-          "label": "Gana local",
-          "sel": "1",
-          "pModel": 24.0,
-          "pFair": 30.7,
-          "implied": 37.3,
-          "odds": 2.55,
-          "ev": -21.8
-        },
-        {
-          "market": "1X2",
-          "label": "Empate",
-          "sel": "X",
-          "pModel": 21.4,
-          "pFair": 25.3,
-          "implied": 29.3,
-          "odds": 3.25,
-          "ev": -17.6
-        },
-        {
-          "market": "1X2",
-          "label": "Gana visita",
-          "sel": "2",
-          "pModel": 54.6,
-          "pFair": 44.0,
-          "implied": 33.4,
-          "odds": 2.85,
-          "ev": 25.4
-        },
-        {
-          "market": "Total 2.5",
-          "label": "Más de 2.5",
-          "sel": "O",
-          "pModel": 57.9,
-          "pFair": 55.3,
-          "implied": 52.6,
-          "odds": 1.8,
-          "ev": -0.5
-        },
-        {
-          "market": "Total 2.5",
-          "label": "Menos de 2.5",
-          "sel": "U",
-          "pModel": 42.1,
-          "pFair": 44.7,
-          "implied": 47.4,
-          "odds": 2.0,
-          "ev": -10.5
-        },
-        {
-          "market": "Hándicap -0.5 L",
-          "label": "Local -0.5",
-          "sel": "H",
-          "pModel": 24.0,
-          "pFair": 31.3,
-          "implied": 38.6,
-          "odds": 2.45,
-          "ev": -23.3
-        },
-        {
-          "market": "Hándicap +0.5 V",
-          "label": "Visita +0.5",
-          "sel": "A",
-          "pModel": 76.0,
-          "pFair": 68.7,
-          "implied": 61.4,
-          "odds": 1.54,
-          "ev": 5.8
-        }
-      ],
-      "rec": {
-        "market": "1X2",
-        "label": "Gana visita",
-        "sel": "2",
-        "pModel": 54.6,
-        "pFair": 44.0,
-        "implied": 33.4,
-        "odds": 2.85,
-        "ev": 25.4,
-        "stability": 11.2
-      }
+      "odds": null,
+      "bets": [],
+      "rec": null
     },
     {
       "id": "760509",
@@ -1556,8 +1419,8 @@
         "spreadHome": -155.0,
         "spreadAway": 120.0,
         "total": 2.5,
-        "overOdds": 135.0,
-        "underOdds": -165.0
+        "overOdds": 130.0,
+        "underOdds": -160.0
       },
       "bets": [
         {
@@ -1595,20 +1458,20 @@
           "label": "Más de 2.5",
           "sel": "O",
           "pModel": 41.0,
-          "pFair": 40.8,
-          "implied": 40.6,
-          "odds": 2.35,
-          "ev": -4.1
+          "pFair": 41.2,
+          "implied": 41.4,
+          "odds": 2.3,
+          "ev": -5.2
         },
         {
           "market": "Total 2.5",
           "label": "Menos de 2.5",
           "sel": "U",
           "pModel": 59.0,
-          "pFair": 59.2,
-          "implied": 59.4,
-          "odds": 1.61,
-          "ev": -4.9
+          "pFair": 58.8,
+          "implied": 58.6,
+          "odds": 1.62,
+          "ev": -4.5
         },
         {
           "market": "Hándicap +0.5 L",
@@ -2429,22 +2292,6 @@
     }
   ],
   "valueBoard": [
-    {
-      "id": "760507",
-      "date": "2026-07-07T00:00Z",
-      "round": "Octavos",
-      "home": "USA",
-      "away": "BEL",
-      "homeName": "United States",
-      "awayName": "Belgium",
-      "market": "1X2",
-      "label": "Gana visita",
-      "odds": 2.85,
-      "pModel": 54.6,
-      "pFair": 44.0,
-      "ev": 25.4,
-      "stability": 11.2
-    },
     {
       "id": "760512",
       "date": "2026-07-11T21:00Z",

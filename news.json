@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T11:17:39.569178+00:00",
+  "updated": "2026-07-08T12:55:18.628833+00:00",
   "categories": [
     {
       "key": "tech",
@@ -75,19 +75,19 @@
             {
               "sym": "TSLA",
               "name": "Tesla",
-              "pct": 1.9,
+              "pct": 1.6,
               "dir": 1
             },
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             },
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -110,6 +110,28 @@
               "sym": "AAPL",
               "name": "Apple",
               "pct": 1.4,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Versiones sobre chip de DeepSeek impactan acciones de Nvidia",
+          "source": "dw.com",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMWNpeUhwYVBhVm1pTnUtWWd3dTJhUE12YmdFNXFwa29pYnllY3ExRDFoOERiNjhKNmhFNWVuR3c4bldHYUVhUzFTbEpRZ0NTQ3lxRDhtQ29jT3hNanV6OWxuUk15ZUduT1FLV0FHQTU0NHpIRlkwMnYydm1WeVN0VFhBbkxmeVlJMHY3OXJ6ZW5aSW5tak5UN2VhN3VXazVNOHfSAaIBQVVfeXFMTzRveEVYU1c3bWdJeGNNbmdaemxkRlZnWklqRTgtbS1UT1l0enNKaDlpWUxIb2ZvTVl0VDNaZm9WYjdnTllQMk5RVnc1VWNQYkQtSVJYcDFtQmtNZDVidzFING02UVBCQ1B5R2tBVXdrcTFVbWlORDZtZUw0eC1zYXRKNnVZLVhFZmFxM04zNVpGZEt2UFZ1U1NMV1ZGUElWcWxn?oc=5",
+          "ts": 1783477482000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.5,
+              "dir": 1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -164,28 +186,6 @@
           "category": "tech"
         },
         {
-          "title": "Versiones sobre chip de DeepSeek impactan acciones de Nvidia",
-          "source": "DW.com",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNG94RVhTVzdtZ0l4Y01uZ1p6bGRGVmdaSWpFOC1tLVRPWXR6c0poOWlZTEhvZm9NWXRUM1pmb1ZiN2dOWVAyTlFWdzVVY1BiRC1JUlhwMW1Ca01kNWJ3MUg0bTZRUEJDUHlHa0FVd2txMVVtaU5ENm1lTDR4LXNhdEo2dVktWEVmYXEzTjM1WkZkS3ZQVnVTU0xXVkZQSVZxbGfSAaIBQVVfeXFMTzRveEVYU1c3bWdJeGNNbmdaemxkRlZnWklqRTgtbS1UT1l0enNKaDlpWUxIb2ZvTVl0VDNaZm9WYjdnTllQMk5RVnc1VWNQYkQtSVJYcDFtQmtNZDVidzFING02UVBCQ1B5R2tBVXdrcTFVbWlORDZtZUw0eC1zYXRKNnVZLVhFZmFxM04zNVpGZEt2UFZ1U1NMV1ZGUElWcWxn?oc=5",
-          "ts": 1783433906000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
-              "dir": 1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
           "title": "Las acciones de Nvidia caen tras un reporte sobre el desarrollo de un chip propio de IA por parte de DeepSeek (NVDA)",
           "source": "Revista ADVFN",
           "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcE9jQ2Q2Y1JaYVE5aVFSUFVNT081Zl9jencyVlV1SFRRd0p0dUR1WWhDbWtyWmpqUWdsRHJUelMxbUp4OVQ2NHpZaUlEdlY3V1FnbDIyZjdnZDZRa0VwdkV1bk1GYk96V2MzUG1ETlBqMkRKVkc2aDZBQ3VqZ25zV3FsVXhwdTRUdUNpajlpMmUxMFNMdkNOTldpWEU1TTNvXzRSRWM5eG14a21kVU45TDhFYXpRMWMxQ0E2cVNuRjh1RjVXN3R5SkxXZDBPbHprdHU1UTlDSUtwbHNXX0R1WHRjVzRsbmNPSWlVbFg2SVdzWFBNSnR5a3hEaGs?oc=5",
@@ -213,6 +213,22 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Apple prueba chips de memoria chinos",
+          "source": "XTB.com",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZnhWZm5TY3ZTYzQxV0dLZ0thV1dlZThQYTZFT0EzeEFpS2JNMVdibmdyNG9XYU5MTl9HOEtOUXlmbjZJWkttdzBEN2Fqdzd2LUVCM1dwREtpRGxOd1ozYkVSQWJsSHJ2YmNDWTgySWw0LXZRd1g4YmY1V2lFQTk3SDlZRjMxRU9rT1BLTTBOS0ZYMHlFUVQ2bnZPa3VacEEw?oc=5",
+          "ts": 1783510032000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Caída de US$1 billón lleva valoración de Nvidia a niveles previos al boom de IA",
           "source": "Bloomberg.com",
@@ -348,33 +364,17 @@
           "category": "semis"
         },
         {
-          "title": "SambaNova recauda 1.000 millones de dólares para el mercado de chips de inteligencia artificial",
-          "source": "Zamin.uz",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeHMxTFR0Y0dhTWFaSDhCdTZZVTFsc0dIdURxUExRS2UzU29kZHkxNmREa2l4QVBvNk1xVHVuUFhSTExnM1lZNHUtV3pjeU0zZ2lxOVIwSzdXMG1YdzA0TnNmM0pxejZKZDRiSUJRS05QNnNjM0ViTzUxa3JndWRYX3Q0bnNYSFROODcxVC1qMG5hUUJiWVBuRHJNcEQwZkN6WXd6cm1uOWYyMHFGZ3Z4bGxHYm9vUlgtVDhqOV9wMjdZeTA2Wmk4TW9oN1p0NU1obzdYaA?oc=5",
-          "ts": 1783495418000,
+          "title": "Las acciones de chips coreanas entran en pérdidas ante las dudas sobre la inteligencia artificial y el precio de las memorias",
+          "source": "MarketScreener España",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVnUxOTNOVWFxTmFYWUhoQ2xhRVd5VmR5Q2s2ejdGWm1VX084UzdTWjNnUlVTbXNCMGU3YVg3YXdaYmh2MGxROU50UlducFJlYjlIamUxc1JMeHJMRGpOR0k4VE5uNXRCVldkQUhmYnlyRXRYQmltbVg3R05OMllyQ0c0NFUtN1ozYVNCZWM5bmdyTXlOVkFsNXQ4RlQ3QXJrVXlPMDA0d0tFRFB3WVR6dWxwM2NGbWFIU1hVMmZXNUlWbWF1WDdZeE9POW5reGFWSW1Fc2IyZnVjT1A4Q3E1U0dQb0xLOUhXaHNwbA?oc=5",
+          "ts": 1783470196000,
           "sentiment": 0.0,
           "tickers": [
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Las acciones de las empresas surcoreanas de semiconductores caen tras la ola de ventas registrada durante la noche en EEUU debido a las preocupaciones sobre el auge de la inteligencia artificial",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qWGVVN1RWazNhd3pRNGQtVmNkd0RGczRuZUpBLWRoTnRGN0ZMaVBtNjd0d0V3c0tIdTFvUDdpamxNX1FLNm4yRk4wNVFsNUtTSnJzVnhMNTh1VW1CX2NYMllIUFBhNkRoQmxVX2Fuc3MyUnlXVDFr?oc=5",
-          "ts": 1783472280000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": -1.7,
-              "dir": -1
             }
           ],
           "category": "semis"
@@ -396,6 +396,22 @@
               "sym": "QQQ",
               "name": "Nasdaq 100",
               "pct": -1.3,
+              "dir": -1
+            }
+          ],
+          "category": "space"
+        },
+        {
+          "title": "SpaceX entra en índice Nasdaq-100, pero baja en la bolsa",
+          "source": "www.revistaeyn.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDFtZUVPLWFjeUE0NldNSTk0V1ZISDRJMlNOQUZISHZYQVIxQmY2enkxVDFtZmNRMHZQbFdiSGhvZWs0QlRtTjZmcUdmVjBEN2pXWXVxY0FzRXBrMVFMbDZDenJpTl92MjhTMmppWWJWRUxGUVAtblFWWmJrblpBSTFHOURzMG5jSFNFU0w2Uk95d0g5NHVlbGJYLW5KRUZPYWR1WmR4U1FYV1pPR0dQQWR6VQ?oc=5",
+          "ts": 1783448843000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": -1.1,
               "dir": -1
             }
           ],
@@ -536,22 +552,6 @@
               "sym": "MSFT",
               "name": "Microsoft",
               "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "space"
-        },
-        {
-          "title": "El patrimonio neto de Musk alcanza los US$1,4 billones; SpaceX supera a Amazon como la quinta empresa más grande",
-          "source": "Forbes Colombia",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb1hiTUFQUGlEdVNjczFaQTM1c3FQNC15WTVkczZaYUc5WUpyekVMeW5oQkVEanFmZGE5YmpwR002VjZ4TGdsXzlnbTlkT2RfOXJWV3VtbmlJa2lmRFpLQnZVTmtYOTgtSl83cXdzTHJ3ZWo5MjlmUDdJQ2E5SkFxS3pVUmNOYnpQc3JxV2huYm9UM0RFUDRWc1FVR1NSbUkxS2M5TkJ2UGxOMXZVU01BOTZXWlYtckFSU0kzUGp6emRVYTlndm1LMDRvN2N1MmZrVVE3Uk9WRTlxUmdaS1g5ZllR?oc=5",
-          "ts": 1781679600000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": 1.1,
               "dir": 1
             }
           ],
@@ -1442,28 +1442,28 @@
   ],
   "tickerBoard": [
     {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 8.6,
+      "n": 10
+    },
+    {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
       "net": 8.4,
       "n": 26
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 7.1,
-      "n": 11
+      "sym": "AAPL",
+      "name": "Apple",
+      "net": 5.4,
+      "n": 5
     },
     {
       "sym": "TSLA",
       "name": "Tesla",
-      "net": 5.4,
+      "net": 5.1,
       "n": 3
-    },
-    {
-      "sym": "AAPL",
-      "name": "Apple",
-      "net": 4.7,
-      "n": 4
     },
     {
       "sym": "ASTS",
@@ -1474,19 +1474,19 @@
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 3.5,
+      "net": 3.2,
       "n": 8
-    },
-    {
-      "sym": "AMZN",
-      "name": "Amazon",
-      "net": 3.4,
-      "n": 3
     },
     {
       "sym": "META",
       "name": "Meta",
       "net": 2.4,
+      "n": 2
+    },
+    {
+      "sym": "AMZN",
+      "name": "Amazon",
+      "net": 2.3,
       "n": 2
     },
     {
@@ -1510,8 +1510,8 @@
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 0.7,
-      "n": 15
+      "net": -0.4,
+      "n": 16
     },
     {
       "sym": "WTI",
@@ -1546,10 +1546,34 @@
       "tags": []
     },
     {
+      "title": "El fenómeno de El Niño podría poner en jaque la economía de Ecuador, advierte Fitch",
+      "source": "Diario La Hora",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ1V2eEU1M2Zfck9oS2hOd3NKVUFGdmdTUnhvemJ6M1VTZlJxamxpbnNRQkVqNVYtc1ozZ25uRnN0Y3lLOGNYVFZlQ085Mjk5TVAxV0g0ZEFubkVIZTZydVItdDRiQVV3N2JadnU4ekNNV2dBQVhFeUxKNFlwSjh2VF9nQnBNcGRPMk53YmZhbmlBSXRsVWdsc09GRzJfcmNYUzYzR0NZZ2kwMUhZdUppNXdhOFJDT1lpVGZNajZ0QkRzV1hmV2d2dEZqTjFnNEZrSkE?oc=5",
+      "ts": 1783091705000,
+      "sentiment": 0.0,
+      "tags": []
+    },
+    {
+      "title": "La reforma al mercado de valores genera división en la Asamblea",
+      "source": "expreso.ec",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTENQR21MZUVmR3RJSkhQaWlpR1ZiUlRMMXlPSVU0WmdNRjRJckhLQmJ6VTlSeEY4bUstZzNtQnJUcjI0Y280T1Jpa2oyTGhWcXRIbFFYLUhuU3ozRWtrU28tMGRIWk1QQVpEZXNhR0dybVFacDRPeFIwY3VGclVWY2pzTGNsQW1vMDVJVHlrYTJtLW1hVGt0enVMbFhVejNMRS0wVzdn?oc=5",
+      "ts": 1783075500000,
+      "sentiment": 0.0,
+      "tags": []
+    },
+    {
       "title": "Familias shuar triplican sus ingresos al vender en supermercados de Ecuador",
       "source": "Diario La Hora",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSm9Ub2dzOHM2VkFCQWE0U09tRlZ4WHJJZ3pyTVI3YmViUEhhTG9ZbHpFc0JveGNyNHFOYm9fTlplajFRQlo0V296eHJmQnZxUXU1YkNTQWZCMXB2VExENjdsQXlMZFAtWmw1OEhfMnl2M0Qzd1EtRXZRMU9GOXZBTnpmMmduTG5WRVJZNUwtdkd6TXFmT0UyczU3Nm9jeGFLY1Z2Zm9aYmUyc0ZiUmhKaUdBMnRydU5fNE42aTFoRXhDRDQ2dWJKeg?oc=5",
       "ts": 1783022332000,
+      "sentiment": 0.0,
+      "tags": []
+    },
+    {
+      "title": "Mercado de valores: la reforma que puede impulsar la inversión y el empleo en Ecuador",
+      "source": "Diario La Hora",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdU04S0NFT0dfbFRGbmdScW9iSnREMFF3em40Szk2Mm9WR0VESUk1OGdNNGJVTnRWV25ieXJQaURvRkNmQ05fVnpEcl9vTmp0X01paUpnY3FzbkhVQXRiVWVPMFJ0azZRdEZacUE4WjVpOGhBZHRoOGRIdDBzdkN6OWlQRkNPbTRJWTdJS3FWRl9jT21NUGg2UnZRZW9ZSGlNRWYtMjN2Q3VNTmNySmlScFJpaWxkeVIwRkFnc0k3VHg1VHpHVHc4ODE0VC1KeGhYdElEbQ?oc=5",
+      "ts": 1783007701000,
       "sentiment": 0.0,
       "tags": []
     },
@@ -1670,44 +1694,6 @@
           "name": "Riesgo país (EMBI)",
           "pct": null,
           "dir": 1
-        }
-      ]
-    },
-    {
-      "title": "Ecuador impulsa la transformación sostenible de los mercados pesqueros y fortalece su liderazgo en economía azul",
-      "source": "UNDP",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYWxQTHU5Rnc0RWhiUG1kajItU0dlZ1RIenVVUk5Ya2lvT3BRem8xd0p3ZGROcURTdHFSWkpQSV8wNjI1MS1rMW5Ga0tUbUx5TmM4Y3hVNWxTRUhsZmRZU3l1RGtUVUJBcWllZVpEdDhsQ1ViTWZFdUthVWhkVjJCWkRaOUp1MUNZcDNfTW5uSWdENUs0ekl0NjZyQTFzb3FwSW1wMjFGbXVkVHVwN0g0ZDhkU3BlQ2tRMjdWUGktUzNxQnFFWVFrUGRfbzAtTFpwblNOLUgxQ0xwaFktZkZ4WVltRjZrSUhu?oc=5",
-      "ts": 1781161200000,
-      "sentiment": 0.5,
-      "tags": []
-    },
-    {
-      "title": "Mito del crudo caro: por qué Ecuador no gana como antes",
-      "source": "expreso.ec",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12eGlTaUhTQTZVMkRMeE5UTFRINlBlQ1JxMmZuUWRBYkVuUmVISnJGalV4UHlycktTWjNwSDJIQjYzOWdBTWU2T2dqa1NOR0JyWmw5Wm5rcFJ2TEJpb2w4bkxhNVJkSlZVcks3YWppWXIzOWRzTEVTVVNaMVBlbE0?oc=5",
-      "ts": 1781074800000,
-      "sentiment": 0.5,
-      "tags": [
-        {
-          "sym": "WTI",
-          "name": "Petróleo WTI",
-          "pct": 1.3,
-          "dir": 1
-        }
-      ]
-    },
-    {
-      "title": "La deuda con el IESS supera los $41.000 millones y pone presión sobre las pensiones",
-      "source": "Diario La Hora",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORm94OHRPQ0pWaWNoNWRSYXhkMHhhN3A1TEFUSWNEY2Z6RVF2NlZBQkJSME9OLXdocTdraXdveEZESThJUXFsak51RTRkNWtIWHRmMGc5RHZ5Y2lWRHdocnJjSzVYVHBtTUFjXzIzdEpZQXhkN3NGMlJjUTlvZV9yV0gyWFdKd2oyWGN2bUdUdjRILTdjU0lyS0Fobmk4VzhvaFNhcFRwOTRnY2syc3FfZG5tQkVwRkFRUnlKQlllR2d3SnFPbVFZUDNQTWMtOUF3RVE?oc=5",
-      "ts": 1780642800000,
-      "sentiment": 0.5,
-      "tags": [
-        {
-          "sym": "RIESGO PAÍS",
-          "name": "Riesgo país (EMBI)",
-          "pct": null,
-          "dir": -1
         }
       ]
     }

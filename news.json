@@ -1,10 +1,32 @@
 {
-  "updated": "2026-07-08T04:15:35.799797+00:00",
+  "updated": "2026-07-08T06:40:20.123949+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Las acciones de chips chinos suben por informe sobre Apple y proveedores locales",
+          "source": "Investing.com España",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRm82Y1NueFJrc2Y1X21SMzRIbTdFM0JpSXV2bG5venJSdjJrRWFaemN5a3I2S3pDR3VVeDRWZ3dzYm9WbmZ2bEJRSl9GSHVJU3hVbVBPMjhxeWtsWHdqeEoxaWhXUU5tTkFGWFUyVW9ReWxQYzVRQll2QlNKM2RTTUtob1BNUm9va1BnNTJxUWh4aDFNeENkQkQ4OWNpOHY5aW01R295Q05mZXBBakIwSzBHM2p4SEUzMHBEcFZmTWhybG1PaFQ2QjljVDY?oc=5",
+          "ts": 1783485600000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 2.0,
+              "dir": 1
+            },
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 1.6,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Acciones de Amazon suben mientras prepara una emisión de bonos para acelerar su apuesta por la IA",
           "source": "Benzinga España",
@@ -56,8 +78,8 @@
         {
           "title": "Versiones sobre chip de DeepSeek impactan acciones de Nvidia",
           "source": "DW.com",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMWNpeUhwYVBhVm1pTnUtWWd3dTJhUE12YmdFNXFwa29pYnllY3ExRDFoOERiNjhKNmhFNWVuR3c4bldHYUVhUzFTbEpRZ0NTQ3lxRDhtQ29jT3hNanV6OWxuUk15ZUduT1FLV0FHQTU0NHpIRlkwMnYydm1WeVN0VFhBbkxmeVlJMHY3OXJ6ZW5aSW5tak5UN2VhN3VXazVNOHfSAaIBQVVfeXFMTzRveEVYU1c3bWdJeGNNbmdaemxkRlZnWklqRTgtbS1UT1l0enNKaDlpWUxIb2ZvTVl0VDNaZm9WYjdnTllQMk5RVnc1VWNQYkQtSVJYcDFtQmtNZDVidzFING02UVBCQ1B5R2tBVXdrcTFVbWlORDZtZUw0eC1zYXRKNnVZLVhFZmFxM04zNVpGZEt2UFZ1U1NMV1ZGUElWcWxn?oc=5",
-          "ts": 1783433651000,
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNG94RVhTVzdtZ0l4Y01uZ1p6bGRGVmdaSWpFOC1tLVRPWXR6c0poOWlZTEhvZm9NWXRUM1pmb1ZiN2dOWVAyTlFWdzVVY1BiRC1JUlhwMW1Ca01kNWJ3MUg0bTZRUEJDUHlHa0FVd2txMVVtaU5ENm1lTDR4LXNhdEo2dVktWEVmYXEzTjM1WkZkS3ZQVnVTU0xXVkZQSVZxbGfSAaIBQVVfeXFMTzRveEVYU1c3bWdJeGNNbmdaemxkRlZnWklqRTgtbS1UT1l0enNKaDlpWUxIb2ZvTVl0VDNaZm9WYjdnTllQMk5RVnc1VWNQYkQtSVJYcDFtQmtNZDVidzFING02UVBCQ1B5R2tBVXdrcTFVbWlORDZtZUw0eC1zYXRKNnVZLVhFZmFxM04zNVpGZEt2UFZ1U1NMV1ZGUElWcWxn?oc=5",
+          "ts": 1783433906000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -178,22 +200,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Las acciones de Alphabet caen mientras Google pierde a dos destacados investigadores de IA.",
-          "source": "es.qz.com",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN0RrbzhTUWI1X2JJMUIwYnNLanR0a1NBTW5NMXh5MGU4UVh0YkdlN0otekhkQzRFR05ZUEpEaEcxMFpSZVoxeXlQb2VOczE2MXVHYWFfUEVoNU1DZHdsUzhaT1JOM2NSNF82ODlpel8wWWpfRFREeUFjanVaeUplTHJxbHc2SEt1UVJrNw?oc=5",
-          "ts": 1783386863000,
-          "sentiment": -0.67,
-          "tickers": [
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": -1.6,
-              "dir": -1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -201,6 +207,38 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "El chip de este ordenador es 478 veces más rápido que la GPU de Nvidia.",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yeUplSHVoenVWdFdqU1p0TkZtNElxSUg5dmh1anJYOTctaXozamxIZmt5cWxUQXlkY1dTazNlcjVsWnlZcTZJcXd3UVU4SUxUbEc4TGVRbTFVTmNHU3ZZc05ncHI3czFieldTaVpnX1VjUlIyLVBxTmt2V1c?oc=5",
+          "ts": 1783489408000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Gestión de almacenamiento y visibilidad en tiempo real: las dos apuestas de WhatsApp",
+          "source": "noticiasneo.com",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZYVRRSUFlaUl1aVJPSnBxVE1XYm13UERmRTBYTURWbTFUbjNaOTNmbUdQYk16V28zUUNzSU5fajBTRnRBajRncmtMMHBpQkk?oc=5",
+          "ts": 1783480278000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": 1.2,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Meta amplía sus herramientas de IA generativa • Inteligencia Artificial",
           "source": "Forbes México",
@@ -220,8 +258,8 @@
         {
           "title": "Las bolsas mundiales se desploman a medida que disminuye el entusiasmo por la inteligencia artificial.",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUmRJdkdORDNaUFZHamdxWmdhUkpocUpKYmVqdkQ0ZEUtMHVIZ01VWmljVjRFUmdSYWh0RTRZQ25hTjROMGV5V3p0WU80azdIaDVaalVpVGs3ZVpHTlJtQ2xlX2N0UVpNSGFBLVpxT3lydVVoalplV0c3bmRPc2dZMU1RSQ?oc=5",
-          "ts": 1783472649000,
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVDBSQ3NzNG8wbHppcjNtZ3JOVGpvR2JzUE9PbHh1SkRyQy1sTF9WNDZTRGxuekVmY2IzZVJDeU1OaFlMZVdhbGx2STZLNzhWLWR4dHNYVjZGby1mZV9HQmVzaUpMblkzQnIyMUxhRW8yVHBEMTJpTWpDc2RaM0lLcWhnN09oVUFBQy1MTVB2TERiWW5vOFE?oc=5",
+          "ts": 1783474571000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -250,17 +288,17 @@
           "category": "semis"
         },
         {
-          "title": "Las acciones de chips en Corea del Sur caen tras el desplome en Estados Unidos por las dudas sobre el auge de la inteligencia artificial",
+          "title": "Las acciones de chips coreanas entran en pérdidas ante las dudas sobre la inteligencia artificial y el precio de las memorias",
           "source": "MarketScreener España",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVnUxOTNOVWFxTmFYWUhoQ2xhRVd5VmR5Q2s2ejdGWm1VX084UzdTWjNnUlVTbXNCMGU3YVg3YXdaYmh2MGxROU50UlducFJlYjlIamUxc1JMeHJMRGpOR0k4VE5uNXRCVldkQUhmYnlyRXRYQmltbVg3R05OMllyQ0c0NFUtN1ozYVNCZWM5bmdyTXlOVkFsNXQ4RlQ3QXJrVXlPMDA0d0tFRFB3WVR6dWxwM2NGbWFIU1hVMmZXNUlWbWF1WDdZeE9POW5reGFWSW1Fc2IyZnVjT1A4Q3E1U0dQb0xLOUhXaHNwbA?oc=5",
           "ts": 1783470196000,
-          "sentiment": -0.67,
+          "sentiment": 0.0,
           "tickers": [
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": -2.3,
-              "dir": -1
+              "pct": 0.8,
+              "dir": 1
             }
           ],
           "category": "semis"
@@ -320,22 +358,6 @@
           "category": "semis"
         },
         {
-          "title": "Microsoft sustituye los modelos de OpenAI y Anthropic por su propia inteligencia artificial",
-          "source": "MarketScreener España",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWVk3RUtfS0hvQk9VVWc1VDVKQzRLWXptNi1WQ0h4ZFc2VW9ZcXR5NXpkcl9PSHhUR19oVXQ1aEV0YVYyUTRvUmdYa1RiRHY1VjkwSnAwMjEySmtISy1yVXh4TXpDMEVxMlJMOXVzZHBhWEhFVG9CUEdFblhvTkFzYmhxSlFsZHRvT2Uyd2o1YzVsSHEwc0sxNVA1bGdQQ09qWTR6enhxaW5nckhQRTE4YXd2WFdWUlRiQVFOcnpQUVp2WWZTVnJlRmlyVldiMWROYUh4Y1ZkRGVxb3p5WXVHQQ?oc=5",
-          "ts": 1783453994000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "MSFT",
-              "name": "Microsoft",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
           "title": "DeepSeek ya no quiere competir solo con modelos. Su nuevo frente apunta directamente al negocio de NVIDIA, según Reuters",
           "source": "Xataka",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTGFVWGdjTFc5c051WnlMd2liOWdXTzZQVDRCbS1EaUlFUU5XYkI1UU84YjdTSDdMWWJNQ25ma0h2R3Z2VUFwTWllenE2NV94bnZiRVVPX3FCVTN0dHdGWkNpbjdSY3c3RDFnVmNDODZnZUZhb0xCbkUzNzVhemdIdldjbEdnNkVJN0lxLTZZNWxTQzM3RFRCblJLLVRuTEtOTDVsV2Y4aVV5dV85Y09hblJoWFpPLUVPbVJwcXphZlotRXhsSGo0Z2ZDcXBuY0RKVTVWNU5R0gHbAUFVX3lxTE5DeXlwMW5hNU1iTC0yTERmYVlrTnBtcG9TNlBZVnVyMnQ2STk5WkZBd1VZYkNCbTctcldKOWdXWlhYN0wtekxfU1hBZkZLMEdrM193RG55N1dyVGVFLVpOOXZDZXZndUtraTA3bm84OVNxYXhZX3ZqNkF2Ylg2cURNczVTQWNIYVNoa2xWM3FPOEZuaVNUQzEwNXZYMmRKZlJRSnlIQ1JwbGwyNHpoNG9TTkpaMlluOC02LUVKQk9DSnQ3eGltYXR1MldET0U2OXY0akcxNWthZFZOaw?oc=5",
@@ -346,22 +368,6 @@
               "sym": "NVDA",
               "name": "NVIDIA",
               "pct": 1.5,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Meta Platforms lanza su modelo de generación de imágenes por inteligencia artificial en Instagram",
-          "source": "MarketScreener España",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOanY4Y3VHUGZQdXU2clMwTlZmOXJ2bUpDNi0yWlVGRENfeDlnSUUzMWR0VTJWc29oaEx1ZThJbGtQck1MQ0lRaktGQlVVZlFLLUI4Y2FudmlVQ0p2UTVaRFVQc0YtdVVzUGNaN0FtVGtEYWVnYnlndXBwV3VMUWYtODAzcWVTTFdXVC1sVWVGckFwcWxPZ1g4UlBBeW0wTjNWQ3dMUlZXQ2h1dFVFZXgwdmI2RmhrbEJFUV9XTzd2RVdsNU9FMWxDdDRsY3JtdXFfRmY5cldiakhyVnFUcEVzNHFJbDRNVGkz?oc=5",
-          "ts": 1783450337000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 1.0,
               "dir": 1
             }
           ],
@@ -593,7 +599,7 @@
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.6,
+              "pct": 0.4,
               "dir": 1
             }
           ],
@@ -704,114 +710,142 @@
       "label": "Petróleo / Energía",
       "items": [
         {
-          "title": "Los ataques militares de EE. UU. contra Irán elevan la prima de riesgo del crudo mientras el WTI se estabiliza por encima de los 70 dólares.",
-          "source": "TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSF9yT0Y0RENteEl6OEdvUmVlaXczWU5wSTI0MUh1RDVFN0FtUDRtZ0dLMC0zWXZkRzV1a1ZVTjNCNFBOMzFGaFpzMUZXZG1ZTGFxRUV5cG52TFUzLXZHLURjZmF3T1RFd2FhYXJzekdpOS1adXRrYm5qTG5pMUZKUVVfRjhLZ2dxcHRNdno0X3hObjZZOG0tT29RaF9UNVktZmM1SGhRVjhXMXlaRHI2VnRYeldGdkNDVDEzWHNvRnhmTTFSYTVrbTQ4VzJHVkNkMlh3QmVZZnhGVm8?oc=5",
-          "ts": 1783480719000,
-          "sentiment": 0.0,
+          "title": "El petróleo se enfría: el Brent baja y el WTI ronda los 70 dólares",
+          "source": "Negocios.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV3FITi10dEhRb29TcjhUTUduVU9wd3RiV1BmZVFzTnF4ejl3QzZoclJiT0hUNjVxT2JYb0NxbHhZRkVRd1ZfRDJwWi1QdlJMazVSVUZEeFh2NW1MdF9WdUpGSkxUWXJ3U29sX1RERHVSM2tsSGd6b0R2QkpaVTBBSWg0VDZHMEtabWZ2ZXZlVHdaN0RHNVg1RUg0aU9YUHROWVNfemNoRHdLXzlMNXd4TkNJZXZMN2fSAbwBQVVfeXFMTmJDQ0ZGenFDRkNrbS1GdDBDeVVHcEtoQ3RnZDVhRXNBMllTUjRxcjV4WGRHRnZnTWVYN1ZSNkh5MjBWaDRubWpuMjgwOUY2ekdfU1hvMDJMVVlQX1RmZHhXelZ1ZE1WZVFOdUpvazdrY0tYU0J4d1IzU2ZIWWJoZTlkNjVRcmRQa3p1OC1nVnVZLVFRU3B1U2Q0S0ZNLVE1Nk9jSmNUckE2ZUJBOWFZekttcXZQNDBnZ2w2Z2Y?oc=5",
+          "ts": 1782799938000,
+          "sentiment": -0.5,
           "tickers": [
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": 1.2,
-              "dir": 1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": -0.8,
+              "pct": -1.3,
               "dir": -1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": 0.5,
-              "dir": 1
             }
           ],
           "category": "oil"
         },
         {
-          "title": "Precios de los combustibles hoy (8 de julio): Los precios del petróleo crudo WTI y Brent suben bruscamente.",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN2d6dkxDRGpyc04zUjhfTzhVay1kUWR3ZVU2MGNTa0FEMGhNSU1Wa0ZFMTJFTWlCVTJtS1JtTmE5U2hlc25SNHhTS0lpT252dkM5VEhwRjFBYXlEVXIybExhMGpGMkVKQXpxSEZlZkg1Q0hvWDRPTTA2Y2VfZGVQZVRpUmVtRUJQRDRF?oc=5",
-          "ts": 1783465650000,
+          "title": "Barril de petróleo Brent baja de los 78 dólares y se acerca a niveles previos al conflicto con Irán",
+          "source": "El diario de la Araucanía",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONzM3MWZ6c2tBQXhJaXhZamVSQ0RrQkh6a19hNmZMdklfQ3lnVkhuQ1hPZFotS2p5Z1JpdVdNTWlrU1BrQ1FlbWJqakhBalMycWp4ZmszaDR2cXZSNDFwWW82TV93R09SU0hoTXpwWlFnS1J1NlUyMy13Vm1WTjNFNkluejQyVDJBZ0N1SXpGNnI2NUR6WFhNRXhIN2x0a0lFbHVTczZoUW3SAa4BQVVfeXFMT1Jja2t5cWREanF2LVlKbjFtUmVrd2dyRTRaOXNsQ2xvWE9CNlhUMWt5MjNXRnphNUxaQjRyQWRtQlcyNHJIMzVYMlkxR2NTNTMwUGVNX2hwQWhYR1RQRUwybnNfTXBJT2Nsa3JKcmpqSUkxM1JzeWRoMGV4b1hmZTAxaGxlMmRoRy1LMm16dHFaMXBNLWd3UldiWXBJWHVYUk96UnpXR0ZETFU0RWpn?oc=5",
+          "ts": 1781679600000,
+          "sentiment": -0.67,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -1.5,
+              "dir": -1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 1.0,
+              "dir": 1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": -0.6,
+              "dir": -1
+            }
+          ],
+          "category": "oil"
+        },
+        {
+          "title": "--Los precios del petróleo crudo WTI y Brent caen antes de la apertura del mercado, mientras que los ataques de EE. UU. e Irán tras el derribo de un helicóptero Apache cerca de Ormuz, según informes, señalan una medida disuasoria.",
+          "source": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLVMwelluMFdxbXFBNUJCNlpIUlIydlg2aXB5ZjIwWXR4QkNvX0tya01BLTRKVzJjT1RTRmdoZXlpY0Z2dUpxenRmaWN0V3MxWW0tTS1tVzBlSnV1RnpybnFWZW9VRkcwWmJBdlZiZ2FQLXRiVkxTMVBQMWlJMVlCMkFVR3o0aUxhekNlNy0yYzFNU1Fl?oc=5",
+          "ts": 1781074800000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -1.3,
+              "dir": -1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 0.9,
+              "dir": 1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": -0.6,
+              "dir": -1
+            }
+          ],
+          "category": "oil"
+        },
+        {
+          "title": "Petróleo cae 2% y registra su peor semana desde abril",
+          "source": "eltiempomx.com",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdlBWN3Fic1N0LWd6dUNLY3ZyNTR1SC1maGJxSEhMcnJWLXdNV3JvZGZmM1didTJ3OW45d09mTnc2UFFYSVpaRVI3VllqcmZodEkzekp0Zm1RanVscThvSlRLM09GRDdobFhid0NiMWluMHUzVmVaaU5oblZVRzM5elJ1bmNfRllYM2hTZy1IdWliakt2YllnMtIBjAFBVV95cUxNT05qcnlxMm9jdnlKUmI5VS00b2QzR29Md3BCeV95SGtNcEhzSm14eHI3dm5MSE1sNzVWZXBVQktLbldIamZWVktTdE9CMlhFQVJSYWdPVVN4QUNhYnlzSDVYSDdjNFdid25idXpNMENSZkNTQWJ3YjhOeHJaQ2wzWkhCQ2RZREVtb2hpbg?oc=5",
+          "ts": 1780038000000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -1.3,
+              "dir": -1
+            }
+          ],
+          "category": "oil"
+        },
+        {
+          "title": "Pronóstico del precio del petróleo: Brent y WTI suben por el riesgo EE. UU.-Irán",
+          "source": "FXEmpire",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRWpOV2JlU0F6QTVTNy15OGs5cnhya2d1a2w3MzZQd0ZpLW9LOTFZa2RqTDhGUThldWVaTFdEd19OSEtNcVc5eUVMbGN0SFhMa2stZjdaMUtmemg5OFZ6STMxUFNnMENwNmM4Y2VFVldfbmJiakJuUEhNRFlqYUhoTVEyQlo5MF9ZVE9CWWtxSmlCLTJ4QkR0UDFSakNnckV6MlNTcFBqN1YxdFg1MGpYemtBeXQxN094eVQ0dnV6SXV4MFhS?oc=5",
+          "ts": 1779778800000,
           "sentiment": 0.5,
           "tickers": [
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": 2.4,
+              "pct": 1.3,
               "dir": 1
-            }
-          ],
-          "category": "oil"
-        },
-        {
-          "title": "Precios del petróleo caen este martes: WTI y Brent cierran por debajo de los 90 dólares",
-          "source": "El Sol de México",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORkQxMXNZM1UtYTA3ejZRMkNILWJqRjdqWkphOUVVT0Y4R3JVbGlNVGdXdHhZNUp4WmNDODA4eW5PRDNSLXR1Q3lSZWJVbzlXN3FRMk02WE9zajQya0c0LTB5ZEVNWWFkb2ZmOHhmVm5PWl92UU1rSExYd0I5RWFTU2NfYUs5OGlxbzBhdmFhQ3R0SVlCMjdPQzUteGNvandqeHpVenZFa2owYWN5ZGtHaTJ6d3p0R05sZHc2U0YxbzUxcVhxZkZoeS1uRC04LU9YUWl0NDJtUjJDd1U3MW1SZ1o4TzBCdw?oc=5",
-          "ts": 1783351191000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": -1.7,
-              "dir": -1
-            }
-          ],
-          "category": "oil"
-        },
-        {
-          "title": "Previsiones del crudo WTI y Brent: el mercado se consolida tras la brecha provocada por la guerra",
-          "source": "FXEmpire",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORGJLMURJbjh6VXpFWGxlaWxSRHJJTE1wdldfNmE5SDY2dUFmTUFKc0d3VzhXb0x6d1NfT1Y3eGxJaEZHM0RKM2EwazVmMGFxQXlSUlNwdHNtT19RRVY4THZjYnR6Tk9obGtQQ0dKOWlJblBFLW01Vi1CeXV3RDRmWl9nUUl1VzNsaEp1ck1rdWMtaktURmh1R1J6WmlGOFFFZFpSVlozYWZRSjVTSm1iWDFCVVgyVEFTQ3RkZER1WTVCN0VlYzFLYXVRNThibXdrTU9VbWZuTXNfcTNCUWc?oc=5",
-          "ts": 1783345680000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": -1.7,
-              "dir": -1
             },
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": 1.1,
-              "dir": 1
+              "pct": -0.9,
+              "dir": -1
             },
             {
               "sym": "SPY",
               "name": "S&P 500",
-              "pct": -0.7,
-              "dir": -1
-            }
-          ],
-          "category": "oil"
-        },
-        {
-          "title": "Gas natural y previsión del petróleo: El WTI defiende $69,09 mientras el Brent se mantiene en $72,34 – ¿El gas natural subirá?",
-          "source": "FXEmpire",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQejFXemREamdFX2lTWkcxQ3M1UVBQQzFwbVdxdWc3aGYtRFI5NVF5WDdLcTJVd3V1TllNV2gydlNSa3JCR29ialFzb2JEQ1J1TXZhSFQ0ZDROMWtlUU1FWEVQT0l0OGxaQk5hYWI0VkppM0REeVRXMzY0ZjJwS0NEUTFwdTNJYnUwTVRDQ2JCQjdMX1JjeDhhV2ZqZU1CTmgzVnlHSG5DbFhSSEU1dVFSZWVLcFQ2RXBZcVhCRGpOUGV4NmFHY3FlaS1kSHctcDRBZzFjTUtZODk4RkxfeGxXT1BhUTlDUEp0Q0FMTFg4ZDhnbFUwampCeld3?oc=5",
-          "ts": 1783319580000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 0.8,
+              "pct": 0.6,
               "dir": 1
             }
           ],
           "category": "oil"
         },
         {
-          "title": "El mercado petrolero entra en una fase de enfriamiento, el crudo Brent cotiza cerca de los 72 dólares y Citi prevé que el precio del petróleo podría caer a los 60 dólares",
-          "source": "TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdnRqQ1VtMVNDSVBHQXBnYkg5S0YwQ3ZqQ1poLVJrV1NXODZkNVBxZWtRQ1RqdUJ3ejBhbDFCR29qaGNrdElKVkdGX1I3TnFxanVTTndna2VMMWJ3ZW1RaWxYT1RjcHR3SE02cWZMckg0Ym9YZ0doUHlPamY2TFZQdWdkTjBjbndVdUJvenpBemlId1FEY2N0UHdlMlB5RnV0dlRaMkdqT1h1SFpLX3FYSThPZ1BIQTk4SXg4YWh5THRLbWFEY1ZXcWd6cTdVRjBB?oc=5",
-          "ts": 1783089681000,
+          "title": "El petróleo rompe la barrera de los 100 dólares: WTI +4,2% y Brent supera los 108",
+          "source": "Negocios.com",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNUFPWnpFSmFzWURHbHdfa0dTRGpuVzFsVDZnUnlFczFpV2dNMEgtYWRCM1FOS0lOUXF1YThqTE1RV2lFX1hvTDZOckx5d01PMlk0cVNwUGpWZ2pZRThDRjZZNHBXUVN3WHc4MUN0WnpDZG9kWi13c3pfb1BfZFJlcXViWUVRa3ltQXhPVjRwXzVRRUtLbWY4QVUweERGU1JHQ01Sckpla2UtV25iZFVoMEhjM1Q3MklUd2xNQk9xRkV5dUQ5NmfSAcsBQVVfeXFMT1FZX0huLVl0d2YzcmdSUFFZQWwyb29LQk5kVzZxM3p1cVhBVHpDS3NwNzVIY3FkM0ZZNV9mOXRiZzZFeDl6c2NoSDVaTEFWU0tvWWxnWDVZTmx0dk8wTktMaVIwLWdIQVo0UnF2akVDRWFDS2c4MnBnTjNjeUdCaWF4WWhFUlZrMWRpOG1PUUZrdlY3MHp3WHQzSHZZc05SeHEwTDlRZEFlY0JZRWEyNG92bDVTTTY5dU1pa05EZ2lSR291VkZFaFNRaWc?oc=5",
+          "ts": 1778569200000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": 1.3,
+              "dir": 1
+            }
+          ],
+          "category": "oil"
+        },
+        {
+          "title": "Precios del petróleo Brent y Texas este 12 de mayo: crudo mantiene en alerta a los mercados",
+          "source": "2001 Online",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYTdvT1lhTVhSRFJPNTNVVXpFZndvVmlyS3E4MlE0bmVENjR1dG1wN09RLUtKNFpqbF9EblBlUEV3RlNPdklLeGwwUnRjTjQ4UnlrMEZ2SGxDeVRmaDhTQkxKblQxaUpHYWVxaWQ4RURDQmc2UDkwbFNJaTdteDB1Q2NnaEtrX1JHSDBqUGpiWXJHUVZmdkdYNEZBaG5kN00yb291cDNDaHNWcFBIU1BYR0NRYUFwQmVUVEd4WE1RYmVhbjdZYTh5VVFxN3BVeTZvajNxNmFiS1c?oc=5",
+          "ts": 1778569200000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -824,10 +858,10 @@
           "category": "oil"
         },
         {
-          "title": "Petróleo cae a mínimos de cuatro meses por negociaciones EE.UU.-Irán y expectativa OPEP+",
-          "source": "Inspenet",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nSkVTT3JvSVBYRGpsSFRKQXhPdi13Vnl0RFlndVUya0xSLW84SDJfXy1lTVR5eVpGbmQ1UzVfLUNXeHhxbDFCREtPZVhPR3dBc0NCWnAweGhid0Y2TFc3aHk4SDZUd3h0d2pzRkVmRDF1SmVWZHpYTnFwcEI?oc=5",
-          "ts": 1783004352000,
+          "title": "El petróleo se desploma por debajo de los u$s100 tras el anuncio de Trump sobre el estrecho de Ormuz",
+          "source": "Los Primeros TV",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSU1YdU1LNk43Q280YWNyVlhFdHFQMkZTWnI2eGFZdUZjelRTbjBEUEFiWFh3UDZQd3hrTVdoOW1IYVJmaWVHdnFRV0p1WTJrQTBHX0tsMmdDVlNmcVlhcVRTMThvT0hLcjViaXotWVNyWTZJQ19hNWctbUd0N25RZUxDVFF3Q3E1M3plT2JGbVVta1VHMTRfYUVlWDFoUWliT1lZeVlwel84dE5KQVVEWUgxU2g4Nkpsb0p5cGR4SHV1M1M5aHNHQWdzOUhLTzhkeEQxb1ZYeDJicHNHSzNrNzFOVWNqQ05laXg2b3BrX3Q?oc=5",
+          "ts": 1778050800000,
           "sentiment": -0.5,
           "tickers": [
             {
@@ -835,29 +869,23 @@
               "name": "Petróleo WTI",
               "pct": -1.3,
               "dir": -1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.9,
-              "dir": 1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": -0.6,
-              "dir": -1
             }
           ],
           "category": "oil"
         },
         {
-          "title": "Previsión del precio del petróleo: se intensifica la venta del WTI mientras el Brent pone a prueba los 70 dólares",
-          "source": "FXEmpire",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdlEwRDlCTDl6WFNPY09uaGFDTlBTNVNZRHoyU0JDTGVkaVpyU0JVdmRqYnJoSUNoR3FkWjZUaDh0cndQTGZMekEzR2sxVXladGVLbjR2eW1sOTNESjBFLTdKQVpCekFMY2hPN0NuZHRENnZrT2VrMk15WGdRM0xienFiOUpiZmJEeUx3TC1BelpvbEt2UFY1QlZHOTRHU2NSZE85dUJiUzB6aU5BdTE2TnZVUTlkUHNFaFExWUhhOVpqUmVBVUVBbnRka2Q4SkxDRzF1UURVSlZ1RzRXUTRGT0hzaE9Uc1ZUTFE?oc=5",
-          "ts": 1782967980000,
+          "title": "Petróleo Brent y WTI, Nvidia y Bitcoin marcan el mercado",
+          "source": "ig.com",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdTVfR084aHQ4YzBiR3JxVFFkbHU0anpINXoxWTY5aDNOSHJtZ0VuMXIyRmh1NFFkalBRX2J0cTFPQjljZkxWNkxSQ2k3X1pTaDk4TTA0OE1XRG5GVmZvU2VDUjlJVW1KbGxmNlA4UVVIbEtQdmdiYktUU1lKZ1g1VEhKNkh2d0o5VHlNQ0l4Mk81cl9lNGtWV0VpSmU0OVV0WVBkS0FUaVVhMHhO?oc=5",
+          "ts": 1777186800000,
           "sentiment": 0.0,
           "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.0,
+              "dir": 1
+            },
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
@@ -868,57 +896,17 @@
           "category": "oil"
         },
         {
-          "title": "El crudo Brent baja un 1,87%, hasta 71,57 dólares, pendiente de conversaciones EEUU-Irán",
-          "source": "El Periódico de la Energía",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMzY4NUwtcklFUHdIa25rQm1QSEI1a1pFNnptektER0hNNy1oZnlxR0NQSFhLNXh5aG83cEpYX2pDSTlYU3UzQUtIekRSdG00WGt5M0RMTUJma0lmMkpmZWdRVnB6ZXFZSVJ2a2EzXzI2cHJaS21STzBQN2x0NzVKSGR6cE42bUNvbldGS194b1RVLVE4a1c1VUUwalU0YUFaYTFMalpUWEF4eDFmUlhQT1dIN05BOVFUV3FUaEF3?oc=5",
-          "ts": 1782945278000,
-          "sentiment": -0.5,
+          "title": "Suben precios del crudo Brent cerca de 1%",
+          "source": "Reforma",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVRVphWm10bGtfQ3RHZFdPRERuNlRmMGVwR0c0N3YzRzd2aFRGY0NNbHRwMGl0WHVOaTUxMmJDNW1rdTR0ai1lbF8xbWUtM1dScUlsOVh2X0g2UmZkejJPdmlqUG1yekVZZ2dCTUVFQm03MkxBazZ3dEtNOUxfX1U?oc=5",
+          "ts": 1776322800000,
+          "sentiment": 0.5,
           "tickers": [
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": -1.3,
-              "dir": -1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.9,
+              "pct": 1.3,
               "dir": 1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": -0.6,
-              "dir": -1
-            }
-          ],
-          "category": "oil"
-        },
-        {
-          "title": "Cae precio del petróleo mientras mercados esperan resultado de conversaciones Irán-EU",
-          "source": "Milenio",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYUdTdzVkZmxmTGxhOFlfemVQNmtCRXRkYlZoRmMwaGVoZkhwa2ZhNHhPc1l3ZlVKdmhYVFdtVTkzQ3JIdlB6VFpSc3ExUjJLTF9Ec3pURjIwTzV5TDNBa0Q2WkdoaUhJTTFKRDFRRDAyeF9TbVJKNlUxdTZsWEhTODVnU0ttbVZKYkx6NzFLOUVCWU5vbkJhdUZWT0NXMUp00gGgAUFVX3lxTE8tdWxXX0pvSk5VMm8tektOUVFRaTN2azRzbnZmd1FQMC1fRU5VMHAzX0N5c0k3RXFUcExER215VHZEamlPQVd6Zl9SYkpVai1xX2xQYmJPNmtGajZ3XzJKUXgyRms5ZW1lUmZnVF9oWWJQazB5eFNoSDNyNUVHVU9Sam1uR0l4V0lSR2RaTGFrOVJyc0g3LV9BZnVTTFU3azQ?oc=5",
-          "ts": 1782914640000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": -1.3,
-              "dir": -1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.9,
-              "dir": 1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": -0.6,
-              "dir": -1
             }
           ],
           "category": "oil"
@@ -1406,32 +1394,26 @@
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 11.6,
-      "n": 23
+      "net": 9.4,
+      "n": 21
     },
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": -11.5,
-      "n": 8
+      "net": -8.7,
+      "n": 10
     },
     {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": -11.0,
-      "n": 11
+      "net": -5.9,
+      "n": 12
     },
     {
       "sym": "WTI",
       "name": "Petróleo WTI",
-      "net": -4.8,
+      "net": -4.7,
       "n": 23
-    },
-    {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": -3.7,
-      "n": 17
     },
     {
       "sym": "AMZN",
@@ -1446,16 +1428,22 @@
       "n": 2
     },
     {
-      "sym": "MSFT",
-      "name": "Microsoft",
-      "net": 2.9,
-      "n": 4
+      "sym": "AAPL",
+      "name": "Apple",
+      "net": 2.5,
+      "n": 2
     },
     {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": -1.6,
-      "n": 1
+      "sym": "SPY",
+      "name": "S&P 500",
+      "net": -2.3,
+      "n": 15
+    },
+    {
+      "sym": "MSFT",
+      "name": "Microsoft",
+      "net": 2.2,
+      "n": 3
     },
     {
       "sym": "TSLA",
@@ -1464,25 +1452,27 @@
       "n": 1
     },
     {
-      "sym": "AAPL",
-      "name": "Apple",
-      "net": 0.9,
-      "n": 1
-    },
-    {
-      "sym": "META",
-      "name": "Meta",
-      "net": -0.3,
-      "n": 3
-    },
-    {
       "sym": "QQQ",
       "name": "Nasdaq 100",
       "net": -0.2,
       "n": 16
+    },
+    {
+      "sym": "META",
+      "name": "Meta",
+      "net": -0.1,
+      "n": 3
     }
   ],
   "ecuador": [
+    {
+      "title": "Mercado automotor rompe récord en Ecuador: qué modelos lideran las ventas",
+      "source": "expreso.ec",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUzRtNks5MVFiS1RzRldocWtrWmM4VkQwQTlvS2VuTjJrY09VRnd1SXpyYzF0bGNOa0s2d0cwUlVHMVFWemU3cjJEdjljeXVIMkFpQzBaS3A2NHo1U3ZraTFveTdLd0hCb3FYMkxKU1dDUzJGdkZjRWl2OXVOcmREb1lZcE9OZV9KZ3k5UkIxYVJFT0tFSUpLNEVTcVJ4cVprUy1YSkhBRnBZcE5BUGdsbEYxVzhpZVU?oc=5",
+      "ts": 1783479916000,
+      "sentiment": 0.5,
+      "tags": []
+    },
     {
       "title": "Ecuador y República Dominicana iniciaron primera ronda de negociación en busca de un acuerdo de alcance parcial",
       "source": "El Universo",
@@ -1629,21 +1619,6 @@
       "ts": 1781679600000,
       "sentiment": 0.0,
       "tags": []
-    },
-    {
-      "title": "Riesgo país de Ecuador perfora los 380 puntos y toca su nivel más bajo desde 2014",
-      "source": "Bloomberg Línea",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMGs2VDMwZTlidUYwTE5HdWxtZDN6THYtdGoxNmU2Nlh2RDFPejZmNHk1SGE2cHBkeTF3bkFrbGJtNlUyYWl0Z3J0NVRZOWZLT21OMTRDSzlVLVB3cjNHcHNPMTV5bHM3LTQ1WnFhOE1iTUZrbUNNRGdSRWhCZVFsWjd3Zkh4cHc1OTFjN25yWFZLMGhOaGRCSXJNemFMZnExWDFhSWc1VHlxcENnbXJwZEdhYjNSeldEMTdubXpvODk5NmhITlpobzhJSXhGNlJ30gHkAUFVX3lxTFBrbS1IZnpJcUxLNk45RGZHeDBHel95UVZnUVduU0JDcDR1NUpJWHhBbTQ3NlgyXzAyYjZTM3ZGeGZ3azdiSjluM2J0Vk9VN1hNZHlnazJLZnVxN1p0anllN2phaUxkS3ZwZU53UTN1N18yNGRGOVgtNG9hdW1YWDZhN0NmTDRTVjZpMlQ1VEJrQ3ZBazFoUFpqcFlDc3EzRTNJQWtjMmpwdF9zdGZLTFNLczRjczV4VUpYVTdqQ1kzUDk5cGlSREMteWF3WktqZTZ3dm9XSW9oR1V1cXdDSzRUd2l1TQ?oc=5",
-      "ts": 1781593200000,
-      "sentiment": -0.5,
-      "tags": [
-        {
-          "sym": "RIESGO PAÍS",
-          "name": "Riesgo país (EMBI)",
-          "pct": null,
-          "dir": 1
-        }
-      ]
     }
   ]
 }

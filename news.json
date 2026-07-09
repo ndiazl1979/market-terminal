@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T16:17:38.068101+00:00",
+  "updated": "2026-07-09T18:13:11.663704+00:00",
   "categories": [
     {
       "key": "tech",
@@ -75,19 +75,19 @@
             {
               "sym": "AVGO",
               "name": "Broadcom",
-              "pct": 3.0,
+              "pct": 2.6,
               "dir": 1
             },
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": 2.3,
+              "pct": 2.0,
               "dir": 1
             },
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 1.9,
+              "pct": 1.6,
               "dir": 1
             }
           ],
@@ -103,8 +103,30 @@
             {
               "sym": "META",
               "name": "Meta",
-              "pct": -2.4,
+              "pct": -2.0,
               "dir": -1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Apple: la renovación del acuerdo con Broadcom supone la guinda del pastel en materia de IA",
+          "source": "Morningstar",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUFBuc3hqbElLWE5QYVN1N0gyT2lGNm5rbUZPd0d1RmpLVzZEQnNKd0ZMdWtFeU1BUGt4cDNJVU5uX1BsZVRjRk9WdjJ6RUxlYTZjNHhoTzJzTjhXQk1XVExSZ0xwRTZtYjA5OURzemNybEYtTjBXbWxLMlBkZnEwZHIzQXhxR0YyQmxMb1ZLWHNrV0t4N0t4d0s2QTBDcDNTZnBEUElzcy1kWDg0S1JpemhGX1A0OGY4c2ZyTUdiZmVQR3VGS3VvdmF4SQ?oc=5",
+          "ts": 1783593487000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "AVGO",
+              "name": "Broadcom",
+              "pct": 2.2,
+              "dir": 1
+            },
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 1.4,
+              "dir": 1
             }
           ],
           "category": "tech"
@@ -119,13 +141,13 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.7,
+              "pct": 0.6,
               "dir": 1
             }
           ],
@@ -184,28 +206,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Meta supera a Tesla en valor de mercado: te explicamos por qué ambas acciones siguen desplomándose",
-          "source": "Forbes México",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYk5CS2tsMVVZTzdpR0pENWFuS3RHUDdRdk1VZFlNWmlTd0ZNcVBYV0toU2tQMk13eXRzMEp4cWZIWS1NQXgwcTdCMl93OVBFVHdQQ1JwOXA4Uk44aDFvUE1kU0dHMHhvLXZYUzdMV2pfNW5heEtEajNqcWxpa2s1QXpqQTdhdGxiNGo1ZTkwWWcwS3RkdGMyZEE5MzJFcTdid3RXdlpJdnpSck9tSHQzWExpLVB1TjFfanF4MA?oc=5",
-          "ts": 1783539180000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "TSLA",
-              "name": "Tesla",
-              "pct": 3.2,
-              "dir": 1
-            },
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 2.0,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -213,6 +213,92 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Meta fabricará nuevos chips IA desde septiembre para reducir su dependencia de Nvidia",
+          "source": "DiarioBitcoin",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdlQtN3RlelJRU1BrcmdSYmtZSEFpWDhSX2I3R1ZQV2xVbGU0czllUHlDaGlMdUNtblFpOWt6S2hQSkVQNFpGTUJwRGtHX0J3ZXhpdENZN3ljWlFpYXJucV9TOG1jR1Q0Rl9Vb2otbEFIR3hhak13Zzc5VXg0N3BDSlI2Yzc5UG50Tmw1TUxaclJ0cjJETGpsNktNbDlEcHlGSEVDRmo0MXVYSUpuX25WNGJiMUNTV0VVa1VQWGpUNEdEMTNmWUE?oc=5",
+          "ts": 1783619546000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            },
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": 1.2,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "China permitirá que sus empresas de IA compren chips Nvidia H200: agencias",
+          "source": "MILENIO",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX0QzQV9nVkJIYlJ1MWw4TGQ0TUF0M1RYeE9YLUdJQkNQQzdXaVZ3YXNJOFJOQ2t6cDZBbllsZnk0MmFWdnpsQXVKdkpJN0pxdk9zT2FwcXZ0SkxZNXFXTnotb1BJTGp0dUFTZHYySmhoU1JLNHQ5M2JPcVZhZ0NET1lDX3ZSUmVQZDgzMFlXMNIBjwFBVV95cUxQX0QzQV9nVkJIYlJ1MWw4TGQ0TUF0M1RYeE9YLUdJQkNQQzdXaVZ3YXNJOFJOQ2t6cDZBbllsZnk0MmFWdnpsQXVKdkpJN0pxdk9zT2FwcXZ0SkxZNXFXTnotb1BJTGp0dUFTZHYySmhoU1JLNHQ5M2JPcVZhZ0NET1lDX3ZSUmVQZDgzMFlXMA?oc=5",
+          "ts": 1783616595000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Meta lanzará su propia línea de lentes de inteligencia artificial con precios más competitivos",
+          "source": "Confirmado",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRGw3TDcwWC1iZjdudll0ZDJkaDJQblg1bkhMMVhlWlBudXN5SFVuWXpYWnREeXRnYjdqYW50bGZmYVk5RFYxak8wZm9OU1ZWZFhMTkxBb0tiRzJUY0xJM0QzWjRFWjRacWtRTUhSbEhVVFRVSzl0WFAxaTNuQ3d6a1ladllaZ1lxWVVrOUxBQkJ2aTdCaUg4dmpxTk1ROERzS3MzNHFmbXZzNVhiSW5nZnRWRDNTTXNMSnFwbjNB?oc=5",
+          "ts": 1783616540000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": 1.2,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Descubre el potencial de la inteligencia artificial con AWS Entrena a Bogotá",
+          "source": "Bogota.gov.co",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLWZXVkk5SnhZV0ZHN2l4cDIwQ0hieGR3LWYwZ3lDdkM3bW0zLXIwa25SWFNHWElaYU9wRFlQb3oxVVQ5SXpmQm0tbTcwaDhjVDRienlXdHlhWFl5RXl3UU5JN1NjT0pjVnR5dU1VUFNUSm5uQVNmQUlWcm1vM01YUWJqSmtnR0dkQjNhYnl0MXctWGxTRlY4Wl9SbVFOOW93ZXh1Mk13SlJIQQ?oc=5",
+          "ts": 1783616032000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "AMZN",
+              "name": "Amazon",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Acción de la semana: Seagate Technology. Cómo una tecnología antigua encontró un nuevo papel en la era de la inteligencia artificial",
+          "source": "XTB.com",
+          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQWV81QmdNX0gxT182SjZSem41cWVSM0RzdENVYVNRT2hyRW1xUzVGcjdMSTJrMk0xUE1NUlg4OG1EQ0JQb2NraEd0YWpxdDMxSzFMNjBrQkhheDc4TG5PLVNXbWQ1U28zMnZiV25YeGJfTlhmUXRtcGhsLXZwWlBFcHRVWkZTaVI0dldxSEFTYnZ2M2c0UlRGMU9wM01FQXBPUUhpLUJFNE9RclVwWU9sNEg5TEwxc003aEdKYU9QdkM4ZUxqS0J5NFBjaHdRMktoelBmemxsYjlvTEJlN29HcXQwd3JxZEVtQkFDT1RaR3lESFRkVXJXZ2xzVDIwWVRYQWNEWV9UMmswX3hQTlNHY0JCdkt6dzF4VXY3d1VXVQ?oc=5",
+          "ts": 1783614173000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Michael Burry apuesta contra los chips: 3 acciones que shortea",
           "source": "Bitfinanzas",
@@ -246,6 +332,28 @@
           "category": "semis"
         },
         {
+          "title": "Inversión de Apple en chips: millonario acuerdo con Broadcom",
+          "source": "abceconomia.co",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbUxKbWI0Y2RYdUN6WE1DS2JyUDNJbWRQdkt6QXBzVk54RFprZHVHeTUtOU1DbWJnVG1teHpxQi0xaXpzZ2R5ektJQ2ZvRm0teUdBZ0VQbFhXVVE2U1YtVjZaQVV0emVBN183TktuMnRHNjVMLWpoSlU0N2RCZS1tTUd1b2YyN0E?oc=5",
+          "ts": 1783608408000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "AVGO",
+              "name": "Broadcom",
+              "pct": 2.6,
+              "dir": 1
+            },
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 1.6,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Corea del Sur ¿entra en mercado bajista y golpea a los semiconductores?",
           "source": "XTB.com",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUXNILVZsRTJjck5hYmprZ1RiR3ZUVXZwU0pVQ1lGUEJSVE5qVmMwWFRBYzZOUlBWSFFYbjFLTlZqbHViZkY5UkpXYkpPS01JcmpDNWJwUW9vNlo5Y1h4QTJrWDZzUmd0cjNfb0NkTXZTTFFiMEZaU1ZFYWtQSlhNRnEyWFA3aVFXTWx1ZmpUaVJmaktNWnNqMTlVQVVwNmdBc09jWU5lamNBS1VGZU9TS3daODFRMVhYUU5TNFJ6ZGxFNXkxcmpnZnJGbF8?oc=5",
@@ -256,22 +364,6 @@
               "sym": "SMH",
               "name": "ETF Semiconductores",
               "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Starbucks desarrolla software con IA para reducir su dependencia de Microsoft e IBM, según reporte (SBUX)",
-          "source": "Yahoo Finanzas",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRmxwdmNiWlg2WGE1UWk0eUJ5WDZnTkJGS1NHdTBlM2Y0QThyQmJkLXRjMFZCbG4xYlRjSl9sWXhRamZrUm95d0ZuUW9LYlNXclhvQXNQaU9pTmpnWDV1Q2FxRE0wczF4elN1WVFydkJSLUUySjc1T3RxSGJOcHZxYi13bzhucThERFFBbXlPQmVfaFJlQl9wZjVBV2dRdw?oc=5",
-          "ts": 1783606485000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "MSFT",
-              "name": "Microsoft",
-              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -298,92 +390,6 @@
             }
           ],
           "category": "semis"
-        },
-        {
-          "title": "Alexa+ no es el límite: hay un proyecto para potenciar su IA, pero es tan caro que ni Amazon lo puede pagar",
-          "source": "El Grupo Informático",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX3BRaktwcVlPRU9wZjBIZmpVVFFJNVowM093dzZmdzZXZ1h0bXhpazhwamdkbk05VjliMmRVWjBXNzgwTHVHZVVSUWIySW5jM3VVYzM0VFZPLXFxSVUwbkxNWHM1azd4OG1ha1hPbmVIMmF2ZFlHeUgwakVvM3Yzbk5pdzFrNXp5MHln?oc=5",
-          "ts": 1783604983000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Las acciones de NVIDIA buscan recuperar impulso: estos son los niveles clave que vigila Wall Street",
-          "source": "Yahoo Finanzas",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaHN3M0hVc0pzdkNHV2tDMTZoQi1qVUJ6SXFWNWJZVWdMZ09STExOWWlfOE5fNEh3MUstU250MXBnVVhHckVOTndYQkhueG41Ujg4YjBkdlMtS3pUNHJtUERFOTJ2bUk2aFhIZjRiTEtiUVZsRzVJNFFlZ1ZxeUdockVFVVNDSVhDTmFUeDF6YzQ0Mk91VWVOQ1dkelR4QQ?oc=5",
-          "ts": 1783600285000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            },
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "NVIDIA desarrolla soluciones de \"inteligencia artificial especializada\" para países y empresas.",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWFJZjZ3QnJqdGxpNTV0cWk1ZDNMejFXQ0d4bHU1dHk1ZE5pOHE3UVJQYlVEcWc5X1g2RVdfeHc2UkI0U2dKRE45SEdYZUkzMzlWbUJSZmxqNXo4bV9KSXpSeGpyNWplYnJiMExseHJQTmlQbDFHY3k1Q2tDSWFIcEJ0R3V5Z0lfRDJpd0JVSEphUjMxZ3ZEUHVR?oc=5",
-          "ts": 1783596155000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Los chips H200 de Nvidia podrían regresar a China con una aprobación limitada de Pekín (NVDA)",
-          "source": "Yahoo Finanzas",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSzM5ZUhCTFhVeHNERk9ITl9UZ3A3aFpvZU5pN3RqZVNDeUZ0MzQtaGxJRXFoS2tHTm5jSnY1S3p0WWFybWFjV1ZWTDZCT0tlRFc3RUtsM0t3X3ZveWJfYVNpdHdUVmUyQmp4UVJXWFA0QmpDMUswRklGOHRYRWdpd1JTczBfbVVvTGc1LWR6QjhFWFU?oc=5",
-          "ts": 1783594246000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "China podría levantar su propia prohibición a NVIDIA: el país asiático valora comprar 200.000 chips H200",
-          "source": "Profesional Review",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZFFNU3hOcE5hZ1FfSGZDejA4Ni1RNG1nckJ6VDVmTzk3LVpGRHNFVUZSdGdSZnBTMDlpODBOZVFYdGxMZDhKSWJ1aWRoeHl1bmxhY1pWcWFzVjBPUjNzQ0dJQk5BamVmNkYxOVk3alVIU3NQQmpsMzV1X2dWdkpyano5WDhTQ1UzRHhHX2FjTXo1UzFVMlpqVU83OUhTVF9rTnp0WElxM0lGMUM4NV9kYzJhYS1YeS12REFNQTYxS3dsQlR6TnAzVU00c3dpWEpXY25mSm5Oa1FuZTdEakoyd3JBQdIB6AFBVV95cUxNd09WV3c0M3Bha2pSVHp4Wi1nb0x3dS1PWGNIOVZVUUJMY1piei1XSDczWXVOTW9BSXpyT3lwblA3V2RfcUF2RjF6dl90elZoMkRHUEVTQ3VPc3U5Z3NpYmhYeFFtc2gyQjRfYUd4RDJrd0pUUkJFV1ExYTVyQjBZM241NWdxVWtTdXk1aVBiSl9uWjIxbGVvZkxYMzFlYlYtMmRmQ0VNSW5tWlQtLWNkaW95VVdUaEhqMmZMQXBiZ0Q1elZWVlIxdWZzZWVHZHBoamlOZjBsS19CYjNEZ1BUUnRTVlRPaElq?oc=5",
-          "ts": 1783591196000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
         }
       ]
     },
@@ -396,6 +402,22 @@
           "source": "El Nacional.cat",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONkRKQ1dEb1ExTVlIdmoyeXB1Mmx6dTdpWXcwR2lUMEpVVTVfMDhQYVJKbWZPUUhJb0lVVk9CUXZnVExEcllxRDNjM00xaEo3LXFnVmJtMjdLdGhXZFZ4am1KU1I0dWpQa084bEdvNGJueURsLWJraElQM2ZFZEF2QlN6UUFpdzJyNjR5NDF4TWJUWU55WlB2SkdjVjNmb1JUT0ZHRnFSeDVnZ1RNQ290OHBxR2dYYUJhTVYwMmNQTlo?oc=5",
           "ts": 1783494720000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": -0.9,
+              "dir": -1
+            }
+          ],
+          "category": "space"
+        },
+        {
+          "title": "SpaceX entra en índice Nasdaq-100, pero baja en la bolsa",
+          "source": "www.revistaeyn.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDFtZUVPLWFjeUE0NldNSTk0V1ZISDRJMlNOQUZISHZYQVIxQmY2enkxVDFtZmNRMHZQbFdiSGhvZWs0QlRtTjZmcUdmVjBEN2pXWXVxY0FzRXBrMVFMbDZDenJpTl92MjhTMmppWWJWRUxGUVAtblFWWmJrblpBSTFHOURzMG5jSFNFU0w2Uk95d0g5NHVlbGJYLW5KRUZPYWR1WmR4U1FYV1pPR0dQQWR6VQ?oc=5",
+          "ts": 1783448843000,
           "sentiment": -0.5,
           "tickers": [
             {
@@ -542,22 +564,6 @@
               "sym": "MSFT",
               "name": "Microsoft",
               "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "space"
-        },
-        {
-          "title": "El patrimonio neto de Musk alcanza los US$1,4 billones; SpaceX supera a Amazon como la quinta empresa más grande",
-          "source": "Forbes Colombia",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb1hiTUFQUGlEdVNjczFaQTM1c3FQNC15WTVkczZaYUc5WUpyekVMeW5oQkVEanFmZGE5YmpwR002VjZ4TGdsXzlnbTlkT2RfOXJWV3VtbmlJa2lmRFpLQnZVTmtYOTgtSl83cXdzTHJ3ZWo5MjlmUDdJQ2E5SkFxS3pVUmNOYnpQc3JxV2huYm9UM0RFUDRWc1FVR1NSbUkxS2M5TkJ2UGxOMXZVU01BOTZXWlYtckFSU0kzUGp6emRVYTlndm1LMDRvN2N1MmZrVVE3Uk9WRTlxUmdaS1g5ZllR?oc=5",
-          "ts": 1781679600000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": 1.1,
               "dir": 1
             }
           ],
@@ -712,22 +718,6 @@
           "category": "defense"
         },
         {
-          "title": "El gasto militar suma 2,9 billones de dólares y alcanza el 2,5% del PIB mundial",
-          "source": "Rebelión",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaEZBYjRCRTlocnRJWWJ2MnA0emJxd2x6ZkVFNkpLLVZhQm0zTVlOYnZTQktoUG5aUkoxNGVJN3E3NGlxYnhZdkVCdXlGNFFTZHpObkhxZl9zYjJqMG9ZMUR3a0VXUWwzZWo3V1haX1hQUWlucHNXN1hpRGpidFc4Q3lJd245YTZieHMyR1paNS01eE9LbzZjT0dpVzhWNHM?oc=5",
-          "ts": 1778051219000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
-        },
-        {
           "title": "Acciones de defensa: cómo invertir en el sector",
           "source": "XTB.com",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBudTVNLWVieUkzZ1NFR2hxeUNUZVluRkVpcjBRbGxIcThOWUg4N2l3WUpKTkxOM1E0U3R6UjZ4U2poUXlwRk8yNWVjUW1wb2FXSkpXLUNyQkZZS19TYjJWSlNYSXhXTVQ2Y2FCNEJzTjdRQ3dERVhZMw?oc=5",
@@ -751,7 +741,7 @@
       "items": [
         {
           "title": "Petróleo sube por conflicto entre EU e Irán, ensombrece las perspectivas de paz",
-          "source": "Milenio",
+          "source": "MILENIO",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWkRTRS04Y1RsakJGb05nZHpEMmZ5VS1DQmxBczU4VkUtSHJHS2dRQ2RKR1BKN3dNUVg2ZnhwbFhCR2xab1dMbWlvd2RVSWxZRl8tX2hCd3BWTVVIa2VRMElIZzFWcDF5Ync5dnl6YUNRQzVOUmZhd1hIeTR0N1RKMHVZQ3B0aXlPN0ZSQkRxZkt4a3lLR1RwQjYzZlhQM0ZUWnfSAaIBQVVfeXFMTW43OTdXa1NiNkk0RllyZVRSYWRDWjkzbzB0YjdyYTlHV0dES2lrZXlrSFRpMUtjZXFpbXNvSVlTSFpISG1LVlRSX0dlVGdkeUlLTHNkVjFOd2IxTW1mOThxclNXS1cxaHlmMVYyX0J0eWVjYkk4Z0ZfNU41aE5kQUdyOXlDMWM1YjhUT2dfaWJZeHRWcS01dmRtdjdBSjVsdWtB?oc=5",
           "ts": 1783608660000,
           "sentiment": 0.0,
@@ -803,19 +793,19 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             },
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": -0.7,
+              "pct": -0.6,
               "dir": -1
             },
             {
               "sym": "SPY",
               "name": "S&P 500",
-              "pct": 0.4,
+              "pct": 0.3,
               "dir": 1
             }
           ],
@@ -950,6 +940,34 @@
           "category": "oil"
         },
         {
+          "title": "El Brent se mantiene en los 71 dólares ante el avance de las negociaciones EEUU-Irán",
+          "source": "El Periódico de la Energía",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbXE1WjVWQXB1b09jWkpPMEtGaDJQQURSNHJwOS1ReU1JSVpQRFltZjJVUWhJMVpteVNRc215aVNkYnY1d0JFblduSHd4VTk0T1kwTVBmOFozUklsb0MxNEtuSDdZUWhJQjJoM2t6RmNXSHd0Z2U1YkhNMEpiY1Y3eXU5d3oxazE3YTdyNGxNSi10MzVobzl5ZGlGT0ZsSUhVZXZnQUpNNW9nSmVlbEJYN1RZZUF0bHBnTFlkcQ?oc=5",
+          "ts": 1783204431000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": 0.7,
+              "dir": 1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": -0.4,
+              "dir": -1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 0.3,
+              "dir": 1
+            }
+          ],
+          "category": "oil"
+        },
+        {
           "title": "El mercado petrolero entra en una fase de enfriamiento, el crudo Brent cotiza cerca de los 72 dólares y Citi prevé que el precio del petróleo podría caer a los 60 dólares",
           "source": "TradingKey",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdnRqQ1VtMVNDSVBHQXBnYkg5S0YwQ3ZqQ1poLVJrV1NXODZkNVBxZWtRQ1RqdUJ3ejBhbDFCR29qaGNrdElKVkdGX1I3TnFxanVTTndna2VMMWJ3ZW1RaWxYT1RjcHR3SE02cWZMckg0Ym9YZ0doUHlPamY2TFZQdWdkTjBjbndVdUJvenpBemlId1FEY2N0UHdlMlB5RnV0dlRaMkdqT1h1SFpLX3FYSThPZ1BIQTk4SXg4YWh5THRLbWFEY1ZXcWd6cTdVRjBB?oc=5",
@@ -961,34 +979,6 @@
               "name": "Petróleo WTI",
               "pct": 0.7,
               "dir": 1
-            }
-          ],
-          "category": "oil"
-        },
-        {
-          "title": "Petróleo cae a mínimos de cuatro meses por negociaciones EE.UU.-Irán y expectativa OPEP+",
-          "source": "Inspenet",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nSkVTT3JvSVBYRGpsSFRKQXhPdi13Vnl0RFlndVUya0xSLW84SDJfXy1lTVR5eVpGbmQ1UzVfLUNXeHhxbDFCREtPZVhPR3dBc0NCWnAweGhid0Y2TFc3aHk4SDZUd3h0d2pzRkVmRDF1SmVWZHpYTnFwcEI?oc=5",
-          "ts": 1783004352000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": -1.3,
-              "dir": -1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.9,
-              "dir": 1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": -0.6,
-              "dir": -1
             }
           ],
           "category": "oil"
@@ -1281,7 +1271,7 @@
       "items": [
         {
           "title": "Bolsa mexicana cotiza volátil tras la apertura atenta a movimientos de Wall Street",
-          "source": "Milenio",
+          "source": "MILENIO",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT2RYeXZkVXBsMzkwN3VUZ0oyd2hMUUtpZnV0QWNuZXhQUFJSamtaMTk5WF9GcEh2VVhmdWV6bFNsTHVONUtYUGVuVzBiNTI4eG1GakNSMjRUX1FxdlJXVDhjZld1a3NFdUVCZkVVU3ZvVlhXdmFJdlA3bWxINU9hUFQzS0pxVkFNX0x3REpibGdfZ9IBkgFBVV95cUxNZTJKTU9VR0NGR0VvWGZ6aWw1Uk5pZzRMbndTaG5ic3EzdnA3QnBpWExucDlWWDQ3M2tELUZIdVZoeUJndXlxdExsNmZSNW1CUTV6d0ltYW5HTFVZUnY0bDQtV3BSa2JUaUdaeDFwSFlpd1dPZXpRcjNBdlBSeGczQ0lTTlk5SVBtbURwWmVpZmNjdw?oc=5",
           "ts": 1783439700000,
           "sentiment": 0.0,
@@ -1476,50 +1466,44 @@
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 9.4,
-      "n": 6
+      "net": 7.6,
+      "n": 5
     },
     {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": 8.0,
+      "sym": "AVGO",
+      "name": "Broadcom",
+      "net": 7.4,
       "n": 3
     },
     {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 5.3,
-      "n": 6
-    },
-    {
-      "sym": "ITA",
-      "name": "ETF Defensa/Aeroespacial",
-      "net": 4.1,
-      "n": 26
-    },
-    {
-      "sym": "AVGO",
-      "name": "Broadcom",
-      "net": 3.0,
-      "n": 1
+      "net": 6.0,
+      "n": 7
     },
     {
       "sym": "AAPL",
       "name": "Apple",
-      "net": 2.8,
+      "net": 5.5,
+      "n": 4
+    },
+    {
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": 4.8,
       "n": 2
     },
     {
-      "sym": "AMZN",
-      "name": "Amazon",
-      "net": 2.7,
-      "n": 3
+      "sym": "ITA",
+      "name": "ETF Defensa/Aeroespacial",
+      "net": 2.5,
+      "n": 25
     },
     {
-      "sym": "QQQ",
-      "name": "Nasdaq 100",
-      "net": 2.5,
-      "n": 17
+      "sym": "WTI",
+      "name": "Petróleo WTI",
+      "net": 2.2,
+      "n": 24
     },
     {
       "sym": "ASTS",
@@ -1528,16 +1512,22 @@
       "n": 2
     },
     {
-      "sym": "MSFT",
-      "name": "Microsoft",
-      "net": 1.6,
-      "n": 3
-    },
-    {
       "sym": "META",
       "name": "Meta",
-      "net": 1.0,
-      "n": 7
+      "net": 1.8,
+      "n": 8
+    },
+    {
+      "sym": "AMZN",
+      "name": "Amazon",
+      "net": 1.6,
+      "n": 2
+    },
+    {
+      "sym": "QQQ",
+      "name": "Nasdaq 100",
+      "net": 1.5,
+      "n": 18
     },
     {
       "sym": "GOOGL",
@@ -1546,16 +1536,16 @@
       "n": 1
     },
     {
-      "sym": "WTI",
-      "name": "Petróleo WTI",
-      "net": 0.4,
-      "n": 24
-    },
-    {
       "sym": "SPY",
       "name": "S&P 500",
-      "net": 0.1,
+      "net": 0.9,
       "n": 20
+    },
+    {
+      "sym": "MSFT",
+      "name": "Microsoft",
+      "net": 0.8,
+      "n": 2
     }
   ],
   "ecuador": [
@@ -1597,14 +1587,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaHVfRElJZE9LWWNaTEJiNHd1Vk9xWW1FdkVFZm5UcTAwZlRidHVuem50VFA3LUdQWXVrSkwtWlQwZ2c5dU9vYTFaaFc3NVhZUzB6NkxMTnJ4dXFFRWZhSlZScnBwb1lQTUhGTXFBbWthYnBWeDNPN1VXMTRTV2gtUkZRYUxmQ3lBcE5FajhnQ01ta1VfazdFWF9UMEJxMmxJSUF2RDlyVFhMd3JVaDF1TG9TOA?oc=5",
       "ts": 1783421700000,
       "sentiment": 0.0,
-      "tags": []
-    },
-    {
-      "title": "De Ecuador al mundo: los alimentos para mascotas impulsan un nuevo boom exportador",
-      "source": "Diario La Hora",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTmR0NWlWdmhmU1NhMDF4eHNOMjRLQ3FHbjF5RVV3Q2twSDBQSTF0TGZTenpSRThUcGJwTUN3RXREQk5VZ1F3TWVzQTBxU3hxS29IcmltRnlsb2VuRGdSTHdYd1d0MWlITGVsZnNlY0RQUzltS25ST0Z4cEgzdlJqX3VuSjItY2p5WDVyLTRfQ29pOHhmS1doTHhYZDB5Q0QwMVJQc2NSamxQcm9NaS10UXM1Q0JoRFN1cWhPNEdIX25OOTRjeUlabkZSLWxKejc2?oc=5",
-      "ts": 1783347395000,
-      "sentiment": 0.5,
       "tags": []
     },
     {
@@ -1663,29 +1645,6 @@
       "tags": []
     },
     {
-      "title": "Riesgo país de Ecuador cae a 378 puntos: ¿sigue entre los más altos de América Latina?",
-      "source": "Diario La Hora",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWWwwV2RUazJidGVhdTJFOF8weUl3djNaWmpELW1Ha0kwN19NekxDTURMaHVTQUlQVlBMblB1MWNrMzJMN2FqbnZ2aC1aaXNrRlUwaUhzVEwwMmw4NkJmWkgxQ1VTTGJ3QUtSRzloRnhkOWRLajRtN2FGUzdmOWg2T09ZYndKNmN3Nkc2SzdmMHBaRXhJUTVRVmtoYTVsX2lXY1RCaDhzbDRIakNGcTFSbGoyTTBrZ0piaV8yOXdXcGE0Q3c5QWQzSjhBR2RJNU9EbFpR?oc=5",
-      "ts": 1781593200000,
-      "sentiment": -0.5,
-      "tags": [
-        {
-          "sym": "RIESGO PAÍS",
-          "name": "Riesgo país (EMBI)",
-          "pct": null,
-          "dir": 1
-        }
-      ]
-    },
-    {
-      "title": "Feria laboral en Ecuador abre más de 1.000 oportunidades de empleo",
-      "source": "Diario La Hora",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPajhBSTdGeEEyMXdvc0FDS3d4RFBOdW1LV2g1bXlGWl9NT3k3S09lMG1PVDllTXdPNVhlS2V1OXpteGJkakJvY0tvNWstSGJWVm02bGdpRE9SSWQ0UEVxNDZGdmxQU1ItMk5ncmlCbE1WTzBpQU9iUUtJU3o4MFEzZnpneXZZXy1mUWRXNDNwQ2hqcGx0dE83NnljbVdZNTNzZlVibE04UHdTeURiWmVQd1dQYTF4aFFvYzdMOQ?oc=5",
-      "ts": 1781593200000,
-      "sentiment": 0.0,
-      "tags": []
-    },
-    {
       "title": "Riesgo país de Ecuador perfora los 380 puntos y toca su nivel más bajo desde 2014",
       "source": "Bloomberg Línea",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMGs2VDMwZTlidUYwTE5HdWxtZDN6THYtdGoxNmU2Nlh2RDFPejZmNHk1SGE2cHBkeTF3bkFrbGJtNlUyYWl0Z3J0NVRZOWZLT21OMTRDSzlVLVB3cjNHcHNPMTV5bHM3LTQ1WnFhOE1iTUZrbUNNRGdSRWhCZVFsWjd3Zkh4cHc1OTFjN25yWFZLMGhOaGRCSXJNemFMZnExWDFhSWc1VHlxcENnbXJwZEdhYjNSeldEMTdubXpvODk5NmhITlpobzhJSXhGNlJ30gHkAUFVX3lxTFBrbS1IZnpJcUxLNk45RGZHeDBHel95UVZnUVduU0JDcDR1NUpJWHhBbTQ3NlgyXzAyYjZTM3ZGeGZ3azdiSjluM2J0Vk9VN1hNZHlnazJLZnVxN1p0anllN2phaUxkS3ZwZU53UTN1N18yNGRGOVgtNG9hdW1YWDZhN0NmTDRTVjZpMlQ1VEJrQ3ZBazFoUFpqcFlDc3EzRTNJQWtjMmpwdF9zdGZLTFNLczRjczV4VUpYVTdqQ1kzUDk5cGlSREMteWF3WktqZTZ3dm9XSW9oR1V1cXdDSzRUd2l1TQ?oc=5",
@@ -1705,6 +1664,44 @@
       "source": "Diario La Hora",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOUpuTnNMbUZJVUpNaEo2c05lcG90NmNlM1NxRDlGV09LcmdyNXhYUlFqSWJtOFY2a2hJYlR1eTFHYnZTa2s3WE5jc0Vmd0I2TWc4Vl9MajVNakF3WGdXYmI2Q2RraVRkRGRtSzhwMGJWNTRERTJHdWtOVmhrdURsNng3YVAxbm1KVDh0Tl8wZlZ4cy1ibnZaNjc4VFpDLS1Xd1NDU2NEcGw2SXRJenp6aFVfc04yVnA1bVVjOWVkMFlzNmdSTTh3Mk5WbldhUEdGRGd4Vjk3MlRzdVVUS3laTg?oc=5",
       "ts": 1781593200000,
+      "sentiment": 0.5,
+      "tags": [
+        {
+          "sym": "WTI",
+          "name": "Petróleo WTI",
+          "pct": 1.3,
+          "dir": 1
+        }
+      ]
+    },
+    {
+      "title": "Riesgo país cae a 386 puntos, el nivel más bajo de los últimos doce años",
+      "source": "El Universo",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMm1YMElVVXpURjZEOEFpNVdtdFRHTzJucTFCV3V0RVQ2YkVyZDRmN1FxNnNvSkx3dWJVR2FUTjZfRVNRV0VMMy1VOU16MU55OFV6UDRuMHhqZnZ3M20xTnFYRTRpNUh4STdjSTR6T1JxQkhOZVE5ZU5vbkJkbXdTT01wZ29Jd3A5MFN2RjlmZW12Zy02d1VTa1loeTNmcEZycTg1M2p6NHpkNHE2VFZKR0pOaGzSAcgBQVVfeXFMTjhHRDR6WUd2YkpnRFZIbUZWUzdRa0VvcVlPTzQyVXJndlBLS1g2eURGZjlDa2NGUW9paVE4MUhoY3I2MEYyd25jQld2MzZoeVU5aEh2SE96WWZqQko1WnFjb1VKYTgtdXhnbjZUV3ZaWnc2WHVGSWZ3NW1LcE1ybE94M0NFeGp2c3hJSHBvRkVUamF4SnhyeFBYNnlILUw2cGJNOTh0d1lzTjUyWFpqeXhlVWFGRDJsZjlYRDNCYlF3cEJDMjJraS0?oc=5",
+      "ts": 1781334000000,
+      "sentiment": -0.67,
+      "tags": [
+        {
+          "sym": "RIESGO PAÍS",
+          "name": "Riesgo país (EMBI)",
+          "pct": null,
+          "dir": 1
+        }
+      ]
+    },
+    {
+      "title": "Ecuador impulsa la transformación sostenible de los mercados pesqueros y fortalece su liderazgo en economía azul",
+      "source": "UNDP",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYWxQTHU5Rnc0RWhiUG1kajItU0dlZ1RIenVVUk5Ya2lvT3BRem8xd0p3ZGROcURTdHFSWkpQSV8wNjI1MS1rMW5Ga0tUbUx5TmM4Y3hVNWxTRUhsZmRZU3l1RGtUVUJBcWllZVpEdDhsQ1ViTWZFdUthVWhkVjJCWkRaOUp1MUNZcDNfTW5uSWdENUs0ekl0NjZyQTFzb3FwSW1wMjFGbXVkVHVwN0g0ZDhkU3BlQ2tRMjdWUGktUzNxQnFFWVFrUGRfbzAtTFpwblNOLUgxQ0xwaFktZkZ4WVltRjZrSUhu?oc=5",
+      "ts": 1781161200000,
+      "sentiment": 0.5,
+      "tags": []
+    },
+    {
+      "title": "Mito del crudo caro: por qué Ecuador no gana como antes",
+      "source": "expreso.ec",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12eGlTaUhTQTZVMkRMeE5UTFRINlBlQ1JxMmZuUWRBYkVuUmVISnJGalV4UHlycktTWjNwSDJIQjYzOWdBTWU2T2dqa1NOR0JyWmw5Wm5rcFJ2TEJpb2w4bkxhNVJkSlZVcks3YWppWXIzOWRzTEVTVVNaMVBlbE0?oc=5",
+      "ts": 1781074800000,
       "sentiment": 0.5,
       "tags": [
         {

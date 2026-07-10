@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T18:48:29.271732+00:00",
+  "updated": "2026-07-10T20:07:51.417723+00:00",
   "tournament": "FIFA World Cup 2026",
   "groups": [
     {
@@ -1051,16 +1051,16 @@
     {
       "id": "760511",
       "date": "2026-07-10T19:00Z",
-      "state": "pre",
+      "state": "in",
       "stage": "quarterfinals",
-      "detail": "Scheduled",
+      "detail": "34'",
       "round": "Cuartos",
       "home": {
         "abbr": "ESP",
         "name": "Spain",
         "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
         "id": "164",
-        "score": "0"
+        "score": "1"
       },
       "away": {
         "abbr": "BEL",
@@ -1120,102 +1120,9 @@
         "eloAway": 1965,
         "confidence": 53.8
       },
-      "odds": {
-        "source": "DraftKings",
-        "details": "ESP -160",
-        "mlHome": -160,
-        "mlAway": 450,
-        "mlDraw": 290.0,
-        "spread": -0.5,
-        "spreadHome": -160.0,
-        "spreadAway": 125.0,
-        "total": 2.5,
-        "overOdds": -135.0,
-        "underOdds": 110.0
-      },
-      "bets": [
-        {
-          "market": "1X2",
-          "label": "Gana local",
-          "sel": "1",
-          "pModel": 53.8,
-          "pFair": 56.1,
-          "implied": 58.4,
-          "odds": 1.62,
-          "ev": -8.8
-        },
-        {
-          "market": "1X2",
-          "label": "Empate",
-          "sel": "X",
-          "pModel": 27.4,
-          "pFair": 25.9,
-          "implied": 24.3,
-          "odds": 3.9,
-          "ev": 0.9
-        },
-        {
-          "market": "1X2",
-          "label": "Gana visita",
-          "sel": "2",
-          "pModel": 18.8,
-          "pFair": 18.0,
-          "implied": 17.3,
-          "odds": 5.5,
-          "ev": -0.8
-        },
-        {
-          "market": "Total 2.5",
-          "label": "Más de 2.5",
-          "sel": "O",
-          "pModel": 31.2,
-          "pFair": 42.9,
-          "implied": 54.7,
-          "odds": 1.74,
-          "ev": -25.3
-        },
-        {
-          "market": "Total 2.5",
-          "label": "Menos de 2.5",
-          "sel": "U",
-          "pModel": 68.8,
-          "pFair": 57.1,
-          "implied": 45.3,
-          "odds": 2.1,
-          "ev": 19.8
-        },
-        {
-          "market": "Hándicap -0.5 L",
-          "label": "Local -0.5",
-          "sel": "H",
-          "pModel": 53.8,
-          "pFair": 55.9,
-          "implied": 58.1,
-          "odds": 1.62,
-          "ev": -9.1
-        },
-        {
-          "market": "Hándicap +0.5 V",
-          "label": "Visita +0.5",
-          "sel": "A",
-          "pModel": 46.2,
-          "pFair": 44.1,
-          "implied": 41.9,
-          "odds": 2.25,
-          "ev": -0.9
-        }
-      ],
-      "rec": {
-        "market": "Total 2.5",
-        "label": "Menos de 2.5",
-        "sel": "U",
-        "pModel": 68.8,
-        "pFair": 57.1,
-        "implied": 45.3,
-        "odds": 2.1,
-        "ev": 19.8,
-        "stability": 11.3
-      }
+      "odds": null,
+      "bets": [],
+      "rec": null
     },
     {
       "id": "760512",
@@ -1296,11 +1203,11 @@
         "mlAway": -110,
         "mlDraw": 265.0,
         "spread": 0.5,
-        "spreadHome": -110.0,
-        "spreadAway": -115.0,
+        "spreadHome": -105.0,
+        "spreadAway": -120.0,
         "total": 2.5,
-        "overOdds": -135.0,
-        "underOdds": 110.0
+        "overOdds": -145.0,
+        "underOdds": 115.0
       },
       "bets": [
         {
@@ -1338,40 +1245,40 @@
           "label": "Más de 2.5",
           "sel": "O",
           "pModel": 73.2,
-          "pFair": 63.9,
-          "implied": 54.7,
-          "odds": 1.74,
-          "ev": 11.3
+          "pFair": 64.6,
+          "implied": 56.0,
+          "odds": 1.69,
+          "ev": 9.1
         },
         {
           "market": "Total 2.5",
           "label": "Menos de 2.5",
           "sel": "U",
           "pModel": 26.8,
-          "pFair": 36.1,
-          "implied": 45.3,
-          "odds": 2.1,
-          "ev": -24.3
+          "pFair": 35.4,
+          "implied": 44.0,
+          "odds": 2.15,
+          "ev": -23.9
         },
         {
           "market": "Hándicap +0.5 L",
           "label": "Local +0.5",
           "sel": "H",
           "pModel": 25.4,
-          "pFair": 37.4,
-          "implied": 49.5,
-          "odds": 1.91,
-          "ev": -28.5
+          "pFair": 36.9,
+          "implied": 48.4,
+          "odds": 1.95,
+          "ev": -27.9
         },
         {
           "market": "Hándicap -0.5 V",
           "label": "Visita -0.5",
           "sel": "A",
           "pModel": 74.6,
-          "pFair": 62.6,
-          "implied": 50.5,
-          "odds": 1.87,
-          "ev": 17.0
+          "pFair": 63.1,
+          "implied": 51.6,
+          "odds": 1.83,
+          "ev": 15.7
         }
       ],
       "rec": {
@@ -1876,22 +1783,6 @@
       "pFair": 62.3,
       "ev": 18.9,
       "stability": 11.8
-    },
-    {
-      "id": "760511",
-      "date": "2026-07-10T19:00Z",
-      "round": "Cuartos",
-      "home": "ESP",
-      "away": "BEL",
-      "homeName": "Spain",
-      "awayName": "Belgium",
-      "market": "Total 2.5",
-      "label": "Menos de 2.5",
-      "odds": 2.1,
-      "pModel": 68.8,
-      "pFair": 57.1,
-      "ev": 19.8,
-      "stability": 11.3
     },
     {
       "id": "760513",

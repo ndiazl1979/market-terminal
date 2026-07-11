@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T11:36:53.774500+00:00",
+  "updated": "2026-07-11T12:35:42.730647+00:00",
   "tournament": "FIFA World Cup 2026",
   "groups": [
     {
@@ -1152,8 +1152,8 @@
         "spreadHome": -115.0,
         "spreadAway": -110.0,
         "total": 2.5,
-        "overOdds": -145.0,
-        "underOdds": 115.0
+        "overOdds": -150.0,
+        "underOdds": 120.0
       },
       "bets": [
         {
@@ -1191,20 +1191,20 @@
           "label": "Más de 2.5",
           "sel": "O",
           "pModel": 73.2,
-          "pFair": 64.6,
-          "implied": 56.0,
-          "odds": 1.69,
-          "ev": 9.1
+          "pFair": 65.0,
+          "implied": 56.9,
+          "odds": 1.67,
+          "ev": 8.4
         },
         {
           "market": "Total 2.5",
           "label": "Menos de 2.5",
           "sel": "U",
           "pModel": 26.8,
-          "pFair": 35.4,
-          "implied": 44.0,
-          "odds": 2.15,
-          "ev": -23.9
+          "pFair": 35.0,
+          "implied": 43.1,
+          "odds": 2.2,
+          "ev": -23.1
         },
         {
           "market": "Hándicap +0.5 L",
@@ -1491,7 +1491,7 @@
         "spreadAway": -165.0,
         "total": 2.5,
         "overOdds": -110.0,
-        "underOdds": -110.0
+        "underOdds": -115.0
       },
       "bets": [
         {
@@ -1529,20 +1529,20 @@
           "label": "Más de 2.5",
           "sel": "O",
           "pModel": 33.2,
-          "pFair": 41.6,
-          "implied": 50.0,
+          "pFair": 41.3,
+          "implied": 49.5,
           "odds": 1.91,
-          "ev": -20.6
+          "ev": -21.1
         },
         {
           "market": "Total 2.5",
           "label": "Menos de 2.5",
           "sel": "U",
           "pModel": 66.8,
-          "pFair": 58.4,
-          "implied": 50.0,
-          "odds": 1.91,
-          "ev": 11.5
+          "pFair": 58.7,
+          "implied": 50.5,
+          "odds": 1.87,
+          "ev": 9.7
         },
         {
           "market": "Hándicap -0.5 L",
@@ -1570,11 +1570,11 @@
         "label": "Menos de 2.5",
         "sel": "U",
         "pModel": 66.8,
-        "pFair": 58.4,
-        "implied": 50.0,
-        "odds": 1.91,
-        "ev": 11.5,
-        "stability": 6.7
+        "pFair": 58.7,
+        "implied": 50.5,
+        "odds": 1.87,
+        "ev": 9.7,
+        "stability": 5.7
       }
     },
     {
@@ -1824,22 +1824,6 @@
       "stability": 12.6
     },
     {
-      "id": "760514",
-      "date": "2026-07-14T19:00Z",
-      "round": "Semifinal",
-      "home": "FRA",
-      "away": "ESP",
-      "homeName": "France",
-      "awayName": "Spain",
-      "market": "Total 2.5",
-      "label": "Menos de 2.5",
-      "odds": 1.91,
-      "pModel": 66.8,
-      "pFair": 58.4,
-      "ev": 11.5,
-      "stability": 6.7
-    },
-    {
       "id": "760513",
       "date": "2026-07-12T01:00Z",
       "round": "Cuartos",
@@ -1853,6 +1837,22 @@
       "pModel": 72.7,
       "pFair": 64.4,
       "ev": 8.8,
+      "stability": 5.7
+    },
+    {
+      "id": "760514",
+      "date": "2026-07-14T19:00Z",
+      "round": "Semifinal",
+      "home": "FRA",
+      "away": "ESP",
+      "homeName": "France",
+      "awayName": "Spain",
+      "market": "Total 2.5",
+      "label": "Menos de 2.5",
+      "odds": 1.87,
+      "pModel": 66.8,
+      "pFair": 58.7,
+      "ev": 9.7,
       "stability": 5.7
     }
   ]

@@ -1,10 +1,32 @@
 {
-  "updated": "2026-07-11T19:22:49.723371+00:00",
+  "updated": "2026-07-11T20:13:34.326516+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Las acciones de Meta suben un 15% en una semana por los lanzamientos de modelos de IA y el chip Iris.",
+          "source": "es.qz.com",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ob2dqTG91eWdBRmFUSTBNTnJ2a1ladzd4RVJIYmtTTC1KU01zc2hqc0M4blUwdHcxMS1vWGRKN0lVMlo0NGJrVWpKRWpzUzZIT2VyUmQ3bHdsTk5iZDRBZ2xkSG9BV0k?oc=5",
+          "ts": 1783781123000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": 2.4,
+              "dir": 1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 2.0,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Las acciones de Microsoft sin cambios tras la llegada de nuevos datos de IA",
           "source": "TechStock²",
@@ -104,28 +126,6 @@
           "category": "tech"
         },
         {
-          "title": "Las acciones de Meta suben un 15% en una semana por los lanzamientos de modelos de IA y el chip Iris.",
-          "source": "es.qz.com",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ob2dqTG91eWdBRmFUSTBNTnJ2a1ladzd4RVJIYmtTTC1KU01zc2hqc0M4blUwdHcxMS1vWGRKN0lVMlo0NGJrVWpKRWpzUzZIT2VyUmQ3bHdsTk5iZDRBZ2xkSG9BV0k?oc=5",
-          "ts": 1783711986000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 2.0,
-              "dir": 1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.7,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
           "title": "Meta afirma que Bruselas no tuvo en cuenta sus acciones para proteger a los menores",
           "source": "UDG TV",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRWV0X0VRazlXODJ5VE50RzNzeTNUTzU0S3JrT1hYcjNiZUlreWpEbks5Sm1kMmFVLW1HR0o4NlZ5ZU81N1NxVUV1VlVad3RCOU1hc2N5Ykh5NmtlbEhVZDNES096R0JiMDhweFQ4SkNrLURHT2tDcmNnWmxjbEM0M01Va0FWNWx1?oc=5",
@@ -207,6 +207,28 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Nvidia sube solo un 7% este año quedando significativamente por debajo del Índice de Semiconductores de Filadelfia, ¿qué está lastrando exactamente a este rey de la computación por IA?",
+          "source": "TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWlVzUkk3WVFmNDRLaUl0NTlJREpTM19wamJEQTRCRkdFNV96NVZ1YldLQldiVXNwd1VHSXI3a0RTVjd6TVJyTktsUEhNWmdvUHNjZTlxOWVyMWpTM1FkVURLa0F4Y0UwYXh2RlMxRUROQkVUZUthUEtmQjNmS2kwWUliTk9UNkJSM2lLWmEzbnloTkowU3BIbWlSLXY1amdUdHRxYl9TWE9ucHRsaUVFaVE1SXpDT0h3NEs1eEtZY1ZHNGZweTNqNFhOek52bzhfXy1Ub1ZCcnZIX19PNk04?oc=5",
+          "ts": 1783797034000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 3.6,
+              "dir": 1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 2.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Meta podrá usar tus fotos y videos con inteligencia artificial: Así puedes desactivar la función",
           "source": "TVN",
@@ -368,22 +390,6 @@
             }
           ],
           "category": "semis"
-        },
-        {
-          "title": "El ministro de Producción Militar estudia con Intel la cooperación en aplicaciones de inteligencia artificial",
-          "source": "الهيئة العامة للاستعلامات",
-          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPWXlHdk9hcWxxaExqNFU4Q3lGbEZ0T1Z0Tlg0djExX2tMUXVGUGRwSG9GMW9MUk5zTnJ3RkJqZmZiblBTdm9ldmR5eUNYTkR0RWMydm1BZmFOb19Zd25zMWx4WHMybGlFMEhlSXk5WW5JaDByWkxqU1QwS09LWEpUUE1XSnNTcHZCZHBvcEVxXzJqb0xZQmtrc09zZ2RBOU5LNUU1Z1pfNHVHbGRXNG0wZXZkamVEdGpqZUtPQTVCTFVvYTB5VGRIcTkxd0ppb0g3Tk1tNm1teTJFY2JuX3Z6dE9YVmo3ZUNobnJXdUxTcDQ4QU9tNmtWV0VhdGlfVzBZOUJ5Snp5VG1Udy1wS2RabEFn?oc=5",
-          "ts": 1783727520000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "INTC",
-              "name": "Intel",
-              "pct": 1.2,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
         }
       ]
     },
@@ -504,22 +510,6 @@
           "category": "space"
         },
         {
-          "title": "SpaceX Stock Drops 4% As Pullback Starts to Erase IPO Gains and Slips Below Amazon Market Cap",
-          "source": "TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQX1B0RWFTazVoY1F5TVJVcDFaRzEtRnktWmgtemg2UDQ4NWFJMmFhdXpSejhCZVU1c2xpaHdnYkptcTMxTWhyZy1EM1ZKOUxmRmhkVkVXcENkUEYwR0FvSWdvQWRtTnA5djBxOGNFUWVaSzNBaE93eHNOdXNXazkycnRQSjUzWm16dEhhcE9wb0EwSFFmMi1kd0FjN3lCSVU5eUs0OFZKQU5keFdreGNrLXc1RzdrRlRZYW00ZjZnZUhPc1ctQ0hpLTRYWnBPclJfem1tTXdtb043cGZwdk53Y3lQSmhsQ0ZTNzFyVHZCSi0?oc=5",
-          "ts": 1782136054000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": 0.6,
-              "dir": 1
-            }
-          ],
-          "category": "space"
-        },
-        {
           "title": "La salida a bolsa de SpaceX sacude Wall Street: el efecto dominó que podría impulsar a Nvidia y todo el ecosistema de IA",
           "source": "Benzinga España",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdjlaVUtiNmNFN0t4TTVWa0hlNWFvSlNRVkFKSHNBdHlmNkc0ZXRfOThkMm13bzNzZGhNbmxmMkhkcDhxN0J6U0NENUJrTUstNUZ3S2JZRjFkTGhLNWxPUDBJX3JHVTF1MUltWGVKVkUybk5oeUJYMmV3RWtyYzVVQzU5TEc2ay1QY2phWmRWdmN5bkQxZWZ6bW5tWWtZZzlzQUJZ?oc=5",
@@ -536,6 +526,22 @@
               "sym": "QQQ",
               "name": "Nasdaq 100",
               "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "space"
+        },
+        {
+          "title": "SpaceX Stock Drops 4% As Pullback Starts to Erase IPO Gains and Slips Below Amazon Market Cap",
+          "source": "TIKR.com",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQX1B0RWFTazVoY1F5TVJVcDFaRzEtRnktWmgtemg2UDQ4NWFJMmFhdXpSejhCZVU1c2xpaHdnYkptcTMxTWhyZy1EM1ZKOUxmRmhkVkVXcENkUEYwR0FvSWdvQWRtTnA5djBxOGNFUWVaSzNBaE93eHNOdXNXazkycnRQSjUzWm16dEhhcE9wb0EwSFFmMi1kd0FjN3lCSVU5eUs0OFZKQU5keFdreGNrLXc1RzdrRlRZYW00ZjZnZUhPc1ctQ0hpLTRYWnBPclJfem1tTXdtb043cGZwdk53Y3lQSmhsQ0ZTNzFyVHZCSi0?oc=5",
+          "ts": 1782111600000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "AMZN",
+              "name": "Amazon",
+              "pct": 0.6,
               "dir": 1
             }
           ],
@@ -1495,18 +1501,18 @@
       "sym": "NVDA",
       "name": "NVIDIA",
       "net": 12.0,
-      "n": 7
-    },
-    {
-      "sym": "META",
-      "name": "Meta",
-      "net": 6.2,
-      "n": 5
+      "n": 8
     },
     {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 5.4,
+      "net": 7.7,
+      "n": 6
+    },
+    {
+      "sym": "META",
+      "name": "Meta",
+      "net": 6.6,
       "n": 5
     },
     {
@@ -1546,12 +1552,6 @@
       "n": 1
     },
     {
-      "sym": "INTC",
-      "name": "Intel",
-      "net": 1.2,
-      "n": 1
-    },
-    {
       "sym": "MSFT",
       "name": "Microsoft",
       "net": 1.1,
@@ -1574,6 +1574,12 @@
       "name": "Alphabet",
       "net": -0.8,
       "n": 2
+    },
+    {
+      "sym": "SPY",
+      "name": "S&P 500",
+      "net": -0.6,
+      "n": 22
     }
   ],
   "ecuador": [
@@ -1586,18 +1592,18 @@
       "tags": []
     },
     {
-      "title": "Gasolina en Ecuador: Noboa cambia las reglas para que las bajas en el precio lleguen más rápido al consumidor",
-      "source": "Diario La Hora",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNd1ZRRXJ6OWRhZnFnWF9POXRZdkp0UnhlMk9iRzJleVg0ejZjSHJpRE9Yc21QdFBsaFlZbkJvYVc4dlAwNjhVNXF0Vm5ScEdVM2tUUUFRRERKX1JXT3NXZERQU3M3Q1gwUmY1UWlHNHIxVTU2LS0xdW9nS05IdTFjd09vNk83Z1VlYnQtQWpLaVJndXllTXdLblZ6ZlJlWTg4SFNzT2xOejhJLXpRRXhQaXdSNTBjVHFfMWVreWpQWERXZTNROFZybkNMTFJCc2ZIdWhqcDYtcnpmM195ano0QmwybUtteGtBSTFBRHVpXzdqS3JJeUZRakdEVGRsSDJsdFB2bkZiN2E?oc=5",
-      "ts": 1783605856000,
+      "title": "Alimentos Real, de Ecuador, recibe uno de los mayores reconocimientos del mercado en Estados Unidos",
+      "source": "expreso.ec",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSlpMcEx0WjZaU0NGWmhyYUVJQ1lqLVFfX0ZZeGN6S0h5QUZiNkpFTWFXbVFZWjhzSGozVTVrRERBN3dFMWRIZmU3a1ZKMGkxeHlqdXJfX0V3a195Y3N5RHh6M3ZGVkU5dms5RUdFTVJxQlFxREV4ZVdUbWV0MnVBSlFJaTk4S2RPM0RpOGJCbGRoa28wUUxrYTVSN0c4YlBSZjFlbThOSHpnSkg5TmZFdnc1SENKZUkxbnlRMmxJYTBtbGd6bTFuLUxWN2RQUldGZ2R4bGVkUk8zbWhTUFlCMXBaUzZROVU?oc=5",
+      "ts": 1783627960000,
       "sentiment": 0.0,
       "tags": []
     },
     {
-      "title": "China suspende compra de camarón de siete exportadoras de Ecuador",
-      "source": "El Universo",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRGp1Tmc0SXZ4dERzTnNUT0dDSW55SHZtQ1BSWVJEeTRXTzlWa1lUS1hEUkl0Ty1wY0JWM1lmd1Noc1FiZWhwemNnVEhPYXJaQXQ3dXhqMVhmdk82NUZvUDd2RWRrS2gxVVM1ZmdzSjZIcjlDa2pHeUozMFdOR0ZSeHNJZ2pmTlFtZ3pneng5SVJ3U2xRUkJSN1QtRFN6UmlGb1NTLXdhNmRPblVBMWtydDVPLUl5WkRtcDV4T0hNa2hKRG9DTllRTlBsX1pxVV9XV2w5a1RCZnltd3hRX0M5bWU0cUxIN2F00gH8AUFVX3lxTE42Tmc1b1RIRFhVYUtoRWprMmYtSTNQZ0hrM2JJSHp6NXFEY2QyOFo5N3JPVXZpckZKMm55ejNLQzlCZnoyUzh3TGNBbWRONVAzaHNBSWY3NUFLN0RZLWV1eE55bWJTejNNSnl5Q1d5NnFRY0paOExYQVJvam9ibWpNZm8tQjF0MUNoVXJEdmd4Y0xMV2hSbDM2bjN4OUdYU1VYZ0ZyYmFaeFZiM1JBY2ZWcUlzRGpqbDBzUGl4eEV5eThFYUhSc2RucUlVOEc4UVJReldZQkg3VkVJcTVqaWhGREVtV1o2Ul80UHd5b29odkhyQndqSGNRX2ZtdQ?oc=5",
-      "ts": 1783546080000,
+      "title": "Gasolina en Ecuador: Noboa cambia las reglas para que las bajas en el precio lleguen más rápido al consumidor",
+      "source": "Diario La Hora",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNd1ZRRXJ6OWRhZnFnWF9POXRZdkp0UnhlMk9iRzJleVg0ejZjSHJpRE9Yc21QdFBsaFlZbkJvYVc4dlAwNjhVNXF0Vm5ScEdVM2tUUUFRRERKX1JXT3NXZERQU3M3Q1gwUmY1UWlHNHIxVTU2LS0xdW9nS05IdTFjd09vNk83Z1VlYnQtQWpLaVJndXllTXdLblZ6ZlJlWTg4SFNzT2xOejhJLXpRRXhQaXdSNTBjVHFfMWVreWpQWERXZTNROFZybkNMTFJCc2ZIdWhqcDYtcnpmM195ano0QmwybUtteGtBSTFBRHVpXzdqS3JJeUZRakdEVGRsSDJsdFB2bkZiN2E?oc=5",
+      "ts": 1783605856000,
       "sentiment": 0.0,
       "tags": []
     },

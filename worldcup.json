@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T12:35:42.730647+00:00",
+  "updated": "2026-07-11T14:06:08.341144+00:00",
   "tournament": "FIFA World Cup 2026",
   "groups": [
     {
@@ -1313,13 +1313,13 @@
       },
       "odds": {
         "source": "DraftKings",
-        "details": "ARG -145",
-        "mlHome": -145,
-        "mlAway": 450,
-        "mlDraw": 255.0,
+        "details": "ARG -150",
+        "mlHome": -150,
+        "mlAway": 475,
+        "mlDraw": 260.0,
         "spread": -0.5,
-        "spreadHome": -150.0,
-        "spreadAway": 120.0,
+        "spreadHome": -155.0,
+        "spreadAway": 125.0,
         "total": 2.5,
         "overOdds": 125.0,
         "underOdds": -155.0
@@ -1330,30 +1330,30 @@
           "label": "Gana local",
           "sel": "1",
           "pModel": 72.7,
-          "pFair": 64.4,
-          "implied": 56.1,
-          "odds": 1.69,
-          "ev": 8.8
+          "pFair": 64.9,
+          "implied": 57.1,
+          "odds": 1.67,
+          "ev": 8.1
         },
         {
           "market": "1X2",
           "label": "Empate",
           "sel": "X",
           "pModel": 16.5,
-          "pFair": 21.6,
-          "implied": 26.7,
-          "odds": 3.55,
-          "ev": -23.3
+          "pFair": 21.5,
+          "implied": 26.4,
+          "odds": 3.6,
+          "ev": -22.8
         },
         {
           "market": "1X2",
           "label": "Gana visita",
           "sel": "2",
           "pModel": 10.7,
-          "pFair": 14.0,
-          "implied": 17.2,
-          "odds": 5.5,
-          "ev": -23.2
+          "pFair": 13.6,
+          "implied": 16.5,
+          "odds": 5.75,
+          "ev": -21.7
         },
         {
           "market": "Total 2.5",
@@ -1380,32 +1380,32 @@
           "label": "Local -0.5",
           "sel": "H",
           "pModel": 72.7,
-          "pFair": 64.8,
-          "implied": 56.9,
-          "odds": 1.67,
-          "ev": 8.0
+          "pFair": 65.2,
+          "implied": 57.8,
+          "odds": 1.65,
+          "ev": 7.3
         },
         {
           "market": "Hándicap +0.5 V",
           "label": "Visita +0.5",
           "sel": "A",
           "pModel": 27.3,
-          "pFair": 35.2,
-          "implied": 43.1,
-          "odds": 2.2,
-          "ev": -22.6
+          "pFair": 34.8,
+          "implied": 42.2,
+          "odds": 2.25,
+          "ev": -21.8
         }
       ],
       "rec": {
-        "market": "1X2",
-        "label": "Gana local",
-        "sel": "1",
-        "pModel": 72.7,
-        "pFair": 64.4,
-        "implied": 56.1,
-        "odds": 1.69,
-        "ev": 8.8,
-        "stability": 5.7
+        "market": "Total 2.5",
+        "label": "Más de 2.5",
+        "sel": "O",
+        "pModel": 56.4,
+        "pFair": 49.3,
+        "implied": 42.2,
+        "odds": 2.25,
+        "ev": 11.0,
+        "stability": 5.4
       }
     },
     {
@@ -1487,8 +1487,8 @@
         "mlAway": 215,
         "mlDraw": 225.0,
         "spread": -0.5,
-        "spreadHome": 130.0,
-        "spreadAway": -165.0,
+        "spreadHome": 135.0,
+        "spreadAway": -170.0,
         "total": 2.5,
         "overOdds": -110.0,
         "underOdds": -115.0
@@ -1549,20 +1549,20 @@
           "label": "Local -0.5",
           "sel": "H",
           "pModel": 29.8,
-          "pFair": 35.5,
-          "implied": 41.1,
-          "odds": 2.3,
-          "ev": -18.4
+          "pFair": 35.1,
+          "implied": 40.3,
+          "odds": 2.35,
+          "ev": -17.6
         },
         {
           "market": "Hándicap +0.5 V",
           "label": "Visita +0.5",
           "sel": "A",
           "pModel": 70.2,
-          "pFair": 64.5,
-          "implied": 58.9,
-          "odds": 1.61,
-          "ev": 3.7
+          "pFair": 64.9,
+          "implied": 59.7,
+          "odds": 1.59,
+          "ev": 3.1
         }
       ],
       "rec": {
@@ -1824,22 +1824,6 @@
       "stability": 12.6
     },
     {
-      "id": "760513",
-      "date": "2026-07-12T01:00Z",
-      "round": "Cuartos",
-      "home": "ARG",
-      "away": "SUI",
-      "homeName": "Argentina",
-      "awayName": "Switzerland",
-      "market": "1X2",
-      "label": "Gana local",
-      "odds": 1.69,
-      "pModel": 72.7,
-      "pFair": 64.4,
-      "ev": 8.8,
-      "stability": 5.7
-    },
-    {
       "id": "760514",
       "date": "2026-07-14T19:00Z",
       "round": "Semifinal",
@@ -1854,6 +1838,22 @@
       "pFair": 58.7,
       "ev": 9.7,
       "stability": 5.7
+    },
+    {
+      "id": "760513",
+      "date": "2026-07-12T01:00Z",
+      "round": "Cuartos",
+      "home": "ARG",
+      "away": "SUI",
+      "homeName": "Argentina",
+      "awayName": "Switzerland",
+      "market": "Total 2.5",
+      "label": "Más de 2.5",
+      "odds": 2.25,
+      "pModel": 56.4,
+      "pFair": 49.3,
+      "ev": 11.0,
+      "stability": 5.4
     }
   ]
 }

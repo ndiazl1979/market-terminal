@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T03:32:07.971779+00:00",
+  "updated": "2026-07-14T05:54:18.088648+00:00",
   "tournament": "FIFA World Cup 2026",
   "groups": [
     {
@@ -1105,11 +1105,11 @@
         "mlAway": 215,
         "mlDraw": 215.0,
         "spread": -0.5,
-        "spreadHome": 130.0,
+        "spreadHome": 135.0,
         "spreadAway": -170.0,
         "total": 2.5,
         "overOdds": -110.0,
-        "underOdds": -110.0
+        "underOdds": -115.0
       },
       "bets": [
         {
@@ -1147,40 +1147,40 @@
           "label": "Más de 2.5",
           "sel": "O",
           "pModel": 33.2,
-          "pFair": 41.6,
-          "implied": 50.0,
+          "pFair": 41.3,
+          "implied": 49.5,
           "odds": 1.91,
-          "ev": -20.6
+          "ev": -21.1
         },
         {
           "market": "Total 2.5",
           "label": "Menos de 2.5",
           "sel": "U",
           "pModel": 66.8,
-          "pFair": 58.4,
-          "implied": 50.0,
-          "odds": 1.91,
-          "ev": 11.5
+          "pFair": 58.7,
+          "implied": 50.5,
+          "odds": 1.87,
+          "ev": 9.7
         },
         {
           "market": "Hándicap -0.5 L",
           "label": "Local -0.5",
           "sel": "H",
           "pModel": 29.8,
-          "pFair": 35.3,
-          "implied": 40.8,
-          "odds": 2.3,
-          "ev": -18.8
+          "pFair": 35.1,
+          "implied": 40.3,
+          "odds": 2.35,
+          "ev": -17.6
         },
         {
           "market": "Hándicap +0.5 V",
           "label": "Visita +0.5",
           "sel": "A",
           "pModel": 70.2,
-          "pFair": 64.7,
-          "implied": 59.2,
+          "pFair": 64.9,
+          "implied": 59.7,
           "odds": 1.59,
-          "ev": 2.7
+          "ev": 3.1
         }
       ],
       "rec": {
@@ -1188,11 +1188,11 @@
         "label": "Menos de 2.5",
         "sel": "U",
         "pModel": 66.8,
-        "pFair": 58.4,
-        "implied": 50.0,
-        "odds": 1.91,
-        "ev": 11.5,
-        "stability": 6.7
+        "pFair": 58.7,
+        "implied": 50.5,
+        "odds": 1.87,
+        "ev": 9.7,
+        "stability": 5.7
       }
     },
     {
@@ -1528,11 +1528,11 @@
       "awayName": "Spain",
       "market": "Total 2.5",
       "label": "Menos de 2.5",
-      "odds": 1.91,
+      "odds": 1.87,
       "pModel": 66.8,
-      "pFair": 58.4,
-      "ev": 11.5,
-      "stability": 6.7
+      "pFair": 58.7,
+      "ev": 9.7,
+      "stability": 5.7
     },
     {
       "id": "760515",

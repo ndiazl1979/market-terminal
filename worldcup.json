@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T19:08:24.927383+00:00",
+  "updated": "2026-07-14T20:20:30.958986+00:00",
   "tournament": "FIFA World Cup 2026",
   "groups": [
     {
@@ -1029,9 +1029,9 @@
     {
       "id": "760514",
       "date": "2026-07-14T19:00Z",
-      "state": "pre",
+      "state": "in",
       "stage": "semifinals",
-      "detail": "Scheduled",
+      "detail": "58'",
       "round": "Semifinal",
       "home": {
         "abbr": "FRA",
@@ -1045,7 +1045,7 @@
         "name": "Spain",
         "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
         "id": "164",
-        "score": "0"
+        "score": "2"
       },
       "pred": {
         "pHome": 29.8,
@@ -1098,102 +1098,9 @@
         "eloAway": 2085,
         "confidence": 41.5
       },
-      "odds": {
-        "source": "DraftKings",
-        "details": "FRA +160",
-        "mlHome": 160,
-        "mlAway": 210,
-        "mlDraw": 190.0,
-        "spread": -0.5,
-        "spreadHome": 150.0,
-        "spreadAway": -190.0,
-        "total": 2.5,
-        "overOdds": -115.0,
-        "underOdds": -110.0
-      },
-      "bets": [
-        {
-          "market": "1X2",
-          "label": "Gana local",
-          "sel": "1",
-          "pModel": 29.8,
-          "pFair": 33.2,
-          "implied": 36.6,
-          "odds": 2.6,
-          "ev": -13.7
-        },
-        {
-          "market": "1X2",
-          "label": "Empate",
-          "sel": "X",
-          "pModel": 28.7,
-          "pFair": 30.7,
-          "implied": 32.8,
-          "odds": 2.9,
-          "ev": -10.9
-        },
-        {
-          "market": "1X2",
-          "label": "Gana visita",
-          "sel": "2",
-          "pModel": 41.5,
-          "pFair": 36.1,
-          "implied": 30.7,
-          "odds": 3.1,
-          "ev": 11.9
-        },
-        {
-          "market": "Total 2.5",
-          "label": "Más de 2.5",
-          "sel": "O",
-          "pModel": 33.2,
-          "pFair": 41.9,
-          "implied": 50.5,
-          "odds": 1.87,
-          "ev": -21.7
-        },
-        {
-          "market": "Total 2.5",
-          "label": "Menos de 2.5",
-          "sel": "U",
-          "pModel": 66.8,
-          "pFair": 58.1,
-          "implied": 49.5,
-          "odds": 1.91,
-          "ev": 11.0
-        },
-        {
-          "market": "Hándicap -0.5 L",
-          "label": "Local -0.5",
-          "sel": "H",
-          "pModel": 29.8,
-          "pFair": 33.9,
-          "implied": 37.9,
-          "odds": 2.5,
-          "ev": -15.4
-        },
-        {
-          "market": "Hándicap +0.5 V",
-          "label": "Visita +0.5",
-          "sel": "A",
-          "pModel": 70.2,
-          "pFair": 66.1,
-          "implied": 62.1,
-          "odds": 1.53,
-          "ev": 1.0
-        }
-      ],
-      "rec": {
-        "market": "Total 2.5",
-        "label": "Menos de 2.5",
-        "sel": "U",
-        "pModel": 66.8,
-        "pFair": 58.1,
-        "implied": 49.5,
-        "odds": 1.91,
-        "ev": 11.0,
-        "stability": 6.4
-      }
+      "odds": null,
+      "bets": [],
+      "rec": null
     },
     {
       "id": "760515",
@@ -1269,13 +1176,13 @@
       },
       "odds": {
         "source": "DraftKings",
-        "details": "ENG +165",
-        "mlHome": 165,
-        "mlAway": 200,
-        "mlDraw": 190.0,
+        "details": "ENG +175",
+        "mlHome": 175,
+        "mlAway": 190,
+        "mlDraw": 185.0,
         "spread": -0.5,
-        "spreadHome": 160.0,
-        "spreadAway": -205.0,
+        "spreadHome": 170.0,
+        "spreadAway": -215.0,
         "total": 2.5,
         "overOdds": 130.0,
         "underOdds": -165.0
@@ -1286,30 +1193,30 @@
           "label": "Gana local",
           "sel": "1",
           "pModel": 22.8,
-          "pFair": 29.3,
-          "implied": 35.8,
-          "odds": 2.65,
-          "ev": -22.4
+          "pFair": 28.6,
+          "implied": 34.3,
+          "odds": 2.75,
+          "ev": -21.5
         },
         {
           "market": "1X2",
           "label": "Empate",
           "sel": "X",
           "pModel": 25.0,
-          "pFair": 28.8,
-          "implied": 32.7,
-          "odds": 2.9,
-          "ev": -16.4
+          "pFair": 29.1,
+          "implied": 33.1,
+          "odds": 2.85,
+          "ev": -17.2
         },
         {
           "market": "1X2",
           "label": "Gana visita",
           "sel": "2",
           "pModel": 52.2,
-          "pFair": 41.9,
-          "implied": 31.6,
-          "odds": 3.0,
-          "ev": 25.7
+          "pFair": 42.4,
+          "implied": 32.6,
+          "odds": 2.9,
+          "ev": 22.9
         },
         {
           "market": "Total 2.5",
@@ -1336,32 +1243,32 @@
           "label": "Local -0.5",
           "sel": "H",
           "pModel": 22.8,
-          "pFair": 29.6,
-          "implied": 36.4,
-          "odds": 2.6,
-          "ev": -23.0
+          "pFair": 29.0,
+          "implied": 35.2,
+          "odds": 2.7,
+          "ev": -21.7
         },
         {
           "market": "Hándicap +0.5 V",
           "label": "Visita +0.5",
           "sel": "A",
           "pModel": 77.2,
-          "pFair": 70.4,
-          "implied": 63.6,
-          "odds": 1.49,
-          "ev": 4.7
+          "pFair": 71.0,
+          "implied": 64.8,
+          "odds": 1.47,
+          "ev": 4.0
         }
       ],
       "rec": {
-        "market": "Hándicap +0.5 V",
-        "label": "Visita +0.5",
-        "sel": "A",
-        "pModel": 77.2,
-        "pFair": 70.4,
-        "implied": 63.6,
-        "odds": 1.49,
-        "ev": 4.7,
-        "stability": 3.3
+        "market": "1X2",
+        "label": "Gana visita",
+        "sel": "2",
+        "pModel": 52.2,
+        "pFair": 42.4,
+        "implied": 32.6,
+        "odds": 2.9,
+        "ev": 22.9,
+        "stability": 9.7
       }
     },
     {
@@ -1519,22 +1426,6 @@
   ],
   "valueBoard": [
     {
-      "id": "760514",
-      "date": "2026-07-14T19:00Z",
-      "round": "Semifinal",
-      "home": "FRA",
-      "away": "ESP",
-      "homeName": "France",
-      "awayName": "Spain",
-      "market": "Total 2.5",
-      "label": "Menos de 2.5",
-      "odds": 1.91,
-      "pModel": 66.8,
-      "pFair": 58.1,
-      "ev": 11.0,
-      "stability": 6.4
-    },
-    {
       "id": "760515",
       "date": "2026-07-15T19:00Z",
       "round": "Semifinal",
@@ -1542,13 +1433,13 @@
       "away": "ARG",
       "homeName": "England",
       "awayName": "Argentina",
-      "market": "Hándicap +0.5 V",
-      "label": "Visita +0.5",
-      "odds": 1.49,
-      "pModel": 77.2,
-      "pFair": 70.4,
-      "ev": 4.7,
-      "stability": 3.3
+      "market": "1X2",
+      "label": "Gana visita",
+      "odds": 2.9,
+      "pModel": 52.2,
+      "pFair": 42.4,
+      "ev": 22.9,
+      "stability": 9.7
     }
   ]
 }

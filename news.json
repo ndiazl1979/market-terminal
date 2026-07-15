@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T23:29:23.982495+00:00",
+  "updated": "2026-07-15T00:51:58.812286+00:00",
   "categories": [
     {
       "key": "tech",
@@ -178,16 +178,38 @@
       "label": "Semiconductores / IA",
       "items": [
         {
-          "title": "Ni ChatGPT ni Gemini: Spotify estrena una IA con la que puedes hablar para pedir música",
-          "source": "Hipertextual",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa2xYaGZEU2pvUmUydDFodFc5bjRQS2RfWmYxMUtQcGIybDlCZEgzMmI3TGNKTWVfNGJ2YlhaXzlsYmZfaWpZc2FJQVUtUHlOZ04tS0FYVW9ZdUFFWDFoSFZYUXFZaXNoMFF4bkdLdkl3cDlxM2hRZWlJZjBSeFBCNkREOERKZ08tSFVpb25ucnc?oc=5",
-          "ts": 1784064300000,
-          "sentiment": 0.0,
+          "title": "Una nueva demanda podría marcar el rumbo de la inteligencia artificial de Google",
+          "source": "nacion.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZzI5Q2ZfSWExZDFFSzhLQUtSOVpEeG5qd0U5eEdhbkdxUE5mSS01Vzhlb0xsQ2lqT1BVb2NLRzJsazFzUjVoQnk4ZFZkcmg2RGR1TGt3MHhWdG1NVnQ0d1NCOU1NcFhuVHlhZi1DM0JZeVJ4RjNSVjlxMjF2Vm1zTzlzSUhRNENzMFFGWHk0aHJ0eXRBYTFTQkJaU0R6eGJadUJSU0ZjenZScjd4MVJPc1VB?oc=5",
+          "ts": 1784073711000,
+          "sentiment": -0.5,
           "tickers": [
             {
               "sym": "GOOGL",
               "name": "Alphabet",
-              "pct": 0.9,
+              "pct": -1.9,
+              "dir": -1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "La empresa de inteligencia artificial en la nube CoreWeave explora las estrategias de Wall Street para cubrirse frente al riesgo de fluctuación de los precios de los chips de memoria",
+          "source": "TradingView",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wcFJNaFJ2WUhYOHV1WWlQeFctZ0ltTlRXczhONmlUNnhtWHJHczB4MVAwWlFPWDNhVUdoOGFnVmVJVFBiNU0weGNYMWpScURacFhSYjhXSk9OYmYyUDM4S2dLZXMtMEtXWXVwanBuV2Z2aXdmcHFj?oc=5",
+          "ts": 1784072690000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -227,15 +249,15 @@
         },
         {
           "title": "Alto cargo estadounidense dice que Nvidia empezó a enviar a China potentes chips de IA H200",
-          "source": "MarketScreener España",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV2E2azc3TlYtTGJJNVZNRXlSRmRvUDRrTVlSMjhGVXVFa0xJcHZaOEdHdWN6dHdvNEFNVnpaQXQ2VHU5M1RfOV9OYVBZdm53ZDJwOTY4aHpNVmVHaWRnX0JhSkpwZ3FtcVNrV1ZTX2VVcXBfUkhNWVNmQXZUbEVWWDlpRDNnNm1zeEV2dzU3alNYeDVhSUw5QlRib1YtZnZLREdtb3p0ajFHd2VkZUxTbHVEOGY2UEc0cjc4a2lFd0FVa196Sm1LRnkzWTZKM3dUODVNMl9ucWh1RWtUOXl3?oc=5",
-          "ts": 1784051659000,
+          "source": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcVF4NVZNWUppeW1xZjBCM3Z5aUt4eVU5YUFxaE9nZnRKRmlCVklFN3RRcnMxWG5KaldXV0o1RDh3dXh3REk1cGlPWVl5dE50SlVGSDVjUGw2LWs3WHpYU1E5SmJ3R1U1UzRsVEk1dXVQcEg1Yk5ZaENTaGhaZ0RvRXdvd2NBaDB4VF8yTTJSamZqc2sxY2I2X2oyZ0F6dw?oc=5",
+          "ts": 1784051611000,
           "sentiment": 0.0,
           "tickers": [
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             }
           ],
@@ -251,7 +273,7 @@
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -290,22 +312,6 @@
           "category": "semis"
         },
         {
-          "title": "Envíos del chip H200 de Nvidia a China siguen siendo mínimos",
-          "source": "Investing.com México",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQlU2MTNuOTh3a0xxUGc4azlsLV9hWDQ4cWJEbDVjUU5KREVTZlk2bERjNEtUd2c2RmRBVmx3RUFUWVFqUkE0cm9YclR4RWFsY0tXVHh2eGlMTmR4dnVjNjNHMTNtUXdIajJTS3dDdFItMlRHUGhLNURQMEowZ256ekNBLWMtYVhacnVaekZHY3VnbFJhc3VxSW53SmlFZ3BxbWtjRjg5YXRxNXloZXZPNE5ucUZWLUNxSWE2RGVn?oc=5",
-          "ts": 1784041002000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
           "title": "Un alto cargo de EE. UU. confirma que Nvidia ha comenzado a suministrar sus potentes chips de IA H200 a China",
           "source": "MarketScreener España",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ0YyUGVWT185Yk1ycXZWMDRvYTg4MHh5NkJ4bTIyQUFNN1F4al9fUWtpcVBpTGxsakxrcU81ZUpuTDA3ZnhsemlycTdTanR0dlNUR194RkdVX3oyMGNhckVmV0huTGlwZy1JV3hnVWdlNUNjS0FyX2dTVmhmcXlRLXZoU0l5eGJtY3k5Nkd4RXZTekpzbFNkVXFmazVZb3lWb3F2OGVCbk1tTHBVWnFZcGxZdFF5b1VSQXZJRTJfZG5JVDlNUUwzbGhUYnlOdw?oc=5",
@@ -322,17 +328,17 @@
           "category": "semis"
         },
         {
-          "title": "Meta utilizó inteligencia artificial para despedir a empleados con problemas médicos, según una demanda de antiguos trabajadores",
-          "source": "MarketScreener España",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORGRjME00dHhnLWtJUm91SGdfYlIydlZNLUFLQjFfMTVMUmtka1NRT2JuQWtZZXR3d1VFSGMzUzdVZWJHX1Y5RF9wOUR4elNnUXhETUdLSkp4SGdBWFRCcG1FWlMxWUJsbTQ4TTE3MUprb0g3UUpQWjJiMk4wTUN0WW13VWtHeWFRdDh3bXVuelMxcDhsUHd1WjRpQ2VuZzBMNzZDYkJJaXZPaVVxUnh5dkRGbEdDdm9xY2JVVjUwZXJUUXBFODN5c05OeVVJdU84MnJzWDBZRTdXTnZ6XzNxMlctSEJFVUp4cVE?oc=5",
-          "ts": 1784037085000,
-          "sentiment": -0.5,
+          "title": "Ya puedes probar la primera versión pública de iOS 27: trae Apple Intelligence y una Siri renovada",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOGZsU1dQeGlLbk1UYzVBRm9KR1JwbVo0UmpIQW00a1IwZnZYbnhEanVUN0l6Zl92YV8xSEtwYzZLa1BXZEZETUNqMHFYNmVBejRHTG82R2xjeU4zUTRpT01kZWRldXFqcG1qYjZaZ05RckxUMnRCa3laTWdlcEh4SUp6UjZLVVFMbkVBZ3F3SEFhdTRnNkxJWFJKNVdnUjJsRVRmZjExby1rU09FN2pGczdaZlBFNXU5NVNkTjF3eDBHXzF1V1pjUGlqendLNVZ2cURWNmln0gHwAUFVX3lxTE00elpVbVhsV1R4amo1Sjc5bE16Sm1qTDVIaGwzXzBIUzFvRXdqREF0MVM2SjVlMVFOWmxGNjR5QmtpdVpwYTlWTmZnUDQyLVBkV1lJSzhQX1k4WDBXRHdiTHlCSVlEWF83NGk0ZWxSTUgyRF9palIwZzkyNGJXWUhva1pTdmtvZUxCRWF1Ti1SQXJhMEtteV9JOS0xYlJLNWhLUjVQdVJJMkdMRFdrbEx2dko4WWRVZGVGY19KdXc1MXFFU09WMFV5djE2S3lNMlV0dTQ5NlhWUFNSeWFvUjFZR3VtQ3BrTXNLeUhFdVJTOA?oc=5",
+          "ts": 1784034540000,
+          "sentiment": 0.0,
           "tickers": [
             {
-              "sym": "META",
-              "name": "Meta",
-              "pct": -2.0,
-              "dir": -1
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 0.7,
+              "dir": 1
             }
           ],
           "category": "semis"
@@ -610,6 +616,22 @@
           "category": "defense"
         },
         {
+          "title": "El Ministerio de Finanzas israelí transfiere a Defensa casi 4.400 millones de euros para el Ejército",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOS214S0k1ekNhZWxIcVNjWkh5dU02UUN5bTRUS1FVMW5SN0dpejNkOWxyMEVlWTJrd1dRMlo5Z0NRVUJ5ZlpDZUZ5REFlVE1pUEZ1MEgxOTd2Q1lWY09BQml2SjlnWlhGZzlka0oxdkRuVnptVU85VjFqOGpZcHhuc2d2Rkl5UmVpaFItZlpydDFXcldNRGZ0TFhacE5wRDJGaVZqSHZ0cElnRGQ0WHBWMjJIT1N2ZDFvYWFUQU0wdUtCWEtfaHlxOVJSeVlPdDMxZHV2VTNZQjA4SVpTZXBSZzZDUmdHZHPSAYICQVVfeXFMTnpabUxfZmFuNWpROUpudk5pVFVLMXowbE5GdzZ3TzlOSkVaZ0dQZmFDa2RQNGo2RUo5cXlWRy01emFQZHZLdXpnR0V5dWNFU1NIZGVVbm03MDNTX2ltZnRLY2dOMFJldXJUMjJrYnNpSHQ1b0lvd1k0d2lWdm9zem85OWNsMVJhdWRhajhMNW4tNmpyUDVvTkVVZklONDFyYzVLNG9DSjJuLVlhTDhVVG9KVzNBMlBaNUdXeHJzY3ZkOUVJRlJ0SE5XWE8tSGt1OWh4eGIxT0VxNVc0NmU1QThoT1VfcnA0UGpsWFktX3BGTHY2TUFwQ0lLb2dybnh0d0t3?oc=5",
+          "ts": 1782975600000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "defense"
+        },
+        {
           "title": "Comprar acciones de defensa europea en 2026: análisis",
           "source": "El Economista",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVpKMEEwWnlqb2tYSmhpZFpfd0dfcTRnMmpQYXdWNnhSVHVkSE1FQmxQYnkxaVF5RTBtLTlWaWZESEcxbDV4bGxENUNLWC1sNURuaEE4QjNHUENyTUY3Mmk3X2RUV2VLeHMzVXd0UGZ3VjA1Y0tHVlRtT083aElpTXU2SUZsdmtIUTdsMEc2VnR6aHFsWXFfUTZ0dW9JY0xSMnFuSnExZw?oc=5",
@@ -692,31 +714,21 @@
           "category": "defense"
         },
         {
-          "title": "El Gobierno gastó casi 35.000 millones de euros en armamento en 2025, según datos de la Intervención del Estado",
-          "source": "Diario Red",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaFFxRklBRV9MZlg0dXdnN21NQkozTjVTaFA4OWNTRkJ4OEsxd3BtNUs0VHhmZTkzUi1HcTNYSHVmRWNfVHBMbGtKcjJyZDR4Ml9IRDhoTVFrV3ZRejJrREFPRjNiN3VzTV9yY0N1bDBvUVI1S21NMWJxdm0yZFBsMmduN1o0YTlzbTN6MmtRMXBQRGt1VWtoMFhKNHBzS1NiM24zb05kMmZ5Qk9KcUxGVGpsWTIzbkVPd0tGSDQwUEoyNXo0UHVBRHp4RDhkQ2hqYjI3WUl2a0JvYzduOTVFd18tYmLSAeoBQVVfeXFMTlF0MEZkVXFFQjJxVVZYLVQzeU5MbEVMbl92VnZGUmM3ZXBhbjJUQm53STZzYl9acC1EQ2FaTVhyODhrYmVDTGR5ZEt0S1plRnZ5MmxyWXZtMUpaTmZlMTRDd2xGT3NMQ2VkZ216RkJmTkpxaGFWeHFxWDhuZXVlUHgyTFhMbFB3RzhoUDdUd0hoclZsV0ExRTFEYnNucXhJVHJERE9yVGFYaGc2bGk4ejdERWxEQmo5cTNRRWVfUnVjRTd4QWNrb0xtSnBMWDRpdGVBUVZncnc1Vm1lMEN5MWhfRGtFNV9LdlFB?oc=5",
-          "ts": 1777100400000,
+          "title": "Lockheed Martin, RTX y BAE Systems lideran los beneficios del auge militar global en 2025",
+          "source": "El Boletín",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOVdJS05qREJnXzFwMktBS2FBamVieVRZZG1UdkhpUEF5WWR1QVF3enIzNGNyaW1XZEE0T3A5c2ZhdUFadmo0cmVPanNMMFBsMGhDS0ZMTV9GcVJVUjZUZGNkRE44dlE4SVZ6X3JQRVhHSHg4c2xsQmpzbVJld0N6V3gyd2JYWVZxUFNOb3FBdVBpMk92TTB1WHJibWFwT05FaFF1RWJRejEzNHlTOHphS3dqLUlOd9IBuwFBVV95cUxNeU5acnFZUW9WTHd3MFBJN0dXaWFtZ0pkUjc5WDZXX2tzazZ3T1pJanhPZTNid0o2UTdWVEtYTlFGdUc0SnE2ZW50X0FpODlBRjIzTy1GMlV3eGxVRWdyMFA0RVpCNGl5aXhyb21qNG4zWjZIRkxZVkkwRWNNNzlUN05lRC1HZWZNWG1uejVzSkRhcEdySjJCR21hT01nbGx6WlNSWGlERHB4ODQ1WHByRlRMNGZDNzc2amt3?oc=5",
+          "ts": 1777273200000,
           "sentiment": 0.0,
           "tickers": [
             {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
+              "sym": "LMT",
+              "name": "Lockheed Martin",
               "pct": 0.4,
               "dir": 1
-            }
-          ],
-          "category": "defense"
-        },
-        {
-          "title": "Acciones de defensa: cómo invertir en el sector",
-          "source": "XTB.com",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBudTVNLWVieUkzZ1NFR2hxeUNUZVluRkVpcjBRbGxIcThOWUg4N2l3WUpKTkxOM1E0U3R6UjZ4U2poUXlwRk8yNWVjUW1wb2FXSkpXLUNyQkZZS19TYjJWSlNYSXhXTVQ2Y2FCNEJzTjdRQ3dERVhZMw?oc=5",
-          "ts": 1773855392000,
-          "sentiment": 0.0,
-          "tickers": [
+            },
             {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
+              "sym": "RTX",
+              "name": "RTX (Raytheon)",
               "pct": 0.4,
               "dir": 1
             }
@@ -1302,22 +1314,6 @@
           "category": "macro"
         },
         {
-          "title": "Las bolsas europeas apuntan al alza sin la referencia de Wall Street",
-          "source": "capitalradio.es",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQUJ6M2x4ZGpxaU9fU1pMVk1QbG5ORGszREt2OWtxd1hfNFNiNzJGVWJmbURiZTZMSklkMkQyZV8zQzF1LUdMNnAwVU84MktQekh5RG1CWmI4ZHFOUjN1bTRmcDZ3dkVNRXl4cTdYblNyY3licFdfTy1ERFd6ZmZXbWpkVXE3Y3lJaVl4aGRCektLTHdsWHZJTENTS05RUXVDWHlyUFRpeUl3NmRyYUZodnM5UQ?oc=5",
-          "ts": 1783059240000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
-        },
-        {
           "title": "Wall Street termina a la baja tras comentarios de jefe de la Fed - Mundo | Tvn Panamá",
           "source": "tvn-2.com",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdHBPY25VOVVQRXZjOHNQV0RYSkRkTVpDbm5EZWdaNlJTeHpPaUt5VkExcHJhbnRLZkJXRXNpZTRtTGFtSERvYy12YklaV3d2QmJzWF9WYWFoai1RbTRaRHRuZTg5TUEteXVkTGVOYkZQRVNLRl9SanlDT3lQTXRUaGphOWUyd9IBiwFBVV95cUxPOVdZS0otSmp5NjhpNTF1LW1ZeEgxT1h5WDhlMjA2OW9xbkk1Z0o0bEhJblh3eVNBZ09EYUV1Z1U4VnhEV2ZfbEVXaUFFbTNHREdqbWtMQ04tcnY0dTFRUFowOXBYNWczU0VrRGN2dVhhUHhqVFFKdlN1WWJpdmhqcGI1dDMzZUN2ZFJz?oc=5",
@@ -1390,6 +1386,22 @@
           "category": "macro"
         },
         {
+          "title": "Los índices de Wall Street cerraron mixtos: el Nasdaq y el S&P 500 ceden por las tecnológicas",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZjhUWlZPY0pKdEZHNzh0dE1hNEpHYWlvUmZOR1YzWTNSMVlrWkZvWjRDZ2VqdDJ4RE9iX0x3OE12ZXNWNlJub3ZhdWczeFlTSWstaGxDeEVGcGFXV1R5UUF0VGJGWk9WdG9kekpZTTd2MUxwWW1Sc29PaHNRclFWeW5XOHNCV2xJUU9tWFVTc2ZQSkpJVE41T1ZFTzdVakp4SmdQQlcyc0RnT2RadHlRczVwRGRHOWtSTXhROVNrZ2xlcy1oUjJZNWtTQUNPRmhOa3Y2Q1pmRE_SAfMBQVVfeXFMTWtpTExnV3Exa2FBSVRuaHFja1Vya2l5bENVd0NqOU9NNkdkek9nem9mY0ktTUZVQlRVcVQ0TVFhSnVoTUk4bTR0dWFpUUxtbWIxZV9RbERmMXBwbmhWQWpJZ1Vid1pqVWJKRU9mMkFBWHM1Q05sZ3g2TnZuQUJIY0RvMFRLd0JSWVp2T0ZxS2N2U2FRTEd3Y09Ed1F2U29EQThiMU1EcFo3SFNhOTY3N292ZjcyUVZWYVNieVF0OFdubDdoQU1LTmxSUlJUTTBsQnZHTVEyaEJZNGpLSmo4WmtWVGVmZXV2M3ZkTS02QnVQNjhN?oc=5",
+          "ts": 1782370800000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": -0.7,
+              "dir": -1
+            }
+          ],
+          "category": "macro"
+        },
+        {
           "title": "Wall Street y Europa ceden terreno ante el freno de los gigantes tecnológicos",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOME1Yc2xCUGhESnRKaGN5OHR0WkVfMmZqNmNjRGYyYkFtcVExeTNnUFdLN1Boalg3c0RvbkpKdnJNcWJsN0N6THJMMFFqUkdqc1NEVUU5UnZ3U2ZsRGVYYkZvTHczaGZ4WWxWalJHT1lDSVVMSkxfQlYyMU9tQ3kweUxsN08yZkpmZ01jU3dBdkh3a1dGTk9kMC04Q0VUQUVIQWRFd3NrdkRONW9sMHBkYjBhN2pldWZsdGtrcUg2Q0kxcjBDVWfSAeABQVVfeXFMTURVYjBNdGtXQk9xazdxTlY3YlAwQldYZkg1RmMxcUxPSndmZEY2ZU55ckJwX1A5UkdhRERWUXhWMHg2eW1OS2dXVGFSd19tVEpoUFlnZDNITDJrYTdHTE9hQlFFdHlZZkhwd3dzaUxFZGEyRl81ekdrMjFpYmJPTmtRLUMtTkRHU1NfTTJRVXVRSUZySXpRdk9tVFVUSzVnTWRmZ3lrLWxYT3ZNRzNkYm1GcHpBdWJZY3VpeF9JemNuQkVRVXJYM1FNV0JLUk9iQWx0aFRTcVNneV85THJxcnM?oc=5",
@@ -1450,8 +1462,8 @@
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 10.4,
-      "n": 8
+      "net": 8.6,
+      "n": 7
     },
     {
       "sym": "ASTS",
@@ -1460,10 +1472,16 @@
       "n": 2
     },
     {
+      "sym": "AAPL",
+      "name": "Apple",
+      "net": 3.0,
+      "n": 6
+    },
+    {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 3.4,
-      "n": 25
+      "net": 3.0,
+      "n": 24
     },
     {
       "sym": "AMZN",
@@ -1478,22 +1496,16 @@
       "n": 1
     },
     {
-      "sym": "AAPL",
-      "name": "Apple",
-      "net": 2.3,
-      "n": 5
-    },
-    {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": 1.8,
+      "sym": "META",
+      "name": "Meta",
+      "net": 2.2,
       "n": 2
     },
     {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 1.3,
-      "n": 3
+      "net": 2.1,
+      "n": 4
     },
     {
       "sym": "SPY",
@@ -1502,28 +1514,34 @@
       "n": 21
     },
     {
-      "sym": "QQQ",
-      "name": "Nasdaq 100",
-      "net": 0.3,
-      "n": 16
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "net": -1.0,
+      "n": 2
     },
     {
-      "sym": "META",
-      "name": "Meta",
-      "net": 0.2,
-      "n": 3
+      "sym": "QQQ",
+      "name": "Nasdaq 100",
+      "net": -0.4,
+      "n": 17
+    },
+    {
+      "sym": "LMT",
+      "name": "Lockheed Martin",
+      "net": 0.4,
+      "n": 1
+    },
+    {
+      "sym": "RTX",
+      "name": "RTX (Raytheon)",
+      "net": 0.4,
+      "n": 1
     },
     {
       "sym": "WTI",
       "name": "Petróleo WTI",
       "net": 0.2,
       "n": 23
-    },
-    {
-      "sym": "MSFT",
-      "name": "Microsoft",
-      "net": -0.1,
-      "n": 4
     }
   ],
   "ecuador": [
@@ -1565,21 +1583,6 @@
       "ts": 1783479916000,
       "sentiment": 0.5,
       "tags": []
-    },
-    {
-      "title": "Petróleo crudo en el Comercio de Panamá | Observatorio de Complejidad Económica",
-      "source": "The Observatory of Economic Complexity",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3I5aW5YVTM2ZmRFOHo5bHB2RTdESlE5QW1PbzNiMVV4ZHo5ZWlHc2R6N1c1Q1BERS05Nkw4M0Q1R2NkdlVXZXZkSTFRN3JONml3TXRyM2VGQWVRSkN5REFiYWtLZmJNeDRwc0I4OXpEVDFlVG1KdEQ0bFRnTVFqOA?oc=5",
-      "ts": 1783458502000,
-      "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "WTI",
-          "name": "Petróleo WTI",
-          "pct": 0.7,
-          "dir": 1
-        }
-      ]
     },
     {
       "title": "De Ecuador al mundo: los alimentos para mascotas impulsan un nuevo boom exportador",
@@ -1687,6 +1690,14 @@
           "dir": 1
         }
       ]
+    },
+    {
+      "title": "Congestión en puertos de China presiona el mercado del camarón ecuatoriano",
+      "source": "eloriente.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQzR1aktFY0J6a05fd2FLd1lhOXYxSkJTN3o2cEVrdWZUeF9nYTdIYnBGeHhxeldxcjE1VmdMWFNYM3cxYnE1c3NuMVJYc2RBczg3akI4WTlaWEF2SkdsT0IxdUZrYVRpSVlINW5peV9hOU42emRJY2dUNm1YTjZhbXM3bDVsMnc3dHAwZGZ6akIweDQyd0xZRTJkSTg2ZXR4Mm9YZGRnMjNFaVlwUWZlclFjanczUQ?oc=5",
+      "ts": 1781766000000,
+      "sentiment": 0.0,
+      "tags": []
     },
     {
       "title": "Riesgo país de Ecuador perfora los 380 puntos y toca su nivel más bajo desde 2014",

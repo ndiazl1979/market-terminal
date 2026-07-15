@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T19:56:24.654176+00:00",
+  "updated": "2026-07-15T20:56:34.089407+00:00",
   "categories": [
     {
       "key": "tech",
@@ -47,7 +47,7 @@
             {
               "sym": "TSLA",
               "name": "Tesla",
-              "pct": 1.9,
+              "pct": 1.6,
               "dir": 1
             }
           ],
@@ -63,7 +63,7 @@
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 1.9,
+              "pct": 1.6,
               "dir": 1
             }
           ],
@@ -177,6 +177,22 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Empleados demandan a Meta por discriminación con IA en despidos masivos",
+          "source": "teleSUR",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zRkhvX2Zfa3FWMEdfU2llVzV5NFhkdHJRQ2ZFMW81RXBnSEVyRDcxNVZkQ0ktYXRuNkN0QjZDY2wzUW04dDR3WG9DR2NhYWZ6dGV6ZktEZ3drdERjZW1FSlUzeS1ZN29ReTJqNUd2ZTNrQ1NSYVZNMkF3?oc=5",
+          "ts": 1784143747000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": -2.4,
+              "dir": -1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "NVIDIA elimina más de 50% de sus clientes de chips IA en Asia por riesgo de desvíos a China",
           "source": "DiarioBitcoin",
@@ -329,28 +345,6 @@
               "name": "Micron",
               "pct": 1.4,
               "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Nvidia cae mientras el mercado analiza los envíos de chips H200 a China autorizados por EE. UU.",
-          "source": "Benzinga España",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaThyVFQzNFdlMHZaTGF0OEZtb2xXQUdFY01YQXFfZ3lkdnV5a0NORUc0QWZYUWJhRlFSV0hwamFjNHNJWmVEWmN2Q1QtUktlcFpwU3JtSEVDOWN0NWxVZjdpQ1o0aG14aUo5ZzlYZzNJX0IwZVhyNnU5bUg2dmxiU0VGeGJmaGRuTWtzUkJVOUtmRThsZmM2cXZmaTZwU2FzVVYzaUsycDd3Zw?oc=5",
-          "ts": 1784120432000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": -3.1,
-              "dir": -1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": -1.7,
-              "dir": -1
             }
           ],
           "category": "semis"
@@ -776,34 +770,6 @@
           "category": "oil"
         },
         {
-          "title": "--Los futuros del petróleo crudo Brent y WTI suben antes de la apertura del mercado mientras Trump advierte a Irán de más bombardeos hasta que Teherán deje de atacar el estrecho de Ormuz.",
-          "source": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPajh3SHI4RUlnQV8zQzBzOVZxTDdpa3F4aS1tVXZ0YUN2QXpreG1xb2hCOFkyQ1VraU5UcXpHbWZrSnlXN0xwVHpqcHpqbzN5OVV1U2JiTFRsS0pkWVY2eGV4UV9HaDRZS2RLRHlXSEEzRkhuWXZUTVN6RVl2bGp4N2VmeGJLNGpGdnlNb1RKanUtdFZ4?oc=5",
-          "ts": 1784110203000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 2.0,
-              "dir": 1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": -1.4,
-              "dir": -1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "oil"
-        },
-        {
           "title": "El precio del petróleo Brent supera los 80 dólares tras la tasa de Trump en Ormuz",
           "source": "El Boletín",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSkczTVV4NktPZXBqbzRQYTdRTG9uRmpkMURSUm8tWlFsLVZJejRpZGtRcHR0bzZvb284cUczN3pMYS1tZkVIMFJVb2pFQjRUTDZYLUE5SXFuNEZra19Ia1lEa0hIQXB4aVVRcDBYbG1BUDY2QVFBSndId2lxd0E2eThXY0lKTEFNY0xOUGZoRHFxc01aRVc3c2hZcVV0Yy1hSUd3ck50MlVPWHZmUDhGVDF30gGyAUFVX3lxTFBKRzNNVXg2S09lcGpvNFBhN1FMb25GamQxRFJSby1aUWwtVkl6NGlka1FwdHRvNm9vbzhxRzM3ekxhLW1mRUgwUlVvakVCNFRMNlgtQTlJcW40RmtrX0hrWURrSEhBcHhpVVFwMFhsbUFQNjZBUUFKd0h3aXF3QTZ5OFdjSUpMQU1jTE5QZmhEcXFzTVpFVzdzaFlxVXRjLWFJR3dyTnQyVU9YdmZQOEZUMXc?oc=5",
@@ -939,7 +905,7 @@
           "title": "Sube el petróleo y caen los mercados tras la nueva escalada entre Estados Unidos e Irán en Medio Oriente",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRkxQS3pwdjVyaUNnN1B0cWFreXNGVWN4ekJ3RjlUSnM5dVFhZF9MOTBDUUJfTUNlQUowOUdFSWlkc2xXTlNhZmVLWjFuQl9hUVBFWjRzZThPeGhJZUFneG81N1pubS1nOTlmWHotaEk0bDhCWjk5dUlHeFFGeVNVUzdIVUhNRVc5T0U3TmRFVjlOUkRQbWZzVVlzYmZhSzlNLUx1eklfUXg5U1VrbjBVZ0NyQk5GSm5Tek9ZM3JvSVdsU1RCRGVLOVZzU3BKUTlsU19DaTlGbkRWdVV3S21JdFRB0gH8AUFVX3lxTE9GaVBOd0pGUnJ0QU9wdnhuNGdlY0JOTVNLa2dlOU9WeXZjdUludWw1OGJPZU1ZN1M2N0NfdGMtUnhwajhjLUNWWjQ5YnhUN1ltNUgtaU5fVFRmcnUzR252TWF5RUF0WUw1SXYwSTVKNXlDODI2aFM1dDc4TnkzX2pyYkloSVBXWUJtVWlLTkNDeEVRTEszNWxLbS1RZEdWMXVoZ2lKd1I3UWY2V0t0RFBrNUpialdpVzJRUlROMUEtakxfcVlTZGFYazBkVURJeUUyemNmTWZuYWZvMWFFelJwWFBmNTl3RGtMWE9iZnFmWjVKUS12NWJ1TkhTdA?oc=5",
-          "ts": 1783539580000,
+          "ts": 1783532700000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -968,6 +934,34 @@
           "source": "Inspenet",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVQlVGV2duR253WjB2VW44R2lLZVFaakJqczE1UEtFLVByNlY2Ym43WExFdjNIRndOWEMzMklRZnBFRzByTGxUTWlkdDdkT3dfNHFCbm9CUzFVc21ZenBtV081N1o2YTF4VzkzNTFWb0JuOGFGdDYyTllJQTA?oc=5",
           "ts": 1783524322000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": 0.7,
+              "dir": 1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": -0.4,
+              "dir": -1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 0.3,
+              "dir": 1
+            }
+          ],
+          "category": "oil"
+        },
+        {
+          "title": "--Los futuros del petróleo crudo Brent y WTI se disparan antes de la apertura del mercado después de que Trump dijera que el memorando de entendimiento con Irán \"terminaba\" mientras Teherán atacaba activos estadounidenses en el Golfo.",
+          "source": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd0NGVnRIeG1TNWtLZlZnT0dvMnl3X2x6TnVjcG91ZGVrVDVqLTBuYVBzVzhONVFpS0RrdUFRVXQtN0VlamdGcXJzT0cydzY2bTZFT0pOOW5KejVweUlidzU4cmdZY1BnSkRkUmVuOWJ6dXVZX1lCSEdWTTZWSTE5OUI2NXVWUEZGbGExZDhod3Z5RDNN?oc=5",
+          "ts": 1783500604000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -1354,10 +1348,26 @@
           "category": "macro"
         },
         {
+          "title": "Los índices de Wall Street cerraron mixtos: el Nasdaq y el S&P 500 ceden por las tecnológicas",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZjhUWlZPY0pKdEZHNzh0dE1hNEpHYWlvUmZOR1YzWTNSMVlrWkZvWjRDZ2VqdDJ4RE9iX0x3OE12ZXNWNlJub3ZhdWczeFlTSWstaGxDeEVGcGFXV1R5UUF0VGJGWk9WdG9kekpZTTd2MUxwWW1Sc29PaHNRclFWeW5XOHNCV2xJUU9tWFVTc2ZQSkpJVE41T1ZFTzdVakp4SmdQQlcyc0RnT2RadHlRczVwRGRHOWtSTXhROVNrZ2xlcy1oUjJZNWtTQUNPRmhOa3Y2Q1pmRE_SAfMBQVVfeXFMTWtpTExnV3Exa2FBSVRuaHFja1Vya2l5bENVd0NqOU9NNkdkek9nem9mY0ktTUZVQlRVcVQ0TVFhSnVoTUk4bTR0dWFpUUxtbWIxZV9RbERmMXBwbmhWQWpJZ1Vid1pqVWJKRU9mMkFBWHM1Q05sZ3g2TnZuQUJIY0RvMFRLd0JSWVp2T0ZxS2N2U2FRTEd3Y09Ed1F2U29EQThiMU1EcFo3SFNhOTY3N292ZjcyUVZWYVNieVF0OFdubDdoQU1LTmxSUlJUTTBsQnZHTVEyaEJZNGpLSmo4WmtWVGVmZXV2M3ZkTS02QnVQNjhN?oc=5",
+          "ts": 1782370800000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": -0.7,
+              "dir": -1
+            }
+          ],
+          "category": "macro"
+        },
+        {
           "title": "Wall Street cierra con signo mixto: el Dow Jones marca un nuevo máximo y Apple arrastra al Nasdaq",
           "source": "El Boletín",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMzZrclB0YkpTaVRzYXp6YlNNVDQwX3U1d2M2dE1VakdXWG1aNk9raF85NXZiWkhVTFU5cnpsQnU1MnJobzZqczN6Mmc5Vm9uR2d1a2x5TGo1bUVzM0EtTlVrLW1scXJ0MldxWWRkSkJHTWFoLUs0VmNNNUlUakptNTFnSlRHNnV4aDBBSXFCX3NwdlpMX2MyWERBZFFiSWF5SGEtNDFGQVlQSFA2SW8tYUYwdzdMTzI3SW1TMFZRb3rSAcYBQVVfeXFMTUJZb2J3a1ZTLXVMTl81aU1qZnp4Q2Npbm82T1JzNG95SmdJV3VNTXRPc3RtbEJJdEJPSElBMjB3UngwTWJUYmlndWt3OU9ScTNCOU1ORlpuck9oWHRBQWs3eGJLWG1udzNCNHl0bjFxWXYzbF9nQW9aUzlSUEtIYzZKRzhGc3ROd0M0QmM4eTZkWndQbElITWdZQWtteUZscnJkcDRDcUFBWlBCemxaMVhFZGVrRUNCN0prX3FmcHMtTnN2cUhn?oc=5",
-          "ts": 1782421645000,
+          "ts": 1782370800000,
           "sentiment": 0.5,
           "tickers": [
             {
@@ -1444,28 +1454,6 @@
             }
           ],
           "category": "macro"
-        },
-        {
-          "title": "El petróleo da un respiro a los mercados y las tecnológicas devuelven el pulso a Wall Street",
-          "source": "Cinco Días",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWVhnNWg3eVQ2eGgxNmExY1p6UWZNLW5hU3VtY2ZDZzZqUVJJbFZWQlRPR2NGNG1lNGh3Vk5rcS1mbVY0MnB3T1dzeDIzN1VTSlR3VkRHQW9XbUlCYWhkVVpYQ0tWNmpMTGpwNUgzakY4OHZIbVphYmJOUWIyT1NfS29MM1hJbGFVS2M0ZWNfYTXSAaQBQVVfeXFMTXlYWWZMMGo5MFVTUVp6VVgzdGFZNXA0dVBkUE04cmpDX2pvLUx2bXVUS3FUY2NZTmZ0RWR3NEJqRGlXc0pHNkZhelNXdnBTUHhSbEs0SXZkUUdHZ0FhdzV6YU9ZaTBFbHQ2M0dXM2tRMC1OVzBLZk15YVF0TXJ5ZmxNMHdSY0I4R3dqbHhjS25XaURrS1B1RXZQWVNzaC1NOWdiRTY?oc=5",
-          "ts": 1781766000000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 0.7,
-              "dir": 1
-            },
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
         }
       ]
     }
@@ -1474,14 +1462,26 @@
     {
       "sym": "AAPL",
       "name": "Apple",
-      "net": 10.4,
+      "net": 10.1,
       "n": 8
     },
     {
       "sym": "META",
       "name": "Meta",
-      "net": -4.8,
-      "n": 2
+      "net": -7.2,
+      "n": 3
+    },
+    {
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 7.0,
+      "n": 8
+    },
+    {
+      "sym": "ITA",
+      "name": "ETF Defensa/Aeroespacial",
+      "net": 4.3,
+      "n": 25
     },
     {
       "sym": "ASTS",
@@ -1492,14 +1492,8 @@
     {
       "sym": "TSLA",
       "name": "Tesla",
-      "net": 3.9,
+      "net": 3.6,
       "n": 3
-    },
-    {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": 3.9,
-      "n": 9
     },
     {
       "sym": "AMZN",
@@ -1508,28 +1502,10 @@
       "n": 5
     },
     {
-      "sym": "WTI",
-      "name": "Petróleo WTI",
-      "net": 3.4,
-      "n": 24
-    },
-    {
-      "sym": "ITA",
-      "name": "ETF Defensa/Aeroespacial",
-      "net": 3.3,
-      "n": 25
-    },
-    {
       "sym": "MSFT",
       "name": "Microsoft",
       "net": 3.2,
       "n": 4
-    },
-    {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": -2.3,
-      "n": 3
     },
     {
       "sym": "MU",
@@ -1538,10 +1514,10 @@
       "n": 1
     },
     {
-      "sym": "QQQ",
-      "name": "Nasdaq 100",
-      "net": 1.2,
-      "n": 14
+      "sym": "WTI",
+      "name": "Petróleo WTI",
+      "net": 1.4,
+      "n": 23
     },
     {
       "sym": "GOOGL",
@@ -1550,10 +1526,22 @@
       "n": 1
     },
     {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": -0.6,
+      "n": 2
+    },
+    {
       "sym": "SPY",
       "name": "S&P 500",
-      "net": 0.7,
+      "net": 0.2,
       "n": 20
+    },
+    {
+      "sym": "QQQ",
+      "name": "Nasdaq 100",
+      "net": 0.1,
+      "n": 14
     }
   ],
   "ecuador": [

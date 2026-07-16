@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T21:41:36.588795+00:00",
+  "updated": "2026-07-16T22:38:00.319842+00:00",
   "categories": [
     {
       "key": "tech",
@@ -145,7 +145,7 @@
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 1.4,
+              "pct": 1.1,
               "dir": 1
             }
           ],
@@ -189,6 +189,22 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "La estrategia de Nvidia con la industria japonesa para dominar la inteligencia artificial aplicada a robots",
+          "source": "Revista Mercado",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSWRKVGgyQ19XMmg0eFdFSDA0S0luY1dJOEpsZHZMMEtmVVhTOG5vZVNiZ0RzVlVkZ29iSlZVSDFrTWkzRXYxTVRWSlQ3WGJZc1JsMUdfZkdnaGVYdWozMkxsd2FKbUwyWGtTdW1OclZZcEFQY2hMOUFGNWVPaVdWWW1XUGlzTnlRekNyZW5LeWJ3TWltVEUzYVpQbkJGSEhyR2E2VUF4WmVITTY4dEhQNHZ6Vi01MFhYaXZ6cVhRejFjREpPaHpZWk1uNlZXbEp1NG5OUUxfNWlrMEE?oc=5",
+          "ts": 1784239230000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "La caída en bolsa de IBM reabre la mayor duda sobre la inteligencia artificial",
           "source": "Revista Mercado",
@@ -341,22 +357,6 @@
               "name": "TSMC",
               "pct": 2.4,
               "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Por qué las acciones de Nvidia bajan alrededor de un 2,5% el jueves",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SSDQySjRYQ2p3Q29NQnZuM0dTMVVzX3paenk3bHRHS2FiQ2JuNXdmUy1Ud3J3ZDlOLUtTdFhnZkV6QUU0cDRLdmt5Q05DRDJiRzBXSEtFMy1tWl9yYTM0V0RxUGJoUQ?oc=5",
-          "ts": 1784221551000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": -3.6,
-              "dir": -1
             }
           ],
           "category": "semis"
@@ -1474,7 +1474,7 @@
     {
       "sym": "AAPL",
       "name": "Apple",
-      "net": 7.3,
+      "net": 7.0,
       "n": 8
     },
     {
@@ -1526,12 +1526,6 @@
       "n": 18
     },
     {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": -1.1,
-      "n": 3
-    },
-    {
       "sym": "META",
       "name": "Meta",
       "net": 1.0,
@@ -1548,6 +1542,12 @@
       "name": "Micron",
       "net": 0.9,
       "n": 1
+    },
+    {
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 0.7,
+      "n": 4
     },
     {
       "sym": "WTI",

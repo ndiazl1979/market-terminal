@@ -1,10 +1,44 @@
 {
-  "updated": "2026-07-16T07:09:08.920963+00:00",
+  "updated": "2026-07-16T09:26:33.629815+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "TSMC bate récord de beneficios gracias a la IA de Nvidia y Apple, pero sus acciones caen en Wall Street",
+          "source": "Benzinga España",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObGNrSXpXQjBlcjM4bnc2UUxfVzUxWjRVWjJzMWF3UnFEdjBYUnp2SEhWWm52WEhWdWpMT29KZll1RDI3d1M5QWxrWHhsbW1LMEJwUnhCTGNsS0pzNzMxNHkyRnBTU19KSmlFV0V6S1l3N0tHUmRiRTBCX0Jwd281ajA4Z3lLczZrMEFwbUVBSmlQc3JCODBrdlF5QWE?oc=5",
+          "ts": 1784192855000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            },
+            {
+              "sym": "TSM",
+              "name": "TSMC",
+              "pct": 1.2,
+              "dir": 1
+            },
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 0.8,
+              "dir": 1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Acciones de Alibaba y Baidu suben tras aprobación de IA de Apple en China",
           "source": "Investing.com México",
@@ -148,22 +182,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Meta enfrenta demanda por usar IA en despidos: ¿riesgo legal para sus acciones?",
-          "source": "Benzinga España",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOW1PSnIwdXJQTk5GdUxIcjJEY1JONkQzZjJzRVYzSDlDUkhQaGV6VEJpQUhpZmRDclBsRVMxQ3JHWUs0NV9RM3FqRkdfaDl4Rm5DOUNTSm9YZE1jM3JsSF9lVUpLWmEzaV9CRGtMbWhEUnZ4UHJQeGJlOXU4VDZJVjNqcXVCak0ycEp5VWJxY3VidzlBZ1E?oc=5",
-          "ts": 1784097071000,
-          "sentiment": -0.67,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": -2.0,
-              "dir": -1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -172,10 +190,138 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "Jensen Huang obtiene otro pedido nacional: Japón anuncia la compra de los chips Rubin de próxima generación de Nvidia",
+          "source": "TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbElzVmJHaXU2QURIdURMb0czNU5sLWRUUlpLOVJna19kMWdfcUpiLWx3c3lXR2JicXN6aUVINERuZmNkS2puWGVOR254S004MDBZLVZsLURFXzlDZXd3c3FfWWZ6eXQ5OUhWc3VDcU55c1hxZnBqcVJrUzdxQjlMdHFqWExVRzVOYUxDYlo2QjVFUmQtQnFESHV2aWpEUHNuc1VsLUs0YThLT1Uya1hodk80aGVGSzNQRlE?oc=5",
+          "ts": 1784192490000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Fujitsu y líderes japoneses de robótica anuncian una gran iniciativa de \"IA física\" con Nvidia",
+          "source": "San Antonio Express-News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVExWVU9KNDhyUEozd0JKTEhENTdlaGUtLXowdS1OQXRSckx4RkFwcEZqQTQ4clFIdk5oaE1nMWFZMVJyZzFaTWc0LUkweVMtYTJoZDRCQ1h4bjJXTFMtdFRmTGRiZU9sSlFwWW53alhvWmpKZF85aUE4djV0YjQ1anhscUx0SFhrV0lLaF9jVVVXZ3ZyeG1FMTBJMVFtRkJH?oc=5",
+          "ts": 1784191729000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "NVIDIA anuncia los Jetson T3000 y T2000 con arquitectura Thor para robótica e Inteligencia Artificial",
+          "source": "Geeknetic",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWXVSY0JOejFQYmlENFMtS3FFR3BMakFUZ3dQSkRNa0Zmblc0SGQxV3lXUWZBcThBc2pkOGZjRkxPVnJqeE1FeUI1eWk3d1N3SHlBb1IwR01HT2l4VHFlaEd5TFROQnpjVGs0NXNmLXR3ODIwd2RHVC1jcm4zRkE0WnZaNDZ2bEtfTlg2TDFRRGtERkY4MHBOUTluYUdtaFoydU42NWZTc1NtMGw1WDZaZ0VyM0NsbjlnNGQzaGZKQkRMLUlkY2pNVlItaXNDOHJrNFpKSkc3amZKQmpwbmdJVUdWT0o?oc=5",
+          "ts": 1784191388000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Nvidia se asocia con empresas japonesas de robótica para el desarrollo de la inteligencia artificial",
+          "source": "TradingView",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBRakpFaFZhLURscVdVVW5CNWh2cWVUU3AxTm1saGZTRGxNWE1lZG5hRkQ0cmRqRWxubHJyX3NheTRTLUFRdFphSnoxbEgwcmlCUnNVdXRYYlNUQldTQ3VTLVFBS1VMVUVvZXpGXzBhVmdEaDVYTTZj?oc=5",
+          "ts": 1784191301000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "TSMC bate expectativas y dispara su beneficio más de un 70%",
+          "source": "XTB.com",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMUNWUmU4TElMdnU5bXVHRnFscWR0dU1EakFsUGtmYW5DaHpkS3RaU0VCbldDNGh0Q1NfOTlIY2RaeTdGU2tiWU5OX05neTJTVm42OXY1Z1dleFQ5S3pnTXRkZ3p6eFZkTkctb3NUb3VINWJrQUVGRUdJZlJWVWxUS2xhWmVyNERtRzluY0VuVDhpTVFFSHl6bVQ5V255TVBlMDFXWlcwdDJ3bHZ5YW5ORHZPaEJtYl9INWNGWmV1Wk53WmZlUWxMTHFmVm1wRnVYVTZpaW9TczBmZVdEbnhyMFY5RXY0ak1vUlFMai1DRHZJOG15aWtQcHl2Szk?oc=5",
+          "ts": 1784190673000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "TSM",
+              "name": "TSMC",
+              "pct": 2.4,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "TSMC apunta a otro récord trimestral impulsada por el auge de la inteligencia artificial",
+          "source": "DiarioBitcoin",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbVpHVDB1MWRUNWRieE1meGprc05ueHA5SVhoSm1BbmtfeWEwMTBZTHJlcWhveFhFZ3NmZ1BodFJNMU5HQ2tYeURhSmFsanRZU2pja3NwWV9oMjNOVTFKOWxac3pDeEVnRXE1eUNyS3VoMm94OHVWYlNxM1RVOGJHNUtCLTVOc3N0LWxfUDIzSXFsdHFsZ0R2MzU1dU9xdUlnUm5lU2xuR2lkZHdIamtPa1ZSRTJkd1FSdjl5NVVQOElhWEc5M1J2aWNn?oc=5",
+          "ts": 1784190336000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "TSM",
+              "name": "TSMC",
+              "pct": 2.4,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Down Madrid forma a personas con discapacidad intelectual en inteligencia artificial para impulsar su desarrollo profesional",
+          "source": "Servimedia",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUHR3R1RBSE4zRFlRVGh0VHVRb3BHTGctdF8yTWtnQmd0OVRoT2JmekV2Ml9ZUDFXNWZYaUJobUQ2VWVXeEZCcm5ucUl6Z0lQVlNsNG03Rmo2TzllSXhXVHNiZHd4dzA5TllpWnhBRGJZcE44QmJHMFJ3RUxhczVpbklzc0Q5SzFZSVpCQ0wzWEpYS1ItNEFqVmZvblVmc2gwc21BTE1ESHFobUhjM19YYkFSNkFGX0s5S0JhbVNnV0pUN3pPeWMtUVozTjE5amR3YlVSQS0zZExUcXFoeXZGNnF4LWtXcF9ESWxBYnFyYw?oc=5",
+          "ts": 1784189220000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "TSMC anuncia una inversión multimillonaria en EEUU y un resultado récord en el 2T",
+          "source": "France 24",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTW5wUkRIT3FYZ2hsWVpRZ3B5V3RfQmVjMHhKQmhEdG1oZEg1dUF2Nm5Dai15RldpQXdMUU5TN2xpc0UxM1VRcjVrR2dIbFAtd09GN2pTUmlWYXFMci1fOV9DXzlFTVlsUmhSM3h5d0F1cGtmTXZpTlFnMzM1X1hVbUdObFMtY1dndjNyVHBfSmM3NWwyY2tVQnFZN2pjUjhGOTU4eHBTZ0paVkt1TTJIM0UxNGdZLXFOZmFvOXdMZVNWZEZFSXhfeU9taFhFRmxLUVN2TGZCM3JLT3Js?oc=5",
+          "ts": 1784187075000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "TSM",
+              "name": "TSMC",
+              "pct": 2.4,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Fabricante taiwanés de chips TSMC promete otros 100.000 millones para ampliar capacidad en EEUU",
-          "source": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWEpDRllMSFpfbXRIMko4WDBZT3lkOEItRnlaQWdyaVNxYkZoWGxEYm8xV2JCdkdXc01obHczbnlpZFNzRk90Q09sYU1vaUlWbWlhUjJhVWFhdXZ3SzlNb2xCNjhhbUJwY2pTdmtBRDZPcXBIN2hVSHF1ZC1mbnJmSmJnMzA3aFJ4d1lBQWJqMmhkS1BYZWFyOWkzU1NjOTM5?oc=5",
-          "ts": 1784185260000,
+          "source": "Midland Daily News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTjhJd2toa0pQeXpTcVg5OFVzQ0FZVV9mV1FUSnpUNVg5SG5fVXhZU0NCT3NvOTZwWVJNVVREWTBqU3RBYWYxM2ZrT1NNVnZCOEI0V3JMZ2p0bEVTdUExVEg1UWgtTkVvUFlubG9uYVJpNklWdGN4YXkyaGNpYjhEWmZoOU1PMGpFLW5zQVhOVTBlcTl6RDlQNElkNGFZbFlPTDdaQ1Judml0dw?oc=5",
+          "ts": 1784186426000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -194,156 +340,22 @@
           "category": "semis"
         },
         {
-          "title": "TSMC gana un 77% más en el segundo trimestre gracias a los chips de alta gama",
-          "source": "Bolsamania",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOclVoaDRyUUR6OVNjYTBjVEhRaHpGMmNkY0dpeGVkdTRQY0duU003YTlJZFRKN2pzUGV6d1dGeVVDUzRLeXVOSmZUb2VTeW9RZVVrSGNKMl9SRU83ODlYQmFGcFpYbHN3OTR4bTRGMHdpNnpjcUNUU0VZWDJLUnhqbUZoYjZHR3NRQzZtcE9SOHpyOFBfam9kQ0tXZmhtYWtOLThNNnJRdnJiLTVlTVk3NGxlNC01ZG01Mk8ySG9nTDd6eHRjT3NhbtIBzgFBVV95cUxOQVFubWFCZFV1d3lGVUNFb2I2ZXhad1JNMVBxZEVFUENUWlZJTm8yRkhIV1JBNkliTk5WMXQ4aGdKdlBrMVN1Z0VVV2s0TEZON1NUN290TUF6aFVyczVWQXF3a0ZFb3FKR290dGFmVHdDUElSQno0dkhPaTU3WlRjc2VtZDFuMWkzNzg1cjZDdXF4dS05YlhGeElaU1NRSk1wZmlveUR4Z3JKZ0pFV2Q5V19ZQklWb0xORmJXR0pTSVVpQ2ZwYUtJZlpTem8ydw?oc=5",
-          "ts": 1784184704000,
-          "sentiment": 0.5,
+          "title": "TSMC destina 100.000 millones para aumentar su producción de chips en Estados Unidos",
+          "source": "Cadena 3 Argentina",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYjNsWmxuWURrMlYzRVdCbDZKUDY0VGNmV3FTdk81UEptQnhnVHI2WkdRTC1VdU9TQUpobEdJT243VnczRWw2dmFnWlJTYVo2bjRKS0tVU1hpVFFVdks0b2pKYUY5STdFSVJrVVNNOU5OUHVUaFUyR0ZweW5TeUVobzctOU52T3Z3S0Iwb1R6bVBSblRhQjBDeW1xWmdLNUJ4UzNEWlU2LVpwTXo5UjFTRkFwWXFuRXE3OTUwdEJ2Rmk1bkxINTM00gHMAUFVX3lxTE5EclhYb1hBWlc0S2VzdlMycUE5RXp4ekUxWWtKa2RJZWlTaGx0a04zdW5neFJmOGpNVzlSdTc1MWdUa3dYUmRWalVNSHAtMDAzWTM1THJfSk9pOXZHcWViZ2NRbUlWRU45Y3dDaUdubFpvcEVoWEFtS1c0cG9PX2g2Z29vWHM5cmlmS1ZGNmViX2hDcGtaRGR5VzdGZXVsQUU4aFpPY2xIOGZ1NmFOUGs4T0NWTGVVczk1OGpLWHBPdGtLUUNBdW5tWlZ4UQ?oc=5",
+          "ts": 1784185862000,
+          "sentiment": 0.0,
           "tickers": [
             {
               "sym": "TSM",
               "name": "TSMC",
-              "pct": 2.4,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "TSMC supera las previsiones de ganancias gracias a la fuerte demanda de chips de IA",
-          "source": "Bloomberg Línea",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc0hQVkNQWDItQnVpQnpyckQ1dC1QbUhWQk8waUZWNk5oVTVJMlRhZWdwZHUzQVczMzJGMGo1ZDh4VjNhd1ZCdUtJaUlvSEZ0Nkl6eUN2VG9CR0p0WnFyeHQ5NzdmNVlTal9wWE41VExlcEp3ZUFPeXUxc3UwS2dUZm9pSVFrOTlWQVp4MEZEcnlRbWZod1NLZjdkdkR1TFJwR1hkaTQ1YjRoVU1aYmgtcGZWTXhaZXNJWkdMbDhiZThPd9IB1gFBVV95cUxPOVo4OWFySGlrMElkUnBpZ096UUo5Zjdlc3lqaENuNkxEcklfRlNndFVOWTNHUVp0SFBqelg2SXE1MUlHSFdjc1ZsUjU0QWRwYXc4LWgwcEo5QVY2SUFTOUxhWEJmWHowZjQyQ0NrRDBSdTBneTh1eVV5NWV6NC1PXzRRQmZwWjFyNzdibGQ0aS12R09YU3J4aUNHWUdqaW8xcXJMYUMtUy01TGl2WjRVR0tNX1BRVjhsRHFXVVVEZTlpc1RVR3NKeGtKWWZpTXRZNHZuajlB?oc=5",
-          "ts": 1784184250000,
-          "sentiment": 0.4,
-          "tickers": [
-            {
-              "sym": "TSM",
-              "name": "TSMC",
-              "pct": 2.2,
+              "pct": 1.2,
               "dir": 1
             },
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "TSMC gana un 77,4 % más y bate un nuevo récord en el segundo trimestre ante el tirón de la IA",
-          "source": "EFE - Agencia de noticias",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VQnp3WmswNmNWVU9fQVNxdG5UTHFJY0lNUjZmb21mTGtBYnZCODNoUExRSDFmazktMTZESHJSSm13cVlSeE94eWt3MGYzeWlMS0Y0cVhtOEczZi1OQzA4UWNlZjZBX2hzZmliZTBfNzJNSnU4OHZrT0R3?oc=5",
-          "ts": 1784182503000,
-          "sentiment": 0.67,
-          "tickers": [
-            {
-              "sym": "TSM",
-              "name": "TSMC",
-              "pct": 2.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Japón y Nvidia se unen para crear la nueva generación de robots inteligentes y competir con China",
-          "source": "Business Insider España",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS2R5X2cyaG1JWldiSkNVZzVLYmxKb284UV8zeXZUUkJmcVo0QkhST29zRTYwZWpGS2p4ZHM0SUd3UVc2VC0xQTUxQXZ1UGV3TjFjS3pBUzl3alNfYUNkWHcyTlFnV1MtUG1NNENPT2JJVWpaajdMb2NtdTdUNlgzb1pKN2djOWI5dmxxb1lXV0dpckM4c21SdUpoOTlFWi1USFlhYw?oc=5",
-          "ts": 1784180845000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Venta de chips IA en julio de 2026: Nvidia mantiene su posición ante la caída",
-          "source": "Phemex",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12SUUwREZCYW4yeVljelp6VHpaVWtEMjhsY3pNUWNmZWJraUdQejBfWlQ4NnVDclU5cnJyWHBxT1RDTkZGN2RQaFJZUmR5c0dnTzhkQnJEZDk1VUJ4?oc=5",
-          "ts": 1784177241000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": -3.6,
-              "dir": -1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Nvidia y Toyota amplían su alianza para llevar la IA a ciudades inteligentes y fábricas",
-          "source": "Bloomberg Línea",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQW5FbEszMFdRQ2JCWWlMNXhJZXlwNlpsY00tQ3E0LTFWXzIwYnlvdnhiX01JNnAwY3RGNjI5Rkg1c1BpUDl6dzBzVGREMHJ2VlN5T2owWlV4Y2RZdEozVlBQdHJDZml0MXdaQi0xZjFoWGJNQ0FubzduWmtvbXpmZ0ZRVmYtVkpfQTdYNVFfSWhJUWdKYnZzNlZnbTFhSTU0WVF4QmJxTk5ITXVNazdsbllzbTJSMkRZa0plRUxfS2N2YWtPN2NkWUpn0gHeAUFVX3lxTE9vclF5WlViV1BIS3pOem1FNzRGVTNWcEV4VmIxbUgxUHEySU94Q0dNQmpvWklxRTBSczJPZlZ5cU9qbjl2Rm1zMlFhT3JpR3cycXNUY0RscC1tdFBYcjM3X1ZtbGlrcUdTZ1ZsOFk4VWIwXzZKYVZ3T205MmNEODBDQ2I3QkRRbnAxUmYyOXpMVGRLUDVGTUJZOGN5NTNELUNyZVo0bklFSktIXzRzSzhjQkthT0FGTnl6d3JsRjNTc0JPUWMtb3VLaE5HS3dkWHBjMWtKa2lCNzdQTld0UQ?oc=5",
-          "ts": 1784174547000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Bolsas de Asia caen; chip de Corea del Sur se desploma y TSMC en foco",
-          "source": "Investing.com México",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVy1fY2V2WFBvaGI3d3RNcGotYUFaRnFqQ1poR0tMQzV5REJTYWRHNUN4ZjJ1N1V6STJON2tXUVBBcjJXUk9lNl9SYng1OXp2UFNsVmVOWHJjc2hpbGhucllPWG0xZjJ5Tjl6VllXNHVha05UODNiWDFPblBzODlMZ2I1bXowNW1FTkdxUDV2enlrLUxSOVhYMEdpcXAyaC1NU25kdUVTdGV1QXFKX095SlNKUHJWMHRJOFhYbndSMFdLQQ?oc=5",
-          "ts": 1784172615000,
-          "sentiment": -0.67,
-          "tickers": [
-            {
-              "sym": "TSM",
-              "name": "TSMC",
-              "pct": -2.8,
-              "dir": -1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": -2.3,
-              "dir": -1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "TSMC apunta a otro récord trimestral impulsada por el auge de la inteligencia artificial",
-          "source": "DiarioBitcoin",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbVpHVDB1MWRUNWRieE1meGprc05ueHA5SVhoSm1BbmtfeWEwMTBZTHJlcWhveFhFZ3NmZ1BodFJNMU5HQ2tYeURhSmFsanRZU2pja3NwWV9oMjNOVTFKOWxac3pDeEVnRXE1eUNyS3VoMm94OHVWYlNxM1RVOGJHNUtCLTVOc3N0LWxfUDIzSXFsdHFsZ0R2MzU1dU9xdUlnUm5lU2xuR2lkZHdIamtPa1ZSRTJkd1FSdjl5NVVQOElhWEc5M1J2aWNn?oc=5",
-          "ts": 1784169081000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "TSM",
-              "name": "TSMC",
-              "pct": 2.4,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "La inteligencia artificial de Google es sorprendente.",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpRFJMR1JCZ0VjTk1udDYzQnctc1RrVzBKc2xNWmtZdklKLWF2R0NlOC1rS2xfcktnZkpieURHLXhDTF9yQU16cEJNTElQZXJyeG9CU0twQnVGaG5oRm5aOQ?oc=5",
-          "ts": 1784161521000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 0.8,
+              "pct": 1.0,
               "dir": 1
             }
           ],
@@ -513,7 +525,7 @@
         },
         {
           "title": "SpaceX adelanta a Amazon y se convierte en la 5ª empresa más valiosa del mundo",
-          "source": "Euronews",
+          "source": "Euronews.com",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTWhKVmRqM2l1b1ZGWTlpNDRtQjhrYlBqMUpsZHRwOVBHeVZ4UzdfdF9kemxMVXZ3c2pmbjdGRmthNGNPOV9ZQS02ajQ0SGxYT3hPbUNVWDZvTmRDNWRHWjVBbWpPVVpBdVJtenNtemhqMW44LWRjTkpxSk96ZldJc0tlQy1lN0dIY291OU9NemM0UkVzcDRwa2gtX1FMaXdZSERkWFAzYmxqWVU3LXRNOW84ZXcxYUtSdTQ4WWtR?oc=5",
           "ts": 1781679600000,
           "sentiment": 0.0,
@@ -533,6 +545,34 @@
       "key": "defense",
       "label": "Defensa / Armamento",
       "items": [
+        {
+          "title": "La UE sella una asociación industrial de defensa y un acuerdo de drones con Ucrania (1.000 millones)",
+          "source": "moncloa.com",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYzhpYjJFZXpESk5SSzc4MEg3QVN0TTRTdmx2eHJVcGUwaGJ4cktyaDNCTDJxWXV1U2ZWWkotaUc5dUJSWjFHQ2hZS1pNcVFnWE9ieXp0dEg4dE41d0drem1UenZnOVlzNjZsY291cXNHUDgyc1BqbXZaLUtuNUtPN0Rxc1p4TlpKTGc?oc=5",
+          "ts": 1784189220000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -2.4,
+              "dir": -1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 1.6,
+              "dir": 1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "defense"
+        },
         {
           "title": "Ante la disminución de sus arsenales, Estados Unidos anuncia un paquete de inversión en defensa de casi 10.000 millones de dólares.",
           "source": "Vietnam.vn",
@@ -660,28 +700,6 @@
           "ts": 1782802800000,
           "sentiment": 0.0,
           "tickers": [
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
-        },
-        {
-          "title": "El Gobierno destina más de 5.000 millones a gasto militar: munición, equipos, mantenimiento de los Falcon, satélites…",
-          "source": "Libertad Digital",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONXVFT0hBRFVWMXdIWDh5ekNldjZIUTVOUnJPU0doTW80NXZPZms2ckZsREltYmJULU1MU0JKSHBmSmtvZEY4Zld5UFdSUGtmbUd1V1E0OGpCVmhQRFFXb3BOOUZfdVBSMkd3TWc4WEwzcEpDQlduQnZ5WXJVTW14bW5FQzE5RWdKWE5OXzZGRVVsaFFvRGlqeTVzNVkySXZlYU1RS3pXTy1JdjlXNjBEYU5hYlRnaFpiTDNFQ3IySF9UNFRIYmRqdGRYTEhWd1EzYmJRRWUtd1dmay1GUllVVnEwUXRPdklpaXhDNnNSS3BaYlJEZ25qWHpueHFXeEhzQWfSAYwCQVVfeXFMT2lRZi1KSDZ1Yk5tV3RHOEZWZUdYMjhpc1NtVll5cElTcnVKYnpPLTA0WWZhd1AyWjFuSFVUNWxIU1gtaDVta1Myd2kwN0xCa3F5b3dvSkNIVEtwZjJVVmxGZXZRT1I3S0VhV2Y0RkFDWmtUeWM5QV9KbkFJdDdQdWxSTnNkLS1ra2I2SFkyR3h1dlRrY05HNmg4MnJMTjJuSWVPX0xVYWJqNXg2SjhoeWdsSzBfSUNRc2JQWE51cFV3Nm9nX3RaTnlIeVhGTFRia29pSWRLTFRqYW13UDBYRnktV3drTjZRejZXUjczZS1xclFSSnpleDNMVVVFQU9oa3dEZVJkOC04UTl5VA?oc=5",
-          "ts": 1781679600000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "ASTS",
-              "name": "AST SpaceMobile",
-              "pct": 2.1,
-              "dir": 1
-            },
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
@@ -918,10 +936,10 @@
           "category": "oil"
         },
         {
-          "title": "Sube el petróleo y caen los mercados tras la nueva escalada entre Estados Unidos e Irán en Medio Oriente",
-          "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRkxQS3pwdjVyaUNnN1B0cWFreXNGVWN4ekJ3RjlUSnM5dVFhZF9MOTBDUUJfTUNlQUowOUdFSWlkc2xXTlNhZmVLWjFuQl9hUVBFWjRzZThPeGhJZUFneG81N1pubS1nOTlmWHotaEk0bDhCWjk5dUlHeFFGeVNVUzdIVUhNRVc5T0U3TmRFVjlOUkRQbWZzVVlzYmZhSzlNLUx1eklfUXg5U1VrbjBVZ0NyQk5GSm5Tek9ZM3JvSVdsU1RCRGVLOVZzU3BKUTlsU19DaTlGbkRWdVV3S21JdFRB0gH8AUFVX3lxTE9GaVBOd0pGUnJ0QU9wdnhuNGdlY0JOTVNLa2dlOU9WeXZjdUludWw1OGJPZU1ZN1M2N0NfdGMtUnhwajhjLUNWWjQ5YnhUN1ltNUgtaU5fVFRmcnUzR252TWF5RUF0WUw1SXYwSTVKNXlDODI2aFM1dDc4TnkzX2pyYkloSVBXWUJtVWlLTkNDeEVRTEszNWxLbS1RZEdWMXVoZ2lKd1I3UWY2V0t0RFBrNUpialdpVzJRUlROMUEtakxfcVlTZGFYazBkVURJeUUyemNmTWZuYWZvMWFFelJwWFBmNTl3RGtMWE9iZnFmWjVKUS12NWJ1TkhTdA?oc=5",
-          "ts": 1783532700000,
+          "title": "Precio del petróleo sube por tensión EE. UU.-Irán",
+          "source": "Inspenet",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVQlVGV2duR253WjB2VW44R2lLZVFaakJqczE1UEtFLVByNlY2Ym43WExFdjNIRndOWEMzMklRZnBFRzByTGxUTWlkdDdkT3dfNHFCbm9CUzFVc21ZenBtV081N1o2YTF4VzkzNTFWb0JuOGFGdDYyTllJQTA?oc=5",
+          "ts": 1783524322000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -946,10 +964,10 @@
           "category": "oil"
         },
         {
-          "title": "Precio del petróleo sube por tensión EE. UU.-Irán",
-          "source": "Inspenet",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVQlVGV2duR253WjB2VW44R2lLZVFaakJqczE1UEtFLVByNlY2Ym43WExFdjNIRndOWEMzMklRZnBFRzByTGxUTWlkdDdkT3dfNHFCbm9CUzFVc21ZenBtV081N1o2YTF4VzkzNTFWb0JuOGFGdDYyTllJQTA?oc=5",
-          "ts": 1783524322000,
+          "title": "--Los futuros del petróleo crudo Brent y WTI se disparan antes de la apertura del mercado después de que Trump dijera que el memorando de entendimiento con Irán \"terminaba\" mientras Teherán atacaba activos estadounidenses en el Golfo.",
+          "source": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd0NGVnRIeG1TNWtLZlZnT0dvMnl3X2x6TnVjcG91ZGVrVDVqLTBuYVBzVzhONVFpS0RrdUFRVXQtN0VlamdGcXJzT0cydzY2bTZFT0pOOW5KejVweUlidzU4cmdZY1BnSkRkUmVuOWJ6dXVZX1lCSEdWTTZWSTE5OUI2NXVWUEZGbGExZDhod3Z5RDNN?oc=5",
+          "ts": 1783500604000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -1248,6 +1266,28 @@
       "label": "Macro / Bolsa",
       "items": [
         {
+          "title": "Bolsa mexicana sube impulsada por menor inflación en EU; Wall Street también avanza https://mile.io/4vyR1aO",
+          "source": "facebook.com",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZ0NRTUMyZ25nc2VLbHhDTzEzMWtrNDQ2bUktUjVaOTlGZG5QSWtudVlqUnpIR1h5TFJqdzEtTi1UVGpqejJLcENDcTVfTUphTlZYdm00amxTWjNBTDBjdFExZVRHNm9VODRyX0dpOHZfYkJvMXA1eE9pcFhQcTk0VmNUeTdrUEI2REFieGNXa08tMFF1X3djY1RTZUpaelJqajNPUUJVeGJQMW9CTGhpUkx1NXZWMi14UHd0R1BaR0hoM09hb1BfZ0FTblZ6WXVIYTJPNkMzTm5HUC1mLWoxWXF6UzdGQ0dD?oc=5",
+          "ts": 1784078781000,
+          "sentiment": 0.67,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 1.1,
+              "dir": 1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "macro"
+        },
+        {
           "title": "Bolsa mexicana y Wall Street suben tras dato de inflación en EU",
           "source": "Milenio",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLWlxX294T3NpZjRUZlJPV255aE9KejFxVzJtVFRCb2F4S3gyMS1majVERWJveW95ZHlVaDdHV0RjVmllN2RJZE9yQ2xHa0hRYmV1YlpoZHNzMEJiNE1xcElZSC1jcWdGa2cwcGpGWUt4djA5RWdlTWQ1eE5wSXdhd3RuY0ZvQTN5OTMzcXhWX2ZfbFB0NmF6bl930gGaAUFVX3lxTE9LS0VMUDNNSDBIeEFtdHo0OHR0STJGNVlXODZLd21WWGQwWUk3WHNfTnhTSWN1ZUpJQ2o4ZlRYZ0hPREpiNGRHdExfVE85OUNLOHI5bmI1bVItel9MMzdmLWxLYXhGcGlqMWdnTEdXbUluWWRKTXZvRF9kUUJTX0NlOTNtcUpQN0cwOTRzZ3c1X1JMZXJMbkhCU3c?oc=5",
@@ -1396,6 +1436,22 @@
           "category": "macro"
         },
         {
+          "title": "Las tecnológicas arrastran al Nasdaq y al S&P 500 en un cierre mixto en Wall Street",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMGFNazgwamFERDdkZXp3THlqRGhROUFGRGlOVHltME5IUDZaTlVDdHFCNl96WWl4WnFPZ1doRTF4dV9IX0x4aDRqUE1RLUxyYW5ncERYZThPak9kNXFmNm1HVnF1S2ljMDVMdnRJU0hrSXdEeUNZcXJZRjBLc2tESDRFVk1oV1BRRkJmZzJITGljX0NicTVIcGpyVExiTXU0d29mNERJRWgyZUQ4V3pvaV9CamhvSDNhTFRiZDhha3JHZjlQcDZtT0lJMU3SAecBQVVfeXFMT005SHR3TUxnbDlLMTR0SUZkUVVXZEl4Z0pyVmgzZkl0dHlGSTdocWJPOXZHMUh2OTR6SGRqeTJQZ1ZRSG5lY0JnNU1qZjFmMFVhckJNTTJlRjc1VGxPY3JnS0hYX0tVUWNaMVRhUGxpbE5OODBObnYwWFp4cGxmRUJ4SmhJNEtXMG1WenRBeDVWM3RWUFc1aEpSUlRaTWhSTHhpdHV5TUtsQUFtQ1VkcE83TDZYWEJ4SVFQbk1OcDFkdEZvS2FHU1VFRldZWXFqNWZkZHpHV002Z0J4RjcwM2NVay03T2tB?oc=5",
+          "ts": 1782284400000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "macro"
+        },
+        {
           "title": "Wall Street y Europa ceden terreno ante el freno de los gigantes tecnológicos",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOME1Yc2xCUGhESnRKaGN5OHR0WkVfMmZqNmNjRGYyYkFtcVExeTNnUFdLN1Boalg3c0RvbkpKdnJNcWJsN0N6THJMMFFqUkdqc1NEVUU5UnZ3U2ZsRGVYYkZvTHczaGZ4WWxWalJHT1lDSVVMSkxfQlYyMU9tQ3kweUxsN08yZkpmZ01jU3dBdkh3a1dGTk9kMC04Q0VUQUVIQWRFd3NrdkRONW9sMHBkYjBhN2pldWZsdGtrcUg2Q0kxcjBDVWfSAeABQVVfeXFMTURVYjBNdGtXQk9xazdxTlY3YlAwQldYZkg1RmMxcUxPSndmZEY2ZU55ckJwX1A5UkdhRERWUXhWMHg2eW1OS2dXVGFSd19tVEpoUFlnZDNITDJrYTdHTE9hQlFFdHlZZkhwd3dzaUxFZGEyRl81ekdrMjFpYmJPTmtRLUMtTkRHU1NfTTJRVXVRSUZySXpRdk9tVFVUSzVnTWRmZ3lrLWxYT3ZNRzNkYm1GcHpBdWJZY3VpeF9JemNuQkVRVXJYM1FNV0JLUk9iQWx0aFRTcVNneV85THJxcnM?oc=5",
@@ -1410,38 +1466,6 @@
             }
           ],
           "category": "macro"
-        },
-        {
-          "title": "Por qué una Fed más agresiva no asusta a Wall Street",
-          "source": "Invezz",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb1U3cEc5MnJfRWlUUWhvVG9NeWZjR0lTSUF2XzBYbTlXcFVDcTlYTVB6Zkx1N0o0TkpSRkVqZUE1TkFaSW05MnpwTXZhMEsyV3czSDFHanJ4ampsVW5tZ0NLcmVWa0xzenZZVTZURHBkdERMMHh2V2pKMW44YktTdHVWcmJTUV8zci03cWdXUm1BTXJQTHg2bEZSdw?oc=5",
-          "ts": 1781938800000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
-        },
-        {
-          "title": "Wall Street cierra por ser festivo en medio de incertidumbre",
-          "source": "El Horizonte",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUkp0NXBmbXFwRnpVQXgxbGthVnVvWTVRS3VDS3htVTRqenE2NE1jQ1dLZ3VuV2xoRThITlFyOTEyR3lwTlFZbXBSaUptMkhnck1kR3dVbHZDQUJ1QXhvN3AwdnZUN0NmUFJNM0ZUNGVIeXZTNmpqWGRwWEpCdm9wTEdZb0NpYlpPX1UxS1l5aFVIM1BmWnUwWmdybmpkLXdxOXBFY0NPdlM3U2M?oc=5",
-          "ts": 1781852400000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
         }
       ]
     }
@@ -1450,32 +1474,38 @@
     {
       "sym": "AAPL",
       "name": "Apple",
-      "net": 10.1,
-      "n": 7
+      "net": 10.9,
+      "n": 8
     },
     {
       "sym": "TSM",
       "name": "TSMC",
-      "net": 8.2,
+      "net": 10.8,
       "n": 6
     },
     {
-      "sym": "ASTS",
-      "name": "AST SpaceMobile",
-      "net": 4.2,
-      "n": 2
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 10.0,
+      "n": 6
     },
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 3.7,
+      "net": 4.9,
       "n": 25
     },
     {
-      "sym": "WTI",
-      "name": "Petróleo WTI",
-      "net": 2.7,
-      "n": 23
+      "sym": "SPY",
+      "name": "S&P 500",
+      "net": 3.1,
+      "n": 21
+    },
+    {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 3.0,
+      "n": 3
     },
     {
       "sym": "TSLA",
@@ -1490,28 +1520,28 @@
       "n": 3
     },
     {
+      "sym": "ASTS",
+      "name": "AST SpaceMobile",
+      "net": 2.1,
+      "n": 1
+    },
+    {
       "sym": "AMZN",
       "name": "Amazon",
       "net": 1.8,
       "n": 3
     },
     {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": 1.3,
-      "n": 19
+      "sym": "QQQ",
+      "name": "Nasdaq 100",
+      "net": 1.7,
+      "n": 17
     },
     {
       "sym": "META",
       "name": "Meta",
-      "net": -1.0,
-      "n": 2
-    },
-    {
-      "sym": "NVDA",
-      "name": "NVIDIA",
       "net": 1.0,
-      "n": 4
+      "n": 1
     },
     {
       "sym": "MU",
@@ -1520,16 +1550,10 @@
       "n": 1
     },
     {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": 0.8,
-      "n": 1
-    },
-    {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 0.5,
-      "n": 3
+      "sym": "WTI",
+      "name": "Petróleo WTI",
+      "net": 0.3,
+      "n": 24
     }
   ],
   "ecuador": [

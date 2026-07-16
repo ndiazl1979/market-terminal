@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T23:54:15.780516+00:00",
+  "updated": "2026-07-16T01:29:32.943932+00:00",
   "categories": [
     {
       "key": "tech",
@@ -178,6 +178,22 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "La inteligencia artificial de Google es sorprendente.",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpRFJMR1JCZ0VjTk1udDYzQnctc1RrVzBKc2xNWmtZdklKLWF2R0NlOC1rS2xfcktnZkpieURHLXhDTF9yQU16cEJNTElQZXJyeG9CU0twQnVGaG5oRm5aOQ?oc=5",
+          "ts": 1784161521000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 0.9,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Empleados demandan a Meta por discriminación con IA en despidos masivos",
           "source": "teleSUR",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zRkhvX2Zfa3FWMEdfU2llVzV5NFhkdHJRQ2ZFMW81RXBnSEVyRDcxNVZkQ0ktYXRuNkN0QjZDY2wzUW04dDR3WG9DR2NhYWZ6dGV6ZktEZ3drdERjZW1FSlUzeS1ZN29ReTJqNUd2ZTNrQ1NSYVZNMkF3?oc=5",
@@ -187,7 +203,7 @@
             {
               "sym": "META",
               "name": "Meta",
-              "pct": -2.4,
+              "pct": -2.0,
               "dir": -1
             }
           ],
@@ -203,7 +219,7 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             }
           ],
@@ -219,30 +235,14 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": -3.6,
+              "pct": -3.1,
               "dir": -1
             },
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": -2.0,
+              "pct": -1.7,
               "dir": -1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Microsoft corrige 570 vulnerabilidades con ayuda de la inteligencia artificial",
-          "source": "DiarioBitcoin",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVlB5aGJtWDk4TGVTZ243Y0prYjdVMGZNZnpfcDExOGpRVHVDTDhsdENSSHA2d3NkQkpZMmZsNVJUeUJiYzE0MUNqS1ZUQW05eXQ4d0pPWkMwYWc1YmpMWl9oejdxNndsbmpoc1FMMmNteVN2VXczTlFKUEFZZXVFZzZYZEUtUFBDd1o2RWZiek1YNjl6TzVvT1F2UUdiNE9Kb2d1V0luTFhQVjNydjc0WXBHT2M4S0lBYWdrUA?oc=5",
-          "ts": 1784136768000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "MSFT",
-              "name": "Microsoft",
-              "pct": 0.7,
-              "dir": 1
             }
           ],
           "category": "semis"
@@ -250,7 +250,7 @@
         {
           "title": "Google Flood Hub: cómo funciona el mapa con inteligencia artificial que proyecta las inundaciones por el sistema frontal en Chile",
           "source": "EL PAÍS",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNFNSWGRqYmNGMTRBVkdUVjFTM0Z0bGRPaWEwazFITTZwSGt4RDBjQVhnVGh6c0dLS3U4aEk5Ums0UEZSMGE1UzFrN0pIQlp1VlJyU3VMTGRnZnlFc09vM1RFVHBBTmhhY25iNjdDYzZfWUYtb3BtZW5WQ0xyaVgwbjZDUlV1Y21kVUlkYlI0VUdoRWNaVUZrNlliNjMwU1FWbG5DUDZZRVZlRmxHdmhmNHNOb0duZUtCa0YwUVdGODJsZ2hNdjcxRk5pZnhqOG9fZFBfcjVXOFNoNFU0NGF1X2loVzkwZVdzYUkzUi12aXYxcldSWkZJQjcxVlJkdw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNFNSWGRqYmNGMTRBVkdUVjFTM0Z0bGRPaWEwazFITTZwSGt4RDBjQVhnVGh6c0dLS3U4aEk5Ums0UEZSMGE1UzFrN0pIQlp1VlJyU3VMTGRnZnlFc09vM1RFVHBBTmhhY25iNjdDYzZfWUYtb3BtZW5WQ0xyaVgwbjZDUlV1Y21kVUlkYlI0VUdoRWNaVUZrNlliNjMwU1FWbG5DUDZZRVZlRmxHdmhmNHNOb0duZUtCa0YwUVdGODJsZ2hNdjcxRk5pZnhqOG9fZFBfcjVXOFNoNFU0NGF1X2loVzkwZVdzYUkzUi12aXYxcldSWkZJQjcxVlJkd9IBkgJBVV95cUxPX2UtemdBclp3NElJT1d2YmVVeUE0Z3pHTEx0eEpKRHExTURYbzRNaWV4TXEtUEVtM0lhRGhtOXAtdVJ5V3JDYUl2TmxMeDNiZVBxcVFNREgwWXp1N0dGSFZHNVhaU2R4UkhZMElUNHBQSUxGVWtSNm1yLWxlemRWT1NrZEFGaHA3WWRVV3dyUThnLWZmYUViR1dyNXlsaFFJT1kzSjh4VC1RR0ZvTzYwREl2eDMybUhsQWdpalJaWG9BUENCalQtMnJXaWRoc09ZVFFvQTNVNjZvR3BSWjZGdEtOcTJ4bTdHYnNMSEoza0QyYUhWUzByOEZrLVdDLXRRUUg0ZkVRMlBGYzU2VnhVcGJ3?oc=5",
           "ts": 1784135657000,
           "sentiment": 0.0,
           "tickers": [
@@ -312,6 +312,22 @@
           "category": "semis"
         },
         {
+          "title": "Apple analiza una innovación que podría hacer más rápida y privada la inteligencia artificial en sus dispositivos",
+          "source": "Comercio TV",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZW8xVEs3YzN4WXl6SXJ3cUtScnNxQXdTb2kxdlhubFlKTnlvYm01VWFiVDlSczhOWmhwTXVPUS13ZmNEd194SDAzVUItRTVpRk9NckNOTjlJRm9NenZURG5mSkpJVWlzb1FZOWhfQm5uVHdfazF4cjFhUXh5NllaTVRNUnhYVXBFeURzX19nRU5IUFNCcFd1MWZxVW9TclZjblVSOXhYLU8yR1dWTFpsSVlNQ3U4NENWTUM2MDdpU1E2MFh5V1FzU0xLV3JyMmh4TDNzV0ZSdWVtdmtiMVE?oc=5",
+          "ts": 1784125645000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "NVIDIA recorta el 50% de sus clientes asiáticos de chips de IA por represión contra China",
           "source": "Yahoo",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYV8zZHZXM0lsYmVxc1NYdXFSUzFTcjRrTjhwSkJnSVdmSjNZSkQzb1R6M2Vna3Fwc1BHNENTcDZ3MWZGcGNUVjRlTVpVOW1ZTDU1R2syYW5Ea3V2X25PMHNRandpREZFc18yWk1rVEo0NUJoS0h0MnBfTm41SVVGZF9hSmFpcjB4TzJxMFp4bUNvY2tfSldwUFl3?oc=5",
@@ -326,22 +342,6 @@
             }
           ],
           "category": "semis"
-        },
-        {
-          "title": "Apple analiza una innovación que podría hacer más rápida y privada la inteligencia artificial en sus dispositivos",
-          "source": "Comercio TV",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZW8xVEs3YzN4WXl6SXJ3cUtScnNxQXdTb2kxdlhubFlKTnlvYm01VWFiVDlSczhOWmhwTXVPUS13ZmNEd194SDAzVUItRTVpRk9NckNOTjlJRm9NenZURG5mSkpJVWlzb1FZOWhfQm5uVHdfazF4cjFhUXh5NllaTVRNUnhYVXBFeURzX19nRU5IUFNCcFd1MWZxVW9TclZjblVSOXhYLU8yR1dWTFpsSVlNQ3U4NENWTUM2MDdpU1E2MFh5V1FzU0xLV3JyMmh4TDNzV0ZSdWVtdmtiMVE?oc=5",
-          "ts": 1784122045000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
         }
       ]
     },
@@ -349,6 +349,22 @@
       "key": "space",
       "label": "Satelital / Espacio",
       "items": [
+        {
+          "title": "SpaceX entra hoy en el Nasdaq 100 y obliga a comprar a fondos con un patrimonio de 700.000 millones",
+          "source": "Cinco Días",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOU0tLaGpOdzA5TW5iRjZaak9xMUFhQ3RDVmdJM054akV6SWRqN0VHU2JXZXgyVWtxSVAwakhicDlHQlBhZjE2cjlzNTRFd0xtd3pFdXBkUXlsaFBaYno1VzhQeGl6V0dGN3dVM25jeTNpMGRXcVdVWmctSG1wSERJTmFGSF85dVhSZXY3d29uMElBQTEwX19uNmI5N09LOVl2cUI5aHlNTUxwZzVwdE1nSWpjWjZORjBwYXRiRk9wellIcGFHY00xZEZnbV9SSjBSS0tWNkREaDNSdTYxZlZHcGJMbnlyQnlrVk82TmMwUV9IdUU3NUJZ0gGLAkFVX3lxTE1SVG53czBiSGZpa1VfMS1qcnkwZWxhQWhFVlg5OVZVZUtKc1BOVGJRRlYtdmdHdi1OTG5MTlZwaDgyVXJDbGpkZ1BQR1UtWndsX2d4WUppY3o3WGRtak1WdzJHRy1nSERJSDMtMTcxdDFtYjJBOVBFbzk1eEhLUXAwbThuM2w3amhMV09RdXZrZkozbmdUUzBIOEg2dnA5em8wV2JUWVpfUGU4UmFfUWp6UVZJZGJMWnd5ZkxVNmRRZHgwazRjSk9ralRlaFFucGs3UjI4b3VzOVdSVlZLUmFvMUE5UXJuZTg4SnQ2UTNQdFc4WkJzTmV3RU9idU1KQzUzeHcxdmV2VmxoZw?oc=5",
+          "ts": 1783321200000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "space"
+        },
         {
           "title": "¿Qué significan para Microsoft las salidas a bolsa de SpaceX, OpenAI y Anthropic?",
           "source": "COMPUTERWORLD ESPAÑA",
@@ -475,8 +491,8 @@
         },
         {
           "title": "SpaceX adelanta a Amazon y se convierte en la 5ª empresa más valiosa del mundo",
-          "source": "Euronews.com",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTWhKVmRqM2l1b1ZGWTlpNDRtQjhrYlBqMUpsZHRwOVBHeVZ4UzdfdF9kemxMVXZ3c2pmbjdGRmthNGNPOV9ZQS02ajQ0SGxYT3hPbUNVWDZvTmRDNWRHWjVBbWpPVVpBdVJtenNtemhqMW44LWRjTkpxSk96ZldJc0tlQy1lN0dIY291OU9NemM0UkVzcDRwa2gtX1FMaXdZSERkWFAzYmxqWVU3LXRNOW84ZXcxYUtSdTQ4WWtR?oc=5",
+          "source": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMlRPd2xRaV9NRmJscTJwV3ZOSHlsZVpYVXZZNDZEcENBOUxuS3VycjdteXlCNjM5eVBiWUl1eTFocGRseUJnTkhwTTgxNHFDa2pwc2NrX09PbW9lYkxzU3kwZ0pCcTRwazdpalp6UTQtN3NPdjB3MERXWjl2ZnhIMXZ5b1VyMGxsWEhRLWZpSXA?oc=5",
           "ts": 1781679600000,
           "sentiment": 0.0,
           "tickers": [
@@ -500,34 +516,6 @@
               "sym": "AMZN",
               "name": "Amazon",
               "pct": 1.1,
-              "dir": 1
-            }
-          ],
-          "category": "space"
-        },
-        {
-          "title": "¿Puede SpaceX superar a Nvidia? La empresa de Elon Musk ya vale más que Amazon tras su histórica salida a bolsa",
-          "source": "Benzinga España",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaXNnWk9heWdoYVNidVN6bFRhdUltRjlVSUFUcGNlSGhreGlhTTNJWjhNcmRxSUxkR2NJdlZBU0FuTGRlY1Q2Z0VLQ09XYWVtR0JqQTdPZkhxT1hleVhLck5YU1E4Y2xMUVdLMjVEd1JQcHdGYVFtRHN3Vko1Ujgza3ZILU5lSGl4bnpuR2RsRFRLNGZxOFc0YVBzXzg?oc=5",
-          "ts": 1781593200000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.0,
-              "dir": 1
-            },
-            {
-              "sym": "TSLA",
-              "name": "Tesla",
-              "pct": 1.0,
-              "dir": 1
-            },
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": 0.6,
               "dir": 1
             }
           ],
@@ -764,38 +752,10 @@
           "category": "oil"
         },
         {
-          "title": "--Los futuros del petróleo crudo Brent y WTI suben antes de la apertura del mercado mientras Trump advierte a Irán de más bombardeos hasta que Teherán deje de atacar el estrecho de Ormuz.",
-          "source": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPajh3SHI4RUlnQV8zQzBzOVZxTDdpa3F4aS1tVXZ0YUN2QXpreG1xb2hCOFkyQ1VraU5UcXpHbWZrSnlXN0xwVHpqcHpqbzN5OVV1U2JiTFRsS0pkWVY2eGV4UV9HaDRZS2RLRHlXSEEzRkhuWXZUTVN6RVl2bGp4N2VmeGJLNGpGdnlNb1RKanUtdFZ4?oc=5",
-          "ts": 1784110203000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 2.0,
-              "dir": 1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": -1.4,
-              "dir": -1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "oil"
-        },
-        {
           "title": "El precio del petróleo Brent supera los 80 dólares tras la tasa de Trump en Ormuz",
           "source": "El Boletín",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSkczTVV4NktPZXBqbzRQYTdRTG9uRmpkMURSUm8tWlFsLVZJejRpZGtRcHR0bzZvb284cUczN3pMYS1tZkVIMFJVb2pFQjRUTDZYLUE5SXFuNEZra19Ia1lEa0hIQXB4aVVRcDBYbG1BUDY2QVFBSndId2lxd0E2eThXY0lKTEFNY0xOUGZoRHFxc01aRVc3c2hZcVV0Yy1hSUd3ck50MlVPWHZmUDhGVDF30gGyAUFVX3lxTFBKRzNNVXg2S09lcGpvNFBhN1FMb25GamQxRFJSby1aUWwtVkl6NGlka1FwdHRvNm9vbzhxRzM3ekxhLW1mRUgwUlVvakVCNFRMNlgtQTlJcW40RmtrX0hrWURrSEhBcHhpVVFwMFhsbUFQNjZBUUFKd0h3aXF3QTZ5OFdjSUpMQU1jTE5QZmhEcXFzTVpFVzdzaFlxVXRjLWFJR3dyTnQyVU9YdmZQOEZUMXc?oc=5",
-          "ts": 1783958279000,
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdUNfQ3puU3ZhbTN1bVVkMDhfeHlpYktGN2RiRFh3T0JLajZ0ZE04UTU5NVZ3WVVhZG9nRFdZdkxhb3o3R0swVG15MmRINXFVQlRqN0lGcnFvMURuM3g0T2JaYUtiOU5POW9ySnJoNDZVOFNXcGVmbjlXUFBxeHg1S2Z5LV82d0dNTXQ5bThWbU5RUmxHV1V4ZTRHSENoMXhNLVlQSUhKOEhUV1k50gGyAUFVX3lxTFBKRzNNVXg2S09lcGpvNFBhN1FMb25GamQxRFJSby1aUWwtVkl6NGlka1FwdHRvNm9vbzhxRzM3ekxhLW1mRUgwUlVvakVCNFRMNlgtQTlJcW40RmtrX0hrWURrSEhBcHhpVVFwMFhsbUFQNjZBUUFKd0h3aXF3QTZ5OFdjSUpMQU1jTE5QZmhEcXFzTVpFVzdzaFlxVXRjLWFJR3dyTnQyVU9YdmZQOEZUMXc?oc=5",
+          "ts": 1783958310000,
           "sentiment": 0.5,
           "tickers": [
             {
@@ -956,6 +916,34 @@
           "source": "Inspenet",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVQlVGV2duR253WjB2VW44R2lLZVFaakJqczE1UEtFLVByNlY2Ym43WExFdjNIRndOWEMzMklRZnBFRzByTGxUTWlkdDdkT3dfNHFCbm9CUzFVc21ZenBtV081N1o2YTF4VzkzNTFWb0JuOGFGdDYyTllJQTA?oc=5",
           "ts": 1783524322000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": 0.7,
+              "dir": 1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": -0.4,
+              "dir": -1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 0.3,
+              "dir": 1
+            }
+          ],
+          "category": "oil"
+        },
+        {
+          "title": "--Los futuros del petróleo crudo Brent y WTI se disparan antes de la apertura del mercado después de que Trump dijera que el memorando de entendimiento con Irán \"terminaba\" mientras Teherán atacaba activos estadounidenses en el Golfo.",
+          "source": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd0NGVnRIeG1TNWtLZlZnT0dvMnl3X2x6TnVjcG91ZGVrVDVqLTBuYVBzVzhONVFpS0RrdUFRVXQtN0VlamdGcXJzT0cydzY2bTZFT0pOOW5KejVweUlidzU4cmdZY1BnSkRkUmVuOWJ6dXVZX1lCSEdWTTZWSTE5OUI2NXVWUEZGbGExZDhod3Z5RDNN?oc=5",
+          "ts": 1783500604000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -1276,22 +1264,6 @@
           "category": "macro"
         },
         {
-          "title": "Wall Street cierra la ‘semana corta’ con récord en el Dow Jones; Nasdaq cae 0.8%",
-          "source": "El Financiero",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOEpqQmZXV1ZLN0RnalZiYkJsU0FoVTU2Mms4ZUg5a1l5Wm9ja21YcUg5akhOckluVmdrb2p2cTQ1MG1xb1ZKRXozOXRiMGs1dThiS0pBanlLVzBFWWpHeHgzSE9WaXd3VDhGQkY5T294bWt5WEdIbTVPb3lGbDZHSVhJc0MzdTZZc3M3VVF3Y204QVhHQ0E?oc=5",
-          "ts": 1782975600000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
-        },
-        {
           "title": "Wall Street termina a la baja tras comentarios de jefe de la Fed - Mundo | Tvn Panamá",
           "source": "tvn-2.com",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdHBPY25VOVVQRXZjOHNQV0RYSkRkTVpDbm5EZWdaNlJTeHpPaUt5VkExcHJhbnRLZkJXRXNpZTRtTGFtSERvYy12YklaV3d2QmJzWF9WYWFoai1RbTRaRHRuZTg5TUEteXVkTGVOYkZQRVNLRl9SanlDT3lQTXRUaGphOWUyd9IBiwFBVV95cUxPOVdZS0otSmp5NjhpNTF1LW1ZeEgxT1h5WDhlMjA2OW9xbkk1Z0o0bEhJblh3eVNBZ09EYUV1Z1U4VnhEV2ZfbEVXaUFFbTNHREdqbWtMQ04tcnY0dTFRUFowOXBYNWczU0VrRGN2dVhhUHhqVFFKdlN1WWJpdmhqcGI1dDMzZUN2ZFJz?oc=5",
@@ -1448,6 +1420,28 @@
             }
           ],
           "category": "macro"
+        },
+        {
+          "title": "El petróleo da un respiro a los mercados y las tecnológicas devuelven el pulso a Wall Street",
+          "source": "Cinco Días",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWVhnNWg3eVQ2eGgxNmExY1p6UWZNLW5hU3VtY2ZDZzZqUVJJbFZWQlRPR2NGNG1lNGh3Vk5rcS1mbVY0MnB3T1dzeDIzN1VTSlR3VkRHQW9XbUlCYWhkVVpYQ0tWNmpMTGpwNUgzakY4OHZIbVphYmJOUWIyT1NfS29MM1hJbGFVS2M0ZWNfYTXSAaQBQVVfeXFMTXlYWWZMMGo5MFVTUVp6VVgzdGFZNXA0dVBkUE04cmpDX2pvLUx2bXVUS3FUY2NZTmZ0RWR3NEJqRGlXc0pHNkZhelNXdnBTUHhSbEs0SXZkUUdHZ0FhdzV6YU9ZaTBFbHQ2M0dXM2tRMC1OVzBLZk15YVF0TXJ5ZmxNMHdSY0I4R3dqbHhjS25XaURrS1B1RXZQWVNzaC1NOWdiRTY?oc=5",
+          "ts": 1781766000000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": 0.7,
+              "dir": 1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "macro"
         }
       ]
     }
@@ -1462,14 +1456,20 @@
     {
       "sym": "META",
       "name": "Meta",
-      "net": -6.8,
+      "net": -6.4,
       "n": 3
     },
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 5.5,
-      "n": 7
+      "net": 4.7,
+      "n": 6
+    },
+    {
+      "sym": "ITA",
+      "name": "ETF Defensa/Aeroespacial",
+      "net": 4.3,
+      "n": 25
     },
     {
       "sym": "ASTS",
@@ -1478,61 +1478,71 @@
       "n": 2
     },
     {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": 3.6,
-      "n": 3
-    },
-    {
       "sym": "AMZN",
       "name": "Amazon",
-      "net": 3.5,
-      "n": 5
-    },
-    {
-      "sym": "ITA",
-      "name": "ETF Defensa/Aeroespacial",
-      "net": 3.3,
-      "n": 25
-    },
-    {
-      "sym": "MSFT",
-      "name": "Microsoft",
       "net": 2.9,
       "n": 4
     },
     {
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": 2.6,
+      "n": 2
+    },
+    {
+      "sym": "MSFT",
+      "name": "Microsoft",
+      "net": 2.2,
+      "n": 3
+    },
+    {
       "sym": "WTI",
       "name": "Petróleo WTI",
-      "net": 2.7,
-      "n": 23
+      "net": 2.1,
+      "n": 24
     },
     {
       "sym": "GOOGL",
       "name": "Alphabet",
-      "net": 0.8,
-      "n": 1
-    },
-    {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": 0.7,
-      "n": 20
-    },
-    {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": -0.6,
+      "net": 1.7,
       "n": 2
     },
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 0.1,
-      "n": 14
+      "net": 0.5,
+      "n": 15
+    },
+    {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": -0.3,
+      "n": 2
+    },
+    {
+      "sym": "SPY",
+      "name": "S&P 500",
+      "net": 0.2,
+      "n": 20
     }
   ],
   "ecuador": [
+    {
+      "title": "Mercado de salud en Ecuador apunta a una expansión impulsada por tecnología y nuevos servicios",
+      "source": "eloriente.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTWtRSEdwb1JuZzUyZ0FWWGVNenQzaEpCbFpJNEhiR3FPNHdrZ0hxeGNqd1ljaWhudGIzRWZKWnduajE1dmd1WDdyYkpzdElXNVg5eU1aeXZjOEVOZ0MwMm1FT0ZVZFQ4alVNNFZvak5GZ0FYbC1XdDJkQThNMlpTOV94dm5RUWhxbGx5ZnFpdTJzQzhRUXRGQV9iTFduQzlXSUd2S2h0a2tqbGFvRGdIVzV6M1R5MUZTTUZ4OFdXMDd4N3otQjl3N09sdGNwMDhw?oc=5",
+      "ts": 1784160189000,
+      "sentiment": 0.0,
+      "tags": []
+    },
+    {
+      "title": "Calidad y trazabilidad impulsan al cacao ecuatoriano hacia los mercados premium",
+      "source": "eloriente.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUzA4V080NVl5NkFzZjU2cDZOclphaUhrNEFYdUdHZTRfbzE0ODVrYWxjVHpXUjBNYUFmYThpVk5XRUJDQ0ZES284QlNSU3E4cmwtZ3ZoS0tVZDdqSGtSWl9vOXdhc2N3UUYxZU1NSnk3NWtBQzNHX1o2Yl9pZHhHc0Y4SnhmX3U0VVBHUWViUXA1WjFZaE9jLTdxT1U3T0J1dlpGS21UaVlUeTd4NjZ0RXd5Z2VsUlZsU0cwbg?oc=5",
+      "ts": 1784140359000,
+      "sentiment": 0.0,
+      "tags": []
+    },
     {
       "title": "Ecuador abre el mercado de EE.UU. con la primera exportación de mandarina Tango",
       "source": "Diario La Hora",
@@ -1555,14 +1565,6 @@
           "dir": -1
         }
       ]
-    },
-    {
-      "title": "Sector bursátil alerta que reforma al mercado de valores afectaría el 90 % de las negociaciones",
-      "source": "expreso.ec",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTGxDTUwxajQtSDhBcUxxTm04bk14QTAzWGh0SGYxMFl3Q1lXSlZIeENQWDJwaHhfNUZoVnpiU0lGcHcyWF9TUzI5bFpSNllZNjg0ODVqMlZueUR3OXlES2wyZW9QNHduRFFqTElJbkJNdnZXdHpGSDNpMUNrWlFqenc0M093cmRYY1FGSUZ3RnMxMUFLUF85eGdyRVdEX2R0aEQ3dDJOMkJGeVJWN25FcGZqT2ZVZmxDV3Z1QzZmNHhrX0FfU29ZSUlEUXh0SjJOQ0hsQVA2T3kyRDVNWUl0RVNn?oc=5",
-      "ts": 1783716592000,
-      "sentiment": 0.0,
-      "tags": []
     },
     {
       "title": "Mercado automotor rompe récord en Ecuador: qué modelos lideran las ventas",
@@ -1693,14 +1695,6 @@
           "dir": 1
         }
       ]
-    },
-    {
-      "title": "Congestión en puertos de China presiona el mercado del camarón ecuatoriano",
-      "source": "eloriente.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQzR1aktFY0J6a05fd2FLd1lhOXYxSkJTN3o2cEVrdWZUeF9nYTdIYnBGeHhxeldxcjE1VmdMWFNYM3cxYnE1c3NuMVJYc2RBczg3akI4WTlaWEF2SkdsT0IxdUZrYVRpSVlINW5peV9hOU42emRJY2dUNm1YTjZhbXM3bDVsMnc3dHAwZGZ6akIweDQyd0xZRTJkSTg2ZXR4Mm9YZGRnMjNFaVlwUWZlclFjanczUQ?oc=5",
-      "ts": 1781766000000,
-      "sentiment": 0.0,
-      "tags": []
     }
   ]
 }

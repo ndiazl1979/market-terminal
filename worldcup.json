@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T01:03:48.273922+00:00",
+  "updated": "2026-07-16T04:16:30.546919+00:00",
   "tournament": "FIFA World Cup 2026",
   "groups": [
     {
@@ -1144,10 +1144,10 @@
       },
       "odds": {
         "source": "DraftKings",
-        "details": "FRA -105",
-        "mlHome": -105,
+        "details": "FRA +100",
+        "mlHome": 100,
         "mlAway": 265,
-        "mlDraw": 265.0,
+        "mlDraw": 275.0,
         "spread": -0.5,
         "spreadHome": -105.0,
         "spreadAway": -120.0,
@@ -1161,30 +1161,30 @@
           "label": "Gana local",
           "sel": "1",
           "pModel": 46.8,
-          "pFair": 47.6,
-          "implied": 48.3,
-          "odds": 1.95,
-          "ev": -7.2
+          "pFair": 47.4,
+          "implied": 48.0,
+          "odds": 2.0,
+          "ev": -5.2
         },
         {
           "market": "1X2",
           "label": "Empate",
           "sel": "X",
           "pModel": 24.0,
-          "pFair": 24.9,
-          "implied": 25.8,
-          "odds": 3.65,
-          "ev": -9.0
+          "pFair": 24.8,
+          "implied": 25.6,
+          "odds": 3.75,
+          "ev": -7.0
         },
         {
           "market": "1X2",
           "label": "Gana visita",
           "sel": "2",
           "pModel": 29.3,
-          "pFair": 27.6,
-          "implied": 25.8,
+          "pFair": 27.8,
+          "implied": 26.3,
           "odds": 3.65,
-          "ev": 0.6
+          "ev": 1.5
         },
         {
           "market": "Total 3.5",

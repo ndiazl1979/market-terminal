@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T12:53:28.186408+00:00",
+  "updated": "2026-07-16T14:51:29.591048+00:00",
   "categories": [
     {
       "key": "tech",
@@ -145,7 +145,7 @@
             {
               "sym": "TSLA",
               "name": "Tesla",
-              "pct": 1.6,
+              "pct": 1.3,
               "dir": 1
             }
           ],
@@ -161,7 +161,7 @@
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 1.6,
+              "pct": 1.3,
               "dir": 1
             }
           ],
@@ -190,6 +190,162 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "Apertura americana: Caídas en Wall Street mientras el sector de semiconductores extiende su corrección.",
+          "source": "XTB.com",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMFozRTBJREpuaGlWU0lkak0xdU9odTJLZFJJUXFkTHN1aWItbWRSb0xsNGhKX1pHS3BMNHFFM0l5aEpGM0hzU28wN0pxNm9nbjYzM1NoUXMwdy15TTNKR20tcnMweklwUjB0YlJwMk96SU52dHNIOTRuaHBoRTdoZW1uUjRva1ZqZjFjT2o5RDdfdDJ3eUNaV3RGUnppUmtZSXJwRTFfcmF4TEtSak1qUjNpaC0wWWJQNDF1N1pMSVJsU25iWW1LajVyWmYtRURTNngweW5mdXRhdVJQM1RuMWJKWmduckhpQTdod1R1bTVOeHlIMnNFNzhB?oc=5",
+          "ts": 1784213370000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "TSMC, la empresa más grande de chips, invertirá 100,000 mdd en EU",
+          "source": "expansion.mx",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM2JkVHg2LXROd2ZoLW1rRmNTTzhXTUJ3endYT2JseGtjbGRobXB1bm5hYTBKZWJOR2RvVTF4YVFkS3JlUm9ZVEhsdkgwN185NGNlT0N6LW9vS1hhV1o1SkZPb29ReFlHZ0Z1c2E0STdzeElpVnQya2dTVDB4ZnVBTNIBjgFBVV95cUxNN1kySi1oVFJPUW1sVDFuTGxFZmIxaHNnRUJZMFhlYjZEbDdkenc5LUlMYjhXM3pRLXM4blF6c3FYYXc1U1lIMnRTS1dtSWpELXlpWUFmWExxQ1B5VFpocFA4bDhqd3laR1RTYmg2RVN1Qk5tUXgzMnhON0tzQ2ZZWUpmRmxuM3FLT0hzNjBR?oc=5",
+          "ts": 1784212800000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "TSM",
+              "name": "TSMC",
+              "pct": 1.2,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Anuncia TSMC inversión adicional de 100 mil millones de dólares en EU",
+          "source": "Milenio",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTi0zakhfZzYza2VBWmRqdklEOXRpR2ZYaVJhYnR4MHBRS2pfcFpGcTB0Ry1kN3EyYWJ0Y1MwNm9JSkRsY0pmbzVWVkhJU1pSQVViSURNcmdDeW5Kd0I3YVBZTFA3cWt3elhGMldJaDhGS0FicUpRZlhRazVBb3p6clRnN3RJZ3podmd5SWl30gGOAUFVX3lxTE9SOWFtSDJZU3BISEY1NXcyS1lsNmFDVmRtTUgzYkNNZjY5bVpnckRaZFYxV3hjVWs4M1poREphNHcyaHJxYjhXcldPV2hQX1d2NHNva1NXZy1SWjdCRXkwRmtHdmFoOUhWZ0hpSzVBd21fSUU4T3VZRzdxM25WNUlJaDZlVHNZQ09ZZGx4Y3c?oc=5",
+          "ts": 1784212320000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "TSM",
+              "name": "TSMC",
+              "pct": 1.2,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Japón planea comprar chips Rubin de Nvidia con el fin de desarrollar IA para robots",
+          "source": "Bloomberg Línea",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNDRTd2VxQjBWSko0TFBYcjdLZkprM0VaT0RrQWtrRVNfdVFiTmdUY3lqVlZ2MGFRNVAwVVFmRE5femZ4T25WTHYtM2xpZ3YzNlBDZnZkS3lkaW1hZ19PYkFjTjFORy00cjBDUGZZYmFSaERpQ2NpVzZkMWszYmt5cFBDdldad0s5eUE4Y29sM0JjbjM1bEFUclhKWnZBRXJTYmszVXNmQUpzcUVPajZFQWo2SlRydDg2UlR1RWhOMDlrMklR0gHYAUFVX3lxTFAzR19acHZ1OE1HYU4tc1p3amxmQ25SUkZqYXBfbE1DdlNaNlc5Slp1bVRhTVpLal9IZl84MlRJZnlfbHZ5Vy1zNm92eHdOMkZ2TTlJMW1TeHB6SklKTlp5N3RWMFA4NVJlbUd2c3JtWHhaVVNjMUF6SEN1d1c0VTFZMHZibWpuR0Jibk52WV95cWU4Qy1zWGd6Wjl2Yk9kLW0teVRFdC0tdjlLS3d1N0R6T0RtM1VZajk5Sk9CbV9mUHlOYnlsdHBxTXgzUXh5cE9KZnJ4a2pIUQ?oc=5",
+          "ts": 1784211430000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Nvidia colaborará en el desarrollo de robots con IA para la construcción naval en Japón",
+          "source": "France 24",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOGRxV1dDZkM0N29jTVdZSHNVQ0JNRE9uSU05NEhlbVJDY3ROaS1PUmVnU1UwRFg3dUpKVWlKa3QxYzVKWnA0Mnk0VHRkU3pfVkRSMVp1M3Vqa3poaEo5VnZlZlZxSG5sbmtBS0Q5SEV2dTlZMjI5a1pmSWVlLV9nNG1tNVk0VzFLdERPejN3cWdTWUR4SkdZXzJPbmx2ZzI0SFFkOS15a1hrMGF2SEc3b3Z6MGdEVEtqd0VVampoeEx2RjhhMzY5Nkl1MWlBRWwwWWRaaXh1OFRuN01GbnlPeER3aWRWd2hyV3o4?oc=5",
+          "ts": 1784209873000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Bruselas obliga a Google a abrir Android a la inteligencia artificial de la competencia",
+          "source": "La Vanguardia",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZkFKX1plVFZpZlVJSnFDdkUyVVBrV3UybU5BYkdvWlhaVHRKQVlkeEJUSV9idHlxSEUwR0hCOUU0bkdHdDlIVDNQYjA4SlV3SWJENmQ4UDQzek9JN3FNNUFMUWQzLXFOY2VpeHVOX20ySUs5RWZVSkRKX2ZiUHI3T1FBODdsMXl0Qm5oQ1FsN3lxOFdYTm83YzdSeG0wdWRsMW5jZWFIOVVEQ3dmTTJNQk41SDJ6N0F0QUFzTUhaREZNcldISzRvLTh4LU1Md9IB0wFBVV95cUxQV0pmdDlXd1RuY3NFTVkwQjY5SldFSFItNmVseG9QN3Q2emZOT0JCWkpZSVRYcVZKdUhrNGVOT09yeWFDRWlkNXdYWnVRaW5MM0FkM21zRlZmMmw4REhWdXFkZVR2Zkcwc3BSajdlbDdmd2Y3bmE3RDVScS13a2hhZXVpdFltRXZPZ0czY1J0OGV6Y3RJT0ZDN01sdmQ5Q3k1VFNrVXhSX3lxME5Jd1Q2UGZHRlBPRlo1RXZGX1p2dnBFSEMwTEcxNmNOdFIzTjlYaGlr?oc=5",
+          "ts": 1784208919000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 0.9,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Un carrito con cerebro: La inteligencia artificial ayuda a los compradores en supermercados de Miami-Dade",
+          "source": "CiberCuba",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU1FKNWlyVEcxaDBYRlNDQzdScWxpbm1FVDJHUWsyYjlVN3YxZWRDeXFnQUNzSmxoWC1LaHhFaHJYV3V6Rk9sWEZwMDVuNkM1dFA3T1BQZjBFWXpJZkdZWk5MRFNPMUF0TDd6TmtIWDZmNzR4SVNaWVhNTlJXNUlvM3Z3WDVONEJiUmRkc3FobnFXUlV0MWRVWWNQSTJIY283cnV1NF9aYU9EemQ2YkZQX0NaX0s0Z1g4NnfSAboBQVVfeXFMT1NRSjVpclRHMWgwWEZTQ0M3UnFsaW5tRVQyR1FrMmI5VTd2MWVkQ3lxZ0FDc0psaFgtS2h4RWhyWFd1ekZPbFhGcDA1bjZDNXRQN09QUGYwRVl6SWZHWVpOTERTTzFBdEw3ek5rSFg2Zjc0eElTWllYTU5SVzVJbzN2d1g1TjRCYlJkZHNxaG5xV1JVdDFkVVljUEkySGNvN3J1dTRfWmFPRHpkNmJGUF9DWl9LNGdYODZ3?oc=5",
+          "ts": 1784208316000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Micron firma acuerdos con Qualcomm y otras empresas para el suministro de componentes de chips para automóviles basados en inteligencia artificial",
+          "source": "TradingView",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuS1Z0NlhNMWdmOUdYaEkxNk52TDFhMmxKQWxINWwyYTBEYXdXQVBiTmQxc21yOXBPWGJSMWJ5WnVSUTU3YS11dlFDNlEyRDZveGlDNlNZdG8yRkNQcVdvZEtnMWhhU2JkV0U2VlFxcWcwTXptVnBZ?oc=5",
+          "ts": 1784206901000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "MU",
+              "name": "Micron",
+              "pct": 1.6,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "TSMC invertirá USD 100.000 millones adicionales en EE.UU. y refuerza su apuesta por la inteligencia artificial",
+          "source": "Dolarhoy.com",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMDRscUZPRVY4VFBna05aMU5aNUpjZHZZVUVNTnd0X3FlckJiUFZteEY3VWZycGRUX25PTzBlWjdQSktYNV91RGFWMXVTTkR2czZXNzVIUWdjN3c3VTU2ckFLU19zbjNQTFhReGJITXNGMDE5UkpaVG9RUnRYQjBRRHJhdWhXTVlXRUdYZDY2bFBXR1JvTG5KRWtLeXhncHh0OEdrR3drNXk2X1VCZTB6R1otRm1tVlpLZUdvenlOOUROMENWNlBhWV9IVVg0SXVQV0FSOHg3UDRFTUxIQjdXM0RrR2cwajg?oc=5",
+          "ts": 1784206375000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "TSM",
+              "name": "TSMC",
+              "pct": 1.2,
+              "dir": 1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Cómo es trabajar en Amazon: Luisito Comunica explora las oficinas y la tecnología de Alexa+",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSGdpWUhDUm4zTG4xcGlsaG5IdXJiOXNBUWFnTU82bDNNSzZTaHRhLVBMRThDRWY4WHpXd2tzT3pqWWFDbThFRFdVMUdBeVQzM084THU1V2dOYi1GOEQyU3pxeU90YXcwcWt6ZkNSckZkZUhpVVdyNFNXQXNKWVN4YWZsVUdRdzlySV93SWZvbVZMR3VJbjV6bU9neFZMYW11SjJ4OWhEOTJxX290OXptRnBvdnZpalVoMGhYSDZya3RTbDBJWXhsU24zSdIB5gFBVV95cUxNSUExbGJQNzVKRFo4QzdyWi02NDNURC1JS2ZxMkozYWpsNWxrTEdJME1ZUTRwa0lmMElIbXdyWXZhQnB6RkhqLXVUd1JMVkNTZEhRdmlHR0JMbTdPSk9oQ2dKQ1Z2dUppZ082SGFjTEZYanhyUDVyZVhRX1hBc1I2b3p1UXRGMFpzTVNhLUc0Z1UwQzhLWjgyM1FtT2tXYTNHY0VKTVYydHFLXzB4MG9lejNGYjd6eEdwaFI3Z0FFOHNEX1c1WUtrREVSR2lSN1B5cG1nU0ZOYU1rZ1JBX1REZmRhNlp1UQ?oc=5",
@@ -200,180 +356,6 @@
               "sym": "AMZN",
               "name": "Amazon",
               "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "TSMC logra beneficio récord y promete 100.000 millones de dólares para ampliar fabricación en EEUU",
-          "source": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTFpyLVI5OXU4bWY5LXlGckF2d0JtbTNSa1QtY2RoUHFEcmZhM1pEcmhtcGRJR3lkRmkzd3B1RTJyQkpHWUJ6TXBJZkhrZlEtTDNveWpTLVltLUdXc3cxQkNMTkpiQnVlaFZUaVBTSzBUaDF6elJlMzVuQTNiajVWTndHaU1tb3QwMktya1U0Rk4yS2djYVB1NQ?oc=5",
-          "ts": 1784204939000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "TSM",
-              "name": "TSMC",
-              "pct": 2.4,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "UnitedHealth sube en preapertura; TSMC impulsa acciones de chips",
-          "source": "Investing.com México",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN1ZBVUExc3ZCY25tMWE5dUYyVWlPTzkyTEMyb2Y3Ukl4U3Vfb1VDN2ZVNl93SUFxMkdtVWhWR1lnYklyMW1jbjNPQ3RraXdzZTZDck50emkzQWVmTDFIbWtaOFhQWUpzRXNMenhiRlIyZEJkeFpBTERLbkhfd3F6dnpyOTRUNjRxYUpLZnBsd2luQmJQVF82cjNNNXVyQlprNnEtWHRLcWMxMGZKMjBjdTkxRVItQ25EY3VZ?oc=5",
-          "ts": 1784204646000,
-          "sentiment": 0.67,
-          "tickers": [
-            {
-              "sym": "TSM",
-              "name": "TSMC",
-              "pct": 2.8,
-              "dir": 1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 2.3,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Premercado de EE. UU.: los resultados del 2T de TSMC superan las estimaciones pero se enfrentan a una venta masiva, los chips de memoria amplían su caída, SK Hynix y SanDisk caen más del 7%",
-          "source": "TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX2tMck9TaUQzLW1NWHVFUl9IeVBLLUtEckw2azJDS04xMFB6YUd5TU9fVzhSSDlwa200NEtNak1TajdZb0xQbUphTWNWb1BxbExpb1VTVGxmX2Z6QWc3NzdKN3Qxa2RsV19LeWw1TkdCdTY5dVB6TW5CSndvV0hQNzNKMFB4bG5BX25OMGZ6aFZmc3BjamFUT2JqaEtEVmZZRHg5VVNmYlBkNkMxb3pLcDBBdXBGS1U1NUVv?oc=5",
-          "ts": 1784204482000,
-          "sentiment": -0.67,
-          "tickers": [
-            {
-              "sym": "TSM",
-              "name": "TSMC",
-              "pct": -2.8,
-              "dir": -1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": -2.3,
-              "dir": -1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Bruselas fuerza a Google a abrir Android a asistentes de inteligencia artificial de la competencia",
-          "source": "EL PAÍS",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORndSQVZQRlFqV1ZxWVF5dE9Db0t2eFIzblFVcm9UTE9ETDRXUDFGLTBOTVJKa0kyWXZ2bU8tbERZVEF1N2hRN3JkdnotTGVmUzhlTmVlcF90R1MtWFZzajIzblllN25lOFlwX19LaVh5QS1mQTItMW1DQzljZWxDMlBKMDJKSEdXcmdaWTF4aDVtNkZsX3Q0VzlVYWZBNEtCZHRkNHp5aUktUkdkc21QUm1FS3lvWUw4aDFFRzZVMk5rNVlER0llTjB2ZmprdThHNWo5UGJwNW1CUdIB7gFBVV95cUxOYlZibXY1anRxZHhKc1ltY3JkeUJIQU5xczBkSEQ4S3l1RjhsWHA5ZlZwUTFWYTZRdUF2M3oxN1N3ZGwzMTUzazJrZEJqZU1RcnYzWE9FNGZVdWs0WmNSclBfRUxpdXB5X2x4djNlMkNzZVFuWDdOTHB1bm11N3IxZ3lfWndXY1RKRThSQU16V29RMWhWdmpjTUV1NnN1b0RkLUx6bXF4NG1wTTJ6UE92eERkWFZqUlZ6OVZJcGFhM2xTazNuSGltbU11eFlXX1R1ZDhjWU5kTXB2bzg2ZFFXRHNyc2xad3pBbmlBVnR3?oc=5",
-          "ts": 1784204243000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 0.9,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Google se ve obligada a abrirse a la inteligencia artificial y a sus competidores en el ámbito de los motores de búsqueda, en virtud de los cambios impuestos por la UE",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yc2Fid2hRaDVIWDNCWHlPS2FySFFjeS1hWjZCYl8zcWlsLUgzdm55eGdFc3JqQTFSUWU2M0FfM1JiS3BXZGViSWMzaTlKMU9MMDZidFdRRlVYdXc5cXU2V3RkVUV6WlB3cU5ra25GUXQ0bWNXMDlv?oc=5",
-          "ts": 1784203288000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 0.9,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Japón prevé invertir unos 6.000 millones de dólares en proyecto de IA con chips de Nvidia",
-          "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaF9VTnpJVGNjQVQwa29IZlUxS3RpUmNQY0ROQnExMnhHVDZCdjhhNmpMTUJVTXR0d3FJSkJ3YURteWdvYWd1MU1KZm53QUh5SkJIN3BwWG1uZ0Y1alc4YWdNM0Q3WXFvczBUTzdlVkg0S1JhUnl1QXIzOUhKQzZhYTFjc0cwRGY0OFAyQ0lOLWIyalJsY0kwclFqSmUwdVFIMzhjTUlzSVUzSDRKSWNNMmxoWnVHY1I5ZG5vMUxyb3FPMjJFSDI4cTRoMnZCRUpPZ2FUSjhhQlbSAfMBQVVfeXFMTm1zTV9CMDZkYzczdjlrTU5vUl9YMUowMWk4UXN6cWpGLUFYVzJYdzNiOGhxUUZvT2V5Z09xQ3hFVm1RZnNDcVdEa3FoWmxadmQxTnJpdlVNbVU2ekNSMC02WTNqdjZySGJVWHEtQUlrNWF1T0cxUGxSaTVxeS02bXFnZUdBM0UyR0xXMFZlMnZNSmxfczFpY1lsODVoUm05TWJuTGRxcDJIYW1WcGpQelhGNkkwYTBnVVR4Qjd1VXhpWTcwQkVVNzRLSXQ3Sy1GR2tIVDlfS0xnUmM5cDJPTFFtUU1WaFZxM3dOd3JGTDI3MTFN?oc=5",
-          "ts": 1784200617000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Japón comprará 27.500 chips Rubin de Nvidia para crear IA soberana para robots",
-          "source": "DiarioBitcoin",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcjR3cVdnOEpuV2R2V0NxY19UekFLSV9yd0hNbWplOFFvREJHRTNhakpVbVlQbUJvd18wZ0RRaGNWRXJFSmRybUc0eGx2akpZM19tcEd3M2VQYjhpbTZKNk4wdDAxczFJdno3VlBON0tXS0JmSVJRV29LY0N4ZERwYm00ay1OcTY2T3FSd3Z5bVFMREZ0V3AxVGtGdmt0Z2ZMWXJHaHBzUm4tenBuamgtc1ZXQnFKUnBuTXc?oc=5",
-          "ts": 1784199730000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Los beneficios de TSMC suben un 77% hasta récord mientras la demanda de chips de IA agota sus fábricas",
-          "source": "Martin Cid Magazine",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZElqc0hRU0xpWEpJSmtneWIxZXFtRXRVeDcxNDlVdE1fcWY3a0w5dFNOM3cya29zVkVnVDNrZkFWOWxDNUczYXdNMWxRVjM3dENfUlJjekJLNVZ4NldmVjJuVmpXcUpyTHdhXzQyWnBKS09ubVo1RENQRnJPeGsxcw?oc=5",
-          "ts": 1784199202000,
-          "sentiment": 0.25,
-          "tickers": [
-            {
-              "sym": "TSM",
-              "name": "TSMC",
-              "pct": 1.8,
-              "dir": 1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.5,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "TSMC alcanza ganancias récord en el segundo trimestre y eleva sus previsiones por el auge de la inteligencia artificial (TSM)",
-          "source": "Revista ADVFN",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOR19SMDRLZVp5S0l5a1RpQ3lQcC00OUlaSkI0S1VoZVpqSzhRRXF5ZlF4NlFNOTdaZFFsNkswb0hCRms3VVFlQzF0VW9YZ0pHOWRPcWFuT09uZ3pGNTFQMGpJMHAwMmxiVlR5dVBfMm5vYmVnNmF5Y3FkOWZndFp4REloUjJYNHZxVTlub0lvNlZ1Nkt0cmZuaVBMSDBVTlM5SHYyRkw5blZXN2Y4Z21nS0ZlSUdoNHlwX1R2OEFRMy02RDZGV3c0aXBNdVRIT1FHbFZKMllIemJpT01ibzd0TUdUUlNoRnVCc1prNm9UVDcxQkRpNlBKMHpnQmRLXzItQlBoWUNOelE?oc=5",
-          "ts": 1784198833000,
-          "sentiment": 0.67,
-          "tickers": [
-            {
-              "sym": "TSM",
-              "name": "TSMC",
-              "pct": 2.8,
-              "dir": 1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 2.3,
               "dir": 1
             }
           ],
@@ -504,22 +486,6 @@
           "category": "space"
         },
         {
-          "title": "WisdomTree incorporará SpaceX a su ETF de economía espacial tras su salida a bolsa",
-          "source": "RankiaPro",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTVJtam1kak90Nko1UjhOOXBTSnZrVkJJT24weTM0V0luMFd5alducjJSQUtKMjUyOGptMm5uY20xY1JVWGM0LXpBVE5ob3liQ2VIY0VlYkpwYUE3VzdVMzlTaFdrSy1CaU9aME5tVEJwc0dTRVhwdktIQ1dBWWlQRFpwN0o5cENSTnZfdGFhdEtLZzJCcjUwUGUxaEFWM3ZU?oc=5",
-          "ts": 1781766000000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "ASTS",
-              "name": "AST SpaceMobile",
-              "pct": 2.1,
-              "dir": 1
-            }
-          ],
-          "category": "space"
-        },
-        {
           "title": "Las acciones de SpaceX siguen subiendo; la empresa vale más que Microsoft y Amazon",
           "source": "Data Center Dynamics",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd215M3oxMDRsZnhSMjJWRTlRZ0duWnVwczdwSlZaeUlDUWZkWjYyTmdncFNnR3piQVgzTF92UG9iMkdmaVgtbWxQUVlfLWZYZXN6SU8tTzBkeVd4SU1VaVhrbFJTeVg0TklZS05IOG1pcTJZMVlBOEJuMjRtbmhLLWNQQUxWYXNWS0twNWlDd2lSRElPM2VGREZ3UjJRTHpTdHFnVjJiSERZa3I4bFVwYUpwSl9KaWlSMkFwdUg5RXJHdjk3bFFwbg?oc=5",
@@ -543,8 +509,8 @@
         },
         {
           "title": "SpaceX adelanta a Amazon y se convierte en la 5ª empresa más valiosa del mundo",
-          "source": "Euronews.com",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTWhKVmRqM2l1b1ZGWTlpNDRtQjhrYlBqMUpsZHRwOVBHeVZ4UzdfdF9kemxMVXZ3c2pmbjdGRmthNGNPOV9ZQS02ajQ0SGxYT3hPbUNVWDZvTmRDNWRHWjVBbWpPVVpBdVJtenNtemhqMW44LWRjTkpxSk96ZldJc0tlQy1lN0dIY291OU9NemM0UkVzcDRwa2gtX1FMaXdZSERkWFAzYmxqWVU3LXRNOW84ZXcxYUtSdTQ4WWtR?oc=5",
+          "source": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMlRPd2xRaV9NRmJscTJwV3ZOSHlsZVpYVXZZNDZEcENBOUxuS3VycjdteXlCNjM5eVBiWUl1eTFocGRseUJnTkhwTTgxNHFDa2pwc2NrX09PbW9lYkxzU3kwZ0pCcTRwazdpalp6UTQtN3NPdjB3MERXWjl2ZnhIMXZ5b1VyMGxsWEhRLWZpSXA?oc=5",
           "ts": 1781679600000,
           "sentiment": 0.0,
           "tickers": [
@@ -552,6 +518,22 @@
               "sym": "AMZN",
               "name": "Amazon",
               "pct": 0.6,
+              "dir": 1
+            }
+          ],
+          "category": "space"
+        },
+        {
+          "title": "El patrimonio neto de Musk alcanza los US$1,4 billones; SpaceX supera a Amazon como la quinta empresa más grande",
+          "source": "Forbes Colombia",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb1hiTUFQUGlEdVNjczFaQTM1c3FQNC15WTVkczZaYUc5WUpyekVMeW5oQkVEanFmZGE5YmpwR002VjZ4TGdsXzlnbTlkT2RfOXJWV3VtbmlJa2lmRFpLQnZVTmtYOTgtSl83cXdzTHJ3ZWo5MjlmUDdJQ2E5SkFxS3pVUmNOYnpQc3JxV2huYm9UM0RFUDRWc1FVR1NSbUkxS2M5TkJ2UGxOMXZVU01BOTZXWlYtckFSU0kzUGp6emRVYTlndm1LMDRvN2N1MmZrVVE3Uk9WRTlxUmdaS1g5ZllR?oc=5",
+          "ts": 1781679600000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "AMZN",
+              "name": "Amazon",
+              "pct": 1.1,
               "dir": 1
             }
           ],
@@ -589,19 +571,19 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": -2.4,
+              "pct": -2.0,
               "dir": -1
             },
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": 1.6,
+              "pct": 1.4,
               "dir": 1
             },
             {
               "sym": "SPY",
               "name": "S&P 500",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -1492,14 +1474,8 @@
     {
       "sym": "AAPL",
       "name": "Apple",
-      "net": 10.4,
+      "net": 10.1,
       "n": 8
-    },
-    {
-      "sym": "TSM",
-      "name": "TSMC",
-      "net": 8.2,
-      "n": 6
     },
     {
       "sym": "NVDA",
@@ -1510,31 +1486,49 @@
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 5.5,
+      "net": 5.3,
       "n": 25
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
+      "sym": "TSM",
+      "name": "TSMC",
       "net": 4.8,
-      "n": 5
-    },
-    {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": 3.0,
-      "n": 21
+      "n": 4
     },
     {
       "sym": "AMZN",
       "name": "Amazon",
+      "net": 3.9,
+      "n": 5
+    },
+    {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 3.0,
+      "n": 3
+    },
+    {
+      "sym": "SPY",
+      "name": "S&P 500",
       "net": 2.8,
-      "n": 4
+      "n": 21
+    },
+    {
+      "sym": "MU",
+      "name": "Micron",
+      "net": 2.5,
+      "n": 2
+    },
+    {
+      "sym": "QQQ",
+      "name": "Nasdaq 100",
+      "net": 2.4,
+      "n": 18
     },
     {
       "sym": "TSLA",
       "name": "Tesla",
-      "net": 2.6,
+      "net": 2.3,
       "n": 2
     },
     {
@@ -1544,37 +1538,33 @@
       "n": 3
     },
     {
-      "sym": "ASTS",
-      "name": "AST SpaceMobile",
-      "net": 2.1,
-      "n": 1
-    },
-    {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": 1.8,
-      "n": 2
-    },
-    {
-      "sym": "QQQ",
-      "name": "Nasdaq 100",
-      "net": 1.7,
-      "n": 17
-    },
-    {
       "sym": "META",
       "name": "Meta",
       "net": 1.0,
       "n": 1
     },
     {
-      "sym": "MU",
-      "name": "Micron",
+      "sym": "GOOGL",
+      "name": "Alphabet",
       "net": 0.9,
       "n": 1
+    },
+    {
+      "sym": "WTI",
+      "name": "Petróleo WTI",
+      "net": 0.1,
+      "n": 24
     }
   ],
   "ecuador": [
+    {
+      "title": "Ecuador pierde alumnos y crecimiento económico",
+      "source": "Diario La Hora",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlNuX3I1ckZFUkVCTGF0YkkxY0tpRjhtWXRNYTNqVFpqd085SkR2d0g3bHNDR3NyeXpDVHRSUDJmZVZaZUo4eHJaYm5OVmNUQUhhUHpydW8wQXRSbHV0UHUzWlN3ckJ5d3hJMmEtYjZQeVhZdVIya2ZyVThKTVJnbnJpQnpwTHo3dTR6b0VVN0pDUUxzSF93N0FNcGFMZ2xVZFE?oc=5",
+      "ts": 1784179800000,
+      "sentiment": -0.5,
+      "tags": []
+    },
     {
       "title": "Mercado de salud en Ecuador apunta a una expansión impulsada por tecnología y nuevos servicios",
       "source": "eloriente.com",
@@ -1722,27 +1712,6 @@
       "ts": 1781852400000,
       "sentiment": 0.0,
       "tags": []
-    },
-    {
-      "title": "Ecuador cierra exportación de crudo por 313 millones de dólares",
-      "source": "El Comercio",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRHZtVnBjSTZEeXdvOW1ZX3Qybjk4UHZGckdEMFRYclRLMVNkdEVTUVZlRGl2US1WX081QUFBOTFGQkN2cU8zNXVfRTdpZmpRV0lmV3A1NnZPbkdNbUFCR3NYTTRSMF9ZYkQzcVo0cHM2QktfZVQ0Z3Jia0JmdlFaTzJMaV83QmZJczZtN3N5allSUXBRSGoyYkl0ODRUZw?oc=5",
-      "ts": 1781852400000,
-      "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "WTI",
-          "name": "Petróleo WTI",
-          "pct": 0.7,
-          "dir": 1
-        },
-        {
-          "sym": "USD/MACRO",
-          "name": "Macro / dólar",
-          "pct": null,
-          "dir": 1
-        }
-      ]
     }
   ]
 }

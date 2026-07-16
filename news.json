@@ -1,10 +1,26 @@
 {
-  "updated": "2026-07-16T17:36:59.210635+00:00",
+  "updated": "2026-07-16T18:44:33.906158+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "De cara a los resultados, ¿qué hacer con las acciones de Tesla?",
+          "source": "Morningstar",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeVNCWjZSVTd5V1FmQXZnZ0JFV09GSlhFaC1mbXQtWjZ2b2RSSXhZazZpM0RwZUpjRjR5TzZrRnRoRG10M1NZN0xib1l0UGFjQmtQdS14dmxEbkpadURDVWhTUXdSZGhTeU1hVDlZNmdSbl80Y2QtNEx5T0FWVFpXMlNzUjFoSXFiVUgyeVZIYTRhdjdTZVo3RUpSb0k4dmRIWHc?oc=5",
+          "ts": 1784223247000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "TSLA",
+              "name": "Tesla",
+              "pct": 1.9,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Por qué las acciones de Nvidia bajan alrededor de un 2,5% el jueves",
           "source": "Invezz",
@@ -166,22 +182,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "¿Por qué las acciones de Apple suben a máximos históricos hoy?",
-          "source": "Investing.com España",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNjJjNzhRQWoxT1JqMDdzTXpfVGc4OWpaWlgzaFNaOVB5N29wcDM1LW96Q1VPZmQ3RFpVTDRsU0ZFOWxURlZQWTk2b1VlbHZ5NTJRejJHdklYR1UwbGtySHlia3NBOU5UQU9HRnNTWXdRNm5tMEFFYTM2ZVk2N2p6NnJ0Q3RPUVlhYURidEQ4TFZBMEtwME1wTmJxWjBjeF9ua1ZKTU9ESTVrZUpETzR5R1hyNUd3YXdfc216TWtn?oc=5",
-          "ts": 1784124960000,
-          "sentiment": 0.67,
-          "tickers": [
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": 1.3,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -189,6 +189,54 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "La preocupación por el gasto en IA frena el rally de las acciones de chips",
+          "source": "Bitfinanzas",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfMEd5Z0toWTg4dFZFVWgzUUNicEl5MGp1MVVLYTEtc1pWaHJCMDVIT0p2bDVTYThCcnFlOGJMOUZwYjRMRTNRLW1SN3gyWTFJMlBTQkdRWWswUHo3QXpWRTkwZw?oc=5",
+          "ts": 1784225700000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 2.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Adiós NotebookLM: Google cambia el nombre de una sus herramientas de IA más populares",
+          "source": "Hipertextual",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQUs5dm1WOHFIUWFLRTd2ZzJRRkx6YU55WnRnVFZUS0g4bF9CWFJYUlZHcnQzbmpiamQ1QXF4S3B5QmUxaWVhM3U4WDBFdVA0OGZIRGV1bmxhY3FrQWo4Q29qNG1VMjlpLXJOWkFrOWs3eFgwYUZTcENpY0stZU0zOGNtOHA2NkRHMndkWmdqZzgzQU01?oc=5",
+          "ts": 1784224703000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 0.9,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "TSMC dispara su beneficio un 77 % y elevará su inversión en chips de IA",
+          "source": "Revista Mercado",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYVIxbWdudXJQd0hWTFo3VlZvUVZINEt0MkxGc0FveFI2R3hYSElLLVdFdlBzeFBJQm5uYm4wV1JNZDFQdGVrdmEwRHh0RE12TXVTU0RMVUlRcThuTi1ZZmM3Z2c1U3p2MVR6NHV1WTlBbWpnbDBFMk8wcUhRX0NGMjVlQTNpRDFJZm9vVU01M2JRbkFjdjV6aVBtMGlRQ3JZbHRuWlkxLUk0RmZfUzZMRlJSc2FIaXJISjdrdA?oc=5",
+          "ts": 1784223752000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "TSM",
+              "name": "TSMC",
+              "pct": 2.4,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Meta enfrenta una demanda por presunto uso de inteligencia artificial para seleccionar empleados despedidos",
           "source": "ITSitio",
@@ -302,54 +350,6 @@
               "sym": "AAPL",
               "name": "Apple",
               "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "TSMC, la empresa más grande de chips, invertirá 100,000 mdd en EU",
-          "source": "expansion.mx",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM2JkVHg2LXROd2ZoLW1rRmNTTzhXTUJ3endYT2JseGtjbGRobXB1bm5hYTBKZWJOR2RvVTF4YVFkS3JlUm9ZVEhsdkgwN185NGNlT0N6LW9vS1hhV1o1SkZPb29ReFlHZ0Z1c2E0STdzeElpVnQya2dTVDB4ZnVBTNIBjgFBVV95cUxNN1kySi1oVFJPUW1sVDFuTGxFZmIxaHNnRUJZMFhlYjZEbDdkenc5LUlMYjhXM3pRLXM4blF6c3FYYXc1U1lIMnRTS1dtSWpELXlpWUFmWExxQ1B5VFpocFA4bDhqd3laR1RTYmg2RVN1Qk5tUXgzMnhON0tzQ2ZZWUpmRmxuM3FLT0hzNjBR?oc=5",
-          "ts": 1784212800000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSM",
-              "name": "TSMC",
-              "pct": 1.2,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Anuncia TSMC inversión adicional de 100 mil millones de dólares en EU",
-          "source": "Milenio",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTi0zakhfZzYza2VBWmRqdklEOXRpR2ZYaVJhYnR4MHBRS2pfcFpGcTB0Ry1kN3EyYWJ0Y1MwNm9JSkRsY0pmbzVWVkhJU1pSQVViSURNcmdDeW5Kd0I3YVBZTFA3cWt3elhGMldJaDhGS0FicUpRZlhRazVBb3p6clRnN3RJZ3podmd5SWl30gGOAUFVX3lxTE9SOWFtSDJZU3BISEY1NXcyS1lsNmFDVmRtTUgzYkNNZjY5bVpnckRaZFYxV3hjVWs4M1poREphNHcyaHJxYjhXcldPV2hQX1d2NHNva1NXZy1SWjdCRXkwRmtHdmFoOUhWZ0hpSzVBd21fSUU4T3VZRzdxM25WNUlJaDZlVHNZQ09ZZGx4Y3c?oc=5",
-          "ts": 1784212320000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSM",
-              "name": "TSMC",
-              "pct": 1.2,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Japón planea comprar chips Rubin de Nvidia con el fin de desarrollar IA para robots",
-          "source": "Bloomberg Línea",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNDRTd2VxQjBWSko0TFBYcjdLZkprM0VaT0RrQWtrRVNfdVFiTmdUY3lqVlZ2MGFRNVAwVVFmRE5femZ4T25WTHYtM2xpZ3YzNlBDZnZkS3lkaW1hZ19PYkFjTjFORy00cjBDUGZZYmFSaERpQ2NpVzZkMWszYmt5cFBDdldad0s5eUE4Y29sM0JjbjM1bEFUclhKWnZBRXJTYmszVXNmQUpzcUVPajZFQWo2SlRydDg2UlR1RWhOMDlrMklR0gHYAUFVX3lxTFAzR19acHZ1OE1HYU4tc1p3amxmQ25SUkZqYXBfbE1DdlNaNlc5Slp1bVRhTVpLal9IZl84MlRJZnlfbHZ5Vy1zNm92eHdOMkZ2TTlJMW1TeHB6SklKTlp5N3RWMFA4NVJlbUd2c3JtWHhaVVNjMUF6SEN1d1c0VTFZMHZibWpuR0Jibk52WV95cWU4Qy1zWGd6Wjl2Yk9kLW0teVRFdC0tdjlLS3d1N0R6T0RtM1VZajk5Sk9CbV9mUHlOYnlsdHBxTXgzUXh5cE9KZnJ4a2pIUQ?oc=5",
-          "ts": 1784211430000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
               "dir": 1
             }
           ],
@@ -1468,8 +1468,8 @@
     {
       "sym": "AAPL",
       "name": "Apple",
-      "net": 9.4,
-      "n": 8
+      "net": 8.1,
+      "n": 7
     },
     {
       "sym": "ITA",
@@ -1481,7 +1481,19 @@
       "sym": "TSM",
       "name": "TSMC",
       "net": 4.6,
-      "n": 4
+      "n": 3
+    },
+    {
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": 4.2,
+      "n": 3
+    },
+    {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 3.0,
+      "n": 2
     },
     {
       "sym": "AMZN",
@@ -1496,16 +1508,10 @@
       "n": 21
     },
     {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": 2.5,
-      "n": 5
-    },
-    {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": 2.3,
-      "n": 2
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "net": 2.7,
+      "n": 3
     },
     {
       "sym": "QQQ",
@@ -1520,28 +1526,22 @@
       "n": 3
     },
     {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": 1.8,
-      "n": 2
-    },
-    {
       "sym": "META",
       "name": "Meta",
       "net": -1.4,
       "n": 2
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 1.0,
-      "n": 1
-    },
-    {
       "sym": "MU",
       "name": "Micron",
       "net": 0.9,
       "n": 1
+    },
+    {
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 0.7,
+      "n": 4
     },
     {
       "sym": "WTI",
@@ -1597,6 +1597,14 @@
           "dir": -1
         }
       ]
+    },
+    {
+      "title": "Compras públicas en Ecuador: el mayor riesgo para los $41.172 millones que gasta el Estado no es la corrupción",
+      "source": "Diario La Hora",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObzFEUnJFVHE5RXFzYTFMVFhHT0ljNGUxbkozYUZ0M29Sa2NiVlA5aFo3b1VFMVVneV84ejlCM2k5S2J1RHZ0XzY2RGdsd095R0NCTDBzQ05KZ2tyUW4yLXNwbTMtZDNETy1ncTRHUFYtOVY5Z3RXZWNMUmxHMk9zX1FWczhJMTNDMWRidWF2ZWExOFZvc1VpOW5GTUk2eGNHdFNvdWVDVjFPbHpROHVBcThEelhfa3hFNnFuN1lLbENydm5NMDRad0w0RFZLR0swUWJjZnk5X0tKc2ZOZzdRQmRDcUFVTkFUc1NGdFI3X2JuRWYy?oc=5",
+      "ts": 1783529959000,
+      "sentiment": 0.0,
+      "tags": []
     },
     {
       "title": "Mercado automotor rompe récord en Ecuador: qué modelos lideran las ventas",
@@ -1695,14 +1703,6 @@
       "title": "Mercado de valores será parte de la formación académica",
       "source": "El Universo",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVzBtWmdCSlJURlUxdnBYZ3JqdWxTQm5vckh3ejdwcFNrVGFDeWxpMGdQNFJ6NnJBaGQxWUE5bWFLcWgwUm5EMUEzMGRmSmk5Q1VYMmZhaEpkalFxUGI5VVlkT2lUejQ1ZXBMelJVVTB0LXpyWjZVeWZOeVIwa0swUmo2Mk5hblM5eWZrTzBPczUyU193VURtZTNWX1VNYlpLejdVRENuY0h2QmpmSXFUY2FseHdRSjZnZHJiUmNiaGExZE9Wa2VBMlZOYl9hUdIB4gFBVV95cUxQNGFhVzYxQXpwWWVpN0FDOEZZX0RlbHhzYU04N3RrOFZyZS1PN2w0SkMwNi1PdnpYNUkzYjVBUU9tVGduRWYxWDl3WVNZRlo5WGRwMmJvcy1uME9yRC1VRW9jeDBSM3pmV2paVGVRSlFDVFFiZkdDU3VrUFpaX1JMMUw5emxPaFU5TnJuR2N6WFZTLXd6S3lXN1R0Y3ZmcFNDTkNjWnY3VWtGbENuNWZFaHBCdG5uVW9USDBHaXAzaU1aSzF5UDJDeXB1WG01dUZqMUxaWFMzSW5tSlRJRjZQeXBB?oc=5",
-      "ts": 1781852400000,
-      "sentiment": 0.0,
-      "tags": []
-    },
-    {
-      "title": "Ecuador apunta a nuevos mercados para exportar pollo, cerdo y camarón",
-      "source": "expreso.ec",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdmxZZ1NNbDhyN3VSMFRLb2x1SzhmRDlfcTJ3eDc2b3FPQlBKQXJzVlBOQ25BTGVpZVMxN3ZnRTk3Y3haNGMwYXRzb2l1RDB2MEhNcWxDTWZVNlh4ODhrVTRzNld4ZmFBRi1Za1FkeTAwWTVsZ0NrQm1iS2hzWlBpR2FNT1pMcWVVNUtFUFVUUEMxZDB3SnRPRHNsNHBSQmFZSVY0ZE56UUlBOTJXRFlUWkhINXE?oc=5",
       "ts": 1781852400000,
       "sentiment": 0.0,
       "tags": []

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T17:56:49.857934+00:00",
+  "updated": "2026-07-17T19:02:54.008314+00:00",
   "categories": [
     {
       "key": "tech",
@@ -69,7 +69,7 @@
             {
               "sym": "AMZN",
               "name": "Amazon",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -145,7 +145,7 @@
             {
               "sym": "GOOGL",
               "name": "Alphabet",
-              "pct": -1.6,
+              "pct": -1.3,
               "dir": -1
             }
           ],
@@ -189,6 +189,66 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Kimi K3 revive el temor a DeepSeek y sacude las acciones de inteligencia artificial",
+          "source": "DiarioBitcoin",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOemtxQUZNVHRONW94eUJ1R2stYmY5cWRnNnFBYmJRVlVhdFRmMUtTTGgtVmZ6Umh0c0JWcWljV0VOd01OLUtpbDJETlhWbjhwX183VjE2T2VmTGVKUTNrZ0V4QUwxYzRIdTR4TkRXTG1WakRWMEdhLVRrU1FmbUlpS2VWcngzcmVkUVRHT3NYRkVIbnVwanEyMWZZOWdVZFJQVW0tWktITTJ6aWFPSTN3dUlMNWlsVTBKLWwzRg?oc=5",
+          "ts": 1784314854000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": -2.0,
+              "dir": -1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "NVIDIA encuentra su próxima frontera y esta vez la antena es el chip",
+          "source": "CriptoTendencia",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSzZyanFUUUxzMXplTURtT3BmZDFvNXlaZTN6QkdBRXM3S2lYZVc4bGVseDBubURJYjZQSW5oSmJyNDFIbmtVa21LQ0Q0eElGby1WODFwWjFlNDJ3M1VpN0NWZkdlYm1qZWJMb0NYeVhwZVdmdnFRakJIY1NRV3ZQeGxnSlBnUlZfQU9SQWctWE5zc1lOMVAyV2EwQjBWN1NVeFIxQzR5WXRMc3V6?oc=5",
+          "ts": 1784314260000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Chips arrastran a Wall Street pese al récord de TSMC",
+          "source": "El Tiempo Latino",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUVRlT1hJc2FpeC02b3I2X1pQQV9wSENiQ19KUVBDUDIyY1pYRE5PQUpvOGs5V1RxTE5JQ2plOW9VRUlQMzAteUsyT1dfTEp2V0hyXzl2TzQyS055WFB2VjNjMlpPa28xcmw2aHp2c3FkWUxnWnB2U21xZDhRSy1NeTRpa3BMSWZhYTg3VC1WVGNCVHVMLWhNdkRmNDJLalZQelE?oc=5",
+          "ts": 1784313348000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "TSM",
+              "name": "TSMC",
+              "pct": 2.4,
+              "dir": 1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 2.0,
+              "dir": 1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 1.3,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Wall Street cae a medida que aumentan las preocupaciones sobre el repunte del sector de la inteligencia artificial",
           "source": "TradingView",
@@ -342,60 +402,6 @@
             }
           ],
           "category": "semis"
-        },
-        {
-          "title": "Apple supera a Nvidia y recupera el título de la empresa más valiosa del mundo",
-          "source": "Yahoo Finanzas",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZHk5YkZGWmN1UzJ0Z1REVUhZMVhvaWVnVVJGbXVRcmhpMUN3SldvcldwOGphRFlObU1SdWtFV2Y1a245NXZFVlItMldnYVdma2lOUXVGXzlqMldPSVdVZ2xmckJnYUZPQXBsNVlZQS1MRnBWQW9MV2hJM2VnMXgwVFQ1RHh4VXdScWREVTY4TWxiTWx5YzFhdGFZU0I2Zw?oc=5",
-          "ts": 1784296928000,
-          "sentiment": 0.67,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 4.2,
-              "dir": 1
-            },
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": 1.9,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Google DeepMind reconstruye con inteligencia artificial el legendario gol perdido de Pelé",
-          "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTFVlZ01taEVTRGZCRzV0NlRRMDZfSWhUS3ZVekJENWFoVFRsZGRkSUpfa1hSTXdERTkzdVU0bk5paV9CMHdVZ1lVWGs2X2FYWldRTGs1RTQ3a0ZjUkxxSlBUdUNtUVJIdi1Td19QUnBaVllzZ0RGTUFMdnpDb052cHRTdHNLRGVLQ0tlWEQ5SV9FQ29xTVlyWlo3ZUV2MllrMGNJYkNpMUVwTWl4cUpSSlBmTERRTEQwM0MtSjRJV2ZoZW1LWV9JNkh6aF90aS1o?oc=5",
-          "ts": 1784293826000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 0.9,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "IA Transaccional: la nueva generación de Inteligencia Artificial capaz de mover dinero y ejecutar transacciones",
-          "source": "DPL News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPejA5bWFNd3R3Z2JSTUx4ZzJsaEhtY0V6UmNFRksxRjhsTWtVUFEtR2VuQTdzcVVXSGR6dFRpZ1EyeC1MdnE4ZGtQcG9ZLUtMal8wTXR3Z3VzUzR2MnE4eUNXQnNiMnRZSmJTSXdYWFRGXzBwN3hVNTdjT2plZm1Ib0dqQzYyQWlhNWdqaGIxUEo1UXJFLTdHMEQ3WUo4azhRQzlFU1BBcmVmbmxu?oc=5",
-          "ts": 1784293741000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
         }
       ]
     },
@@ -413,13 +419,13 @@
             {
               "sym": "ASTS",
               "name": "AST SpaceMobile",
-              "pct": 3.8,
+              "pct": 3.2,
               "dir": 1
             },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.7,
+              "pct": 0.6,
               "dir": 1
             }
           ],
@@ -1534,20 +1540,14 @@
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 8.4,
+      "net": 6.0,
       "n": 8
     },
     {
       "sym": "AAPL",
       "name": "Apple",
-      "net": 6.1,
-      "n": 7
-    },
-    {
-      "sym": "ASTS",
-      "name": "AST SpaceMobile",
-      "net": 3.8,
-      "n": 1
+      "net": 4.2,
+      "n": 6
     },
     {
       "sym": "META",
@@ -1556,10 +1556,28 @@
       "n": 2
     },
     {
+      "sym": "TSM",
+      "name": "TSMC",
+      "net": 3.6,
+      "n": 2
+    },
+    {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
       "net": 3.3,
       "n": 26
+    },
+    {
+      "sym": "ASTS",
+      "name": "AST SpaceMobile",
+      "net": 3.2,
+      "n": 1
+    },
+    {
+      "sym": "QQQ",
+      "name": "Nasdaq 100",
+      "net": 2.8,
+      "n": 22
     },
     {
       "sym": "SPY",
@@ -1574,28 +1592,22 @@
       "n": 5
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 2.0,
-      "n": 4
-    },
-    {
       "sym": "AMZN",
       "name": "Amazon",
-      "net": 1.6,
+      "net": 1.4,
       "n": 2
     },
     {
-      "sym": "QQQ",
-      "name": "Nasdaq 100",
-      "net": 1.6,
-      "n": 21
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "net": -1.3,
+      "n": 1
     },
     {
-      "sym": "TSM",
-      "name": "TSMC",
-      "net": 1.2,
-      "n": 1
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 1.0,
+      "n": 5
     },
     {
       "sym": "MU",
@@ -1608,12 +1620,6 @@
       "name": "Petróleo WTI",
       "net": 0.8,
       "n": 26
-    },
-    {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": -0.7,
-      "n": 2
     }
   ],
   "ecuador": [
@@ -1641,26 +1647,10 @@
       ]
     },
     {
-      "title": "Mercado de salud en Ecuador apunta a una expansión impulsada por tecnología y nuevos servicios",
-      "source": "eloriente.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTWtRSEdwb1JuZzUyZ0FWWGVNenQzaEpCbFpJNEhiR3FPNHdrZ0hxeGNqd1ljaWhudGIzRWZKWnduajE1dmd1WDdyYkpzdElXNVg5eU1aeXZjOEVOZ0MwMm1FT0ZVZFQ4alVNNFZvak5GZ0FYbC1XdDJkQThNMlpTOV94dm5RUWhxbGx5ZnFpdTJzQzhRUXRGQV9iTFduQzlXSUd2S2h0a2tqbGFvRGdIVzV6M1R5MUZTTUZ4OFdXMDd4N3otQjl3N09sdGNwMDhw?oc=5",
-      "ts": 1784160189000,
-      "sentiment": 0.0,
-      "tags": []
-    },
-    {
       "title": "Ecuador abre el mercado de EE.UU. con la primera exportación de mandarina Tango",
       "source": "Diario La Hora",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc0hLelZpSlVVZ0VWa0JpN3AydXNpdzRONWdIZkdFMksxOUxpOTNGeTlqS0FWZUFES0dQVy1iTHNsUkJZd0pCM0RhV2FQUlZkeDdPM2xZLVRFSjJ1NkZiR0lFazM5M1NwNDlzbDMxNUdxTERfVmNWNnRFcTdtLW93aHVidDJkajlDZkR3Yk9mbkdQVGp3T0paZEkyem9lSWlZTVJMTUFfcGpxMlZyOHFOenlUUFFRUHE2UFQ2bUFzWFYtcl9ON2JjdDhySmcyR2c?oc=5",
       "ts": 1783964700000,
-      "sentiment": 0.0,
-      "tags": []
-    },
-    {
-      "title": "Ecuador debate cambios que marcarán el futuro de su mercado de valores",
-      "source": "El Comercio",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOEZWLVlnbXVSbG9LU0tZZm1wRWtKTGZkQkJuWkQxbnc1aFFOTlRNRGZrYjZKeWNvZ21idmpUSVQwWWhmdXRzSzFiUkpEU28yd3huVVVDUTd5YU96ZkZ2Nkp6VUZ3eXFIWDRZc2xCRjlXemJBcTMzN3Vfa3ZNc2NjbVhQOUF0MURkQ0FmcFdBMHlnU2ItTktoRHhZVFNJLTVhODA2S29CVGNKdWFB?oc=5",
-      "ts": 1783908000000,
       "sentiment": 0.0,
       "tags": []
     },
@@ -1686,21 +1676,6 @@
       "ts": 1783494000000,
       "sentiment": 0.0,
       "tags": []
-    },
-    {
-      "title": "Petróleo crudo en el Comercio de Panamá | Observatorio de Complejidad Económica",
-      "source": "The Observatory of Economic Complexity",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3I5aW5YVTM2ZmRFOHo5bHB2RTdESlE5QW1PbzNiMVV4ZHo5ZWlHc2R6N1c1Q1BERS05Nkw4M0Q1R2NkdlVXZXZkSTFRN3JONml3TXRyM2VGQWVRSkN5REFiYWtLZmJNeDRwc0I4OXpEVDFlVG1KdEQ0bFRnTVFqOA?oc=5",
-      "ts": 1783458502000,
-      "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "WTI",
-          "name": "Petróleo WTI",
-          "pct": 0.7,
-          "dir": 1
-        }
-      ]
     },
     {
       "title": "Mercado automotor rompe récord en Ecuador: qué modelos lideran las ventas",
@@ -1777,6 +1752,43 @@
       "source": "El Universo",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVzBtWmdCSlJURlUxdnBYZ3JqdWxTQm5vckh3ejdwcFNrVGFDeWxpMGdQNFJ6NnJBaGQxWUE5bWFLcWgwUm5EMUEzMGRmSmk5Q1VYMmZhaEpkalFxUGI5VVlkT2lUejQ1ZXBMelJVVTB0LXpyWjZVeWZOeVIwa0swUmo2Mk5hblM5eWZrTzBPczUyU193VURtZTNWX1VNYlpLejdVRENuY0h2QmpmSXFUY2FseHdRSjZnZHJiUmNiaGExZE9Wa2VBMlZOYl9hUdIB4gFBVV95cUxQNGFhVzYxQXpwWWVpN0FDOEZZX0RlbHhzYU04N3RrOFZyZS1PN2w0SkMwNi1PdnpYNUkzYjVBUU9tVGduRWYxWDl3WVNZRlo5WGRwMmJvcy1uME9yRC1VRW9jeDBSM3pmV2paVGVRSlFDVFFiZkdDU3VrUFpaX1JMMUw5emxPaFU5TnJuR2N6WFZTLXd6S3lXN1R0Y3ZmcFNDTkNjWnY3VWtGbENuNWZFaHBCdG5uVW9USDBHaXAzaU1aSzF5UDJDeXB1WG01dUZqMUxaWFMzSW5tSlRJRjZQeXBB?oc=5",
       "ts": 1781852400000,
+      "sentiment": 0.0,
+      "tags": []
+    },
+    {
+      "title": "Ecuador apunta a nuevos mercados para exportar pollo, cerdo y camarón",
+      "source": "expreso.ec",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdmxZZ1NNbDhyN3VSMFRLb2x1SzhmRDlfcTJ3eDc2b3FPQlBKQXJzVlBOQ25BTGVpZVMxN3ZnRTk3Y3haNGMwYXRzb2l1RDB2MEhNcWxDTWZVNlh4ODhrVTRzNld4ZmFBRi1Za1FkeTAwWTVsZ0NrQm1iS2hzWlBpR2FNT1pMcWVVNUtFUFVUUEMxZDB3SnRPRHNsNHBSQmFZSVY0ZE56UUlBOTJXRFlUWkhINXE?oc=5",
+      "ts": 1781852400000,
+      "sentiment": 0.0,
+      "tags": []
+    },
+    {
+      "title": "Ecuador cierra exportación de crudo por 313 millones de dólares",
+      "source": "El Comercio",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRHZtVnBjSTZEeXdvOW1ZX3Qybjk4UHZGckdEMFRYclRLMVNkdEVTUVZlRGl2US1WX081QUFBOTFGQkN2cU8zNXVfRTdpZmpRV0lmV3A1NnZPbkdNbUFCR3NYTTRSMF9ZYkQzcVo0cHM2QktfZVQ0Z3Jia0JmdlFaTzJMaV83QmZJczZtN3N5allSUXBRSGoyYkl0ODRUZw?oc=5",
+      "ts": 1781852400000,
+      "sentiment": 0.0,
+      "tags": [
+        {
+          "sym": "WTI",
+          "name": "Petróleo WTI",
+          "pct": 0.7,
+          "dir": 1
+        },
+        {
+          "sym": "USD/MACRO",
+          "name": "Macro / dólar",
+          "pct": null,
+          "dir": 1
+        }
+      ]
+    },
+    {
+      "title": "Congestión en puertos de China presiona el mercado del camarón ecuatoriano",
+      "source": "eloriente.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQzR1aktFY0J6a05fd2FLd1lhOXYxSkJTN3o2cEVrdWZUeF9nYTdIYnBGeHhxeldxcjE1VmdMWFNYM3cxYnE1c3NuMVJYc2RBczg3akI4WTlaWEF2SkdsT0IxdUZrYVRpSVlINW5peV9hOU42emRJY2dUNm1YTjZhbXM3bDVsMnc3dHAwZGZ6akIweDQyd0xZRTJkSTg2ZXR4Mm9YZGRnMjNFaVlwUWZlclFjanczUQ?oc=5",
+      "ts": 1781766000000,
       "sentiment": 0.0,
       "tags": []
     }

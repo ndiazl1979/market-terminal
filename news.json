@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T21:07:57.504629+00:00",
+  "updated": "2026-07-17T22:04:10.568918+00:00",
   "categories": [
     {
       "key": "tech",
@@ -85,13 +85,35 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             },
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 0.8,
+              "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Apple recupera el título de compañía más valiosa del mundo, por delante de Nvidia",
+          "source": "TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CLTVEeHUzdzVTVk5tTEcyRmtGZHpHSnotUjRoQmRFcW56akxFd2hqZngxZGFXRWFlS296RFpjN2hhd1p6MDF2V0NsQ0NIRlg2c3JqdkswaXpSUVFmWXIwdklwVXpRZw?oc=5",
+          "ts": 1784298966000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 3.1,
+              "dir": 1
+            },
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 1.4,
               "dir": 1
             }
           ],
@@ -172,22 +194,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Las acciones de Alphabet caen un 4% por retrasos en el modelo de IA Gemini",
-          "source": "Investing.com España",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLVBLamV1U2lEOHlIZ3RVdFlZMWlTY2JrMFRYQmlMczhjREdqTmthRFdSNnh0MTdUbEgtYk4yRTE5X3c3UnZETkg3UU0wcGNEMDM0eGFQOHRwcjdUUm1sYmFRV1FRVWxvTC00cHJnRGlGeFg0OG1qaGotanV1ekx5bU94dkplRUZjeVlLLW5pWWFyRTJmeElidVZBbEQ4LWRHOGlTTGtIOF9yZTRJazk4WlFFYy1lWVotdzhHSWh5WVhXUQ?oc=5",
-          "ts": 1784225880000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": -1.3,
-              "dir": -1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -195,28 +201,6 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
-        {
-          "title": "El S&P 500 cierra la semana a la baja ante las dudas sobre la inteligencia artificial y la tension en Oriente Proximo",
-          "source": "MarketScreener España",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNODA2NXJXdFkxX3J5LU9ITHo3N1ZfNXRkS2ZiTmEzYzBocExIRExjMlhmazFlYkZ3MzdXUDdCTEpCTktueE8xeEthQWk1cklyNWJBYVJpNjdYU0VpWFREUkQzb1JoZkpGQ2NNbEtZZlN2d1lrNDlOMFdZRy10QzI3S1lKd1JlU1FhS3RWWW9RZTl0eUkyNnZnR2hjVnNWTXZqVUplM2lYYXN5ZEltUTFlZi16akQzMFhvUExhNVJFbjRtMnhMNXpaa3lxV2lkRzhUVUxDUnM1YzhsTE5LaWFWY0R3Nm5UX3FQZlNSdA?oc=5",
-          "ts": 1784321180000,
-          "sentiment": -0.67,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": -2.3,
-              "dir": -1
-            },
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": -1.5,
-              "dir": -1
-            }
-          ],
-          "category": "semis"
-        },
         {
           "title": "Apple renueva su gama iPad y acelera el despliegue de su inteligencia artificial en China",
           "source": "MarketScreener España",
@@ -310,6 +294,44 @@
           "category": "semis"
         },
         {
+          "title": "Apple destrona a Nvidia y vuelve a ser la empresa más valiosa del mundo | El Colombiano",
+          "source": "El Colombiano",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbC00VUZrcmdkMF92ckhsNGt4YzFwaW8ySXVEaF94T1J1WHJ4dFpuaE9teVRkUXkyU3N4cUFKd0RCbEk4dXBRUlVNUWl0ZWxJSlB3WXZVUVp4R01nSk51TC1LdDV1MW11VkVBUVpDNGxZSmlxc0kyZHZ3Zno5X2pkdTBTSFR3aVpvcV91U2pZR1ZkdG1ZOGprR9IBngFBVV95cUxNUHBEZDdZal9wOUpHZmJXLTRMTW1VQ2FjVWkzamx2VVdhUGpsMjN0R1hmRERCamdmMUFBZ0RjU3laeXppVkR2OFpGcEhPc3FTVE5nX0xXMU90NWh2am9jamp5dWh2YjRvaGRscE5hRWJYOTM3ZWVRU3A5dzU5N1FVS0d6Zm5IVEhBZlhjSjJwc3dYTDg2YXU4TU4tUEVNdw?oc=5",
+          "ts": 1784314781000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            },
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "NVIDIA encuentra su próxima frontera y esta vez la antena es el chip",
+          "source": "CriptoTendencia",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSzZyanFUUUxzMXplTURtT3BmZDFvNXlaZTN6QkdBRXM3S2lYZVc4bGVseDBubURJYjZQSW5oSmJyNDFIbmtVa21LQ0Q0eElGby1WODFwWjFlNDJ3M1VpN0NWZkdlYm1qZWJMb0NYeVhwZVdmdnFRakJIY1NRV3ZQeGxnSlBnUlZfQU9SQWctWE5zc1lOMVAyV2EwQjBWN1NVeFIxQzR5WXRMc3V6?oc=5",
+          "ts": 1784314260000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Chips arrastran a Wall Street pese al récord de TSMC",
           "source": "El Tiempo Latino",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUVRlT1hJc2FpeC02b3I2X1pQQV9wSENiQ19KUVBDUDIyY1pYRE5PQUpvOGs5V1RxTE5JQ2plOW9VRUlQMzAteUsyT1dfTEp2V0hyXzl2TzQyS055WFB2VjNjMlpPa28xcmw2aHp2c3FkWUxnWnB2U21xZDhRSy1NeTRpa3BMSWZhYTg3VC1WVGNCVHVMLWhNdkRmNDJLalZQelE?oc=5",
@@ -360,34 +382,6 @@
           "category": "semis"
         },
         {
-          "title": "Continúa la sangría tecnológica en Wall Street: Nvidia pierde su trono como empresa más valiosa frente a Apple",
-          "source": "El Mundo",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMzU5VVBhck1LS0JwSC1NZzRGNHFCNjc4cVVBbk9ob01CSWx0YjhqZ3hEb2hXV2xmQVU1b3Y0M29uYV9LbmhpUmtKNWxwY0VocVlXX3FqanRGOVVFcEhJd3pvZ3dEbWxHRnVjU29POXlhNVdkZk5EVTlPQ0pjSTJkLUh5b2ZLNVFr0gGIAUFVX3lxTFBqWXdtNnFCQ2kwRG9TZTNvRjRZLXRmOGJWVlVPU1NyRjVpZzNBLWU4NUJtbE9mSTNubnZOZGNiaDNEYWZDU01ENWh6b0hhVjA4TkZoZmU2VFZpU05lT044YmVCNGw3aVEwWW8zdjJJazlXYkNRRjYwS3VvV1J0dVA1dGc0MklWX1o?oc=5",
-          "ts": 1784304244000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": -3.6,
-              "dir": -1
-            },
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": -1.6,
-              "dir": -1
-            },
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": -1.3,
-              "dir": -1
-            }
-          ],
-          "category": "semis"
-        },
-        {
           "title": "Apple destrona momentáneamente a Nvidia como empresa más valiosa del mundo; pugna por liderazgo refleja el auge del sector de IA",
           "source": "El Universal",
           "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVHhMMWRwQUw3X3VoWHNsS19aTkhZYlUtWkV4QzA2b1lwQmpIR3lTQ3luQmNpNl95aW9UT0duWnpmbldIUzZvU0taOXZWaGZ1aVpBZFlnTlhyckZsOV9TTUZiZXlIMXc5WXhfM1AweEszSHZ5bkVmMUhjTUZFX1BhVFlJckZmTVpGVzh0a0ROVHJ5Sm51TXl1STF0WnJ5dmJCU1RVZDJSYlBpc3ZfLWtNdlU4TlZOVDl6R2JYVXQ3aXd1YV9YVGl5eGNROE4tSExhcFAyOVRaalFFYlE5YlNwMl9VWkRjc0NpeWt0UHZKS0RkUVhIRFVqYXVlSdIBjwJBVV95cUxNb2VZeWM2VGdQQVNGMzBtRndQTnhMaUFHVlVuQWMtNzB2SV80MjFXakZEckxDZFJMTUNFeGtYLUtiQVdsNm55NjhKNmRXR2J1bFZsLTZDMUh2OUR3NERRUTVmNWJlQk42Znh4RHlQVmtsS1ROc051Q3AyeWpYSVdmUDlBbGlhYjJaYVhVNlBnVFVhT0JlZXVJMms0RlRuNVdDMTdLWWF3S1JIaWhEbVJYbThoM09lcjJXTE0wb2s0d2EyWGlTZGM0OE1Qa1p4OW9XaURqbWZtSWlKS3p3dndabEd2MnB4NXJBU3VFZEZTMHlPNExQbXNudlQtdmg2TDVBVWphc3ZvSTFHZGFxSnFn?oc=5",
@@ -397,13 +391,13 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             },
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -603,19 +597,19 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": -1.2,
+              "pct": -1.0,
               "dir": -1
             },
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": -0.8,
+              "pct": -0.7,
               "dir": -1
             },
             {
               "sym": "SPY",
               "name": "S&P 500",
-              "pct": 0.5,
+              "pct": 0.4,
               "dir": 1
             }
           ],
@@ -770,9 +764,9 @@
           "category": "defense"
         },
         {
-          "title": "Moncloa prepara una lluvia de millones a la industria de Defensa para cumplir con la OTAN",
-          "source": "Vozpopuli",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYXhRVk1yTDlxWWYtcnFQd2ZqdW5DNjR2bW5pUk02LTZTdlUwdU1HUkxfX2xCSDVUNW0xUGcxbUllSFhhUTI0SHVPckxHSlRBNmFhQ1pTLVNtMGRaeHVnT25nazYxUmR5TFRrMWpVY2F2b1l4SW5EcUdQUlZYeFlRUVZRX3JCR3E1VDBpN3Q4V3FsSVAteEdLNVFzazNCZ2RMZW9MODBkSDVmS29vOXBhdE8yWjN3UVprNzdXV3U1RjFQbkR4Sy1Z0gHMAUFVX3lxTE1lSEVDeHpsN0ZKLXBISEpEVWFHMS14NVFac1I5NktqMjhYMHhSYWRyQWc2bEZiRC1kMnMxdVE3cVdDWVVHelpENlpFQ3A2dl9iQUZoay1VV2ttTWxrOC1lM29yajVKOEVrQmRhRElITG5oUUFIa3JVazdrUkl1am52S0Q4QmRnMXdEZWoxVUdIa2FHd2RHTXBBMDhubTNSWUJ0bGcxbnZVckcyTnN3YVR0NXJIRlpDMXpJYXNEaVUtOUhnU0E3dkxFTW1hVA?oc=5",
+          "title": "Starmer lanza un plan de gasto militar de más de 17.000 millones y situará a Reino Unido en el 4,2% del PIB",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNM0JjN2ZDd3JMc0dNRFBuSlpBS1lhNmNKcDZpVjExeE9Uc1RYYmlyUUNoaEczb3dpUWluT0RVbnlmTHpGcGE5XzhKYVU2VXBSWmk4WFJyYlZVb05abjE4VnhsZFczZUQ2eU14YWJsVktFMTJXc2V0UDdMT0RrZEZpSkQ2bE93LTBSNDhQdmc1eVhJVFNGSnFHSHphZE9QeWJlU0VMNzZNTk91aExNRzY5cm9Tbm1WMlp1cXRJWXJrTE9ONkw0Vk9VYUNXelluN05CT1JjVW12RmVHR0VfQkFKMHJFckxkd0VDRDhEbEp30gGIAkFVX3lxTFBsRGVGSmVOaW9ZX0lXUUtxWS01WDNmcjJnQ0RtLXgtb3dGOTg4bGJNT2tDdlpNVjVJU1FHNTVhQ2xvWnJhc05NbVlJcnZUTjNGRnRvTmZ0MUsxbmE1Z0RNeXNwNFFPVHBDQkZoNGNyT1hreTRmVGtmNTZ2SGpRcG83cm9QQjgyaXpLUENDMzB4SkcxTWxhVlgtVXVDazJkRWEyQkw1c1lZYTV4Q0VvSmwwTG16OWh0bWNLOTlpYVhLWlZyc3VSRGxXMzRSR0xRdWZXOXlVRlpjY2FhOG1qRnNXbHZlclJWeXF6NVBWSzl3TlI1Vml6MzhmS08tVzdyVmstcW05SktQNw?oc=5",
           "ts": 1782802800000,
           "sentiment": 0.0,
           "tickers": [
@@ -786,28 +780,16 @@
           "category": "defense"
         },
         {
-          "title": "Cómo vende Rusia su industria militar frente a Europa y EE.UU.: la batalla de narrativas en el mercado global de defensa",
-          "source": "Escudo Digital",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOd3ExTTQ4eHVfN3pYMEtUQ3dCMW5ETlJsVkV0YzROaWp1SUtBTXBYV055NF9tZU1IeUVkT2MtenVmSUw3Q3MwQjFRUkVzRzM3NVcta2hEandXNFlaa25meGwxLXRqajFjVVM5MGxiWXRFZ3czQWk3WEhhM2VoZXpwMm5MRXVLMTVaSENpdi1RSkNUVHhWeXg3MGJYcndNVmNoVEJoXy13bFpPaVNDODZsTFRLamkyWVZUNDNaMFZ1VWNuc1ozYjJhZGs1X3BkZFczeVByYmZQalBFcFlUejNxVDBZVjQyelZYNEZINlZpTmhBdFlPNXgxUmVIemlGVHJ3?oc=5",
-          "ts": 1781247600000,
+          "title": "Moncloa prepara una lluvia de millones a la industria de Defensa para cumplir con la OTAN",
+          "source": "Vozpopuli",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYXhRVk1yTDlxWWYtcnFQd2ZqdW5DNjR2bW5pUk02LTZTdlUwdU1HUkxfX2xCSDVUNW0xUGcxbUllSFhhUTI0SHVPckxHSlRBNmFhQ1pTLVNtMGRaeHVnT25nazYxUmR5TFRrMWpVY2F2b1l4SW5EcUdQUlZYeFlRUVZRX3JCR3E1VDBpN3Q4V3FsSVAteEdLNVFzazNCZ2RMZW9MODBkSDVmS29vOXBhdE8yWjN3UVprNzdXV3U1RjFQbkR4Sy1Z0gHMAUFVX3lxTE1lSEVDeHpsN0ZKLXBISEpEVWFHMS14NVFac1I5NktqMjhYMHhSYWRyQWc2bEZiRC1kMnMxdVE3cVdDWVVHelpENlpFQ3A2dl9iQUZoay1VV2ttTWxrOC1lM29yajVKOEVrQmRhRElITG5oUUFIa3JVazdrUkl1am52S0Q4QmRnMXdEZWoxVUdIa2FHd2RHTXBBMDhubTNSWUJ0bGcxbnZVckcyTnN3YVR0NXJIRlpDMXpJYXNEaVUtOUhnU0E3dkxFTW1hVA?oc=5",
+          "ts": 1782802800000,
           "sentiment": 0.0,
           "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": -0.7,
-              "dir": -1
-            },
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
               "pct": 0.4,
-              "dir": 1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": 0.3,
               "dir": 1
             }
           ],
@@ -823,7 +805,7 @@
           "title": "El precio del petróleo Brent supera los 87 dólares por la escalada entre EEUU e Irán",
           "source": "El Boletín",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORjVjQ20zbWgxVHFQcjdVaUd2QWZBN0d4RzFzMmZhUXZ4MGl4YkIxQ1g4YzYyLUJGNWtmSElMTThvd05Ca0hKaXJ6VUptbVJZbWpPcThFTkpwU1RLS0FQUC03MmhiZGhhci1YNXM4aXpTaFpOaksxczJhVloyVGNrVjAyM0swTW44Z0luWEUtQkp3ZGw4WHRXa2lGaWh6c0hBTlp2NHZtbzlrZVp1cEFvN9IBtgFBVV95cUxOMFJJZWtuN0FndUtreGFab2JaN0NTN2V1ZXRqaEpIRXNuTnluMFR5Q1dxcVhJSEdydVpTMXE4S1FGVWhDNHVyNk50U0JBZl9rVGYtb2tTaGpBVUo1bVdhWldId1NXTHl5a3hKUnc3QTA4MnA1WmVmaFc1a2FyaHppNXh3RHNCdEVZV2xqUFhfUVlid21IZllWaVlfVkREVmg3MXIxd2IteEtyVFlqLW5pdE9RV2NyUQ?oc=5",
-          "ts": 1784312247000,
+          "ts": 1784314358000,
           "sentiment": 0.5,
           "tickers": [
             {
@@ -1414,6 +1396,22 @@
           "category": "macro"
         },
         {
+          "title": "Wall Street termina a la baja tras comentarios de jefe de la Fed - Mundo | Tvn Panamá",
+          "source": "tvn-2.com",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdHBPY25VOVVQRXZjOHNQV0RYSkRkTVpDbm5EZWdaNlJTeHpPaUt5VkExcHJhbnRLZkJXRXNpZTRtTGFtSERvYy12YklaV3d2QmJzWF9WYWFoai1RbTRaRHRuZTg5TUEteXVkTGVOYkZQRVNLRl9SanlDT3lQTXRUaGphOWUyd9IBiwFBVV95cUxPOVdZS0otSmp5NjhpNTF1LW1ZeEgxT1h5WDhlMjA2OW9xbkk1Z0o0bEhJblh3eVNBZ09EYUV1Z1U4VnhEV2ZfbEVXaUFFbTNHREdqbWtMQ04tcnY0dTFRUFowOXBYNWczU0VrRGN2dVhhUHhqVFFKdlN1WWJpdmhqcGI1dDMzZUN2ZFJz?oc=5",
+          "ts": 1782889200000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": -0.7,
+              "dir": -1
+            }
+          ],
+          "category": "macro"
+        },
+        {
           "title": "Wall Street y el petróleo suben tras una nueva tregua entre EEUU e Irán y el fallo sobre la Reserva Federal",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObC1LLTJ2aENkaHhtX1JNLWJxajZKTmhpSEYxVXBLcVVpSVhtd2dDa3JEbkFzNUVBZVhPRHlXLUx5RWdrQWdnZl9Tb0hxbUlHMXhXVVFDMkx6S1p6bkhkelNXX3YtckZxbWQzeXBYX1NNRTh2SlM1LTNtN2NoelpHbkNfQ1ZBOFI3TXVBZkRSM0dSLXc4dzI2NFMzeTBPaTl4b0czMmtjQUNEcWxyNzdkQzNsRkJEckVob2VYZUd2R0NSQkg4ZzVON0xrSG9NQWExS2VraEhfSWxUMHlFVWpxNUlTd0VEVEV0d1dISnF30gGIAkFVX3lxTE16Q3NmUFk1dVY5UFhxcVhKX2pxU3hNWWZ6TVNIR3dJQ2JZQ1JMaUJDM0lHYjRJeUR5NWRrdWxFOTRYUWx3MTdsY3pXYU04dDVDcjk1Q25WYTFGdmk2Zkl5SS1STS1NSWQ3NXE2N1MtYUJYU1pDS0dEOXNyX2lYcUdkVDMwaW1NNDZkZVpfVUdiaF8yMGN5Rm1ZRDRNYUFmYklaajlXMzRjVFJDZmt5OHRrRHZQa1VpWV90emM2d25KVmhSSFdUazJFcDNxMXhTMkdSSGMyTmtGSmFPVXE2SmhlekhESmVWRTVYR2ZjN3R1MVJHZmo2a2k1dkVYREo4SEdRaTNPcFNVOQ?oc=5",
@@ -1522,22 +1520,6 @@
             }
           ],
           "category": "macro"
-        },
-        {
-          "title": "Por qué una Fed más agresiva no asusta a Wall Street",
-          "source": "Invezz",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb1U3cEc5MnJfRWlUUWhvVG9NeWZjR0lTSUF2XzBYbTlXcFVDcTlYTVB6Zkx1N0o0TkpSRkVqZUE1TkFaSW05MnpwTXZhMEsyV3czSDFHanJ4ampsVW5tZ0NLcmVWa0xzenZZVTZURHBkdERMMHh2V2pKMW44YktTdHVWcmJTUV8zci03cWdXUm1BTXJQTHg2bEZSdw?oc=5",
-          "ts": 1781938800000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
         }
       ]
     }
@@ -1547,13 +1529,13 @@
       "sym": "NVDA",
       "name": "NVIDIA",
       "net": 12.0,
-      "n": 8
+      "n": 10
     },
     {
       "sym": "AAPL",
       "name": "Apple",
-      "net": 7.6,
-      "n": 9
+      "net": 11.2,
+      "n": 10
     },
     {
       "sym": "META",
@@ -1562,22 +1544,16 @@
       "n": 3
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": -4.3,
-      "n": 4
-    },
-    {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": 3.5,
-      "n": 23
-    },
-    {
       "sym": "ASTS",
       "name": "AST SpaceMobile",
       "net": 3.2,
       "n": 1
+    },
+    {
+      "sym": "SPY",
+      "name": "S&P 500",
+      "net": 3.1,
+      "n": 22
     },
     {
       "sym": "TSM",
@@ -1586,21 +1562,27 @@
       "n": 1
     },
     {
+      "sym": "QQQ",
+      "name": "Nasdaq 100",
+      "net": 2.2,
+      "n": 21
+    },
+    {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": -2.0,
+      "n": 3
+    },
+    {
       "sym": "AMZN",
       "name": "Amazon",
       "net": 1.4,
       "n": 2
     },
     {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": -1.3,
-      "n": 1
-    },
-    {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 1.3,
+      "net": 1.4,
       "n": 25
     },
     {

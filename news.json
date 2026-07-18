@@ -1,26 +1,10 @@
 {
-  "updated": "2026-07-18T08:56:34.214552+00:00",
+  "updated": "2026-07-18T10:16:12.416296+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
-        {
-          "title": "Supera Edomex meta con 2.9 millones de acciones en salud pública",
-          "source": "Quadratín Edomex",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSlM4OFlJYVhIbUZjTXFhMWVKbTZ6bG5BY0w0TWRTNW0zcGY2MnhvZ2k3dDNvcGVldG9lV1RvdThFSEZJT252ZHVCVFpueDV1WGtoejFRRDcyb3VjeVJGUExyVE9XSEZxOUh5SkVsM2R5Z1FYTlBfYnEzbGs5WnlqeG40Mk1adm02aWRvY3hsanZwem8wVm5jRW9UdlNzUQ?oc=5",
-          "ts": 1784342700000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 2.0,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
         {
           "title": "Acciones de Microsoft caen; analistas recortan objetivos antes del 4T",
           "source": "Invezz",
@@ -182,6 +166,22 @@
             }
           ],
           "category": "tech"
+        },
+        {
+          "title": "Acciones de Apple, en máximos históricos; se consolida como la segunda empresa más valiosa",
+          "source": "EL CEO",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbG01UmMxcWZoTHRuaURmNlNMTHJHMjZWalk5MklOam1YbXVKLU9jRDhmNzN1VGVIOXMzRXVKbW1aYVRrMUVaWUhqdHlWWk4xdWY5czBHblVrMk5LZGdFdmxCSDlBTGxJb0VUT2JLamJqLUFDdUFrWW51M0I0SVBtOVVQUkRMUlphc2dsckJXc1lGZmZGdGVlYUl3UkNkbTdrQ2NOYzc5RU44SDNNVlprbWtQWnJWams?oc=5",
+          "ts": 1784228905000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 1.1,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
         }
       ]
     },
@@ -189,6 +189,50 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "\"La fábrica de TSMC en Arizona es un pisapapeles\" el obstáculo que mantiene los chips de Apple atados a Taiwán",
+          "source": "Applesfera",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUnYxakRVdXFnbS1EdWItaDBWVFVfUlRrQWMzV0tpbUxXMmpyYThuVXVLYW1ZS0JxbV81RV9QZVhYeUtnbVRJYUZlMFBzbDBXWEgxQUI5MUdlVmtXMWZQWnUxaFAyb2VoeW8yQnVyRlg4QzdfLU1iVUlfdTc5cHNrR0Y4SEZaTTkwNUJKbFBIV2c4a2hJdmtha0ZZN0U4dDIyaTR4M2l3X3U0Tk5YY190bGtDVGxqaUlhSFp2M0JfWXE?oc=5",
+          "ts": 1784365207000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "TSM",
+              "name": "TSMC",
+              "pct": 1.2,
+              "dir": 1
+            },
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "OpenAI lanza GPT-5.6: la nueva inteligencia artificial que compite con Google, Anthropic y Meta",
+          "source": "Ambito",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOblZzaHJtY3QwelkwWlhaeGx4LVczS3ltb0l0ZGhhMUxXemx2VHlCM0JPbnlscFU5QVlJMnZDblNjQXpfYXI5OF9RUkxpNWpUVGJJcUpRVFUxUHNLS1Q5b0NVNloxdVRCOFhRRUs0S0l1SlVZdTA5MVRwa1MwRHI0dFFDTGctZ25MVWk0M1FOT01zRUpEUXV3T2pWZURjNlBOQXROVnJBNU0yVER6Q3Rrd2RJS0tTTnVPUEhheFBkSl9VQW41M1huT0pwQdIB0AFBVV95cUxNZFdVWEpPUDhRZ01Xb1gtbmZ5cWdNNWlFdWJPSktGMFB5Q0tWQTNyMlFqOUdsV0RDdjk5c0FRWTVDRjVJalBZbFBNaEp4TGtxMVdzTzlDX1FmbzB3b1R3U2V0eWt1LS1PcGFTU1NTZXA4X0IxTE9uTTFvVDZFYU5zTi1WU0Z6RFRYbWZrYnFtT3J4aDcxblQ1TktXblJMREN2cHhKUU9ranFUb2JBc01RWDZxZWwyb2ZDQXp3UVB2RVZLSmluSFoyWjl5bVc1RXdk?oc=5",
+          "ts": 1784365200000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": 1.2,
+              "dir": 1
+            },
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 0.9,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "China anuncia un plan de acción global sobre inteligencia artificial:",
           "source": "Vietnam.vn",
@@ -342,44 +386,6 @@
               "sym": "SMH",
               "name": "ETF Semiconductores",
               "pct": 1.7,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Apple destrona a Nvidia como empresa más valiosa del mundo",
-          "source": "Yahoo Finanzas",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYXNGSm0zd18xWUNDcVEyUnB5czNHb3QxSmYyNFVVd1k3LVdGRHJPdkNscEpvWEpDbWN3MWNVc0c4aXZKc01RQU5OSllPVlluOWVPeUxSaTdURzNzWTNXbmM3d0d3c29CdmJQMk5POTh6Y1BpemV4eEdoYnFjdExLVm9VakhEcnNJLUM4R0NNYy0wajhhZEdyakxB?oc=5",
-          "ts": 1784298600000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
-              "dir": 1
-            },
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "IA Transaccional: la nueva generación de Inteligencia Artificial capaz de mover dinero y ejecutar transacciones",
-          "source": "DPL News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPejA5bWFNd3R3Z2JSTUx4ZzJsaEhtY0V6UmNFRksxRjhsTWtVUFEtR2VuQTdzcVVXSGR6dFRpZ1EyeC1MdnE4ZGtQcG9ZLUtMal8wTXR3Z3VzUzR2MnE4eUNXQnNiMnRZSmJTSXdYWFRGXzBwN3hVNTdjT2plZm1Ib0dqQzYyQWlhNWdqaGIxUEo1UXJFLTdHMEQ3WUo4azhRQzlFU1BBcmVmbmxu?oc=5",
-          "ts": 1784293741000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -1366,6 +1372,28 @@
           "category": "macro"
         },
         {
+          "title": "Wall Street abre en rojo y las acciones de los chips caen de forma generalizada",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMUdpeGNVd0szWThnNk5WaGt1RS0yaG14bXhzTUVva1ZsM0dkam5ZWjdjN0lFUVJabnVpcC1uVUxiV0lrWW0xalNxLXJGd2FocHlrTmxnbUxlUW9GX2dmNU1WbktTUzhJZzhfZTZicWVFNm9HX3BLdGhEdkJxa0pzVEJERjk5dDNfeG9BT1F2UzVuMGdKVmp4bThZWHV6eFh2V3VnbFNtY3phbXl5VGFhSXhSZVhEb3hxczNURmFZa2owLXZiTXpqTTQ5ejjSAecBQVVfeXFMUHJaUGRDTVh0R3dlbnNCdHpRcDFXaTFTaFV0U3o3MXdPaldyOHgydWpaLXN1V0JiUjlFeWhUbzR2UXQyMXZnblZRNVJ1QklkU1NBR0h5S2ZTRDdqRlFTXzlwUzlYd0tDS09oWUFDTGV6R2VyTGFZWlJwVFBCWXFIaTFrLTNsMEFFZTItTWtwc2ZrV05yNFVfck0zdTdaQnNNSFZjb0lnRWp5Mzh1V0lCSEROTDVVWTYyaVRJUUhvaW1CMmNuVDVSZ0Z5aVRJN1h6N3h2RXp5b2dxa2F1SzRrSjFYS2dJNjdJ?oc=5",
+          "ts": 1782889200000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": -1.1,
+              "dir": -1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": -0.7,
+              "dir": -1
+            }
+          ],
+          "category": "macro"
+        },
+        {
           "title": "Wall Street termina a la baja tras comentarios de jefe de la Fed - Mundo | Tvn Panamá",
           "source": "tvn-2.com",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdHBPY25VOVVQRXZjOHNQV0RYSkRkTVpDbm5EZWdaNlJTeHpPaUt5VkExcHJhbnRLZkJXRXNpZTRtTGFtSERvYy12YklaV3d2QmJzWF9WYWFoai1RbTRaRHRuZTg5TUEteXVkTGVOYkZQRVNLRl9SanlDT3lQTXRUaGphOWUyd9IBiwFBVV95cUxPOVdZS0otSmp5NjhpNTF1LW1ZeEgxT1h5WDhlMjA2OW9xbkk1Z0o0bEhJblh3eVNBZ09EYUV1Z1U4VnhEV2ZfbEVXaUFFbTNHREdqbWtMQ04tcnY0dTFRUFowOXBYNWczU0VrRGN2dVhhUHhqVFFKdlN1WWJpdmhqcGI1dDMzZUN2ZFJz?oc=5",
@@ -1474,22 +1502,6 @@
             }
           ],
           "category": "macro"
-        },
-        {
-          "title": "Wall Street y Europa ceden terreno ante el freno de los gigantes tecnológicos",
-          "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOME1Yc2xCUGhESnRKaGN5OHR0WkVfMmZqNmNjRGYyYkFtcVExeTNnUFdLN1Boalg3c0RvbkpKdnJNcWJsN0N6THJMMFFqUkdqc1NEVUU5UnZ3U2ZsRGVYYkZvTHczaGZ4WWxWalJHT1lDSVVMSkxfQlYyMU9tQ3kweUxsN08yZkpmZ01jU3dBdkh3a1dGTk9kMC04Q0VUQUVIQWRFd3NrdkRONW9sMHBkYjBhN2pldWZsdGtrcUg2Q0kxcjBDVWfSAeABQVVfeXFMTURVYjBNdGtXQk9xazdxTlY3YlAwQldYZkg1RmMxcUxPSndmZEY2ZU55ckJwX1A5UkdhRERWUXhWMHg2eW1OS2dXVGFSd19tVEpoUFlnZDNITDJrYTdHTE9hQlFFdHlZZkhwd3dzaUxFZGEyRl81ekdrMjFpYmJPTmtRLUMtTkRHU1NfTTJRVXVRSUZySXpRdk9tVFVUSzVnTWRmZ3lrLWxYT3ZNRzNkYm1GcHpBdWJZY3VpeF9JemNuQkVRVXJYM1FNV0JLUk9iQWx0aFRTcVNneV85THJxcnM?oc=5",
-          "ts": 1782198000000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": -0.7,
-              "dir": -1
-            }
-          ],
-          "category": "macro"
         }
       ]
     }
@@ -1498,25 +1510,31 @@
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 12.0,
-      "n": 6
+      "net": 11.8,
+      "n": 5
     },
     {
       "sym": "AAPL",
       "name": "Apple",
-      "net": 6.5,
-      "n": 6
+      "net": 7.7,
+      "n": 7
     },
     {
       "sym": "META",
       "name": "Meta",
-      "net": 6.0,
+      "net": 5.2,
       "n": 4
+    },
+    {
+      "sym": "TSM",
+      "name": "TSMC",
+      "net": 3.2,
+      "n": 2
     },
     {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 5.1,
+      "net": 3.2,
       "n": 7
     },
     {
@@ -1550,16 +1568,16 @@
       "n": 24
     },
     {
-      "sym": "TSM",
-      "name": "TSMC",
-      "net": 2.0,
-      "n": 1
-    },
-    {
       "sym": "AMZN",
       "name": "Amazon",
       "net": 1.4,
       "n": 2
+    },
+    {
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "net": 0.9,
+      "n": 1
     },
     {
       "sym": "MU",
@@ -1572,12 +1590,6 @@
       "name": "General Dynamics",
       "net": 0.5,
       "n": 1
-    },
-    {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": -0.4,
-      "n": 3
     }
   ],
   "ecuador": [

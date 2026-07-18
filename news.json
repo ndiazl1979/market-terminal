@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T07:05:22.888603+00:00",
+  "updated": "2026-07-18T08:56:34.214552+00:00",
   "categories": [
     {
       "key": "tech",
@@ -15,7 +15,7 @@
             {
               "sym": "META",
               "name": "Meta",
-              "pct": 2.4,
+              "pct": 2.0,
               "dir": 1
             }
           ],
@@ -161,7 +161,7 @@
             {
               "sym": "TSLA",
               "name": "Tesla",
-              "pct": -3.2,
+              "pct": -2.7,
               "dir": -1
             }
           ],
@@ -190,6 +190,22 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "China anuncia un plan de acción global sobre inteligencia artificial:",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcnZHbEp4bFBoOU10T01IalQydHZ5RDhFRUdLdDhXcTBMOEZSQUs3Z3FydDU0NTh4UFNsNk9fY0dndVl5UVRra2dDWWw3MXhXeWpOVjFhWWl6OUJXS1hJVmhDWGxVRGVXQW4zR0Z3WFFWMHpVeGpWRk53NGxRR0Y0ag?oc=5",
+          "ts": 1784360062000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Netflix y la inteligencia artificial: ¿En cuántos proyectos de 2026 ha utilizado esta tecnología?",
           "source": "Prensa Libre",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNREVieDBMUkI0Y090SXpkNThZUEExdUM4cXg1MVFuQlE3ZlpVNExPMHk4WlNCcTlhN2N5UG8wMG56eEQ1c2ZFMk9OMEtrVmhGaVVHX2NFdnhKSHN5MmVqcU81UzZXS2xGYkVUakpvWFBwb1NscDByMFZhb2gtd3JrYUxRaDk4ZHJsMXZRTFhVaVZxWlhZNkNSbDU2bkg4T1QtamdmYTB1b2VsNzFrd2k5aXpMc3lvTTBSWUNUeE5uQjZfc0FKd1NDWVh5OF81NFJTT0xiZ0RR?oc=5",
@@ -201,34 +217,6 @@
               "name": "ETF Semiconductores",
               "pct": 0.8,
               "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Viernes negro en Wall Street: Dow Jones pierde 406 puntos entre petróleo y derrumbe de chips",
-          "source": "Negocios.com",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUmZLU1hWaVhLTkJUOXJOeldrb2duRDBmRkVqcmZGc285NjVvX3FIVUFyM2podVpEWDlSOVhMc09pMy1hQ2w2THpBNmlFUktwbnhmWXZlaU1WbmI2TjhJVzVBSFIwZHFwNDNNa3dCLWxGdzZqR05oV1VGRlZETm5xOXFRbjZqdmw0ME1GT1A1TjY1eGhrcXh3MWg3RDdFdVFPVkJqZXMzNmo1Q2N4UTNlYjFXN2EzVHR2Q2xOYjdILUZqVDhmX0QzVFFUejBlVWRJS1BiWkxvLVV4cUVOUFE0aUEtS2xzdjlr0gHuAUFVX3lxTFAyaExoYTVENkZuUTVwckY1NW5xRWExMUFNNkZ4ZUdoRVBnczBaTHZxcnUycUd3NURlcmJMR20wUGpxbnRId2xLcXFRWWZQaE0wSDdxZVc3VXRZREZYYzNiRGVHTThqQmFoT0hjbGdXVW5La21vaWZQWHpReTVkOHl1Nmh5NmRBZ2NNVmJBQWlqdkJRaHdJVm5uNlp0T0VLcUI1SDlISWR2c3pfazJ6d19oVUhTNjZOLWYybndtU0VadDdwZDVtTVhzTFR0SkM1dWE2akEtQktmUnZSRnQ1OTM4SVFwcG0ya1k4X0U4Znc?oc=5",
-          "ts": 1784323390000,
-          "sentiment": -0.67,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": -2.4,
-              "dir": -1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": -2.0,
-              "dir": -1
-            },
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": -1.3,
-              "dir": -1
             }
           ],
           "category": "semis"
@@ -256,32 +244,10 @@
           "category": "semis"
         },
         {
-          "title": "El S&P 500 cierra la semana a la baja ante las dudas sobre la inteligencia artificial y la tension en Oriente Proximo",
-          "source": "MarketScreener España",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNODA2NXJXdFkxX3J5LU9ITHo3N1ZfNXRkS2ZiTmEzYzBocExIRExjMlhmazFlYkZ3MzdXUDdCTEpCTktueE8xeEthQWk1cklyNWJBYVJpNjdYU0VpWFREUkQzb1JoZkpGQ2NNbEtZZlN2d1lrNDlOMFdZRy10QzI3S1lKd1JlU1FhS3RWWW9RZTl0eUkyNnZnR2hjVnNWTXZqVUplM2lYYXN5ZEltUTFlZi16akQzMFhvUExhNVJFbjRtMnhMNXpaa3lxV2lkRzhUVUxDUnM1YzhsTE5LaWFWY0R3Nm5UX3FQZlNSdA?oc=5",
-          "ts": 1784321180000,
-          "sentiment": -0.67,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": -2.0,
-              "dir": -1
-            },
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": -1.3,
-              "dir": -1
-            }
-          ],
-          "category": "semis"
-        },
-        {
           "title": "Apple supera a Nvidia como la empresa más valiosa del mundo",
-          "source": "Yahoo Finanzas",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORDM1c1NmU3VrSVB4LVBKZk5XamJJZjZGc3J5Y3l1ckwwZUNiYUpUM0lKNFNPYTlYUTBLa2twWUlFNzhBOVF5Q0ptM3pfSWtzN2tYS0YwWVJUWkR5eE5rSHRpVnA1VHRhdTNMZTBoTkFrMzQwTTdweWNsY19GbGRSV1dlWXc4WW5zeXM1LUJ3X0oyN1F1eXgw?oc=5",
-          "ts": 1784315384000,
+          "source": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR3JMclNvMHNFemlqdU9PV2pzZ0VhbWk2TFZVYnh1UktjMXNpYTdIeVBwUkNpU2dNLXVTN2RHc0hmUEJDNXA1dTFJYUJ6eEpqdFJHSEFPYXR0WXpsaXVSTkpudzA4SktKVVlzN28zalRzX0d5VmRFSkthMEpmdlc1OUJscmRLZG1nNUJWb0tQbjRKTElEd1E?oc=5",
+          "ts": 1784315475000,
           "sentiment": 0.5,
           "tickers": [
             {
@@ -398,6 +364,22 @@
               "sym": "AAPL",
               "name": "Apple",
               "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "IA Transaccional: la nueva generación de Inteligencia Artificial capaz de mover dinero y ejecutar transacciones",
+          "source": "DPL News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPejA5bWFNd3R3Z2JSTUx4ZzJsaEhtY0V6UmNFRksxRjhsTWtVUFEtR2VuQTdzcVVXSGR6dFRpZ1EyeC1MdnE4ZGtQcG9ZLUtMal8wTXR3Z3VzUzR2MnE4eUNXQnNiMnRZSmJTSXdYWFRGXzBwN3hVNTdjT2plZm1Ib0dqQzYyQWlhNWdqaGIxUEo1UXJFLTdHMEQ3WUo4azhRQzlFU1BBcmVmbmxu?oc=5",
+          "ts": 1784293741000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -673,19 +655,19 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": -1.7,
+              "pct": -1.3,
               "dir": -1
             },
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": 1.1,
+              "pct": 0.9,
               "dir": 1
             },
             {
               "sym": "SPY",
               "name": "S&P 500",
-              "pct": 0.7,
+              "pct": 0.6,
               "dir": 1
             }
           ],
@@ -1528,8 +1510,14 @@
     {
       "sym": "META",
       "name": "Meta",
-      "net": 6.4,
+      "net": 6.0,
       "n": 4
+    },
+    {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 5.1,
+      "n": 7
     },
     {
       "sym": "ASTS",
@@ -1538,15 +1526,27 @@
       "n": 1
     },
     {
+      "sym": "WTI",
+      "name": "Petróleo WTI",
+      "net": 2.8,
+      "n": 25
+    },
+    {
+      "sym": "QQQ",
+      "name": "Nasdaq 100",
+      "net": 2.7,
+      "n": 19
+    },
+    {
       "sym": "SPY",
       "name": "S&P 500",
-      "net": 2.6,
+      "net": 2.5,
       "n": 21
     },
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 2.3,
+      "net": 2.1,
       "n": 24
     },
     {
@@ -1562,22 +1562,10 @@
       "n": 2
     },
     {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": -0.9,
-      "n": 3
-    },
-    {
       "sym": "MU",
       "name": "Micron",
       "net": 0.9,
       "n": 1
-    },
-    {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": -0.7,
-      "n": 7
     },
     {
       "sym": "GD",
@@ -1586,16 +1574,10 @@
       "n": 1
     },
     {
-      "sym": "MSFT",
-      "name": "Microsoft",
-      "net": 0.3,
-      "n": 4
-    },
-    {
-      "sym": "QQQ",
-      "name": "Nasdaq 100",
-      "net": 0.1,
-      "n": 21
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": -0.4,
+      "n": 3
     }
   ],
   "ecuador": [
@@ -1629,6 +1611,14 @@
           "dir": -1
         }
       ]
+    },
+    {
+      "title": "Ecuador pierde alumnos y crecimiento económico",
+      "source": "Diario La Hora",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlNuX3I1ckZFUkVCTGF0YkkxY0tpRjhtWXRNYTNqVFpqd085SkR2d0g3bHNDR3NyeXpDVHRSUDJmZVZaZUo4eHJaYm5OVmNUQUhhUHpydW8wQXRSbHV0UHUzWlN3ckJ5d3hJMmEtYjZQeVhZdVIya2ZyVThKTVJnbnJpQnpwTHo3dTR6b0VVN0pDUUxzSF93N0FNcGFMZ2xVZFE?oc=5",
+      "ts": 1784179800000,
+      "sentiment": -0.5,
+      "tags": []
     },
     {
       "title": "Mercado de salud en Ecuador apunta a una expansión impulsada por tecnología y nuevos servicios",
@@ -1686,6 +1676,21 @@
       "tags": []
     },
     {
+      "title": "Petróleo crudo en el Comercio de Panamá | Observatorio de Complejidad Económica",
+      "source": "The Observatory of Economic Complexity",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3I5aW5YVTM2ZmRFOHo5bHB2RTdESlE5QW1PbzNiMVV4ZHo5ZWlHc2R6N1c1Q1BERS05Nkw4M0Q1R2NkdlVXZXZkSTFRN3JONml3TXRyM2VGQWVRSkN5REFiYWtLZmJNeDRwc0I4OXpEVDFlVG1KdEQ0bFRnTVFqOA?oc=5",
+      "ts": 1783407600000,
+      "sentiment": 0.0,
+      "tags": [
+        {
+          "sym": "WTI",
+          "name": "Petróleo WTI",
+          "pct": 0.7,
+          "dir": 1
+        }
+      ]
+    },
+    {
       "title": "Familias shuar triplican sus ingresos al vender en supermercados de Ecuador",
       "source": "Diario La Hora",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSm9Ub2dzOHM2VkFCQWE0U09tRlZ4WHJJZ3pyTVI3YmViUEhhTG9ZbHpFc0JveGNyNHFOYm9fTlplajFRQlo0V296eHJmQnZxUXU1YkNTQWZCMXB2VExENjdsQXlMZFAtWmw1OEhfMnl2M0Qzd1EtRXZRMU9GOXZBTnpmMmduTG5WRVJZNUwtdkd6TXFmT0UyczU3Nm9jeGFLY1Z2Zm9aYmUyc0ZiUmhKaUdBMnRydU5fNE42aTFoRXhDRDQ2dWJKeg?oc=5",
@@ -1694,17 +1699,17 @@
       "tags": []
     },
     {
-      "title": "Mercado de valores: la reforma que puede impulsar la inversión y el empleo en Ecuador",
-      "source": "Diario La Hora",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdU04S0NFT0dfbFRGbmdScW9iSnREMFF3em40Szk2Mm9WR0VESUk1OGdNNGJVTnRWV25ieXJQaURvRkNmQ05fVnpEcl9vTmp0X01paUpnY3FzbkhVQXRiVWVPMFJ0azZRdEZacUE4WjVpOGhBZHRoOGRIdDBzdkN6OWlQRkNPbTRJWTdJS3FWRl9jT21NUGg2UnZRZW9ZSGlNRWYtMjN2Q3VNTmNySmlScFJpaWxkeVIwRkFnc0k3VHg1VHpHVHc4ODE0VC1KeGhYdElEbQ?oc=5",
-      "ts": 1783007701000,
+      "title": "Entre remates y remesas: la economía del México vs Ecuador",
+      "source": "El Economista",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1lxVHVWUlp5Y3RwWW9OdG5PNTFZZVgwZ3UzbEltclJxT2xhLUlMazJyV3FIY21ET19JbzJMVFNJVHJndkpMOWQ4dVRHNzdMRHlOVWFlZ0tjMFIwb3ppcDIxQldLUDJRQUpJRmVJNnVlYzRxZzlWZDBGTTBpY2ZSX0xTeWpOeE5yN2ZZR21McHVKT05oVGJOOGtxVEl1OWRxRllLQllR0gGrAUFVX3lxTE1nTVNFb3RTczVZbTd2Y1ZmYXI1eHZYRi1DcWhSNXVxT1FPbjd5ZWhfWWRRMEhyQTBGdlpvU19oc2hjNmw2SUdyelAxMnpTTXBSVTNkQS11THpITkwtR2pzWlo0ZnpBYVpLbGFocUNEaV95NTgzRXdVc056U2MydXlocGtEMXM0bE1NZ1lVeFdxbEprSWd5czVoR0IwV25HSl9YczdkQngwVHE0UQ?oc=5",
+      "ts": 1782975600000,
       "sentiment": 0.0,
       "tags": []
     },
     {
-      "title": "Entre remates y remesas: la economía del México vs Ecuador",
-      "source": "El Economista",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1lxVHVWUlp5Y3RwWW9OdG5PNTFZZVgwZ3UzbEltclJxT2xhLUlMazJyV3FIY21ET19JbzJMVFNJVHJndkpMOWQ4dVRHNzdMRHlOVWFlZ0tjMFIwb3ppcDIxQldLUDJRQUpJRmVJNnVlYzRxZzlWZDBGTTBpY2ZSX0xTeWpOeE5yN2ZZR21McHVKT05oVGJOOGtxVEl1OWRxRllLQllR0gGrAUFVX3lxTE1nTVNFb3RTczVZbTd2Y1ZmYXI1eHZYRi1DcWhSNXVxT1FPbjd5ZWhfWWRRMEhyQTBGdlpvU19oc2hjNmw2SUdyelAxMnpTTXBSVTNkQS11THpITkwtR2pzWlo0ZnpBYVpLbGFocUNEaV95NTgzRXdVc056U2MydXlocGtEMXM0bE1NZ1lVeFdxbEprSWd5czVoR0IwV25HSl9YczdkQngwVHE0UQ?oc=5",
+      "title": "Mercado de valores: la reforma que puede impulsar la inversión y el empleo en Ecuador",
+      "source": "Diario La Hora",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdU04S0NFT0dfbFRGbmdScW9iSnREMFF3em40Szk2Mm9WR0VESUk1OGdNNGJVTnRWV25ieXJQaURvRkNmQ05fVnpEcl9vTmp0X01paUpnY3FzbkhVQXRiVWVPMFJ0azZRdEZacUE4WjVpOGhBZHRoOGRIdDBzdkN6OWlQRkNPbTRJWTdJS3FWRl9jT21NUGg2UnZRZW9ZSGlNRWYtMjN2Q3VNTmNySmlScFJpaWxkeVIwRkFnc0k3VHg1VHpHVHc4ODE0VC1KeGhYdElEbQ?oc=5",
       "ts": 1782975600000,
       "sentiment": 0.0,
       "tags": []
@@ -1735,35 +1740,6 @@
           "sym": "WTI",
           "name": "Petróleo WTI",
           "pct": 0.7,
-          "dir": 1
-        }
-      ]
-    },
-    {
-      "title": "Mercado de valores será parte de la formación académica",
-      "source": "El Universo",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVzBtWmdCSlJURlUxdnBYZ3JqdWxTQm5vckh3ejdwcFNrVGFDeWxpMGdQNFJ6NnJBaGQxWUE5bWFLcWgwUm5EMUEzMGRmSmk5Q1VYMmZhaEpkalFxUGI5VVlkT2lUejQ1ZXBMelJVVTB0LXpyWjZVeWZOeVIwa0swUmo2Mk5hblM5eWZrTzBPczUyU193VURtZTNWX1VNYlpLejdVRENuY0h2QmpmSXFUY2FseHdRSjZnZHJiUmNiaGExZE9Wa2VBMlZOYl9hUdIB4gFBVV95cUxQNGFhVzYxQXpwWWVpN0FDOEZZX0RlbHhzYU04N3RrOFZyZS1PN2w0SkMwNi1PdnpYNUkzYjVBUU9tVGduRWYxWDl3WVNZRlo5WGRwMmJvcy1uME9yRC1VRW9jeDBSM3pmV2paVGVRSlFDVFFiZkdDU3VrUFpaX1JMMUw5emxPaFU5TnJuR2N6WFZTLXd6S3lXN1R0Y3ZmcFNDTkNjWnY3VWtGbENuNWZFaHBCdG5uVW9USDBHaXAzaU1aSzF5UDJDeXB1WG01dUZqMUxaWFMzSW5tSlRJRjZQeXBB?oc=5",
-      "ts": 1781852400000,
-      "sentiment": 0.0,
-      "tags": []
-    },
-    {
-      "title": "Ecuador cierra exportación de crudo por 313 millones de dólares",
-      "source": "El Comercio",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRHZtVnBjSTZEeXdvOW1ZX3Qybjk4UHZGckdEMFRYclRLMVNkdEVTUVZlRGl2US1WX081QUFBOTFGQkN2cU8zNXVfRTdpZmpRV0lmV3A1NnZPbkdNbUFCR3NYTTRSMF9ZYkQzcVo0cHM2QktfZVQ0Z3Jia0JmdlFaTzJMaV83QmZJczZtN3N5allSUXBRSGoyYkl0ODRUZw?oc=5",
-      "ts": 1781852400000,
-      "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "WTI",
-          "name": "Petróleo WTI",
-          "pct": 0.7,
-          "dir": 1
-        },
-        {
-          "sym": "USD/MACRO",
-          "name": "Macro / dólar",
-          "pct": null,
           "dir": 1
         }
       ]

@@ -1,10 +1,26 @@
 {
-  "updated": "2026-07-17T23:57:10.399438+00:00",
+  "updated": "2026-07-18T02:14:00.344269+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "EE.UU. rechaza que México se meta en gestión del ICE y le devuelve cartas por 17 muertes de migrantes",
+          "source": "Diario de Yucatán",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcWFCWmFCN1VvOHZtLUktZVBFWTBaQUYtTkE3WnFaOWJ4NlZhTkNybUFOcVZmZzhQWFk5UWF4T1J5UG9YRGJhaHNfZ0J2cG13WEZpTlA3LTVHYWF1N2szS01qbXpib3NXTmpHUGZkSExmZUJjVHJGRW5VWVJ4UTNHSXNiUmRtbDFhNTNOSzA1MXpHV1Rwa3cxV01lb01MYURzQ1BFdlJNMjVNLXA3RERFUkIzYjhtN3FuckJaaUxoX1hqYnQ2WldXZWZwTUN6TFA2Qmo4b0JDU2ZXSEhhZy1BcjdtM0s?oc=5",
+          "ts": 1784330601000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": 1.2,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Acciones de Microsoft caen; analistas recortan objetivos antes del 4T",
           "source": "Invezz",
@@ -15,7 +31,7 @@
             {
               "sym": "MSFT",
               "name": "Microsoft",
-              "pct": -1.6,
+              "pct": -1.4,
               "dir": -1
             }
           ],
@@ -31,13 +47,13 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 3.6,
+              "pct": 3.1,
               "dir": 1
             },
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 1.6,
+              "pct": 1.4,
               "dir": 1
             }
           ],
@@ -178,22 +194,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Acciones de Apple, en máximos históricos; se consolida como la segunda empresa más valiosa",
-          "source": "EL CEO",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbG01UmMxcWZoTHRuaURmNlNMTHJHMjZWalk5MklOam1YbXVKLU9jRDhmNzN1VGVIOXMzRXVKbW1aYVRrMUVaWUhqdHlWWk4xdWY5czBHblVrMk5LZGdFdmxCSDlBTGxJb0VUT2JLamJqLUFDdUFrWW51M0I0SVBtOVVQUkRMUlphc2dsckJXc1lGZmZGdGVlYUl3UkNkbTdrQ2NOYzc5RU44SDNNVlprbWtQWnJWams?oc=5",
-          "ts": 1784228905000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": 1.1,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -201,6 +201,28 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Wall Street cierra en rojo: Nasdaq cae 1.4% por el desplome de los semiconductores",
+          "source": "Yahoo Finanzas",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZXJNNEtaa2hEZkR5SnNZOHF2dDdHdlBEb1JtSl9WbzhzQmhwNjEtRER0MDlmZkJucnVOR1VZeW5IcnJteGpYWENnTzFNMlRUVTNqM2ZPdUdJbnhfRm9mdmNxaHgwSFVRWEo2cnRmb0VBSXE3SHVlbUpzYXlKQndmZUYzMlFpQ2VRckxvMjFTRlM?oc=5",
+          "ts": 1784330446000,
+          "sentiment": -0.67,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": -2.3,
+              "dir": -1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": -1.5,
+              "dir": -1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Netflix y la inteligencia artificial: ¿En cuántos proyectos de 2026 ha utilizado esta tecnología?",
           "source": "Prensa Libre",
@@ -213,6 +235,34 @@
               "name": "ETF Semiconductores",
               "pct": 1.0,
               "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Viernes negro en Wall Street: Dow Jones pierde 406 puntos entre petróleo y derrumbe de chips",
+          "source": "Negocios.com",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUmZLU1hWaVhLTkJUOXJOeldrb2duRDBmRkVqcmZGc285NjVvX3FIVUFyM2podVpEWDlSOVhMc09pMy1hQ2w2THpBNmlFUktwbnhmWXZlaU1WbmI2TjhJVzVBSFIwZHFwNDNNa3dCLWxGdzZqR05oV1VGRlZETm5xOXFRbjZqdmw0ME1GT1A1TjY1eGhrcXh3MWg3RDdFdVFPVkJqZXMzNmo1Q2N4UTNlYjFXN2EzVHR2Q2xOYjdILUZqVDhmX0QzVFFUejBlVWRJS1BiWkxvLVV4cUVOUFE0aUEtS2xzdjlr0gHuAUFVX3lxTFAyaExoYTVENkZuUTVwckY1NW5xRWExMUFNNkZ4ZUdoRVBnczBaTHZxcnUycUd3NURlcmJMR20wUGpxbnRId2xLcXFRWWZQaE0wSDdxZVc3VXRZREZYYzNiRGVHTThqQmFoT0hjbGdXVW5La21vaWZQWHpReTVkOHl1Nmh5NmRBZ2NNVmJBQWlqdkJRaHdJVm5uNlp0T0VLcUI1SDlISWR2c3pfazJ6d19oVUhTNjZOLWYybndtU0VadDdwZDVtTVhzTFR0SkM1dWE2akEtQktmUnZSRnQ1OTM4SVFwcG0ya1k4X0U4Znc?oc=5",
+          "ts": 1784323390000,
+          "sentiment": -0.67,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -2.8,
+              "dir": -1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": -2.3,
+              "dir": -1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": -1.5,
+              "dir": -1
             }
           ],
           "category": "semis"
@@ -243,35 +293,13 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 3.6,
+              "pct": 3.1,
               "dir": 1
             },
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 1.6,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Apple supera brevemente a Nvidia como empresa más valiosa del mundo",
-          "source": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR3JMclNvMHNFemlqdU9PV2pzZ0VhbWk2TFZVYnh1UktjMXNpYTdIeVBwUkNpU2dNLXVTN2RHc0hmUEJDNXA1dTFJYUJ6eEpqdFJHSEFPYXR0WXpsaXVSTkpudzA4SktKVVlzN28zalRzX0d5VmRFSkthMEpmdlc1OUJscmRLZG1nNUJWb0tQbjRKTElEd1E?oc=5",
-          "ts": 1784315088000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 3.6,
-              "dir": 1
-            },
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": 1.6,
+              "pct": 1.4,
               "dir": 1
             }
           ],
@@ -287,7 +315,7 @@
             {
               "sym": "META",
               "name": "Meta",
-              "pct": 1.2,
+              "pct": 1.0,
               "dir": 1
             }
           ],
@@ -303,7 +331,7 @@
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": -2.0,
+              "pct": -1.7,
               "dir": -1
             }
           ],
@@ -319,13 +347,13 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             },
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -341,7 +369,7 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             }
           ],
@@ -351,48 +379,26 @@
           "title": "Chips arrastran a Wall Street pese al récord de TSMC",
           "source": "El Tiempo Latino",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUVRlT1hJc2FpeC02b3I2X1pQQV9wSENiQ19KUVBDUDIyY1pYRE5PQUpvOGs5V1RxTE5JQ2plOW9VRUlQMzAteUsyT1dfTEp2V0hyXzl2TzQyS055WFB2VjNjMlpPa28xcmw2aHp2c3FkWUxnWnB2U21xZDhRSy1NeTRpa3BMSWZhYTg3VC1WVGNCVHVMLWhNdkRmNDJLalZQelE?oc=5",
-          "ts": 1784313348000,
+          "ts": 1784313380000,
           "sentiment": 0.5,
           "tickers": [
             {
               "sym": "TSM",
               "name": "TSMC",
-              "pct": 2.4,
-              "dir": 1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
               "pct": 2.0,
               "dir": 1
             },
             {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 1.3,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Wall Street cae a medida que aumentan las preocupaciones sobre el repunte del sector de la inteligencia artificial",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkRDEzRXk3STZwUGFjXzdnd1Y5dmVGOTFGRXRoSFRScFdteGl6dTRBLS1fbkN1VDQ4dFp5QkRnZ1NJb3g5bVZkZzRqTGhpenpJc1dueGQwNUVqVlRJVDJpdUNka1lhN3BfRVIxbGh5ZVZCcjYxQjdR?oc=5",
-          "ts": 1784306607000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": -1.7,
-              "dir": -1
+              "pct": 1.7,
+              "dir": 1
             },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": -1.1,
-              "dir": -1
+              "pct": 1.1,
+              "dir": 1
             }
           ],
           "category": "semis"
@@ -811,25 +817,25 @@
           "title": "El precio del petróleo Brent supera los 87 dólares por la escalada entre EEUU e Irán",
           "source": "El Boletín",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORjVjQ20zbWgxVHFQcjdVaUd2QWZBN0d4RzFzMmZhUXZ4MGl4YkIxQ1g4YzYyLUJGNWtmSElMTThvd05Ca0hKaXJ6VUptbVJZbWpPcThFTkpwU1RLS0FQUC03MmhiZGhhci1YNXM4aXpTaFpOaksxczJhVloyVGNrVjAyM0swTW44Z0luWEUtQkp3ZGw4WHRXa2lGaWh6c0hBTlp2NHZtbzlrZVp1cEFvN9IBtgFBVV95cUxOMFJJZWtuN0FndUtreGFab2JaN0NTN2V1ZXRqaEpIRXNuTnluMFR5Q1dxcVhJSEdydVpTMXE4S1FGVWhDNHVyNk50U0JBZl9rVGYtb2tTaGpBVUo1bVdhWldId1NXTHl5a3hKUnc3QTA4MnA1WmVmaFc1a2FyaHppNXh3RHNCdEVZV2xqUFhfUVlid21IZllWaVlfVkREVmg3MXIxd2IteEtyVFlqLW5pdE9RV2NyUQ?oc=5",
-          "ts": 1784312247000,
+          "ts": 1784314358000,
           "sentiment": 0.5,
           "tickers": [
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": 2.4,
+              "pct": 2.0,
               "dir": 1
             },
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": -1.6,
+              "pct": -1.4,
               "dir": -1
             },
             {
               "sym": "SPY",
               "name": "S&P 500",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -1418,40 +1424,6 @@
           "category": "macro"
         },
         {
-          "title": "Wall Street y el petróleo suben tras una nueva tregua entre EEUU e Irán y el fallo sobre la Reserva Federal",
-          "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObC1LLTJ2aENkaHhtX1JNLWJxajZKTmhpSEYxVXBLcVVpSVhtd2dDa3JEbkFzNUVBZVhPRHlXLUx5RWdrQWdnZl9Tb0hxbUlHMXhXVVFDMkx6S1p6bkhkelNXX3YtckZxbWQzeXBYX1NNRTh2SlM1LTNtN2NoelpHbkNfQ1ZBOFI3TXVBZkRSM0dSLXc4dzI2NFMzeTBPaTl4b0czMmtjQUNEcWxyNzdkQzNsRkJEckVob2VYZUd2R0NSQkg4ZzVON0xrSG9NQWExS2VraEhfSWxUMHlFVWpxNUlTd0VEVEV0d1dISnF30gGIAkFVX3lxTE16Q3NmUFk1dVY5UFhxcVhKX2pxU3hNWWZ6TVNIR3dJQ2JZQ1JMaUJDM0lHYjRJeUR5NWRrdWxFOTRYUWx3MTdsY3pXYU04dDVDcjk1Q25WYTFGdmk2Zkl5SS1STS1NSWQ3NXE2N1MtYUJYU1pDS0dEOXNyX2lYcUdkVDMwaW1NNDZkZVpfVUdiaF8yMGN5Rm1ZRDRNYUFmYklaajlXMzRjVFJDZmt5OHRrRHZQa1VpWV90emM2d25KVmhSSFdUazJFcDNxMXhTMkdSSGMyTmtGSmFPVXE2SmhlekhESmVWRTVYR2ZjN3R1MVJHZmo2a2k1dkVYREo4SEdRaTNPcFNVOQ?oc=5",
-          "ts": 1782716400000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 1.3,
-              "dir": 1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": -0.9,
-              "dir": -1
-            },
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.7,
-              "dir": 1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": 0.6,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
-        },
-        {
           "title": "Los índices de Wall Street cerraron mixtos: el Nasdaq y el S&P 500 ceden por las tecnológicas",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZjhUWlZPY0pKdEZHNzh0dE1hNEpHYWlvUmZOR1YzWTNSMVlrWkZvWjRDZ2VqdDJ4RE9iX0x3OE12ZXNWNlJub3ZhdWczeFlTSWstaGxDeEVGcGFXV1R5UUF0VGJGWk9WdG9kekpZTTd2MUxwWW1Sc29PaHNRclFWeW5XOHNCV2xJUU9tWFVTc2ZQSkpJVE41T1ZFTzdVakp4SmdQQlcyc0RnT2RadHlRczVwRGRHOWtSTXhROVNrZ2xlcy1oUjJZNWtTQUNPRmhOa3Y2Q1pmRE_SAfMBQVVfeXFMTWtpTExnV3Exa2FBSVRuaHFja1Vya2l5bENVd0NqOU9NNkdkek9nem9mY0ktTUZVQlRVcVQ0TVFhSnVoTUk4bTR0dWFpUUxtbWIxZV9RbERmMXBwbmhWQWpJZ1Vid1pqVWJKRU9mMkFBWHM1Q05sZ3g2TnZuQUJIY0RvMFRLd0JSWVp2T0ZxS2N2U2FRTEd3Y09Ed1F2U29EQThiMU1EcFo3SFNhOTY3N292ZjcyUVZWYVNieVF0OFdubDdoQU1LTmxSUlJUTTBsQnZHTVEyaEJZNGpLSmo4WmtWVGVmZXV2M3ZkTS02QnVQNjhN?oc=5",
@@ -1526,6 +1498,22 @@
             }
           ],
           "category": "macro"
+        },
+        {
+          "title": "Por qué una Fed más agresiva no asusta a Wall Street",
+          "source": "Invezz",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb1U3cEc5MnJfRWlUUWhvVG9NeWZjR0lTSUF2XzBYbTlXcFVDcTlYTVB6Zkx1N0o0TkpSRkVqZUE1TkFaSW05MnpwTXZhMEsyV3czSDFHanJ4ampsVW5tZ0NLcmVWa0xzenZZVTZURHBkdERMMHh2V2pKMW44YktTdHVWcmJTUV8zci03cWdXUm1BTXJQTHg2bEZSdw?oc=5",
+          "ts": 1781938800000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "macro"
         }
       ]
     }
@@ -1535,25 +1523,31 @@
       "sym": "NVDA",
       "name": "NVIDIA",
       "net": 12.0,
-      "n": 9
+      "n": 8
     },
     {
       "sym": "AAPL",
       "name": "Apple",
-      "net": 10.5,
-      "n": 9
+      "net": 7.3,
+      "n": 7
     },
     {
       "sym": "META",
       "name": "Meta",
-      "net": 4.2,
-      "n": 3
+      "net": 5.2,
+      "n": 4
     },
     {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": 3.4,
-      "n": 23
+      "sym": "WTI",
+      "name": "Petróleo WTI",
+      "net": -4.7,
+      "n": 25
+    },
+    {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": -3.6,
+      "n": 5
     },
     {
       "sym": "ASTS",
@@ -1562,15 +1556,21 @@
       "n": 1
     },
     {
-      "sym": "QQQ",
-      "name": "Nasdaq 100",
-      "net": 2.4,
-      "n": 21
+      "sym": "SPY",
+      "name": "S&P 500",
+      "net": 2.6,
+      "n": 22
+    },
+    {
+      "sym": "ITA",
+      "name": "ETF Defensa/Aeroespacial",
+      "net": 2.5,
+      "n": 24
     },
     {
       "sym": "TSM",
       "name": "TSMC",
-      "net": 2.4,
+      "net": 2.0,
       "n": 1
     },
     {
@@ -1580,15 +1580,9 @@
       "n": 2
     },
     {
-      "sym": "ITA",
-      "name": "ETF Defensa/Aeroespacial",
-      "net": 1.4,
-      "n": 25
-    },
-    {
       "sym": "MSFT",
       "name": "Microsoft",
-      "net": -1.2,
+      "net": -1.0,
       "n": 2
     },
     {
@@ -1602,12 +1596,6 @@
       "name": "Micron",
       "net": 0.9,
       "n": 1
-    },
-    {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": -0.7,
-      "n": 4
     },
     {
       "sym": "GD",
@@ -1639,6 +1627,14 @@
           "dir": -1
         }
       ]
+    },
+    {
+      "title": "Mercado de salud en Ecuador apunta a una expansión impulsada por tecnología y nuevos servicios",
+      "source": "eloriente.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTWtRSEdwb1JuZzUyZ0FWWGVNenQzaEpCbFpJNEhiR3FPNHdrZ0hxeGNqd1ljaWhudGIzRWZKWnduajE1dmd1WDdyYkpzdElXNVg5eU1aeXZjOEVOZ0MwMm1FT0ZVZFQ4alVNNFZvak5GZ0FYbC1XdDJkQThNMlpTOV94dm5RUWhxbGx5ZnFpdTJzQzhRUXRGQV9iTFduQzlXSUd2S2h0a2tqbGFvRGdIVzV6M1R5MUZTTUZ4OFdXMDd4N3otQjl3N09sdGNwMDhw?oc=5",
+      "ts": 1784160189000,
+      "sentiment": 0.0,
+      "tags": []
     },
     {
       "title": "Ecuador abre el mercado de EE.UU. con la primera exportación de mandarina Tango",
@@ -1745,14 +1741,6 @@
       "title": "Mercado de valores será parte de la formación académica",
       "source": "El Universo",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVzBtWmdCSlJURlUxdnBYZ3JqdWxTQm5vckh3ejdwcFNrVGFDeWxpMGdQNFJ6NnJBaGQxWUE5bWFLcWgwUm5EMUEzMGRmSmk5Q1VYMmZhaEpkalFxUGI5VVlkT2lUejQ1ZXBMelJVVTB0LXpyWjZVeWZOeVIwa0swUmo2Mk5hblM5eWZrTzBPczUyU193VURtZTNWX1VNYlpLejdVRENuY0h2QmpmSXFUY2FseHdRSjZnZHJiUmNiaGExZE9Wa2VBMlZOYl9hUdIB4gFBVV95cUxQNGFhVzYxQXpwWWVpN0FDOEZZX0RlbHhzYU04N3RrOFZyZS1PN2w0SkMwNi1PdnpYNUkzYjVBUU9tVGduRWYxWDl3WVNZRlo5WGRwMmJvcy1uME9yRC1VRW9jeDBSM3pmV2paVGVRSlFDVFFiZkdDU3VrUFpaX1JMMUw5emxPaFU5TnJuR2N6WFZTLXd6S3lXN1R0Y3ZmcFNDTkNjWnY3VWtGbENuNWZFaHBCdG5uVW9USDBHaXAzaU1aSzF5UDJDeXB1WG01dUZqMUxaWFMzSW5tSlRJRjZQeXBB?oc=5",
-      "ts": 1781852400000,
-      "sentiment": 0.0,
-      "tags": []
-    },
-    {
-      "title": "Ecuador apunta a nuevos mercados para exportar pollo, cerdo y camarón",
-      "source": "expreso.ec",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdmxZZ1NNbDhyN3VSMFRLb2x1SzhmRDlfcTJ3eDc2b3FPQlBKQXJzVlBOQ25BTGVpZVMxN3ZnRTk3Y3haNGMwYXRzb2l1RDB2MEhNcWxDTWZVNlh4ODhrVTRzNld4ZmFBRi1Za1FkeTAwWTVsZ0NrQm1iS2hzWlBpR2FNT1pMcWVVNUtFUFVUUEMxZDB3SnRPRHNsNHBSQmFZSVY0ZE56UUlBOTJXRFlUWkhINXE?oc=5",
       "ts": 1781852400000,
       "sentiment": 0.0,
       "tags": []

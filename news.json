@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T15:36:18.604552+00:00",
+  "updated": "2026-07-18T16:32:56.133155+00:00",
   "categories": [
     {
       "key": "tech",
@@ -117,13 +117,13 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.5,
+              "pct": 1.3,
               "dir": 1
             },
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 0.7,
+              "pct": 0.6,
               "dir": 1
             }
           ],
@@ -190,6 +190,34 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "Temores por rentabilidad de IA borran 3 billones de dólares de Nvidia y firmas de chips en Wall Street",
+          "source": "vanguardia.com.mx",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObGlKUHZfdDc4UDB6VWtmVkRyN3MzODBxd2VQRGE0Mm1Gb3hEUWIyOE5OcTF3WjB4cEdtUW9DcWV5N3NHMzR4ZzRhSGY0VUNSRVpTOTc2bTVuQUp1Q3ZnclJFMV9TTDlGMnFkQ21PVnFZYVJEam1yaUM5bW9lVWFrTUlXRlRmZlcxVGdGdXNQMl9nQ3hzWE5RV0ljRms5MEJ1ME45NDExVlBWN3UzRTZxUjNSMVVRWG8xUDg3RTJGRkYybWoyU042YlFRSEl2Z0tjeHRvVDIxc253OHJkOUlV?oc=5",
+          "ts": 1784386989000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": -3.6,
+              "dir": -1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": -2.0,
+              "dir": -1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": -1.3,
+              "dir": -1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Inversionistas colombianos asumen riesgos “innecesarios” al usar inteligencia artificial para asesorarse:",
           "source": "Valora Analitik",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDYXFFZ1RPZnlnNFdaTWhTa2VzaWJnY2d0YkFIN01WN1NpdjdnVkpmaWwtWFBGcFF4NjBLc0lEVGF5X2ZFT1hPb0J0NUlmSENudjFZRkVWZUx0THlXcTloZjhzcnlwRkhmc045SmlmT1VqZ0ZadVdJVtIBfkFVX3lxTE1DX0tITndTNnJYMFl2cHhqdFVRQmFfbG1YR0FxT2todnJvTWgwa3dhMzhTWmhTZDVqZmU2QWxzTGcwN3Q0NDQyU0JfWnNUM3EzMzFVT1dfeTZQeTdJaE9lQnU0Ym4tSVRENjc1Z0hieGRlSVhXRFlrcHc3UGt4Zw?oc=5",
@@ -223,28 +251,6 @@
               "name": "Alphabet",
               "pct": 0.9,
               "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "TSMC Y Otras 2 Acciones De Chips De IA Bajo Presión Por El Gasto En Hardware",
-          "source": "simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWlQxYjZWTGZKZ0NrN2pLUlc4RURCcTFtdjJNWDh5UUw0SG1PVklBSGZLMEVZazhJR3dZd2ZYY1VLMUlZRU9WS2NSdDR6by1PX2dRc29xelF3dWw2aUItRC05Ry1kZ2xlM3ZfTzlyQlRPYTFCU0E1V3hNREhJYXJmUjhROUEwclJ4TkJuaGFFYkdEN2JRS0xSY3NQNXhpMmdRYThxUklHa2U1OEVoZ2ZTVkVKcE9pdzFLVGpoZ1FnSzBRUE9vSFJJdEpPclhhaUl5T1dFOS01d3RYNXFpMnRYdFZ5ZEpTWHRmSXZhRldFMmRrQzNQUGVlLWc2UdIBgAJBVV95cUxOMzVuRXVNajdnOWh6bHN0R2ZfV1pnLUFDZTJGR05ia0ZGLW1GbXdKMmhrZmJmQl9FTE4zckZKWlVGLTlmemRrMndDZ2R3dDZHZkYyWjVhbVBWeWViX1JqaXM1THdaV2J4UERUMERIbWMwTnpEVmczNEV2YWJHZExYeTNtM0F1bWtHMExEbFpIZUtHYlc2RWNtQUhyR0JyQkpNMXR1dldoY3N3U1BfMGVHNWRfZ1J3RFFlSGtqM1BqeFItZGtXbkl4emk5TS1ZS1A3NXgwUGhINkhabXU0bmlBZk9OSGxaYmxIZXp3R1Y4b0pnTUE3ZVR3X2dpU1JodFB1?oc=5",
-          "ts": 1784379219000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "TSM",
-              "name": "TSMC",
-              "pct": -2.4,
-              "dir": -1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": -2.0,
-              "dir": -1
             }
           ],
           "category": "semis"
@@ -617,19 +623,19 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": -1.0,
+              "pct": -0.8,
               "dir": -1
             },
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": -0.7,
+              "pct": -0.6,
               "dir": -1
             },
             {
               "sym": "SPY",
               "name": "S&P 500",
-              "pct": 0.4,
+              "pct": 0.3,
               "dir": 1
             }
           ],
@@ -1438,22 +1444,6 @@
           "category": "macro"
         },
         {
-          "title": "Goldman Sachs rompe con Wall Street: el giro del oro que divide las opiniones",
-          "source": "Estrategias de Inversión",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaG5VOUhaemtCSVFnaXFialRDTXhUMENRYlVQUXN1aXFnTlhyZG1uVHV6V05JUDd5dWczSzUyN0wwZVlXc1d2UWEwWkY1UDRxNG5FZGQtektZQTB5SEsyaWRRMWtwdzByQTUxTjc5RFpKd25aS1kxTzJBaG1ySzNsTktJQ0ViT0lSTlUxWnQ3Q3ZKbmdLZmhLdTdFbXMzeDE0bkJndk93am1xdnowUHF4eUpwQ2JmR0FLSFoyWUpsczAwcHR4T3RFT3Jn0gGgAUFVX3lxTE1DX0dLc25EV0Y3MDFid1BjVHpkMjcydlA2a1h6ZGE3dHpuNWtZalhsMjhGVWN3SjlteGZJZWhac3VOMGVkQ0dXaWQ1eldlU1pLN3FqZEg0Nk51Rkg2ODVpbW1laVZhbXdURUdlNVJMZExNU0UtRHpjUWtkUjk3LV9XdE9UcjhmRGU3VWJ4QUVSM0EyQW9yZTI0QzIwRDRXcGQ?oc=5",
-          "ts": 1782457200000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
-        },
-        {
           "title": "Los índices de Wall Street cerraron mixtos: el Nasdaq y el S&P 500 ceden por las tecnológicas",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZjhUWlZPY0pKdEZHNzh0dE1hNEpHYWlvUmZOR1YzWTNSMVlrWkZvWjRDZ2VqdDJ4RE9iX0x3OE12ZXNWNlJub3ZhdWczeFlTSWstaGxDeEVGcGFXV1R5UUF0VGJGWk9WdG9kekpZTTd2MUxwWW1Sc29PaHNRclFWeW5XOHNCV2xJUU9tWFVTc2ZQSkpJVE41T1ZFTzdVakp4SmdQQlcyc0RnT2RadHlRczVwRGRHOWtSTXhROVNrZ2xlcy1oUjJZNWtTQUNPRmhOa3Y2Q1pmRE_SAfMBQVVfeXFMTWtpTExnV3Exa2FBSVRuaHFja1Vya2l5bENVd0NqOU9NNkdkek9nem9mY0ktTUZVQlRVcVQ0TVFhSnVoTUk4bTR0dWFpUUxtbWIxZV9RbERmMXBwbmhWQWpJZ1Vid1pqVWJKRU9mMkFBWHM1Q05sZ3g2TnZuQUJIY0RvMFRLd0JSWVp2T0ZxS2N2U2FRTEd3Y09Ed1F2U29EQThiMU1EcFo3SFNhOTY3N292ZjcyUVZWYVNieVF0OFdubDdoQU1LTmxSUlJUTTBsQnZHTVEyaEJZNGpLSmo4WmtWVGVmZXV2M3ZkTS02QnVQNjhN?oc=5",
@@ -1490,16 +1480,38 @@
             }
           ],
           "category": "macro"
+        },
+        {
+          "title": "Wall Street cierra con signo mixto: el Dow Jones marca un nuevo máximo y Apple arrastra al Nasdaq",
+          "source": "El Boletín",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMzZrclB0YkpTaVRzYXp6YlNNVDQwX3U1d2M2dE1VakdXWG1aNk9raF85NXZiWkhVTFU5cnpsQnU1MnJobzZqczN6Mmc5Vm9uR2d1a2x5TGo1bUVzM0EtTlVrLW1scXJ0MldxWWRkSkJHTWFoLUs0VmNNNUlUakptNTFnSlRHNnV4aDBBSXFCX3NwdlpMX2MyWERBZFFiSWF5SGEtNDFGQVlQSFA2SW8tYUYwdzdMTzI3SW1TMFZRb3rSAcYBQVVfeXFMTUJZb2J3a1ZTLXVMTl81aU1qZnp4Q2Npbm82T1JzNG95SmdJV3VNTXRPc3RtbEJJdEJPSElBMjB3UngwTWJUYmlndWt3OU9ScTNCOU1ORlpuck9oWHRBQWs3eGJLWG1udzNCNHl0bjFxWXYzbF9nQW9aUzlSUEtIYzZKRzhGc3ROd0M0QmM4eTZkWndQbElITWdZQWtteUZscnJkcDRDcUFBWlBCemxaMVhFZGVrRUNCN0prX3FmcHMtTnN2cUhn?oc=5",
+          "ts": 1782370800000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 0.9,
+              "dir": 1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "macro"
         }
       ]
     }
   ],
   "tickerBoard": [
     {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": 8.1,
-      "n": 4
+      "sym": "AAPL",
+      "name": "Apple",
+      "net": 6.2,
+      "n": 7
     },
     {
       "sym": "META",
@@ -1508,16 +1520,10 @@
       "n": 4
     },
     {
-      "sym": "AAPL",
-      "name": "Apple",
-      "net": 5.4,
-      "n": 6
-    },
-    {
-      "sym": "QQQ",
-      "name": "Nasdaq 100",
-      "net": 3.4,
-      "n": 19
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 4.3,
+      "n": 5
     },
     {
       "sym": "SMH",
@@ -1526,22 +1532,34 @@
       "n": 6
     },
     {
+      "sym": "TSM",
+      "name": "TSMC",
+      "net": 3.0,
+      "n": 2
+    },
+    {
       "sym": "ASTS",
       "name": "AST SpaceMobile",
       "net": 2.6,
       "n": 1
     },
     {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": 2.5,
-      "n": 21
-    },
-    {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 2.4,
+      "net": 2.5,
       "n": 24
+    },
+    {
+      "sym": "QQQ",
+      "name": "Nasdaq 100",
+      "net": 2.4,
+      "n": 20
+    },
+    {
+      "sym": "SPY",
+      "name": "S&P 500",
+      "net": 2.4,
+      "n": 21
     },
     {
       "sym": "AMZN",
@@ -1562,22 +1580,16 @@
       "n": 1
     },
     {
+      "sym": "WTI",
+      "name": "Petróleo WTI",
+      "net": 0.9,
+      "n": 24
+    },
+    {
       "sym": "MU",
       "name": "Micron",
       "net": 0.9,
       "n": 1
-    },
-    {
-      "sym": "WTI",
-      "name": "Petróleo WTI",
-      "net": 0.7,
-      "n": 24
-    },
-    {
-      "sym": "MSFT",
-      "name": "Microsoft",
-      "net": -0.6,
-      "n": 3
     }
   ],
   "ecuador": [
@@ -1676,21 +1688,6 @@
       "tags": []
     },
     {
-      "title": "Petróleo crudo en el Comercio de Panamá | Observatorio de Complejidad Económica",
-      "source": "The Observatory of Economic Complexity",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3I5aW5YVTM2ZmRFOHo5bHB2RTdESlE5QW1PbzNiMVV4ZHo5ZWlHc2R6N1c1Q1BERS05Nkw4M0Q1R2NkdlVXZXZkSTFRN3JONml3TXRyM2VGQWVRSkN5REFiYWtLZmJNeDRwc0I4OXpEVDFlVG1KdEQ0bFRnTVFqOA?oc=5",
-      "ts": 1783407600000,
-      "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "WTI",
-          "name": "Petróleo WTI",
-          "pct": 0.7,
-          "dir": 1
-        }
-      ]
-    },
-    {
       "title": "Familias shuar triplican sus ingresos al vender en supermercados de Ecuador",
       "source": "Diario La Hora",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSm9Ub2dzOHM2VkFCQWE0U09tRlZ4WHJJZ3pyTVI3YmViUEhhTG9ZbHpFc0JveGNyNHFOYm9fTlplajFRQlo0V296eHJmQnZxUXU1YkNTQWZCMXB2VExENjdsQXlMZFAtWmw1OEhfMnl2M0Qzd1EtRXZRMU9GOXZBTnpmMmduTG5WRVJZNUwtdkd6TXFmT0UyczU3Nm9jeGFLY1Z2Zm9aYmUyc0ZiUmhKaUdBMnRydU5fNE42aTFoRXhDRDQ2dWJKeg?oc=5",
@@ -1743,6 +1740,14 @@
           "dir": 1
         }
       ]
+    },
+    {
+      "title": "Mercado de valores será parte de la formación académica",
+      "source": "El Universo",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVzBtWmdCSlJURlUxdnBYZ3JqdWxTQm5vckh3ejdwcFNrVGFDeWxpMGdQNFJ6NnJBaGQxWUE5bWFLcWgwUm5EMUEzMGRmSmk5Q1VYMmZhaEpkalFxUGI5VVlkT2lUejQ1ZXBMelJVVTB0LXpyWjZVeWZOeVIwa0swUmo2Mk5hblM5eWZrTzBPczUyU193VURtZTNWX1VNYlpLejdVRENuY0h2QmpmSXFUY2FseHdRSjZnZHJiUmNiaGExZE9Wa2VBMlZOYl9hUdIB4gFBVV95cUxQNGFhVzYxQXpwWWVpN0FDOEZZX0RlbHhzYU04N3RrOFZyZS1PN2w0SkMwNi1PdnpYNUkzYjVBUU9tVGduRWYxWDl3WVNZRlo5WGRwMmJvcy1uME9yRC1VRW9jeDBSM3pmV2paVGVRSlFDVFFiZkdDU3VrUFpaX1JMMUw5emxPaFU5TnJuR2N6WFZTLXd6S3lXN1R0Y3ZmcFNDTkNjWnY3VWtGbENuNWZFaHBCdG5uVW9USDBHaXAzaU1aSzF5UDJDeXB1WG01dUZqMUxaWFMzSW5tSlRJRjZQeXBB?oc=5",
+      "ts": 1781852400000,
+      "sentiment": 0.0,
+      "tags": []
     }
   ]
 }

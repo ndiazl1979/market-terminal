@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T07:17:02.293606+00:00",
+  "updated": "2026-07-18T09:02:17.232719+00:00",
   "tournament": "FIFA World Cup 2026",
   "groups": [
     {
@@ -1105,11 +1105,11 @@
         "mlAway": 275,
         "mlDraw": 295.0,
         "spread": -0.5,
-        "spreadHome": -115.0,
-        "spreadAway": -110.0,
+        "spreadHome": -120.0,
+        "spreadAway": -105.0,
         "total": 3.5,
-        "overOdds": 115.0,
-        "underOdds": -145.0
+        "overOdds": 110.0,
+        "underOdds": -135.0
       },
       "bets": [
         {
@@ -1147,40 +1147,40 @@
           "label": "Más de 3.5",
           "sel": "O",
           "pModel": 28.0,
-          "pFair": 36.0,
-          "implied": 44.0,
-          "odds": 2.15,
-          "ev": -22.6
+          "pFair": 36.7,
+          "implied": 45.3,
+          "odds": 2.1,
+          "ev": -23.0
         },
         {
           "market": "Total 3.5",
           "label": "Menos de 3.5",
           "sel": "U",
           "pModel": 72.0,
-          "pFair": 64.0,
-          "implied": 56.0,
-          "odds": 1.69,
-          "ev": 8.1
+          "pFair": 63.3,
+          "implied": 54.7,
+          "odds": 1.74,
+          "ev": 10.3
         },
         {
           "market": "Hándicap -0.5 L",
           "label": "Local -0.5",
           "sel": "H",
           "pModel": 46.8,
-          "pFair": 48.6,
-          "implied": 50.5,
-          "odds": 1.87,
-          "ev": -9.1
+          "pFair": 49.2,
+          "implied": 51.6,
+          "odds": 1.83,
+          "ev": -9.9
         },
         {
           "market": "Hándicap +0.5 V",
           "label": "Visita +0.5",
           "sel": "A",
           "pModel": 53.2,
-          "pFair": 51.4,
-          "implied": 49.5,
-          "odds": 1.91,
-          "ev": -2.0
+          "pFair": 50.8,
+          "implied": 48.4,
+          "odds": 1.95,
+          "ev": -0.8
         }
       ],
       "rec": {
@@ -1188,11 +1188,11 @@
         "label": "Menos de 3.5",
         "sel": "U",
         "pModel": 72.0,
-        "pFair": 64.0,
-        "implied": 56.0,
-        "odds": 1.69,
-        "ev": 8.1,
-        "stability": 5.2
+        "pFair": 63.3,
+        "implied": 54.7,
+        "odds": 1.74,
+        "ev": 10.3,
+        "stability": 6.5
       }
     },
     {
@@ -1367,6 +1367,22 @@
   ],
   "valueBoard": [
     {
+      "id": "760516",
+      "date": "2026-07-18T21:00Z",
+      "round": "3er puesto",
+      "home": "FRA",
+      "away": "ENG",
+      "homeName": "France",
+      "awayName": "England",
+      "market": "Total 3.5",
+      "label": "Menos de 3.5",
+      "odds": 1.74,
+      "pModel": 72.0,
+      "pFair": 63.3,
+      "ev": 10.3,
+      "stability": 6.5
+    },
+    {
       "id": "760517",
       "date": "2026-07-19T19:00Z",
       "round": "Final",
@@ -1381,22 +1397,6 @@
       "pFair": 66.4,
       "ev": 9.2,
       "stability": 6.1
-    },
-    {
-      "id": "760516",
-      "date": "2026-07-18T21:00Z",
-      "round": "3er puesto",
-      "home": "FRA",
-      "away": "ENG",
-      "homeName": "France",
-      "awayName": "England",
-      "market": "Total 3.5",
-      "label": "Menos de 3.5",
-      "odds": 1.69,
-      "pModel": 72.0,
-      "pFair": 64.0,
-      "ev": 8.1,
-      "stability": 5.2
     }
   ]
 }

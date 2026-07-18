@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T13:45:02.522301+00:00",
+  "updated": "2026-07-18T15:36:18.604552+00:00",
   "categories": [
     {
       "key": "tech",
@@ -16,6 +16,22 @@
               "sym": "TSLA",
               "name": "Tesla",
               "pct": 1.9,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Supera Edomex meta con 2.9 millones de acciones en salud pública",
+          "source": "Quadratín Edomex",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSlM4OFlJYVhIbUZjTXFhMWVKbTZ6bG5BY0w0TWRTNW0zcGY2MnhvZ2k3dDNvcGVldG9lV1RvdThFSEZJT252ZHVCVFpueDV1WGtoejFRRDcyb3VjeVJGUExyVE9XSEZxOUh5SkVsM2R5Z1FYTlBfYnEzbGs5WnlqeG40Mk1adm02aWRvY3hsanZwem8wVm5jRW9UdlNzUQ?oc=5",
+          "ts": 1784342700000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": 2.0,
               "dir": 1
             }
           ],
@@ -123,13 +139,13 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 3.1,
+              "pct": 2.5,
               "dir": 1
             },
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 1.4,
+              "pct": 1.1,
               "dir": 1
             }
           ],
@@ -166,22 +182,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Acciones de Microsoft se recuperan tras la alianza con 3M para centros de datos de IA",
-          "source": "EBC Financial Group",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTUstZTQtT2owX0lGUGlGYTYzU0hoNmNxT1FTSVRVNTl3TGtLaDNJc2Jpa2dtclQ5eUlJU0dDRGVuYVUtY2tleklTeGMtU2ZEOFhHYUs0QjJMeWN6UlNxdURmRFBQSkxnQ3E5dkloZGd2LWF0SWwxZTJ1aThZYV9sVDFjYm1YTEU2MTJJQnhsdGs3MGh4NEx3b2RuUHpvQWJDTGloaGhzcXlTMjRSUmluT0NzTmdLa2dSUFE?oc=5",
-          "ts": 1784270880000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "MSFT",
-              "name": "Microsoft",
-              "pct": 0.6,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -189,6 +189,22 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Inversionistas colombianos asumen riesgos “innecesarios” al usar inteligencia artificial para asesorarse:",
+          "source": "Valora Analitik",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDYXFFZ1RPZnlnNFdaTWhTa2VzaWJnY2d0YkFIN01WN1NpdjdnVkpmaWwtWFBGcFF4NjBLc0lEVGF5X2ZFT1hPb0J0NUlmSENudjFZRkVWZUx0THlXcTloZjhzcnlwRkhmc045SmlmT1VqZ0ZadVdJVtIBfkFVX3lxTE1DX0tITndTNnJYMFl2cHhqdFVRQmFfbG1YR0FxT2todnJvTWgwa3dhMzhTWmhTZDVqZmU2QWxzTGcwN3Q0NDQyU0JfWnNUM3EzMzFVT1dfeTZQeTdJaE9lQnU0Ym4tSVRENjc1Z0hieGRlSVhXRFlrcHc3UGt4Zw?oc=5",
+          "ts": 1784383200000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Intel y Google Cloud amplían su alianza para acelerar la transformación empresarial con inteligencia artificial",
           "source": "ITSitio",
@@ -259,35 +275,13 @@
             {
               "sym": "TSM",
               "name": "TSMC",
-              "pct": 1.2,
+              "pct": 1.0,
               "dir": 1
             },
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "OpenAI lanza GPT-5.6: la nueva inteligencia artificial que compite con Google, Anthropic y Meta",
-          "source": "Ambito",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOblZzaHJtY3QwelkwWlhaeGx4LVczS3ltb0l0ZGhhMUxXemx2VHlCM0JPbnlscFU5QVlJMnZDblNjQXpfYXI5OF9RUkxpNWpUVGJJcUpRVFUxUHNLS1Q5b0NVNloxdVRCOFhRRUs0S0l1SlVZdTA5MVRwa1MwRHI0dFFDTGctZ25MVWk0M1FOT01zRUpEUXV3T2pWZURjNlBOQXROVnJBNU0yVER6Q3Rrd2RJS0tTTnVPUEhheFBkSl9VQW41M1huT0pwQdIB0AFBVV95cUxNZFdVWEpPUDhRZ01Xb1gtbmZ5cWdNNWlFdWJPSktGMFB5Q0tWQTNyMlFqOUdsV0RDdjk5c0FRWTVDRjVJalBZbFBNaEp4TGtxMVdzTzlDX1FmbzB3b1R3U2V0eWt1LS1PcGFTU1NTZXA4X0IxTE9uTTFvVDZFYU5zTi1WU0Z6RFRYbWZrYnFtT3J4aDcxblQ1TktXblJMREN2cHhKUU9ranFUb2JBc01RWDZxZWwyb2ZDQXp3UVB2RVZLSmluSFoyWjl5bVc1RXdk?oc=5",
-          "ts": 1784365200000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 1.2,
-              "dir": 1
-            },
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 0.9,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -598,6 +592,22 @@
           "category": "defense"
         },
         {
+          "title": "Presidente Abinader entrega blindado Furia VBD-2 y modernos equipos para reforzar la defensa nacional",
+          "source": "Presidencia de la República Dominicana",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRnI0WWx3TVItV1FxV1dGTzlJZk9Kek11Um1JaVBjRUdoazEyRkV5X2w5Q29WVlJUaURPQ09LWDJ0MjZLNll6TUl0Q3VNeElkMUIwU2E0THRUNEpfZkpHc19RUDBRNVJQMTB3ZVlXQXE0RXp4eVQzMU4zeXdWcEFYei01ME96WVpGR3JHUkFUeUFLREdmVnN5MVBiN1p0RVV6Z1VtR1oyaGJBeVhNUzJYbHFUSnFOdnNRY0lJTUtUZWhWdw?oc=5",
+          "ts": 1784309703000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "defense"
+        },
+        {
           "title": "Reino Unido destinará 300 millones de libras para la incorporación de los cazas Gripen E a la Fuerza Aérea de Ucrania",
           "source": "Zona Militar",
           "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRUdYREJHTXNOWWpXakxFdzdVczRPSnpzdjZVWEQteDk3VWtpZUhiNVU1anVwUWxHck5WYTdxQndjZEk3b0FWVW16dVJyVjBKSUt6WFhhczQwbnRhMDVSMFBHdXZIQUlWLTd3RVh2WTBRbmlNaVoyRTZMY29QS24yQlI1YzNLSFItLS1YWDBqQ2t2aV9ZRk5DTGNxSDdiSnoyTXBKcnYxYVR0VmR0UWZDS29hb1Z6QzIyNmtuWVJRdUR3QTNWMU92OUIzSjdHdWZPUVVlc29zVkpqOUdETHpMTXZ1Rk9yQTFLLWFQbjF4YzdVMDNabU8zMHZhZV8?oc=5",
@@ -772,22 +782,6 @@
             }
           ],
           "category": "defense"
-        },
-        {
-          "title": "Moncloa prepara una lluvia de millones a la industria de Defensa para cumplir con la OTAN",
-          "source": "Vozpopuli",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYXhRVk1yTDlxWWYtcnFQd2ZqdW5DNjR2bW5pUk02LTZTdlUwdU1HUkxfX2xCSDVUNW0xUGcxbUllSFhhUTI0SHVPckxHSlRBNmFhQ1pTLVNtMGRaeHVnT25nazYxUmR5TFRrMWpVY2F2b1l4SW5EcUdQUlZYeFlRUVZRX3JCR3E1VDBpN3Q4V3FsSVAteEdLNVFzazNCZ2RMZW9MODBkSDVmS29vOXBhdE8yWjN3UVprNzdXV3U1RjFQbkR4Sy1Z0gHMAUFVX3lxTE1lSEVDeHpsN0ZKLXBISEpEVWFHMS14NVFac1I5NktqMjhYMHhSYWRyQWc2bEZiRC1kMnMxdVE3cVdDWVVHelpENlpFQ3A2dl9iQUZoay1VV2ttTWxrOC1lM29yajVKOEVrQmRhRElITG5oUUFIa3JVazdrUkl1am52S0Q4QmRnMXdEZWoxVUdIa2FHd2RHTXBBMDhubTNSWUJ0bGcxbnZVckcyTnN3YVR0NXJIRlpDMXpJYXNEaVUtOUhnU0E3dkxFTW1hVA?oc=5",
-          "ts": 1782802800000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
         }
       ]
     },
@@ -849,13 +843,13 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             },
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": -0.6,
+              "pct": -0.4,
               "dir": -1
             },
             {
@@ -1444,6 +1438,22 @@
           "category": "macro"
         },
         {
+          "title": "Goldman Sachs rompe con Wall Street: el giro del oro que divide las opiniones",
+          "source": "Estrategias de Inversión",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaG5VOUhaemtCSVFnaXFialRDTXhUMENRYlVQUXN1aXFnTlhyZG1uVHV6V05JUDd5dWczSzUyN0wwZVlXc1d2UWEwWkY1UDRxNG5FZGQtektZQTB5SEsyaWRRMWtwdzByQTUxTjc5RFpKd25aS1kxTzJBaG1ySzNsTktJQ0ViT0lSTlUxWnQ3Q3ZKbmdLZmhLdTdFbXMzeDE0bkJndk93am1xdnowUHF4eUpwQ2JmR0FLSFoyWUpsczAwcHR4T3RFT3Jn0gGgAUFVX3lxTE1DX0dLc25EV0Y3MDFid1BjVHpkMjcydlA2a1h6ZGE3dHpuNWtZalhsMjhGVWN3SjlteGZJZWhac3VOMGVkQ0dXaWQ1eldlU1pLN3FqZEg0Nk51Rkg2ODVpbW1laVZhbXdURUdlNVJMZExNU0UtRHpjUWtkUjk3LV9XdE9UcjhmRGU3VWJ4QUVSM0EyQW9yZTI0QzIwRDRXcGQ?oc=5",
+          "ts": 1782457200000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "macro"
+        },
+        {
           "title": "Los índices de Wall Street cerraron mixtos: el Nasdaq y el S&P 500 ceden por las tecnológicas",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZjhUWlZPY0pKdEZHNzh0dE1hNEpHYWlvUmZOR1YzWTNSMVlrWkZvWjRDZ2VqdDJ4RE9iX0x3OE12ZXNWNlJub3ZhdWczeFlTSWstaGxDeEVGcGFXV1R5UUF0VGJGWk9WdG9kekpZTTd2MUxwWW1Sc29PaHNRclFWeW5XOHNCV2xJUU9tWFVTc2ZQSkpJVE41T1ZFTzdVakp4SmdQQlcyc0RnT2RadHlRczVwRGRHOWtSTXhROVNrZ2xlcy1oUjJZNWtTQUNPRmhOa3Y2Q1pmRE_SAfMBQVVfeXFMTWtpTExnV3Exa2FBSVRuaHFja1Vya2l5bENVd0NqOU9NNkdkek9nem9mY0ktTUZVQlRVcVQ0TVFhSnVoTUk4bTR0dWFpUUxtbWIxZV9RbERmMXBwbmhWQWpJZ1Vid1pqVWJKRU9mMkFBWHM1Q05sZ3g2TnZuQUJIY0RvMFRLd0JSWVp2T0ZxS2N2U2FRTEd3Y09Ed1F2U29EQThiMU1EcFo3SFNhOTY3N292ZjcyUVZWYVNieVF0OFdubDdoQU1LTmxSUlJUTTBsQnZHTVEyaEJZNGpLSmo4WmtWVGVmZXV2M3ZkTS02QnVQNjhN?oc=5",
@@ -1480,28 +1490,6 @@
             }
           ],
           "category": "macro"
-        },
-        {
-          "title": "Wall Street cierra con signo mixto: el Dow Jones marca un nuevo máximo y Apple arrastra al Nasdaq",
-          "source": "El Boletín",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMzZrclB0YkpTaVRzYXp6YlNNVDQwX3U1d2M2dE1VakdXWG1aNk9raF85NXZiWkhVTFU5cnpsQnU1MnJobzZqczN6Mmc5Vm9uR2d1a2x5TGo1bUVzM0EtTlVrLW1scXJ0MldxWWRkSkJHTWFoLUs0VmNNNUlUakptNTFnSlRHNnV4aDBBSXFCX3NwdlpMX2MyWERBZFFiSWF5SGEtNDFGQVlQSFA2SW8tYUYwdzdMTzI3SW1TMFZRb3rSAcYBQVVfeXFMTUJZb2J3a1ZTLXVMTl81aU1qZnp4Q2Npbm82T1JzNG95SmdJV3VNTXRPc3RtbEJJdEJPSElBMjB3UngwTWJUYmlndWt3OU9ScTNCOU1ORlpuck9oWHRBQWs3eGJLWG1udzNCNHl0bjFxWXYzbF9nQW9aUzlSUEtIYzZKRzhGc3ROd0M0QmM4eTZkWndQbElITWdZQWtteUZscnJkcDRDcUFBWlBCemxaMVhFZGVrRUNCN0prX3FmcHMtTnN2cUhn?oc=5",
-          "ts": 1782370800000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": 0.9,
-              "dir": 1
-            },
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
         }
       ]
     }
@@ -1510,26 +1498,32 @@
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 8.7,
+      "net": 8.1,
+      "n": 4
+    },
+    {
+      "sym": "META",
+      "name": "Meta",
+      "net": 6.0,
       "n": 4
     },
     {
       "sym": "AAPL",
       "name": "Apple",
-      "net": 6.7,
-      "n": 7
-    },
-    {
-      "sym": "META",
-      "name": "Meta",
-      "net": 5.2,
-      "n": 4
+      "net": 5.4,
+      "n": 6
     },
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 3.7,
+      "net": 3.4,
       "n": 19
+    },
+    {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 3.1,
+      "n": 6
     },
     {
       "sym": "ASTS",
@@ -1544,10 +1538,10 @@
       "n": 21
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 2.1,
-      "n": 5
+      "sym": "ITA",
+      "name": "ETF Defensa/Aeroespacial",
+      "net": 2.4,
+      "n": 24
     },
     {
       "sym": "AMZN",
@@ -1556,21 +1550,15 @@
       "n": 3
     },
     {
-      "sym": "ITA",
-      "name": "ETF Defensa/Aeroespacial",
-      "net": 1.9,
-      "n": 24
+      "sym": "INTC",
+      "name": "Intel",
+      "net": 1.4,
+      "n": 1
     },
     {
       "sym": "GOOGL",
       "name": "Alphabet",
-      "net": 1.8,
-      "n": 2
-    },
-    {
-      "sym": "INTC",
-      "name": "Intel",
-      "net": 1.4,
+      "net": 0.9,
       "n": 1
     },
     {
@@ -1580,16 +1568,16 @@
       "n": 1
     },
     {
-      "sym": "TSM",
-      "name": "TSMC",
-      "net": 0.8,
-      "n": 3
-    },
-    {
       "sym": "WTI",
       "name": "Petróleo WTI",
-      "net": 0.8,
+      "net": 0.7,
       "n": 24
+    },
+    {
+      "sym": "MSFT",
+      "name": "Microsoft",
+      "net": -0.6,
+      "n": 3
     }
   ],
   "ecuador": [
@@ -1598,14 +1586,6 @@
       "source": "Diario La Hora",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPamFnMGNQdXFmTE94QkpsLWJyb3MzT09xYXg0N1JocW4zeGdXZEVFRFBRTmhZemFybEk3SW1VbUR1R0lfOTQ0OTM3TDZJZUh0enkzRkxfZXUyYXdTVzBVSUVSdXRqaHZsXzJ3RHJ2b21pNWh2UThtYXZ1Z2R5THFxWC1SaE5pTkV5TTFDeDdGRldJZll4bnpmeTVlOTZFZGhPTFZieVhZM2M1QURJalhKM29JUGxpRDZyU1pYNWxIMUlEUlM3b2YtS0lrMDE1OWVxaU9ya1pRdUpuYmZKclNHSWt2a1hxNk9oQi0yX3JDamtHNWJHajl5Tl90U1ZYQ05Q?oc=5",
       "ts": 1784266200000,
-      "sentiment": 0.0,
-      "tags": []
-    },
-    {
-      "title": "Industria cosmética en Ecuador mueve $1.575 millones y analiza su futuro en Quito",
-      "source": "expreso.ec",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONHpTSXVQcFNVMzQwR2xOY1Atc2JjMFFOUVZ2NVpSa1ZsY2syQ0daWTFGal82OS1NQlQ4ZExLTzZyRnFhZVNTNjlxRHdtMXVwMUVsSmNmbE91YUUyTHBWcEtmbW9sNVJjcTV4OFhlUVBpT2stVGctN3hhOElTb0dfZkhGZGo2QUZmQzFEM01nczl3STl2SDZkazduZDhNUmp3QzZYVS1hYTg?oc=5",
-      "ts": 1784232902000,
       "sentiment": 0.0,
       "tags": []
     },
@@ -1746,6 +1726,21 @@
           "name": "Riesgo país (EMBI)",
           "pct": null,
           "dir": -1
+        }
+      ]
+    },
+    {
+      "title": "WTI sube a 72,01 mientras el mercado sigue atento a la crisis entre Estados Unidos e Irán",
+      "source": "El Comercio",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb3c1RnRTOTdnVmVLSmhRQTBTeVlnYVFOMEloMXJjS1dBd3llVXRLdU1XazNjbjBNZkVoOHlIa3FTUUFUUkc1UkVObE01ZUxJVU41YVM1NWtqWVJ2b1IzcDctVTBJem1seUhLdUtoQm1aeTVkWEY3RWhYTWZ6XzJuOExoeUtTclRsVFFOT2VJTTFHLWtxOFE?oc=5",
+      "ts": 1782370800000,
+      "sentiment": 0.0,
+      "tags": [
+        {
+          "sym": "WTI",
+          "name": "Petróleo WTI",
+          "pct": 0.7,
+          "dir": 1
         }
       ]
     }

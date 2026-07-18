@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T22:10:50.877588+00:00",
+  "updated": "2026-07-18T23:07:51.119998+00:00",
   "tournament": "FIFA World Cup 2026",
   "groups": [
     {
@@ -1029,78 +1029,24 @@
     {
       "id": "760516",
       "date": "2026-07-18T21:00Z",
-      "state": "in",
+      "state": "post",
       "stage": "3rd-place-match",
-      "detail": "47'",
+      "detail": "FT",
       "round": "3er puesto",
       "home": {
         "abbr": "FRA",
         "name": "France",
         "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
         "id": "478",
-        "score": "0"
+        "score": "4"
       },
       "away": {
         "abbr": "ENG",
         "name": "England",
         "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
         "id": "448",
-        "score": "4"
-      },
-      "pred": {
-        "pHome": 46.8,
-        "pDraw": 24.0,
-        "pAway": 29.3,
-        "over": {
-          "1.5": 73.9,
-          "2.5": 49.9,
-          "3.5": 28.0
-        },
-        "under": {
-          "1.5": 26.1,
-          "2.5": 50.1,
-          "3.5": 72.0
-        },
-        "btts": 52.6,
-        "topScores": [
-          {
-            "score": "1-1",
-            "p": 11.4
-          },
-          {
-            "score": "1-0",
-            "p": 11.3
-          },
-          {
-            "score": "2-1",
-            "p": 9.2
-          }
-        ],
-        "likely": "1-1",
-        "lamHome": 1.53,
-        "lamAway": 1.15,
-        "expTotal": 2.67,
-        "ah": {
-          "fav": "home",
-          "line": -0.5,
-          "coverFav": 46.8,
-          "lineAway": 0.5,
-          "coverDog": 53.2
-        },
-        "sot": {
-          "home": 4.8,
-          "away": 3.6,
-          "total": 8.3,
-          "shotsHome": 11.4,
-          "shotsAway": 8.5
-        },
-        "eloHome": 2100,
-        "eloAway": 2055,
-        "confidence": 46.8
-      },
-      "odds": null,
-      "bets": [],
-      "rec": null
+        "score": "6"
+      }
     },
     {
       "id": "760517",
@@ -1184,8 +1130,8 @@
         "spreadHome": 115.0,
         "spreadAway": -145.0,
         "total": 2.5,
-        "overOdds": 130.0,
-        "underOdds": -160.0
+        "overOdds": 125.0,
+        "underOdds": -155.0
       },
       "bets": [
         {
@@ -1223,20 +1169,20 @@
           "label": "Más de 2.5",
           "sel": "O",
           "pModel": 25.0,
-          "pFair": 33.2,
-          "implied": 41.4,
-          "odds": 2.3,
-          "ev": -23.6
+          "pFair": 33.6,
+          "implied": 42.2,
+          "odds": 2.25,
+          "ev": -24.4
         },
         {
           "market": "Total 2.5",
           "label": "Menos de 2.5",
           "sel": "U",
           "pModel": 75.0,
-          "pFair": 66.8,
-          "implied": 58.6,
-          "odds": 1.62,
-          "ev": 8.5
+          "pFair": 66.4,
+          "implied": 57.8,
+          "odds": 1.65,
+          "ev": 9.2
         },
         {
           "market": "Hándicap -0.5 L",
@@ -1264,11 +1210,11 @@
         "label": "Menos de 2.5",
         "sel": "U",
         "pModel": 75.0,
-        "pFair": 66.8,
-        "implied": 58.6,
-        "odds": 1.62,
-        "ev": 8.5,
-        "stability": 5.7
+        "pFair": 66.4,
+        "implied": 57.8,
+        "odds": 1.65,
+        "ev": 9.2,
+        "stability": 6.1
       }
     }
   ],
@@ -1283,11 +1229,11 @@
       "awayName": "Argentina",
       "market": "Total 2.5",
       "label": "Menos de 2.5",
-      "odds": 1.62,
+      "odds": 1.65,
       "pModel": 75.0,
-      "pFair": 66.8,
-      "ev": 8.5,
-      "stability": 5.7
+      "pFair": 66.4,
+      "ev": 9.2,
+      "stability": 6.1
     }
   ]
 }

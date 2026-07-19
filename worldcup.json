@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T18:31:43.360756+00:00",
+  "updated": "2026-07-19T19:43:53.318607+00:00",
   "tournament": "FIFA World Cup 2026",
   "groups": [
     {
@@ -1051,9 +1051,9 @@
     {
       "id": "760517",
       "date": "2026-07-19T19:00Z",
-      "state": "pre",
+      "state": "in",
       "stage": "final",
-      "detail": "Scheduled",
+      "detail": "36'",
       "round": "Final",
       "home": {
         "abbr": "ESP",
@@ -1120,120 +1120,10 @@
         "eloAway": 2145,
         "confidence": 34.5
       },
-      "odds": {
-        "source": "DraftKings",
-        "details": "ESP +125",
-        "mlHome": 125,
-        "mlAway": 260,
-        "mlDraw": 200.0,
-        "spread": -0.5,
-        "spreadHome": 120.0,
-        "spreadAway": -150.0,
-        "total": 2.5,
-        "overOdds": 130.0,
-        "underOdds": -160.0
-      },
-      "bets": [
-        {
-          "market": "1X2",
-          "label": "Gana local",
-          "sel": "1",
-          "pModel": 33.4,
-          "pFair": 37.8,
-          "implied": 42.1,
-          "odds": 2.25,
-          "ev": -15.1
-        },
-        {
-          "market": "1X2",
-          "label": "Empate",
-          "sel": "X",
-          "pModel": 32.1,
-          "pFair": 31.8,
-          "implied": 31.6,
-          "odds": 3.0,
-          "ev": -4.5
-        },
-        {
-          "market": "1X2",
-          "label": "Gana visita",
-          "sel": "2",
-          "pModel": 34.5,
-          "pFair": 30.4,
-          "implied": 26.3,
-          "odds": 3.6,
-          "ev": 9.5
-        },
-        {
-          "market": "Total 2.5",
-          "label": "Más de 2.5",
-          "sel": "O",
-          "pModel": 25.0,
-          "pFair": 33.2,
-          "implied": 41.4,
-          "odds": 2.3,
-          "ev": -23.6
-        },
-        {
-          "market": "Total 2.5",
-          "label": "Menos de 2.5",
-          "sel": "U",
-          "pModel": 75.0,
-          "pFair": 66.8,
-          "implied": 58.6,
-          "odds": 1.62,
-          "ev": 8.5
-        },
-        {
-          "market": "Hándicap -0.5 L",
-          "label": "Local -0.5",
-          "sel": "H",
-          "pModel": 33.4,
-          "pFair": 38.2,
-          "implied": 43.1,
-          "odds": 2.2,
-          "ev": -15.9
-        },
-        {
-          "market": "Hándicap +0.5 V",
-          "label": "Visita +0.5",
-          "sel": "A",
-          "pModel": 66.6,
-          "pFair": 61.8,
-          "implied": 56.9,
-          "odds": 1.67,
-          "ev": 2.9
-        }
-      ],
-      "rec": {
-        "market": "Total 2.5",
-        "label": "Menos de 2.5",
-        "sel": "U",
-        "pModel": 75.0,
-        "pFair": 66.8,
-        "implied": 58.6,
-        "odds": 1.62,
-        "ev": 8.5,
-        "stability": 5.7
-      }
+      "odds": null,
+      "bets": [],
+      "rec": null
     }
   ],
-  "valueBoard": [
-    {
-      "id": "760517",
-      "date": "2026-07-19T19:00Z",
-      "round": "Final",
-      "home": "ESP",
-      "away": "ARG",
-      "homeName": "Spain",
-      "awayName": "Argentina",
-      "market": "Total 2.5",
-      "label": "Menos de 2.5",
-      "odds": 1.62,
-      "pModel": 75.0,
-      "pFair": 66.8,
-      "ev": 8.5,
-      "stability": 5.7
-    }
-  ]
+  "valueBoard": []
 }

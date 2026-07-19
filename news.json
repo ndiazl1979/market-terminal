@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T17:36:18.745518+00:00",
+  "updated": "2026-07-19T18:33:48.675406+00:00",
   "categories": [
     {
       "key": "tech",
@@ -111,13 +111,13 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 2.5,
+              "pct": 2.0,
               "dir": 1
             },
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 1.1,
+              "pct": 0.9,
               "dir": 1
             }
           ],
@@ -184,6 +184,38 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "AMD MI455X GFX1250: 432 GB HBM4 y 40 PFLOPS para IA",
+          "source": "Ecosistema Startup",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVkJwMTBJNnhrVzl2NFlmZDBqOEFJd2xlVlRBS0ZXU205ODZyNlZRNFZscHZUWmgwa3JjUFc5TmZGcEhFVTd5eFR6eUM2RXRNOVJTT0g4dnQteXdTMUlyTFhhVVN0M05iNGpBR0NsTTRtQ0oxUy1tbGxSZEtzeGo1bDZEcU05cWtV?oc=5",
+          "ts": 1784482854000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "AMD",
+              "name": "AMD",
+              "pct": 1.7,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Jensen Huang revela cómo Sega evitó la quiebra de Nvidia con una inversión decisiva",
+          "source": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUTZiekw5WjRFOXVoTjBZNVpvMTkyYm1rODF0cjFLX0RyWndhZS1UeHJvQUpxSlJlMUM5ci0wc2hmQkJQRXNNS3NadkQybWR3amFtd1lLdW10dVY4STdlTmlBVXpiYnpabnhwZmt0cUFKUFNiRDVaem9GZlVYdm9iZll5Q3AtWW43a2V5TDkyai1tQQ?oc=5",
+          "ts": 1784473275000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "UPR obtiene subvención de $9 millones de la NSF para investigación en inteligencia artificial",
           "source": "NotiCel",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUlJqVDBZRWFPc251VnA1SEQ2bGhhcU45Qmg5QkVVdkhIUEl5dllSSmMxanRQb1VWcDRRUGhFam9Vb2drell2UHFUSjJXNV8yZ0w0aHJINFRiRmtWcVBjcGtabXcwaWxpVHpZa3FGWE80QlloUkw3cU1qVnB4QXc2dllMSzF5bS1nclRoSXl2b3NPa0JNb0huNUxrMGZQaUxOUDJVdFhmRFFlOXBRTkR5TkRlMTFoSThYb08xR0xWeGZtNWlabzhoTGw0VQ?oc=5",
@@ -209,7 +241,7 @@
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -308,22 +340,6 @@
           "category": "semis"
         },
         {
-          "title": "Lo que Google aprendió del primer Mundial con inteligencia artificial",
-          "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdlNNM196WDlZcDJ6SUJCTzA3bnM3SDRfczdxSEota2xiLXB3M0lybmoyb0k1SWlRWlE4c3U2R0FSeS0tclhOZEdJemN2TzN0R2NzX0R1Skd3clMwSzN1VnVfUkE1MnVJYnpUYk5aaFNLVkdpWUd6RGM2cUJjZTRjYWlfclVfcHpBY0QtZzYyOEpubnVjcmFXZ2lDOFJVYThMQ053UFZZWEttZmZVY1JIbXN5bGk?oc=5",
-          "ts": 1784417850000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
           "title": "México y Canadá exploran alianza en inteligencia artificial: revisan el Plan de Acción 2025-2028 en medio de tensión por el T-MEC",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxONHRHMFpSb1czZjZPU0FJbngwYk90SFFqVVB1Q1l5RnIxeGlrUFNSM1Z4eEVhMkplSWhtTFpSU281Y0xPMXRDaFhTOWtQNVg1SXMtMGtET0lXUWRuQzVVU2NwLTBwTHFWNjMxR1Q1d1JmLUNEdUZONExmZzY0TTNnWDRxSS1UQTZLazBhdmNlN1JWdHprV2s1S0sxQXNtcTNpRWFveXczVG1pOG5ZRmk4WTlZZ1JjT3JaZHRyVmNldjFoaXVzdElkLVNaa1JHUkhtRXl0SmM2c3VRN2RveDRscEUwWS03bFNCTHdpOUhOZW12Z09GajBiVXFtV0taT0110gGbAkFVX3lxTFAycnlsakZSbUJMTDl1Y0NJbEtQOGJRSkUwaWJrMllENHJTV0htNFdxNTlrZ2RzQ0NKMWh3THVyMXNKeVM3cnd3U3NlZkhJc2E4c2NZbXFrMVo2T25lb2pTalA1U0t3N0dXQ2NYallvVjBWX2VTWW5GN2FpV0hBaUFERXZMaG45UkVWX05qb09WNjFSc19iS0RYSDNZZVl5V2l1MGxzZ1QxSGJXZnhxNGdoaXNFTVJvNjg2bXVTUFV5UmhXRlNvQVdHUlo0WV9VVlBNZ0k3SW5Xc1FOeW1wVmJCandEa2x3SzRtNndxM1MzdFV3ZlFTUTctc0RrczhTd196d1VqVTlVMUlpZ190VW0weGZ1X29kWExGSzA?oc=5",
@@ -334,28 +350,6 @@
               "sym": "SMH",
               "name": "ETF Semiconductores",
               "pct": -1.7,
-              "dir": -1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Apple amenaza destronar a Nvidia como la empresa más valiosa del mundo",
-          "source": "www.revistaeyn.com",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQkVUcFFvSUxMdGhYYzNHU0xkMG9fTWpYWm9MMUF1Z3FkZFQ3eTVEUThHUkdON3FLanZEZzB3cms3azZlWEdtcTM0bHV1Q25kZDFrbHo5dm1FLVpCbTV5REVQTXNYLWZxWEhZc3pnWDZLOEZoZmZTLWh1UWx1eXdmeUNxTWhPb1hUTnVkZUhiZzBaSGUyeGJYaWxHMVh6M3B1bjNqYkRlT2lMTElLUlhZTHQwTkNlalBMQjdDR2NKZ0pPaGdZbGI4?oc=5",
-          "ts": 1784383200000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": -2.5,
-              "dir": -1
-            },
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": -1.1,
               "dir": -1
             }
           ],
@@ -1255,7 +1249,7 @@
       "items": [
         {
           "title": "Bolsa mexicana sube impulsada por menor inflación en EU; Wall Street también avanza https://mile.io/4vyR1aO",
-          "source": "facebook.com",
+          "source": "Facebook",
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZ0NRTUMyZ25nc2VLbHhDTzEzMWtrNDQ2bUktUjVaOTlGZG5QSWtudVlqUnpIR1h5TFJqdzEtTi1UVGpqejJLcENDcTVfTUphTlZYdm00amxTWjNBTDBjdFExZVRHNm9VODRyX0dpOHZfYkJvMXA1eE9pcFhQcTk0VmNUeTdrUEI2REFieGNXa08tMFF1X3djY1RTZUpaelJqajNPUUJVeGJQMW9CTGhpUkx1NXZWMi14UHd0R1BaR0hoM09hb1BfZ0FTblZ6WXVIYTJPNkMzTm5HUC1mLWoxWXF6UzdGQ0dD?oc=5",
           "ts": 1784078781000,
           "sentiment": 0.67,
@@ -1450,7 +1444,7 @@
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 6.6,
+      "net": 10.4,
       "n": 6
     },
     {
@@ -1472,9 +1466,15 @@
       "n": 5
     },
     {
+      "sym": "AAPL",
+      "name": "Apple",
+      "net": 2.7,
+      "n": 3
+    },
+    {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 2.7,
+      "net": 2.5,
       "n": 6
     },
     {
@@ -1490,22 +1490,22 @@
       "n": 2
     },
     {
-      "sym": "AAPL",
-      "name": "Apple",
-      "net": 1.8,
-      "n": 4
-    },
-    {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": 1.6,
-      "n": 2
+      "sym": "AMD",
+      "name": "AMD",
+      "net": 1.7,
+      "n": 1
     },
     {
       "sym": "WTI",
       "name": "Petróleo WTI",
       "net": -0.9,
       "n": 24
+    },
+    {
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "net": 0.8,
+      "n": 1
     },
     {
       "sym": "SPY",
@@ -1645,6 +1645,35 @@
       ]
     },
     {
+      "title": "Ecuatorianos consumen 31 millones de galones menos de gasolina en 2026",
+      "source": "Diario La Hora",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRk1YVHpiM0VCd0ctWVliTWtmTm95eUpTVDhTbGZCZzlmaDlqMWpSSUJ5VnVzTVdpQ3Nyc1ZxZElrLTRZamEzTUlENGFZU3RGcHhTR25TU2ozT1dDYjIxQXI5TEYteFdnVkhsRDA4VEI4ZnZuWk5md3FrRDNsaEVWaUFJYnA1SWVFbW16TUhYWVNkR2ctWWlscVgtLWd4dEZ4aDVvU0NVRFVoYTNrbXc0dW9zSDVJYUpKMVpBY0lmNlJhQQ?oc=5",
+      "ts": 1782457200000,
+      "sentiment": 0.0,
+      "tags": []
+    },
+    {
+      "title": "Riesgo país de Ecuador sube 45 puntos por caída del precio del petróleo",
+      "source": "Diario La Hora",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHNjWkxEdDZWVnNWS1B0b1A3MGNXTFlYRjBUS0FTbkwzaGx3dG9XS0J6UjA1QXFwb1FBUlBFTGktODBKcTlBSUtBSjNIS3pWZ3kyTDB2blV6SEZIbUJ2Slp5cm5ZOUpsOHc5Z0VTOThGakhxS0N3ZHh3ajBidkkzV1pnNjRKMWtpNTc3OEhKSEgybzBUTkJJUVd6b0NlM0lIc2ZYX3JCN2huYUQ4cl9SWE96dmxiMGpxNWlOSGVHZEpXRTA?oc=5",
+      "ts": 1782370800000,
+      "sentiment": 0.0,
+      "tags": [
+        {
+          "sym": "WTI",
+          "name": "Petróleo WTI",
+          "pct": 0.7,
+          "dir": 1
+        },
+        {
+          "sym": "RIESGO PAÍS",
+          "name": "Riesgo país (EMBI)",
+          "pct": null,
+          "dir": -1
+        }
+      ]
+    },
+    {
       "title": "WTI sube a 72,01 mientras el mercado sigue atento a la crisis entre Estados Unidos e Irán",
       "source": "El Comercio",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb3c1RnRTOTdnVmVLSmhRQTBTeVlnYVFOMEloMXJjS1dBd3llVXRLdU1XazNjbjBNZkVoOHlIa3FTUUFUUkc1UkVObE01ZUxJVU41YVM1NWtqWVJ2b1IzcDctVTBJem1seUhLdUtoQm1aeTVkWEY3RWhYTWZ6XzJuOExoeUtTclRsVFFOT2VJTTFHLWtxOFE?oc=5",
@@ -1664,35 +1693,6 @@
       "source": "El Universo",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVzBtWmdCSlJURlUxdnBYZ3JqdWxTQm5vckh3ejdwcFNrVGFDeWxpMGdQNFJ6NnJBaGQxWUE5bWFLcWgwUm5EMUEzMGRmSmk5Q1VYMmZhaEpkalFxUGI5VVlkT2lUejQ1ZXBMelJVVTB0LXpyWjZVeWZOeVIwa0swUmo2Mk5hblM5eWZrTzBPczUyU193VURtZTNWX1VNYlpLejdVRENuY0h2QmpmSXFUY2FseHdRSjZnZHJiUmNiaGExZE9Wa2VBMlZOYl9hUdIB4gFBVV95cUxQNGFhVzYxQXpwWWVpN0FDOEZZX0RlbHhzYU04N3RrOFZyZS1PN2w0SkMwNi1PdnpYNUkzYjVBUU9tVGduRWYxWDl3WVNZRlo5WGRwMmJvcy1uME9yRC1VRW9jeDBSM3pmV2paVGVRSlFDVFFiZkdDU3VrUFpaX1JMMUw5emxPaFU5TnJuR2N6WFZTLXd6S3lXN1R0Y3ZmcFNDTkNjWnY3VWtGbENuNWZFaHBCdG5uVW9USDBHaXAzaU1aSzF5UDJDeXB1WG01dUZqMUxaWFMzSW5tSlRJRjZQeXBB?oc=5",
       "ts": 1781852400000,
-      "sentiment": 0.0,
-      "tags": []
-    },
-    {
-      "title": "Ecuador cierra exportación de crudo por 313 millones de dólares",
-      "source": "El Comercio",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRHZtVnBjSTZEeXdvOW1ZX3Qybjk4UHZGckdEMFRYclRLMVNkdEVTUVZlRGl2US1WX081QUFBOTFGQkN2cU8zNXVfRTdpZmpRV0lmV3A1NnZPbkdNbUFCR3NYTTRSMF9ZYkQzcVo0cHM2QktfZVQ0Z3Jia0JmdlFaTzJMaV83QmZJczZtN3N5allSUXBRSGoyYkl0ODRUZw?oc=5",
-      "ts": 1781852400000,
-      "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "WTI",
-          "name": "Petróleo WTI",
-          "pct": 0.7,
-          "dir": 1
-        },
-        {
-          "sym": "USD/MACRO",
-          "name": "Macro / dólar",
-          "pct": null,
-          "dir": 1
-        }
-      ]
-    },
-    {
-      "title": "Congestión en puertos de China presiona el mercado del camarón ecuatoriano",
-      "source": "eloriente.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQzR1aktFY0J6a05fd2FLd1lhOXYxSkJTN3o2cEVrdWZUeF9nYTdIYnBGeHhxeldxcjE1VmdMWFNYM3cxYnE1c3NuMVJYc2RBczg3akI4WTlaWEF2SkdsT0IxdUZrYVRpSVlINW5peV9hOU42emRJY2dUNm1YTjZhbXM3bDVsMnc3dHAwZGZ6akIweDQyd0xZRTJkSTg2ZXR4Mm9YZGRnMjNFaVlwUWZlclFjanczUQ?oc=5",
-      "ts": 1781766000000,
       "sentiment": 0.0,
       "tags": []
     }

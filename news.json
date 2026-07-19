@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T22:26:10.382172+00:00",
+  "updated": "2026-07-19T23:27:17.004290+00:00",
   "categories": [
     {
       "key": "tech",
@@ -47,7 +47,7 @@
             {
               "sym": "TSLA",
               "name": "Tesla",
-              "pct": 1.6,
+              "pct": 1.3,
               "dir": 1
             }
           ],
@@ -63,7 +63,7 @@
             {
               "sym": "TSLA",
               "name": "Tesla",
-              "pct": 1.6,
+              "pct": 1.3,
               "dir": 1
             }
           ],
@@ -156,22 +156,22 @@
           "category": "tech"
         },
         {
-          "title": "Apple desbanca a Nvidia como la empresa de mayor valor de mercado",
-          "source": "Forbes México",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcTZ3VU03OHhDSTdsQTQwMTdKSkJqYVpjNE5xbW1oMlY4eTduS0lsUjU1VUhwbWl0N1EybW90VWNja3VZeVFUYURha1lnVmFRUE1mUTdZbENLb0NMNDJRSV9sT2lVN0tmNkRPSVZFaF92N29oTjRUbWZoOHlpSGQ1VmJuRTdPS2NhX2sxdTNIaldYUQ?oc=5",
-          "ts": 1784303280000,
-          "sentiment": 0.0,
+          "title": "Apple recupera el título de compañía más valiosa del mundo, por delante de Nvidia",
+          "source": "TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CLTVEeHUzdzVTVk5tTEcyRmtGZHpHSnotUjRoQmRFcW56akxFd2hqZngxZGFXRWFlS296RFpjN2hhd1p6MDF2V0NsQ0NIRlg2c3JqdkswaXpSUVFmWXIwdklwVXpRZw?oc=5",
+          "ts": 1784298966000,
+          "sentiment": 0.5,
           "tickers": [
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.0,
+              "pct": 2.0,
               "dir": 1
             },
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 0.4,
+              "pct": 0.9,
               "dir": 1
             }
           ],
@@ -183,6 +183,22 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "TSMC prevé una demanda «sólida y a largo plazo» de chips de IA a medida que aumenta su inversión en Arizona",
+          "source": "TradingView",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tamN6aGJ1RWllQlBob0RWM1FzWXlqUjRaMkE5VU9lTVhQQzZRQmc2Z2pNQ3BQY2dxMDF3V2I5TnN1R2JCN0w5ZTBDWGVfTHFaeU9Ca0lpdEFoNmtJbm9abzZCM290NlowVXYxbHRmVDEycEE2cUpJ?oc=5",
+          "ts": 1784502246000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "TSM",
+              "name": "TSMC",
+              "pct": -2.4,
+              "dir": -1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Mis 3 principales acciones de inteligencia artificial para comprar en este momento",
           "source": "noticiasneo.com",
@@ -313,28 +329,6 @@
               "name": "ETF Semiconductores",
               "pct": 0.8,
               "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Apple amenaza destronar a Nvidia como la empresa más valiosa del mundo",
-          "source": "www.revistaeyn.com",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQkVUcFFvSUxMdGhYYzNHU0xkMG9fTWpYWm9MMUF1Z3FkZFQ3eTVEUThHUkdON3FLanZEZzB3cms3azZlWEdtcTM0bHV1Q25kZDFrbHo5dm1FLVpCbTV5REVQTXNYLWZxWEhZc3pnWDZLOEZoZmZTLWh1UWx1eXdmeUNxTWhPb1hUTnVkZUhiZzBaSGUyeGJYaWxHMVh6M3B1bjNqYkRlT2lMTElLUlhZTHQwTkNlalBMQjdDR2NKZ0pPaGdZbGI4?oc=5",
-          "ts": 1784383200000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": -2.5,
-              "dir": -1
-            },
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": -1.1,
-              "dir": -1
             }
           ],
           "category": "semis"
@@ -589,22 +583,6 @@
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.6,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
-        },
-        {
-          "title": "Presidente Abinader entrega blindado Furia VBD-2 y modernos equipos para reforzar la defensa nacional",
-          "source": "Presidencia de la República Dominicana",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM29oUHkzdS1MV2p4MmRxcjR5LUJ5QWYwZ0p5NXR0ZlVZS25LQkdzWFhkTzNCNmNZM0dNSVNhQXpGMXZIQ25IOHIzdEJFOUNGVXpkTDZqT0VhZmxmUmYyWl9HXzhmUksxQ3NHRzd3c1R4b29YektTWG5pSXc4UlNXVWVOXzByRGZ5ZHdkQklPOGJrbWhycmd1THkyNFhybUxkcng4RlE2S1FoWGstamp3OFIzOTROV1NJeURIUw?oc=5",
-          "ts": 1784309703000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
               "pct": 0.4,
               "dir": 1
             }
@@ -770,6 +748,28 @@
             }
           ],
           "category": "defense"
+        },
+        {
+          "title": "Lockheed Martin, RTX y BAE Systems lideran los beneficios del auge militar global en 2025",
+          "source": "El Boletín",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOVdJS05qREJnXzFwMktBS2FBamVieVRZZG1UdkhpUEF5WWR1QVF3enIzNGNyaW1XZEE0T3A5c2ZhdUFadmo0cmVPanNMMFBsMGhDS0ZMTV9GcVJVUjZUZGNkRE44dlE4SVZ6X3JQRVhHSHg4c2xsQmpzbVJld0N6V3gyd2JYWVZxUFNOb3FBdVBpMk92TTB1WHJibWFwT05FaFF1RWJRejEzNHlTOHphS3dqLUlOd9IBuwFBVV95cUxNeU5acnFZUW9WTHd3MFBJN0dXaWFtZ0pkUjc5WDZXX2tzazZ3T1pJanhPZTNid0o2UTdWVEtYTlFGdUc0SnE2ZW50X0FpODlBRjIzTy1GMlV3eGxVRWdyMFA0RVpCNGl5aXhyb21qNG4zWjZIRkxZVkkwRWNNNzlUN05lRC1HZWZNWG1uejVzSkRhcEdySjJCR21hT01nbGx6WlNSWGlERHB4ODQ1WHByRlRMNGZDNzc2amt3?oc=5",
+          "ts": 1777273200000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "LMT",
+              "name": "Lockheed Martin",
+              "pct": 0.4,
+              "dir": 1
+            },
+            {
+              "sym": "RTX",
+              "name": "RTX (Raytheon)",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "defense"
         }
       ]
     },
@@ -777,6 +777,22 @@
       "key": "oil",
       "label": "Petróleo / Energía",
       "items": [
+        {
+          "title": "Precios del combustible hoy, 20 de julio: Los precios mundiales del petróleo suben bruscamente al comienzo de la semana.",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYTRIaHowWTdqMG8wc3ZqZFdHaGpFWHZtTEx4UF9kYzhRS0ZqYXBKU0FQR3QzNkktRzYxVFRxNWk2bk9aa1UzV3QwUmNCMjFTU2FiZWRpOXdZUmN1Y2l3Qm9rcU4tVkNrZWJpZ2tPeThaNkhva1l0UE1aWWE1M2V2V1AxTVRDVmpsSnZWNURSVU54WmxY?oc=5",
+          "ts": 1784502223000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": 2.4,
+              "dir": 1
+            }
+          ],
+          "category": "oil"
+        },
         {
           "title": "El Brent y el WTI buscan $100 mientras analistas alertan de una guerra eterna",
           "source": "TradingView",
@@ -815,7 +831,7 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": 2.0,
+              "pct": 1.7,
               "dir": 1
             }
           ],
@@ -831,7 +847,7 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -965,34 +981,6 @@
               "name": "Petróleo WTI",
               "pct": 1.3,
               "dir": 1
-            }
-          ],
-          "category": "oil"
-        },
-        {
-          "title": "--Los futuros del petróleo crudo Brent y WTI subieron a primera hora del lunes a medida que se intensificaba el conflicto en el estrecho de Ormuz con huelgas en el mercado de valores entre Estados Unidos e Irán.",
-          "source": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaTVEQm9zM0syU3llQmJqbllKSkw1c1hiY1FHSWJoU1B4cnpJSU92bHdyb1NyNWV3VHhOQUlSM2dRRjMwcUp2TWhlQ0k5QWNQemlMV3lCZ0swWmowNWlsUmRUWnRvNldkMEhqb1ZPZGI5OGdyUW9PeWNjVXZfUk1ZRkN1Z1JhT0hQVGlpVm5NY2Zza1p5?oc=5",
-          "ts": 1783936556000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": -1.3,
-              "dir": -1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.9,
-              "dir": 1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": -0.6,
-              "dir": -1
             }
           ],
           "category": "oil"
@@ -1466,16 +1454,22 @@
   ],
   "tickerBoard": [
     {
-      "sym": "ITA",
-      "name": "ETF Defensa/Aeroespacial",
-      "net": 5.4,
-      "n": 23
-    },
-    {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 4.5,
-      "n": 6
+      "net": 8.0,
+      "n": 5
+    },
+    {
+      "sym": "WTI",
+      "name": "Petróleo WTI",
+      "net": 4.0,
+      "n": 25
+    },
+    {
+      "sym": "ITA",
+      "name": "ETF Defensa/Aeroespacial",
+      "net": 3.9,
+      "n": 21
     },
     {
       "sym": "QQQ",
@@ -1484,16 +1478,22 @@
       "n": 20
     },
     {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": 3.4,
-      "n": 6
-    },
-    {
       "sym": "SMH",
       "name": "ETF Semiconductores",
       "net": 3.4,
       "n": 4
+    },
+    {
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": 2.8,
+      "n": 6
+    },
+    {
+      "sym": "AAPL",
+      "name": "Apple",
+      "net": 2.4,
+      "n": 3
     },
     {
       "sym": "ASTS",
@@ -1520,22 +1520,10 @@
       "n": 1
     },
     {
-      "sym": "AAPL",
-      "name": "Apple",
-      "net": 0.8,
-      "n": 4
-    },
-    {
       "sym": "TSM",
       "name": "TSMC",
-      "net": 0.8,
-      "n": 1
-    },
-    {
-      "sym": "WTI",
-      "name": "Petróleo WTI",
-      "net": 0.7,
-      "n": 25
+      "net": -1.6,
+      "n": 2
     },
     {
       "sym": "GD",
@@ -1544,10 +1532,10 @@
       "n": 1
     },
     {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": -0.3,
-      "n": 21
+      "sym": "LMT",
+      "name": "Lockheed Martin",
+      "net": 0.4,
+      "n": 1
     }
   ],
   "ecuador": [

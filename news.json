@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T15:40:33.965459+00:00",
+  "updated": "2026-07-19T16:34:07.659137+00:00",
   "categories": [
     {
       "key": "tech",
@@ -165,13 +165,13 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.3,
+              "pct": 1.0,
               "dir": 1
             },
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 0.6,
+              "pct": 0.4,
               "dir": 1
             }
           ],
@@ -232,6 +232,28 @@
               "sym": "QQQ",
               "name": "Nasdaq 100",
               "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Supera a Nvidia, vuelve Apple a ser la empresa más valiosa del mundo",
+          "source": "NVI Noticias",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTUxMRXV0VGJDOFZ3Rm9lNDBRck9fM2VSZlgyY1RjQzgyeGdFdmJaTm9heW1fckFYamMxXzRzMTlZdEpDRi1OMWswcU5XX0hYdTFJVnZzZ1A0aXpQOFNxZ0FFZGRiQS00LXMwRUhmbXo4RkRrVTR4aVphWGs4b3d1WVlyNDZpdXlmOTJvdkdJUkk3MndSYVlyUXdHYk5meWR4ZGVKM0E5bW51TWM?oc=5",
+          "ts": 1784456962000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 3.1,
+              "dir": 1
+            },
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 1.4,
               "dir": 1
             }
           ],
@@ -335,28 +357,6 @@
               "name": "Apple",
               "pct": -1.1,
               "dir": -1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "\"La fábrica de TSMC en Arizona es un pisapapeles\" el obstáculo que mantiene los chips de Apple atados a Taiwán",
-          "source": "Applesfera",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUnYxakRVdXFnbS1EdWItaDBWVFVfUlRrQWMzV0tpbUxXMmpyYThuVXVLYW1ZS0JxbV81RV9QZVhYeUtnbVRJYUZlMFBzbDBXWEgxQUI5MUdlVmtXMWZQWnUxaFAyb2VoeW8yQnVyRlg4QzdfLU1iVUlfdTc5cHNrR0Y4SEZaTTkwNUJKbFBIV2c4a2hJdmtha0ZZN0U4dDIyaTR4M2l3X3U0Tk5YY190bGtDVGxqaUlhSFp2M0JfWXE?oc=5",
-          "ts": 1784365207000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSM",
-              "name": "TSMC",
-              "pct": 0.8,
-              "dir": 1
-            },
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": 0.6,
-              "dir": 1
             }
           ],
           "category": "semis"
@@ -587,13 +587,13 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": -0.8,
+              "pct": -0.7,
               "dir": -1
             },
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": -0.6,
+              "pct": -0.4,
               "dir": -1
             },
             {
@@ -1454,16 +1454,16 @@
   ],
   "tickerBoard": [
     {
-      "sym": "ITA",
-      "name": "ETF Defensa/Aeroespacial",
-      "net": 4.3,
-      "n": 23
-    },
-    {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 3.8,
-      "n": 5
+      "net": 6.6,
+      "n": 6
+    },
+    {
+      "sym": "ITA",
+      "name": "ETF Defensa/Aeroespacial",
+      "net": 4.5,
+      "n": 23
     },
     {
       "sym": "QQQ",
@@ -1496,33 +1496,27 @@
       "n": 1
     },
     {
+      "sym": "AAPL",
+      "name": "Apple",
+      "net": 1.8,
+      "n": 4
+    },
+    {
       "sym": "GOOGL",
       "name": "Alphabet",
       "net": 1.6,
       "n": 2
     },
     {
-      "sym": "AAPL",
-      "name": "Apple",
-      "net": 1.2,
-      "n": 4
-    },
-    {
       "sym": "WTI",
       "name": "Petróleo WTI",
-      "net": -1.0,
+      "net": -0.9,
       "n": 24
     },
     {
       "sym": "MU",
       "name": "Micron",
       "net": 0.9,
-      "n": 1
-    },
-    {
-      "sym": "TSM",
-      "name": "TSMC",
-      "net": 0.8,
       "n": 1
     },
     {
@@ -1536,6 +1530,12 @@
       "name": "General Dynamics",
       "net": 0.4,
       "n": 1
+    },
+    {
+      "sym": "MSFT",
+      "name": "Microsoft",
+      "net": -0.0,
+      "n": 3
     }
   ],
   "ecuador": [
@@ -1657,6 +1657,27 @@
       ]
     },
     {
+      "title": "Riesgo país de Ecuador sube 45 puntos por caída del precio del petróleo",
+      "source": "Diario La Hora",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHNjWkxEdDZWVnNWS1B0b1A3MGNXTFlYRjBUS0FTbkwzaGx3dG9XS0J6UjA1QXFwb1FBUlBFTGktODBKcTlBSUtBSjNIS3pWZ3kyTDB2blV6SEZIbUJ2Slp5cm5ZOUpsOHc5Z0VTOThGakhxS0N3ZHh3ajBidkkzV1pnNjRKMWtpNTc3OEhKSEgybzBUTkJJUVd6b0NlM0lIc2ZYX3JCN2huYUQ4cl9SWE96dmxiMGpxNWlOSGVHZEpXRTA?oc=5",
+      "ts": 1782370800000,
+      "sentiment": 0.0,
+      "tags": [
+        {
+          "sym": "WTI",
+          "name": "Petróleo WTI",
+          "pct": 0.7,
+          "dir": 1
+        },
+        {
+          "sym": "RIESGO PAÍS",
+          "name": "Riesgo país (EMBI)",
+          "pct": null,
+          "dir": -1
+        }
+      ]
+    },
+    {
       "title": "WTI sube a 72,01 mientras el mercado sigue atento a la crisis entre Estados Unidos e Irán",
       "source": "El Comercio",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb3c1RnRTOTdnVmVLSmhRQTBTeVlnYVFOMEloMXJjS1dBd3llVXRLdU1XazNjbjBNZkVoOHlIa3FTUUFUUkc1UkVObE01ZUxJVU41YVM1NWtqWVJ2b1IzcDctVTBJem1seUhLdUtoQm1aeTVkWEY3RWhYTWZ6XzJuOExoeUtTclRsVFFOT2VJTTFHLWtxOFE?oc=5",
@@ -1699,14 +1720,6 @@
           "dir": 1
         }
       ]
-    },
-    {
-      "title": "Congestión en puertos de China presiona el mercado del camarón ecuatoriano",
-      "source": "eloriente.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQzR1aktFY0J6a05fd2FLd1lhOXYxSkJTN3o2cEVrdWZUeF9nYTdIYnBGeHhxeldxcjE1VmdMWFNYM3cxYnE1c3NuMVJYc2RBczg3akI4WTlaWEF2SkdsT0IxdUZrYVRpSVlINW5peV9hOU42emRJY2dUNm1YTjZhbXM3bDVsMnc3dHAwZGZ6akIweDQyd0xZRTJkSTg2ZXR4Mm9YZGRnMjNFaVlwUWZlclFjanczUQ?oc=5",
-      "ts": 1781766000000,
-      "sentiment": 0.0,
-      "tags": []
     }
   ]
 }

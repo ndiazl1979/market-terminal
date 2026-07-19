@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T10:11:31.167911+00:00",
+  "updated": "2026-07-19T11:28:09.028842+00:00",
   "categories": [
     {
       "key": "tech",
@@ -15,7 +15,7 @@
             {
               "sym": "MSFT",
               "name": "Microsoft",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -79,7 +79,7 @@
             {
               "sym": "TSLA",
               "name": "Tesla",
-              "pct": 1.6,
+              "pct": 1.3,
               "dir": 1
             }
           ],
@@ -183,6 +183,22 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Madrid impulsa la modernización de pymes con 15,2 millones en proyectos de inteligencia artificial y 'blockchain'",
+          "source": "El Periódico de España",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZnpPYlNIZzIzZlQwY2ZGaEJ6c3hJdE9Nc2FfVUxZZjdXYTRGakNQZG1Ua09lMng4eTlaandKTktfN2RBNENUTzdnMkw2T0FsMlZkRzVLRzNfZ1A4NWpPQm5HSXA1LTN6NTRoaS1hdXpUdWVmakJ3WUwtRVVOOEtBODc2UDRVNEs5TGNtalVyU19HeWZ1WEtYakViY2t1WkJ3WktRaU9TNlBudXBHM3pBakhveHNWS0xMVmJOUDI4ZzPSAcABQVVfeXFMTkNkeXpReFZScXhmSVNYcGNQd3loUXc2dkp0SldGY2htYVI1dFpnRDh5X0JLTGFYYnFDcDdpcnpDRl9pX1E3RDNsdUdXNWRBVjFhRmF6MGMzQnQ0LTR5Ym9yTnFZYXRYY3F6THNSbXI5aFlHZTZfenhjdkR6Q0RQYnY0bHp2ak1EVzJqQ3NNSDYyVVZESjVFVmxoeDM4OHRyNGRrbE1JcFJhYUl6ajZkY3huVVRkbUljVER0bUhRT0lO?oc=5",
+          "ts": 1784458646000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 2.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Madrid invierte más de 15 millones en 132 proyectos de Inteligencia Artificial",
           "source": "La Razón",
@@ -329,28 +345,6 @@
               "name": "Apple",
               "pct": -1.4,
               "dir": -1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "\"La fábrica de TSMC en Arizona es un pisapapeles\" el obstáculo que mantiene los chips de Apple atados a Taiwán",
-          "source": "Applesfera",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUnYxakRVdXFnbS1EdWItaDBWVFVfUlRrQWMzV0tpbUxXMmpyYThuVXVLYW1ZS0JxbV81RV9QZVhYeUtnbVRJYUZlMFBzbDBXWEgxQUI5MUdlVmtXMWZQWnUxaFAyb2VoeW8yQnVyRlg4QzdfLU1iVUlfdTc5cHNrR0Y4SEZaTTkwNUJKbFBIV2c4a2hJdmtha0ZZN0U4dDIyaTR4M2l3X3U0Tk5YY190bGtDVGxqaUlhSFp2M0JfWXE?oc=5",
-          "ts": 1784365207000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSM",
-              "name": "TSMC",
-              "pct": 0.8,
-              "dir": 1
-            },
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": 0.6,
-              "dir": 1
             }
           ],
           "category": "semis"
@@ -1474,7 +1468,7 @@
     {
       "sym": "TSLA",
       "name": "Tesla",
-      "net": 5.8,
+      "net": 5.5,
       "n": 4
     },
     {
@@ -1482,6 +1476,12 @@
       "name": "ETF Defensa/Aeroespacial",
       "net": 4.6,
       "n": 24
+    },
+    {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 3.9,
+      "n": 6
     },
     {
       "sym": "NVDA",
@@ -1514,22 +1514,16 @@
       "n": 3
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 1.9,
-      "n": 5
-    },
-    {
-      "sym": "AAPL",
-      "name": "Apple",
-      "net": 1.8,
-      "n": 5
-    },
-    {
       "sym": "WTI",
       "name": "Petróleo WTI",
       "net": -1.5,
       "n": 24
+    },
+    {
+      "sym": "AAPL",
+      "name": "Apple",
+      "net": 1.2,
+      "n": 4
     },
     {
       "sym": "AMZN",
@@ -1550,10 +1544,10 @@
       "n": 1
     },
     {
-      "sym": "TSM",
-      "name": "TSMC",
-      "net": 0.8,
-      "n": 1
+      "sym": "MSFT",
+      "name": "Microsoft",
+      "net": 0.4,
+      "n": 4
     }
   ],
   "ecuador": [
@@ -1644,21 +1638,6 @@
       "tags": []
     },
     {
-      "title": "Petróleo crudo en el Comercio de Panamá | Observatorio de Complejidad Económica",
-      "source": "The Observatory of Economic Complexity",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3I5aW5YVTM2ZmRFOHo5bHB2RTdESlE5QW1PbzNiMVV4ZHo5ZWlHc2R6N1c1Q1BERS05Nkw4M0Q1R2NkdlVXZXZkSTFRN3JONml3TXRyM2VGQWVRSkN5REFiYWtLZmJNeDRwc0I4OXpEVDFlVG1KdEQ0bFRnTVFqOA?oc=5",
-      "ts": 1783407600000,
-      "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "WTI",
-          "name": "Petróleo WTI",
-          "pct": 0.7,
-          "dir": 1
-        }
-      ]
-    },
-    {
       "title": "Entre remates y remesas: la economía del México vs Ecuador",
       "source": "El Economista",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1lxVHVWUlp5Y3RwWW9OdG5PNTFZZVgwZ3UzbEltclJxT2xhLUlMazJyV3FIY21ET19JbzJMVFNJVHJndkpMOWQ4dVRHNzdMRHlOVWFlZ0tjMFIwb3ppcDIxQldLUDJRQUpJRmVJNnVlYzRxZzlWZDBGTTBpY2ZSX0xTeWpOeE5yN2ZZR21McHVKT05oVGJOOGtxVEl1OWRxRllLQllR0gGrAUFVX3lxTE1nTVNFb3RTczVZbTd2Y1ZmYXI1eHZYRi1DcWhSNXVxT1FPbjd5ZWhfWWRRMEhyQTBGdlpvU19oc2hjNmw2SUdyelAxMnpTTXBSVTNkQS11THpITkwtR2pzWlo0ZnpBYVpLbGFocUNEaV95NTgzRXdVc056U2MydXlocGtEMXM0bE1NZ1lVeFdxbEprSWd5czVoR0IwV25HSl9YczdkQngwVHE0UQ?oc=5",
@@ -1716,6 +1695,14 @@
       "title": "Mercado de valores será parte de la formación académica",
       "source": "El Universo",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVzBtWmdCSlJURlUxdnBYZ3JqdWxTQm5vckh3ejdwcFNrVGFDeWxpMGdQNFJ6NnJBaGQxWUE5bWFLcWgwUm5EMUEzMGRmSmk5Q1VYMmZhaEpkalFxUGI5VVlkT2lUejQ1ZXBMelJVVTB0LXpyWjZVeWZOeVIwa0swUmo2Mk5hblM5eWZrTzBPczUyU193VURtZTNWX1VNYlpLejdVRENuY0h2QmpmSXFUY2FseHdRSjZnZHJiUmNiaGExZE9Wa2VBMlZOYl9hUdIB4gFBVV95cUxQNGFhVzYxQXpwWWVpN0FDOEZZX0RlbHhzYU04N3RrOFZyZS1PN2w0SkMwNi1PdnpYNUkzYjVBUU9tVGduRWYxWDl3WVNZRlo5WGRwMmJvcy1uME9yRC1VRW9jeDBSM3pmV2paVGVRSlFDVFFiZkdDU3VrUFpaX1JMMUw5emxPaFU5TnJuR2N6WFZTLXd6S3lXN1R0Y3ZmcFNDTkNjWnY3VWtGbENuNWZFaHBCdG5uVW9USDBHaXAzaU1aSzF5UDJDeXB1WG01dUZqMUxaWFMzSW5tSlRJRjZQeXBB?oc=5",
+      "ts": 1781852400000,
+      "sentiment": 0.0,
+      "tags": []
+    },
+    {
+      "title": "Ecuador apunta a nuevos mercados para exportar pollo, cerdo y camarón",
+      "source": "expreso.ec",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdmxZZ1NNbDhyN3VSMFRLb2x1SzhmRDlfcTJ3eDc2b3FPQlBKQXJzVlBOQ25BTGVpZVMxN3ZnRTk3Y3haNGMwYXRzb2l1RDB2MEhNcWxDTWZVNlh4ODhrVTRzNld4ZmFBRi1Za1FkeTAwWTVsZ0NrQm1iS2hzWlBpR2FNT1pMcWVVNUtFUFVUUEMxZDB3SnRPRHNsNHBSQmFZSVY0ZE56UUlBOTJXRFlUWkhINXE?oc=5",
       "ts": 1781852400000,
       "sentiment": 0.0,
       "tags": []

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T21:24:48.046220+00:00",
+  "updated": "2026-07-19T22:13:40.250107+00:00",
   "tournament": "FIFA World Cup 2026",
   "groups": [
     {
@@ -1051,16 +1051,16 @@
     {
       "id": "760517",
       "date": "2026-07-19T19:00Z",
-      "state": "in",
+      "state": "post",
       "stage": "final",
-      "detail": "94'",
+      "detail": "AET",
       "round": "Final",
       "home": {
         "abbr": "ESP",
         "name": "Spain",
         "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
         "id": "164",
-        "score": "0"
+        "score": "1"
       },
       "away": {
         "abbr": "ARG",
@@ -1068,61 +1068,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
         "id": "202",
         "score": "0"
-      },
-      "pred": {
-        "pHome": 33.4,
-        "pDraw": 32.1,
-        "pAway": 34.5,
-        "over": {
-          "1.5": 50.7,
-          "2.5": 25.0,
-          "3.5": 9.7
-        },
-        "under": {
-          "1.5": 49.3,
-          "2.5": 75.0,
-          "3.5": 90.3
-        },
-        "btts": 32.6,
-        "topScores": [
-          {
-            "score": "0-0",
-            "p": 17.0
-          },
-          {
-            "score": "0-1",
-            "p": 16.3
-          },
-          {
-            "score": "1-0",
-            "p": 16.0
-          }
-        ],
-        "likely": "0-0",
-        "lamHome": 0.85,
-        "lamAway": 0.87,
-        "expTotal": 1.73,
-        "ah": {
-          "fav": "away",
-          "line": -0.25,
-          "coverFav": 34.5,
-          "lineAway": 0.25,
-          "coverDog": 65.5
-        },
-        "sot": {
-          "home": 2.7,
-          "away": 2.7,
-          "total": 5.4,
-          "shotsHome": 6.3,
-          "shotsAway": 6.5
-        },
-        "eloHome": 2085,
-        "eloAway": 2145,
-        "confidence": 34.5
-      },
-      "odds": null,
-      "bets": [],
-      "rec": null
+      }
     }
   ],
   "valueBoard": []

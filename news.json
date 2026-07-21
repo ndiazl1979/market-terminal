@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T17:41:56.028994+00:00",
+  "updated": "2026-07-21T18:54:55.659880+00:00",
   "categories": [
     {
       "key": "tech",
@@ -70,6 +70,22 @@
           "category": "tech"
         },
         {
+          "title": "Nvidia revela una participación del 9.3% en la empresa de nube de IA Nebius.",
+          "source": "es.qz.com",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RZThoSTdBcHduZlhYd1dYekRLMEwxU0sxMVp3NVFnMGFNaHgwNktNc3RKRm1VdE82bXM3eVlHak1GcEdzdEVJUHdZd0tDZmJaQTNKbGhMZks5VHh5QTU4V3RJQQ?oc=5",
+          "ts": 1784636786000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.5,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
           "title": "Nvidia refuerza Omniverse y sus acciones avanzan antes de la apertura",
           "source": "Benzinga España",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaU83TFJubFhENThaSE94ZGdZY2NzcFpoWVNnd0Y5cXhHbUpaV0Y1YnRDWlRId0diT3JKZWY5RGR3X1poZFJ4bEw1UW9xcjEzMDVrTXFVWXBuOU5oNGpkdlJQZXFHQWwtNHJJSFAtdDR5dmdkNmZwcnYtUjE1OUgwekhOUDZJcEhlSHlGUnln?oc=5",
@@ -79,23 +95,7 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 3.6,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Nvidia revela una participación del 9.3% en la empresa de nube de IA Nebius.",
-          "source": "es.qz.com",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RZThoSTdBcHduZlhYd1dYekRLMEwxU0sxMVp3NVFnMGFNaHgwNktNc3RKRm1VdE82bXM3eVlHak1GcEdzdEVJUHdZd0tDZmJaQTNKbGhMZks5VHh5QTU4V3RJQQ?oc=5",
-          "ts": 1784636550000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 3.1,
               "dir": 1
             }
           ],
@@ -111,25 +111,25 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": -1.2,
+              "pct": -1.0,
               "dir": -1
             },
             {
               "sym": "AMZN",
               "name": "Amazon",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             },
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": -0.8,
+              "pct": -0.7,
               "dir": -1
             },
             {
               "sym": "SPY",
               "name": "S&P 500",
-              "pct": 0.5,
+              "pct": 0.4,
               "dir": 1
             }
           ],
@@ -202,6 +202,44 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "NVIDIA no tiene un respiro: Google trabaja en un nuevo chip para adelantar a ChatGPT y Claude",
+          "source": "La Razón",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQWnhtbUVSRDNiV255TU82cW1XeURGSWdtdS1xZUpWRDA4b2ZEZENvZWpjd2s2VzhFbGJiajZfck9wbHVSVEdXTTg3QjdiRTdiNWdnaGE3ZThJOTF5QXY0X1l2dExQRHl2cUc0WTZoN0hZMFNHZmpPdUNial9YOHFWam01aTNCRkJRV3V3NWtyWmxhVElpMDN6SG1INWJmT3cwczkyOXVVRDNTaTRmb2RDd0tuRUk3M21PR3NwT0xIV3VGQ19XSUlmdFQwdEVRcFhyUDV3NTA0aFhsUFF3OWd0TzBnOTB3TjIwdGJhYVV1WDhENm5lZlNSOTBQc2t5dWN1ZVBrNzhkTUhvUQ?oc=5",
+          "ts": 1784656800000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            },
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 0.9,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "NVIDIA detalla Vera, su nueva CPU Arm diseñada para la era de la inteligencia artificial agéntica",
+          "source": "madboxpc",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nNzBOT2ZrYUk3OVZwUENBa0hiWVFMcm9NSFcxcWJQZ09LYjQxTnJTbkphNFJWdkEwZlFQY1ZaaHA4N2JKaVVPSUpaaXJ3MlhVY195WFE2ZUw5UG82ZlFhOVpqSkQ4SVJEaW1rbUY2VnpCN2c?oc=5",
+          "ts": 1784656630000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Nvidia entra en el campo de batalla de las CPU: Chips Vera entregados a OpenAI, el rendimiento supera a los chips x86 en un 50%, desafía a AMD e Intel",
           "source": "TradingKey",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZ1ZxS2dURzY2WVpGSE45cFFTTlc0RDEzNGU0QmQwRW9TQWtuWXlCN1RkclRUT0RTaDg0QWR3dDlFMzdsUWFobzBOOGRjTERwVDhYZTdxNE1UcVhKeDd3WmtkVGVVYTN2RWhmaGpNQ1RRbmw2MGJSMzRXM0NSUXJySThCYjZIQUk0UjQwZy00NnI3aTF4RlVFVEFubVRQT1ctdE9CTHN4VmFBSThRRFBrcHZIN1hlUEI3UXpoRDZlSVo2ZVdOaERzdDlHam0zYWRxOVl3RXp4eDFvaWJxR2c?oc=5",
@@ -240,6 +278,50 @@
               "sym": "GOOGL",
               "name": "Alphabet",
               "pct": 0.9,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Subirá TSMC precios de fabricación de chips hasta 10% en 2027: agencias",
+          "source": "Milenio",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQkROZG1Rc2lqTjAzRTB5M2hlVHpscExGZktTTVF6TVVNR1c0cS11M2pvMkRZVWVDN0hNWTAtWVNINXpMV3dhQnZjZlZWbzFZbUpDeVJWbmJzLUJla1BweVJobWpCSGZTZnp1R2pEdkNIUkNqX1lsalIzRnhjeGR1VFhGTEVaY0o3WEFjStIBjAFBVV95cUxNZ0xvb1p1eG1Jd0pTUUYxOGE0cG11Q3Fhclg1SXREdmMtYkZnbkRZLU85UjNTNW5YdXR6MnBaT0MzSjhSRE5hczdOa3RneTVoWHRJaUxIOFRzbFhvckxNbFhPZU45czlMbGZtckJhSXpzMmtBdEpPbVEtb2Z1VmtKVDlodEMwdFBnNlpvMg?oc=5",
+          "ts": 1784655120000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "TSM",
+              "name": "TSMC",
+              "pct": 1.2,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "ASML sube precios 10% en 2026: TSMC resiste y chips de IA se encarecen",
+          "source": "Ecosistema Startup",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVTIyZlJLem51V2dmZURIMmM1bm96QnU0Nld5b1doTHJ1dTNGdnYxTHQ0THEwNkMzZ0NXX3hRdUd2VGF0NDVLUmExTVFoaVRvOF9TRnFtSTF2dkZleXlCb2JOWUNYRUFWajVGR0MyVFR5MXM2RkN4MUNkdzdvRWc2YlZWaFk1YTBwV1h1TVU4Uzd5TzVEOFZyY2JubENtUmQx?oc=5",
+          "ts": 1784652472000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "TSM",
+              "name": "TSMC",
+              "pct": 2.4,
+              "dir": 1
+            },
+            {
+              "sym": "ASML",
+              "name": "ASML",
+              "pct": 2.4,
+              "dir": 1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 2.0,
               "dir": 1
             }
           ],
@@ -290,80 +372,10 @@
           "category": "semis"
         },
         {
-          "title": "TSMC elevará hasta 10% sus precios de fabricación de chips en 2027",
-          "source": "DiarioBitcoin",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOUlsT2xnbktRc1RsazRqZ0dBUXJkdjB3QmNsUjFlUlNkaTVDM3J1VnlaUElxYzV2dDJBOVpVNzZsN1E4MXprX2FaNDVHRVh4ZzFfOFNSYXRfT1c4Q29LazNYbjZOaDlmNDlHeVI5SGJIWHNSUXdmYURrLWpDbTdVc2x0Z2VibTFJVFNpQkVGX2FiRmlUMzFqQm1CNnVMUENDZFBmempHVi1WM1k?oc=5",
-          "ts": 1784649903000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSM",
-              "name": "TSMC",
-              "pct": 1.2,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Ben Affleck vende a Netflix su compañía de Inteligencia Artificial por más de 500 millones",
-          "source": "ABC",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWWUwSTVua3RrYzB4bVNMcTl6c3JDc0pyb2RDOWw0LU5jd3F0ZkQyWS1BWnFMaGhsX0xNNnBXc2RBSUUxNHE1a0Uwbk5MNDNBcEFrODhFU0VUN1E4LV9JUDdqNy1yMEZScTFzNWsyVV9ocWx2dFBDVG96TV85Z0JTQXlXUDBYbXZjc0l5MDBycW93NHhuYW12WUdsdVpfcVRZclBINVFrTDBjZ9IBrwFBVV95cUxQTjBUeFNUQXFCQnh6bmRINHVoNFRfRU5HMEY0NDgwNFFHdVNuczF0ZDdYRVF2OGlfTGdjeENucjlwVXpkUldiQkJIdzduNHp1MWpJdFZydDR6emlBUmpNSEd4MW1NT3hUUnk4cDhsZk1ubi1XaVNGVmN4ekVfMUt1RGZGQjBNVHBpMlN6SkFUb2NMZTlmT1p6YUozYzhscWd4UEF1SHFyYjhONjdoUkNR?oc=5",
-          "ts": 1784649490000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "TSMC, el gigante de los chips, subirá precios hasta un 10% desde 2027",
-          "source": "Rosario Finanzas",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbE1HTzBkNlFCaVdMTEZ6T2ZVZXExVlMwdGhMTmtBNndSa0d0NXdhcVNiVDhPUUZRWDJkY294UEhjdk14OEZDMm5oNmtIVnZBQVRGSFdKRVk5UGNZV1h1Nkt3ek53bTU4bkdaMHpOc2RsRWNiSkRtMTk2Z3ctaVpWSlNEckVWZmxhaVY0MzlGeFBBT0plWl9BS21tdk9EVm9pNGxVNg?oc=5",
-          "ts": 1784647860000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSM",
-              "name": "TSMC",
-              "pct": 1.2,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Apple supera a Nvidia como empresa más valiosa",
-          "source": "Inspenet",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSkZ3d1NrUjY1UFYzTHNpN0ZCTFo5TnB3WkNDNkJld1plYnFuMFFwdTZ6QmFUM0NPNGRteTgyU0pBVFQ4OG9VWVg2VVB4cUh4WTRaZm1WUjRQTHRpU0hZSFJiRWJVR2FYTzJpZUpidWtFRXZiQ1hrQV9yalo3c21Tbw?oc=5",
-          "ts": 1784647549000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 3.6,
-              "dir": 1
-            },
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": 1.6,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Nvidia acelera: chips de IA \"Vera Rubin\" entran en producción total",
-          "source": "Investing.com México",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa1ZTako3X3BPa0RIeG16YlZPbGRJYktzTVZNVl94amxrVkp0SlFzOEo0a3Z0NGNwWVY2NWc0SWZIdVlIZkFPNkNlaW9WX0FfUExIQzJ2ak5DMkJZU2h2UFpIU2hVamFfNXlLUW44MEpYNlNwU3I3TnUwaGRMY1lBeGVDM01RMjZVZnZXTXZhdTFrb01heFRWc2Q3N3BGcVR6R1liaERXZzVJMUJQTWFPQmliNWs1X0ZJSUJCUg?oc=5",
-          "ts": 1784647068000,
+          "title": "La nueva herramienta de Nvidia promete identificar videos creados o alterados con inteligencia artificial",
+          "source": "monumental.co.cr",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcGhQYndwRDh5NVpDVjVfQmMwYjF3ZVowS1NDVFBKZ0FiZlBINzlBMWVXMi1nWHFCU21ESkxvaDN5NnIxVkpiSVRXbEM2WkRJRjdrRWJFX0hhUXFCTGp3eFJhLXo0MzlhNk9YeDMyOUlJeWVQcTNKVkxhaW9oTlQtYWJKN0ZnRjBTTUFnT2VZSG1oVTVSeF9udUM5alEzZHZhY3pCeEFxZXZDYVdqMXVFWHA3dzg5WER2M0tRWjdCcFVtM2phWnlTWlVJN1BXbGZOUGQ5cWU3dGpxR2R5dk1n?oc=5",
+          "ts": 1784650199000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -376,16 +388,16 @@
           "category": "semis"
         },
         {
-          "title": "Las acciones de empresas de inteligencia artificial y semiconductores en Japón experimentan una fuerte corrección.",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ1h5dGR3cFlpRWswamR0Y0ZRWjNERmJBUTkxVGJhWTMxaTFyMW5FSno4R0pqWktZdmE2YkIwUExrNmFVQ1dpeDQ2SXhXem5CRHNHMjFNcUp6elRFZFJ4MW9IZVBvYVY5ZVRhLXZRYUdfQVB4bTFwQ0NyLUphYnJ4TnF0MA?oc=5",
-          "ts": 1784647057000,
-          "sentiment": 0.5,
+          "title": "TSMC elevará hasta 10% sus precios de fabricación de chips en 2027",
+          "source": "DiarioBitcoin",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOUlsT2xnbktRc1RsazRqZ0dBUXJkdjB3QmNsUjFlUlNkaTVDM3J1VnlaUElxYzV2dDJBOVpVNzZsN1E4MXprX2FaNDVHRVh4ZzFfOFNSYXRfT1c4Q29LazNYbjZOaDlmNDlHeVI5SGJIWHNSUXdmYURrLWpDbTdVc2x0Z2VibTFJVFNpQkVGX2FiRmlUMzFqQm1CNnVMUENDZFBmempHVi1WM1k?oc=5",
+          "ts": 1784649903000,
+          "sentiment": 0.0,
           "tickers": [
             {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 2.0,
+              "sym": "TSM",
+              "name": "TSMC",
+              "pct": 1.2,
               "dir": 1
             }
           ],
@@ -1505,7 +1517,7 @@
       "sym": "NVDA",
       "name": "NVIDIA",
       "net": 12.0,
-      "n": 9
+      "n": 10
     },
     {
       "sym": "QQQ",
@@ -1514,22 +1526,22 @@
       "n": 18
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 5.3,
-      "n": 4
-    },
-    {
-      "sym": "AAPL",
-      "name": "Apple",
-      "net": 5.1,
-      "n": 3
-    },
-    {
       "sym": "AMD",
       "name": "AMD",
       "net": 5.1,
       "n": 2
+    },
+    {
+      "sym": "TSM",
+      "name": "TSMC",
+      "net": 4.8,
+      "n": 3
+    },
+    {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 4.3,
+      "n": 3
     },
     {
       "sym": "TSLA",
@@ -1538,9 +1550,21 @@
       "n": 6
     },
     {
+      "sym": "AAPL",
+      "name": "Apple",
+      "net": 3.5,
+      "n": 2
+    },
+    {
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "net": 3.4,
+      "n": 3
+    },
+    {
       "sym": "WTI",
       "name": "Petróleo WTI",
-      "net": 3.1,
+      "net": 3.3,
       "n": 25
     },
     {
@@ -1552,20 +1576,14 @@
     {
       "sym": "SPY",
       "name": "S&P 500",
-      "net": 2.5,
+      "net": 2.4,
       "n": 23
     },
     {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": 2.5,
-      "n": 2
-    },
-    {
-      "sym": "TSM",
-      "name": "TSMC",
+      "sym": "ASML",
+      "name": "ASML",
       "net": 2.4,
-      "n": 2
+      "n": 1
     },
     {
       "sym": "ASTS",
@@ -1576,14 +1594,8 @@
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 1.8,
+      "net": 1.9,
       "n": 25
-    },
-    {
-      "sym": "MSFT",
-      "name": "Microsoft",
-      "net": 1.2,
-      "n": 2
     }
   ],
   "ecuador": [

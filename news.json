@@ -1,10 +1,26 @@
 {
-  "updated": "2026-07-21T18:54:55.659880+00:00",
+  "updated": "2026-07-21T20:15:09.984331+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Acciones de Klarna subieron tras el anuncio de su nueva alianza con Apple",
+          "source": "LaRepublica.co",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNay1qQWxrQWRObERUOE95WEdwSHJIZzl0eDJTMWV1dE1JVlBXTldhOXA1aFF0VXJXSnhZRnRwSTFQNVFmVEtuOXV2d2U4N25QWXVhUTJ2VU5lV1M0eXY4NnR6NUx0UVJxbkFucVA1d00zeExTWWlSR1V1MC1NZjVqczd0SWU3NkM4Y0JyVk8tSWVlTFlVZ2ZVWmRsNjlQOWtxcW5oNjh4MnhTMUNveTZwZW9RUnJ2R185SnpnbnBRQdIBvwFBVV95cUxQVjRNT1B0NGN3OUhXVkgwcmZMRmsyZWkxakZ1QkhnWUg4OUpzbk9uU0hEWngyODlodS01LTFkU25hd3lCeVhhT3RGeFFFWkdockxmYnFlZS1STmRTa3lnS3c3SXZuNmpHczFWalhQY2MwLXpJNkNGZThEeEhUbktnYW1MSm5nYXhqY2pHckRaeFM3TEVOdWI0TkxmcGg5VDZRU2tlRVAxQ2I3cjZYdnQtTmkwR3JnX0wtRWRGaWJ2MA?oc=5",
+          "ts": 1784660085000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Acciones de Tesla suben alrededor de 4% antes de resultados: ¿qué esperar?",
           "source": "Invezz",
@@ -63,7 +79,7 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             }
           ],
@@ -172,28 +188,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "El chip Frozen v2 de Google impulsa un 3% las acciones de Alphabet",
-          "source": "DiarioBitcoin",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2I4Y1ZnYXVzd2JwN2U2RmlaR3AydTNCZFNhVGNfZE15Tl9TS1c2UUQtQ1A0QmFWTGNnUTFvX0daTWxyQllYN3AteTI5cFNYRVdvZDlBd3B3VnlCbmtoS0g2UmJKcDBtRENHdU9PZFZJTmdaSExIVTBoRmZKc1hJYkJJMkVMNWdUZkdiVzF6dHJKRGZQdXNub0x2SWJabUNRYW9uUkVlM1huWTFLNFE?oc=5",
-          "ts": 1784590938000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.7,
-              "dir": 1
-            },
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 1.6,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -201,6 +195,38 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Nvidia presenta Vera Rubin, plataforma para multiplicar tokens para la inteligencia artificial",
+          "source": "DiarioBitcoin",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVHFSc184enJrSmRwNVRNU0pld3YzZFU3dGhFMFhnYjhKQzl6YkFydHNXaGlWN0gyZ09XaEF6YUxyQm0tS3B2d0hOY3RtcURTNjY5UWhmdHFzcThGWHR2MVJyUXhPOHkwSWE5LXJLVm45ZktEOVZjaGtYQVBZWTlYVm0ybWg1RjM5Y3VQMWNneGlPMk16dks3VUZJXzVReENZY2FVYTdKa0dGd0N3OExIaV9DZnp6Vnd5SVVjbG5fT3JEX01yZFUzbzNJVHdYM2tJ?oc=5",
+          "ts": 1784662080000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Nvidia anuncia el inicio de los envíos de sus chips de inteligencia artificial Rubin",
+          "source": "MarketScreener España",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONzRaWUNKQnhWX0o4aXZDd2lwSGVLbmdqNkpvbm5oRUxkWlkwTUdsaE44N1A2SUZJMWxoa0c3M3JmV3RnVE5OVGgxc2dQTHBCYjAzMFlLV3BSc2FINUxlQ1BmSTlleDRnVkNqRVJORzM3a2RQY1UwNjBzTmE3VGV0QzJHY2pORzhxYmtPV0lpcC1jd0xzd1BkOGNNbmJxVkZ1THlnN0c3TlpiM0xLNVh2d3drV0tyUWZhTDNtZGN3aDRhc2VJV3FONDFqMV9vc1ktVFV6Y05RVQ?oc=5",
+          "ts": 1784661713000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "NVIDIA no tiene un respiro: Google trabaja en un nuevo chip para adelantar a ChatGPT y Claude",
           "source": "La Razón",
@@ -366,38 +392,6 @@
               "sym": "MSFT",
               "name": "Microsoft",
               "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "La nueva herramienta de Nvidia promete identificar videos creados o alterados con inteligencia artificial",
-          "source": "monumental.co.cr",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcGhQYndwRDh5NVpDVjVfQmMwYjF3ZVowS1NDVFBKZ0FiZlBINzlBMWVXMi1nWHFCU21ESkxvaDN5NnIxVkpiSVRXbEM2WkRJRjdrRWJFX0hhUXFCTGp3eFJhLXo0MzlhNk9YeDMyOUlJeWVQcTNKVkxhaW9oTlQtYWJKN0ZnRjBTTUFnT2VZSG1oVTVSeF9udUM5alEzZHZhY3pCeEFxZXZDYVdqMXVFWHA3dzg5WER2M0tRWjdCcFVtM2phWnlTWlVJN1BXbGZOUGQ5cWU3dGpxR2R5dk1n?oc=5",
-          "ts": 1784650199000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "TSMC elevará hasta 10% sus precios de fabricación de chips en 2027",
-          "source": "DiarioBitcoin",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOUlsT2xnbktRc1RsazRqZ0dBUXJkdjB3QmNsUjFlUlNkaTVDM3J1VnlaUElxYzV2dDJBOVpVNzZsN1E4MXprX2FaNDVHRVh4ZzFfOFNSYXRfT1c4Q29LazNYbjZOaDlmNDlHeVI5SGJIWHNSUXdmYURrLWpDbTdVc2x0Z2VibTFJVFNpQkVGX2FiRmlUMzFqQm1CNnVMUENDZFBmempHVi1WM1k?oc=5",
-          "ts": 1784649903000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSM",
-              "name": "TSMC",
-              "pct": 1.2,
               "dir": 1
             }
           ],
@@ -1517,7 +1511,7 @@
       "sym": "NVDA",
       "name": "NVIDIA",
       "net": 12.0,
-      "n": 10
+      "n": 11
     },
     {
       "sym": "QQQ",
@@ -1532,14 +1526,8 @@
       "n": 2
     },
     {
-      "sym": "TSM",
-      "name": "TSMC",
-      "net": 4.8,
-      "n": 3
-    },
-    {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
+      "sym": "AAPL",
+      "name": "Apple",
       "net": 4.3,
       "n": 3
     },
@@ -1550,16 +1538,10 @@
       "n": 6
     },
     {
-      "sym": "AAPL",
-      "name": "Apple",
-      "net": 3.5,
+      "sym": "TSM",
+      "name": "TSMC",
+      "net": 3.6,
       "n": 2
-    },
-    {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": 3.4,
-      "n": 3
     },
     {
       "sym": "WTI",
@@ -1572,6 +1554,12 @@
       "name": "Intel",
       "net": 2.8,
       "n": 1
+    },
+    {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 2.6,
+      "n": 2
     },
     {
       "sym": "SPY",
@@ -1596,6 +1584,12 @@
       "name": "ETF Defensa/Aeroespacial",
       "net": 1.9,
       "n": 25
+    },
+    {
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "net": 1.8,
+      "n": 2
     }
   ],
   "ecuador": [

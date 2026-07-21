@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T03:45:58.521466+00:00",
+  "updated": "2026-07-21T06:17:36.640800+00:00",
   "categories": [
     {
       "key": "tech",
@@ -15,13 +15,13 @@
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": 2.0,
+              "pct": 1.7,
               "dir": 1
             },
             {
               "sym": "GOOGL",
               "name": "Alphabet",
-              "pct": 1.9,
+              "pct": 1.6,
               "dir": 1
             }
           ],
@@ -208,16 +208,76 @@
       "label": "Semiconductores / IA",
       "items": [
         {
-          "title": "Cuando sabemos que una información va a estar en Google dejamos de esforzarnos por recordarla",
-          "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRENzbTdCVGx3S2ZyWVg4c3BSMzdySmFlZ3FoZDItRkU3UDdiclZNVmJyb2xpU0kwVWphdFVDbW1JVGFKM2ZZcWVIWXVPd3RsMVdwOWtsdmJxOHoyWjFfOUE0bDBtNEE3MHFpaGlncXctNnhuSkhyaG5FUVJ6Ykd6RlpTTFhlQTVtTWJpUXZQSGZEaUFnR2taeVZKNzRxOE9mRThrYlJWQVBSX2dYNTRjRFlyOGQtWUt1dmptdlJaNlRaaVYxZi1HS0ZfZmNMY3N4YTBtT1RB0gHwAUFVX3lxTE1nTUU3SzRlbC1WRlRVLW1tUERTb0R0X0JxZTg5cGJ3VnhlMDdxR3R5RmVpbkl0bDZZQ2M0U3hPVVlGNHY1WmpLbE9mR05pY2dEc1Z2THNxMUpJcTBSbFBpaG5SUEh5MnJiMEpaOXUtRnpadEx1MHNBcm11U09rSEpNR1RxLUY3Q3RIQlo3Wl9nMmFpNTJTWU9scnZDb3RSdjlQdjYxY1g0R0FpaS1ZT1AzUEZDaHE0ZnVoVUlsYVBMRHMzYmc3SmkzaFBQY0kxVzZaNjNJVHNxbjFLMTJKZl9EUTF5ZHMwZHF4SzIzWHZkdQ?oc=5",
-          "ts": 1784603393000,
+          "title": "Nvidia: la disputa por la IA en América Latina será por Centros de Datos, no por chips",
+          "source": "DPL News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdGxIZ1JiYmQybTQzcVdZaVJ3Z3ExNTZ2a2Z1cEw4bmxMRHk2V2pFWWVhbjA2clc1UldyYXFha1ZqZWhjQXNHNGlEbERkLUtmcEpBWk5FR0QwY2M4VXU1bEJzbDlybm9wdm94RE41Nkl4YlNHUWlwelRWaGN6dXdKdjlfR0wxYXEyTV9N?oc=5",
+          "ts": 1784610903000,
           "sentiment": 0.0,
           "tickers": [
             {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 0.9,
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Los nuevos motores de Wall Street : no todo pasa por la inteligencia artificial",
+          "source": "MarketScreener España",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbGNNZ3F3Rnpob0dQemFPZ2F6SGxLYXNQcEN4Um9aMi1SSndpaVdmeHcxa0tHcTlsVzZsVVloQzNtQjY0Z1NJemNhai1XUUxpMUpmWjNCQnBmeUtiXzc1ZGlhX0lOdHZ0T2U2NXROcGd3MkZzcTJyR2J5N0tib0psY19iamVSOUJtS0h3UWJxb1ZwYjZDLXJSUWJHdjEtOXkzYmxjYUNjSUFFajZ2SDVkWGlDR1Q3ejBacjBiS0JCTi00dWdwNkRKTUxVNzFRQQ?oc=5",
+          "ts": 1784606491000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "David Ardura (Finaccess Value): La Inteligencia Artificial y la inflación marcan el rumbo de los mercados",
+          "source": "El Asesor Financiero",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNGZlNThET182MU55NGFXeVpMc000VzlUeWNIMTloWWx3bGVETlhhWUlVc3lWbUpNaGo5Y3BMQVJQTUF1Y3lkTU42dEJna01ybnQ5TTdiMGtqc0l3c2MtVlRwbXVYNnB2V1hGNkdxWFp5bWxxeVBCTFQyaEdLV3QwU3NnN24tNlhaWUZqeUxyVFhhZEF0eUdkcHR6MUUwTWRyZWtiUjJKYkpKMzN1dWFMM1JEdFhNMFUyUWc0WFVNaWF3ZVY5UDVUWnRKeUM4M2c?oc=5",
+          "ts": 1784606478000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 0.5,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "El Santander pesca en el BBVA piezas clave para su equipo de Inteligencia Artificial",
+          "source": "Cinco Días",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPa0g0TUtOYTlEMTRoaE01aW5pc0ZYN0Q3NExuSmZGNjZjb0gwRXF1YS1nREJGZkNRUW4wdW9Qbm84aUxfc3lGNHVNdzE1UWphUFFuNndVRjZMaWtBbzlTMWRUM29La0FXY1Vqek5JcF9vZ20zTkRZYzFLUDBpQ1NKM2N3VjgtbUplX0RvVnN5Y29ZZXRacUc0X19GLWpvb241SUNtTzFkQU0zWmgtcXRSaVhjX19MSno5d3Awa3duU3RFYU83UHNDVDlVekxXaDhJbkQ3ekdnTEc3YXZQVmVvQTFUMzRJUHA1aWk5eS1neWNZbjhIcnB6SWRR0gGOAkFVX3lxTE9oeTZ2NUl6TlktVWdfY2ZvTkpmdmpnYUdrMkoxbG5qaTBmTEJMNkRqX0UxU2VwWUVQWUxOLUVsa25rM25FTkNwbUUwNzFPTUZrOXRBOTA1c0FScTlJbGNqZ0VRS25hSlNmM0dVQUpkNDJOMm5ZMERjWnJjV1NpN0RHZlVINTUyVEN6UE5aOVlOXzNFdWtDU0QtQVJOR1hOdzhpRk9uQmFoSU9YcWhyVXVDYlFoVEh0STVPX3hGRk9LT2dIZ0pySl9qZDh5aDdGSk9TRDJaUXBlNHBLWXhnM1VBR1dkMC1vSUdLZnYxVVhzY3ptMXh6YUFTZEh1NUxCcVpwYmJEdFFYOVR0Z0xoZw?oc=5",
+          "ts": 1784603700000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
               "dir": 1
             }
           ],
@@ -233,7 +293,7 @@
             {
               "sym": "TSM",
               "name": "TSMC",
-              "pct": 1.2,
+              "pct": 1.0,
               "dir": 1
             }
           ],
@@ -272,23 +332,23 @@
           "category": "semis"
         },
         {
-          "title": "TSMC suma $100 mil millones a la inversión en Arizona ante la demanda de chips de IA",
+          "title": "TSMC está invirtiendo otros $100 mil millones en Arizona a medida que la demanda de chips de IA se dispara.",
           "source": "es.qz.com",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbmtKdzkxTkVSNndob0tpY2djU3RiTkZBd1ZNVEZlSVV1aXlwYnduZ0J4S1NuT3hPWFZvakhQSk5rY3lIN3NaYUF5Umd5RVpPdjV5S0x4MGxrZVh2OUY1X1pla3VEdFdMV3o0ZXNzNFZUYU05WnJ6b2tsLWh1TmotVWJOT2xpT2taZVducHZCeGNNT0U?oc=5",
           "ts": 1784574385000,
-          "sentiment": -0.5,
+          "sentiment": 0.0,
           "tickers": [
             {
               "sym": "TSM",
               "name": "TSMC",
-              "pct": -2.0,
-              "dir": -1
+              "pct": 1.0,
+              "dir": 1
             },
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": -1.7,
-              "dir": -1
+              "pct": 0.8,
+              "dir": 1
             }
           ],
           "category": "semis"
@@ -310,76 +370,16 @@
           "category": "semis"
         },
         {
-          "title": "Google prepara un chip secreto que promete disparar el rendimiento de su inteligencia artificial",
-          "source": "Hipertextual",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONk4zQm8zSUVSV1pDbjcxSzZiYVVaVGdGM25aZk5WTUhJbC1XNjZYQnFHYUpsaDI3eU82dHFNOG5BZFNxODRXZVR0ZjdMMVJKczNqTWZUTFozb0hUU05JT0EwWE5maE5ka25OaE1BMzhmZHEwczVvX2hOSzkxZ1BqaVVPRFF0SGlMNHpFbkFQZm8xOXBJVjRDdTZVaw?oc=5",
-          "ts": 1784569791000,
+          "title": "Así protegerán Meta y OpenAI a los adolescentes que usan inteligencia artificial",
+          "source": "Imagen Radio",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcklsVnE5VmVTQVN3Y0JHVlBtT0J1N254Z25LRGlnRnJLcmE4MlBzTE9oakNpSWFzaFVCVG5teC1ndXFRTEthV1dXQ01vZzVOek02WnhfcXNQRHRaNkRkRHNCS0NtM1pweVI1aEYtdElwcWZsOVkzajR6QjNjdXVROWFwcnFhQ1hwMjZCR2xMWTdvVFkyNUZxeHljNUgwRnFTN2R0S1dOSXFRd1E20gGyAUFVX3lxTE5yLTNHT0xyeTdqUkZ0RGtTQlhtWEhmTnp4aHFZZTE2NHc0NmxydEFTRnk3MENobzJlWUtVX2RzckhiNTR6azZlMEZVNzRUcngwMzZOT0t6WmNvazBob05WaDVvSUdmNmg0bEl1T3N0YXgwZTlVcEl1WVRiSUFfaGFSV3pSbTFCc2tFX2pYUFMtSTg3bk5PajZmcW9uNXNnNjFzVmZ3eHFLaVlZckdxajNhbFE?oc=5",
+          "ts": 1784570353000,
           "sentiment": 0.0,
           "tickers": [
             {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Alphabet se dispara en bolsa y la inteligencia artificial explica gran parte del impulso",
-          "source": "Comercio TV",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPck5IT0ZLY0ZZTUptX25kVk9UamhJRm4zNFo5STBod1pFUWF6d3ZfamJGYUZxUUNtajBzT2Q1M3BPejZrTkpMcTh0TFEwa2h3OFRJRlJlV21HUFA0LXZoX2RyNzdYMlpKQTVyZnZlQ09CdVgza29hdDllSFRiTnhiSUlDMEx6X2tfMW1GTkVNbURoRV9Ya2NhN3RXeHdHQ3NMejNKM1ZvS256bWNOOHJHaHNRVEhheHhXSm96Wg?oc=5",
-          "ts": 1784569370000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.7,
-              "dir": 1
-            },
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 1.6,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Synthetic Video Detector de Nvidia puede detectar videos generados por IA",
-          "source": "Profesional Review",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdUdNa21fTnRjUlBLUHhubXduVFVROFJjMG1UQVZhWFAwZUpMWC1hRzZGM3pqQ1FBSTBFbnlDOXlGdldtZER2d2EtaHppWEc4N19kM2ZxdF9CS3h6YzJLWEUwRHNOeWlMcV9vNXJkLWZfbHRuOUdTamFnemVva3hmMzhwVXJ3dWVWUFh3b1FRVDdfck1hSWlDNGVXcUVYMlU1MklYcEZ1MWFTQdIBrwFBVV95cUxOMGdZU3NoT3FqekZvaDVtY21QYU1uMDY1WlBZdmtNOWprc29xS3FVODZxYTRrcDFvSURWLWRCNVpiMjNVM19udDZONlBfTkpjQWJ3X2hnbWk1TGRqZ2JNengtcUpVTWRlTzE1SG14WVZyNG1zbnpkQWRLNm45ekpNcmhwQ3lXZFBaZGlwZC11WXZhR1JSbE1WbnhlQ0xWMVo5Tks2UVdTU0oyY0dLQU5v?oc=5",
-          "ts": 1784567177000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "TSMC acelera inversión de $265,000 millones en EE.UU. para responder al auge de la inteligencia artificial",
-          "source": "Comercio TV",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTENudGlqcDNwdFJSMDg5SzRYa3JSdGRCVzJKbnBvME9hTTlleFZmekVBNHJfaXZtVkVBNGJES0N2T1FUMldWendsOThIT1pvQWRXVlV1V01LX1lkRGZJSWVjc1BaSEUybDFOb3RSa01lVjBsOG9XVGpWNl9lMTE1MEQxQ1BoRXRERVo0MWVrWEg3YmF5RnA1MVVmOTY0VVNra0lfZk9kS0Y5V19ESEZrYS1iRl9yZEUxdkpMMnhVWmcza2h3RUo3akE4TnFnWklS?oc=5",
-          "ts": 1784566255000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSM",
-              "name": "TSMC",
+              "sym": "META",
+              "name": "Meta",
               "pct": 1.0,
-              "dir": 1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -446,10 +446,74 @@
           "category": "space"
         },
         {
+          "title": "El movimiento que podría dar nuevo ’aire’ a SpaceX en bolsa: entrará al índice Nasdaq-100",
+          "source": "BioBioChile",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNekdOcXFsa1E2di1mWGNWOWpLWlFtd3VqUmM1aWt3aTE1ZlFheGdZTFFoZlVmTTEzQ0R1YmxxVkdUWVVEWWRhb1dySG5KNldvY0lXclFIODZVLVZQQ0hUWDFLYkY3dW9kZ01leURJWjVCN0FPai1odkRRV1hNNjdnV3ZHc3pMRGVDcnRmeWxTRlBERU5hcjdXZzJQUS1DR1lfdlNwTmF1N2dvcGVFeGJLNWdNRU9MdFlmMEdZOWlYNVMwaUFpWWtDUlJ2VUt4a3RuTEh1T0RKX2lnMFRINzBPd09UQTVVUFlEWFE5YktXX0pRdTNhVWpJUUxR?oc=5",
+          "ts": 1783321200000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "space"
+        },
+        {
+          "title": "Economía/Bolsa.- SpaceX entrará mañana en el Nasdaq 100",
+          "source": "Bolsamania",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbzlkR3RNUm9rV1FycVFsdHZpZFBoVGRkTDUzMEZYaHd5WU9NN1JOTHdxenVzc2N1V2JDOTFLVkwyRnNMcmhDdVQtUTVTVDVRTU16bFYxdGs3dW90bEsydTlaOC05ZGZMdHVmbmdiVm15WDVJWDFieUdBcDBpQ2pkRWZ0SGU3ajFNZmJWRnNOYXdkNWJvZFBVaWVySUhnQU9KSFBOU2k1elQ5NGF2czVLcFdoUdIBuAFBVV95cUxPQzRqUGdtRnJIZndmd3BRcmpYVkxTNU13U3FGWVNMX1ZvNks2YW1LbzlqRVpKMGM2OUthdjZ0MXJzTXBuTEs5R3lURDRiakR5MFpGWGFpN0cta2FmRUEyZWEwcjZrOUpoWDluM2x3WXVoWlBzc08xT1RWcWRuOC1nZm91c3hlUEZpRHI1UzQzek9YRTRmeUdQdUV0V1VRdUpISHdxOTNrcWJ1d0t0YUo1ZS1jQkNYQ2ZM?oc=5",
+          "ts": 1783321200000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "space"
+        },
+        {
           "title": "SpaceX lleva al Nasdaq a registrar el mejor semestre de su historia en volumen de salidas a Bolsa",
           "source": "Cinco Días",
           "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTDRRa0RwaURGbHpDUFN5RHhUSVdOcGN3R2tjMTNyYmJsNkxvMDFzMGMtMmgxN0JLX1pmQUVrYWJaV0xnR2FGbXlsc2dVZVhuWENLWmNiT0lXcGhJRWprMjFjNnRDeFo5NXVsU2tnc2s5RjYyY0NUQWM5d0NISDdMSEw4SU85YUhZdTBEOW93NlRaWHVONVZ5My12T1VTYmdVaTNYb0lGVHQ1dHpQbFNHcXNSMEpqcnVVcDlFaGs0Rk9yMFB3X1RLTWJtYndjUVdNblpvZUNzRVlwdFk4VXNsM0RpZWpwNEZES0lsNHpEV29Od9IBhgJBVV95cUxPTnFjZmxKUmRQeG5GdDZTV0xXeXVxYi12SWZIbTJVcDhnd3E0T2FZM0tYVE5QQ3lGZkswV3JBTW10d2JtWDRndHhwMXoxYzFSRlYyYmN0aWVYQ1dCeHd3TVdSdUxfQXJVYkx4emNaMjNvQU52ZHhhN2ZkakRieUp1UHNZcUxhOUpIMFBQOW1ycmlzckp5TUtlOFB3T3FYazFlSXlvSHJmOWNpcHpNNl93bUcxWXZGMXBSWGhGV0hlR25oVFdHR1JhQ2tqaDByZ3lMWVRvd2toVk8zUnZFSVNVR0czTXo4bzh4dEhtY0ZWWkIwNWZDUHJ4c1hKNVlZaUlHUHhjZm13?oc=5",
           "ts": 1782975600000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "space"
+        },
+        {
+          "title": "SpaceX entrará el 7 de julio en el Nasdaq 100, casi un mes después de su debut en bolsa",
+          "source": "El Español",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMi1ITGNORUR0eGRXajZCd0FWOUFhSWpOaWJTTlpWQXZhM3ZSanplYXV4OXYxUTBldFRxcTNNcDZpdF9CdXFDYXdFSEJHcUdObHUwWExCUVFjYUFlb0N0Sl9LNnBBMFZjeVpVWHlNLS1Ra3R2UjZSNHE1RTZIZDM0aDFSblpjUjdyd2xyYVRjVUYxZnlCc2p1SUtCUGxHY185VjdtSVFQN2JneURjN0s1UzB2a0JzX0lIZ2piU083ZGp3SEHSAcgBQVVfeXFMTjQ3ZmVHaHM3REMzQmI2aGs3LVNURDc4U3RfTF9QbjNVY0xGYVNScTU3Q1JKX2Z3Sk9Fd0lnMEg2MklxaDlna2g0Q2FDREFFVzNJUTRwTTFvbWplNlZtTnA2QklScXhyWmJPM0ViV285UmFrbW1mdDlOdmFJdzFpS291cXhDeGRJODdqUXRtQVIwYVZzOGxiU3VEdHpoWWN1Z19EbUFPWVVELWVuMExDY2QyOHF3clhmZm55MUlmdFFJckJ3TlhGMFg?oc=5",
+          "ts": 1782802800000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "space"
+        },
+        {
+          "title": "SpaceX ingresará al Nasdaq-100 el 7 de julio tras su histórico debut en Bolsa",
+          "source": "Montevideo Portal",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUHFyMVlaVkp1cGZwZ2pyYlJGU1RDMVh4YWtrRnhQMUFBLUxfTmdpNEZFQkowRXlsQWdLSE40YmdVQXJtempzWUxKODBjNW91ODRSN3ZQVU81SktqaHFMenNRZWN1LVRQNUU2UjY1YzVZWWJpWVVGU1RWeTJITUtaa0RqZi0weDJlQ3FSdXNzazByalhxRFBRT0ZsUjBuZkJqa1Vud3RtVXl6ZGlFRXdjNFpJVmctV2E2WGtQMGJ6ZUJUNGRLV3FMbDdveWg5VGpBZnpuVtIB-AFBVV95cUxPYTBXMDF2aXVRU2NGYkxmam82SS1UVmVSNTFkX294Q1VMMnpPUFpzU2x6Ny1ZWUxWS3dIR3BLdHdiYXJwVm5VNEVsb1pOOTFjdGpzT2RCckwxOTJGQ0hOZW1UX19wRmlJYjY1VnpBQ2hVamktV2x4LUdaZzRFcVhaN1FyalMwWVRsd2RyYUY5OXlYWFdhUXllMG5Mak1CSTdiTVR1b014bm8xSGpjcU96RG5lb3dDSWY2X1ExR0liOTFZOEMwbEFKVWFQVXhMczExVkxmOU1QVW15Z0E3dVVJVnJWNHZwS0FFbEEtdkVnd21Bck1aNzFVbQ?oc=5",
+          "ts": 1782802800000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -482,76 +546,6 @@
           "source": "TIKR.com",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZEZqMmI1RW9rWHFqZUhlMzloV3JWM1QwWTJOS0pjRGZQRm1Tc191ZVBUMGxmVkEtdUk3TmNGVXVKZDk4NkxScmVuenc2TF81UmVEeW5qU0lNa3BWYm83LTRCMklnMVZrMXQxZW12WWRSb0ItY0pGMm1MUUk2aFRpVU9mU2Y1ZnE1YXlBemNlYUxxMU4zZ2x2VG5fUjRKbzZsNUlQbWYwNmItLURsSzZaMVFJcmdHN0FiRk5INHRRbm1BdlVmczRrV3NJU0VEVHhuYS11QklNYklTZzg?oc=5",
           "ts": 1782457200000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSLA",
-              "name": "Tesla",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "space"
-        },
-        {
-          "title": "SpaceX anuncia su primera emisión de bonos tras caer un 10% en Wall Street",
-          "source": "Diario Socialista",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTERTTDlTMVAweVF0YWxyUWEybGlBSVdPZDlWYWJwUnkyeVJiZG1BTGZOaHRNSkpQM0RyZkRFc2hEdkxMTl9DblhpRWEtMG5kUXcwSkJFeE5OdHhCMnlCaG9FUDJiQnl3bEh1SFBVY1hKQUQyWXZPZ2h3VzdlRk9NUm80U2dpQ0R1MWtqSDhTSXQ2VzdhU3pSTTZwVThxcFRIbnQxNjJ5WXAxWGhiRTgxSGdja1Y?oc=5",
-          "ts": 1782198000000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "space"
-        },
-        {
-          "title": "La salida a bolsa de SpaceX sacude Wall Street: el efecto dominó que podría impulsar a Nvidia y todo el ecosistema de IA",
-          "source": "Yahoo Finanzas",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQXzhIVE9JUTFpOXhUbWdoOHU2bzJxV1pkbGJ0Z0h5X251NTlVQUxGa0Z5dVlyeVh3Y0wtRnhyZlZBLWtJRVJKbmdVSl9MUjlfZHBsN2VmbnVuRXYxNHJJZUpxMC13VlNCNzRnLTR4ajNCeHZNYUJhNDRWZG5yX0I4T1NVeWJjZzBSSlVwZkFaRDRCZw?oc=5",
-          "ts": 1782111600000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.0,
-              "dir": 1
-            },
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "space"
-        },
-        {
-          "title": "Empresas tecnológicas pierden más de 1 billón de dólares en Bolsa de Nueva York",
-          "source": "El Economista",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcjVvSmxUQjczbUo0ZlpUdUZBQ205ajQ1NFZVQ3JmSHFRWVhFcGdLYjlKQ1lXM2FsbVlQLXhVb2hmelFUc3Rka3V2aVFyRnZjNFpWa3hGV3Y3NUhVcnpaTnV4QUg3MjAydVllazE1cGVsNFBJMkpDVno3VnJ4VnBWalVIVXlLYkduT0pTdFZBZnNpR0VnZ1puUlBQSEMtVFU1andVa0JTXzhQQzF6TzZSRGJpd05oNm1aUlpWLXdLTlJwZkXSAcgBQVVfeXFMT0ZzdjhpS2lsWHdDN1pMbEhnZzFGS0V4d3ZtblYzc0hjNE1idjNMbGszQ1RRWU5jM01BSzFVZGVranZNZVlQOWJsYmFCWUU5VnV0SUplcXROYjdaRkkxUGpMUmZ0UHJQZHJrdDdGWEluSEM1cEhDTGZMVmdPYklRQzU1aXY3d2ljYXA1SkxxVHM1d0cwMGVmM1Bfb1ljREN1dkgydGpGY2tfMDUwQXFHOEV3QWRvNmlMaDJQX2lZSVNzQ1BHWXJnLTI?oc=5",
-          "ts": 1782111600000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": -0.7,
-              "dir": -1
-            }
-          ],
-          "category": "space"
-        },
-        {
-          "title": "La primera semana de SpaceX, dirigida por Elon Musk, como empresa que cotiza en bolsa desata el frenesí en los mercados",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BOVU4eWc0MVZrc0l5OTZDY1c1cUJ4c3gwZzZzNE14cEpIdjJyVGpFbTVKY3oyNE9oUWNkdXlMTTVuNFpobEtaS2s5MURmMm9YYVVLVmpYNGJsVk5Mc29ZLWNIQzhqQjU2QW9pNTJnSjNPSlBMVmpB?oc=5",
-          "ts": 1782111600000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -845,19 +839,35 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": 2.0,
+              "pct": 1.7,
               "dir": 1
             },
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": -1.4,
+              "pct": -1.1,
               "dir": -1
             },
             {
               "sym": "SPY",
               "name": "S&P 500",
-              "pct": 0.8,
+              "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "oil"
+        },
+        {
+          "title": "Precios del combustible hoy, 20 de julio: Los precios mundiales del petróleo suben bruscamente al comienzo de la semana.",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYTRIaHowWTdqMG8wc3ZqZFdHaGpFWHZtTEx4UF9kYzhRS0ZqYXBKU0FQR3QzNkktRzYxVFRxNWk2bk9aa1UzV3QwUmNCMjFTU2FiZWRpOXdZUmN1Y2l3Qm9rcU4tVkNrZWJpZ2tPeThaNkhva1l0UE1aWWE1M2V2V1AxTVRDVmpsSnZWNURSVU54WmxY?oc=5",
+          "ts": 1784502223000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": 1.7,
               "dir": 1
             }
           ],
@@ -873,20 +883,36 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": -1.7,
+              "pct": -1.3,
               "dir": -1
             },
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": 1.1,
+              "pct": 0.9,
               "dir": 1
             },
             {
               "sym": "SPY",
               "name": "S&P 500",
-              "pct": -0.7,
+              "pct": -0.6,
               "dir": -1
+            }
+          ],
+          "category": "oil"
+        },
+        {
+          "title": "Precios del combustible hoy (19 de julio): Los precios mundiales del petróleo suben más del 16% en una semana.",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYndQQW1uVFJWcGNfWGZzMEJJTC1GejlfYUN5TEhaQkI3c0tSdUtJTW5HdldObmM5VHcxemdkQkF0MUp3Z25ibHRJNWVSX1MxWU9QSXotcmdzQXJyM1RsVjEyZmtBRFJ1X1VBcnlLa3Q2ZkRwdjlYQWZQSW9HOGpadE1YeFJLY29BOElIWTNR?oc=5",
+          "ts": 1784414343000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": 1.3,
+              "dir": 1
             }
           ],
           "category": "oil"
@@ -996,38 +1022,6 @@
           "source": "FXEmpire",
           "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPSVBkRVhleGQ5cmczN2t6TzhOWXI5T3JLSy1HWTRMVFJYdy1FRnEzMUl4T2RMeU91ZklPSHNycVF1RVJVQnRHSWNoZmVtU1FwYTFMdkJsRHdtdjRGNlBTT2V1RlBMckpjOEFNek95MHhkZGZPTDhxRG9Xdi1FOFRlSlc4UlBsWHhRbGQ3clNzV2k3c1hxVXYwVTEzM3pvcm81aEFwdW42TXN4c2pGbVNrOEJ5bVU2MG1VMUtBeUxVaXhOOGp1bGwwa3Qzd2lSM0xINk1OSExjRktrWjRSSmk4dFFxbWxxZnpuX2NpeV9QdU5HalhEbmVuZFEzMU1PQi0tc1dTemhrbEdNbVdMNmZHOTk5TmRUUVNNSUtSdUZfbjMtclQ3?oc=5",
           "ts": 1784113980000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 1.3,
-              "dir": 1
-            }
-          ],
-          "category": "oil"
-        },
-        {
-          "title": "Pronóstico del precio del petróleo: El WTI y el Brent apuntan a $90 ante el aumento de riesgos en el Estrecho de Ormuz",
-          "source": "FXEmpire",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSDhkdU1LMHdaajEtOXdQazJLeU9UdnQzMVJESEhYdjdxQWlHbTBkVlA3THBXS1RHUWU1MkpveXJzVE1aakVrSmRxaFptYzl5LWRYRDhOX1l0TnNBaWpGQ3V1WUlsTVdRYXNmR2w1THQ0MnU5bFh2RW84ZGpfX1U0SnRBLWUzd0J0eVp1cDJTOFlVcTFBM3V2UUZQUGMwN2pLUHBHRDR0ZWo1T2xnTktDN2JwQ2NiaVpMM1hMZnFxSEU4bmF6MWNrWkotNWtRX1B0Y3NTQmxDb1hYUVVpeWJXLXEwOEcySnUwb3JTRGJWLXIybEtldm9VOFJjdG9wdw?oc=5",
-          "ts": 1784023740000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "oil"
-        },
-        {
-          "title": "El precio del petróleo Brent supera los 80 dólares tras la tasa de Trump en Ormuz",
-          "source": "El Boletín",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdUNfQ3puU3ZhbTN1bVVkMDhfeHlpYktGN2RiRFh3T0JLajZ0ZE04UTU5NVZ3WVVhZG9nRFdZdkxhb3o3R0swVG15MmRINXFVQlRqN0lGcnFvMURuM3g0T2JaYUtiOU5POW9ySnJoNDZVOFNXcGVmbjlXUFBxeHg1S2Z5LV82d0dNTXQ5bThWbU5RUmxHV1V4ZTRHSENoMXhNLVlQSUhKOEhUV1k50gGyAUFVX3lxTFBKRzNNVXg2S09lcGpvNFBhN1FMb25GamQxRFJSby1aUWwtVkl6NGlka1FwdHRvNm9vbzhxRzM3ekxhLW1mRUgwUlVvakVCNFRMNlgtQTlJcW40RmtrX0hrWURrSEhBcHhpVVFwMFhsbUFQNjZBUUFKd0h3aXF3QTZ5OFdjSUpMQU1jTE5QZmhEcXFzTVpFVzdzaFlxVXRjLWFJR3dyTnQyVU9YdmZQOEZUMXc?oc=5",
-          "ts": 1783958310000,
           "sentiment": 0.5,
           "tickers": [
             {
@@ -1490,22 +1484,28 @@
   ],
   "tickerBoard": [
     {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": 11.6,
-      "n": 9
-    },
-    {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 9.3,
-      "n": 9
+      "net": 12.0,
+      "n": 10
+    },
+    {
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "net": 8.0,
+      "n": 6
+    },
+    {
+      "sym": "QQQ",
+      "name": "Nasdaq 100",
+      "net": 5.3,
+      "n": 19
     },
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 5.5,
-      "n": 4
+      "net": 4.8,
+      "n": 3
     },
     {
       "sym": "AMD",
@@ -1514,16 +1514,16 @@
       "n": 2
     },
     {
-      "sym": "QQQ",
-      "name": "Nasdaq 100",
-      "net": 3.1,
-      "n": 17
-    },
-    {
       "sym": "AAPL",
       "name": "Apple",
       "net": -2.8,
       "n": 2
+    },
+    {
+      "sym": "ITA",
+      "name": "ETF Defensa/Aeroespacial",
+      "net": 2.6,
+      "n": 23
     },
     {
       "sym": "MSFT",
@@ -1532,10 +1532,10 @@
       "n": 3
     },
     {
-      "sym": "ITA",
-      "name": "ETF Defensa/Aeroespacial",
+      "sym": "WTI",
+      "name": "Petróleo WTI",
       "net": 2.5,
-      "n": 23
+      "n": 24
     },
     {
       "sym": "ASTS",
@@ -1544,34 +1544,28 @@
       "n": 1
     },
     {
-      "sym": "WTI",
-      "name": "Petróleo WTI",
-      "net": 1.4,
-      "n": 24
+      "sym": "TSM",
+      "name": "TSMC",
+      "net": 2.0,
+      "n": 2
     },
     {
       "sym": "SPY",
       "name": "S&P 500",
-      "net": 1.2,
-      "n": 21
+      "net": 1.7,
+      "n": 22
+    },
+    {
+      "sym": "META",
+      "name": "Meta",
+      "net": 1.0,
+      "n": 1
     },
     {
       "sym": "TSLA",
       "name": "Tesla",
-      "net": 0.6,
-      "n": 4
-    },
-    {
-      "sym": "LMT",
-      "name": "Lockheed Martin",
-      "net": 0.4,
-      "n": 1
-    },
-    {
-      "sym": "RTX",
-      "name": "RTX (Raytheon)",
-      "net": 0.4,
-      "n": 1
+      "net": -0.4,
+      "n": 3
     }
   ],
   "ecuador": [

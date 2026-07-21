@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T20:15:09.984331+00:00",
+  "updated": "2026-07-21T21:34:00.092899+00:00",
   "categories": [
     {
       "key": "tech",
@@ -31,7 +31,7 @@
             {
               "sym": "TSLA",
               "name": "Tesla",
-              "pct": 3.8,
+              "pct": 3.2,
               "dir": 1
             }
           ],
@@ -47,7 +47,7 @@
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 1.6,
+              "pct": 1.4,
               "dir": 1
             }
           ],
@@ -63,7 +63,7 @@
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 1.9,
+              "pct": 1.6,
               "dir": 1
             }
           ],
@@ -195,6 +195,44 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Apple vs Nvidia, ¿puede Apple quitarle a Nvidia el trono del mercado?",
+          "source": "XTB.com",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUkZMblI0ZE42TGsxLWJqV0Z1YTVTX0ZDV0pkZmZNNTBfTWxSWWdqSGJDZ1FtUkdKaEZEejlRbkttRjR4ak9xMjduTWxGMkg2TUpCbW5taGxpRFV4NFFVenBDMUZkOG5RY1BYZ2N5WWxpWTRIak1fYVRJWnlRS2dMVkF3MXhrWWVWeFZuSFhsZGF1aDhCRm5hTUFYd21rVkxmRHptMTItZlhNT043S1ZXTXlzUnBucG5obHBfQzg2NWlqNGZlazc4YnRn?oc=5",
+          "ts": 1784668055000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            },
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "CuspAI recibe inversión de Bezos y Reino Unido",
+          "source": "Inspenet",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmSmI5WjBUWXRnaXlxOGFXb25kVmhrQlE5TVZEakNNbW03aXZiaDZQMG9yeXFIaTRDaVVZekhTWFF2NkZZMEpiem9jUDAtbjd2X0M4MVZicmkzcndzRUoxTEx1SlEtWjVaRjF1eHR6al85TWVscGc1UlRB?oc=5",
+          "ts": 1784666279000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "AMZN",
+              "name": "Amazon",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Nvidia presenta Vera Rubin, plataforma para multiplicar tokens para la inteligencia artificial",
           "source": "DiarioBitcoin",
@@ -352,50 +390,6 @@
             }
           ],
           "category": "semis"
-        },
-        {
-          "title": "Z.AI desafía a Nvidia con centro de datos que empleará únicamente chips de IA chinos",
-          "source": "DiarioBitcoin",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVHV4N3NvelJLXy1Ha0xKV0pZeF9TcXRMTkwxRVp4SXVQZG5YRk1OWjBwczhUTkZHam85MVRES3hjV3ZXYWpIZzl1eHVtNzF1VWl5WW5BT3l4R1V2UDQzbnFlNWhyY2IxSXh4OE5Ic3UxMVFZNl9LRzZYSXJmUzJsWk1TRTN6Q1ZBWGozSEtfdi1XWFpMYWpfc1dFQVI2dUF5bkoxSktONHVUaUNPWUJWVThaUlhsNHN0LV9QYTVR?oc=5",
-          "ts": 1784651538000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Microsoft integrará AMD Helios en Azure para impulsar la inteligencia artificial y competir con Nvidia",
-          "source": "Revista Mercado",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYjREYmJUMThrZ1VndDdRcnF6TmtkZnZ2aU5QVkJDYk0zREhMUExxTGh4dHk0dmhTci1PN3ZPeG0tNGJ0blZ1dU9IUlZkckM1TXc3MGFXeEFWN2ZTLTU0YkpUU1o1MElwR3hHTmlwQm05dmNtRkNXaFl4V05aQkM0QUV0TzBMdkx6QnVSVnBIOURscncxb0xmSDZZZC1oSWstTy1hV1BndDVJa1YwM0FaQ2E4QkE2Zzk5UVgxTE90NGJQVzdTdTI0Y0t5Y2s2VEhjV1JnZzlSTQ?oc=5",
-          "ts": 1784651292000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            },
-            {
-              "sym": "AMD",
-              "name": "AMD",
-              "pct": 1.7,
-              "dir": 1
-            },
-            {
-              "sym": "MSFT",
-              "name": "Microsoft",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
         }
       ]
     },
@@ -490,22 +484,6 @@
           "category": "space"
         },
         {
-          "title": "SpaceX entrará el 7 de julio en el Nasdaq 100, casi un mes después de su debut en bolsa",
-          "source": "El Español",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMi1ITGNORUR0eGRXajZCd0FWOUFhSWpOaWJTTlpWQXZhM3ZSanplYXV4OXYxUTBldFRxcTNNcDZpdF9CdXFDYXdFSEJHcUdObHUwWExCUVFjYUFlb0N0Sl9LNnBBMFZjeVpVWHlNLS1Ra3R2UjZSNHE1RTZIZDM0aDFSblpjUjdyd2xyYVRjVUYxZnlCc2p1SUtCUGxHY185VjdtSVFQN2JneURjN0s1UzB2a0JzX0lIZ2piU083ZGp3SEHSAcgBQVVfeXFMTjQ3ZmVHaHM3REMzQmI2aGs3LVNURDc4U3RfTF9QbjNVY0xGYVNScTU3Q1JKX2Z3Sk9Fd0lnMEg2MklxaDlna2g0Q2FDREFFVzNJUTRwTTFvbWplNlZtTnA2QklScXhyWmJPM0ViV285UmFrbW1mdDlOdmFJdzFpS291cXhDeGRJODdqUXRtQVIwYVZzOGxiU3VEdHpoWWN1Z19EbUFPWVVELWVuMExDY2QyOHF3clhmZm55MUlmdFFJckJ3TlhGMFg?oc=5",
-          "ts": 1782802800000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "space"
-        },
-        {
           "title": "¿Qué significan para Microsoft las salidas a bolsa de SpaceX, OpenAI y Anthropic?",
           "source": "COMPUTERWORLD ESPAÑA",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTk91b283Z3YwZkI1ek4ydXNTWlFpaWNFbWxkb1hUSEpMZU5XOGMwR2pVMUNySEExNzhnS0VTNDRwQmcxLVpUSkRDcDZzNDNCeEVTWXA5RWllWHZpckVHTWZPUE9aN1JCOERFVGd2TC1JaTBlOFBxeDZrYUE1QVM1MmFDYXd3Nk9mWUUtbWtWb2xVNzM0MldOaGwyZnJCVE92OFJqTmhPbDd0M2ZOV1Y1QTNCWXlmOUVqTDVjWl9QMGhmbVZLVFpV?oc=5",
@@ -560,6 +538,28 @@
           "ts": 1782198000000,
           "sentiment": 0.0,
           "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "space"
+        },
+        {
+          "title": "La salida a bolsa de SpaceX sacude Wall Street: el efecto dominó que podría impulsar a Nvidia y todo el ecosistema de IA",
+          "source": "Yahoo Finanzas",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQXzhIVE9JUTFpOXhUbWdoOHU2bzJxV1pkbGJ0Z0h5X251NTlVQUxGa0Z5dVlyeVh3Y0wtRnhyZlZBLWtJRVJKbmdVSl9MUjlfZHBsN2VmbnVuRXYxNHJJZUpxMC13VlNCNzRnLTR4ajNCeHZNYUJhNDRWZG5yX0I4T1NVeWJjZzBSSlVwZkFaRDRCZw?oc=5",
+          "ts": 1782111600000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.0,
+              "dir": 1
+            },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
@@ -1330,28 +1330,6 @@
           "category": "macro"
         },
         {
-          "title": "Wall Street ‘sonríe’ por los datos de inflación en EU: Nasdaq gana 0.90%",
-          "source": "El Financiero",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONUdmRUlIUWhETUQ1bm9QbEVLWGtLUTFDbFlTWFdZMnU0bVJzX01mTDNpUEhnTU10OUMwUzFuSkRpZkc3bnVEZlBPaHRLZlBlWG10SDhpU1BrQkVTYk9mWTQ2V2RQRGdoQkdoOEtzZXNVclF3VTA4Wkl3bHFrT202c2Z2SFRCcGx4ZGtDME5WMUFOTVl0Y2U4?oc=5",
-          "ts": 1784065312000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.7,
-              "dir": 1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": 0.6,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
-        },
-        {
           "title": "Wall Street abre en verde tras resultado de inflación en EUA",
           "source": "El Horizonte",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWZGcEVEbmgxaDh6MGFjT1hmMDBlX1hwUi1URS1Ec09QM1RHYkJBQXVDRHFOZGtSdEVzQkwyT3g2N2drbkZCLWxua1RuTmtvRzhzVTZGcTFEa1ozNjVHcngxcDdEYlZ2NlQyNDdsVE10Z0s0ZjRVZXU5QUxFQ1ZNVzlETGV1eHlvRWh3UUl2NmVGTlozbFZITmV3WU1XUnlQcDRuYU5QT2NrZ2c?oc=5",
@@ -1502,6 +1480,22 @@
             }
           ],
           "category": "macro"
+        },
+        {
+          "title": "Goldman Sachs rompe con Wall Street: el giro del oro que divide las opiniones",
+          "source": "Estrategias de Inversión",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaG5VOUhaemtCSVFnaXFialRDTXhUMENRYlVQUXN1aXFnTlhyZG1uVHV6V05JUDd5dWczSzUyN0wwZVlXc1d2UWEwWkY1UDRxNG5FZGQtektZQTB5SEsyaWRRMWtwdzByQTUxTjc5RFpKd25aS1kxTzJBaG1ySzNsTktJQ0ViT0lSTlUxWnQ3Q3ZKbmdLZmhLdTdFbXMzeDE0bkJndk93am1xdnowUHF4eUpwQ2JmR0FLSFoyWUpsczAwcHR4T3RFT3Jn0gGgAUFVX3lxTE1DX0dLc25EV0Y3MDFid1BjVHpkMjcydlA2a1h6ZGE3dHpuNWtZalhsMjhGVWN3SjlteGZJZWhac3VOMGVkQ0dXaWQ1eldlU1pLN3FqZEg0Nk51Rkg2ODVpbW1laVZhbXdURUdlNVJMZExNU0UtRHpjUWtkUjk3LV9XdE9UcjhmRGU3VWJ4QUVSM0EyQW9yZTI0QzIwRDRXcGQ?oc=5",
+          "ts": 1782457200000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "macro"
         }
       ]
     }
@@ -1516,25 +1510,19 @@
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 7.0,
+      "net": 6.7,
       "n": 18
-    },
-    {
-      "sym": "AMD",
-      "name": "AMD",
-      "net": 5.1,
-      "n": 2
     },
     {
       "sym": "AAPL",
       "name": "Apple",
-      "net": 4.3,
-      "n": 3
+      "net": 4.6,
+      "n": 4
     },
     {
       "sym": "TSLA",
       "name": "Tesla",
-      "net": 4.2,
+      "net": 3.6,
       "n": 6
     },
     {
@@ -1542,6 +1530,12 @@
       "name": "TSMC",
       "net": 3.6,
       "n": 2
+    },
+    {
+      "sym": "AMD",
+      "name": "AMD",
+      "net": 3.4,
+      "n": 1
     },
     {
       "sym": "WTI",
@@ -1562,12 +1556,6 @@
       "n": 2
     },
     {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": 2.4,
-      "n": 23
-    },
-    {
       "sym": "ASML",
       "name": "ASML",
       "net": 2.4,
@@ -1586,10 +1574,16 @@
       "n": 25
     },
     {
-      "sym": "GOOGL",
-      "name": "Alphabet",
+      "sym": "AMZN",
+      "name": "Amazon",
       "net": 1.8,
       "n": 2
+    },
+    {
+      "sym": "SPY",
+      "name": "S&P 500",
+      "net": 1.8,
+      "n": 22
     }
   ],
   "ecuador": [

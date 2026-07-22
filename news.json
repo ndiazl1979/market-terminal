@@ -1,10 +1,26 @@
 {
-  "updated": "2026-07-22T22:17:30.272650+00:00",
+  "updated": "2026-07-22T23:18:16.029611+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "El director de operaciones de Meta, Javier Olivan, vende acciones por 946.816 dólares",
+          "source": "Investing.com España",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcTlJRm9YaU1WMWM2U0N3TzlVZ0p0dHlOZGc0TGZUYm5EMVlJclVHZXVjbk9hTHpYWko4b1VzZmtEZ2NHMlk4cjRnMnp1VXRvaEhnNzJlcS1sNkZpTU5HMEwySXRUZGN2YURmNlh0NmFyUi15UUtvYWx3d0ZmLTVJVjdRelUtUlBoc2FqNmhIN2tvVU1lalZhV3NfQmtGWENpQzJrODduVEc5cXBwWU5CZE1tWDgyb09pYUpNT2xtMmNjQ0tHdGtETmlQS0FkYWRyZzhIMHpFcS1CaGdNX3NB?oc=5",
+          "ts": 1784761320000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": 1.2,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Wall Street cae; acciones de Alphabet y Tesla bajan tras el cierre por reportes trimestrales",
           "source": "El Economista",
@@ -29,22 +45,6 @@
               "name": "Nasdaq 100",
               "pct": -1.5,
               "dir": -1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Resultados de Tesla en el segundo trimestre: ingresos superan expectativas, pero ganancias decepcionan; ¿las acciones podrían moverse?",
-          "source": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbXhNYlJ3dGp0d3BMZTlEalNxcVM0cUdReE1ZWF9fYmZyaGFIOXZYUzlFRU0tZGRQTURQSWFFXzg3VF9fRG02Rm0zeXBnLWVoeURJS0FjaS0tb2xKRHdZcE9iamJjcWh3TUdfdEJVeGtKM29mcHNLd25xSzNQYTM5T2l2cUo4cTlNeHhacnJJX21QWXBwN2c4Y2pXbnk?oc=5",
-          "ts": 1784751394000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "TSLA",
-              "name": "Tesla",
-              "pct": 3.8,
-              "dir": 1
             }
           ],
           "category": "tech"
@@ -123,7 +123,7 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 3.6,
+              "pct": 3.1,
               "dir": 1
             }
           ],
@@ -269,7 +269,7 @@
           "title": "AMD invertirá hasta $5,000 millones en Anthropic para acelerar la infraestructura de inteligencia artificial",
           "source": "Comercio TV",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYnJjbTU4V3A1WXdDNHc3SmhVd1lEdlJTWWlHemxTb240TmQzM2FrWUJHOHZFM19zWUNqUWFwSGhCeTJ1NUxwSnZPYXZEcGcyeWRqenZ4eTlEUTJUNWZvWHRUNUxkMlhyY1lRUmdkODdjVUMtbm9wWjVleXd5TU16NENIWHRMWmFvYXUwTDVvYkNFbFp0SGhSTjJrV2xENXFNUjRNbHlQa1lhcmZEYUkwVE45MHdidFg1OWNKbXlPUzZQWTAybk9OVjhfTGkwQW1qeTlGbA?oc=5",
-          "ts": 1784748545000,
+          "ts": 1784750916000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -825,7 +825,7 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": 2.0,
+              "pct": 1.7,
               "dir": 1
             }
           ],
@@ -1492,13 +1492,13 @@
     {
       "sym": "WTI",
       "name": "Petróleo WTI",
-      "net": 11.1,
+      "net": 10.8,
       "n": 26
     },
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 6.4,
+      "net": 5.9,
       "n": 3
     },
     {
@@ -1512,12 +1512,6 @@
       "name": "Nasdaq 100",
       "net": 3.8,
       "n": 18
-    },
-    {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": 3.3,
-      "n": 8
     },
     {
       "sym": "ITA",
@@ -1538,6 +1532,12 @@
       "n": 8
     },
     {
+      "sym": "META",
+      "name": "Meta",
+      "net": 2.4,
+      "n": 2
+    },
+    {
       "sym": "AMD",
       "name": "AMD",
       "net": 1.7,
@@ -1556,16 +1556,16 @@
       "n": 1
     },
     {
-      "sym": "META",
-      "name": "Meta",
-      "net": 1.2,
-      "n": 1
-    },
-    {
       "sym": "AMZN",
       "name": "Amazon",
       "net": 1.0,
       "n": 1
+    },
+    {
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": -0.5,
+      "n": 7
     },
     {
       "sym": "MSFT",

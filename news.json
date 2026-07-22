@@ -1,10 +1,26 @@
 {
-  "updated": "2026-07-22T18:46:39.627060+00:00",
+  "updated": "2026-07-22T20:00:16.144412+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Mauricio Kuri expresa decepción por acciones de Meta para proteger a menores en redes sociales",
+          "source": "Códice Informativo",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOd3FCc2ZHS1hrWThrc1ZOZTF6OGtZcFN0VnU2Qk5fYlMzOWRzRlhhQjQzNHBwT3oxWERsVmUxQlhCcC04eVdCQ09URXFBSnMxRk5wMUUwM1VSV3JKNl9zRlYtdmp5TVQ2RlZhZ1lBaTJObHpzY1RCQ3FaRUstWUNfMnhoRkZ1OWtvMkpKcWxkNkxRdy1nSjFXYkw3akhxa0FPMWtXTmpIcEF4ZlJPU29iZU5DODNsNW1Rc2tqZEExcVBRMzQ2VWNjNzExdTcwdw?oc=5",
+          "ts": 1784746437000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": 1.2,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Las acciones de Reddit caen 9% ante el vencimiento de su acuerdo de IA con Google",
           "source": "DiarioBitcoin",
@@ -79,25 +95,25 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": 2.8,
+              "pct": 2.4,
               "dir": 1
             },
             {
               "sym": "GOOGL",
               "name": "Alphabet",
-              "pct": -2.2,
+              "pct": -1.9,
               "dir": -1
             },
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": 1.9,
+              "pct": 1.6,
               "dir": 1
             },
             {
               "sym": "SPY",
               "name": "S&P 500",
-              "pct": -1.2,
+              "pct": -1.0,
               "dir": -1
             }
           ],
@@ -172,22 +188,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Las acciones de Klarna suben un 9% por su acuerdo con Apple",
-          "source": "Investing.com España",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeEtOcU43dXBBOGlzWms2SEdMTFdJMkNlUnR1QU9xanZHMXBObjd4NGwteG1EU3VJaHV2VmxzbHVCcDdrSWh3WWlYYV9KUVRqZ1pfNnIxMjBmeUI4eHluVDhpdDNjeUt0QkFXN1FESWlMZ0tIbEt3RzAza0ZYSzFRTWIzZDYwYW00SDdRZWlsaWhVTUlvb1lZUFF2X2hza3FRMnZHaHJjS3F6NW5DOE15aFduTXY?oc=5",
-          "ts": 1784647320000,
-          "sentiment": 0.67,
-          "tickers": [
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": 1.3,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -195,6 +195,76 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "AMD invertirá hasta $5,000 millones en Anthropic para acelerar la infraestructura de inteligencia artificial",
+          "source": "Comercio TV",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYnJjbTU4V3A1WXdDNHc3SmhVd1lEdlJTWWlHemxTb240TmQzM2FrWUJHOHZFM19zWUNqUWFwSGhCeTJ1NUxwSnZPYXZEcGcyeWRqenZ4eTlEUTJUNWZvWHRUNUxkMlhyY1lRUmdkODdjVUMtbm9wWjVleXd5TU16NENIWHRMWmFvYXUwTDVvYkNFbFp0SGhSTjJrV2xENXFNUjRNbHlQa1lhcmZEYUkwVE45MHdidFg1OWNKbXlPUzZQWTAybk9OVjhfTGkwQW1qeTlGbA?oc=5",
+          "ts": 1784748545000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "AMD",
+              "name": "AMD",
+              "pct": 1.7,
+              "dir": 1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "El examen de Tesla ante el gasto en inteligencia artificial",
+          "source": "MarketScreener España",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQblU4eGFEZmZLNG83SUJGbzE2R3dnR1AyTFpVUkItNm1NSFJuN0QyeDl3SUFLUFRvUDJTR3ZHaE5FS0VXYU5Hcy12LWRTTThlUnlySjhEejBVN0lmT1pWRGxZVDUwdW5uemx1QXA0Tm1fT3dWdXdPcDRTQU91VEZZRktpb0RCUHlUVDB2Y2UxMW56ZlQ1empTN2JnU1pza3plRGRQWDd6VUM0aG43RHNMdktnT190QQ?oc=5",
+          "ts": 1784748169000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "TSLA",
+              "name": "Tesla",
+              "pct": 1.9,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Gemini da un salto hacia la ciberseguridad: Google presenta un modelo de IA para enfrentar ataques digitales",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV25sUzJZSGd1NWN0UXRxM2h6Yzl6SEREWEtELXc3MWJWY01HWDFNdHFISWVGUHhIRW1KNlk1R1Q0VTR0RUdtQkNaWkE1Y3lnUTltRjEtb25yWU02SG9WZUdMRmhuZlcteENRZnNLRFd1dmw3bHl0Z2VIUHNxcmZQSFcxMFFLS0E2VVk4dWd3d2NoREo2RE0tODBraEU2WVFJUDhJclcwMjdDdkd4XzgzbXVhSEdpOXFITEpzNE82WFhyeGlHckR0ME5UaFE1a0JuWGw5c1Z5UHpuLXl5Wm5EYXhqSdIB_gFBVV95cUxPOG1ad2U0aElMZkFqU2FOVzd3YVRNZENxWnZQNUEyYzVKdWZFZFdFM295QVRsY0ZObEdCNmRrUmFia1hod085cE55c0tBMTg0OU45UjNHQ282NmNpRVVxSjByVXlaZnhjbEF0SFpBd2otbGdtWEkzZFVJY1d1bmFmLVA2WmZyX2Q5OG1xMzhIejBfV2w1c3ZwQWNpNWU3Y2trLXRLNlpWa2VVMGFhSXM5eHJOSHlNMG1UU21jaXVaNjBEQ2RPOWl4TjlBaUFEa1F6NkFWNjlBMFIzRTRZWEFBckY5Y0xCZE5qVjhWX29Jc19kVzAtTG0tV0c2WXBuUQ?oc=5",
+          "ts": 1784747021000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 0.9,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "¡Ni la IA se salva! Amazon despide empleados de su unidad más ambiciosa de inteligencia artificial",
+          "source": "HCH",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT0hvNkdUdlBtNTRFS3dzTEJHdVFUbEhxLU03VTJhTWptdVVNQ0VWbmdWdUpxcHBMVHZ1c0xRSWJUXzFkUUFzM085ejFBa1pWcWRRLTd3STNseVhRV3JMWlQ1b1o2bUxkT2JIU0psYWJhNDB2aDM5NTFpbVE4SXliYUFXODhZa3BwdzVUV3l4TUE2OUdNb3hxWlktTkpwaHplOEpQMWhNYnVUUjloUXhYbi13?oc=5",
+          "ts": 1784746338000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "AMZN",
+              "name": "Amazon",
+              "pct": -2.0,
+              "dir": -1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "La administración Trump acusa a Moonshot AI, empresa matriz de Kimi K3: Presunta obtención ilícita de chips Nvidia Blackwell y destilación masiva de modelos estadounidenses",
           "source": "TradingKey",
@@ -261,7 +331,7 @@
         },
         {
           "title": "¡Amazon vuelve a recortar personal! Ahora ajusta su división de inteligencia artificial",
-          "source": "Milenio",
+          "source": "MILENIO",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUWpGZ29IMkp4MXp6c19oT2lEU1htdXJBWGlwWEFaaXQxOFpNbGNnZmVCU1JBdzlveXk1ekFhSGcwVHp4MjMxTE5FQjlNaDBlcHd4VjE1TXFDMk9adjdueDZUVTk5dEFJV0dnREFyNkpWZ0RLal9mclRLc3BaQi1kMW5oU01kVkZzUkNEYUFSZlVVd9IBkgFBVV95cUxQcmNfREtSMy14YmV2VkxOcl9nWFFicGtydHYyQUJ6VjhoeHRZWFo4RU5QTzlmLWtmbmQ1a09XdVBoVUR0c09pRGJUaW1nbzRlUk1XSGJYQjdBd05IVzdheURJVlNlbE1oZHBKS3JSU1c3MXFMMmdDRnVLXy1nNFdVaW40ZEt3S21PNWVhbDVkU2QwZw?oc=5",
           "ts": 1784737920000,
           "sentiment": 0.0,
@@ -287,70 +357,6 @@
               "name": "NVIDIA",
               "pct": 1.8,
               "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Amazon recorta plantilla en su unidad de Inteligencia Artificial General",
-          "source": "MarketScreener España",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYl9PVUdod1ktbEpmb2RKVWJ5OXluN3Z2ZUlGQTVNWEVtVWZiU19zSWRFWjBRT0VuWWMzVTUyZmVqNktUZkplbFdncUR6MHNGNktnWEhZWWY5Y3hUaVlhNUhsSTJuN0RUM290U0tBYmxtQmxRemtoUmNsV2VLM21qc1VwdTZ3R2thVG9TSUdTSmIwRkdZMlp0anZqS1llNE5zY3VHRmZNM0tDc25iSFZxUEFrRkRCVmlnTUlPbkRZYXlWYmRFVXFF?oc=5",
-          "ts": 1784737403000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Amazon recorta empleos en su unidad de inteligencia artificial general",
-          "source": "Investing.com México",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaXltem05cDRpb0sxeEY0cmx6emlWeVhKVkpPWGdxU3NtTnp2MFgxcGhUVzRVZWw4bXJPTWFsVUh3RGh1RGFpUU1peUJRNnA1YW1BQ0hlejZkMFZBMUZnZktpYnhuWkVPS3JJb1lDWlh4ejVueGlZVzBzcXYtaEM3bmYzWXJjWXBObFJhVEdOVVV1Rkx5dFBZRllwX3ZDNUNjbng3R1VYLTA3VzBoSWo3UFMwVTJma2JRR2VLaEx3?oc=5",
-          "ts": 1784735467000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Amazon recorta empleos en su grupo de inteligencia artificial general",
-          "source": "DiarioBitcoin",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGlEeFJfc2hpOVZiMDdsM3VVNlJlV0xHUXkwU29obFl5UGl2VjR5aUptaERNOGlIa3JiN3JGUTVxTERPdUZUV3JXeXJnekdUd1F0UVdyZTZubGNmekJ4VjliTkdMT0JBLXNUWkFrdGkyMkMwNkIwelFwdlRMa0hXcGNxampMSHkwVXFNVkRfOGQyb1NzVDVraFVVdUllaGNWaVg0emdlbE9vd1VkVmRTQkRxRFlqdw?oc=5",
-          "ts": 1784734750000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Amazon anuncia nueva ronda de despidos; ahora en su grupo de Inteligencia Artificial general",
-          "source": "El Economista",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ1pYc2FJQ2F1SmhUVU54eHB2cUJxSVREcVdTd3N5MVVaOTRtMnFvbFZSQVh3cXVNT1ZTaTdXenhoZlVJUWRFZzJYbUpvaFN3aGVZcXd4NTliWGZVc2h5VlA5RUNsclpsV3dGN3lrQUJQazZzNlNwaDhKUmZja25rdC1KUWJLZGRuSm90NHM1R1pZOUxOTDR1ekN0VW5aTDZQMVphc2xtTUdSMGRESU9ud3RBYkkzYXIteTdjWjJiVEtQMDZMbnNwOU1WckYxdU810gHWAUFVX3lxTFAzMXBoNlpQeFd1QVdNVHJnQUFXSUI2UWVJUTlmN3hYNkV4aGlGUlRNM25rSmFxbnVSUjdYSHBJdUpKOHNmRllJQ1pwZko5dGpMdmp3akhwWmpzSHZTa3BOQ3FJTlkxUFdsZXBWOExweDBNRFZrUFVEaFhLYzVMWGlhN0JPUi1wemdNT3l1Q0ljWjlhODBxengwTFNpLUtfUTZsSWtUaE16Qy1zeWNYaHRFdEFpWWdJeXpkYVlYbWV2S09GM2llNEtBb1JmZjlvT3k0cTRzWkE?oc=5",
-          "ts": 1784734263000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": -2.0,
-              "dir": -1
             }
           ],
           "category": "semis"
@@ -612,6 +618,22 @@
           "category": "defense"
         },
         {
+          "title": "El Gobierno inyecta 8.450 millones más de gasto en defensa durante el mes previo a la cumbre de la OTAN",
+          "source": "El Periódico",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN3kwWl9qTjAzVlBTeWloYXlzUVpyM1prLXlTM1VSNENWeUhTc0ttY1MzcHhwVFhOdS1oam1KQVRfOVhwX2I2NUpaZV9IeGFVcnk5NmhyNDlGNnhhTVlRUlJEY0hGZU12cldYRl9GRUxVN01mLUMtSXFHV2ZhSFZleUk5RmVlYlVkaDQtdFg3M0tFcEpOeWFvRNIBmAFBVV95cUxOMlBoR3BiS1BkdTBRaFhjNDkxMmZ5SlJtNmxpMUpVeDFXRm9hbGhXTHZlVDJ0Uk40ZzFVcmF0T283Y0lSNEIwSG5KcDRMYjc2TGlRSEY5eGxrR1lrX0NOU2xtekQtNTJSODZFdWZ1ZWc2amhsZnBYUFluU2JVaHRwSWhBVS02Y3FORkkwOTExVEoxR2pDX0NGaA?oc=5",
+          "ts": 1783321200000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "defense"
+        },
+        {
           "title": "Líderes de OTAN impulsarán millones para industria militar y Ucrania con presión de Trump",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTVUzNFFwN3Y5c3lHU0IxbDRyYUpuSHF5ZHZwZmZjWDJmeFktWll1SWtvMVZVSm51RFdWWFFYa1htQi1YSXhycURNZWNjemo3X1lZc1NSLWZBOXRPa1lGNkVVemFYOGxOV1NVSkNTUm5vdTljcWNodjkzLUJOeUlkZWl4WGFxcjNra0FZS2dUa2FOelN2MUhwbm84dHB2RXE4SXNyeUlMR19veWgzOXN1RkhRNDNLV1ZVbktPN1Bkc2NIT2RycktIdENXMGJSemNZSGpaWlRHWmJ4d9IB9AFBVV95cUxQWm53cFNsTndmbjMyOHI4ejFmOF9kQ1VZbV9rRzhpWHM3VW9SR2h2SmNZekJqb0xpMC1iTUJtWF93X0hSSW1sQ1M5NGZPQlJlTnloSjlEd0JkNGNDRUxsQzNrczAzU3NuWDhvZF9rVUNhN3lUNmNLcWR3V3ZTQl9BQXRHLUhkYTVrUGZtVVpXdThtUFg3aks0a1ZEbVpjSDVuNlRSS2sxUURRVFJmaEtPdnk5Q2loS0FnejFMTXZOeTdsQ1hleWlIS3pqRGhJQmVrLUtUWHQzOHQ3T3d6amxSZXZLVG56bmdxekNhX0hJVlFqZGZT?oc=5",
@@ -700,15 +722,21 @@
           "category": "defense"
         },
         {
-          "title": "Defensa prepara con hermetismo una treintena de programas para elevar el gasto militar a 35.000 millones",
-          "source": "El Economista",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQc0NNOVUwUUNaRHlyeGVnNG9rMFI2T0U1RkkwQlhaUGZVNzlCdFp2bDhGa1paSTk3amVDYlNXN01Gcy1HS0czVEpuSVNTUTVuSWJIckpIZGg1MkZPdHpFTDBBdU43S29RbjVpRGM3b0hvSjU2NHZkVDZHN3JkTjZPZTFndGMxYTh1LWh6TFJ6THBhb09YNm1ydFpiTEdaU2pMN3ZfSk9hZ0pIU1RITGJrLVJJb1R1UWRwTy1LWF82Ulh0UURYSDdjWWd4UnQ4c3NmZ05nR1V4VEtpc2tURzg0UDJZUndMdlZsUWRZemRvbDhtekRjTGZIU1lzaGIxazDSAeoBQVVfeXFMTVNMNlpzUkdMMWdPZEN2cGxPQktPSmVyTkljaTVtVGUtQ25iTjBHdzc0ZkdrODR4QmowODQ5Q2JQZjd0Z1FkaXNkcm45V0QtcGtmRWd3cndiV3JRdmlsc2IzNXNOdEF2N1RxRUlBUTQyMVdaLVlmUkt1MzVlNnVxa256a1g0bjJVay1ZUUt1eUdVb0o2M3pXR1FBajlyaXZQbDdLZVNqSVNoX0ZvRzJNQkcwNE9KeFNQTkJEMUsxMEc0NEJMNW1NS3htV1lRMkNBYVdzM2F4OWlsdmZicTV6Rkl2UENDUGxLc2R3?oc=5",
-          "ts": 1778914800000,
+          "title": "Lockheed Martin, RTX y BAE Systems lideran los beneficios del auge militar global en 2025",
+          "source": "El Boletín",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOVdJS05qREJnXzFwMktBS2FBamVieVRZZG1UdkhpUEF5WWR1QVF3enIzNGNyaW1XZEE0T3A5c2ZhdUFadmo0cmVPanNMMFBsMGhDS0ZMTV9GcVJVUjZUZGNkRE44dlE4SVZ6X3JQRVhHSHg4c2xsQmpzbVJld0N6V3gyd2JYWVZxUFNOb3FBdVBpMk92TTB1WHJibWFwT05FaFF1RWJRejEzNHlTOHphS3dqLUlOd9IBuwFBVV95cUxNeU5acnFZUW9WTHd3MFBJN0dXaWFtZ0pkUjc5WDZXX2tzazZ3T1pJanhPZTNid0o2UTdWVEtYTlFGdUc0SnE2ZW50X0FpODlBRjIzTy1GMlV3eGxVRWdyMFA0RVpCNGl5aXhyb21qNG4zWjZIRkxZVkkwRWNNNzlUN05lRC1HZWZNWG1uejVzSkRhcEdySjJCR21hT01nbGx6WlNSWGlERHB4ODQ1WHByRlRMNGZDNzc2amt3?oc=5",
+          "ts": 1777273200000,
           "sentiment": 0.0,
           "tickers": [
             {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
+              "sym": "LMT",
+              "name": "Lockheed Martin",
+              "pct": 0.4,
+              "dir": 1
+            },
+            {
+              "sym": "RTX",
+              "name": "RTX (Raytheon)",
               "pct": 0.4,
               "dir": 1
             }
@@ -720,22 +748,6 @@
           "source": "XTB.com",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBudTVNLWVieUkzZ1NFR2hxeUNUZVluRkVpcjBRbGxIcThOWUg4N2l3WUpKTkxOM1E0U3R6UjZ4U2poUXlwRk8yNWVjUW1wb2FXSkpXLUNyQkZZS19TYjJWSlNYSXhXTVQ2Y2FCNEJzTjdRQ3dERVhZMw?oc=5",
           "ts": 1773855392000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
-        },
-        {
-          "title": "El Gobierno gastó “más de 34.000 millones de euros” en armamento en 2025",
-          "source": "Diario Red",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZDBtSlZJcXAxQnFqcXh3SFVCX2pTUzJwQVlKcWE5YzNOMjBGR0h4ZU1vNlNicGFrVURybmo1VFc1Q0d2RmNBbk9NMGFIM1dqTDMzc2dHSWR6SVEzMVc0X2l6LUQ4NW5rRkI3U09iNVEwVlB2SlZNY3JWelpmaldBOXNxQUFTRFdVUDFxenkxU0NwVlNfTU41OUhkZUZtdjFnbTZCRlByWk9UMGVQQ3htZGZZZUkwdHpRclk0TUh6SG7SAcYBQVVfeXFMTVEwazFyb1F4WUdicEVhM3ZidGlYMjNBR0gwNXhjWW55SDRobFVOaFE0cnZZaUk5R3pjRDJLeUh2Q09oM0t1UmQtVjFTUjI4WmI1SGRsM2cxUGJ5a2JmMkNHS3pDN1pndndKczhFa1gyQ1BSMXltSmZkcFI3YUFSVjNMeVVXTGZEQTB2a3I4aVVLbGdicDE0VktEOVl1NnZJSE55OGppYWRmQ3IxVDJXdVQtNUh4dl9hQ081YjdkeVFKWkcwWXZ3?oc=5",
-          "ts": 1773817200000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -791,7 +803,7 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": 1.2,
+              "pct": 1.0,
               "dir": 1
             }
           ],
@@ -1474,7 +1486,7 @@
     {
       "sym": "WTI",
       "name": "Petróleo WTI",
-      "net": 9.3,
+      "net": 8.7,
       "n": 25
     },
     {
@@ -1490,40 +1502,46 @@
       "n": 2
     },
     {
-      "sym": "AAPL",
-      "name": "Apple",
-      "net": 4.0,
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": 3.9,
       "n": 3
     },
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 3.8,
-      "n": 27
+      "net": 3.1,
+      "n": 26
     },
     {
-      "sym": "AMZN",
-      "name": "Amazon",
-      "net": 3.0,
-      "n": 6
-    },
-    {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": 2.0,
+      "sym": "AAPL",
+      "name": "Apple",
+      "net": 2.7,
       "n": 2
     },
     {
       "sym": "SPY",
       "name": "S&P 500",
-      "net": 1.6,
+      "net": 1.8,
       "n": 23
     },
     {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": -1.4,
-      "n": 5
+      "sym": "AMD",
+      "name": "AMD",
+      "net": 1.7,
+      "n": 1
+    },
+    {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 1.6,
+      "n": 2
+    },
+    {
+      "sym": "META",
+      "name": "Meta",
+      "net": 1.2,
+      "n": 1
     },
     {
       "sym": "MSFT",
@@ -1532,9 +1550,15 @@
       "n": 2
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 0.6,
+      "sym": "LMT",
+      "name": "Lockheed Martin",
+      "net": 0.4,
+      "n": 1
+    },
+    {
+      "sym": "RTX",
+      "name": "RTX (Raytheon)",
+      "net": 0.4,
       "n": 1
     }
   ],

@@ -1,10 +1,32 @@
 {
-  "updated": "2026-07-24T14:25:49.584616+00:00",
+  "updated": "2026-07-24T15:52:46.014771+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Desplomaron acciones de Tesla y Alphabet; preocupan costos de IA",
+          "source": "Tiempo La Noticia Digital",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb2JWLVFaQTBZRlpuX1VxS3ZnXy1VUzh3cG9RUEpsUkpJelFUTkE2cWRPLWhmS1dDRU1KQzBwaGRtb2RPQTI3UDN2elJLbGdudUhhZ1RYTHdKdS1lZkdubVZtWGplTzNSNE1QdGZreEhZUFRtUkNVQzFoUjR4SjdSVlJJWTF4Q3NaOFVWNUZBU3kwNHpNa0FuYnhhTEZUYXRwcHBBbEYzaw?oc=5",
+          "ts": 1784903580000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "TSLA",
+              "name": "Tesla",
+              "pct": 1.9,
+              "dir": 1
+            },
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 0.9,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Alphabet y Tesla anuncian más inversiones en IA, caen sus acciones",
           "source": "RedUSERS",
@@ -178,22 +200,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Google gana $94 mil millones gracias a SpaceX, pero no por la razón que piensas",
-          "source": "BeInCrypto",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFb3BfbzJwYVRJVWd1LVhKeGc5a3V5WU1NbTFBZFNTM1R4aVM1SkpBTTE5VlNZMlZKNWJtcFdpaF8tLUQzakVwU2ZRQXVjVGRLOUVrYXh3bzhKQkl0Tmh1RHJ3YjJBSHFYVTZwb3BITlRiS09lNGtpLUNR?oc=5",
-          "ts": 1784829240000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 1.6,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -322,47 +328,9 @@
           "category": "semis"
         },
         {
-          "title": "Wall Street cuestiona el gasto récord de Big Tech en inteligencia artificial",
-          "source": "DiarioBitcoin",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZjBGWDlsTDIzdm9Ka3N5bTZtUWRXVTNGaWkxLXhNcUFkWTJJWjRRQ25RRVBPNWk0NVRWVTVfMm1sT01sUVlhNjUyUjRWcFJxVmtLa2xEVkhmZXVtcERZcnBkV2ZkN2tsZGNEWlg1VnU3Qy1fa2EyTmVKWWZ1cU9MbFQzbDZXZWtzOTNOT3FKQXUxWU1IVzlZMEdWd01aclNTMzRKRUM3YXhjZkEwUE8tajhFUDZzTkE?oc=5",
-          "ts": 1784840601000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.7,
-              "dir": 1
-            },
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 1.1,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Microsoft comienza a reemplazar modelos de OpenAI por su propia inteligencia artificial en PowerPoint y Bing",
-          "source": "DiarioBitcoin",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcjVycS0xd290VkdXQ0xlY1J5NnJub3NHcDJ6dFhfN09wZnhiVEZxeFluZVFrdjhXU2lFUm5oVjBkZ0NQaHFaeXpINHlGNWJwRUtxS1NqSDRQVDV3Z3lleUl5RnU4cUFoMTRzNE1EeTZnSnR3elZfTzVkSDBwR1BPV0V2QkpCWXdtcnZmTDY0TGR2VkY4b2xyZzZyRTFLMzdSakZYSzBaNG1tM2R5SUVSRFVEWmV0ZUhuekVPNGtMenBpSWpmNnQ2SkUtZmw5VUFYRTJlV3BjTlBHZw?oc=5",
-          "ts": 1784837073000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "MSFT",
-              "name": "Microsoft",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
           "title": "AMD lanza nuevos chips y servidores para desafiar el dominio de Nvidia en IA",
-          "source": "Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcTFiTGttRTlsNTZ2U3V0R2piUnM4aTBnNGhYbS1rZV90eTJyRVh1V1plZkNSR05ZZTNQb3FId0RBV0IzMjZNMFZnVTNwZThHNWtLWm5wYjNkVVlXc3YxSHJuU3VRVUl1NkR1bGdyYmRSMFU2N19jZnZWNXZMbVBZemJfV1Z5Qi1ob0J5bmQ0WFFUT1FyLVZFQUVSWVJ3S050Z3FLblVzay1VX0VfTmdaWURkYVB0cVNCVFNuemtLSURCLU9JVmc?oc=5",
+          "source": "Yahoo Finanzas",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOelV3M0VMMzJWUjlsX0Exb3RlZmFfdmhqN3dpRzRYejlvRXlrTFR3WENQVmNyRnN2eHp5Zk9oWTlZWVBVMzAzWFpwcll0LV94dGl4cGZFTklOdVltMGpBUEFJaElITXdPS3dybENpQng3dUpPZmZwNjJQQUlydlZSeHR3ZFg4eHV5VFJCSHlRSzRvUzFBSjlV?oc=5",
           "ts": 1784836958000,
           "sentiment": 0.0,
           "tickers": [
@@ -382,16 +350,32 @@
           "category": "semis"
         },
         {
-          "title": "Nvidia ya no quiere vender solo GPUs: quiere controlar cada chip que mueve la IA",
-          "source": "WIRED",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcm04X3hydHNKcFJlclE1LTdEYmllQmFFTndWcFFVLXJhVVlQdk8tOUVSb0REUkFwWVFpaGtneE94MS1ndkFLazdpN3R2WVdORjAzc3ZSc2Zhd3BNbHZiWFVYWnVITkswdWtWeThqcG96OFhBSGduY01qOFVhMWNZR2hEVnJzd2tsa1VzOHNIaHRCSHJtR2lIVnhHTQ?oc=5",
-          "ts": 1784832961000,
+          "title": "Nvidia presenta nuevos chips con funciones de inteligencia artificial para computadoras",
+          "source": "Chicago Tribune",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUFNtM2czTGxDdzlCWWlGZWMwZVpmTHBVbEZ0b1p4Q0F3NjhKbE5rUHRCRFVFRjJRV3JnZy1FZlhQZWdhZFU0X3FyOHhOUDBkd0Vwd1QwUmJNWUdVdHE1Ykh5SnlSbGVNZUF6Y3FBNmZvUnpnODlodlA3enNjTm1Pd0dDR3B3MF9tVnh2Zm1KeTBrMDNLVllHZlZ6OHF2bGRaQlVLUF9SSU1ZaE11QmV2NFo3b25qWjRuRENVVEFTYVlUUXppbEhGbHhn?oc=5",
+          "ts": 1780297200000,
           "sentiment": 0.0,
           "tickers": [
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.5,
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Acciones de inteligencia artificial: ¿Dónde están las oportunidades?",
+          "source": "Morningstar",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeTduX2FDSnVQS1NBaFg3bjNwOUJxYTVKUnNiZTlJYnY0TUpTbWZ1bW5FVEV0ektfa2F3eGt1QV92T1pkdF9naHpNeDJkTzJKVkpQU25WaGpWaU5LM05CUS1yN3Fnbm1nbVd2WVhNeFVaNW9uVmJPWXNYMV9ocDRhald1TFVXRmJ0Vng0QjE1MWNNeG9qd3hKSU02UUdTdHRaTmNDRWV5bDNaZw?oc=5",
+          "ts": 1778482800000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 0.6,
               "dir": 1
             }
           ],
@@ -768,10 +752,10 @@
           "category": "defense"
         },
         {
-          "title": "Acciones de defensa: cómo invertir en el sector",
-          "source": "XTB.com",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBudTVNLWVieUkzZ1NFR2hxeUNUZVluRkVpcjBRbGxIcThOWUg4N2l3WUpKTkxOM1E0U3R6UjZ4U2poUXlwRk8yNWVjUW1wb2FXSkpXLUNyQkZZS19TYjJWSlNYSXhXTVQ2Y2FCNEJzTjdRQ3dERVhZMw?oc=5",
-          "ts": 1773855392000,
+          "title": "El Gobierno gastó “más de 34.000 millones de euros” en armamento en 2025",
+          "source": "Diario Red",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZDBtSlZJcXAxQnFqcXh3SFVCX2pTUzJwQVlKcWE5YzNOMjBGR0h4ZU1vNlNicGFrVURybmo1VFc1Q0d2RmNBbk9NMGFIM1dqTDMzc2dHSWR6SVEzMVc0X2l6LUQ4NW5rRkI3U09iNVEwVlB2SlZNY3JWelpmaldBOXNxQUFTRFdVUDFxenkxU0NwVlNfTU41OUhkZUZtdjFnbTZCRlByWk9UMGVQQ3htZGZZZUkwdHpRclk0TUh6SG7SAcYBQVVfeXFMTVEwazFyb1F4WUdicEVhM3ZidGlYMjNBR0gwNXhjWW55SDRobFVOaFE0cnZZaUk5R3pjRDJLeUh2Q09oM0t1UmQtVjFTUjI4WmI1SGRsM2cxUGJ5a2JmMkNHS3pDN1pndndKczhFa1gyQ1BSMXltSmZkcFI3YUFSVjNMeVVXTGZEQTB2a3I4aVVLbGdicDE0VktEOVl1NnZJSE55OGppYWRmQ3IxVDJXdVQtNUh4dl9hQ081YjdkeVFKWkcwWXZ3?oc=5",
+          "ts": 1773817200000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -823,7 +807,7 @@
         },
         {
           "title": "Precio de petróleos WTI y Brent se acercan a los US$100",
-          "source": "Listín Diario",
+          "source": "Listin Diario",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbHNWc1FkRkVNUHNGQWMzc2VoUFJJMmxOdlpGQmEwZS1WVnJncDlBT2VhUnNBSWk0dGloR1BzVlZ4Vml4V1lkN2pHQnBlN1lzV3NjUVo5eG9RenJ6dGRwRzByM3MtR2lWd0dYdkNaVGxJdVB1cU1scERWc0hzMzdVQ3RLUEFZMFplMUhlMy12eS1KblBpcS1jTXZNVEk4OFh1aEI4NlhzWmVFS1J1WTRQQ2ozY9IBswFBVV95cUxNbHNWc1FkRkVNUHNGQWMzc2VoUFJJMmxOdlpGQmEwZS1WVnJncDlBT2VhUnNBSWk0dGloR1BzVlZ4Vml4V1lkN2pHQnBlN1lzV3NjUVo5eG9RenJ6dGRwRzByM3MtR2lWd0dYdkNaVGxJdVB1cU1scERWc0hzMzdVQ3RLUEFZMFplMUhlMy12eS1KblBpcS1jTXZNVEk4OFh1aEI4NlhzWmVFS1J1WTRQQ2ozYw?oc=5",
           "ts": 1784841130000,
           "sentiment": 0.0,
@@ -1478,22 +1462,16 @@
       "n": 25
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 6.1,
-      "n": 5
-    },
-    {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
       "net": 5.1,
       "n": 23
     },
     {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": 4.5,
-      "n": 3
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 5.0,
+      "n": 5
     },
     {
       "sym": "AMD",
@@ -1502,16 +1480,22 @@
       "n": 3
     },
     {
-      "sym": "QQQ",
-      "name": "Nasdaq 100",
-      "net": 3.7,
-      "n": 16
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 4.0,
+      "n": 3
     },
     {
       "sym": "INTC",
       "name": "Intel",
       "net": 2.8,
       "n": 1
+    },
+    {
+      "sym": "QQQ",
+      "name": "Nasdaq 100",
+      "net": 2.6,
+      "n": 15
     },
     {
       "sym": "SPY",
@@ -1522,26 +1506,20 @@
     {
       "sym": "GOOGL",
       "name": "Alphabet",
-      "net": 2.1,
+      "net": 1.4,
       "n": 5
     },
     {
-      "sym": "MSFT",
-      "name": "Microsoft",
-      "net": 1.1,
-      "n": 2
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": 1.3,
+      "n": 10
     },
     {
       "sym": "AAPL",
       "name": "Apple",
       "net": 0.7,
       "n": 1
-    },
-    {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": -0.6,
-      "n": 9
     },
     {
       "sym": "META",
@@ -1554,9 +1532,31 @@
       "name": "AST SpaceMobile",
       "net": 0.4,
       "n": 4
+    },
+    {
+      "sym": "MSFT",
+      "name": "Microsoft",
+      "net": 0.4,
+      "n": 1
     }
   ],
   "ecuador": [
+    {
+      "title": "TLC Ecuador-Canadá abre mercado sin aranceles para el 99,6% de las exportaciones",
+      "source": "Diario La Hora",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRzhCT0tOT1FNNXU5R3d6MDR4NDg2aUhJQ0FoY3hDN3cyRndZZ1RpUk5uZ20wSEZRY1pnRy1yanBuS2dpYzB4YWFHWEdobTlXVGw3V3RfRGc4Z0UxRXVFbU1xc3BtWVJILVRaNGk4MGZGZnRYWVh3MDhJZ0xpcHI1aVhJdW5VM0dIT3VpWi1sQTZtMENjdzFqT3I2NzZFdmhxQWtuRmVqOHhNSXJ6SjJjVExmN2lBU3FwS3I4bEtnaU1SZjdnUEJ3ZTlxVWI?oc=5",
+      "ts": 1784904839000,
+      "sentiment": 0.0,
+      "tags": []
+    },
+    {
+      "title": "Ecuador y Canadá firmaron el acuerdo comercial",
+      "source": "El Universo",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQzJwMkJ3RjVmNzFkM3ZrTVpFRjVydkttZ3lGQzUtTXNGcVZsOVJKLW5jV1RFSlg3VzdObHdoUExqTkNNNkVocHAycHlJOEdFR0w0MHQxNkF6bEotWTJINzFZVXAyQk5MbnRoaThwa2duT1dLM3NnNEw1NUg1U0o5cktaeDVkaDVHV1haWHEzSFhCQTc4NFNyVE1WdmpGaHFLaHRpbzBNNlNiUHpIYUd2YXhkUUQ4V0h6SkYzMdIB0AFBVV95cUxOVWtMT0RNcXlKeVg5ZlFneWVQYk5sWUlVWUlkV2szN211VTBfZEd3QnprM0Q0MDIwcDJ3M0RUVV9BekJSejBnY0FwV2ZkNUhnMDdsYXFjUDdKYUFOT3ZxVDhvYkIwNHpPVGgzNzJIYkxINmlna0ZtOGpuUE9MU2Q5b01leUFIanZTUU9XY3JoRExtT2wzQkNrZC11NTBLaUx1b01GLUtTQkkwdmNaWGo4dEJNU3RTM0NqRmRtTjVzS2ZnV2Y3UldoRmM0NU5qWFdp?oc=5",
+      "ts": 1784902860000,
+      "sentiment": 0.5,
+      "tags": []
+    },
     {
       "title": "Agenda Ecuador 2040 propone abrir el mercado eléctrico y modernizar el régimen petrolero para atraer inversión",
       "source": "ElOriente.com.",
@@ -1599,14 +1599,6 @@
       "source": "Diario La Hora",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOVpfbm5idTdtWTNaUHBjWDY4azlScWt4M1h4NXBSNm9yUjN0RFFlT1NRVWlNM25tRFQ5T000OV9vUUdQOXE3Q3hTUXVNS0t2QmtEZ2xoT2dJYlNaaHBKaWJLdmNUbXRPcm9qeTRDY29mVHpLZHlQbW9GeDY4S3FWaXkycWtpS3pPOHRMdDJlSHZ1NVJPQjJVaEozRkIwd3RRLVVTRTN1N2ZsZldvWVhBaFhvNjduTlFIdTR5OEdPMVBLZ0N5WjQwNkU3LWpPMGl4VmhYdnY0cU5mMEp5R2Y2Wms1Y0hQZw?oc=5",
       "ts": 1784786340000,
-      "sentiment": 0.0,
-      "tags": []
-    },
-    {
-      "title": "La otra cara de los decomisos de leche en Ecuador es un mercado informal que persiste",
-      "source": "expreso.ec",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVW1jWGFncFVtLWU2SDJqT0xTUElYM2RZT2RkRElpTnE5akJ3QUUzM3RpV3ZtX1JSVVZZbUNlbmtlbk14QUtiQ0VkWnZnNGUtY0dYeUVpNzJlc09EbnZDbHdlQkV6Y3Z4VzEtSUlFRl96Y1BwZms1VVpuVXlyQnBtQmNRd3FTSjJvbHc1a0xBOWNYd2t6cjh4a2NHN19XRjBRWFZz?oc=5",
-      "ts": 1784773457000,
       "sentiment": 0.0,
       "tags": []
     },
@@ -1695,14 +1687,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUzRtNks5MVFiS1RzRldocWtrWmM4VkQwQTlvS2VuTjJrY09VRnd1SXpyYzF0bGNOa0s2d0cwUlVHMVFWemU3cjJEdjljeXVIMkFpQzBaS3A2NHo1U3ZraTFveTdLd0hCb3FYMkxKU1dDUzJGdkZjRWl2OXVOcmREb1lZcE9OZV9KZ3k5UkIxYVJFT0tFSUpLNEVTcVJ4cVprUy1YSkhBRnBZcE5BUGdsbEYxVzhpZVU?oc=5",
       "ts": 1783407600000,
       "sentiment": 0.5,
-      "tags": []
-    },
-    {
-      "title": "Entre remates y remesas: la economía del México vs Ecuador",
-      "source": "El Economista",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1lxVHVWUlp5Y3RwWW9OdG5PNTFZZVgwZ3UzbEltclJxT2xhLUlMazJyV3FIY21ET19JbzJMVFNJVHJndkpMOWQ4dVRHNzdMRHlOVWFlZ0tjMFIwb3ppcDIxQldLUDJRQUpJRmVJNnVlYzRxZzlWZDBGTTBpY2ZSX0xTeWpOeE5yN2ZZR21McHVKT05oVGJOOGtxVEl1OWRxRllLQllR0gGrAUFVX3lxTE1nTVNFb3RTczVZbTd2Y1ZmYXI1eHZYRi1DcWhSNXVxT1FPbjd5ZWhfWWRRMEhyQTBGdlpvU19oc2hjNmw2SUdyelAxMnpTTXBSVTNkQS11THpITkwtR2pzWlo0ZnpBYVpLbGFocUNEaV95NTgzRXdVc056U2MydXlocGtEMXM0bE1NZ1lVeFdxbEprSWd5czVoR0IwV25HSl9YczdkQngwVHE0UQ?oc=5",
-      "ts": 1782975600000,
-      "sentiment": 0.0,
       "tags": []
     }
   ]

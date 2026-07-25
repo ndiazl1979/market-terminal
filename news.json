@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T01:05:35.844519+00:00",
+  "updated": "2026-07-25T04:21:47.440583+00:00",
   "categories": [
     {
       "key": "tech",
@@ -15,13 +15,13 @@
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.7,
+              "pct": 0.6,
               "dir": 1
             }
           ],
@@ -37,19 +37,19 @@
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": -1.5,
+              "pct": -1.3,
               "dir": -1
             },
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": -1.2,
+              "pct": -1.0,
               "dir": -1
             },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": -1.0,
+              "pct": -0.8,
               "dir": -1
             }
           ],
@@ -208,10 +208,86 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "AMD lanza Helios y el chip Instinct MI455X en el evento Advancing AI 2026: 72 GPUs por rack y alianzas con Anthropic y Microsoft para competir con Nvidia",
+          "source": "WWWhat's new",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVnFDWjBJRVgyOEJvZkNXckswR2huRzNlaTlubEtqRHkxeXFLVncxNGU0aFVERERVcjY4QmxCNE1raC1ITTN2cEc0MXQxT0Q3cERSX01QUDZUVWh1eWZrOWhWdnFHN1RROXNKSE1kbnRzMFo0OVMwVVRwN3VEWTBsLUZmWWlDSmtubnRCLVNB?oc=5",
+          "ts": 1784941202000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            },
+            {
+              "sym": "AMD",
+              "name": "AMD",
+              "pct": 1.7,
+              "dir": 1
+            },
+            {
+              "sym": "MSFT",
+              "name": "Microsoft",
+              "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Ofertas de empleo que exigen uso de Inteligencia Artificial se triplican y ofrecen sueldos de hasta $4,5 millones",
+          "source": "24horas",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdzFyQ0pWcEdqcmtRNEJ5ZlVFc2h4X2J6SGV6c3l0SWItVGxkVkIxWkZ3eHZQbVZicDJUUWE1M2toMHVmRWtKZU5oUjF0WW9kb0NWS0RrY3BzNWdQVzlWUGVfTXVvNjF5T3RBZjFWRF95dFBRdXRQNmdyYllnOTU2bmpabmdfTDJFemgyUmJpY3AzMkxWMHpUM0phV0Nmc3NPSlNsZ2ZJWVczWm1WNllJTWVrdjRmaS1Zb1Fhb0w3Q1gyQkZ3MDA40gHMAUFVX3lxTE9OU3pwc2dkdjdGVE5Ka1VBMWVMMzhJRGJKdEkzQWlUVWxCcWV5VEg5UWlXQjliaXlra3B0eENMVHZxVGZLc3hYcWpvaUViVmxJQmpWZXhYTURiNG1vYUViTC1XenE2dXFNZmRiNGl3NTg2aFRhSkdTaWZXdHdtX0VuajZDSHJ3LXdaMnh0Q09qUHYyNXNMWHRVLUxOWWEwR0QwWnRMSDJDNEpxY2JDalQxTDJWMURJNnBvT3dkTk1adGp3aktqaEpMbjhYbA?oc=5",
+          "ts": 1784940000000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Elon Musk anticipa que China liderará la carrera global de la inteligencia artificial y que las prohibiciones de chips no alcanzarán para frenarla",
+          "source": "Reporte Asia",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWEtCY0ZQOFFwX0w3NGkyVEZ2bEw3NFh2bFA3WThUbF80ZlR0OEo0dlhic2pOU1BuU3hiZDN4QzJLLTJhZDA3aTRpb1JqdU5EbmlxRUxUSHJPeGduZ0JWbDBITTVsakdpTEQ4Z3hOLXV4dDAyODVlQVFUbnE3MjNiS2FLeDNqU3AwNWNnQTVNMjJzSWMwZnRLNTJlWi12NXJsMkZuc0FIM3VlSWpySUR0WGZtVERnc0ZNTU1DRTVBVWx0MEdzWkdmemZZVmdob0MzTjBkNDBzaTdxbzh2N29FdDBWVEE1M2RpVFE4Qnd5Q3hLNk0?oc=5",
+          "ts": 1784938930000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "TSLA",
+              "name": "Tesla",
+              "pct": 1.9,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Nvidia creará laboratorio en Corea para acelerar la innovación en IA • Inteligencia Artificial",
           "source": "Forbes México",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTENzVzhuVUNDVzVnQXE2eEtaQzFsbGdTbnpWYkw1OWNrNlZrVlJOdTJQemhJOUl3WkRwQTNCZnFIQzRwSVFKaUFpSmxOTTVqNEctZlhOOFpHaDFob2R4ZXVtZFI2YVVLOXRVeEhGcXpWRzQ4VGlWa0Y1ZXBjejdyMHduczU5VnMybmtWVWpycmdmc19lZFE?oc=5",
           "ts": 1784934000000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "DeepSeek afirma que los chips de Nvidia son la mayor ventaja de EE. UU. en la carrera por la IA",
+          "source": "Revista Mercado",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQTUwcUJxQWJ6N2F4dTcxWFhLSWZwT0l6dVlwVmhzeWw2MVVjRFJqVkl1UXplMjBzUklHU0R0SDhKZ2dNVDhyMk1NazkyRnN6RzhoaUdlVGhjSGFKT1QyRFhveVF1Slp6TFBsdVVFbVV6NzhEODFjazA3ekdOaXo0ZVdJZ1hnd2tYX3hHeElId0plSXpPUXN3QnphOGJ4eXpENmtVdHNGdzd5QTBHM2JlVmVkNFBXb3BNTEJTRnkyZXNwWG1rbmdpQQ?oc=5",
+          "ts": 1784933294000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -246,22 +322,6 @@
           "category": "semis"
         },
         {
-          "title": "DeepSeek afirma que los chips de Nvidia son la mayor ventaja de EE. UU. en la carrera por la IA",
-          "source": "Revista Mercado",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQTUwcUJxQWJ6N2F4dTcxWFhLSWZwT0l6dVlwVmhzeWw2MVVjRFJqVkl1UXplMjBzUklHU0R0SDhKZ2dNVDhyMk1NazkyRnN6RzhoaUdlVGhjSGFKT1QyRFhveVF1Slp6TFBsdVVFbVV6NzhEODFjazA3ekdOaXo0ZVdJZ1hnd2tYX3hHeElId0plSXpPUXN3QnphOGJ4eXpENmtVdHNGdzd5QTBHM2JlVmVkNFBXb3BNTEJTRnkyZXNwWG1rbmdpQQ?oc=5",
-          "ts": 1784933011000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
           "title": "Un veterano de Tesla lo tiene claro: la empresa es una compañía de inteligencia artificial física",
           "source": "MarketScreener España",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZU53TTVJRTBMdm1EWm9LenVEanotd1o3ZW9JRTh5VG1pR1ZjeHo5RmhKWDNMMC1uY3NXNWhZR3h1bzNUVnBqeURNX1BqSzVlS0JYbE1nTW1GdkE4M1JWRnN4alV1QWNKTWh0YlpHZnRaTzRVTWpQdE83U2tKRDRybXVwOHFTNm9jSG1UcVdWT180ejZ5MGtQaVJod3Q1QkRwWS1OVFFnY3QxcUkxU1VBWllGa3FzQVRLbWI1TU9DT2ZSUE1lemo4bHFpOWxZOGhySUlfa1FmWGZCZ1hHZ3ZZZ2RJdWthUQ?oc=5",
@@ -271,7 +331,7 @@
             {
               "sym": "TSLA",
               "name": "Tesla",
-              "pct": 1.9,
+              "pct": 1.6,
               "dir": 1
             }
           ],
@@ -287,7 +347,7 @@
             {
               "sym": "TSLA",
               "name": "Tesla",
-              "pct": 1.9,
+              "pct": 1.6,
               "dir": 1
             }
           ],
@@ -303,13 +363,13 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             },
             {
               "sym": "MSFT",
               "name": "Microsoft",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -325,62 +385,14 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             },
             {
               "sym": "AMD",
               "name": "AMD",
-              "pct": 1.7,
+              "pct": 1.4,
               "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Amazon cierra su laboratorio AGI tras 18 meses: lecciones para founders",
-          "source": "El Ecosistema Startup",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObElFWjhhSUZLaEh4QjZ0RE5PaXpRM3YyVXJOeG9aYnhpY3psNnZmSUVITzRPa2JxZ3lXRnRvemx6QUtmTHZmdFdEb1k5aDRiWUVrYkNUanR2V2plU0ZWODJnNGNjNlNvR1ZvU0RZVlRPZFhRak9tREdoR3FxSnl0NmFKNWVuZUNyNnFYTVZ1UEJmXzcyQWlLRVg2aVNjX0NsaDlz?oc=5",
-          "ts": 1784919009000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Intel gana 25% en Q2 2026: US$16B con IA",
-          "source": "El Ecosistema Startup",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkOXNBSjBYV2ljX2Z0ZG9Eb19IQjhDTWVleFd3Z01aelhzeS1waWZiN09DNjZOMVpObVlpWW5mOVc1Ql93ZmF4bUNtS0lJYXhROXRraWQyWHQwd0lnelRoVnVES0xNY0VJYWxGeUdwWXB3S3hXTldR?oc=5",
-          "ts": 1784919009000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "INTC",
-              "name": "Intel",
-              "pct": 2.4,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Amazon cierra su laboratorio de AGI y profundiza los despidos en inteligencia artificial",
-          "source": "DiarioBitcoin",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaXBXVVZFYmoyNS1XNE00UEJMcWlLRnZrdEZJTGItbno3TmNhUUkxTm13TDFOYWdKbTJPdlBlNTVYR1VzbnNVZWhTLWkwTERpYWMzOGdtb3hSX1RhdDEtTDdzNTk0MmY1OURLWVRjWERLZF9fak05dGU1MG1ycGVtLVZXakhNR0ZiSjhWYjRIRklpS0hTdXVFQmxESjQxWGoxTjVad0MybzZSamZDU3I4Yk5TOHM2Z3ZUcEZkSGk2MW5kX1J0R2JvSGQzSDE3UVk?oc=5",
-          "ts": 1784916639000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": -1.7,
-              "dir": -1
             }
           ],
           "category": "semis"
@@ -462,38 +474,6 @@
           "category": "space"
         },
         {
-          "title": "SpaceX fija precio de acción para su estreno en bolsa: será la séptima mayor empresa de EE.UU. y más valiosa que Tesla",
-          "source": "MSN",
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxORWJEcVhPeDdxZjZiVUtKRUM2RmpKZ2xMWFBHWldkVkh6WW0yYW80MnFTbzJFLXI0Y1hVdUg1YnFYRVVRSXp5WGc5SjdxWUlqQmNPZllSUTBYVF9nQXNQQ253aURhbkhHSS1UT2hzUWwxN2RmS05qWXhjRzJXOF9OZ040aVI0d29DbklPZ28yMGRwY0pSdkw3dThXUEVsM3Y4ekg1SG9Gd0Q5R1FPcEctYmkyQzlTTGZybk1ZWVg5M000VjdrbVZDZUJhZnFzSWpZaXNnb2JFdXhja0gzb0xJZDlFMDF1eWVoUnBvREd5NUFRajJjUnQtQUZaVkJrd0lOaUhfSXJweXFqYUZuZjBsQXhTMUJyV1N6?oc=5",
-          "ts": 1784249239000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSLA",
-              "name": "Tesla",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "space"
-        },
-        {
-          "title": "WisdomTree incorporará SpaceX a su ETF de economía espacial tras su salida a bolsa",
-          "source": "RankiaPro",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTVJtam1kak90Nko1UjhOOXBTSnZrVkJJT24weTM0V0luMFd5alducjJSQUtKMjUyOGptMm5uY20xY1JVWGM0LXpBVE5ob3liQ2VIY0VlYkpwYUE3VzdVMzlTaFdrSy1CaU9aME5tVEJwc0dTRVhwdktIQ1dBWWlQRFpwN0o5cENSTnZfdGFhdEtLZzJCcjUwUGUxaEFWM3ZU?oc=5",
-          "ts": 1784012400000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "ASTS",
-              "name": "AST SpaceMobile",
-              "pct": 2.1,
-              "dir": 1
-            }
-          ],
-          "category": "space"
-        },
-        {
           "title": "El desplome bursátil de SpaceX borra más de USD 58.000 millones del patrimonio de Elon Musk en solo un día",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOY3k2UU5JUko3by10eFNERGd4OUpZOFEzOGVBbkcxM2VKWDd0ZllrcXoyNF9kWlYwZG56MFE5OEVHV0JRYVQ4VWhnQlEyMnF2MEhFWmllMFQyM3NEbWhpU1VYSEJaZ1B0VGsxNHFNRWVKN0cydlZfTnF2dU9PaXhjWmd6OTh1OUp2NXg5NDVjUndTSFo5RzcwRElqdW5fOHhNNEgwMzZXMk0wS3pzQU9vcGJ6cWVtRERlY1MyOTh0am5Od0xUM3ZGSU1zSXNjZ9IB6AFBVV95cUxNOGZqdUctTGtpVUlHSTdfS2F0VXlIemxxc01sRW0zOURxN0NpajVkaEJLMkNBRm5PM2lVazcyeEdXRXRJbFUyVHBDZm5QSC1FTnA5Yk9od3BxV0R0NGhOR2VMRXhTZ2t5ZExTRFlzQlhsblZTYzFTVWpvcGlhc2ZNSFZmbTdld2RxUkppMk5nU1l3QW1oWkNfamE1RXNXaTVtdFZvMFdySlJ1eTNuWG5ZTHh3NVJlSXp4Yy1SN0RsSjEwTEQya2JBcEs0ZG42NVFfZE1Idi1uSlU4VldIdEhBR2NNNWYyTGVG?oc=5",
@@ -510,9 +490,9 @@
           "category": "space"
         },
         {
-          "title": "El movimiento que podría dar nuevo ’aire’ a SpaceX en bolsa: entrará al índice Nasdaq-100",
-          "source": "BioBioChile",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNekdOcXFsa1E2di1mWGNWOWpLWlFtd3VqUmM1aWt3aTE1ZlFheGdZTFFoZlVmTTEzQ0R1YmxxVkdUWVVEWWRhb1dySG5KNldvY0lXclFIODZVLVZQQ0hUWDFLYkY3dW9kZ01leURJWjVCN0FPai1odkRRV1hNNjdnV3ZHc3pMRGVDcnRmeWxTRlBERU5hcjdXZzJQUS1DR1lfdlNwTmF1N2dvcGVFeGJLNWdNRU9MdFlmMEdZOWlYNVMwaUFpWWtDUlJ2VUt4a3RuTEh1T0RKX2lnMFRINzBPd09UQTVVUFlEWFE5YktXX0pRdTNhVWpJUUxR?oc=5",
+          "title": "SpaceX entra hoy en el Nasdaq 100 y obliga a comprar a fondos con un patrimonio de 700.000 millones",
+          "source": "Cinco Días",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOU0tLaGpOdzA5TW5iRjZaak9xMUFhQ3RDVmdJM054akV6SWRqN0VHU2JXZXgyVWtxSVAwakhicDlHQlBhZjE2cjlzNTRFd0xtd3pFdXBkUXlsaFBaYno1VzhQeGl6V0dGN3dVM25jeTNpMGRXcVdVWmctSG1wSERJTmFGSF85dVhSZXY3d29uMElBQTEwX19uNmI5N09LOVl2cUI5aHlNTUxwZzVwdE1nSWpjWjZORjBwYXRiRk9wellIcGFHY00xZEZnbV9SSjBSS0tWNkREaDNSdTYxZlZHcGJMbnlyQnlrVk82TmMwUV9IdUU3NUJZ0gGLAkFVX3lxTE1SVG53czBiSGZpa1VfMS1qcnkwZWxhQWhFVlg5OVZVZUtKc1BOVGJRRlYtdmdHdi1OTG5MTlZwaDgyVXJDbGpkZ1BQR1UtWndsX2d4WUppY3o3WGRtak1WdzJHRy1nSERJSDMtMTcxdDFtYjJBOVBFbzk1eEhLUXAwbThuM2w3amhMV09RdXZrZkozbmdUUzBIOEg2dnA5em8wV2JUWVpfUGU4UmFfUWp6UVZJZGJMWnd5ZkxVNmRRZHgwazRjSk9ralRlaFFucGs3UjI4b3VzOVdSVlZLUmFvMUE5UXJuZTg4SnQ2UTNQdFc4WkJzTmV3RU9idU1KQzUzeHcxdmV2VmxoZw?oc=5",
           "ts": 1783321200000,
           "sentiment": 0.0,
           "tickers": [
@@ -551,6 +531,38 @@
             {
               "sym": "MSFT",
               "name": "Microsoft",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "space"
+        },
+        {
+          "title": "Falling SpaceX and Tesla Stocks Erase Elon Musk’s Trillionaire Status Weeks After Historic Public Market Debut",
+          "source": "TIKR.com",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZEZqMmI1RW9rWHFqZUhlMzloV3JWM1QwWTJOS0pjRGZQRm1Tc191ZVBUMGxmVkEtdUk3TmNGVXVKZDk4NkxScmVuenc2TF81UmVEeW5qU0lNa3BWYm83LTRCMklnMVZrMXQxZW12WWRSb0ItY0pGMm1MUUk2aFRpVU9mU2Y1ZnE1YXlBemNlYUxxMU4zZ2x2VG5fUjRKbzZsNUlQbWYwNmItLURsSzZaMVFJcmdHN0FiRk5INHRRbm1BdlVmczRrV3NJU0VEVHhuYS11QklNYklTZzg?oc=5",
+          "ts": 1782457200000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "TSLA",
+              "name": "Tesla",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "space"
+        },
+        {
+          "title": "SpaceX anuncia su primera emisión de bonos tras caer un 10% en Wall Street",
+          "source": "Diario Socialista",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTERTTDlTMVAweVF0YWxyUWEybGlBSVdPZDlWYWJwUnkyeVJiZG1BTGZOaHRNSkpQM0RyZkRFc2hEdkxMTl9DblhpRWEtMG5kUXcwSkJFeE5OdHhCMnlCaG9FUDJiQnl3bEh1SFBVY1hKQUQyWXZPZ2h3VzdlRk9NUm80U2dpQ0R1MWtqSDhTSXQ2VzdhU3pSTTZwVThxcFRIbnQxNjJ5WXAxWGhiRTgxSGdja1Y?oc=5",
+          "ts": 1782198000000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
               "pct": 0.4,
               "dir": 1
             }
@@ -905,7 +917,7 @@
           "title": "El petróleo superó los 90 dólares y alcanzó el precio más alto en un mes, mientras la guerra en Irán mantiene en vilo a los mercados",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNkROSlc2SmloYVlDUGcwTkxuS1B4Y1VzeG1qSUI0U25oOXZzRjA4LUVodHZBVjBHejBJb0ZBRG10QUpfT1FIb1VqTjdvY2U5UVEwR1QyOHJFZnlNSEp3YVdCc1Q1c2wyVmVDbGx0ckF1TkxHM2dkVW9HNkloeVRMU21td0NXMjRjX2R5R1J0OFItQU5vMUhXTEcydUJsR2JTT2Fubkg1RmRaQ25KdGFlQ0xCT0Nmb1pWUVd3WnBQX1N6VWRoN1lLVjVjZlRqVEpmcnhiZ3JkMklwZ0podE1GMXJTNm1odWVDR2RJVzlTNUlxMUlzUXpKWGFhdDl0MWhUS3djVW41ckcxUdIBpAJBVV95cUxPcmp3TVFUSERsNXRManBaa2p1MVhfSzg2eHVCT1JQLS1FQWtOWWUwVGpNbURvSzdsRk9BU3YxVUNhRnVKVlFVSVZFdTRITUc4ZEYxUlBLT1o4Vlh4WUNWMExzU3BYNWotVGNOa3REZWdDeC1iMFhOcFdKa2N0OEo3ZkJjNllMTFR3RDBiSEhEbGNkWG1IQ1ladF96SGdGcjRHMzVjcWJUb21TYVA1S1MxaEcwZjR0Y3dnTXMyMFVvRmtNQ1lFQjJGZGQ0dmprbXFwQmxvNmVNTGJxbjRyM1V2UnIxMU1GSW0yMV9aVkJmOXdBdExPM2JPMTY1aGZfYmVrZjBtemtiMWZkRDQ1NkxKT1VpX1h1ZVpiazZHYkxOUzZEbFI1?oc=5",
-          "ts": 1784528541000,
+          "ts": 1784539380000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -994,7 +1006,7 @@
         {
           "title": "Del conflicto geopolítico al regreso de los fundamentales: “El mercado aprende rápido a leer la retóri...",
           "source": "Estrategias de Inversión",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUTB1OWZDek5YZExRaTAtOFlzQlRSclRRMGVXYTUyQk04ZVdkbkVqZ1kwR2N1SERUX0lQQ21wVW5vQzIzYXlScEh2NkJ3emRBYVFNR0xwc3dHck1HR2JhOWktNDRYTTFhWjdTTUNOdzE0OGNiem1Qd2xXWlBkVjc2N3JWTF8yMTFlRjRtSFV1aHQ3SGtLSkpSbjlqUDhydXdDd1hwUkk0RFItUUI5LWfSAa4BQVVfeXFMUFEwdTlmQ3pOWGRMUWkwLThZc0JUUnJUUTBlV2E1MkJNOGVXZG5FamdZMEdjdUhEVF9JUENtcFVub0MyM2F5UnBIdjZCd3pkQWFRTUdMcHN3R3JNR0diYTlpLTQ0WE0xYVo3U01DTncxNDhjYnptUHdsV1pQZFY3NjdyVkxfMjExZUY0bUhVdWh0N0hrS0pKUm45alA4cnV3Q3dYcFJJNERSLVFCOS1n?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUDNlZmxXQzR3S3BRT0ZTalM5S204Z0ZNMkwwMGJzZjJYYmJBaHFqN213MkdpR2M1QjVRazZiblRiSEdwS3FuM3BZVmwydmJuVmJhTXpuS3B1Rkw3VEFSYzJkOGFWcGU4MEVDNkJlMEFSeVVNM1BmcWdrQUZWOXplRFNEM0YxWkRMcnByb3V3bGhyTGF4aVJiYXhOT2hqbmE2Ylhtb01nYklTSXU4X01nMTRB0gGuAUFVX3lxTFBRMHU5ZkN6TlhkTFFpMC04WXNCVFJyVFEwZVdhNTJCTThlV2RuRWpnWTBHY3VIRFRfSVBDbXBVbm9DMjNheVJwSHY2Qnd6ZEFhUU1HTHBzd0dyTUdHYmE5aS00NFhNMWFaN1NNQ053MTQ4Y2J6bVB3bFdaUGRWNzY3clZMXzIxMWVGNG1IVXVodDdIa0tKSlJuOWpQOHJ1d0N3WHBSSTREUi1RQjktZw?oc=5",
           "ts": 1784716080000,
           "sentiment": -0.5,
           "tickers": [
@@ -1260,6 +1272,34 @@
       "label": "Macro / Bolsa",
       "items": [
         {
+          "title": "Wall Street cierra dispar, entre caída del petróleo y debilidad del sector de semiconductores",
+          "source": "CR Hoy",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdERIN0k2dEpTakxIZzQzb0pEUTNaSFVVVmJsM1ZTdHgxWm41NU04VHRwSFltNm1WX3NYdGR2Ri04NkkyOGp1cTFKSG0wZk95eXg0MFh3TDYzOXF2aFd2ZjU1TXdFTUxWNWFTbnlaSVR0UGZLYTlEWWV0N2s1aEhiUlRRQm1ndXRnTTVHYmo0SmctbHk3WUQ2RkhBcTJPZXk1czVmTTc1WTg2Sl9oUFc5ejZ5dG5VQTZPUVlhTw?oc=5",
+          "ts": 1784930200000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -2.0,
+              "dir": -1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": -1.7,
+              "dir": -1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": -1.1,
+              "dir": -1
+            }
+          ],
+          "category": "macro"
+        },
+        {
           "title": "¿Y si la Fed compra acciones? El escenario que abre el creciente peso de Wall Street",
           "source": "Bloomberg Línea",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSl9TRmZfZWlGZ2xCakpSbXYtNjJ6N3Q0ZGtfNGgyMkNXM3dTSFVuc3dYZEMzZVAtTWJTMDJMWHM1OHJMcFlPQksyTzJvQ25BWDhLT3V4Y2ItNkhTbk9TOFlvV0x1S01uRVowNTRUSHQyNExkamJxM2VOZHFoZW5aU0p4UHY4QWMxMzY4d0VfTVpKcktDOXAwUkRMeXQtUlVvaVBjV2RpLXhhZWhuSUktU01nRTZlcFViXzRnWXkwOE7SAdQBQVVfeXFMTl9mWHl2ZFpyYndzOHFiR2Y2WHNxejlkODNWUnZ2ZWE1ZWFJN09mMUtnMHBHaTV4TTNwSXZ0a3FHLVE3dWRnRzlZYVdMdHFjb2ZTZWJGM0c4RWpwazU3b2J0OEY1QzdYazlabXlQWEUzemdmT2lKdWU5cW5uN3B6WGJySzkwemFaSllFZ0d5VzI5M1Y5bW5fZXJoVVg3VkpWNE8wZTFqYkRhWmo5Qk9XQ2M4MEUtX2sxZ3BJbWM1Z3RZTTlTYWkyd2NsNXE4SlFkUDF2S1M?oc=5",
@@ -1438,22 +1478,6 @@
             }
           ],
           "category": "macro"
-        },
-        {
-          "title": "Las bolsas de Estados Unidos cierran mixtas por la presión de las acciones ligadas a la inteligencia artificial",
-          "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPekZ4YXA2OTNoRThqeDJKT1p4dlEwd0VFZThZX09VcmlTTERCeFJ4eFNQcjFEakRFZU9JbzJnMkNhcDh2SEt2MkM1ekp2czdsNW50OVdEVGp3UUJDXzNEaWJweXFjekx5a25xN3Z0OFBsSk5jYjRGSHoyYk93bU9yVTZCRlhWQ1V5TGZyVDdYeUJac3BsOTRmSGFxZWpudTY0VTBrMlZxZjdqeEIzVm80M1lzdU42anhwX0JyUE5RSENBLUx3bG4wY01vWVdlZUVWUU5TMWxPeC1vQWN1bWVtMV91ZFlJcWhYWlNwaTJFU09xMmF40gGPAkFVX3lxTE1DV1hsRFd2aFZBS3BpZEhral9qMFlad2tpd1pWV3d4VHZ3UjVudkR1TlZpcU5RT0tQVHdHWmNkMWtQUlNCUHRBVWE4MVRYU1BibUFmWklrRmFDSlRpVDNyUm1jQUYyM09WTE1SVnd2UzdtVlpGWnFaWk1neHUwUDF6Zl9ESThrZEpaVndHblBpY19vSDFib2duRlA5T0taTjJXUldaeXc0MU9KcGRzNEJ6NFZzZVZ1SnZDS05UWlFUR2xVc3FuQU1VRGZ0eVB0RnRGcGltQUFlYjJFNkVsX2Y4ZGtaMjZ3SUJobU9zYVNqYV9qRjZ1dDc3WkJfZlF6SFcwSkxUTmlhdUkyUVZnSDA?oc=5",
-          "ts": 1782457200000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.6,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
         }
       ]
     }
@@ -1462,8 +1486,8 @@
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 9.0,
-      "n": 5
+      "net": 10.2,
+      "n": 6
     },
     {
       "sym": "ITA",
@@ -1474,14 +1498,14 @@
     {
       "sym": "TSLA",
       "name": "Tesla",
-      "net": 4.3,
-      "n": 8
+      "net": 5.6,
+      "n": 9
     },
     {
-      "sym": "QQQ",
-      "name": "Nasdaq 100",
-      "net": 4.1,
-      "n": 17
+      "sym": "AMD",
+      "name": "AMD",
+      "net": 4.8,
+      "n": 3
     },
     {
       "sym": "META",
@@ -1490,39 +1514,33 @@
       "n": 2
     },
     {
-      "sym": "AMD",
-      "name": "AMD",
-      "net": 3.4,
-      "n": 2
+      "sym": "QQQ",
+      "name": "Nasdaq 100",
+      "net": 3.5,
+      "n": 19
     },
     {
-      "sym": "WTI",
-      "name": "Petróleo WTI",
-      "net": 3.4,
-      "n": 24
-    },
-    {
-      "sym": "INTC",
-      "name": "Intel",
-      "net": 2.4,
-      "n": 1
-    },
-    {
-      "sym": "ASTS",
-      "name": "AST SpaceMobile",
-      "net": 1.6,
-      "n": 4
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": -2.0,
+      "n": 3
     },
     {
       "sym": "MSFT",
       "name": "Microsoft",
-      "net": 1.2,
-      "n": 2
+      "net": 1.9,
+      "n": 3
+    },
+    {
+      "sym": "WTI",
+      "name": "Petróleo WTI",
+      "net": 1.4,
+      "n": 25
     },
     {
       "sym": "AAPL",
       "name": "Apple",
-      "net": 1.0,
+      "net": 1.1,
       "n": 3
     },
     {
@@ -1532,16 +1550,16 @@
       "n": 20
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": -0.9,
-      "n": 2
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "net": 0.7,
+      "n": 4
     },
     {
-      "sym": "AMZN",
-      "name": "Amazon",
-      "net": -0.9,
-      "n": 2
+      "sym": "ASTS",
+      "name": "AST SpaceMobile",
+      "net": -0.5,
+      "n": 3
     }
   ],
   "ecuador": [
@@ -1603,6 +1621,14 @@
       "source": "Primicias",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2pFWkpNclZBcDg3bGI3YWRBVHRHWW0xeFM1Z01uakgwTXdNV2dKUGg2RHU2NDRlQnNhQXktRUFjU3oyT3JGdHN2enNNUHdJTV9xaURfVVNxaEV6R2ZsMURWWUdUTUN3eGlVai1TZ0kyQ3RDRktpaVlqOUJjeFUwcnNqUWNoTy1nMW5PZGxRWGtrcVJzZDliMWIwUXFoYVFQalE?oc=5",
       "ts": 1784754289000,
+      "sentiment": 0.0,
+      "tags": []
+    },
+    {
+      "title": "A la Generación Z no le interesa sacar licencia ni comprar un auto: así está cambiando el mercado automotor en Ecuador",
+      "source": "Diario La Hora",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPamFnMGNQdXFmTE94QkpsLWJyb3MzT09xYXg0N1JocW4zeGdXZEVFRFBRTmhZemFybEk3SW1VbUR1R0lfOTQ0OTM3TDZJZUh0enkzRkxfZXUyYXdTVzBVSUVSdXRqaHZsXzJ3RHJ2b21pNWh2UThtYXZ1Z2R5THFxWC1SaE5pTkV5TTFDeDdGRldJZll4bnpmeTVlOTZFZGhPTFZieVhZM2M1QURJalhKM29JUGxpRDZyU1pYNWxIMUlEUlM3b2YtS0lrMDE1OWVxaU9ya1pRdUpuYmZKclNHSWt2a1hxNk9oQi0yX3JDamtHNWJHajl5Tl90U1ZYQ05Q?oc=5",
+      "ts": 1784266200000,
       "sentiment": 0.0,
       "tags": []
     },
@@ -1681,14 +1707,6 @@
       "title": "Entre remates y remesas: la economía del México vs Ecuador",
       "source": "El Economista",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1lxVHVWUlp5Y3RwWW9OdG5PNTFZZVgwZ3UzbEltclJxT2xhLUlMazJyV3FIY21ET19JbzJMVFNJVHJndkpMOWQ4dVRHNzdMRHlOVWFlZ0tjMFIwb3ppcDIxQldLUDJRQUpJRmVJNnVlYzRxZzlWZDBGTTBpY2ZSX0xTeWpOeE5yN2ZZR21McHVKT05oVGJOOGtxVEl1OWRxRllLQllR0gGrAUFVX3lxTE1nTVNFb3RTczVZbTd2Y1ZmYXI1eHZYRi1DcWhSNXVxT1FPbjd5ZWhfWWRRMEhyQTBGdlpvU19oc2hjNmw2SUdyelAxMnpTTXBSVTNkQS11THpITkwtR2pzWlo0ZnpBYVpLbGFocUNEaV95NTgzRXdVc056U2MydXlocGtEMXM0bE1NZ1lVeFdxbEprSWd5czVoR0IwV25HSl9YczdkQngwVHE0UQ?oc=5",
-      "ts": 1782975600000,
-      "sentiment": 0.0,
-      "tags": []
-    },
-    {
-      "title": "Mercado de valores: la reforma que puede impulsar la inversión y el empleo en Ecuador",
-      "source": "Diario La Hora",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdU04S0NFT0dfbFRGbmdScW9iSnREMFF3em40Szk2Mm9WR0VESUk1OGdNNGJVTnRWV25ieXJQaURvRkNmQ05fVnpEcl9vTmp0X01paUpnY3FzbkhVQXRiVWVPMFJ0azZRdEZacUE4WjVpOGhBZHRoOGRIdDBzdkN6OWlQRkNPbTRJWTdJS3FWRl9jT21NUGg2UnZRZW9ZSGlNRWYtMjN2Q3VNTmNySmlScFJpaWxkeVIwRkFnc0k3VHg1VHpHVHc4ODE0VC1KeGhYdElEbQ?oc=5",
       "ts": 1782975600000,
       "sentiment": 0.0,
       "tags": []

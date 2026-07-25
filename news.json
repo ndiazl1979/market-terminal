@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T16:15:07.515656+00:00",
+  "updated": "2026-07-25T17:17:35.784968+00:00",
   "categories": [
     {
       "key": "tech",
@@ -137,13 +137,13 @@
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 1.4,
+              "pct": 1.1,
               "dir": 1
             },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 1.1,
+              "pct": 0.9,
               "dir": 1
             }
           ],
@@ -159,7 +159,7 @@
             {
               "sym": "META",
               "name": "Meta",
-              "pct": 2.0,
+              "pct": 1.7,
               "dir": 1
             }
           ],
@@ -175,7 +175,7 @@
             {
               "sym": "META",
               "name": "Meta",
-              "pct": 2.0,
+              "pct": 1.7,
               "dir": 1
             }
           ],
@@ -226,6 +226,22 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "Elon Musk anuncia que Grok adaptará La Odisea con una versión “históricamente precisa” antes de fin de año",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeHphQjBFTkV0WWtNdkZSUmVONUJXdFpjRzJDVHQzTEpHRFh5bWd2OXdCZ2txQ0Z4VFVMaDJIVnNWbEljc1lycC1JMEtXbkM2QklYa0xJekRXdTNRdzRhNlpvSS1xcVRld2twa3NkclRaRG9xaXB5X1RSUkdYSTZ5VDdTMHFRUnhrYVVkbDRTcG4wZUVXRW53cmpmMHFFNEpJUl94OWVsX3A2T1h4czZXeXNXMWFOWllsaTlRdk1OblI3cV9sN1dOY2FrVWNoLTNrc3BROUZhMDZiYWxFdzJF0gH6AUFVX3lxTE5FeEVOVVRsanpzUTJMYzZ1bXMzMDhKbE10NWdzNnNFWUo5ZmpPcF9XMXRmbklpc0tVYjFUM2hNZTBsaDZxdXVNY0ZDS3RSeGhtRzdQdEZWMU1HOWJZYy14UklmQXMwOE1IcnBlZXRIMTJZQlg1TVRxSU5ZLWhRZHBWLWRqT1pBc2JrMW1WNFdvY1VSWE9OSFlkeVQzVUZuZm8xQkhULXhoQ3R0VGFKM2YtTWlwVF9MTEQyTzMwSTVqek9HSTB3aC1xeWtXbUtTb244bE9wSG1UcFBEdFNTc3ZPSDBJUF9QbmN0aHJYZnV0eHlWaElOS0otVGc?oc=5",
+          "ts": 1784999080000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "TSLA",
+              "name": "Tesla",
+              "pct": 1.9,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Nvidia vs. AMD: dos apuestas para la próxima batalla de la inteligencia artificial",
           "source": "Bloomberg Línea",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQTFESHd3WC16bkhPek9BZ1hxb2t0WW1jall3SVZoam1pc3NjT0JOUzR2LUx0UjFsV3ZXUVNPcXN1aGNyRHMwT05kTDJkQ1hvZ1h6UzNYeDUzQkJsTnYxRHMzaUVQZzdxbTNNWWIteENoTk15Y29rUkpXbkhGalg4N0s0a3c4OW9CNmFXWlk0Zkc0R1djV2VpRXVzTmE3cnQ3VVZmeXZrcC1HREk2WC1ROTR1TGdEUmdacjRrZ1JB0gHSAUFVX3lxTFBCQjNHc082S19NR25qMThmS0V1Q3BTLUdUanA2b3hRR010X1R3T1lkaXVCSUExSHBobzA0X0tKN1VPVEhfalpUY2NIVllTQmpwMFU2TTVncjZmZGVLWEFHYVVQNnJvbFZHaUFjeDd6eEsxRmZTaFVYMFVvSTBHU3RGX0NPUWd0S3RwR0dJbDQ3LXF5aXdoWi16Ykp6UkdfMWR0el9QTFJkdUpHbC1aRjB2ek16V0xTTFpIVC00UkJNRDZCd3VrNk5GYlJzM01tLTBwZw?oc=5",
@@ -235,13 +251,13 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             },
             {
               "sym": "AMD",
               "name": "AMD",
-              "pct": 1.7,
+              "pct": 1.4,
               "dir": 1
             }
           ],
@@ -350,48 +366,50 @@
           "category": "semis"
         },
         {
-          "title": "Amazon cierra su laboratorio AGI tras 18 meses: lecciones para founders",
-          "source": "El Ecosistema Startup",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObElFWjhhSUZLaEh4QjZ0RE5PaXpRM3YyVXJOeG9aYnhpY3psNnZmSUVITzRPa2JxZ3lXRnRvemx6QUtmTHZmdFdEb1k5aDRiWUVrYkNUanR2V2plU0ZWODJnNGNjNlNvR1ZvU0RZVlRPZFhRak9tREdoR3FxSnl0NmFKNWVuZUNyNnFYTVZ1UEJmXzcyQWlLRVg2aVNjX0NsaDlz?oc=5",
-          "ts": 1784919009000,
-          "sentiment": 0.0,
+          "title": "Intel sube tras superar las expectativas gracias al impulso de la inteligencia artificial",
+          "source": "mx.advfn.com",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYTNpR21EWHpmeVZMNGZCZ0VRX1RpSWVMRUV4U2lwWHFJcHVNZ1RJWnVlWU40b1ZJSUxLQVFwNE14dmJfaWJpeTJjbXRDbGJQNHZBUVpQSnp1blgtdzk5X0JvQjRYd29XWW1hQjZFRmNZMzFuRm5ZQnVzZmZMcTRvWXYyUzdMRVMtaUlGa3pORThlR2dDa0FsOXdzMXpfTzFwNUZkNXJycTZ0NHpjRjRjRmE0ckY4VFRHcUU4TUV5VVA1Z3FkOTM2Y1lINlotX3EtSkM5cHpqazhFM1E?oc=5",
+          "ts": 1784890150000,
+          "sentiment": 0.5,
           "tickers": [
             {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": 0.8,
+              "sym": "INTC",
+              "name": "Intel",
+              "pct": 2.0,
+              "dir": 1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.4,
               "dir": 1
             }
           ],
           "category": "semis"
         },
         {
-          "title": "Amazon cierra su laboratorio de AGI y profundiza los despidos en inteligencia artificial",
+          "title": "Nvidia, Meta y Microsoft piden a Washington proteger la inteligencia artificial de código abierto",
           "source": "DiarioBitcoin",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaXBXVVZFYmoyNS1XNE00UEJMcWlLRnZrdEZJTGItbno3TmNhUUkxTm13TDFOYWdKbTJPdlBlNTVYR1VzbnNVZWhTLWkwTERpYWMzOGdtb3hSX1RhdDEtTDdzNTk0MmY1OURLWVRjWERLZF9fak05dGU1MG1ycGVtLVZXakhNR0ZiSjhWYjRIRklpS0hTdXVFQmxESjQxWGoxTjVad0MybzZSamZDU3I4Yk5TOHM2Z3ZUcEZkSGk2MW5kX1J0R2JvSGQzSDE3UVk?oc=5",
-          "ts": 1784916639000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": -1.7,
-              "dir": -1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Google desarrolla el chip Frozen v2 para mejorar Gemini",
-          "source": "Inspenet",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvQjdrTEViWXg2TVJITGsydkRpbWhBR2NrMG1XVlBxT2E5NVV1RlJIS3NramlzRjZ0U0x4bktyUk9MaGRUaVRMUlZyQ2pyS3J6YkxtT05lWi04QzZBZWVqTTB1WjdsMl9Ec3o2TlphTGJEWERPYW5RbmJB?oc=5",
-          "ts": 1784901600000,
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYS1OUFpXTlQ2NWMxbElyVlVRb01RdDNQWTZ3TW0yYk5NZmdJNld0bXBxTnh5R0FaRm1jT0o1QTRjbXQzZzVuR05ZU09KaGxNcEFjU3RhRzVzb2RnZ2RUeFRidUx2UWRCM3hxdktLZ2I0elhXVXpzNDV4YndpcW44ZEdkd2J5dTBUR1BsOHNRTkdOcEFlV2VVYnlXQjBobURjbzl1WGtkbXBYWXBURF9pYzh5NWdIWU9mVEFUNVpoU2VuMjBkVXJxTHhBMlJqUV9NdGxGbE1xWkdjdw?oc=5",
+          "ts": 1784876400000,
           "sentiment": 0.0,
           "tickers": [
             {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 0.7,
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.3,
+              "dir": 1
+            },
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": 0.8,
+              "dir": 1
+            },
+            {
+              "sym": "MSFT",
+              "name": "Microsoft",
+              "pct": 0.6,
               "dir": 1
             }
           ],
@@ -1349,7 +1367,7 @@
         },
         {
           "title": "Bolsa mexicana y Wall Street suben tras dato de inflación en EU",
-          "source": "MILENIO",
+          "source": "Milenio",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLWlxX294T3NpZjRUZlJPV255aE9KejFxVzJtVFRCb2F4S3gyMS1majVERWJveW95ZHlVaDdHV0RjVmllN2RJZE9yQ2xHa0hRYmV1YlpoZHNzMEJiNE1xcElZSC1jcWdGa2cwcGpGWUt4djA5RWdlTWQ1eE5wSXdhd3RuY0ZvQTN5OTMzcXhWX2ZfbFB0NmF6bl930gGaAUFVX3lxTE9LS0VMUDNNSDBIeEFtdHo0OHR0STJGNVlXODZLd21WWGQwWUk3WHNfTnhTSWN1ZUpJQ2o4ZlRYZ0hPREpiNGRHdExfVE85OUNLOHI5bmI1bVItel9MMzdmLWxLYXhGcGlqMWdnTEdXbUluWWRKTXZvRF9kUUJTX0NlOTNtcUpQN0cwOTRzZ3c1X1JMZXJMbkhCU3c?oc=5",
           "ts": 1784012400000,
           "sentiment": 0.5,
@@ -1474,7 +1492,7 @@
     {
       "sym": "AMD",
       "name": "AMD",
-      "net": 7.9,
+      "net": 7.6,
       "n": 4
     },
     {
@@ -1484,40 +1502,52 @@
       "n": 23
     },
     {
-      "sym": "QQQ",
-      "name": "Nasdaq 100",
-      "net": 5.3,
-      "n": 19
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 5.8,
+      "n": 4
     },
     {
       "sym": "META",
       "name": "Meta",
-      "net": 5.2,
-      "n": 3
-    },
-    {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": 4.8,
-      "n": 3
-    },
-    {
-      "sym": "AAPL",
-      "name": "Apple",
-      "net": 2.5,
+      "net": 5.4,
       "n": 4
+    },
+    {
+      "sym": "QQQ",
+      "name": "Nasdaq 100",
+      "net": 5.1,
+      "n": 19
     },
     {
       "sym": "TSLA",
       "name": "Tesla",
-      "net": 2.2,
-      "n": 5
+      "net": 4.1,
+      "n": 6
     },
     {
       "sym": "MSFT",
       "name": "Microsoft",
+      "net": 2.6,
+      "n": 3
+    },
+    {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 2.3,
+      "n": 7
+    },
+    {
+      "sym": "AAPL",
+      "name": "Apple",
+      "net": 2.2,
+      "n": 4
+    },
+    {
+      "sym": "INTC",
+      "name": "Intel",
       "net": 2.0,
-      "n": 2
+      "n": 1
     },
     {
       "sym": "WTI",
@@ -1532,27 +1562,15 @@
       "n": 19
     },
     {
+      "sym": "AMZN",
+      "name": "Amazon",
+      "net": 1.0,
+      "n": 1
+    },
+    {
       "sym": "ASTS",
       "name": "AST SpaceMobile",
       "net": -1.0,
-      "n": 3
-    },
-    {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 0.9,
-      "n": 6
-    },
-    {
-      "sym": "AMZN",
-      "name": "Amazon",
-      "net": 0.1,
-      "n": 3
-    },
-    {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": -0.1,
       "n": 3
     }
   ],

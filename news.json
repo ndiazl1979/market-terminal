@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T17:17:35.784968+00:00",
+  "updated": "2026-07-25T18:11:22.547191+00:00",
   "categories": [
     {
       "key": "tech",
@@ -23,6 +23,22 @@
               "name": "Amazon",
               "pct": 1.0,
               "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "SpaceX habría perdido la oportunidad de comprar Tesla tras la caída de sus acciones",
+          "source": "DiarioBitcoin",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGdQTW1nYk10RDBFVkpZMHRBMV9ackZXblotdkQwendBekRvbC1KU0lWYkNGeGticFpENWl1Q18tUzJVd3VfdkQ0VVVaWjBEeXUzZ3E4MHZ5UWdaXzc4VmthTGpSTk9zbW55WkpCUjlCUGplNnRfSWNZUlVlWlRZcVlXN1VIWWRpblRST0l4Ylo3azRhbmpfWmtLUkRQRGs2cndHaktiUzgtVmQ5RHYyNFpQc3FrLWlVaEgwakV4bEo?oc=5",
+          "ts": 1784981151000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "TSLA",
+              "name": "Tesla",
+              "pct": -3.2,
+              "dir": -1
             }
           ],
           "category": "tech"
@@ -150,22 +166,6 @@
           "category": "tech"
         },
         {
-          "title": "Acciones de Lightspeed suben por integración con Meta Ads",
-          "source": "Investing.com México",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZGpIZGFKaE10dDhuVDZXQW9DeDBrNDY0UHVtU0VNckc4WkJqOGtrN2NIMktVN05MWjhiRjFXRnh2UmFyX002cTZDcGtHTW8xcEFBREJlbDY3UTJ6RFA1eDAxcTQwS2h5dTJYM2RZUXpCN1NpVEVycjNrWUx1bU1fUGJvZ2ZXMF9OQ1UyOUJBRDRhRFE5OF9Ka3hxcW1CMFA4SWd2dXhIMHRUa1JiQjcwM0JPNldPQVJSZlE?oc=5",
-          "ts": 1784910090000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 1.7,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
           "title": "Las acciones de Lightspeed suben tras el lanzamiento de integración con Meta",
           "source": "Investing.com España",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYzkxR1FQSGN2Y05mY1JROE1zcEJ1ZGtRa0tYZUZNYTUwYVpQZWRFakl2TldkZUN1Y0Z4c2t6N242UGh3Umk4SF9rWmRISXBwbzc0c2ZTeDE4QVoza3ZmV0hnYmU5TXI2MFJfTWR3Sm9PdUlWSmNzQ1dOMFhYMnpZUG45OTFUOHBqMnYtYTlPM0RrQ0VXT21HQkRLNjVvNVMzeDc2VnBrRWVhQ3EyMlpGZTRWeEFELTdCOXVjNmxFTWRiWjl2bXFtbjBmUEpwUWRoZi1j?oc=5",
@@ -226,10 +226,26 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "Claude Code estrena una función que te ayuda a desarrollar mejores apps para iPhone",
+          "source": "Hipertextual",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc1lEd0E4YTIzb0dNNEhyY0k3Mzk0TXV5Q3ZYckUyMTdYLVZybDFEd1BISkJVZERqWUdhTEh3a3VXNGVpTmM4MzY1VjJWLUhSRElDeHRiQ3RzUkthMUo3YTJJZ3pvU1V6Y1J5NkR3dzF4YUdBVU80c2V3OUxaNU0xeTlfTWo0aWs?oc=5",
+          "ts": 1785002400000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Elon Musk anuncia que Grok adaptará La Odisea con una versión “históricamente precisa” antes de fin de año",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeHphQjBFTkV0WWtNdkZSUmVONUJXdFpjRzJDVHQzTEpHRFh5bWd2OXdCZ2txQ0Z4VFVMaDJIVnNWbEljc1lycC1JMEtXbkM2QklYa0xJekRXdTNRdzRhNlpvSS1xcVRld2twa3NkclRaRG9xaXB5X1RSUkdYSTZ5VDdTMHFRUnhrYVVkbDRTcG4wZUVXRW53cmpmMHFFNEpJUl94OWVsX3A2T1h4czZXeXNXMWFOWllsaTlRdk1OblI3cV9sN1dOY2FrVWNoLTNrc3BROUZhMDZiYWxFdzJF0gH6AUFVX3lxTE5FeEVOVVRsanpzUTJMYzZ1bXMzMDhKbE10NWdzNnNFWUo5ZmpPcF9XMXRmbklpc0tVYjFUM2hNZTBsaDZxdXVNY0ZDS3RSeGhtRzdQdEZWMU1HOWJZYy14UklmQXMwOE1IcnBlZXRIMTJZQlg1TVRxSU5ZLWhRZHBWLWRqT1pBc2JrMW1WNFdvY1VSWE9OSFlkeVQzVUZuZm8xQkhULXhoQ3R0VGFKM2YtTWlwVF9MTEQyTzMwSTVqek9HSTB3aC1xeWtXbUtTb244bE9wSG1UcFBEdFNTc3ZPSDBJUF9QbmN0aHJYZnV0eHlWaElOS0otVGc?oc=5",
-          "ts": 1784999080000,
+          "ts": 1784998966000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -245,6 +261,28 @@
           "title": "Nvidia vs. AMD: dos apuestas para la próxima batalla de la inteligencia artificial",
           "source": "Bloomberg Línea",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQTFESHd3WC16bkhPek9BZ1hxb2t0WW1jall3SVZoam1pc3NjT0JOUzR2LUx0UjFsV3ZXUVNPcXN1aGNyRHMwT05kTDJkQ1hvZ1h6UzNYeDUzQkJsTnYxRHMzaUVQZzdxbTNNWWIteENoTk15Y29rUkpXbkhGalg4N0s0a3c4OW9CNmFXWlk0Zkc0R1djV2VpRXVzTmE3cnQ3VVZmeXZrcC1HREk2WC1ROTR1TGdEUmdacjRrZ1JB0gHSAUFVX3lxTFBCQjNHc082S19NR25qMThmS0V1Q3BTLUdUanA2b3hRR010X1R3T1lkaXVCSUExSHBobzA0X0tKN1VPVEhfalpUY2NIVllTQmpwMFU2TTVncjZmZGVLWEFHYVVQNnJvbFZHaUFjeDd6eEsxRmZTaFVYMFVvSTBHU3RGX0NPUWd0S3RwR0dJbDQ3LXF5aXdoWi16Ykp6UkdfMWR0el9QTFJkdUpHbC1aRjB2ek16V0xTTFpIVC00UkJNRDZCd3VrNk5GYlJzM01tLTBwZw?oc=5",
+          "ts": 1784977200000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.5,
+              "dir": 1
+            },
+            {
+              "sym": "AMD",
+              "name": "AMD",
+              "pct": 1.4,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Nvidia vs. AMD: la batalla por la IA agéntica y el futuro de los centros de datos",
+          "source": "Rosario Finanzas",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORkVkRm5mYzFwMTB5Z01CWEhZYVFGalEzVWkxekRyRUU3Tng3UGl0S21SQU93QU9VUUlDR1NKZFhWUUxubFZPbHlQMHN5RURybHFpZUQtVURFNjVUUUFvRkY4a3VkQ2pOc2NrWnBEYVRmbVZKVnZiZ1lySG5FRVlDM3Nrc3BkZVQ4Vnd2V29WM2o3VXBTLUc4X3dzQmZoa09CTXN5Qk94ZEZDTC1hU1VyYklIb3c2QQ?oc=5",
           "ts": 1784977200000,
           "sentiment": 0.0,
           "tickers": [
@@ -364,56 +402,6 @@
             }
           ],
           "category": "semis"
-        },
-        {
-          "title": "Intel sube tras superar las expectativas gracias al impulso de la inteligencia artificial",
-          "source": "mx.advfn.com",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYTNpR21EWHpmeVZMNGZCZ0VRX1RpSWVMRUV4U2lwWHFJcHVNZ1RJWnVlWU40b1ZJSUxLQVFwNE14dmJfaWJpeTJjbXRDbGJQNHZBUVpQSnp1blgtdzk5X0JvQjRYd29XWW1hQjZFRmNZMzFuRm5ZQnVzZmZMcTRvWXYyUzdMRVMtaUlGa3pORThlR2dDa0FsOXdzMXpfTzFwNUZkNXJycTZ0NHpjRjRjRmE0ckY4VFRHcUU4TUV5VVA1Z3FkOTM2Y1lINlotX3EtSkM5cHpqazhFM1E?oc=5",
-          "ts": 1784890150000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "INTC",
-              "name": "Intel",
-              "pct": 2.0,
-              "dir": 1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.4,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Nvidia, Meta y Microsoft piden a Washington proteger la inteligencia artificial de código abierto",
-          "source": "DiarioBitcoin",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYS1OUFpXTlQ2NWMxbElyVlVRb01RdDNQWTZ3TW0yYk5NZmdJNld0bXBxTnh5R0FaRm1jT0o1QTRjbXQzZzVuR05ZU09KaGxNcEFjU3RhRzVzb2RnZ2RUeFRidUx2UWRCM3hxdktLZ2I0elhXVXpzNDV4YndpcW44ZEdkd2J5dTBUR1BsOHNRTkdOcEFlV2VVYnlXQjBobURjbzl1WGtkbXBYWXBURF9pYzh5NWdIWU9mVEFUNVpoU2VuMjBkVXJxTHhBMlJqUV9NdGxGbE1xWkdjdw?oc=5",
-          "ts": 1784876400000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.3,
-              "dir": 1
-            },
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 0.8,
-              "dir": 1
-            },
-            {
-              "sym": "MSFT",
-              "name": "Microsoft",
-              "pct": 0.6,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
         }
       ]
     },
@@ -431,7 +419,7 @@
             {
               "sym": "ASTS",
               "name": "AST SpaceMobile",
-              "pct": -5.2,
+              "pct": -4.1,
               "dir": -1
             }
           ],
@@ -482,38 +470,6 @@
               "pct": 2.1,
               "dir": 1
             },
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "space"
-        },
-        {
-          "title": "SpaceX fija precio de acción para su estreno en bolsa: será la séptima mayor empresa de EE.UU. y más valiosa que Tesla",
-          "source": "MSN",
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxORWJEcVhPeDdxZjZiVUtKRUM2RmpKZ2xMWFBHWldkVkh6WW0yYW80MnFTbzJFLXI0Y1hVdUg1YnFYRVVRSXp5WGc5SjdxWUlqQmNPZllSUTBYVF9nQXNQQ253aURhbkhHSS1UT2hzUWwxN2RmS05qWXhjRzJXOF9OZ040aVI0d29DbklPZ28yMGRwY0pSdkw3dThXUEVsM3Y4ekg1SG9Gd0Q5R1FPcEctYmkyQzlTTGZybk1ZWVg5M000VjdrbVZDZUJhZnFzSWpZaXNnb2JFdXhja0gzb0xJZDlFMDF1eWVoUnBvREd5NUFRajJjUnQtQUZaVkJrd0lOaUhfSXJweXFqYUZuZjBsQXhTMUJyV1N6?oc=5",
-          "ts": 1784249239000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSLA",
-              "name": "Tesla",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "space"
-        },
-        {
-          "title": "El movimiento que podría dar nuevo ’aire’ a SpaceX en bolsa: entrará al índice Nasdaq-100",
-          "source": "BioBioChile",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNekdOcXFsa1E2di1mWGNWOWpLWlFtd3VqUmM1aWt3aTE1ZlFheGdZTFFoZlVmTTEzQ0R1YmxxVkdUWVVEWWRhb1dySG5KNldvY0lXclFIODZVLVZQQ0hUWDFLYkY3dW9kZ01leURJWjVCN0FPai1odkRRV1hNNjdnV3ZHc3pMRGVDcnRmeWxTRlBERU5hcjdXZzJQUS1DR1lfdlNwTmF1N2dvcGVFeGJLNWdNRU9MdFlmMEdZOWlYNVMwaUFpWWtDUlJ2VUt4a3RuTEh1T0RKX2lnMFRINzBPd09UQTVVUFlEWFE5YktXX0pRdTNhVWpJUUxR?oc=5",
-          "ts": 1783321200000,
-          "sentiment": 0.0,
-          "tickers": [
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
@@ -586,6 +542,44 @@
             }
           ],
           "category": "space"
+        },
+        {
+          "title": "La salida a bolsa de SpaceX sacude Wall Street: el efecto dominó que podría impulsar a Nvidia y todo el ecosistema de IA",
+          "source": "Benzinga España",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdjlaVUtiNmNFN0t4TTVWa0hlNWFvSlNRVkFKSHNBdHlmNkc0ZXRfOThkMm13bzNzZGhNbmxmMkhkcDhxN0J6U0NENUJrTUstNUZ3S2JZRjFkTGhLNWxPUDBJX3JHVTF1MUltWGVKVkUybk5oeUJYMmV3RWtyYzVVQzU5TEc2ay1QY2phWmRWdmN5bkQxZWZ6bW5tWWtZZzlzQUJZ?oc=5",
+          "ts": 1782111600000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.0,
+              "dir": 1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "space"
+        },
+        {
+          "title": "Empresas tecnológicas pierden más de 1 billón de dólares en Bolsa de Nueva York",
+          "source": "El Economista",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcjVvSmxUQjczbUo0ZlpUdUZBQ205ajQ1NFZVQ3JmSHFRWVhFcGdLYjlKQ1lXM2FsbVlQLXhVb2hmelFUc3Rka3V2aVFyRnZjNFpWa3hGV3Y3NUhVcnpaTnV4QUg3MjAydVllazE1cGVsNFBJMkpDVno3VnJ4VnBWalVIVXlLYkduT0pTdFZBZnNpR0VnZ1puUlBQSEMtVFU1andVa0JTXzhQQzF6TzZSRGJpd05oNm1aUlpWLXdLTlJwZkXSAcgBQVVfeXFMT0ZzdjhpS2lsWHdDN1pMbEhnZzFGS0V4d3ZtblYzc0hjNE1idjNMbGszQ1RRWU5jM01BSzFVZGVranZNZVlQOWJsYmFCWUU5VnV0SUplcXROYjdaRkkxUGpMUmZ0UHJQZHJrdDdGWEluSEM1cEhDTGZMVmdPYklRQzU1aXY3d2ljYXA1SkxxVHM1d0cwMGVmM1Bfb1ljREN1dkgydGpGY2tfMDUwQXFHOEV3QWRvNmlMaDJQX2lZSVNzQ1BHWXJnLTI?oc=5",
+          "ts": 1782111600000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": -0.7,
+              "dir": -1
+            }
+          ],
+          "category": "space"
         }
       ]
     },
@@ -603,7 +597,7 @@
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": 1.6,
+              "pct": 1.4,
               "dir": 1
             }
           ],
@@ -1492,62 +1486,44 @@
     {
       "sym": "AMD",
       "name": "AMD",
-      "net": 7.6,
-      "n": 4
+      "net": 9.0,
+      "n": 5
     },
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 7.5,
+      "net": 7.3,
       "n": 23
     },
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 5.8,
-      "n": 4
-    },
-    {
-      "sym": "META",
-      "name": "Meta",
-      "net": 5.4,
-      "n": 4
+      "net": 7.0,
+      "n": 5
     },
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 5.1,
-      "n": 19
-    },
-    {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": 4.1,
-      "n": 6
-    },
-    {
-      "sym": "MSFT",
-      "name": "Microsoft",
-      "net": 2.6,
-      "n": 3
-    },
-    {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 2.3,
-      "n": 7
+      "net": 4.4,
+      "n": 20
     },
     {
       "sym": "AAPL",
       "name": "Apple",
-      "net": 2.2,
-      "n": 4
+      "net": 3.0,
+      "n": 5
     },
     {
-      "sym": "INTC",
-      "name": "Intel",
+      "sym": "META",
+      "name": "Meta",
+      "net": 2.9,
+      "n": 2
+    },
+    {
+      "sym": "MSFT",
+      "name": "Microsoft",
       "net": 2.0,
-      "n": 1
+      "n": 2
     },
     {
       "sym": "WTI",
@@ -1568,9 +1544,27 @@
       "n": 1
     },
     {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 0.9,
+      "n": 6
+    },
+    {
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "net": -0.8,
+      "n": 2
+    },
+    {
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": -0.1,
+      "n": 6
+    },
+    {
       "sym": "ASTS",
       "name": "AST SpaceMobile",
-      "net": -1.0,
+      "net": 0.1,
       "n": 3
     }
   ],
@@ -1629,18 +1623,18 @@
       "tags": []
     },
     {
-      "title": "Ecuador anuncia exportación de 30.000 toneladas de arroz a Colombia y reabre un mercado clave",
-      "source": "Primicias",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2pFWkpNclZBcDg3bGI3YWRBVHRHWW0xeFM1Z01uakgwTXdNV2dKUGg2RHU2NDRlQnNhQXktRUFjU3oyT3JGdHN2enNNUHdJTV9xaURfVVNxaEV6R2ZsMURWWUdUTUN3eGlVai1TZ0kyQ3RDRktpaVlqOUJjeFUwcnNqUWNoTy1nMW5PZGxRWGtrcVJzZDliMWIwUXFoYVFQalE?oc=5",
-      "ts": 1784754289000,
+      "title": "La otra cara de los decomisos de leche en Ecuador es un mercado informal que persiste",
+      "source": "expreso.ec",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVW1jWGFncFVtLWU2SDJqT0xTUElYM2RZT2RkRElpTnE5akJ3QUUzM3RpV3ZtX1JSVVZZbUNlbmtlbk14QUtiQ0VkWnZnNGUtY0dYeUVpNzJlc09EbnZDbHdlQkV6Y3Z4VzEtSUlFRl96Y1BwZms1VVpuVXlyQnBtQmNRd3FTSjJvbHc1a0xBOWNYd2t6cjh4a2NHN19XRjBRWFZz?oc=5",
+      "ts": 1784773457000,
       "sentiment": 0.0,
       "tags": []
     },
     {
-      "title": "A la Generación Z no le interesa sacar licencia ni comprar un auto: así está cambiando el mercado automotor en Ecuador",
-      "source": "Diario La Hora",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPamFnMGNQdXFmTE94QkpsLWJyb3MzT09xYXg0N1JocW4zeGdXZEVFRFBRTmhZemFybEk3SW1VbUR1R0lfOTQ0OTM3TDZJZUh0enkzRkxfZXUyYXdTVzBVSUVSdXRqaHZsXzJ3RHJ2b21pNWh2UThtYXZ1Z2R5THFxWC1SaE5pTkV5TTFDeDdGRldJZll4bnpmeTVlOTZFZGhPTFZieVhZM2M1QURJalhKM29JUGxpRDZyU1pYNWxIMUlEUlM3b2YtS0lrMDE1OWVxaU9ya1pRdUpuYmZKclNHSWt2a1hxNk9oQi0yX3JDamtHNWJHajl5Tl90U1ZYQ05Q?oc=5",
-      "ts": 1784271600000,
+      "title": "Ecuador anuncia exportación de 30.000 toneladas de arroz a Colombia y reabre un mercado clave",
+      "source": "Primicias",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2pFWkpNclZBcDg3bGI3YWRBVHRHWW0xeFM1Z01uakgwTXdNV2dKUGg2RHU2NDRlQnNhQXktRUFjU3oyT3JGdHN2enNNUHdJTV9xaURfVVNxaEV6R2ZsMURWWUdUTUN3eGlVai1TZ0kyQ3RDRktpaVlqOUJjeFUwcnNqUWNoTy1nMW5PZGxRWGtrcVJzZDliMWIwUXFoYVFQalE?oc=5",
+      "ts": 1784754289000,
       "sentiment": 0.0,
       "tags": []
     },

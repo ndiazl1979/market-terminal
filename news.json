@@ -1,10 +1,32 @@
 {
-  "updated": "2026-07-26T07:15:43.765865+00:00",
+  "updated": "2026-07-26T09:25:32.823441+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Stephanie Link compra acciones de Nvidia y Micron: la IA sigue viva",
+          "source": "Benzinga España",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTnY2R2dSX0gwVi1FRFpFZTYwRHkyN1c5MFdqV1pLUGsxdU1IeDdXcnBjamRyeWt5cWppY3ZCcUE3Q19aYThXZHZQMXJXb21QZzVUb2pYVTg5aUREbTFvUmZoNGFaT1ozcTk4Wk10ekpTZWFoQUFPa0hmODhvYi1ueTRfd2QyREVyX0VObmpXRXRZOWxzQUpRSkxB?oc=5",
+          "ts": 1785052826000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            },
+            {
+              "sym": "MU",
+              "name": "Micron",
+              "pct": 1.6,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Pronóstico del precio de las acciones de Tesla: los ingresos y beneficios superan las expectativas, ¿por qué cayó el precio de las acciones?",
           "source": "TradingKey",
@@ -196,22 +218,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Las acciones de Tesla se desplomaron, borrando más de 140.000 millones de dólares en capitalización bursátil tras la publicación de sus resultados del segundo trimestre.",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ1J0Tnl0N0ZDVVJLdEV0amVWMUVaX0RMRk1MSFFqZTl1WVBpaUNrdE1yZ19oVU1MU2pBbWtkZGZaMjU1RnhPNi1fTXc1aXZ5YmJDYnJXZU4xQUpkMFpyWUtkb3ZjeW91Zm1zRlp6aVJLMWVPMVE4bDVqdnV1UXFaQXdGZGZ6SjJnOVdjQTZEbm94U2R0WVU1S2ppOVZtVmo0MWY5bGc4Z2x1Tm9PWGI0emZWSmhMaUVLQUpN?oc=5",
-          "ts": 1784907715000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSLA",
-              "name": "Tesla",
-              "pct": 1.3,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -220,12 +226,40 @@
       "label": "Semiconductores / IA",
       "items": [
         {
-          "title": "Debatirán sobre inteligencia artificial y transacciones sin contacto, en encuentro sobre medios de pago",
-          "source": "La Nación",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTEQzRWVucEpVXzVqcFNGU0ZBSmxtUWg0VnF1TG5xeGp6a2FOMEUtQTBGSWxYTHBweGFJV0VzMDhuNGhrbU0tT20weXdxZkhmQ1drQ3FBYlcyb0RQWkNmSkFNbFFvOE1vZzZETDBpTVM2aDFBY0pvUWZRNTNhQ1FUeGJESDZ4QWVKQjJFNFRHWTBydVhDM05yWWs4MHZiellrTzMwam5ETXpMQ2pWR2VCcHJub1FIV3pmbWgwM053RlBwR05ZckFqcGJxd09uRE1uaDYteDVTTFNvMnVEby1Ia2VoMjNpQQ?oc=5",
-          "ts": 1785024288000,
+          "title": "Nvidia y SK Group anuncian una iniciativa de inteligencia artificial de 500.000 millones de dólares.",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUVpMVVhrenpuNm9rdDJWb1NJcjFfcV9IaHUtdFJVWmdJS0xLNGpBY1BDUndDVGR6WmJ2Z3l6TVA1OEJGb2Z6ZUlFWk1sdDl6NVQ3ajQxSEZ1UERQYzYtZGpPdk95aU1qeUhDMlY3UFBBeENEZEN0THloc0pleGY3QnZSSURQZlE?oc=5",
+          "ts": 1785057851000,
           "sentiment": 0.0,
           "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Nvidia y SK Korea anuncian un proyecto de inteligencia artificial valorado en más de 500.000 millones de dólares.",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcmhmaWwxeTNGMmRkYnR6b1BkcTE4M1N3clpWZDNFRWI4WHlpZ1lVSjZKTE1XVTBkR2w1MUUzalNNRi1XUDdSOEs0X2hDYU1qRUxVazdMQ093Y3hLSGVoN1h1aklWQXBZWmp0Tkl5RXdDVEFNNTgzS2xiLTZUWVlnZHdwUnlEemM?oc=5",
+          "ts": 1785033101000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.5,
+              "dir": 1
+            },
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
@@ -262,38 +296,6 @@
               "sym": "TSLA",
               "name": "Tesla",
               "pct": 1.6,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Adiós al contador y secretaria: Facebook Marketplace crea Seller para hacer inventarios y finanzas",
-          "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPemV5bWdJUUZ6cWg4N1lkOFktejcwd0xFOGQ2WUs4RXJVNkt3dlZROGxhRnF4OHFSMGFHejJpcjlJUnZtbklSTkVrWE9lZTZxR2xtczNxR1FJSkszRTZ4MjB2VC1FWW9CV3MwczAyVzgxX0ZhZU52TTdidDdxcGYyVDh3Y1lJT2xjeURua1hBdkFMa3BvNjVSaE1qY3JqNmpKMjF4Y25qLVhfY0NzQkFSeUxMMU5udVJjQVk4cFZKUVdUZjJPTnRVWjlHMU9mckNDWnA0OU930gHwAUFVX3lxTE9XSGxPZjVadHFwNFVRMmlKclB2VW9YNGRYMzlTbUtQeGRuSlJweDFhMm5LWkI4azhZcWhXYWFnMUlZeVQ1eFFyTDJEQ2VpNXJNTEswQ2oxVkpIUlotTXkyWi03cU5ucVliektrVDhNU0ZoTXdFbUtDcG9aRTBybmNDMkNVR0NhZkJJMC1jbS02YWx2T0taZXZxUTlYVkxFR3EtUVY5cV9kZnRydFhsTmFxN1lQMVBidUtreGN4Y3J5cjRpVEdSVnpWVUFiazY3SjFTd2tlY3NudTJWWl9qUGI5eHdSalB6UGoyNURDUGdYNQ?oc=5",
-          "ts": 1785008640000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "WhatsApp ahora ayuda a remodelar tu cocina o investigar un MBA: lo nuevo de Meta AI",
-          "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOektWTkJWYnZveVJRVDJKWHVaanJJZUNacGhwOFJJVS1ULURLSHpPTE00U1N1dVBtdDE2RklJQVFjZ1l0WDZyU1BPc0hBenViWlo3aWFiRjIxRFFJTkV2cVlqV3FadDlNcHE0akNNSG1jOGl4TWpzWmJIeHpkUFljZ0I5alVrTWpQblFDWWtRNTRadmhZTzh6dGM3bUE4UlllckZLdFFSX010WkpDTXo1aW5YSDRMNWpHWHZpTGxqeDc1d9IB3AFBVV95cUxNbUR2WTFTdUFtZDZDeFA2Q1dueFBFU28yWUFrSm9SbWdhZGJhU19zUGV5VjhUNVVyV2hNZFFkdENDQ1JQTlFRa2paNGpOWkxoNkJKYjBSWl84VzNtTGlVNWE2a2Vab1hMbGhDeWxaVjBka1dIekJWUmkwdEVRUFJCX2FidXRsRHhPRVozbm5xZ1dqS1QtLVA3RkcyeHVrOUlNQU5ndEVRWnh2azBzYW5ydVQ5a0UwZkdCNGNINnVuSFZuU3NIRUhFMHhJdWExSEttcUVOSksxdi1Ca0E5?oc=5",
-          "ts": 1785005027000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 1.0,
               "dir": 1
             }
           ],
@@ -380,6 +382,28 @@
               "sym": "AMD",
               "name": "AMD",
               "pct": 1.2,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Intel sube tras superar las expectativas gracias al impulso de la inteligencia artificial",
+          "source": "mx.advfn.com",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYTNpR21EWHpmeVZMNGZCZ0VRX1RpSWVMRUV4U2lwWHFJcHVNZ1RJWnVlWU40b1ZJSUxLQVFwNE14dmJfaWJpeTJjbXRDbGJQNHZBUVpQSnp1blgtdzk5X0JvQjRYd29XWW1hQjZFRmNZMzFuRm5ZQnVzZmZMcTRvWXYyUzdMRVMtaUlGa3pORThlR2dDa0FsOXdzMXpfTzFwNUZkNXJycTZ0NHpjRjRjRmE0ckY4VFRHcUU4TUV5VVA1Z3FkOTM2Y1lINlotX3EtSkM5cHpqazhFM1E?oc=5",
+          "ts": 1784890150000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "INTC",
+              "name": "Intel",
+              "pct": 2.0,
+              "dir": 1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.4,
               "dir": 1
             }
           ],
@@ -772,22 +796,6 @@
       "label": "Petróleo / Energía",
       "items": [
         {
-          "title": "Petróleo retrocede tras superar los 100 dólares, pero mantiene la presión sobre los combustibles en Ecuador",
-          "source": "El Comercio",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORC0yZGNWVk9rUlJvQU56TV9vbnk2TkxGUFZMNUQwTjRBVzVZU3dGdEZvamhJcVpGdmVLRzJfak9fREVXdjhqakN6NnlBVlVPU2FpNWZwcU9yU3FWbllETEM2bFVTUzM1YUZFMnpKLURZdmhUZXJ6UnF3ajFZNUJJQ0RXM19acjFqd2c?oc=5",
-          "ts": 1784993298000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": -2.0,
-              "dir": -1
-            }
-          ],
-          "category": "oil"
-        },
-        {
           "title": "Mercados hoy: sube el petróleo y caen las bolsas mundiales",
           "source": "FM Luzu 92.3",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ndUIxTzdpY1JsR3h3dkhteWcyUi1hYXM3UlJUczF0ODNXUzR0Mkk2RkpucmJiVXJveHJabUMxbmh4WkRTRlJ6MTVLN0oxbGVQcUlxeXBvcjJGaDJuOVE?oc=5",
@@ -956,6 +964,34 @@
           "source": "El Boletín",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORjVjQ20zbWgxVHFQcjdVaUd2QWZBN0d4RzFzMmZhUXZ4MGl4YkIxQ1g4YzYyLUJGNWtmSElMTThvd05Ca0hKaXJ6VUptbVJZbWpPcThFTkpwU1RLS0FQUC03MmhiZGhhci1YNXM4aXpTaFpOaksxczJhVloyVGNrVjAyM0swTW44Z0luWEUtQkp3ZGw4WHRXa2lGaWh6c0hBTlp2NHZtbzlrZVp1cEFvN9IBtgFBVV95cUxOMFJJZWtuN0FndUtreGFab2JaN0NTN2V1ZXRqaEpIRXNuTnluMFR5Q1dxcVhJSEdydVpTMXE4S1FGVWhDNHVyNk50U0JBZl9rVGYtb2tTaGpBVUo1bVdhWldId1NXTHl5a3hKUnc3QTA4MnA1WmVmaFc1a2FyaHppNXh3RHNCdEVZV2xqUFhfUVlid21IZllWaVlfVkREVmg3MXIxd2IteEtyVFlqLW5pdE9RV2NyUQ?oc=5",
           "ts": 1784314358000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": 1.3,
+              "dir": 1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": -0.9,
+              "dir": -1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 0.6,
+              "dir": 1
+            }
+          ],
+          "category": "oil"
+        },
+        {
+          "title": "--Los futuros del petróleo crudo Brent y WTI suben antes de la apertura del mercado mientras Irán ataca bases estadounidenses en Medio Oriente en medio de la sexta noche consecutiva de ataques estadounidenses.",
+          "source": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORF9FbVlrMjFBQVNob2tJMHJGWjdPVkhPMVNlM1lUTXhzOWJWVlAyaTFrRkQ1X1oxY1ZsTzFKaVZNbVpfaGU5RWR5bkI0QWVXZHVNUVhmdHhGeU9hUlFTblgwVEM2eVVoYUV0VWVuSEJUMER6UWJaVFZfLThSUzA1WUY3VnAwSi1seUt5blZWdjlmbGFQ?oc=5",
+          "ts": 1784281800000,
           "sentiment": 0.5,
           "tickers": [
             {
@@ -1343,7 +1379,7 @@
         },
         {
           "title": "Bolsa mexicana y Wall Street suben tras dato de inflación en EU",
-          "source": "Milenio",
+          "source": "milenio.com",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLWlxX294T3NpZjRUZlJPV255aE9KejFxVzJtVFRCb2F4S3gyMS1majVERWJveW95ZHlVaDdHV0RjVmllN2RJZE9yQ2xHa0hRYmV1YlpoZHNzMEJiNE1xcElZSC1jcWdGa2cwcGpGWUt4djA5RWdlTWQ1eE5wSXdhd3RuY0ZvQTN5OTMzcXhWX2ZfbFB0NmF6bl930gGaAUFVX3lxTE9LS0VMUDNNSDBIeEFtdHo0OHR0STJGNVlXODZLd21WWGQwWUk3WHNfTnhTSWN1ZUpJQ2o4ZlRYZ0hPREpiNGRHdExfVE85OUNLOHI5bmI1bVItel9MMzdmLWxLYXhGcGlqMWdnTEdXbUluWWRKTXZvRF9kUUJTX0NlOTNtcUpQN0cwOTRzZ3c1X1JMZXJMbkhCU3c?oc=5",
           "ts": 1784012400000,
           "sentiment": 0.5,
@@ -1466,10 +1502,16 @@
   ],
   "tickerBoard": [
     {
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 9.1,
+      "n": 6
+    },
+    {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 6.9,
-      "n": 23
+      "net": 6.0,
+      "n": 24
     },
     {
       "sym": "AMD",
@@ -1484,16 +1526,10 @@
       "n": 21
     },
     {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": 4.0,
-      "n": 3
-    },
-    {
-      "sym": "META",
-      "name": "Meta",
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
       "net": 3.0,
-      "n": 3
+      "n": 7
     },
     {
       "sym": "AMZN",
@@ -1502,16 +1538,34 @@
       "n": 3
     },
     {
+      "sym": "WTI",
+      "name": "Petróleo WTI",
+      "net": 2.1,
+      "n": 24
+    },
+    {
       "sym": "AAPL",
       "name": "Apple",
       "net": 2.0,
       "n": 4
     },
     {
+      "sym": "INTC",
+      "name": "Intel",
+      "net": 2.0,
+      "n": 1
+    },
+    {
       "sym": "SPY",
       "name": "S&P 500",
-      "net": 1.4,
-      "n": 19
+      "net": 2.0,
+      "n": 20
+    },
+    {
+      "sym": "MU",
+      "name": "Micron",
+      "net": 1.6,
+      "n": 1
     },
     {
       "sym": "MSFT",
@@ -1520,34 +1574,16 @@
       "n": 1
     },
     {
-      "sym": "WTI",
-      "name": "Petróleo WTI",
-      "net": -1.2,
-      "n": 24
-    },
-    {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": 0.9,
-      "n": 7
-    },
-    {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 0.6,
-      "n": 5
+      "sym": "META",
+      "name": "Meta",
+      "net": 1.0,
+      "n": 1
     },
     {
       "sym": "GOOGL",
       "name": "Alphabet",
       "net": 0.5,
       "n": 1
-    },
-    {
-      "sym": "ASTS",
-      "name": "AST SpaceMobile",
-      "net": 0.1,
-      "n": 3
     }
   ],
   "ecuador": [

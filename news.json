@@ -1,10 +1,26 @@
 {
-  "updated": "2026-07-26T22:40:24.068458+00:00",
+  "updated": "2026-07-26T23:40:02.547339+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Nvidia adquirirá acciones nuevas de la empresa surcoreana Naver por valor de 1.000 millones de dólares",
+          "source": "TradingView",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82eTJiQXBmN2x4UG5ubkJOYWhLdS1SQnFzS2lDMkxwVnZ0UUhrLU1FYm1fV3NLVGdCOU1lbURXZjIzUVNUSHpIMC1OWGVOT3FRWWF2VmtaOTdhWWluekdBLXRRUVVUMUo4LUNrd2kzRjRYV1NjSHFz?oc=5",
+          "ts": 1785107024000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Predicción del precio de las acciones de Alphabet (Google): análisis de tendencias 2026–2030, puede subir a $1,000 en los próximos cinco años?",
           "source": "TradingKey",
@@ -91,7 +107,7 @@
             {
               "sym": "AMZN",
               "name": "Amazon",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -184,34 +200,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Dow sube mientras Apple compensa a chips; S&P 500 cierra casi plano",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGRmRVdllZTlFya2t3aF9uZmoxQ3VVa0VSRnMzaDBESnlaRjR1RnlpQ19TN3llLWZreF9qeUx1T0hlMHJHQ0hrN0tHUUFZb3dIWDJnanZJZ3FlQmZGallqdGZjVHFBZw?oc=5",
-          "ts": 1784924225000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.1,
-              "dir": 1
-            },
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": 0.9,
-              "dir": 1
-            },
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -229,7 +217,7 @@
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -305,7 +293,7 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.5,
+              "pct": 1.3,
               "dir": 1
             }
           ],
@@ -1486,8 +1474,8 @@
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 8.3,
-      "n": 6
+      "net": 9.9,
+      "n": 7
     },
     {
       "sym": "TSLA",
@@ -1514,15 +1502,9 @@
       "n": 3
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 2.4,
-      "n": 7
-    },
-    {
       "sym": "AMZN",
       "name": "Amazon",
-      "net": 2.2,
+      "net": 2.1,
       "n": 3
     },
     {
@@ -1544,10 +1526,10 @@
       "n": 1
     },
     {
-      "sym": "QQQ",
-      "name": "Nasdaq 100",
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
       "net": 1.1,
-      "n": 20
+      "n": 6
     },
     {
       "sym": "WTI",
@@ -1566,9 +1548,23 @@
       "name": "TSMC",
       "net": 0.8,
       "n": 1
+    },
+    {
+      "sym": "AAPL",
+      "name": "Apple",
+      "net": -0.7,
+      "n": 1
     }
   ],
   "ecuador": [
+    {
+      "title": "La oferta de productos orgánicos ecuatorianos también ‘cultiva su espacio’ en el mercado local",
+      "source": "expreso.ec",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRnhRRm5mQ2t5cGxDbU1jcEZIMkdEOFBiU1RDVUlZb0o1SUp1Vzk5dUNSV1ZrU0NmWkVPZXN3R0VaMDZoRWNhUkRWb1p1MnJMamFpYjdHRFY2eGhzbjdsdGpzN2UxNUV5WktCN1RWaW1lekQyY1FnZ1RHN25sLXZYRFJyT2ptOWJUaVJsZmxieWw3MmpOeEpUNw?oc=5",
+      "ts": 1785062700000,
+      "sentiment": 0.0,
+      "tags": []
+    },
     {
       "title": "TLC Ecuador-Canadá abre mercado sin aranceles para el 99,6% de las exportaciones",
       "source": "Diario La Hora",
@@ -1706,14 +1702,6 @@
       "source": "Primicias",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOWhCTWE1NU9iNm1vUVczUzBhNkJ4a09YbWUyOUVYT1dNazZpRGsxOEhneS0xVXdPYy10VUt4WW1fWVllREdCN0hNRUtINTJXUGdKNEJFZWtBWlNpSzV4UFFkZEhCQ3pST2hnSnFHLVRIYzlIN0xQSjRtZ0tpMWxYTHhtVnBRdXkzVnJFV1p2cEozR3UxZFp3U0VQOEtfMHVJMDdZWW5zSQ?oc=5",
       "ts": 1783494000000,
-      "sentiment": 0.5,
-      "tags": []
-    },
-    {
-      "title": "Mercado automotor rompe récord en Ecuador: qué modelos lideran las ventas",
-      "source": "expreso.ec",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUzRtNks5MVFiS1RzRldocWtrWmM4VkQwQTlvS2VuTjJrY09VRnd1SXpyYzF0bGNOa0s2d0cwUlVHMVFWemU3cjJEdjljeXVIMkFpQzBaS3A2NHo1U3ZraTFveTdLd0hCb3FYMkxKU1dDUzJGdkZjRWl2OXVOcmREb1lZcE9OZV9KZ3k5UkIxYVJFT0tFSUpLNEVTcVJ4cVprUy1YSkhBRnBZcE5BUGdsbEYxVzhpZVU?oc=5",
-      "ts": 1783407600000,
       "sentiment": 0.5,
       "tags": []
     }

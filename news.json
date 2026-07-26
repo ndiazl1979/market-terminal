@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T12:02:27.209577+00:00",
+  "updated": "2026-07-26T13:47:45.121855+00:00",
   "categories": [
     {
       "key": "tech",
@@ -85,13 +85,13 @@
             {
               "sym": "META",
               "name": "Meta",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             },
             {
               "sym": "AMZN",
               "name": "Amazon",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -219,6 +219,22 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Jensen Huang confirma que los chips Vera Rubin de Nvidia ya están en producción",
+          "source": "DiarioBitcoin",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY3VjRDV3djRzY0VpQTdOeWdWWENsRERDMGI1ZFBWZzdORDRZOXlzMENDdnRKTjNPR1hGQnJaQlBOLUNkcTlITDhxYkk4anNFcjN6NU1pNVdoZzZfdmliT3dpSWFKOTJ2OTNrS0Q5X1N2TXZxRy1XNW1WeHVEYlNqZmVTdnlNZ2dtclBtU3VIdlFUSE44ZC1FQkJpQjFIaWprazhBaWNRV2pRajBCZTRQelRqUm43bWNpRlJN?oc=5",
+          "ts": 1785070122000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Quito implementa dos proyectos con inteligencia artificial para combatir los atascos vehiculares y detectar infracciones",
           "source": "El Universo",
@@ -376,22 +392,6 @@
               "sym": "TSLA",
               "name": "Tesla",
               "pct": 1.3,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "AMD lanza soluciones avanzadas para la era de la inteligencia artificial agentica",
-          "source": "TeleSemana.com",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMG5Xc1NDMzdCLWVGWURCMFl0OEQtVmI2ci16OVptSkdCWTFUc21Ec3RmRFZ5MzNPakloYm9EQkN5MFFEajlFUV9rSFltNmxvN1dBcnhtNVVFQkRabmZXUnRZSTlvTUtTWGlNTDlXWXVIVkQydjVyREFZSnNBX1hKdTR1NlAwdVZZak00M0RZV21KV0pMOXJ6djlUOXBvN2FJQV9qQWFOdmNHdWtRNUg2MzRiMzZrZmFkV2pSejE3R0J1MDQ?oc=5",
-          "ts": 1784920537000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "AMD",
-              "name": "AMD",
-              "pct": 1.2,
               "dir": 1
             }
           ],
@@ -784,22 +784,6 @@
       "label": "Petróleo / Energía",
       "items": [
         {
-          "title": "Petróleo retrocede tras superar los 100 dólares, pero mantiene la presión sobre los combustibles en Ecuador",
-          "source": "El Comercio",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORC0yZGNWVk9rUlJvQU56TV9vbnk2TkxGUFZMNUQwTjRBVzVZU3dGdEZvamhJcVpGdmVLRzJfak9fREVXdjhqakN6NnlBVlVPU2FpNWZwcU9yU3FWbllETEM2bFVTUzM1YUZFMnpKLURZdmhUZXJ6UnF3ajFZNUJJQ0RXM19acjFqd2c?oc=5",
-          "ts": 1784993298000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": -2.0,
-              "dir": -1
-            }
-          ],
-          "category": "oil"
-        },
-        {
           "title": "Mercados hoy: sube el petróleo y caen las bolsas mundiales",
           "source": "FM Luzu 92.3",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ndUIxTzdpY1JsR3h3dkhteWcyUi1hYXM3UlJUczF0ODNXUzR0Mkk2RkpucmJiVXJveHJabUMxbmh4WkRTRlJ6MTVLN0oxbGVQcUlxeXBvcjJGaDJuOVE?oc=5",
@@ -990,19 +974,13 @@
             }
           ],
           "category": "oil"
-        }
-      ]
-    },
-    {
-      "key": "war",
-      "label": "Guerra / Geopolítica",
-      "items": [
+        },
         {
-          "title": "Del conflicto geopolítico al regreso de los fundamentales: “El mercado aprende rápido a leer la retóri...",
-          "source": "Estrategias de Inversión",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUDNlZmxXQzR3S3BRT0ZTalM5S204Z0ZNMkwwMGJzZjJYYmJBaHFqN213MkdpR2M1QjVRazZiblRiSEdwS3FuM3BZVmwydmJuVmJhTXpuS3B1Rkw3VEFSYzJkOGFWcGU4MEVDNkJlMEFSeVVNM1BmcWdrQUZWOXplRFNEM0YxWkRMcnByb3V3bGhyTGF4aVJiYXhOT2hqbmE2Ylhtb01nYklTSXU4X01nMTRB0gGuAUFVX3lxTFBRMHU5ZkN6TlhkTFFpMC04WXNCVFJyVFEwZVdhNTJCTThlV2RuRWpnWTBHY3VIRFRfSVBDbXBVbm9DMjNheVJwSHY2Qnd6ZEFhUU1HTHBzd0dyTUdHYmE5aS00NFhNMWFaN1NNQ053MTQ4Y2J6bVB3bFdaUGRWNzY3clZMXzIxMWVGNG1IVXVodDdIa0tKSlJuOWpQOHJ1d0N3WHBSSTREUi1RQjktZw?oc=5",
-          "ts": 1784716080000,
-          "sentiment": -0.5,
+          "title": "--Los futuros del petróleo crudo Brent y WTI suben antes de la apertura del mercado mientras Irán ataca bases estadounidenses en Medio Oriente en medio de la sexta noche consecutiva de ataques estadounidenses.",
+          "source": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORF9FbVlrMjFBQVNob2tJMHJGWjdPVkhPMVNlM1lUTXhzOWJWVlAyaTFrRkQ1X1oxY1ZsTzFKaVZNbVpfaGU5RWR5bkI0QWVXZHVNUVhmdHhGeU9hUlFTblgwVEM2eVVoYUV0VWVuSEJUMER6UWJaVFZfLThSUzA1WUY3VnAwSi1seUt5blZWdjlmbGFQ?oc=5",
+          "ts": 1784281800000,
+          "sentiment": 0.5,
           "tickers": [
             {
               "sym": "WTI",
@@ -1013,18 +991,24 @@
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.9,
-              "dir": 1
+              "pct": -0.9,
+              "dir": -1
             },
             {
               "sym": "SPY",
               "name": "S&P 500",
-              "pct": -0.6,
-              "dir": -1
+              "pct": 0.6,
+              "dir": 1
             }
           ],
-          "category": "war"
-        },
+          "category": "oil"
+        }
+      ]
+    },
+    {
+      "key": "war",
+      "label": "Guerra / Geopolítica",
+      "items": [
         {
           "title": "El Ibex registra su peor semana en dos meses mientras la IA mantiene el impulso de Wall Street",
           "source": "Cinco Días",
@@ -1258,6 +1242,34 @@
             }
           ],
           "category": "war"
+        },
+        {
+          "title": "Las bolsas vuelan por el fin de la guerra, oro sube y el petróleo se desploma",
+          "source": "Negocios.com",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWVpiUEVWZGR3eXNtRm41NkFadmFfVG9yRmUtRlJWSU1PblV0QnI4VHp2akx4Nm1McEFZN252Vm4yQ29jZUdIUlRRUWlyUkI3TC1oWFZBTjFoUEVJWS15TFZrbHE4Si1rNHJXMnRCRXlPZHFKVEJQcFpwRkUzNnVud2tBRmI1S1VZZ3ZITEw5MXY2OHBWY2FVYTZ6NzZKWDRIMFR4NW9KZ09OSTI3QzdFSXJrMnhFeEVXVjBJY2FZc1FOXzJLdXR1aTBjTFBUeDg1a2lqT9IB2gFBVV95cUxPZFJlVXJ3T0kxNkQ2NVhJZFF6NF9IZlRja1lHX2EtQUYyY0lHaVhYaXBtOWZDNVRZYjVRaU9YeFpMb1FBNmlFRk5XMW5uSlhmSjg1dnZpMWgxdGlBbmxHbURYeEJpWGMxX0FXZzlUS1BqSGdkbnJEVGdsX0pRR3NkMzNocldId1pFNDNnYnM1Z2lCMklaN1NLejlLWHI4RUd1bDNzMVhoTTg0Uk1rN3p3bGJzYTVSRjlWZzJCY1RhV2k3blVVUnN5WTZkWTRPTS1EeUQxSW1iVC1aUQ?oc=5",
+          "ts": 1775631600000,
+          "sentiment": -0.25,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -1.0,
+              "dir": -1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 0.7,
+              "dir": 1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": -0.4,
+              "dir": -1
+            }
+          ],
+          "category": "war"
         }
       ]
     },
@@ -1355,7 +1367,7 @@
         },
         {
           "title": "Bolsa mexicana y Wall Street suben tras dato de inflación en EU",
-          "source": "milenio.com",
+          "source": "Milenio",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLWlxX294T3NpZjRUZlJPV255aE9KejFxVzJtVFRCb2F4S3gyMS1majVERWJveW95ZHlVaDdHV0RjVmllN2RJZE9yQ2xHa0hRYmV1YlpoZHNzMEJiNE1xcElZSC1jcWdGa2cwcGpGWUt4djA5RWdlTWQ1eE5wSXdhd3RuY0ZvQTN5OTMzcXhWX2ZfbFB0NmF6bl930gGaAUFVX3lxTE9LS0VMUDNNSDBIeEFtdHo0OHR0STJGNVlXODZLd21WWGQwWUk3WHNfTnhTSWN1ZUpJQ2o4ZlRYZ0hPREpiNGRHdExfVE85OUNLOHI5bmI1bVItel9MMzdmLWxLYXhGcGlqMWdnTEdXbUluWWRKTXZvRF9kUUJTX0NlOTNtcUpQN0cwOTRzZ3c1X1JMZXJMbkhCU3c?oc=5",
           "ts": 1784012400000,
           "sentiment": 0.5,
@@ -1480,26 +1492,26 @@
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 8.9,
-      "n": 6
+      "net": 10.7,
+      "n": 7
     },
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 6.6,
-      "n": 23
-    },
-    {
-      "sym": "AMD",
-      "name": "AMD",
-      "net": 5.2,
-      "n": 3
+      "net": 5.5,
+      "n": 24
     },
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
       "net": 4.5,
       "n": 19
+    },
+    {
+      "sym": "AMD",
+      "name": "AMD",
+      "net": 4.0,
+      "n": 2
     },
     {
       "sym": "SMH",
@@ -1510,8 +1522,14 @@
     {
       "sym": "AMZN",
       "name": "Amazon",
-      "net": 2.4,
+      "net": 2.3,
       "n": 3
+    },
+    {
+      "sym": "SPY",
+      "name": "S&P 500",
+      "net": 2.2,
+      "n": 20
     },
     {
       "sym": "MSFT",
@@ -1526,21 +1544,9 @@
       "n": 1
     },
     {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": 1.4,
-      "n": 19
-    },
-    {
-      "sym": "WTI",
-      "name": "Petróleo WTI",
-      "net": -1.2,
-      "n": 24
-    },
-    {
       "sym": "META",
       "name": "Meta",
-      "net": 1.0,
+      "net": 0.8,
       "n": 1
     },
     {
@@ -1560,6 +1566,12 @@
       "name": "Apple",
       "net": 0.3,
       "n": 2
+    },
+    {
+      "sym": "WTI",
+      "name": "Petróleo WTI",
+      "net": -0.2,
+      "n": 24
     }
   ],
   "ecuador": [

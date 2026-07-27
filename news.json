@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T16:27:39.150862+00:00",
+  "updated": "2026-07-27T18:04:03.795080+00:00",
   "categories": [
     {
       "key": "tech",
@@ -23,22 +23,6 @@
               "name": "Apple",
               "pct": 0.8,
               "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Por qué las acciones de Nvidia caen alrededor de un 4% el lunes",
-          "source": "Invezz",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUzFaYTBhUEhINl9jOWFaTlIyZXkweGVqaG1RSU01aUNMUGtHYlZ3U0djQ1JWU3R3UVN0dE90UEZZSURNazBJS1FfdEhLWXJudGRfck55b2JKbEo4Z3lucll5RXp0ellzQ1NoU2U3b2liWkItSGkzeTkzSk1aVnNKS1VNNW1Nc1lHUjU3VkhJWFNJYXZ0TDlPWm56VjdycmpLaWlWS05PdmtLSUZ0bVllZTVB?oc=5",
-          "ts": 1785165750000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": -3.6,
-              "dir": -1
             }
           ],
           "category": "tech"
@@ -182,6 +166,28 @@
             }
           ],
           "category": "tech"
+        },
+        {
+          "title": "Stephanie Link compra acciones de Nvidia y Micron: la IA sigue viva",
+          "source": "Benzinga España",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTnY2R2dSX0gwVi1FRFpFZTYwRHkyN1c5MFdqV1pLUGsxdU1IeDdXcnBjamRyeWt5cWppY3ZCcUE3Q19aYThXZHZQMXJXb21QZzVUb2pYVTg5aUREbTFvUmZoNGFaT1ozcTk4Wk10ekpTZWFoQUFPa0hmODhvYi1ueTRfd2QyREVyX0VObmpXRXRZOWxzQUpRSkxB?oc=5",
+          "ts": 1785052826000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.3,
+              "dir": 1
+            },
+            {
+              "sym": "MU",
+              "name": "Micron",
+              "pct": 1.1,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
         }
       ]
     },
@@ -189,6 +195,92 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "MegaInversión en inteligencia artificial: Nvidia evalúa inyectar US$ 25,000 millones en OpenAI",
+          "source": "Revista Mercado",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObDluQ0xrVXhHZDVqZVhGcjd5T3RqM0R5ZEFuRjczZUtDVldCakJ0NHFsWlc3eS1mVjFPWG1PeVh6Sk1fNUNPTk5aeWlRZzRpRzBMcHJNTlFpMUNXQUE3TVVHdm01elBvdDNxM1gyd0hpeHZkc3M1dGtXOTJyelRYVmdGUDdUaUc1Znl6YUY0QQ?oc=5",
+          "ts": 1785173474000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Nasdaq100 bajo presión por semiconductores",
+          "source": "XTB.com",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa2hQU1NBRDJ5QkVST1hhOW5QWnJjeG0zNkROaW1BN1pyMDMtMVNyaGEyUVNyYUFPOWFnWk9QUEhzbWs4Y1NfZHZybkpuV3pVdnNDdzhDVXFyRERFbWFEU1FXQW1SeGxlTmp1bnF6YVFINnZQWnM1M1VoTEZsdTdReUVXd18taTZ2cUVOUGhWZ29HcEdvOXdycjNMSEU5bTQwcDBxSEo1RnU?oc=5",
+          "ts": 1785171230000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": -2.0,
+              "dir": -1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Nvidia $750B en IA: riesgos de financiamiento circular en 2026",
+          "source": "El Ecosistema Startup",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPampERXN4QlZwd1VOdFlZYmhyMmpleE1iVjdJSGJELUlkeUJnbE80ZGM1WGJ5YU5UcVRpYjhWV2s3TWtzNTFTNkZmQmlCblJaY2FnX3JxUi14Mno0V1VWb3AxZHZ5bkl4S2dzWlZFSy1HVEZlZHhiUUpGeHVhd2tLeVhyUnZsZWY5Q3ZzenVGTy1jMV9LYWc?oc=5",
+          "ts": 1785170883000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Nvidia y OpenAI preparan alianza de 250,000 mdd para desarrollar centros de datos",
+          "source": "EL CEO",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSDBZaFpFZ0I3TnZZYUsxWmtPcUpJSmp4VFpEaHM3THhMcGNpY1JIZzl5OHZkbVlZTl9JYVcxQXhTZFVCcUpPakZtT09mLW82bXA0ZDAyTXdYUlhHQkxqV21Wd3Vrel9uajUyRk5HZy1TUW1BRnZ0dzF3VTlpZURMa19zc2VfVWdic2VOZlI2U2RqUWdZelB1ZDhTS1RsSnItTWdqdzhmUHNaTnlJ?oc=5",
+          "ts": 1785170081000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "NVIDIA impulsa la Open Secure AI Alliance para fortalecer la seguridad de la inteligencia artificial",
+          "source": "madboxpc",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYkt2RUVibTdHUjMwT0NMVEpMYXRMWFFJTVBoNFNPZ1JPTEF0dndYTDVmUXFMYTJsNnhUdG04QmpmZElzVDcwY0NhdlJ2c25uX3dnR083Y2FQNENIZFEwM2wxSkUyb01yd1RBc3F3TVNBVzNGNmVDd2xrSklHTlpUSkNQYy1tRXY5X3VLVmhxcVczVXJ1?oc=5",
+          "ts": 1785169724000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 3.6,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Nvidia lidera la Open Secure IA Alliance para el uso responsable de la inteligencia artificial",
           "source": "MARCA",
@@ -280,104 +372,6 @@
             }
           ],
           "category": "semis"
-        },
-        {
-          "title": "AMD presenta ROCm.ai, una plataforma que incorpora inteligencia artificial al desarrollo sobre GPU",
-          "source": "madboxpc",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT1FweXJBNk1aWl9pVEZGYTl0OVNjMDhCQkJSNmtfTkxzQkJ6aHZEUDJ4VWNLYjhJZy1ZZ1BKNmZaS2x5R1hlWlFhUXgwS3g3U2ZYZjE5WjI0bkQ0cDVjQldlYUdxRmZfT25QWmlFTzB4M29zUnA2dk8yODYyM2RRRGhWbk5nQzMzdlU4?oc=5",
-          "ts": 1785162038000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "AMD",
-              "name": "AMD",
-              "pct": 1.7,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "¿Por qué cae hoy la acción de NVIDIA?",
-          "source": "Investing.com España",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ3NoTm1aVGY0ZXFRWndrZHlhMmVjTGh4ajh1TjZJQXNfWHV2QjFSSmxUZUszZEhtc3ZLb3Z4SXhVSTE0cXNhalhISl91RWdiUWNyaXhuOGhIdE5aRy0wZDU4SDBYdGVNVW1fLTZPR19ESnh6aE9ZampFeVlCcFUzNTdrVFdsbWVNV1V0ajhkTk9LSlZreGpPdXNKa2Y?oc=5",
-          "ts": 1785160620000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": -3.6,
-              "dir": -1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "ASML y valores de chips estadounidenses caen por avance chino en DUV",
-          "source": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEF1blM5YWEzc1dWTFZWWGxYV2Y1OGkyTUNkczFPUm1icUhUMndKcnpzcGJiU21nbmZBT253MlVrMXFPWWRxd2M2UENrN0xPS1p4b21VR2RiXzByVC1odVhhaVZyUXNwSnowb1pyeU40cV9KaXdWc3ltQmM3OUhLaUpubmpWVVdJbEFnOTM0LU1XOGJtajdj?oc=5",
-          "ts": 1785160474000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "ASML",
-              "name": "ASML",
-              "pct": -2.4,
-              "dir": -1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": -2.0,
-              "dir": -1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Israel invertirá 2 millones de dólares en energía marina",
-          "source": "Inspenet",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85b0E2RFdiMmhuYlRQWkgxWm5Qd19yVFlwSnhkUlAyd0k5MFdHWENUZUVTM0hBbm9TV3RUX1FIalQ1VmE4b0FrTU5mMTh6X1FLSk51UW9HVXM4LW9OSmNiTlFIWUQ2SG9QbmNFc2hHcG54NE1SaGgwalRTbzdnS3M?oc=5",
-          "ts": 1785159967000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": -1.2,
-              "dir": -1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": -0.8,
-              "dir": -1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": 0.5,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "NVIDIA usa su propio chip Vera para diseñar sus futuras CPU y GPU con hasta un 1,5x más de rendimiento",
-          "source": "Geeknetic",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSzZ4RHc1b0g3TTRIX3B2TkxJUkl4azRhYUkzR2F6ekVEWFN2LWVVX1dVTHh6LUZhZ0lGbnczMUdaT3ZxUk9CdlJ6QkJZY1E2aDQ4NUZVaW1jVE45b1l6VW1iTHc3aFBOZjQ1UjROXzF2UGZTaHlXYlNxN2MzLThPMzJaTjNqejNJYWtsc21icllXbDVYQ0IwdkRVd283MzJfQWpDdklMbGROdU9xQ3FmX1hhZnl6TkRXM29SWTJwM0RfUWM2bEE3alhuRGJRTXRUZl85OXAzanRtdlMwSVJiYUQwTkFkZw?oc=5",
-          "ts": 1785157727000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
         }
       ]
     },
@@ -456,6 +450,22 @@
           "category": "space"
         },
         {
+          "title": "El movimiento que podría dar nuevo ’aire’ a SpaceX en bolsa: entrará al índice Nasdaq-100",
+          "source": "BioBioChile",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNekdOcXFsa1E2di1mWGNWOWpLWlFtd3VqUmM1aWt3aTE1ZlFheGdZTFFoZlVmTTEzQ0R1YmxxVkdUWVVEWWRhb1dySG5KNldvY0lXclFIODZVLVZQQ0hUWDFLYkY3dW9kZ01leURJWjVCN0FPai1odkRRV1hNNjdnV3ZHc3pMRGVDcnRmeWxTRlBERU5hcjdXZzJQUS1DR1lfdlNwTmF1N2dvcGVFeGJLNWdNRU9MdFlmMEdZOWlYNVMwaUFpWWtDUlJ2VUt4a3RuTEh1T0RKX2lnMFRINzBPd09UQTVVUFlEWFE5YktXX0pRdTNhVWpJUUxR?oc=5",
+          "ts": 1783321200000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "space"
+        },
+        {
           "title": "SpaceX lleva al Nasdaq a registrar el mejor semestre de su historia en volumen de salidas a Bolsa",
           "source": "Cinco Días",
           "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTDRRa0RwaURGbHpDUFN5RHhUSVdOcGN3R2tjMTNyYmJsNkxvMDFzMGMtMmgxN0JLX1pmQUVrYWJaV0xnR2FGbXlsc2dVZVhuWENLWmNiT0lXcGhJRWprMjFjNnRDeFo5NXVsU2tnc2s5RjYyY0NUQWM5d0NISDdMSEw4SU85YUhZdTBEOW93NlRaWHVONVZ5My12T1VTYmdVaTNYb0lGVHQ1dHpQbFNHcXNSMEpqcnVVcDlFaGs0Rk9yMFB3X1RLTWJtYndjUVdNblpvZUNzRVlwdFk4VXNsM0RpZWpwNEZES0lsNHpEV29Od9IBhgJBVV95cUxPTnFjZmxKUmRQeG5GdDZTV0xXeXVxYi12SWZIbTJVcDhnd3E0T2FZM0tYVE5QQ3lGZkswV3JBTW10d2JtWDRndHhwMXoxYzFSRlYyYmN0aWVYQ1dCeHd3TVdSdUxfQXJVYkx4emNaMjNvQU52ZHhhN2ZkakRieUp1UHNZcUxhOUpIMFBQOW1ycmlzckp5TUtlOFB3T3FYazFlSXlvSHJmOWNpcHpNNl93bUcxWXZGMXBSWGhGV0hlR25oVFdHR1JhQ2tqaDByZ3lMWVRvd2toVk8zUnZFSVNVR0czTXo4bzh4dEhtY0ZWWkIwNWZDUHJ4c1hKNVlZaUlHUHhjZm13?oc=5",
@@ -482,22 +492,6 @@
               "sym": "MSFT",
               "name": "Microsoft",
               "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "space"
-        },
-        {
-          "title": "Falling SpaceX and Tesla Stocks Erase Elon Musk’s Trillionaire Status Weeks After Historic Public Market Debut",
-          "source": "TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZEZqMmI1RW9rWHFqZUhlMzloV3JWM1QwWTJOS0pjRGZQRm1Tc191ZVBUMGxmVkEtdUk3TmNGVXVKZDk4NkxScmVuenc2TF81UmVEeW5qU0lNa3BWYm83LTRCMklnMVZrMXQxZW12WWRSb0ItY0pGMm1MUUk2aFRpVU9mU2Y1ZnE1YXlBemNlYUxxMU4zZ2x2VG5fUjRKbzZsNUlQbWYwNmItLURsSzZaMVFJcmdHN0FiRk5INHRRbm1BdlVmczRrV3NJU0VEVHhuYS11QklNYklTZzg?oc=5",
-          "ts": 1782457200000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSLA",
-              "name": "Tesla",
-              "pct": 1.0,
               "dir": 1
             }
           ],
@@ -1444,20 +1438,20 @@
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 10.6,
-      "n": 13
-    },
-    {
-      "sym": "WTI",
-      "name": "Petróleo WTI",
-      "net": -6.4,
-      "n": 24
+      "net": 12.0,
+      "n": 15
     },
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 5.0,
-      "n": 22
+      "net": 5.8,
+      "n": 21
+    },
+    {
+      "sym": "WTI",
+      "name": "Petróleo WTI",
+      "net": -5.2,
+      "n": 23
     },
     {
       "sym": "ASTS",
@@ -1468,20 +1462,14 @@
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 3.2,
-      "n": 19
+      "net": 3.6,
+      "n": 20
     },
     {
-      "sym": "ASML",
-      "name": "ASML",
-      "net": -2.4,
-      "n": 1
-    },
-    {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": 2.2,
-      "n": 19
+      "sym": "MU",
+      "name": "Micron",
+      "net": 2.7,
+      "n": 2
     },
     {
       "sym": "GOOGL",
@@ -1490,10 +1478,10 @@
       "n": 2
     },
     {
-      "sym": "AMD",
-      "name": "AMD",
+      "sym": "SPY",
+      "name": "S&P 500",
       "net": 1.7,
-      "n": 1
+      "n": 18
     },
     {
       "sym": "AAPL",
@@ -1502,31 +1490,45 @@
       "n": 2
     },
     {
-      "sym": "MU",
-      "name": "Micron",
-      "net": 1.6,
+      "sym": "AMZN",
+      "name": "Amazon",
+      "net": 0.8,
+      "n": 1
+    },
+    {
+      "sym": "MSFT",
+      "name": "Microsoft",
+      "net": 0.4,
+      "n": 1
+    },
+    {
+      "sym": "LMT",
+      "name": "Lockheed Martin",
+      "net": 0.4,
+      "n": 1
+    },
+    {
+      "sym": "RTX",
+      "name": "RTX (Raytheon)",
+      "net": 0.4,
       "n": 1
     },
     {
       "sym": "TSLA",
       "name": "Tesla",
-      "net": 1.2,
-      "n": 4
-    },
-    {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": -1.0,
-      "n": 2
-    },
-    {
-      "sym": "AMZN",
-      "name": "Amazon",
-      "net": 0.8,
-      "n": 1
+      "net": 0.2,
+      "n": 3
     }
   ],
   "ecuador": [
+    {
+      "title": "Crecimiento histórico del mercado de valores ecuatoriano",
+      "source": "Vistazo",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb28wZE8tYTJwczJBMExIaEJPZ2tyS0tGVmdwTlBVaWtpWk5MVmo5T1RpOVpQcWFGNlN0SXlQUFJoQVpIS3IybFB4NkFvTU1pZllYRE4yd1ZqSXRMV2hkYWF5XzNyNnNxR2ZSb29ua2d6R2pHck5lTHMyT3ZMMUQ3Z1l6TjlRRVcxbUxueEJxaF83bGRyemhpNjBadkZNdkhTa0Rid3lVemhITU4yRmNDYnpNUdIBuAFBVV95cUxNdXh1UW9fbTgtUUV6bV9TaTBEZEdoQ3RubkY3NEVaXzN2QmR2SDNqWUg4d21EbDR0bzFyYTRNOXk4R3NrZFJQZlpvRVl1aG1TaEpoWEJEQ0RqV1RVSVlwUDJNNWlXTWNSQ2hrVGdZR1F1MmlQN2FBVzUzQUF0NFJGZVFudFZwSmY4NE90eG9vMU44UFhob1VGQVBLT2wxSHRBU1NpZDZCckZQa0FEQ1pNT2NHQ0xaVVJS?oc=5",
+      "ts": 1785174041000,
+      "sentiment": 0.0,
+      "tags": []
+    },
     {
       "title": "La oferta de productos orgánicos ecuatorianos también ‘cultiva su espacio’ en el mercado local",
       "source": "expreso.ec",
@@ -1656,14 +1658,6 @@
       "title": "Entre remates y remesas: la economía del México vs Ecuador",
       "source": "El Economista",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1lxVHVWUlp5Y3RwWW9OdG5PNTFZZVgwZ3UzbEltclJxT2xhLUlMazJyV3FIY21ET19JbzJMVFNJVHJndkpMOWQ4dVRHNzdMRHlOVWFlZ0tjMFIwb3ppcDIxQldLUDJRQUpJRmVJNnVlYzRxZzlWZDBGTTBpY2ZSX0xTeWpOeE5yN2ZZR21McHVKT05oVGJOOGtxVEl1OWRxRllLQllR0gGrAUFVX3lxTE1nTVNFb3RTczVZbTd2Y1ZmYXI1eHZYRi1DcWhSNXVxT1FPbjd5ZWhfWWRRMEhyQTBGdlpvU19oc2hjNmw2SUdyelAxMnpTTXBSVTNkQS11THpITkwtR2pzWlo0ZnpBYVpLbGFocUNEaV95NTgzRXdVc056U2MydXlocGtEMXM0bE1NZ1lVeFdxbEprSWd5czVoR0IwV25HSl9YczdkQngwVHE0UQ?oc=5",
-      "ts": 1782975600000,
-      "sentiment": 0.0,
-      "tags": []
-    },
-    {
-      "title": "Mercado de valores: la reforma que puede impulsar la inversión y el empleo en Ecuador",
-      "source": "Diario La Hora",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdU04S0NFT0dfbFRGbmdScW9iSnREMFF3em40Szk2Mm9WR0VESUk1OGdNNGJVTnRWV25ieXJQaURvRkNmQ05fVnpEcl9vTmp0X01paUpnY3FzbkhVQXRiVWVPMFJ0azZRdEZacUE4WjVpOGhBZHRoOGRIdDBzdkN6OWlQRkNPbTRJWTdJS3FWRl9jT21NUGg2UnZRZW9ZSGlNRWYtMjN2Q3VNTmNySmlScFJpaWxkeVIwRkFnc0k3VHg1VHpHVHc4ODE0VC1KeGhYdElEbQ?oc=5",
       "ts": 1782975600000,
       "sentiment": 0.0,
       "tags": []

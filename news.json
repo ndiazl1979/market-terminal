@@ -1,10 +1,26 @@
 {
-  "updated": "2026-07-28T00:11:10.816504+00:00",
+  "updated": "2026-07-28T03:32:54.780037+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Las acciones de Nvidia caen casi un 5% por el temor al financiamiento circular",
+          "source": "Bitfinanzas",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVC1peFllYzRVREFwanpqLTZsbmxHaXloOUNGR1BORjczRjVWemRqaVU5VFRlc2RKckdWQmJiTnItaUxidEZzU210bmR1YkdXMGVHb0FFd2V6Y3VoZllvQ3FadEhGbWFlVTBVM25aXy1CZ0dvTG5lNmR2Y0lXcXl0bTJR?oc=5",
+          "ts": 1785202793000,
+          "sentiment": -0.67,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": -4.2,
+              "dir": -1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Acciones de Tesla caen tras su peor semana desde 2022: los gráficos apuntan a $296",
           "source": "BeInCrypto",
@@ -15,7 +31,7 @@
             {
               "sym": "TSLA",
               "name": "Tesla",
-              "pct": -3.8,
+              "pct": -3.2,
               "dir": -1
             }
           ],
@@ -31,7 +47,7 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             }
           ],
@@ -77,22 +93,6 @@
               "name": "Apple",
               "pct": 0.7,
               "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Nvidia cae un 4% ante el temor por los balances tras el aluvión de megaacuerdos en IA",
-          "source": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUGhWdEZpaFR0MUItSGs5aEp1S29HRnZZWEU3Zk4zVlJiWTZUUnVhVDBmU1pweFJybzdScEtmRjRoQUNfOTFlb2tfaGkzN1BKYm5aWGQxdnhCWEFlZ21VWGV5dVdTX2RGd3Rjc2ItRnhlOVU2aGtBQ2pNQzRjcWtfZVlZaFM1Yk0?oc=5",
-          "ts": 1785165159000,
-          "sentiment": -0.67,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": -3.6,
-              "dir": -1
             }
           ],
           "category": "tech"
@@ -190,6 +190,70 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "AMD presenta Helios, su plataforma a escala de rack para infraestructura de inteligencia artificial",
+          "source": "Diario TI",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNazE3a2Rxano5RzF5bWZNdGYxd3FCTVA0WWlrUGduWUFEdnVXWnhTUzlUOWwwZWU5X1AtcW16T25tWVE0dDRFZTAtQk04bEUzVEFSZW9GbFptRlEzUUNWcFZ2M3hhVDlLYXpIT1g5blQ3c05TdjJROFNTSEZJQjJQa19NM2FsNnNrZ0ZVbnA5cFU3N0hsZkh2dEFfNUN0Nm1YMGlGUEdzMFZDZVJDWnBGV3h4VUJGMnBRU0h5NnRjTUNkZG9V?oc=5",
+          "ts": 1785208791000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "AMD",
+              "name": "AMD",
+              "pct": 1.7,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "“El dinero ya no importará”: La radical predicción de Elon Musk sobre la economía y la inteligencia artificial para 2036",
+          "source": "NTN24",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVWZuWElTalJPTDhGWjZPMWlMd0RrcGpRT1k1a3Z3ZW15V0UwV3lYMHZzdl9HRjNNUGNnNXRqbklKVUxGYXhuRGtmenZrMk5FSm05YktRWnhpX2RNVlplbHBrNThqNXk4MzZmQUxfVnJ2UkQxWXVEdDgyQ3pQUEdrd3ZGT1pWS1RPNmVBRHJJa1RHbUZnY0VvbkN5cEV4MjRfOHBFUG0taURCNTEzeUZUM1ZqSGh0bDd2eW91enozUlNLTHZ3dm45NHhqMThjOHptckU0Y2pIZTcxVTN4SWxiX1p4NFpBaEdFckFkeG0wYWltTGxVSURTNVpia09RM21Xa2ZKN01ZZ9IBhwJBVV95cUxQejhMZnQ1YlowU1I2aEZUbkNMV2xEVWNOd2ZBVGV0dklwZVNMTXNfU1RCajJXNXpQNmp6aFBlbGVyU0pWZVNfc3J3SFZXTWg4S2NGX2hTTGV1ak4yazBaQmxNMTg5ZDljMlFGSUFwVmZpRmRZSVE5QXo4dnktanNlbTBmZV80NjRKVG42aURyaHFYVURuOEJHaVcyazVzUU15bW1XSHlJWUZCeW9nSV94N05jZHlILU9WY0xwb2Y2Y29XcHYtWk9aNDVPN2w3LXlWLUlJZTlJVGllcThKQ01NMk9wdE9qQnFaMExVUTh0Y29YbnZQeVNydkd2clp6YXRyR1F2ak95aw?oc=5",
+          "ts": 1785201271000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "TSLA",
+              "name": "Tesla",
+              "pct": 1.9,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "El buscador de Google, impulsado por inteligencia artificial, se convirtió rápidamente en la opción predeterminada.",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONnVmT3Nhek1XdXNOcDBLVnB5ZHgyMno2OFFhVG40dTQ3VFlISDg0bUdaa3JRZHBsc0RKUFJuRVZ4bGxobzlQakhPRUc2ZFNEODFCYUNNbUxSWm82NUM1Y2dEaU5FMUR4RmpqTlVpMGVWOE9TYmxma1hEejRxWDlRVUZGUEQwbmszSDdQS3U4Sm1DTDJaR1VpUw?oc=5",
+          "ts": 1785199689000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 0.9,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "La inteligencia artificial se está convirtiendo gradualmente en la opción predeterminada en las búsquedas de Google.",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSnB2SWxudE55dnE0bEt2aFlzMzFCb0dqbmJfY3BFVnNUSENLQWkxNEV6emJJZlNEb1dfNGV6clM5VWZMbHNjVElJMENBR0tIQjVwTjA1QU0xVkdrUlc2SUxrTDFvRGkwY1pqd1NMMWxlMlpDdjRXcTdoaFN5RXdSS2gzdHlQYWZyMlBlaWg0OA?oc=5",
+          "ts": 1785198080000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 0.9,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "La inteligencia artificial no sustituye a los equipos: potencia a quienes saben confiar, colaborar y aprender juntos",
           "source": "Prevención Integral & ORP Conference |",
           "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQOXBZOUl1NGJ4aGRNX2h6VkZhVHNHOTdYcUw1UnJLb1lYNDEzN1VjeFNJQ2dpTTZEWjBQZ1o4NktZYlBVOEE3OVZsWGU4WUI4Sy1XdUFuSXQwV3RvWVM1ZmFWNXFmWk1RbnlKRHZ4emlnVkZRQWRwRmlENF90QndfQjhlcDM4NWUwZnIyOW5rYkQ0amJNUWZKTEJ3VWZCbmxjMlpvZnlkQTZRdnRZVWFuRWJwbjNweS1Bd184eFhnZEJ1M1J0SEJRS2tnSDU0VjFnQzhfeWdjbkVic2VQX3JGV1pnNzlKRnFZT0dmaDZNVmQzdw?oc=5",
@@ -200,6 +264,22 @@
               "sym": "SMH",
               "name": "ETF Semiconductores",
               "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Inteligencia Artificial para la ciberseguridad: así es la alianza global que lidera Nvidia",
+          "source": "El Espectador",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDNmOUJYNTFLc1p0U0t5eElmb0ZRUDFmTXJDQWhMWlBza28wSjdYclpFXzV1LUFNa1c4UC1IcE9QQXFpZjlxSmlUUm4ya1h4cEFzVi11Q1NneUtRWFMzTFhydTh1QXl2dXMyUkFwZEJUSVV2cmt1ZUpSSEVJM1dxUl9UUVE4TmRMZmVKWHlzS2FWbDduZzlGZERiOUVVTHNxZVgxLVo3WVJUWWlWdXZrdkxQNUcxVkVIdzNaUWJ5RllwSzQ4c1QxNHJ3cGlOTkZTRF9R?oc=5",
+          "ts": 1785191520000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
               "dir": 1
             }
           ],
@@ -265,145 +345,23 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos: las empresas de semiconductores caen y la pausa en los ataques a Irán hunde el precio del petróleo crudo.",
-          "source": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM3ozUlZnSFJORWhWWkdGdldiQXpIRWpvVlROd0JFVkprMzZkemFmYmpYdlFFTHBhN3lUdEQzYTJBeGF6MXpQYjM5WnZ4NmtTaVkwNkpONWQ5MDNHY3luWHoxcllsNVduY2hFcXpwbTFUUzBMcHpOdkJwX2IzUEczMlUwTk5RYl92Ylh4SWJLSVNWaTBXQmZwUEd5SnBzTlhodDI1VUlFVkZnTkNWczY1UlN4eDNDWjF5Nkg2NTJVQlNib3h6?oc=5",
-          "ts": 1785187038000,
-          "sentiment": -0.67,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": -2.8,
-              "dir": -1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": -2.3,
-              "dir": -1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 1.9,
-              "dir": 1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": -1.2,
-              "dir": -1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Cierre de mercado en EE. UU.: Los principales índices cierran mixtos mientras Apple supera a Nvidia; el índice Nasdaq Composite cae por cuarto día consecutivo mientras los semiconductores lideran las caídas y las acciones de software suben",
-          "source": "TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbHQwNlM5TU9OYnlKYTF2U0lpTjZ4Z0pHOHh0NVBuYU02a0tRV1I2MDdjLVY5QVVGUkk4RUtGRTloelVWcU1PWVBDRVJYWmpUMUEzTExGMDRHeUpmZ3R1NXV4UU5YTFAxZW5ZNE9PTkRoSXlyaTlVVmZoOHlmNVVrVXRkYVZOS1hyOXlsOC04Ry02UXdobTZFc0JNOGo5SjkwZkhuSnpQVk9BazlaaGQ3VXBaZEZzVnVpSTdabXdjNW1rbDNVV0ctc1ExSlBkR01oYjk4a0w0a0xWQ3RySDFrQUY5bm9rWjd6TWpMWnZjNEFyaEdyNTdGc09MbHVnTTJ2?oc=5",
-          "ts": 1785183604000,
-          "sentiment": 0.25,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 2.7,
-              "dir": 1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
               "pct": 1.5,
               "dir": 1
-            },
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": 1.2,
-              "dir": 1
-            },
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 1.0,
-              "dir": 1
             }
           ],
           "category": "semis"
         },
         {
-          "title": "La próxima gran apuesta de Nvidia no es un chip. Es poner 250.000 millones de dólares detrás del gigantesco centro de datos con el que OpenAI quiere dejar de depender de sus rivales",
-          "source": "Gizmodo en Español",
-          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPcWRtTEpsNzdIbDQxMVBPY1dLamJnUVRVRGd3aHp6eEZBYTRmbS1zQWVIMHV1UkxyV19XTnNpUDBnNlZTdThzXzZ6aUYtVVVhV09uVmh1ZUwzejBiRjNpcmxJMTZ6SjhJdUNWVHpYVGlfZHE5dzlRTkh5cDZxQUhkUm1XRUJjVmZFSkYyMWhiQmlPd3N2bm5SUkxIOHFDNnEtbjl0cUlqQTRvZlJmSHN6TUJaWnNuaW04ZDBWaHhqcGVydEZJcEZ2TXExalE2bXdYV3hwamdUVXJ1NmphWnN0eXBTNk5nR3l5QTlhRkU1dEEtUjk2eVV0Rl9aQVRJZzhTeXFURWJRejFyMHRTNXN5TzhZVzc0LUlweGhuZWhCZlFJRmlXc1Bvd05nRVplUU1lREVxQU5wSGk5Zw?oc=5",
-          "ts": 1785181880000,
+          "title": "\"Tendrá que financiar su propia burbuja\": NVIDIA financiará centro de datos de OpenAI para que la compañía le siga comprando chips porque el capital privado se agotó",
+          "source": "Tarreo Gamer",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNem8ydmNKMW8wOWZkUy1ISTZianJmc1d4eHNieVlZVEdxQ3k3ZkZ5WVNXWVVSZmw3aWxkN1NlazY4NTNWejF1MzF2eGlqUDlGazlQRnBZXzNLYWhUcHo0MWNBMzVHaFU1ZHRFRlMzY05pYTR6SllZcnZnYVdMNlc0RGV6TFp0NFRjd3B0NWNOWm9MUnhiQTUwX1FlbmlGdEh0TVRnUQ?oc=5",
+          "ts": 1785187064000,
           "sentiment": 0.0,
           "tickers": [
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Nvidia produce sus primeros chips GB300 en Estados Unidos, aunque sigue dependiendo de Taiwán para su empaquetado CoWoS",
-          "source": "Profesional Review",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdUVfbUVIQ0JBU2l5SXIzbWlfMmZkRkNXUDNpZmpRQjh4LWQ5bXVzRS15Wnc5c1ZMRHlhMkxqVGQ0eGlVVzBvYzNCeHVaWXVWRkJtRGdfMl9xOWNSM0NmZWJNRGNqS2VmN1BVdHlBVzdOODJDZW5HcHB0TEtla0RyaFJJeEdiZ9IBiwFBVV95cUxNTnBBVVNLdHF2VWwwZUpyYlJEd3pURTEyaHZuaFpZd21wR0k2OG1TMTZXMll1c0tFRWFTRC1ZclhWY09mNXhOS2FjVzJCNWJJTEk2eTkwVlJHS1ltSzh3azBiMzZ2VUJObmVaRjhUTFAzREwyRGk5dHNRMjZSczNHLWdvVFB3Mm1nVmJj?oc=5",
-          "ts": 1785180612000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Nvidia y OpenAI negocian un centro de datos de 500,000 mdd: esto es lo que sabemos",
-          "source": "Forbes México",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzl6bWswOTUycXltdUJUaUtIZU9pOC1sNzcyX01xS0dPX2dmZTRsb0JJMTlqa1lyYVRyWVZiVDh1MEV0S2txb1BJdC1JNlY4bExiSm1NTXN2czdZNUZqRE5BNnhselJ1NHhGcTdJYzd0d3otc3kxR0VEd3h1QWFiblZ6V0xpQTFkMGlsZm9rc09HYS00cm5lNUlqeEpNUVBwWEZtZmZ3?oc=5",
-          "ts": 1785178200000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "La opinión de Elon Musk sobre la inteligencia artificial y el voto: “No debería haber ninguna máquina para vot",
-          "source": "Diario AS",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRmhJV0d1ZFBwU3ZFZVpRNUR0Y0FkSGh3ckR5b1NNa0ZpdGFpanlka2lIRk5md09JR2tfa21zT1A4MDNRdmFtVTNkWC1hamM5VzAzSUdOR3hjRmhxc09Ccm95Ul9nVngzOVlOckMzdUdFZWVfOUJxejJmX19fZWZMT1ZIRUpDdThjcHQwRUtQV3FHaEJ5VG9NSi14QkJwRHFidm9sVHFpMENyZm10eUx1S2Fwc2g0ekhGbUc2cE9wYWJzdVBYMGRhVnVFWmUxem1ISnVBeHh4WDczU0JwMDJfaXZ4RjhfN3IzZVMw0gH_AUFVX3lxTE80VG9YUU4weEpEMDV4U0pUa3RVMnhaUy1xOGNrRV84Z1l0ZGlJNWZuQlFoald4VDdxM1IyVjBncGt3OEV2VGNuQXEzM3Q3UzFWOU5SNmxQYmVhT1NsdWZYVzdFanZTNE9rTlc0SmJmV0V3ZU5KM3MtMjlhaVpyRkRkX3B1QTFlVjdyZnZqSVBqQ3c2d1FaNmJiZFhpRVpZTXR2YjFhMUR0N3lYcTJrbEFmZnhmTzg4S3FWRlZzdERYT0x0OEtvMnp4UWFONzJYQXlfSzVCaVZuQldEYTBtZDZaMW1FalNWTE9DMHl6SUZsY1k0bi1BRTZYa1RIcG5nOA?oc=5",
-          "ts": 1785177900000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSLA",
-              "name": "Tesla",
-              "pct": 1.9,
+              "pct": 1.5,
               "dir": 1
             }
           ],
@@ -603,7 +561,7 @@
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": 1.4,
+              "pct": 1.1,
               "dir": 1
             }
           ],
@@ -845,7 +803,7 @@
         },
         {
           "title": "Petróleo supera los 100 dólares este 23 de julio de 2026 y aumenta la presión sobre los combustibles en Ecuador",
-          "source": "El Comercio",
+          "source": "El Comercio Ecuador",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRmoydThQZVh4QktJUV9OUTJZTHNhd0s0Q2l0dWRlUXVMdWFyVmRrYUJ2czlZcXo4bmtGZEpUcW1GQnAwTE9ELTVDWDZuNlZ5WDhkSC12U0JVcm41SW1Oa2Z0bC1jdEpKOGxFYmNacDM3REh3bE4ycnBxMVk0WVMxRUpTdFFpVXdQREtyR1VHaktCMlZDUEs4YnBUVUQ?oc=5",
           "ts": 1784842744000,
           "sentiment": 0.5,
@@ -1365,7 +1323,7 @@
         },
         {
           "title": "Bolsa mexicana y Wall Street suben tras dato de inflación en EU",
-          "source": "Milenio",
+          "source": "MILENIO",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLWlxX294T3NpZjRUZlJPV255aE9KejFxVzJtVFRCb2F4S3gyMS1majVERWJveW95ZHlVaDdHV0RjVmllN2RJZE9yQ2xHa0hRYmV1YlpoZHNzMEJiNE1xcElZSC1jcWdGa2cwcGpGWUt4djA5RWdlTWQ1eE5wSXdhd3RuY0ZvQTN5OTMzcXhWX2ZfbFB0NmF6bl930gGaAUFVX3lxTE9LS0VMUDNNSDBIeEFtdHo0OHR0STJGNVlXODZLd21WWGQwWUk3WHNfTnhTSWN1ZUpJQ2o4ZlRYZ0hPREpiNGRHdExfVE85OUNLOHI5bmI1bVItel9MMzdmLWxLYXhGcGlqMWdnTEdXbUluWWRKTXZvRF9kUUJTX0NlOTNtcUpQN0cwOTRzZ3c1X1JMZXJMbkhCU3c?oc=5",
           "ts": 1784012400000,
           "sentiment": 0.5,
@@ -1457,24 +1415,24 @@
       "sym": "NVDA",
       "name": "NVIDIA",
       "net": 12.0,
-      "n": 15
+      "n": 13
     },
     {
       "sym": "WTI",
       "name": "Petróleo WTI",
-      "net": -12.0,
-      "n": 26
+      "net": -10.3,
+      "n": 25
     },
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 10.9,
-      "n": 23
+      "net": 8.7,
+      "n": 22
     },
     {
       "sym": "TSLA",
       "name": "Tesla",
-      "net": -5.1,
+      "net": -4.5,
       "n": 5
     },
     {
@@ -1486,14 +1444,26 @@
     {
       "sym": "AAPL",
       "name": "Apple",
-      "net": 4.0,
-      "n": 4
+      "net": 2.8,
+      "n": 3
     },
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 3.5,
-      "n": 18
+      "net": 2.5,
+      "n": 17
+    },
+    {
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "net": 2.3,
+      "n": 3
+    },
+    {
+      "sym": "AMD",
+      "name": "AMD",
+      "net": 1.7,
+      "n": 1
     },
     {
       "sym": "MU",
@@ -1504,20 +1474,14 @@
     {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": -1.1,
-      "n": 5
-    },
-    {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": 0.5,
-      "n": 1
+      "net": -1.3,
+      "n": 2
     },
     {
       "sym": "SPY",
       "name": "S&P 500",
-      "net": -0.1,
-      "n": 18
+      "net": 1.1,
+      "n": 17
     }
   ],
   "ecuador": [
@@ -1555,7 +1519,7 @@
     },
     {
       "title": "Petróleo supera los 100 dólares este 23 de julio de 2026 y aumenta la presión sobre los combustibles en Ecuador",
-      "source": "El Comercio",
+      "source": "El Comercio Ecuador",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRmoydThQZVh4QktJUV9OUTJZTHNhd0s0Q2l0dWRlUXVMdWFyVmRrYUJ2czlZcXo4bmtGZEpUcW1GQnAwTE9ELTVDWDZuNlZ5WDhkSC12U0JVcm41SW1Oa2Z0bC1jdEpKOGxFYmNacDM3REh3bE4ycnBxMVk0WVMxRUpTdFFpVXdQREtyR1VHaktCMlZDUEs4YnBUVUQ?oc=5",
       "ts": 1784842744000,
       "sentiment": 0.5,
@@ -1624,11 +1588,26 @@
     },
     {
       "title": "Ecuador debate cambios que marcarán el futuro de su mercado de valores",
-      "source": "El Comercio",
+      "source": "El Comercio Ecuador",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOEZWLVlnbXVSbG9LU0tZZm1wRWtKTGZkQkJuWkQxbnc1aFFOTlRNRGZrYjZKeWNvZ21idmpUSVQwWWhmdXRzSzFiUkpEU28yd3huVVVDUTd5YU96ZkZ2Nkp6VUZ3eXFIWDRZc2xCRjlXemJBcTMzN3Vfa3ZNc2NjbVhQOUF0MURkQ0FmcFdBMHlnU2ItTktoRHhZVFNJLTVhODA2S29CVGNKdWFB?oc=5",
       "ts": 1783839600000,
       "sentiment": 0.0,
       "tags": []
+    },
+    {
+      "title": "Tras rozar los 400 puntos básicos, cómo quedó Argentina en el ranking latinoamericano de riesgo país",
+      "source": "Infobae",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd1FVUnNhTGhMbFphNlk5VGxWQzAxaFROSUhTc25sd1M3dFJUX0EycGlkYVVzZ1VzZ0pCN3hlMFdwMi1CMnhIQjh3X2ttaGd6c2hubXBZT09waUNWMXBVQmhZM3hXT1A4MFlfYUJCZ3BzanJrU2JIY0wwVk1raDdOeUlQZHdBQ1RtNGRHdjBDX3d1WXRUSUYwMlVGNFA1QXVhSVRIcGtZU2s2OUVGeDdLQU1xZWxsZVl5cTAxRUhXNV9NRnAyUktFN3VEdDhCUkd6RzFkQkZVcnVnRTlo0gH3AUFVX3lxTE03ODhkdHZ0VFJ6TmdPQWdabllZWjZXZEJ2Q0R5SWxMS1ZEN0JTYWFoUm9kTVJPN2tXbFpEM25oZF9fUWpZTUZrck9UTkZuYWpfUDVWSWNuMjJXVHUxSUkxRnRLMTJ3OXBiRzMwb0lmWVNVVmxNMTRsZW5leGN4OGJ2ZFRfTm9vMGxaREMtY180aC1DRjQ3Z1ZQLTNhaTI3ay1ZLVQtcEZja2xzVEVGeXNGVE1tUzNoUE9LNVczX0MtV29kWHdHOWlhWFJxLWZMbXllLTBJT042dDAtN1MzRnNYNFNydTB5ZjIzSzZTVHJPaW5Lbi1MQ2c?oc=5",
+      "ts": 1783753200000,
+      "sentiment": 0.0,
+      "tags": [
+        {
+          "sym": "RIESGO PAÍS",
+          "name": "Riesgo país (EMBI)",
+          "pct": null,
+          "dir": -1
+        }
+      ]
     },
     {
       "title": "Alimentos Real, de Ecuador, recibe uno de los mayores reconocimientos del mercado en Estados Unidos",
@@ -1652,14 +1631,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUzRtNks5MVFiS1RzRldocWtrWmM4VkQwQTlvS2VuTjJrY09VRnd1SXpyYzF0bGNOa0s2d0cwUlVHMVFWemU3cjJEdjljeXVIMkFpQzBaS3A2NHo1U3ZraTFveTdLd0hCb3FYMkxKU1dDUzJGdkZjRWl2OXVOcmREb1lZcE9OZV9KZ3k5UkIxYVJFT0tFSUpLNEVTcVJ4cVprUy1YSkhBRnBZcE5BUGdsbEYxVzhpZVU?oc=5",
       "ts": 1783407600000,
       "sentiment": 0.5,
-      "tags": []
-    },
-    {
-      "title": "Entre remates y remesas: la economía del México vs Ecuador",
-      "source": "El Economista",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1lxVHVWUlp5Y3RwWW9OdG5PNTFZZVgwZ3UzbEltclJxT2xhLUlMazJyV3FIY21ET19JbzJMVFNJVHJndkpMOWQ4dVRHNzdMRHlOVWFlZ0tjMFIwb3ppcDIxQldLUDJRQUpJRmVJNnVlYzRxZzlWZDBGTTBpY2ZSX0xTeWpOeE5yN2ZZR21McHVKT05oVGJOOGtxVEl1OWRxRllLQllR0gGrAUFVX3lxTE1nTVNFb3RTczVZbTd2Y1ZmYXI1eHZYRi1DcWhSNXVxT1FPbjd5ZWhfWWRRMEhyQTBGdlpvU19oc2hjNmw2SUdyelAxMnpTTXBSVTNkQS11THpITkwtR2pzWlo0ZnpBYVpLbGFocUNEaV95NTgzRXdVc056U2MydXlocGtEMXM0bE1NZ1lVeFdxbEprSWd5czVoR0IwV25HSl9YczdkQngwVHE0UQ?oc=5",
-      "ts": 1782975600000,
-      "sentiment": 0.0,
       "tags": []
     }
   ]

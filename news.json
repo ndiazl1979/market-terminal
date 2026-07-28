@@ -1,10 +1,32 @@
 {
-  "updated": "2026-07-28T19:49:53.878212+00:00",
+  "updated": "2026-07-28T20:52:36.095960+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Cierre de las acciones de EE. UU.: el Dow sube 500 puntos, el Índice de Semiconductores de Filadelfia cae más del 4%; las acciones de memoria y comunicación óptica amplían pérdidas, las de software rebotan; Apple alcanza los 5 billones de dólares de ca",
+          "source": "TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUEdpdmRRZURfZzg2Q3VrbUtJSjJmLV96UnktYzZIMWNYcTdJLXZ5U0pCZ0ZDTkxQZkw5V1pLZW1nWTZSSm5sX2l0d0dRLVdLemFpNWFCQWZXUGdNQnZMTG1uZEFpWDlqSG9rT1RobTgwZFRxS1YzQnJ2dlZmSHUwbF8wVnpRYTZ1bk5abUhybTdHZzlWNzBIMVNzYmRCQXhaaFI0UnBfNkxWY2QtSGVuMXlZZkZ0ajhWcEtCQzNuejM3TGNFLTJvTElWNUttU2lLNkEzUUpPczVhWTdYWjlTQkRtSll2eE5RNVE?oc=5",
+          "ts": 1785269945000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            },
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Las acciones de Apple alcanzan una capitalización bursátil de 5 billones de dólares por primera vez.",
           "source": "es.qz.com",
@@ -172,22 +194,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Claude indexado por Google: 5 acciones para proteger tu startup",
-          "source": "El Ecosistema Startup",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdlFndlYwaUFGTDRVM181akRqVVQ0dHhyVm0xQl9HLTA4RnNGX2dlYnhqWno4VW9oMkZ5V2YzY01RdlF3aTQ5R2V5RllWWm00V0tpOGVsVENKaGZJbXFfU2ktT1REaUo2ZTctc3p5dXJqcVhzZ2x1RWk2blZQdks0aDJ0SmV1RzI4bHNLSDVPR3Ytamo4Q3Y1dA?oc=5",
-          "ts": 1785230239000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -195,6 +201,22 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "» Cuenta Pública Participativa de ChileCompra destaca ahorros por US$ 381 millones en 2025 y presenta nuevas herramientas con inteligencia artificial para 2026",
+          "source": "chilecompra.cl",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNOTl0Q3RpRzBTbGtmckJ2cExFc1VzU0RRaV9QZ3JXb0hGcWpxVndpakQ0VFh0N1FwY2VyblM2eW9yUTFXLWpEMzVOc01VVnB3YnJpU0I3cjNMemw2aFUtM21ZeE5Cd3gxUmc4VzN1RTJqYXRHdE0ydFZ0N0lxYmMzV3ZSWHF3d3JHaWVxMklMRFh0UnJWZlJjT2xESmJfZ082clNyZjVrN1dqcWNKR29rUHNkUlJjYmRTX0JrejRxNFQzX2FPNm02akVWaDc4NWVJTXNFYWs3WjF3SHItMUZyLTJ5OFZrV2NnclVHbFNDbHBqWGYzSXRmdUpWWGlHWUxUT1laaEFBWUtMajlEREV4VmpsaFRCYU1nSnQ5MQ?oc=5",
+          "ts": 1785269822000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Moonshot buscaría más chips Blackwell de Nvidia para competir con OpenAI",
           "source": "Bloomberg Línea",
@@ -260,22 +282,6 @@
           "category": "semis"
         },
         {
-          "title": "¿Burbuja financiera? Nvidia financia a sus clientes para que le compren chips",
-          "source": "Urgente24",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNTUzVXhvbWRiUWg0WTVEUEFDN2dNWFZraEhVM2ViMFhDMjVMUi1rOEg0Y2ROZGV6OW1zZkpCOEhwRkcwWlJCYXl6TlZQRmVkRmpuMGVwMjdtbUt1cUtKZGRpX3FMbWhWbU1UZV92VW02dTFwOHFFYmxEcWFvOGZjbEdQb1pGUVBSU1pkQVdNcDd1TDRxdFFQMXo0RVYtQnJVOGdXLVF6WdIBrAFBVV95cUxON21aR1FkZkxIaXp1Qy1famphcUUwdjAyWnJSSFNRSkdjbU1MbGN1VG94bWRDdzlkT2pXYnJ6Umo5VlE2ZjU1cExqRFI4OFRGMlJXX0FFTmJoQ3pDM29CMVNTZlFnSlIySENvTnZPVDdxX0hobFBrY3ZBYlhrMnJNSGNOU096ZWRBNWhiOHZXU3VFX0VEdkRKMmRCWmpnSVdvOE1nN3VPVmZDSXg1?oc=5",
-          "ts": 1785252480000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
           "title": "Taiwán detiene a empleado de Nvidia durante investigación sobre contrabando de chips",
           "source": "Forbes México",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMjJDcWxfYlVBdHZWbFFPVkpyOVhIQkJTcnFQY0xMb0l2VlZKdGdQTXBtdGJJWmM4V3VYMmZTbDN3bjZ3SHpFcGtXLWpMWXZNNnlTTmpOeGRwVDFMekVteXlDYnFiM2NDV2pNeTFjMUxfSzVVcDJzSHJOcmtIQlo4cW4xRS1pU1ZodWc4WFEzM2xlblEzQXoxN1RhbWk5bkVSV2ZMS0paU1d4LUk?oc=5",
@@ -292,6 +298,40 @@
           "category": "semis"
         },
         {
+          "title": "Mercados en la encrucijada: ¿optimismo geopolítico frente a dudas sobre la inteligencia artificial?",
+          "source": "InteractiveCrypto",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTnpSbTZHV3dtY3ZnRUJ4TEhESFJMYmQ2RHJfa0g1NXFZMXBHMGVsZGxiRWdTeFVWbGlkTVNFWHl5Rm12WEc0dTB4LVRaRzY1Ni1KS1lpWk9JbGp4VHFMNHhOb0V0YmJwY2ZvSmxORUNyM2ZhY1VBTzdVeV9RVnV2dUJNeEtPU2Yyck5zU2d5OGdGYzI5OVgtczl4Q2VNM1dxNGJTbkV1bW5fTEdsMmZ6djFoQ3hOQUxrTWhUT1BDaUVINnNYVDF0Y0JTaVNtUQ?oc=5",
+          "ts": 1785250828000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -2.4,
+              "dir": -1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 2.0,
+              "dir": 1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": -1.6,
+              "dir": -1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "El Nasdaq 100 pierde los 28.000 puntos",
           "source": "XTB.com",
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcmpJelQxWUdFc3N1blZyOGdQRXJadzc5UHFPaEMyZkxzLTBTM2xsdmY4QVlLbUhYVTJsR1pNOWc4UHg0ZWU0MndpNHVfZnFBUmVXR2haRC1IRHZ3bmhKZEd0UWE1ZTlMV2RCRGJ2eFU2d0gxYlU5aGhtOHM0dWNJbXlLWEdjVEMwSERIVFNBYUVzRVZhTHJFaXJMeE9ZdklJZXUzcXU4R20wOFFYeERndDlZai1TNjRGT3JwRWY4VkJNWS1JcjFkN1lpaHQ4N2RGNlFpV0lJb0l0VmpKVFA4TV9COHE5YkttN0JFQ0xzdjR4MzZSZUE?oc=5",
@@ -301,7 +341,7 @@
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": -1.3,
+              "pct": -1.1,
               "dir": -1
             }
           ],
@@ -317,7 +357,7 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             }
           ],
@@ -333,29 +373,13 @@
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             },
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Taiwán detiene a empleado de Nvidia en investigación de contrabando de chips de Super Micro",
-          "source": "es.qz.com",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdHlpV1k4OVlvWXMtcTkyc05yTXp1d05oYm1Eak9IN004MHl4TUtpY1MyYV9uVE1keVYxclVyVE81eW9vdEIzNDJzWlAzMmo0TjRjRlhTUjVOTTdPR3l6TGUwMXNyejNYd09JYm81eVVFaExEZVQyUzFmZjNVRXAzV1FnVUZfWFI5bDBhZHRqX2FseHBOZUhEUGQ2YlQ1eHZlZ1JuU04xMnhsVkU?oc=5",
-          "ts": 1785245068000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -367,6 +391,22 @@
       "key": "space",
       "label": "Satelital / Espacio",
       "items": [
+        {
+          "title": "Duro revés para las empresas de Elon Musk, que ya no es billonario: Tesla y SpaceX lideran la caída de las tecnológicas en bolsa",
+          "source": "MARCA",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeWlMNmdHZ0NLei1KendvdlFob0txUDhfbkx6bG1XbGk5M3RTRThNTTV6SjhnSlFUN01tMmZ5NEpqbTN3Rjg4WTc3eTlOUUhoN01LN2Vhd01kWHdEWmdhNmJFVm93OU1VeUtBeXhfS2x0QmhOamo1MFduaVQ4VUtGRG9LYkptMDlqUkx3OS1ZNlllSkhDY3BGZUs3TU9fWXFwdXpteWlRZzdSRXFUSXNwcUZBeVRJWHJCbmt5ZlJoeVFPaHFNRWtPMV84bmwwUlZL?oc=5",
+          "ts": 1785264986000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "TSLA",
+              "name": "Tesla",
+              "pct": -3.8,
+              "dir": -1
+            }
+          ],
+          "category": "space"
+        },
         {
           "title": "Elon Musk vive un mes negro en Bolsa: SpaceX y Tesla pierden más de 1,2 billones de dólares en capitalización",
           "source": "Cinco Días",
@@ -464,22 +504,6 @@
               "sym": "QQQ",
               "name": "Nasdaq 100",
               "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "space"
-        },
-        {
-          "title": "Falling SpaceX and Tesla Stocks Erase Elon Musk’s Trillionaire Status Weeks After Historic Public Market Debut",
-          "source": "TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZEZqMmI1RW9rWHFqZUhlMzloV3JWM1QwWTJOS0pjRGZQRm1Tc191ZVBUMGxmVkEtdUk3TmNGVXVKZDk4NkxScmVuenc2TF81UmVEeW5qU0lNa3BWYm83LTRCMklnMVZrMXQxZW12WWRSb0ItY0pGMm1MUUk2aFRpVU9mU2Y1ZnE1YXlBemNlYUxxMU4zZ2x2VG5fUjRKbzZsNUlQbWYwNmItLURsSzZaMVFJcmdHN0FiRk5INHRRbm1BdlVmczRrV3NJU0VEVHhuYS11QklNYklTZzg?oc=5",
-          "ts": 1782457200000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSLA",
-              "name": "Tesla",
-              "pct": 1.0,
               "dir": 1
             }
           ],
@@ -1408,26 +1432,26 @@
     {
       "sym": "WTI",
       "name": "Petróleo WTI",
-      "net": -8.8,
-      "n": 25
+      "net": -11.2,
+      "n": 26
     },
     {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": 8.6,
-      "n": 13
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": -5.9,
+      "n": 5
     },
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 7.0,
-      "n": 20
+      "net": 5.4,
+      "n": 21
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": -4.4,
-      "n": 4
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 5.0,
+      "n": 11
     },
     {
       "sym": "ASTS",
@@ -1448,22 +1472,16 @@
       "n": 1
     },
     {
-      "sym": "AAPL",
-      "name": "Apple",
-      "net": 1.6,
-      "n": 2
-    },
-    {
       "sym": "SPY",
       "name": "S&P 500",
-      "net": 1.5,
-      "n": 17
+      "net": 2.5,
+      "n": 18
     },
     {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": 1.3,
-      "n": 2
+      "sym": "AAPL",
+      "name": "Apple",
+      "net": 2.3,
+      "n": 3
     },
     {
       "sym": "META",
@@ -1472,16 +1490,22 @@
       "n": 1
     },
     {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": -1.1,
-      "n": 5
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": -0.6,
+      "n": 7
     },
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 0.4,
+      "net": 0.6,
       "n": 16
+    },
+    {
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "net": 0.5,
+      "n": 1
     }
   ],
   "ecuador": [

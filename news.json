@@ -1,10 +1,26 @@
 {
-  "updated": "2026-07-28T15:24:21.327422+00:00",
+  "updated": "2026-07-28T16:56:11.671131+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Las acciones de Super Micro caen tras la detención de un empleado de Nvidia",
+          "source": "Benzinga España",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1JOb2h1THJqUW40ZnhNYVVqVnRJcVRxWGhGZzM1NndHS24tampLdDV3YWREUzNnWmNfeVNYVm5VeXB2UjV2Rl9yUzFudl81ZHdZSUJYSS1zMnBwNjdFMlA2eklfVHN0c1VlTUQwdnFzcXFKM0FSSDBuTWI3QXdhMWtUbXNQa2dON0tOcnQxa3FfajV4?oc=5",
+          "ts": 1785252081000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": -3.6,
+              "dir": -1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Deutsche Bank Slashes Tesla Stock Price Target Over Lagging Robotaxi Progress",
           "source": "TIKR.com",
@@ -53,7 +69,7 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             }
           ],
@@ -154,28 +170,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Las acciones de Apple superan a Nvidia para reclamar el título de empresa más valiosa.",
-          "source": "es.qz.com",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PRnY3LWxIMktxNmZBcGh6WGZHeExkMHNuYWxhQURpWURNRVhqaktldzExOGVMS1VoSXcyWkhldlNtV3BGUnNPMWdBTVVpMG44cDdiaGUxUlZCaVVKOU5lcXZ2Q2ZuRW9XTVRPWjNqWVJody1odzROeDVDQQ?oc=5",
-          "ts": 1785175468000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
-              "dir": 1
-            },
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -183,6 +177,54 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Un empleado de Nvidia en Taiwán es investigado por presunto contrabando de chips de IA hacia China",
+          "source": "La Nota San Juan",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUFBXckhybVhvMHdmN3pma0lMNE5UbXZpYy0zTkl5a2JwX0JQYlBfX1lUcFZpcHVsT1drN25GLXBJdFVXZ01wd1FNbVFjc2g5UHFreFJKT0xnYkMzWFpnTEZzdmhjcENTSnZWWW9jYkI5SXVpSnlTdW9XbkpHazhBTnZsMERvWVdYMFVnZGdsYXJ4M1Zra1ZKc1QyeG9wLWJxSHNaV0FnU09LM1RIbVZDakJhVE1Ja2N3TTRaQzFrZTQ?oc=5",
+          "ts": 1785257363000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Búsquedas con inteligencia artificial: SEO más allá de Google",
+          "source": "Marketing4eCommerce México",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbTh5ZWwwZW9Va2JrQ0hsRS1tTUVLV1J5Z0R2b0RrZ2o4REVCanhwNnpfdm5MQWJ2dGlfejVzX25PaDBJMFdRUXNfOFBNRnJIVG5Id0oxVkl3NzA4SFV4T08tc2lpMzBlZzRHNXNjU0NUUTZpaU9FLUNkXzFqLXdjTTRrTk9wUnFYMWw4OXJURzRMSWlHckpMZXVidENxNXMxc0Fsb0E4b1BSQVAxVW9udVJB?oc=5",
+          "ts": 1785257059000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 0.9,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "El mercado acelera el castigo a los semiconductores, que se encaminan a su peor mes desde 2022",
+          "source": "Cinco Días",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPek1TWTBjaWZmS2JuN09GZjI4Z0RkZWw4cVFCbUp3QmtSbVprMEpXMkhHQTJfcjdMRTdCdGcwQWhPY2lqVW5Id1hrb01wTEdHaGxiZlEyaGVVUlNURkdzU0xlYkhvRE11UG5VcFBFUDkxR3E3c0VPMHl2TjhOdUZkamR0SzJlWGt0aU4weF82RE1iQWJacXVhOFRrZjJnSlVUXzl3TExjTXhJRFQyekFhbnJlRURaanU2WWczZUR2S29kRXVVU045MFpRQ1dqbGZKT1hKemtoODhZbWRWWHkzOHRJWkJSaUczTlRjdWdacULSAYQCQVVfeXFMTnBuUDVld2JWbFFVRHJkT25ZS3VSVV9FRkFVdnFBTHV6LTlDT3FrNy1yUzZ0ZzRfc1dGOFl2c3pjNkJoMTBvSUlUN1VTbGdXV0ptc01WRVFobHVvWVFiMnplbGFZVllJTUlOLVBIUFRNeS1BbHp5N3F0WFZ0U3NNNWR3blk1RGhHMTRydXl6Y3RMYS1SUFgyMXRCSTJybEpWR0hHY2E2ckpOaTRvbGFfaUhkTTZEMHZqUHA2eURJWk40dUhySXlFMDgtTjdhaTdQcjIzR2FBMGxrc0VSZ09BeFR3YkFRY3ZiY1NsQl9RVUw5RzlmLTNuUHdKX2ZoY3pLR2JnRlY?oc=5",
+          "ts": 1785254828000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Taiwán detiene a empleado de Nvidia durante investigación sobre contrabando de chips",
           "source": "Forbes México",
@@ -254,22 +296,6 @@
           "category": "semis"
         },
         {
-          "title": "Taiwán detuvo a un empleado de Nvidia por contrabando de chips de inteligencia artificial a China",
-          "source": "eju.tv",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN2hWamt4TnVDcXhXRDlURDVFem5rWkYwNTJDRlJCUDcyT0d1bFlkbU9UQXh6QW1GS2RxTExubkNaTGkyZkx5WWlGOVhLY0RqWnJXM1UydS12WDRIaGh6ZElmYlJxOVVXOXZkclpIaFkxT19yNTZ2RFB5UDVMVTRTREdObjZpWGVWOWRBcUtodVk3c0tKVE92c2FIZFFwYnhGY1JVWFJEWTROZHQ3VHlFSGpEQkVOZENGTUtJbWZB?oc=5",
-          "ts": 1785246886000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
           "title": "Taiwán detiene a empleado de Nvidia en investigación de contrabando de chips de Super Micro",
           "source": "es.qz.com",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdHlpV1k4OVlvWXMtcTkyc05yTXp1d05oYm1Eak9IN004MHl4TUtpY1MyYV9uVE1keVYxclVyVE81eW9vdEIzNDJzWlAzMmo0TjRjRlhTUjVOTTdPR3l6TGUwMXNyejNYd09JYm81eVVFaExEZVQyUzFmZjNVRXAzV1FnVUZfWFI5bDBhZHRqX2FseHBOZUhEUGQ2YlQ1eHZlZ1JuU04xMnhsVkU?oc=5",
@@ -316,38 +342,6 @@
             }
           ],
           "category": "semis"
-        },
-        {
-          "title": "Un empleado de Nvidia en Taiwán es investigado por presunto contrabando de chips de IA hacia China",
-          "source": "Ambito",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVDhiUE5Sb0lGbkd4emxUTjI2UTJOMWt0T1ZjMTdVMW5xamc5RjRFY0g0YkxweVVDRGdXZDB3MU1VNXBVNE9vT1V6NktlV2ZJTmM5S0JRYkd3bTZ1MEtiajN6ZXRiUkRVZkdXVkI4UVR3eUgzQnBtQUhLS3ZtaTQ4Vm1fTTBLRkJ6QkFhUjVDVHhvZDByY1ljUkRUUVFTc3JidnJIcnJCbWVFVUVKSkRodGtDUlUwV1p6aEVn0gHAAUFVX3lxTE45VDZVMUZDdmktN2d1bk93Vk4yODhjcHNKeGl5c1VVcWRIMkJ4cHIxakRzcFNaQUpTTVRVMk53el9lc0pWQVVXbUhWYTA3c1ViS1JvRzRjMGJlbDRIYUVIdkNlWEdvdUFfWW1VVFhwT2JlTnlJdTBMRW1NOGI2ejRTeG55TUxWSWl5QkdhZVlRamt4WjZzdm1ZUEg5aUwxUXU5ZUgtWEhtbzEzUzdpN2hESXZzVk4zZlpZZHZVTkdjNA?oc=5",
-          "ts": 1785243120000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Elon Musk sobre el avance de la inteligencia artificial: “No hay metáfora que explique el cambio que experimentaremos”",
-          "source": "TN",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWmtQdWRzWnJLTTN4LVU5TXYyeHV2c1BFZVN4b3BuTFJRVUJ4ekRhQ0J6MGE1YURLa2VnVmlJX3BEUkNnRGtxVVNqNnZYU05xeTQ1aU5CelRmMVBQSm1hWFBwdzc5SXBXUHJ2aGdsRnZ3Z2kzbk9RRlR6Z1Z4N0hVS2RZMjFTbDNOWGNfTW1qRTQ4OGgxb3NvLU80S0VfSEJ5SVd5NVdWejlPalNKVWFxZmxNNHFUdlBGZlJhUXRkdGFlY1NETFJPWkFRQUQyODhOb1UyN1A3dDBiaGwzdmVFQTVHUnhxcS1DWlQybExuRW40b1nSAYcCQVVfeXFMT0dnV3pTVGt0RUxSQ0FleXIxdXU4X2NDeldlOE1NSzQ5YWdMX3dnYzNEdWl5cjJvUVc1LXhaV1ItS1Y5T1BXbER6TlQyOURMVnR1Slp6VDZZLWptWUhsSHcyQi1NcnE2MXp2dU1NeVpWYzg5VlZsY0JtbklrUmVBdFl2WmxCVC1XUGtJcVdUbjQ5WEpUY016R09HX0haYlhJcXAyVmFRVkxVN2lXMUdLd3pkZ1M4ajhKa3lQN1VrVmZYOWRTMmhpd3JUazJfTjJHWlRid2FtWmtMazI0b2hzSmJLazY4WkVzRVEzYWc1bllUa05QbnJlTUlkeFhZaGs2ZXlfTjF3b2M?oc=5",
-          "ts": 1785242655000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSLA",
-              "name": "Tesla",
-              "pct": 1.9,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
         }
       ]
     },
@@ -365,7 +359,7 @@
             {
               "sym": "TSLA",
               "name": "Tesla",
-              "pct": -3.8,
+              "pct": -3.2,
               "dir": -1
             }
           ],
@@ -458,6 +452,22 @@
           "category": "space"
         },
         {
+          "title": "Falling SpaceX and Tesla Stocks Erase Elon Musk’s Trillionaire Status Weeks After Historic Public Market Debut",
+          "source": "TIKR.com",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZEZqMmI1RW9rWHFqZUhlMzloV3JWM1QwWTJOS0pjRGZQRm1Tc191ZVBUMGxmVkEtdUk3TmNGVXVKZDk4NkxScmVuenc2TF81UmVEeW5qU0lNa3BWYm83LTRCMklnMVZrMXQxZW12WWRSb0ItY0pGMm1MUUk2aFRpVU9mU2Y1ZnE1YXlBemNlYUxxMU4zZ2x2VG5fUjRKbzZsNUlQbWYwNmItLURsSzZaMVFJcmdHN0FiRk5INHRRbm1BdlVmczRrV3NJU0VEVHhuYS11QklNYklTZzg?oc=5",
+          "ts": 1782457200000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "TSLA",
+              "name": "Tesla",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "space"
+        },
+        {
           "title": "SpaceX anuncia su primera emisión de bonos tras caer un 10% en Wall Street",
           "source": "Diario Socialista",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTERTTDlTMVAweVF0YWxyUWEybGlBSVdPZDlWYWJwUnkyeVJiZG1BTGZOaHRNSkpQM0RyZkRFc2hEdkxMTl9DblhpRWEtMG5kUXcwSkJFeE5OdHhCMnlCaG9FUDJiQnl3bEh1SFBVY1hKQUQyWXZPZ2h3VzdlRk9NUm80U2dpQ0R1MWtqSDhTSXQ2VzdhU3pSTTZwVThxcFRIbnQxNjJ5WXAxWGhiRTgxSGdja1Y?oc=5",
@@ -506,22 +516,6 @@
               "sym": "QQQ",
               "name": "Nasdaq 100",
               "pct": -0.7,
-              "dir": -1
-            }
-          ],
-          "category": "space"
-        },
-        {
-          "title": "SpaceX de Elon Musk se desinfla en bolsa y borra casi toda la euforia de su debut histórico",
-          "source": "El Constitucional",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQXdOdU5pS2hYdTFCZWRIREx4U2R0Yk85WVBCbWhITzU3QWpMTEdCYnlIN29WeUFxZWx0aGVnbmN4d2YtSHI2Y0xERzlhRTNOM1NiVzlLdndadnlybGkwRnZNNWlvY2t6bXRMVkxGOTNUNkkzVkcxcGpSSWhCbThRQVRfUG00Q2pvNEc3VzhUWnlILTB3Uzg5TWo0UlNPUzlERjJZeGFQYWRiaFN3RHRrSTFsSl95VHNaM0xMT2FsMTExU3FLQ3ctSE90Q3VPOWxwck41ekpMTzY0Zw?oc=5",
-          "ts": 1782111600000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "TSLA",
-              "name": "Tesla",
-              "pct": -2.1,
               "dir": -1
             }
           ],
@@ -714,21 +708,15 @@
           "category": "defense"
         },
         {
-          "title": "Lockheed Martin, RTX y BAE Systems lideran los beneficios del auge militar global en 2025",
-          "source": "El Boletín",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOVdJS05qREJnXzFwMktBS2FBamVieVRZZG1UdkhpUEF5WWR1QVF3enIzNGNyaW1XZEE0T3A5c2ZhdUFadmo0cmVPanNMMFBsMGhDS0ZMTV9GcVJVUjZUZGNkRE44dlE4SVZ6X3JQRVhHSHg4c2xsQmpzbVJld0N6V3gyd2JYWVZxUFNOb3FBdVBpMk92TTB1WHJibWFwT05FaFF1RWJRejEzNHlTOHphS3dqLUlOd9IBuwFBVV95cUxNeU5acnFZUW9WTHd3MFBJN0dXaWFtZ0pkUjc5WDZXX2tzazZ3T1pJanhPZTNid0o2UTdWVEtYTlFGdUc0SnE2ZW50X0FpODlBRjIzTy1GMlV3eGxVRWdyMFA0RVpCNGl5aXhyb21qNG4zWjZIRkxZVkkwRWNNNzlUN05lRC1HZWZNWG1uejVzSkRhcEdySjJCR21hT01nbGx6WlNSWGlERHB4ODQ1WHByRlRMNGZDNzc2amt3?oc=5",
-          "ts": 1777273200000,
+          "title": "El Gobierno gastó “más de 34.000 millones de euros” en armamento en 2025",
+          "source": "Diario Red",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZDBtSlZJcXAxQnFqcXh3SFVCX2pTUzJwQVlKcWE5YzNOMjBGR0h4ZU1vNlNicGFrVURybmo1VFc1Q0d2RmNBbk9NMGFIM1dqTDMzc2dHSWR6SVEzMVc0X2l6LUQ4NW5rRkI3U09iNVEwVlB2SlZNY3JWelpmaldBOXNxQUFTRFdVUDFxenkxU0NwVlNfTU41OUhkZUZtdjFnbTZCRlByWk9UMGVQQ3htZGZZZUkwdHpRclk0TUh6SG7SAcYBQVVfeXFMTVEwazFyb1F4WUdicEVhM3ZidGlYMjNBR0gwNXhjWW55SDRobFVOaFE0cnZZaUk5R3pjRDJLeUh2Q09oM0t1UmQtVjFTUjI4WmI1SGRsM2cxUGJ5a2JmMkNHS3pDN1pndndKczhFa1gyQ1BSMXltSmZkcFI3YUFSVjNMeVVXTGZEQTB2a3I4aVVLbGdicDE0VktEOVl1NnZJSE55OGppYWRmQ3IxVDJXdVQtNUh4dl9hQ081YjdkeVFKWkcwWXZ3?oc=5",
+          "ts": 1773817200000,
           "sentiment": 0.0,
           "tickers": [
             {
-              "sym": "LMT",
-              "name": "Lockheed Martin",
-              "pct": 0.4,
-              "dir": 1
-            },
-            {
-              "sym": "RTX",
-              "name": "RTX (Raytheon)",
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
               "pct": 0.4,
               "dir": 1
             }
@@ -742,28 +730,16 @@
       "label": "Petróleo / Energía",
       "items": [
         {
-          "title": "Petróleo sube por conflicto entre EU e Irán, ensombrece las perspectivas de paz",
-          "source": "MSN",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRVdWUzh5dTdUSjBxazkyZVZjZDdaQXNSMUs0S2dPb1pqdlBNOUdhdDBiNnNabFppWFpNTFJkdEdYVFJzSmVrdWdCMW1oN0tJVlpkV09vNHo3ZVhxQzVOLUttbV9SRjJtNXBzczdWUHc2OVBJR1RqamFVcDRmSkpRMFVDZ1RhY3NnODd3dk5BMFhxbXBxU0U0N3hkVkNoRFpJRGNBeEJ2aFhjRWk3QmVlbTlvQnFWRmJBUURsdUZnSlNZNWxiNWpmUVMtM2JfdWZKeEdCdTZyTC1HUFJRTXE1YQ?oc=5",
-          "ts": 1785233022000,
+          "title": "Noticias del petróleo: WTI y Brent caen mientras las esperanzas de un acuerdo sobre Ormuz superan los flujos de crudo",
+          "source": "FXEmpire",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNZ1RQRXZ1cUdFNjhpbHdObm1UN0NYQmF2cDdzOVNhOHVMdUV1ejJOb0p6d0dOTGt3LW8xalp2dzlEVzYyNElWamdSbU5fRlRuUjI3WjIxblhSdHN2M3NpTkR4X3dpcDVpaXZrUmxsdUhKeWZxazdWTU83b1Z3NTVSdVBIYWxUZFJCbHFnVzZiX3daSldGMDhuU3cxY1J0VGFsR0lLS0E2ZkMwOW1icVJuM3FrTEd3Zy1pSGVwcV9aV0YzemI4Nlh2SnBkVWtUYXd2MVVPak5Ca0xrakZxMkRHLXFyVFRCeWNIbFhTR0hGbUhWWGdkVGFPb215eXZqUHhsNXFSdTdaRWpFZjdES01Ueg?oc=5",
+          "ts": 1785252300000,
           "sentiment": 0.0,
           "tickers": [
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
               "pct": 1.2,
-              "dir": 1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": -0.8,
-              "dir": -1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": 0.5,
               "dir": 1
             }
           ],
@@ -943,22 +919,6 @@
       "key": "war",
       "label": "Guerra / Geopolítica",
       "items": [
-        {
-          "title": "El Ibex registra su peor semana en dos meses mientras la IA mantiene el impulso de Wall Street",
-          "source": "Cinco Días",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeHVkQ2FGZWpOeVZFbUNIUWNVWlFKanRVNG0xejF5cFRIUFo1cFVkX1UzVHhnaVB2UUNOLUhkMjlDYkVsbHFHU3gzUTlYcm9rVVRMbzMwRFVSZUhvRGFaVFpPdjFWV3dfNjNKOVFlZXdrMXhoY29OZW1rd1NTWjl2S01vM3VORS14REYwNWRKdkLSAaQBQVVfeXFMTWZPOGxGWmZ0NHVJZ1pvQkEzSWZSTWd4RmF0OXo5dmFacmhNMks0WXI5VTZhUHBFeWd1SW1VS09KU2RmcmV6QmN2LW1nQTl3RjJjOUwwXy1zcncxRm1HZVlHV3U4MTlLZEhWektCRFZXOUw4R1hvb3g3aXo5Uk81OXJnUERYbnU5RG54amE5RGN4OGVvQ0RNb3ZsU29YTW40LWk5THA?oc=5",
-          "ts": 1783666800000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "war"
-        },
         {
           "title": "La Bolsa cede ante el cóctel de guerra, inflación y ajuste tecnológico",
           "source": "Cinco Días",
@@ -1204,6 +1164,34 @@
             }
           ],
           "category": "war"
+        },
+        {
+          "title": "Las bolsas vuelan por el fin de la guerra, oro sube y el petróleo se desploma",
+          "source": "Negocios.com",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWVpiUEVWZGR3eXNtRm41NkFadmFfVG9yRmUtRlJWSU1PblV0QnI4VHp2akx4Nm1McEFZN252Vm4yQ29jZUdIUlRRUWlyUkI3TC1oWFZBTjFoUEVJWS15TFZrbHE4Si1rNHJXMnRCRXlPZHFKVEJQcFpwRkUzNnVud2tBRmI1S1VZZ3ZITEw5MXY2OHBWY2FVYTZ6NzZKWDRIMFR4NW9KZ09OSTI3QzdFSXJrMnhFeEVXVjBJY2FZc1FOXzJLdXR1aTBjTFBUeDg1a2lqT9IB2gFBVV95cUxPZFJlVXJ3T0kxNkQ2NVhJZFF6NF9IZlRja1lHX2EtQUYyY0lHaVhYaXBtOWZDNVRZYjVRaU9YeFpMb1FBNmlFRk5XMW5uSlhmSjg1dnZpMWgxdGlBbmxHbURYeEJpWGMxX0FXZzlUS1BqSGdkbnJEVGdsX0pRR3NkMzNocldId1pFNDNnYnM1Z2lCMklaN1NLejlLWHI4RUd1bDNzMVhoTTg0Uk1rN3p3bGJzYTVSRjlWZzJCY1RhV2k3blVVUnN5WTZkWTRPTS1EeUQxSW1iVC1aUQ?oc=5",
+          "ts": 1775631600000,
+          "sentiment": -0.25,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -1.0,
+              "dir": -1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 0.7,
+              "dir": 1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": -0.4,
+              "dir": -1
+            }
+          ],
+          "category": "war"
         }
       ]
     },
@@ -1211,6 +1199,28 @@
       "key": "macro",
       "label": "Macro / Bolsa",
       "items": [
+        {
+          "title": "Wall Street opera mixto pendiente de la Fed y Oriente Medio, mientras los chips se hunden en todo el mundo",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYl9ITW9DUDUycm1oLVdHQ09hWlZOQzJrN1YyNWwxZXc2b2VuVEZibDI0WFcxT1BIVkY1ZTQ4eHhDb2huY2s3UmVFQ3hWc3Rzdk1ZaURtZ0o3Umd5YmNlZmlDSjhvVDUtYmoteEpYWmFsSnVGeVNNXzltU1Y2eTk3VHkyTjA1NTJmM00zLS1HU2VqYXItM01KVlBDbWlzX1lNRXR2Q012WDk5RXNiZUk1ajJaNFk0M1k0Rm1vTVBFTTdLcWdobWtQbnNRWkp3QWpScV9FaFRZU0VRbFJsYm5pc3BKMUlwTjBVQkRn0gGGAkFVX3lxTFBqWDhLb3JKdTZZVnJZQ0hsREcxQThJM0dYYy04R1gzNVEwYjIyUE0tX0RiLVZCS2E5cGJ0OG4xN0Q3SGRXaVZ3WGZ1TmZNNjdPY1k5TGdLNzgtMk5rRGFBNFVjdFlUQnVzdmdPRk5iT0NDT29GX3RmYXpqX3pOUWQ1VDlGb0E0T29tUXJvOTR2QmNjb0RRalBhVXhQb1JQa3hWQTRoUGNrSTM2dklsSkNVMjR6V3ozdktyMDZnUzlTdHdzZEVSTGFnUW95YzVERGViWWV4WHFOQThlN3JDVXEtb29LeW9ScHhSZmZLanhmQUUzQmZWYWFOcTAzLVJ2cWs1N1I5ekE?oc=5",
+          "ts": 1785253281000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": -2.0,
+              "dir": -1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": -1.3,
+              "dir": -1
+            }
+          ],
+          "category": "macro"
+        },
         {
           "title": "Bolsa hoy: por qué el Nasdaq cae antes de la reunión de la Fed",
           "source": "El Tiempo Latino",
@@ -1253,13 +1263,13 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.6,
+              "pct": 0.5,
               "dir": 1
             }
           ],
@@ -1378,38 +1388,22 @@
             }
           ],
           "category": "macro"
-        },
-        {
-          "title": "Wall Street termina a la baja tras comentarios de jefe de la Fed - Mundo | Tvn Panamá",
-          "source": "tvn-2.com",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdHBPY25VOVVQRXZjOHNQV0RYSkRkTVpDbm5EZWdaNlJTeHpPaUt5VkExcHJhbnRLZkJXRXNpZTRtTGFtSERvYy12YklaV3d2QmJzWF9WYWFoai1RbTRaRHRuZTg5TUEteXVkTGVOYkZQRVNLRl9SanlDT3lQTXRUaGphOWUyd9IBiwFBVV95cUxPOVdZS0otSmp5NjhpNTF1LW1ZeEgxT1h5WDhlMjA2OW9xbkk1Z0o0bEhJblh3eVNBZ09EYUV1Z1U4VnhEV2ZfbEVXaUFFbTNHREdqbWtMQ04tcnY0dTFRUFowOXBYNWczU0VrRGN2dVhhUHhqVFFKdlN1WWJpdmhqcGI1dDMzZUN2ZFJz?oc=5",
-          "ts": 1782889200000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": -0.7,
-              "dir": -1
-            }
-          ],
-          "category": "macro"
         }
       ]
     }
   ],
   "tickerBoard": [
     {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": -5.8,
-      "n": 7
-    },
-    {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 4.7,
-      "n": 20
+      "net": 6.6,
+      "n": 21
+    },
+    {
+      "sym": "WTI",
+      "name": "Petróleo WTI",
+      "net": -5.3,
+      "n": 25
     },
     {
       "sym": "ASTS",
@@ -1418,34 +1412,34 @@
       "n": 2
     },
     {
-      "sym": "WTI",
-      "name": "Petróleo WTI",
-      "net": -4.1,
-      "n": 24
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": -4.0,
+      "n": 6
     },
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 4.0,
-      "n": 12
-    },
-    {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": 2.2,
-      "n": 17
-    },
-    {
-      "sym": "AAPL",
-      "name": "Apple",
-      "net": 1.5,
-      "n": 2
+      "net": -3.2,
+      "n": 11
     },
     {
       "sym": "GOOGL",
       "name": "Alphabet",
+      "net": 2.2,
+      "n": 3
+    },
+    {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": -2.0,
+      "n": 4
+    },
+    {
+      "sym": "SPY",
+      "name": "S&P 500",
       "net": 1.3,
-      "n": 2
+      "n": 17
     },
     {
       "sym": "META",
@@ -1460,31 +1454,27 @@
       "n": 1
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": -1.0,
-      "n": 2
+      "sym": "AAPL",
+      "name": "Apple",
+      "net": 0.8,
+      "n": 1
     },
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 1.0,
-      "n": 17
-    },
-    {
-      "sym": "LMT",
-      "name": "Lockheed Martin",
-      "net": 0.4,
-      "n": 1
-    },
-    {
-      "sym": "RTX",
-      "name": "RTX (Raytheon)",
-      "net": 0.4,
-      "n": 1
+      "net": -0.1,
+      "n": 16
     }
   ],
   "ecuador": [
+    {
+      "title": "La mayor camaronera de Ecuador da otro paso para expandirse",
+      "source": "Diario La Hora",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNlBIMUE3MEE2OUVIV2VtRTBINVlOdDl6LV8wRGJqaVhXQTh2aEtmNU03ZnVkczhlMXJJTTk2aUdPaUlQX1dZQjBzcDdpUGlHTkNlNVBjZ2U1TXh2UzUzdjR6MGhpZndnOC05dzRWTmh1UDZxNFFqUm1laWprLTNsel9WSzZrbDlGbzh4bWFsYkw1Vm1JYkxYT1dSeTdQbWdTTnhrNnRlLXcwVXRyYk5oOVk1SQ?oc=5",
+      "ts": 1785255307000,
+      "sentiment": 0.0,
+      "tags": []
+    },
     {
       "title": "Crecimiento histórico del mercado de valores ecuatoriano",
       "source": "Vistazo",
@@ -1621,14 +1611,6 @@
       "title": "Entre remates y remesas: la economía del México vs Ecuador",
       "source": "El Economista",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1lxVHVWUlp5Y3RwWW9OdG5PNTFZZVgwZ3UzbEltclJxT2xhLUlMazJyV3FIY21ET19JbzJMVFNJVHJndkpMOWQ4dVRHNzdMRHlOVWFlZ0tjMFIwb3ppcDIxQldLUDJRQUpJRmVJNnVlYzRxZzlWZDBGTTBpY2ZSX0xTeWpOeE5yN2ZZR21McHVKT05oVGJOOGtxVEl1OWRxRllLQllR0gGrAUFVX3lxTE1nTVNFb3RTczVZbTd2Y1ZmYXI1eHZYRi1DcWhSNXVxT1FPbjd5ZWhfWWRRMEhyQTBGdlpvU19oc2hjNmw2SUdyelAxMnpTTXBSVTNkQS11THpITkwtR2pzWlo0ZnpBYVpLbGFocUNEaV95NTgzRXdVc056U2MydXlocGtEMXM0bE1NZ1lVeFdxbEprSWd5czVoR0IwV25HSl9YczdkQngwVHE0UQ?oc=5",
-      "ts": 1782975600000,
-      "sentiment": 0.0,
-      "tags": []
-    },
-    {
-      "title": "Mercado de valores: la reforma que puede impulsar la inversión y el empleo en Ecuador",
-      "source": "Diario La Hora",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdU04S0NFT0dfbFRGbmdScW9iSnREMFF3em40Szk2Mm9WR0VESUk1OGdNNGJVTnRWV25ieXJQaURvRkNmQ05fVnpEcl9vTmp0X01paUpnY3FzbkhVQXRiVWVPMFJ0azZRdEZacUE4WjVpOGhBZHRoOGRIdDBzdkN6OWlQRkNPbTRJWTdJS3FWRl9jT21NUGg2UnZRZW9ZSGlNRWYtMjN2Q3VNTmNySmlScFJpaWxkeVIwRkFnc0k3VHg1VHpHVHc4ODE0VC1KeGhYdElEbQ?oc=5",
       "ts": 1782975600000,
       "sentiment": 0.0,
       "tags": []

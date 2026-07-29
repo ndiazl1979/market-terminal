@@ -1,10 +1,26 @@
 {
-  "updated": "2026-07-29T12:08:53.002007+00:00",
+  "updated": "2026-07-29T14:29:18.527931+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Las acciones de Meta caen por noveno día consecutivo ante la inminencia de los resultados del 2T; ¿podrán repuntar?",
+          "source": "TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQanJZRFU1T1V3bXk1bmZadVpqVUFZNnZwaHg1UnVpM3loS3FZTzJvSk5FaFlwSjFpc3I0UUkzNlhTVmM2MnRSWUdIbmIwd08zNF9zSUMxcWZIT0hhV1RkMEY0NmxWR0ZWZlFSVXU2VTZMQ1VvNWRZeEVOQlFzdTY1ZzdyZGFTT1pTU1VYSWVPWnlTblFsOVZYakVkSnhPWUpGWUQyS0FERFp6c0JwTTc4TFRsSTd5V2EzT19sNnVNR2xvQV9i?oc=5",
+          "ts": 1785327236000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": -2.4,
+              "dir": -1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Las acciones de Nvidia (NASDAQ:NVDA) caen tras una pérdida proyectada de 238 mil millones de dólares en medio del escrutinio sobre la inversión en IA",
           "source": "TechStock²",
@@ -172,22 +188,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Deutsche Bank Slashes Tesla Stock Price Target Over Lagging Robotaxi Progress",
-          "source": "TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONDhGM2pMRjVQT18wbUlncHU1Zi11SXM0em5MSjJsMkFVM2FNRXNnWnJPRnpZcEJhaWIxMDJuUGYyRk5wN2VsX0paa3FiVXFoTF9sQmYzQ01uSzJIcDFGTU9tWVhJNUJTZzVMM091aVlhdVlKb1NJbXloeG9ZTmtYNDR5dlN1b1ZORy1wNE5ET1hoZlNkR196dGE0UVc4MkNsSGhCR0tjamoyeFNrZTkxT3BJZXhpUzVwRzlz?oc=5",
-          "ts": 1785246257000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSLA",
-              "name": "Tesla",
-              "pct": 1.6,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -195,6 +195,44 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "¿Podrán los resultados de Meta justificar el gasto en inteligencia artificial?",
+          "source": "Investing.com México",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbUlkalNlamtZbm85b2VubjhwRndGNWZUMFcyS3l4bWtIYllpdlJGLTcxaFZESzhya1dicVV3QmFxOTNDdzFYWkIxd0thUlZHV1g2VXJlZ0ZCV2NxSFdDVnA5ZHdWOF82LUtpU2dCYzRJUjMzVHZqMDIxcEsxOFpGYmh4ZkVheldEUHMzekFkU3dlZDdHN0ZuSWU0Y2xKSDRyOHdvcHFGbXk1aVVjcnFYVjJRMzFoVWlId3V3VQ?oc=5",
+          "ts": 1785332844000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": 1.2,
+              "dir": 1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Anatomía del Mercado | AIQ | Global X Artificial Intelligence & Technology ETF",
+          "source": "Investing.com México",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY3UtNlp0LXBwVlVKLW9MZ1Z0dG9oUGcxYXlleFg0a0lMdkVONTFJUk5SdUQzRFZxWER1SXlHQlBxQ0VjdmtqQmRVVHRHMmFVOHJpS3RXYzRmdkVsYlREYjZNcW12dzJCMkFhVDE0YzFuZy1DN0szczB0ZE0tQVBHdkVrc1hSYWZmaEJSYmZKZWdlSHZBOUVHMnlzcFpPSHVQeFRObEVpU2ZobDZiTmZLMnl5MlAwb1RrUHlv?oc=5",
+          "ts": 1785332652000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Nvidia impulsa una alianza global para reforzar la...",
           "source": "inteligenciaargentina.ar",
@@ -304,44 +342,6 @@
           "ts": 1785316475000,
           "sentiment": 0.0,
           "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Ed Zitron augura el colapso de la inteligencia artificial: Apple lo ve arder con 130.000M en caja",
-          "source": "moncloa.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYmJNbVdGYklSazcxNlpsbXp2bGVfay1vSmVrSFVBdjh5R3ZHYndsUk9PWGowZDBzeWZFa2RkZ0dydTlaUlJEODRuZkxuVmhJOUhhdHI1Ykp6NFM1bTAtNG43d3Y5VWxTcFNLaEw5SU9DRXNjUFE5VGsyZ2dWc3hFaVhadklBYzZj?oc=5",
-          "ts": 1785312551000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "¿Podrán los resultados de Meta justificar el gasto en inteligencia artificial?",
-          "source": "Investing.com España",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRlFqMlAwUzhPcU82Q2ZwTVNHdFVuVlFfdmRNOGRpM0RqOVhWV2hNVkNTbE9SQ1ZITHhqc1JVV2trc0hoUTNBQkdISzUtM0I1WDNESTNEWndZVkRZRjYyRXlRQWFsaGg4VmdxVmIzbjhLMkNnYWpPUEk5bEk3RnFFQWtnN0w4T2kzUWM2OGVNbEhoTU9VME55WUdVdTRhQWV3TFNXWjRzMmJzSUs5TnhyOUhLN1FLVHRsbnBiXw?oc=5",
-          "ts": 1785307080000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 1.2,
-              "dir": 1
-            },
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
@@ -546,6 +546,22 @@
       "label": "Defensa / Armamento",
       "items": [
         {
+          "title": "Defensa impulsa la industria militar con 15 nuevos programas y 2.300 millones adicionales",
+          "source": "The Objective",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWTJzQTlCTndiU3JnS2ZTcmZRNVJXMGhSN2c5MG81a0FsMWlCYmxWN2FsSGJ6RWswUHNlLXBYTmJRNU5jVC1fSVJmU0FUZ0VzMFFBX0ZXbXBEd1ZXY0ZSam43M3VLcVZrR0xHWFFmV191VkllM0RSRDF3OUhDZFFxcGszUdIBiAFBVV95cUxOdHBKYm4zNVROTHNTSk9fRTctQW1WTjdzSmFydXRJejJhcUpKdm9Rc3RMLVRzVW81azlfY1VCRU41eDVfRzVOeVlXV09ZUWE4ei1GVHdZd2l0QjJsQ0RuUmlrZFo0eDlYOHluSzRONFRuY3RaQ2dXeXk4a3ctd3htLVc5Ti1JcmZV?oc=5",
+          "ts": 1785334017000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 1.6,
+              "dir": 1
+            }
+          ],
+          "category": "defense"
+        },
+        {
           "title": "Los gigantes de la defensa invierten la cifra récord de 4.100 millones de dólares en empresas emergentes del sector militar.",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQWRBUmMzRG1QcnJ5UnFYbUVxeHdLWVV1dk04c0lsMmlXRllrVGtlNlpRcU5PSTF6VXZXajV5ekNMUWtMRXhubDhxZ1VSYl9UVEpBVTRYR2N4bE1RaUtlTjRsVkFIcnFWbm9WbzhCNHROQUI2WmdPNzBYNFlvRHdiQURZZzN0MFhnTDgwZFB3aw?oc=5",
@@ -724,22 +740,6 @@
             }
           ],
           "category": "defense"
-        },
-        {
-          "title": "El Gobierno gastó “más de 34.000 millones de euros” en armamento en 2025",
-          "source": "Diario Red",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZDBtSlZJcXAxQnFqcXh3SFVCX2pTUzJwQVlKcWE5YzNOMjBGR0h4ZU1vNlNicGFrVURybmo1VFc1Q0d2RmNBbk9NMGFIM1dqTDMzc2dHSWR6SVEzMVc0X2l6LUQ4NW5rRkI3U09iNVEwVlB2SlZNY3JWelpmaldBOXNxQUFTRFdVUDFxenkxU0NwVlNfTU41OUhkZUZtdjFnbTZCRlByWk9UMGVQQ3htZGZZZUkwdHpRclk0TUh6SG7SAcYBQVVfeXFMTVEwazFyb1F4WUdicEVhM3ZidGlYMjNBR0gwNXhjWW55SDRobFVOaFE0cnZZaUk5R3pjRDJLeUh2Q09oM0t1UmQtVjFTUjI4WmI1SGRsM2cxUGJ5a2JmMkNHS3pDN1pndndKczhFa1gyQ1BSMXltSmZkcFI3YUFSVjNMeVVXTGZEQTB2a3I4aVVLbGdicDE0VktEOVl1NnZJSE55OGppYWRmQ3IxVDJXdVQtNUh4dl9hQ081YjdkeVFKWkcwWXZ3?oc=5",
-          "ts": 1773817200000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
         }
       ]
     },
@@ -747,6 +747,34 @@
       "key": "oil",
       "label": "Petróleo / Energía",
       "items": [
+        {
+          "title": "El precio del petróleo rebota más de un 7% y el Brent supera los 90 dólares tras la amenaza de Trump a Irán",
+          "source": "El Boletín",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcEtrQWpQMTdYekplaDlnZWNvQXBLU2kzb0o2RG1JMWhRQzktMDJOOXlOWW5MZ0pRaHB1VGJGeC1MenlERGhOdllCbUxLcXl6dTFOVkQzYlBEWFJibk5XcVNmRkpLeWZydVlfaEh5c2VmaWRDUUd6MG5NUlc5UzJBaktISV8ydGUza0tPSXJhNUVNU0sxZzBEQlJ0dnhNMEtub1hnMDlxZS1uR0t0YkdkUXNON2RUdVRrLWFvWW9zdVlRbG9vMnpGQ3hFZGlSZ9IB0wFBVV95cUxOaE5oZ3daX3BKM285VkE1WHc3blhtT0Itb3Z6THkwM2xJNHpiZElPRjNQOEZ1UkM0eXpQWklMLXFPbE9MS2gtVEJnc2FuUG1mcXRiajZma1dabVYwWkFoSlRjNERUTmtaZ2tSWkJraFpQaFkzTXRidnZmQmFhNEVSM1BubGVuQnlEQ3huZ0kwbExJMmZVb2xvUHpSdE9MZmZNTkRxa2xLVGQxR1pCblNlZTlFTW9EcUtFMnJLMkhaZXVsNGdQWnFXc09CbGl0VDdKVVRN?oc=5",
+          "ts": 1785332044000,
+          "sentiment": 0.25,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": 1.8,
+              "dir": 1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": -1.2,
+              "dir": -1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "oil"
+        },
         {
           "title": "Guerra en Medio Oriente: el precio del petróleo sube más de 4% tras los nuevos ataques cruzados entre Estados Unidos e Irán",
           "source": "Infobae",
@@ -757,19 +785,19 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": 1.2,
+              "pct": 1.0,
               "dir": 1
             },
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": -0.8,
+              "pct": -0.7,
               "dir": -1
             },
             {
               "sym": "SPY",
               "name": "S&P 500",
-              "pct": 0.5,
+              "pct": 0.4,
               "dir": 1
             }
           ],
@@ -877,7 +905,7 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": -1.7,
+              "pct": -1.3,
               "dir": -1
             }
           ],
@@ -911,22 +939,6 @@
               "name": "Petróleo WTI",
               "pct": -1.3,
               "dir": -1
-            }
-          ],
-          "category": "oil"
-        },
-        {
-          "title": "Petróleo supera los 100 dólares este 23 de julio de 2026 y aumenta la presión sobre los combustibles en Ecuador",
-          "source": "El Comercio Ecuador",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRmoydThQZVh4QktJUV9OUTJZTHNhd0s0Q2l0dWRlUXVMdWFyVmRrYUJ2czlZcXo4bmtGZEpUcW1GQnAwTE9ELTVDWDZuNlZ5WDhkSC12U0JVcm41SW1Oa2Z0bC1jdEpKOGxFYmNacDM3REh3bE4ycnBxMVk0WVMxRUpTdFFpVXdQREtyR1VHaktCMlZDUEs4YnBUVUQ?oc=5",
-          "ts": 1784842744000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 1.3,
-              "dir": 1
             }
           ],
           "category": "oil"
@@ -1293,7 +1305,7 @@
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": -1.1,
+              "pct": -0.9,
               "dir": -1
             }
           ],
@@ -1376,6 +1388,28 @@
           "category": "macro"
         },
         {
+          "title": "Wall Street ‘sonríe’ por los datos de inflación en EU: Nasdaq gana 0.90%",
+          "source": "El Financiero",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONUdmRUlIUWhETUQ1bm9QbEVLWGtLUTFDbFlTWFdZMnU0bVJzX01mTDNpUEhnTU10OUMwUzFuSkRpZkc3bnVEZlBPaHRLZlBlWG10SDhpU1BrQkVTYk9mWTQ2V2RQRGdoQkdoOEtzZXNVclF3VTA4Wkl3bHFrT202c2Z2SFRCcGx4ZGtDME5WMUFOTVl0Y2U4?oc=5",
+          "ts": 1784012400000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.7,
+              "dir": 1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 0.6,
+              "dir": 1
+            }
+          ],
+          "category": "macro"
+        },
+        {
           "title": "Bolsa mexicana y Wall Street suben tras dato de inflación en EU",
           "source": "Milenio",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLWlxX294T3NpZjRUZlJPV255aE9KejFxVzJtVFRCb2F4S3gyMS1majVERWJveW95ZHlVaDdHV0RjVmllN2RJZE9yQ2xHa0hRYmV1YlpoZHNzMEJiNE1xcElZSC1jcWdGa2cwcGpGWUt4djA5RWdlTWQ1eE5wSXdhd3RuY0ZvQTN5OTMzcXhWX2ZfbFB0NmF6bl930gGaAUFVX3lxTE9LS0VMUDNNSDBIeEFtdHo0OHR0STJGNVlXODZLd21WWGQwWUk3WHNfTnhTSWN1ZUpJQ2o4ZlRYZ0hPREpiNGRHdExfVE85OUNLOHI5bmI1bVItel9MMzdmLWxLYXhGcGlqMWdnTEdXbUluWWRKTXZvRF9kUUJTX0NlOTNtcUpQN0cwOTRzZ3c1X1JMZXJMbkhCU3c?oc=5",
@@ -1396,22 +1430,6 @@
             }
           ],
           "category": "macro"
-        },
-        {
-          "title": "Las bolsas europeas apuntan al alza sin la referencia de Wall Street",
-          "source": "capitalradio.es",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQUJ6M2x4ZGpxaU9fU1pMVk1QbG5ORGszREt2OWtxd1hfNFNiNzJGVWJmbURiZTZMSklkMkQyZV8zQzF1LUdMNnAwVU84MktQekh5RG1CWmI4ZHFOUjN1bTRmcDZ3dkVNRXl4cTdYblNyY3licFdfTy1ERFd6ZmZXbWpkVXE3Y3lJaVl4aGRCektLTHdsWHZJTENTS05RUXVDWHlyUFRpeUl3NmRyYUZodnM5UQ?oc=5",
-          "ts": 1783062000000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
         }
       ]
     }
@@ -1420,7 +1438,7 @@
     {
       "sym": "WTI",
       "name": "Petróleo WTI",
-      "net": -9.6,
+      "net": -8.9,
       "n": 25
     },
     {
@@ -1432,14 +1450,20 @@
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 6.9,
-      "n": 21
+      "net": 7.0,
+      "n": 22
     },
     {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 5.7,
-      "n": 9
+      "net": 6.7,
+      "n": 10
+    },
+    {
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": -5.4,
+      "n": 5
     },
     {
       "sym": "ASTS",
@@ -1448,28 +1472,16 @@
       "n": 2
     },
     {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": -3.8,
-      "n": 6
+      "sym": "SPY",
+      "name": "S&P 500",
+      "net": 2.6,
+      "n": 19
     },
     {
       "sym": "AAPL",
       "name": "Apple",
-      "net": 2.9,
-      "n": 4
-    },
-    {
-      "sym": "META",
-      "name": "Meta",
-      "net": 2.2,
-      "n": 2
-    },
-    {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": 1.3,
-      "n": 17
+      "net": 2.1,
+      "n": 3
     },
     {
       "sym": "IRDM",
@@ -1480,7 +1492,7 @@
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 0.6,
+      "net": 0.8,
       "n": 15
     },
     {
@@ -1488,6 +1500,12 @@
       "name": "Alphabet",
       "net": 0.5,
       "n": 1
+    },
+    {
+      "sym": "META",
+      "name": "Meta",
+      "net": -0.2,
+      "n": 3
     }
   ],
   "ecuador": [

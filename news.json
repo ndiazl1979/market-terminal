@@ -1,10 +1,32 @@
 {
-  "updated": "2026-07-29T10:01:12.643924+00:00",
+  "updated": "2026-07-29T12:08:53.002007+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Las acciones de Nvidia (NASDAQ:NVDA) caen tras una pérdida proyectada de 238 mil millones de dólares en medio del escrutinio sobre la inversión en IA",
+          "source": "TechStock²",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdHl3Qks3eWlGQ19HN25uUzQ0VTdLUUZPLU5FNmFDRVdaUTNSMFJVbHRFTDFEZkpJNXBkNFJPOWF3R2Y0SjNSbEFyVEZVbzRpTnU4T3lwRkdpNHYyc3VIUVY5YU1KWjFURS1jbWxjd2htaDhSdVZlTEltWFNsczhRaEVHMGtUbktWLVpKV1JTbXlHOWJFYWNsRG12cm1mX2YzcEV4R1hOYjBvQW1VUTRGT0NBUHNOTGFfVDlTWlJRQWFGNnRHRUdncTdmRUozS0stVVRVV2M3LWIyNXRJRWhWNXczaTRBSjBwbnRuZWpHUldTdUhWSHlaQjNfNA?oc=5",
+          "ts": 1785320791000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": -3.6,
+              "dir": -1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": -1.3,
+              "dir": -1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Las acciones de Apple (AAPL) parecen sobrevaloradas si se tienen en cuenta los flujos de caja, pero se consideran razonables si se analizan los beneficios",
           "source": "simplywall.st",
@@ -15,7 +37,7 @@
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -166,28 +188,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Por qué las acciones de Nvidia cayeron tras asegurar un importante pedido de un centro de datos en Texas",
-          "source": "TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd2gxanpMc1RWWVdNMHVRY0t5SEEyU2dWRVh0TlZnTW9KY2R5QTRsaHU2N0xia1JGX0psYXRqNjZPVkhUTjB6Z3h2cTg2ZUluSXotMUphLWFXNkZ5c01STzRfd2pITHJiNmFMamFOUVZzRFFhQ0xCX24wSjR3ZkwydzlmUDZ5UjFBRmpQVC1iZUNyNUpFSDBzOHBCZGprY3VUenNxSUQ2NFZEcGpNR0tmOVlGSGJjZWFYV1pxbk9JMkFrQ3VBRVBsVA?oc=5",
-          "ts": 1785245779000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": -3.1,
-              "dir": -1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": -1.7,
-              "dir": -1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -195,6 +195,92 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Nvidia impulsa una alianza global para reforzar la...",
+          "source": "inteligenciaargentina.ar",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOTmVQZmQ2U2RqcUFCQzFuV2Zzd1VoVVNiaHdRbS1iQm9WZ0NoMnpjTkpOb0w5SXNlY2M2U2s1MkVUQUdVM3lYR3BLemlaUnBSaUpaNUFRUTVpMk05WjZiUzRKdnF6cHZvTjZKbU45Z3BvODdiTUJLOVE5c1dIVENKUWJJN0djMnZzUEZsR0pwNlFFeGlkUW9hdGwzS3IwbkZwZzIzMjRUNnAzZkZfTnROOUhCeWQzOXp3RUZqSE0wc3BTNHNOS3o2aHdVWTNmZDNWemRDQzNycEo5ZkRVMDVWdTBLT3BlQjJWbDdkbXFOMjZXeXBGOW96Y2RLOExzUHo4ZW1Zc0duUGs1eFBqY3c?oc=5",
+          "ts": 1785326012000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 3.6,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "ChipAgents, socio de Nvidia, capta 60 millones USD para acelerar el diseño de chips con agentes de IA",
+          "source": "MarketScreener España",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTmZiWTNQSWZVVWV4TnNfQUhKdEVpOGlSTzQzaTRaUm5VWXlEM3BVUGpjMTJlWVREMEsxTkJROWlQbEl6dE5LdTBJMjROS1ZGLWdHMnc1SHBiY1M3TTZCVXpyZ28xMVhYN0dNb1RxM3F6MVJUck9nV092aEszYmE5cGlRY3Y3WXB5MnNuZjBmdlF6eXkwcWhJOXFzUlViNlhFVU1jZVRKb1BjUHBXbHQxS00xMWZROVM4aExmX2JOMEh0UDhrRF9iS1V3VjZULTBIaU9hZlc2b3JTNk9vd3U4bW1aUFIxSHdPS1E?oc=5",
+          "ts": 1785325585000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Nvidia se convierte en el Banco Central de la Inteligencia Artificial",
+          "source": "XTB.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2xCZ0w0dmxBSk44SG52Nml6UC1lMDlCdV9jRmQweHpEbU1laTNHRDRBVHpndXl6SS1yaTdFNlQyVU5IZWJHa0R0TmxNMGlNMHVpT3Rqd0lqVlhINlBHUmR3WnNNUlpSNHpHLWllM1JucFh6Y1Y5Rl9kb3Exa1NMYWV5bmZ2UUR5MVdENVpFQWdfbE1hSWhzTWczTnozMDdJOE5iZHQ2NzV6QnVlcUFGV0x3?oc=5",
+          "ts": 1785323910000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "La ola de inteligencia artificial ha impulsado el mercado global de fusiones y adquisiciones a su nivel más alto desde 2021.",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVE5rQ1p2QVFEeG9DaXZPRE5ZUm9KUlFSTW9pN1BHN1Qtd1JydFJYbUpTSzBkZzRCSVFhd3pVeWloYXNrOWZjbGlidUMydGFvV3Mzb2VuTGVoeEU2dzVZYlplZTY1T1l1cjd0WnFrbnBkaGZ6UnJLYWtjUU9ydkx2d1c2YjdCd2g1dHRYdW5Xd003SXlPeTRCOTd3?oc=5",
+          "ts": 1785323878000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Moonshot AI habría usado chips Blackwell de Nvidia para entrenar Kimi K3",
+          "source": "DiarioBitcoin",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQmREeEVORENsSUxSR3BubGktWTRaMTNYRnQ0RS1aLVJYaHcxR09EQ25aWlNWbFd1NldCODJPUl9Td1d5cmlVOFl3cmVFamhkaFZLNXl5bmh6dFFueC1kc3V5aERobTVLcTl3NmhYWFp3RjR0UHVSbzAwa1JJTWtDSi1sUEh5cV9VX2ZEd2h6U3Znb2NPcVRFNDFxcmVlTDlrTW5xTHVBMkVXOUNnR0U1M2c3a21FTzFJcHc?oc=5",
+          "ts": 1785323578000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "EEUU y Emiratos Árabes crean un equipo conjunto para impulsar la inteligencia artificial militar",
           "source": "Business Insider España",
@@ -269,87 +355,7 @@
           "title": "OceanBase busca hasta USD $443 millones para acelerar su expansión en inteligencia artificial",
           "source": "DiarioBitcoin",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTktsMDNRb25WR0wyMjVKZFdWb2RIbnNHelp3YXV1ODF4Z3Z0X21KNTVFQVRSclRoRGxHRDlDc3VTbmtlNWV1WVVLZk9xNlB6TVVMbXV4UU1tVnNCTGNwZDVMTWQ4MTljdzJwc0lvWFlYRjg5VEV1ZC1QTEdFQ1hnRWNPWE5Vb3Vpck5LSE9kRzd4RE5RandwWGwwdlF2eFFCbWRIWEVXcThGd19mZkFEWHRrdUoyU0xPZ3ExRlBSZFVraE92VXhpTA?oc=5",
-          "ts": 1785300268000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "La IA gana terreno frente a las criptomonedas en Wall Street",
-          "source": "CriptoNoticias",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdERaaDVpZFNhUXBSekNRUVFLZFAySTNrRk5xTEpmQlNSYkJyb3BZQTRXdE5yWnRGM09OdGtQRmlURTk5bDVVVlFvdXdvQTVkZDJxejEycFhodkxhNEo1cEtpNmY1aVRGVy0tUElMckJHb1cxS1h6ZndoMUZOZnZIZ1VFZWJwM2hGNmc?oc=5",
-          "ts": 1785294180000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 1.1,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "TSMC reanuda operaciones en su planta de chips en Japón tras el terremoto de Kumamoto",
-          "source": "Investing.com España",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVk1UMmtxbnFHcHNfaWdlQkFkeDNoUndhUzJlVkEzU3BNTC1UenBxQUhObFRCNTlaZEhZcHNYSWd4aWN3Qnd2RmpFd2Zac1dUOXFkS2pvSi1lc1BaMFo1b1hwYUVPMXNsTjJxYWNYZ2pYRGJhWFBad1RBc1FlSE1CWG93cV85VTZfRDRRU1hXT0pvRDZWR1FaOV9adkROSmFmQml2eGxPUUtFSWRXLUVrQjU2bkZUQ05Hb3NnWTFCOVNRVDlxNUZpSS11SVRJSlNCNDJiakVacHU?oc=5",
-          "ts": 1785290400000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSM",
-              "name": "TSMC",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "NVIDIA advierte que la mayoría de los agentes de inteligencia artificial fracasa al pasar de la prueba a la producción",
-          "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWlBTLUU3b2YxdmZlMkx5VVEwamFhelN4OHNmWFNyUlZ3aGVQWGg1NmMweDRhTmpXa2ZMY1dLX1hZLVFSTllPUElvbXZBanFfN19EWDB4UUdDRVZfV1hCQ0doTENnQnR0YkRmYnd2ZDFSbTBCRlhVaDNBOXlKLVZaSUUyNHlrbGVmZzlqa2pVLWRzNkNmVGhnb0dTTFpWV3VDZGVjbmRfRDJQSUdmOWF0RVFFV3YtUXVOVkFmbXlGc2lyWmZ4VDRMVHFhQndoN0JNakZjY2RlZm9kczBaZlYzMHY5XzZBOEZ1eTIzOGl4NnVFSzIwWGVBdmhDS2_SAZcCQVVfeXFMTTBmREtsZnV3RFRBckRaSFpZVlpCYTBMNWVFUEJOUm9GWHdFaDVncTN0aE1rVEQyLTdKNkxvZ0k0aUR4TDJZYVkwWnFzYWVPZy00U3BINHdlaVo1RXlqRTlUTXp5SjcwMVBHR2k1b1JpLTZPZkR2b3J4MFMzQ1BtTjVPOFZFeHQwU0FIbG50VjM4VnVPcTVSSTNNNjFXUlVsTTFQVS1ubUNxYXF3VmdwTFFDbHRWSExGdTR6Y2dpMXlwRmFsWlNTQ2owb05Idno5bTFkUWl1UVZycnhseXVpRlZfQ1lmN0VBTTh3bFpZQjJMMVJ1MXVuT3hSaXZiWDhKaGhYb3pJdFBhQmxrWUY5VjU5VmdUNmQw?oc=5",
-          "ts": 1785286800000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Mark Zuckerberg habló del futuro de la inteligencia artificial y advirtió sobre los riesgos de concentrar su poder",
-          "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZlNwTENCOGFLbkY5V0xwUWM5eTZmU2NQV2tGRERyYTlKdzc5NGhLTWhweUVVN044Ykc2bkpwS3d5bkZ4OVQ4THVhMkVvN3NzaHlUY2NLRmJIQ2hZWWk0UlR6a29pOUc2TFpoTjRTekpMeUNYMTR2YjFUd21Ed1hvSm5vVFNSZmlDbldvbzdSNU5jTzd5bDRhcWprdHBTUzc3WWd1TnRYdnpER0xSTWZsUUtnN2dWc2VmVUNnZVkydVdsQ0JDMmFZa0V3dS1NMWJPY3NlQ3JDV1k0ZmJnejJOQjhGTlJrVzYwV2hRc2JFWHZ0THJIS2ZQZtIBkwJBVV95cUxNUTRPY3VqVG9iQ3ljVkVfb2pwb0swMS1ITTdUNVFJVlhNLVF5LUlmZlp3QkEyNTEtRVpyM3Aza2x1ejNGV21sQTIxaWJ0Q2lJYnp5cWZaQ0Y3QmxRY09IYllIeGxVSGtjU0o5Vk5lUGFqblJZRy1NZmVsUWR4WVNsRGRoNS16Z0xFeThWcVNHZEJmcTdxa0F0eTBpbUlVejRrWW9oZU5nNVNmd0NjQjZVTjVlVUxibUhKQjI2cFNybmYxTGFOcU4wendEZ0RaMmFJYUgzT2xkM0ZUcG5LdnNYMFRUdHY4S05pbTBWR05pYWN3ZWlKOVc5U3hwSGRiZHJPRUw3OTRTdjBqR1JHbEYwMnQ4UQ?oc=5",
-          "ts": 1785279600000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "» Cuenta Pública Participativa de ChileCompra destaca ahorros por US$ 381 millones en 2025 y presenta nuevas herramientas con inteligencia artificial para 2026",
-          "source": "chilecompra.cl",
-          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNOTl0Q3RpRzBTbGtmckJ2cExFc1VzU0RRaV9QZ3JXb0hGcWpxVndpakQ0VFh0N1FwY2VyblM2eW9yUTFXLWpEMzVOc01VVnB3YnJpU0I3cjNMemw2aFUtM21ZeE5Cd3gxUmc4VzN1RTJqYXRHdE0ydFZ0N0lxYmMzV3ZSWHF3d3JHaWVxMklMRFh0UnJWZlJjT2xESmJfZ082clNyZjVrN1dqcWNKR29rUHNkUlJjYmRTX0JrejRxNFQzX2FPNm02akVWaDc4NWVJTXNFYWs3WjF3SHItMUZyLTJ5OFZrV2NnclVHbFNDbHBqWGYzSXRmdUpWWGlHWUxUT1laaEFBWUtMajlEREV4VmpsaFRCYU1nSnQ5MQ?oc=5",
-          "ts": 1785269822000,
+          "ts": 1785302757000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -745,7 +751,7 @@
           "title": "Guerra en Medio Oriente: el precio del petróleo sube más de 4% tras los nuevos ataques cruzados entre Estados Unidos e Irán",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcHZrcVdaR2pXZzkzOGlXNFVnMGE3RWU0T2xpOG1jWHl2WHNMdndhWDdBeS11a0ZyUFREbTlqWFNvdnJyZE1EVlpMQ3FTcGNINTdpWVBKQnBIZGVVdWpZNmR3UlZMejc4TGo1M1ZpNW5lWkpzV1A2d2V5RGVRNlRWWUkzeGlNTDVqeVdIWVdtdzZqMXlLZG5jRVBhckdiUkhBZ0FqbjlIUVpSZVlQa0JaYVhPSmtjZ1FDblhFdTZZSkxLelgwWENxWC0wQURDYjZ4T0VoUWhZVjZhTC1wODMxcW9BdXIyNWRJQ2l3cWU3MnFpS0NwbjhpQU5vOFoxWHp30gGbAkFVX3lxTE1FVWFkeTg5OUkwM1RGLVFmdE82UDhHczVLYTdQVDF1YXdvTmtSZ3NFVmRjcUtTTG1JcjNBSndOYXlpTDJXNXdZSGhuYzJqU213Q1FfYkZMQTM2Ym0tMXBlZDBwUHVrb2dDNW5QajVpTGpTRGZ1SlBlR1ItaDVxaVZvU0Jkc1hYY1h1MVNCc3N0cHAtLXFhV2tvaS1oWjBPZlhiZzRUUHN4d0NScE41TnNMTHdCMWg2ZVJrdGNxYVdLYUQ1a05BS3h6THh5aHZfNlR5c3o3bm5RSm03Ym1xUmEzd1dXYUtGcVJrYzVudU5GanVYLTcwMkZqZzVLQnBtbXJSNmhuUnQtZHZKZ1hJdkk4S0pfYlVoSFBsYkk?oc=5",
-          "ts": 1785305416000,
+          "ts": 1785308820000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -827,19 +833,19 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             },
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": -0.7,
+              "pct": -0.6,
               "dir": -1
             },
             {
               "sym": "SPY",
               "name": "S&P 500",
-              "pct": 0.4,
+              "pct": 0.3,
               "dir": 1
             }
           ],
@@ -1392,16 +1398,16 @@
           "category": "macro"
         },
         {
-          "title": "¿Qué sector de Wall Street podría beneficiarse de una subida de tipos en EE.UU.?",
-          "source": "Estrategias de Inversión",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDVUZF8wVldlQ2VkNzBjcTJqa0hIakdKeVNCbFNtS1dKUDhjbnlqbll6RDVjaUxDaVN0LWJvZHZiQ0s0Z1kxRGhCdGd6M0tSZkV1UTk2anNra3JhVDFRLVR2UENmRU5MWENnckhTaVRHdE5oVGVTNXJDeXBzOEo2LWYzb0VEMjNWZllid1k5UEN2a21GcGFDbXNNR1RNN3FDa2x3dUlqTUJMaE9XbG9jX3drY3FqeGVKbnYyc3UyYW45VUXSAZ8BQVVfeXFMT3ZTbmFvMnltVTllU29tMXYtMkF6THB6YVF2UWx0dVU0eHBteGJ1ZTFuQXBoMW9Dc2tEYW5vbjdubGc3TG5fMGd4eHNMb2NZUVlkbjFsUFNzMTNtdlZOS0FnS0hqdGpfbTNoeUdGMk5IN2l3X2tvUndHSEF5c3RSRkpXXzhTNmVheDB6OFNMUGplMHF2Zm5uMXdVU0pIMm5v?oc=5",
-          "ts": 1782975600000,
-          "sentiment": 0.0,
+          "title": "Las bolsas europeas apuntan al alza sin la referencia de Wall Street",
+          "source": "capitalradio.es",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQUJ6M2x4ZGpxaU9fU1pMVk1QbG5ORGszREt2OWtxd1hfNFNiNzJGVWJmbURiZTZMSklkMkQyZV8zQzF1LUdMNnAwVU84MktQekh5RG1CWmI4ZHFOUjN1bTRmcDZ3dkVNRXl4cTdYblNyY3licFdfTy1ERFd6ZmZXbWpkVXE3Y3lJaVl4aGRCektLTHdsWHZJTENTS05RUXVDWHlyUFRpeUl3NmRyYUZodnM5UQ?oc=5",
+          "ts": 1783062000000,
+          "sentiment": 0.5,
           "tickers": [
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.4,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -1414,14 +1420,26 @@
     {
       "sym": "WTI",
       "name": "Petróleo WTI",
-      "net": -9.4,
+      "net": -9.6,
       "n": 25
+    },
+    {
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 8.4,
+      "n": 9
     },
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 6.8,
+      "net": 6.9,
       "n": 21
+    },
+    {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 5.7,
+      "n": 9
     },
     {
       "sym": "ASTS",
@@ -1436,39 +1454,21 @@
       "n": 6
     },
     {
-      "sym": "META",
-      "name": "Meta",
-      "net": 3.2,
-      "n": 3
-    },
-    {
       "sym": "AAPL",
       "name": "Apple",
-      "net": 3.0,
+      "net": 2.9,
       "n": 4
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 3.0,
-      "n": 9
-    },
-    {
-      "sym": "QQQ",
-      "name": "Nasdaq 100",
-      "net": 2.7,
-      "n": 15
-    },
-    {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": 1.4,
-      "n": 6
+      "sym": "META",
+      "name": "Meta",
+      "net": 2.2,
+      "n": 2
     },
     {
       "sym": "SPY",
       "name": "S&P 500",
-      "net": 1.4,
+      "net": 1.3,
       "n": 17
     },
     {
@@ -1478,10 +1478,10 @@
       "n": 1
     },
     {
-      "sym": "TSM",
-      "name": "TSMC",
-      "net": 1.0,
-      "n": 1
+      "sym": "QQQ",
+      "name": "Nasdaq 100",
+      "net": 0.6,
+      "n": 15
     },
     {
       "sym": "GOOGL",
@@ -1600,19 +1600,19 @@
       "tags": []
     },
     {
-      "title": "Compras públicas en Ecuador: el mayor riesgo para los $41.172 millones que gasta el Estado no es la corrupción",
-      "source": "Diario La Hora",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObzFEUnJFVHE5RXFzYTFMVFhHT0ljNGUxbkozYUZ0M29Sa2NiVlA5aFo3b1VFMVVneV84ejlCM2k5S2J1RHZ0XzY2RGdsd095R0NCTDBzQ05KZ2tyUW4yLXNwbTMtZDNETy1ncTRHUFYtOVY5Z3RXZWNMUmxHMk9zX1FWczhJMTNDMWRidWF2ZWExOFZvc1VpOW5GTUk2eGNHdFNvdWVDVjFPbHpROHVBcThEelhfa3hFNnFuN1lLbENydm5NMDRad0w0RFZLR0swUWJjZnk5X0tKc2ZOZzdRQmRDcUFVTkFUc1NGdFI3X2JuRWYy?oc=5",
-      "ts": 1783494000000,
-      "sentiment": 0.0,
-      "tags": []
-    },
-    {
       "title": "El precio de la carne sube en Ecuador; estas son las razones que explican su variación en 2026",
       "source": "Primicias",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOWhCTWE1NU9iNm1vUVczUzBhNkJ4a09YbWUyOUVYT1dNazZpRGsxOEhneS0xVXdPYy10VUt4WW1fWVllREdCN0hNRUtINTJXUGdKNEJFZWtBWlNpSzV4UFFkZEhCQ3pST2hnSnFHLVRIYzlIN0xQSjRtZ0tpMWxYTHhtVnBRdXkzVnJFV1p2cEozR3UxZFp3U0VQOEtfMHVJMDdZWW5zSQ?oc=5",
       "ts": 1783494000000,
       "sentiment": 0.5,
+      "tags": []
+    },
+    {
+      "title": "Compras públicas en Ecuador: el mayor riesgo para los $41.172 millones que gasta el Estado no es la corrupción",
+      "source": "Diario La Hora",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObzFEUnJFVHE5RXFzYTFMVFhHT0ljNGUxbkozYUZ0M29Sa2NiVlA5aFo3b1VFMVVneV84ejlCM2k5S2J1RHZ0XzY2RGdsd095R0NCTDBzQ05KZ2tyUW4yLXNwbTMtZDNETy1ncTRHUFYtOVY5Z3RXZWNMUmxHMk9zX1FWczhJMTNDMWRidWF2ZWExOFZvc1VpOW5GTUk2eGNHdFNvdWVDVjFPbHpROHVBcThEelhfa3hFNnFuN1lLbENydm5NMDRad0w0RFZLR0swUWJjZnk5X0tKc2ZOZzdRQmRDcUFVTkFUc1NGdFI3X2JuRWYy?oc=5",
+      "ts": 1783494000000,
+      "sentiment": 0.0,
       "tags": []
     },
     {

@@ -1,10 +1,32 @@
 {
-  "updated": "2026-07-30T11:23:01.628515+00:00",
+  "updated": "2026-07-30T12:59:02.529591+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Las acciones de Microsoft suben un 8%, las de Meta caen un 9% por las ganancias de IA.",
+          "source": "es.qz.com",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DZW9jSWxlQ1EzelhjMF8yTDc3ZG9tNlRfRW9JZDNKQXY2dldYc2xQTENxMzBLcDBsNkNwa0h3Z3hLZTgzOEFfWk9IdFpOWWx5UVM5NURFYk1ORHphczRWQWlReHRhZjFrdGZCSzZ4SzFMcVZjaUR0VUkxUEg?oc=5",
+          "ts": 1785411838000,
+          "sentiment": 0.25,
+          "tickers": [
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": 1.8,
+              "dir": 1
+            },
+            {
+              "sym": "MSFT",
+              "name": "Microsoft",
+              "pct": 1.2,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Los resultados de Apple pondrán a prueba la posición de sus acciones como activo refugio en el sector de la IA",
           "source": "Business Insider España",
@@ -101,7 +123,7 @@
             {
               "sym": "MSFT",
               "name": "Microsoft",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -160,22 +182,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Microsoft: acciones suben casi 8% tras superar expectativas con impulso de la nube",
-          "source": "Rosario Finanzas",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTXVEVTJmUWp5eENqV0wzYlhzOVIxS3o0NGl0OVZ2dkQ2TGMxNXRHSGJVOHczNkZzTS11MG1YWHRFZnI1S1UxOU5PYzRKc2hwT0piNTBadnB1R1I1cDJ3LUJZNVVDOExVa29yN0k2RkxBNFluT1FLMzR2Um1hTmxKZF95SDU5V1l6NENCNERkTjFPd1A3NHY0ZVdBVGpxXzRDQ2lEdDVyenEtNXZXbnItcmE4N2VzdGc?oc=5",
-          "ts": 1785367980000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "MSFT",
-              "name": "Microsoft",
-              "pct": 1.4,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -183,6 +189,54 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Inteligencia artificial en la infancia: el desafío de que las pantallas no reemplacen la interacción humana",
+          "source": "G5noticias",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMGpOOU1UUUdLS1kydXVJSnlJM2V0WHV5Q3VlT09Cd0hROVlLT092WE80R05BcVN1ZGd5cnJjdnpoeE5nbXByRG5VNnNzUW1BZHB2LThQRzd0WVI4NklCcmkyTFRpMUNPcC1nV3Bhbnd5R1c2YWVyLUlJZnJCWjlUNEROMG43MUp2b2RoWElYbURFTldOal9RZk15OC02OVhOalB2VHpScU8tWnlIeXJCcWRzY1R3UklkeU5oeklZc3U1NUROQW50aFIxSFROV2lJNGgyamRqTQ?oc=5",
+          "ts": 1785414772000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Microsoft compromete más de US$ 130.000 millonespa...",
+          "source": "inteligenciaargentina.ar",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMy1UZkREdzNrVzduVnNyR0RmLWNZMHh0OFFTTW96MFAwaGkxR1pWME1keUgzTmRvQVhISWxYZFRtQTk0V1pkN1VHdEhSWFdxM0Z5ckVWRmZTZkZBeHA1eHpNVXFJS1g4Z2l2MnFGVk1hTVNjZHNsUkNtR3ZmeE51MzBpVjQ4RmJISmFHY3gwUWI3MFVhOGhiLTJmQ0tjSlJOMWxXdEkxdGlHNVZicV96OTFpNFh0WkdPTXJnT0NJRDdUdHIzM281R1ZoZTRJbnFpQzZwMHp3SkpFeVZ0ZFJENQ?oc=5",
+          "ts": 1785412891000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "MSFT",
+              "name": "Microsoft",
+              "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Meta agentes de IA 2026: Zuckerberg predice miles de millones",
+          "source": "ecosistemastartup.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ2pxdnNOdFB3MER5RndLVlBwY3VBNnNHZFplZFg3TVFBOFltUHlhS0h2c2cwaUJTaGtDdG5SZkJRTjBTd0J6T1U0VWNxbi1hQmtwRS1PM0otYnBQQno0bTdNeUlQUnVRTDMxcU5lcDdqVlE1dEN5YTZGUkxhWWJMdjVSLWpjdHp3aFpWaGFfc25ydG9HMkE?oc=5",
+          "ts": 1785411307000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": 1.2,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Getac redefine la Inteligencia Artificial en el sector del transporte y la logística con su gama de rugerizados Copilot + PC",
           "source": "cadenadesuministro.es",
@@ -225,19 +279,19 @@
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": -2.3,
+              "pct": -2.0,
               "dir": -1
             },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": -1.5,
+              "pct": -1.3,
               "dir": -1
             },
             {
               "sym": "SPY",
               "name": "S&P 500",
-              "pct": -1.2,
+              "pct": -1.0,
               "dir": -1
             }
           ],
@@ -320,54 +374,6 @@
               "sym": "MSFT",
               "name": "Microsoft",
               "pct": 1.6,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Jeff Bezos: \"Cualquiera que hubiera predicho el tamaño de Amazon habría ido al hospital mental\"",
-          "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM1lxVWx1TzNCRWdERjAtbWFVWlpqdng4VS1RZjdoSGZQTk45LXpHdmdLS2RPQWNkQWFRbENMQUQzOVpieDhRNHVQc3o3OWdraVRYOTVnbXJJYl9Na0R1blM4d1BPOUMtRWFHcjRidW1aLWlIRDdiRkJManZvdm4wNWFFeHA0QkY0eldQQTJtaDFicmRiTUpDczdCeUt0bHNFbjliV3Z6UTFuUTNLaVJRXzZ1YUtGWHpCbEtlMnY2eVpmUzkwZXBKNHRtMndrTURGcDh3THpUSFhJTUHSAfYBQVVfeXFMT0hEUG9pMVVYTktDWDBMOGJfRHpmUDB2SE9DRkFBemUwaTFJYWJBUTkwVGtUdFBjWUFONUExNkhpekZ3dS1rS29BQm42TFZJUkM3cWxWVS1CUzBuWlc2OTJpTXI3eWd0TE1OTU9hdkVLdWxpQ2xnQ0V5VS1HTTZhVUJXYjNVQXFyOFMzM3daQkNIY3dLbE9Zd2dUWGs5c3dYVmkwa1QzQS1WR0k2M2pkVjdQVFlpT25QQUJ6Mi1oUEZUOE5WZ0RqQ3MwMGxIYndscmVpQ1YwVktSOG40ak1vZ1BFV1lFcF8xZE1LQ0U2UnpHM0s0Y25R?oc=5",
-          "ts": 1785349380000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "OpenAI ofrece hasta USD $1.000 para investigar la seguridad de la inteligencia artificial",
-          "source": "DiarioBitcoin",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbURJdDNaeThKeEVZVTdZOWF3VkhmRGdUNmNNWmYwelRteE1RWHo4UHVCb1hGTW1LaUEzMnpDNTJSRExOb0R6VE9OMjdZX1NGZnBzVkJUazRmVkNPNjBnemhtRXRtWnU3aTlaamZDREV6TTh3VG9XUzZZSDR1amZDRVBWSFFnc0pScHh5dThNWHJCUWc1bnI4OVROVjZWUG4xb091eVd1TTFUT083bEhya1ktOG9TSW5vcUFFQ1EtRERiaWRXS2c0RFdB?oc=5",
-          "ts": 1785348266000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Nvidia impulsa una alianza global para reforzar la...",
-          "source": "inteligenciaargentina.ar",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOTmVQZmQ2U2RqcUFCQzFuV2Zzd1VoVVNiaHdRbS1iQm9WZ0NoMnpjTkpOb0w5SXNlY2M2U2s1MkVUQUdVM3lYR3BLemlaUnBSaUpaNUFRUTVpMk05WjZiUzRKdnF6cHZvTjZKbU45Z3BvODdiTUJLOVE5c1dIVENKUWJJN0djMnZzUEZsR0pwNlFFeGlkUW9hdGwzS3IwbkZwZzIzMjRUNnAzZkZfTnROOUhCeWQzOXp3RUZqSE0wc3BTNHNOS3o2aHdVWTNmZDNWemRDQzNycEo5ZkRVMDVWdTBLT3BlQjJWbDdkbXFOMjZXeXBGOW96Y2RLOExzUHo4ZW1Zc0duUGs1eFBqY3c?oc=5",
-          "ts": 1785326283000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 3.1,
               "dir": 1
             }
           ],
@@ -482,6 +488,38 @@
           "category": "space"
         },
         {
+          "title": "El movimiento que podría dar nuevo ’aire’ a SpaceX en bolsa: entrará al índice Nasdaq-100",
+          "source": "BioBioChile",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNekdOcXFsa1E2di1mWGNWOWpLWlFtd3VqUmM1aWt3aTE1ZlFheGdZTFFoZlVmTTEzQ0R1YmxxVkdUWVVEWWRhb1dySG5KNldvY0lXclFIODZVLVZQQ0hUWDFLYkY3dW9kZ01leURJWjVCN0FPai1odkRRV1hNNjdnV3ZHc3pMRGVDcnRmeWxTRlBERU5hcjdXZzJQUS1DR1lfdlNwTmF1N2dvcGVFeGJLNWdNRU9MdFlmMEdZOWlYNVMwaUFpWWtDUlJ2VUt4a3RuTEh1T0RKX2lnMFRINzBPd09UQTVVUFlEWFE5YktXX0pRdTNhVWpJUUxR?oc=5",
+          "ts": 1783321200000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "space"
+        },
+        {
+          "title": "SpaceX lleva al Nasdaq a registrar el mejor semestre de su historia en volumen de salidas a Bolsa",
+          "source": "Cinco Días",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTDRRa0RwaURGbHpDUFN5RHhUSVdOcGN3R2tjMTNyYmJsNkxvMDFzMGMtMmgxN0JLX1pmQUVrYWJaV0xnR2FGbXlsc2dVZVhuWENLWmNiT0lXcGhJRWprMjFjNnRDeFo5NXVsU2tnc2s5RjYyY0NUQWM5d0NISDdMSEw4SU85YUhZdTBEOW93NlRaWHVONVZ5My12T1VTYmdVaTNYb0lGVHQ1dHpQbFNHcXNSMEpqcnVVcDlFaGs0Rk9yMFB3X1RLTWJtYndjUVdNblpvZUNzRVlwdFk4VXNsM0RpZWpwNEZES0lsNHpEV29Od9IBhgJBVV95cUxPTnFjZmxKUmRQeG5GdDZTV0xXeXVxYi12SWZIbTJVcDhnd3E0T2FZM0tYVE5QQ3lGZkswV3JBTW10d2JtWDRndHhwMXoxYzFSRlYyYmN0aWVYQ1dCeHd3TVdSdUxfQXJVYkx4emNaMjNvQU52ZHhhN2ZkakRieUp1UHNZcUxhOUpIMFBQOW1ycmlzckp5TUtlOFB3T3FYazFlSXlvSHJmOWNpcHpNNl93bUcxWXZGMXBSWGhGV0hlR25oVFdHR1JhQ2tqaDByZ3lMWVRvd2toVk8zUnZFSVNVR0czTXo4bzh4dEhtY0ZWWkIwNWZDUHJ4c1hKNVlZaUlHUHhjZm13?oc=5",
+          "ts": 1782975600000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "space"
+        },
+        {
           "title": "SpaceX anuncia su primera emisión de bonos tras caer un 10% en Wall Street",
           "source": "Diario Socialista",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTERTTDlTMVAweVF0YWxyUWEybGlBSVdPZDlWYWJwUnkyeVJiZG1BTGZOaHRNSkpQM0RyZkRFc2hEdkxMTl9DblhpRWEtMG5kUXcwSkJFeE5OdHhCMnlCaG9FUDJiQnl3bEh1SFBVY1hKQUQyWXZPZ2h3VzdlRk9NUm80U2dpQ0R1MWtqSDhTSXQ2VzdhU3pSTTZwVThxcFRIbnQxNjJ5WXAxWGhiRTgxSGdja1Y?oc=5",
@@ -508,44 +546,6 @@
               "sym": "QQQ",
               "name": "Nasdaq 100",
               "pct": -0.7,
-              "dir": -1
-            }
-          ],
-          "category": "space"
-        },
-        {
-          "title": "La salida a bolsa de SpaceX sacude Wall Street: el efecto dominó que podría impulsar a Nvidia y todo el ecosistema de IA",
-          "source": "Yahoo Finanzas",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQXzhIVE9JUTFpOXhUbWdoOHU2bzJxV1pkbGJ0Z0h5X251NTlVQUxGa0Z5dVlyeVh3Y0wtRnhyZlZBLWtJRVJKbmdVSl9MUjlfZHBsN2VmbnVuRXYxNHJJZUpxMC13VlNCNzRnLTR4ajNCeHZNYUJhNDRWZG5yX0I4T1NVeWJjZzBSSlVwZkFaRDRCZw?oc=5",
-          "ts": 1782111600000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.0,
-              "dir": 1
-            },
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "space"
-        },
-        {
-          "title": "SpaceX de Elon Musk se desinfla en bolsa y borra casi toda la euforia de su debut histórico",
-          "source": "El Constitucional",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQXdOdU5pS2hYdTFCZWRIREx4U2R0Yk85WVBCbWhITzU3QWpMTEdCYnlIN29WeUFxZWx0aGVnbmN4d2YtSHI2Y0xERzlhRTNOM1NiVzlLdndadnlybGkwRnZNNWlvY2t6bXRMVkxGOTNUNkkzVkcxcGpSSWhCbThRQVRfUG00Q2pvNEc3VzhUWnlILTB3Uzg5TWo0UlNPUzlERjJZeGFQYWRiaFN3RHRrSTFsSl95VHNaM0xMT2FsMTExU3FLQ3ctSE90Q3VPOWxwck41ekpMTzY0Zw?oc=5",
-          "ts": 1782111600000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "TSLA",
-              "name": "Tesla",
-              "pct": -2.1,
               "dir": -1
             }
           ],
@@ -628,22 +628,6 @@
           "category": "defense"
         },
         {
-          "title": "Los gigantes de la defensa invierten la cifra récord de 4.100 millones de dólares en empresas emergentes del sector militar.",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQWRBUmMzRG1QcnJ5UnFYbUVxeHdLWVV1dk04c0lsMmlXRllrVGtlNlpRcU5PSTF6VXZXajV5ekNMUWtMRXhubDhxZ1VSYl9UVEpBVTRYR2N4bE1RaUtlTjRsVkFIcnFWbm9WbzhCNHROQUI2WmdPNzBYNFlvRHdiQURZZzN0MFhnTDgwZFB3aw?oc=5",
-          "ts": 1785122438000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.9,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
-        },
-        {
           "title": "Europa dispara el gasto militar: 454.000 millones, un 75% más en 5 años, impulsan la defensa en Bolsa",
           "source": "OkDiario",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONmFlMTl4WFRsY2ZUc0hMejFjX2UxRV9mdm9BVmo1ZlZjZ2ZnRzNTMHNWQ245cjd5anY0OTZ4LWlPUmxoRUo3c3Q1dzEzUzR5MW42N2hYeHZKeW5mNlJ2U1M0OVhxaHZGeVh6WFVIQ1NDNmlYRnBLTllXS283SnBKMWhGbWp6WjRWQ2I0b01uMThIWXR5djlMQnhnT05wd0JrUWdiYW1KN0hvbDFoeUc5LTctclpvUDM1TE9nYtIBwgFBVV95cUxQNFFxNzhycmJia1lYV0xDY3FQRkZRdjhtTkdxdHlCc18zSWw4dEZGcVhtdnZRNUJrUEFkNGlqSGpYM0M2R2ppbGtMVk5jbWZTSy1WQ3duYUtTV1hMU2h5Z0hhZV9KcmVjRlJGQUFEZmo5YThhSDEwcVRMdk1Rb2dDUDg2d2lHeTZmME4tSUpaRXJuM212bUNwMmdSdi02N29Xbk44VHpENWFlNEcxQXBHZUZlNEZqRWdDNFNoN1pJZDlkUQ?oc=5",
@@ -677,7 +661,7 @@
         },
         {
           "title": "España financia con 50 millones más la compra de armas estadounidenses para Ucrania a través de la OTAN",
-          "source": "EL PAÍS",
+          "source": "elpais.com",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWWp2RTRVT1FHX0lUX2hiRVFILTVjQXdhQkFVTi02TXFnRlpBcmJ5RjViU3E4azlRU0p1eGlYRUp1cU0yVDJjVnlLeWdsR0dsUURYNzNhV1JVWkdXUGRKRWlrLXlvdXM4SG1aN2o5QkVtWTJFZ3JTaTV1bFpoaEZnWnFTekxVRWhPR1ppMmFaODJha0w2WW5XNTFPY2NiN2QtVXluRFpQazR0RF9JckYwMWNIQW15RUNNS0xkS2xMZU0yaW_SAdcBQVVfeXFMTmI1MzB4SHpEZkhiUF9TekpyWVRadzVMSFpmLS1KSlQ4YUt5d0VDLVBLdXRiNktycWdZRUdObXY0QnM2Qm9iN0FaVHFhRldBa1RHc25IbWlDbHBmdVNLSHF6eFRVU1p5ZmRkY1JEd2FTZnBHSnVEX3BBQjBnM3BwOEppY0dzSWRDTWlRV1dmOEZTYzZNUFdwQ0d2eThKeGFiSXVlaE9NS2ZxWld6b09OZVRBS1JIcXZGVEl5WjdCVllqU3gzdXV3aEZXenhDd0J2YnpmRlJ5Y0k?oc=5",
           "ts": 1783407600000,
           "sentiment": 0.0,
@@ -742,6 +726,34 @@
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
               "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "defense"
+        },
+        {
+          "title": "Cómo vende Rusia su industria militar frente a Europa y EE.UU.: la batalla de narrativas en el mercado global de defensa",
+          "source": "Escudo Digital",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOd3ExTTQ4eHVfN3pYMEtUQ3dCMW5ETlJsVkV0YzROaWp1SUtBTXBYV055NF9tZU1IeUVkT2MtenVmSUw3Q3MwQjFRUkVzRzM3NVcta2hEandXNFlaa25meGwxLXRqajFjVVM5MGxiWXRFZ3czQWk3WEhhM2VoZXpwMm5MRXVLMTVaSENpdi1RSkNUVHhWeXg3MGJYcndNVmNoVEJoXy13bFpPaVNDODZsTFRLamkyWVZUNDNaMFZ1VWNuc1ozYjJhZGs1X3BkZFczeVByYmZQalBFcFlUejNxVDBZVjQyelZYNEZINlZpTmhBdFlPNXgxUmVIemlGVHJ3?oc=5",
+          "ts": 1781247600000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -0.7,
+              "dir": -1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 0.4,
+              "dir": 1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 0.3,
               "dir": 1
             }
           ],
@@ -843,7 +855,7 @@
         },
         {
           "title": "Noticias del petróleo: WTI y Brent caen mientras las esperanzas de un acuerdo sobre Ormuz superan los flujos de crudo",
-          "source": "fxempire.es",
+          "source": "FXEmpire",
           "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQejdWbkZ1WHdMSEhjTTFNYk0wMHRUczE4ekg5ZUdvTjR2LUNJenU5N2Z2SHFjUl92c0tOdXpnNmNPeTU5bnFTZlZzQmhCeXZGTi1hZVhZU3BJWEppMGhUQ3VzdG1WRGlYOV90U2hzeHY4ZFh3TU5yUElWNzN4QXVlcGI2TmZFbENlNkl0SHc1V003bFVvTEdnMm13TkxhYWw2eU91ZG1rSnJJMHlTVUIxcXo1cDg0dWhpUERZTHVlanlOdDBSandmSm82cXFhNW55QzRaZHpaanpnZjNySEJsSjNHdjFQOGJYU2ZoYzVhY1ZJUkhmS0lDbHBDQTdkcDFicEM0?oc=5",
           "ts": 1785252300000,
           "sentiment": 0.0,
@@ -1260,8 +1272,8 @@
         {
           "title": "Wall Street cerró en rojo tras la decisión de la Reserva Federal",
           "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeXdWZnZ2cWE4SnB6X1NSeHFPZnloRWQ2b1E1TkFKa0g1Z0I3aWx4UTdXOTdTREJCdlZSendpM1hUNGpRbWRYVGtMZFRxcFQyLW1TVGlueHBKLUxIdUsxY29WNVhuMGRyMmV6bm1laFZXZW5lWDM1QkUybVlhYXlaUUpIRWhFc29FYzVIU2xmTzVxNGZ4T1gzRjhpQnJBN2VJLXI5SE1BUnR3MklralhyZjNkbms1Z9IB0AFBVV95cUxOSkxBVUgza25PSXFQOEt4a1U5Z1R3VVc1VUYtTHF0b0M2MHdSQ05yWmNhRzJxalZqclF1V3I1M2hpZndXU25STHh0bEFtNFh3QnJJNENXbldrS1lJVlRpT3ZZdW9Ma2hHZF9ZY3lUMjN2NjVkOE5OWnVtLV9aNHU5LU91MmIxNWh0TXZMSTZVZUdXTV9sUFFnWjdwYmQ0NjdDZmw2SzJmQ3FYd2I2OS03cnpaVllRQU5UVm92VG43eU4xRE14SWFRcXVBN0huM1pa?oc=5",
-          "ts": 1785360900000,
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSkxBVUgza25PSXFQOEt4a1U5Z1R3VVc1VUYtTHF0b0M2MHdSQ05yWmNhRzJxalZqclF1V3I1M2hpZndXU25STHh0bEFtNFh3QnJJNENXbldrS1lJVlRpT3ZZdW9Ma2hHZF9ZY3lUMjN2NjVkOE5OWnVtLV9aNHU5LU91MmIxNWh0TXZMSTZVZUdXTV9sUFFnWjdwYmQ0NjdDZmw2SzJmQ3FYd2I2OS03cnpaVllRQU5UVm92VG43eU4xRE14SWFRcXVBN0huM1pa0gHQAUFVX3lxTE5KTEFVSDNrbk9JcVA4S3hrVTlnVHdVVzVVRi1McXRvQzYwd1JDTnJaY2FHMnFqVmpyUXVXcjUzaGlmd1dTblJMeHRsQW00WHdCckk0Q1duV2tLWUlWVGlPdll1b0xraEdkX1ljeVQyM3Y2NWQ4Tk5adW0tX1o0dTktT3UyYjE1aHRNdkxJNlVlR1dNX2xQUWdaN3BiZDQ2N0NmbDZLMmZDcVh3YjY5LTdyelpWWVFBTlRWb3ZUbjd5TjFETXhJYVFxdUE3SG4zWlo?oc=5",
+          "ts": 1785357562000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -1324,6 +1336,28 @@
               "sym": "SPY",
               "name": "S&P 500",
               "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "macro"
+        },
+        {
+          "title": "Los semiconductores y la IA tienen nervioso a Wall Street",
+          "source": "24 HORAS | El Diario sin Límites",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNXzZ5Tnd1TXZJY1o5ZjQwLWtNNEtrUldmSHVWNXYxcE5HcnJlNlhPdTV6Tzl3LXBlZHFjaUR1RXkyTWtOaEU5SVExQkRqc25JWkNieWU4YUJNUzlSTHpCbEVMU2VwOVQyVHNqcDNTYnp1aTFDYTBxSlF2QkVtMVlCRlB1M0tXVlhnNFk3bnpESnQ?oc=5",
+          "ts": 1785292786000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 0.7,
+              "dir": 1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.5,
               "dir": 1
             }
           ],
@@ -1426,44 +1460,28 @@
             }
           ],
           "category": "macro"
-        },
-        {
-          "title": "¿Y si la Fed compra acciones? El escenario que abre el creciente peso de Wall Street",
-          "source": "Bloomberg Línea",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSl9TRmZfZWlGZ2xCakpSbXYtNjJ6N3Q0ZGtfNGgyMkNXM3dTSFVuc3dYZEMzZVAtTWJTMDJMWHM1OHJMcFlPQksyTzJvQ25BWDhLT3V4Y2ItNkhTbk9TOFlvV0x1S01uRVowNTRUSHQyNExkamJxM2VOZHFoZW5aU0p4UHY4QWMxMzY4d0VfTVpKcktDOXAwUkRMeXQtUlVvaVBjV2RpLXhhZWhuSUktU01nRTZlcFViXzRnWXkwOE7SAdQBQVVfeXFMTl9mWHl2ZFpyYndzOHFiR2Y2WHNxejlkODNWUnZ2ZWE1ZWFJN09mMUtnMHBHaTV4TTNwSXZ0a3FHLVE3dWRnRzlZYVdMdHFjb2ZTZWJGM0c4RWpwazU3b2J0OEY1QzdYazlabXlQWEUzemdmT2lKdWU5cW5uN3B6WGJySzkwemFaSllFZ0d5VzI5M1Y5bW5fZXJoVVg3VkpWNE8wZTFqYkRhWmo5Qk9XQ2M4MEUtX2sxZ3BJbWM1Z3RZTTlTYWkyd2NsNXE4SlFkUDF2S1M?oc=5",
-          "ts": 1784098800000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
         }
       ]
     }
   ],
   "tickerBoard": [
     {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": -9.0,
-      "n": 4
-    },
-    {
       "sym": "WTI",
       "name": "Petróleo WTI",
-      "net": -8.8,
-      "n": 25
+      "net": -9.5,
+      "n": 26
     },
     {
       "sym": "MSFT",
       "name": "Microsoft",
-      "net": 8.0,
-      "n": 7
+      "net": 8.5,
+      "n": 8
+    },
+    {
+      "sym": "META",
+      "name": "Meta",
+      "net": 7.6,
+      "n": 8
     },
     {
       "sym": "ASTS",
@@ -1472,28 +1490,34 @@
       "n": 3
     },
     {
-      "sym": "ITA",
-      "name": "ETF Defensa/Aeroespacial",
-      "net": 6.4,
-      "n": 23
-    },
-    {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": 5.6,
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": -6.9,
       "n": 3
     },
     {
-      "sym": "META",
-      "name": "Meta",
-      "net": 4.6,
-      "n": 6
+      "sym": "ITA",
+      "name": "ETF Defensa/Aeroespacial",
+      "net": 5.9,
+      "n": 23
     },
     {
       "sym": "AMZN",
       "name": "Amazon",
-      "net": -1.2,
-      "n": 2
+      "net": -2.0,
+      "n": 1
+    },
+    {
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 1.5,
+      "n": 1
+    },
+    {
+      "sym": "SPY",
+      "name": "S&P 500",
+      "net": 1.4,
+      "n": 21
     },
     {
       "sym": "AVGO",
@@ -1502,10 +1526,16 @@
       "n": 1
     },
     {
-      "sym": "SPY",
-      "name": "S&P 500",
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
       "net": 0.9,
-      "n": 20
+      "n": 7
+    },
+    {
+      "sym": "QQQ",
+      "name": "Nasdaq 100",
+      "net": 0.9,
+      "n": 16
     },
     {
       "sym": "AAPL",
@@ -1518,18 +1548,6 @@
       "name": "Alphabet",
       "net": 0.5,
       "n": 1
-    },
-    {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": -0.3,
-      "n": 6
-    },
-    {
-      "sym": "QQQ",
-      "name": "Nasdaq 100",
-      "net": 0.2,
-      "n": 15
     }
   ],
   "ecuador": [
@@ -1566,27 +1584,6 @@
       "tags": []
     },
     {
-      "title": "Petróleo supera los 100 dólares este 23 de julio de 2026 y aumenta la presión sobre los combustibles en Ecuador",
-      "source": "El Comercio",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRmoydThQZVh4QktJUV9OUTJZTHNhd0s0Q2l0dWRlUXVMdWFyVmRrYUJ2czlZcXo4bmtGZEpUcW1GQnAwTE9ELTVDWDZuNlZ5WDhkSC12U0JVcm41SW1Oa2Z0bC1jdEpKOGxFYmNacDM3REh3bE4ycnBxMVk0WVMxRUpTdFFpVXdQREtyR1VHaktCMlZDUEs4YnBUVUQ?oc=5",
-      "ts": 1784842744000,
-      "sentiment": 0.5,
-      "tags": [
-        {
-          "sym": "WTI",
-          "name": "Petróleo WTI",
-          "pct": 1.3,
-          "dir": 1
-        },
-        {
-          "sym": "USD/MACRO",
-          "name": "Macro / dólar",
-          "pct": null,
-          "dir": 1
-        }
-      ]
-    },
-    {
       "title": "Las importaciones de Ecuador se dispararon hasta mayo de 2026, impulsadas por el alza del precio de la gasolina y el diésel",
       "source": "Primicias",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSkRTaE5MUWtWZDZWb2NMSXBtQUVmNVpJR1FMaTBvbU01Nko0Xzk4Nm5SeEdGSnZTTEZTSjc4TXFHakRsZlJhNl8yak5iMVk4bHpNV0k0cDhXZXkxaTRINXh2UVJ2MG9jT0lwWDBFMUxFemo5SnVfWDRsTDJqcTdISUVKUzBnSFkyVHpvdWw3Zl90RTFCRUVkREk2Y3JTT2pwZjBCOTZhZklOTWw4SURnSzVSTjRtT2t0TlFUaTBJdVFqLWszWFJzUVhQUnlXdw?oc=5",
@@ -1608,6 +1605,14 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlNuX3I1ckZFUkVCTGF0YkkxY0tpRjhtWXRNYTNqVFpqd085SkR2d0g3bHNDR3NyeXpDVHRSUDJmZVZaZUo4eHJaYm5OVmNUQUhhUHpydW8wQXRSbHV0UHUzWlN3ckJ5d3hJMmEtYjZQeVhZdVIya2ZyVThKTVJnbnJpQnpwTHo3dTR6b0VVN0pDUUxzSF93N0FNcGFMZ2xVZFE?oc=5",
       "ts": 1784185200000,
       "sentiment": -0.5,
+      "tags": []
+    },
+    {
+      "title": "Industria cosmética en Ecuador mueve $1.575 millones y analiza su futuro en Quito",
+      "source": "expreso.ec",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONHpTSXVQcFNVMzQwR2xOY1Atc2JjMFFOUVZ2NVpSa1ZsY2syQ0daWTFGal82OS1NQlQ4ZExLTzZyRnFhZVNTNjlxRHdtMXVwMUVsSmNmbE91YUUyTHBWcEtmbW9sNVJjcTV4OFhlUVBpT2stVGctN3hhOElTb0dfZkhGZGo2QUZmQzFEM01nczl3STl2SDZkazduZDhNUmp3QzZYVS1hYTg?oc=5",
+      "ts": 1784185200000,
+      "sentiment": 0.0,
       "tags": []
     },
     {

@@ -1,10 +1,38 @@
 {
-  "updated": "2026-07-31T17:58:07.997025+00:00",
+  "updated": "2026-07-31T19:24:15.876357+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Bybit añade acciones tokenizadas de Nvidia, Apple y Tesla como garantía para préstamos",
+          "source": "TradingView",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLeVNDdk9MUGxQWTdnLUs3b1RRaXhDZTU0ZXAtLVo2OE84NnhfaW8tVHNzRnVKVGladmxseHBURm1LMm5NRUJWN0lvNmFtSW14dVJrMElPMjd0QmJOOHBqemx6NUI5c2J2UnRxa0ZVNA?oc=5",
+          "ts": 1785519000000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "TSLA",
+              "name": "Tesla",
+              "pct": 1.9,
+              "dir": 1
+            },
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            },
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Caen 9% acciones de Apple",
           "source": "diario.mx",
@@ -23,7 +51,7 @@
         },
         {
           "title": "Wall Street avanza en la última sesión de julio; acciones de Amazon se disparan tras reporte",
-          "source": "eleconomista.com.mx",
+          "source": "El Economista",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONU4zNFFQMXoxejVsMGFILWJxZGJWUW5aU0ZseTItMElMRkphUjA1QmdpUEs4bDhxSmxYZnU0d3E2VW5RSmozN0J1YU85NTcwSy1vZGtrSHhuMmxYYkhsb1RmZ25sMTJQUHJtcUxQS1NqVU9kX2I0d21fMG9aX05oQi1XR0RnMXRBdF8yWGQ4akd4c0gwdzdMOWpZcTI0UUp5SWh4aXh0cm1heERhZk1wQUdaLXNnNGpqd0Q0ckx1NUxoVTVrcnVieEYxQmtUQdIB0wFBVV95cUxPYTdla0RVU1BJRllZaHR1bXdOVUFCdmV1LUpqbC1XM3hSemZuVlZXRVBMMTd4cmdZU05WQ21haDNVUEFFN0U5cXgxYTR1Vlg1cDJBMFhGVFJoOWVoeGFoQ05HaTI0ZnB5R1h2UDM2NmNLVUdWQ1JJQU45V3RXVWRaMmgxQlZEZTZTYTlQOGZDWmFNRG1kaldfc3pCX0ZUZW16ajNqWXllM0hmVmw5dUNGQUx2VEt5QWVIMS1KLWFOT3haRVJDc0JrUEtqQXpxT3Y0VXZN?oc=5",
           "ts": 1785514597000,
           "sentiment": 0.5,
@@ -107,94 +135,6 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": -1.2,
-              "dir": -1
-            },
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": 1.0,
-              "dir": 1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": -0.8,
-              "dir": -1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": 0.5,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Las acciones de Amazon suben un 13% tras los resultados del segundo trimestre, las acciones de Apple caen un 7%.",
-          "source": "es.qz.com",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01aXBWQjUydzBhTjJ3ZWtMZlY2U2Yzbl9WX3lDcXdMMm9PbVd6NjE4V2JRSTFuYW12UzZKdzE1UWJhUmVlVS1HNDRUb1NQYXZLRDRQUHhuOWJxdE1ZTlBpcUYwbkJLNXhmRjEtRjlLT0Y?oc=5",
-          "ts": 1785500042000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": 1.0,
-              "dir": 1
-            },
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Las acciones de Apple se desploman al ver cómo los problemas en la cadena de suministro empañan las previsiones en los últimos resultados de Cook como consejero delegado",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NdTNhNjZCb2tQOC1KODAwbXYtSll3TGpxT2syNnlhQWR0V1VMVnBTVTlUM29IeXdXWk5aUDRjX1Q0bzllck9jQjdqdGpCRnlPWGxLQ084Y011VU1HSzdkeE5kc0F2aW9EejdqMzVSYUdzSGJIRFhR?oc=5",
-          "ts": 1785499868000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Previsión de las acciones de Alphabet (Google): El nuevo modelo de robot de IA impulsa un rally del 3% mientras el nivel de $360 sigue siendo difícil de superar",
-          "source": "TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMDMwTjhKOGJlQXdPdE5ZRE43TlVSVWtybTY0aHRXc0xhbV9MR0VrZzk5WEdEdFZ3TW04bUpBbnZFVlN0ajNhZ1BydTRFUWFGM25FUXlfQTlhcUpTSFE0bmhCMUgyRHlidUdRUThXZk5MS244QzBKS0FXc1JOOVl6OWJQTUpXY242UlVwamo1MDJFemJic3k2dnVHSFVYeE5nOVN3bEExOVlyRVo5WGZ1X0Y3Z3dkeWZTa1BwaHNOSHJoaWpjRjlPLUhuNFJkMG8?oc=5",
-          "ts": 1785499218000,
-          "sentiment": 0.67,
-          "tickers": [
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 2.2,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "El excelente desempeño de Amazon impulsa los futuros de las acciones estadounidenses antes de la apertura del mercado, en medio de la posible expansión del conflicto de Oriente Medio a Egipto.",
-          "source": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMWpmMF9Ud3RBanRWWmxpWE51MHdVT0ttNTV6YlFWWGxoc0VFRDZRRmRySmhaNjZSaklyMjJRaVdwb2VzaHdvMVUxUlJMSjREWTNKa1JjbFpjQmxMT1lzX0FIQjZ6M2dSLUtwbEVSM0wxYVRfWW1DTDdycmFtNEJnWS1WY3lkMm9pc3VOTzVpODNvbmZiRmM3WVV4dkVOeFgyeFE?oc=5",
-          "ts": 1785498851000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
               "pct": -1.0,
               "dir": -1
             },
@@ -218,6 +158,60 @@
             }
           ],
           "category": "tech"
+        },
+        {
+          "title": "Las acciones de Amazon suben un 13% tras los resultados del segundo trimestre, las acciones de Apple caen un 7%.",
+          "source": "es.qz.com",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01aXBWQjUydzBhTjJ3ZWtMZlY2U2Yzbl9WX3lDcXdMMm9PbVd6NjE4V2JRSTFuYW12UzZKdzE1UWJhUmVlVS1HNDRUb1NQYXZLRDRQUHhuOWJxdE1ZTlBpcUYwbkJLNXhmRjEtRjlLT0Y?oc=5",
+          "ts": 1785500042000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "AMZN",
+              "name": "Amazon",
+              "pct": 0.8,
+              "dir": 1
+            },
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Las acciones de Apple se desploman al ver cómo los problemas en la cadena de suministro empañan las previsiones en los últimos resultados de Cook como consejero delegado",
+          "source": "TradingView",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NdTNhNjZCb2tQOC1KODAwbXYtSll3TGpxT2syNnlhQWR0V1VMVnBTVTlUM29IeXdXWk5aUDRjX1Q0bzllck9jQjdqdGpCRnlPWGxLQ084Y011VU1HSzdkeE5kc0F2aW9EejdqMzVSYUdzSGJIRFhR?oc=5",
+          "ts": 1785499868000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Previsión de las acciones de Alphabet (Google): El nuevo modelo de robot de IA impulsa un rally del 3% mientras el nivel de $360 sigue siendo difícil de superar",
+          "source": "TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMDMwTjhKOGJlQXdPdE5ZRE43TlVSVWtybTY0aHRXc0xhbV9MR0VrZzk5WEdEdFZ3TW04bUpBbnZFVlN0ajNhZ1BydTRFUWFGM25FUXlfQTlhcUpTSFE0bmhCMUgyRHlidUdRUThXZk5MS244QzBKS0FXc1JOOVl6OWJQTUpXY242UlVwamo1MDJFemJic3k2dnVHSFVYeE5nOVN3bEExOVlyRVo5WGZ1X0Y3Z3dkeWZTa1BwaHNOSHJoaWpjRjlPLUhuNFJkMG8?oc=5",
+          "ts": 1785499218000,
+          "sentiment": 0.67,
+          "tickers": [
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 1.9,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
         }
       ]
     },
@@ -225,6 +219,22 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Puebla licita el primer laboratorio de inteligencia artificial en alianza con Google",
+          "source": "24horaspuebla.com",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWXNncEZhNTBKeDlEM0I4QVR5RWFERHlVQ0FGZUdOMTAtMkxHUmotT1d0LTE2SUFEbE56bGEybDFIcmluZkhYUWVrLXpaSTdoOGNWWEFRUFZNMUtXempyX0JJZDFxV2Y4SXdZTXdUckdJRkptNHZSdlFONEpBSmVVOUowY2Rodzh0NG84TVk0dzMxRURaSkxNZkx1Z3NZTjBlendzaW04NzZwVEZiVVlLOHpkZlNuVU5uV3lR?oc=5",
+          "ts": 1785520710000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 0.9,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Semiconductores rebotan, ¿suelo o trampa de mercado?",
           "source": "XTB.com",
@@ -259,7 +269,7 @@
         },
         {
           "title": "Google Earth cambia para siempre: ahora podrá crear imágenes con inteligencia artificial gracias a su nueva función",
-          "source": "Revista Semana",
+          "source": "semana.com",
           "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPYUNCX0lNRGtzR3FwYzFKaUVyUFFSREZSc0xWTTVjZkc4QlRSM1FjYjNDYUJnQW1KaEp0RExia2h1V0k2N2hTOVZxNVltZXhxa2VjM0l6ME5HOXV3RUVyZUpHSHQxM2k0bXgzbVA4X0VfeHVVUEM5LXJGRUdVa2ZmNjQ0ZERUTXpfMXh0YlNId0hNQ2hIWWlnWHpwRW1zT2diTmw1UXhMTW5ySzctNEZLQVdNZWk0YWpzcGRpU3QyYy04SC10SDBQdDVEZjBkMTQ1LTdHUW5Sa0sxcWhHU3JDcTNyckVWTS1TWnpjNmJoQlFwNDhaVEhpOdIB_gFBVV95cUxOM0NQalZjQlhjVkM0NEVlRzczWnN0YUJQaUYzellwdERTdGRvazVtczhQeUctbHVGTFJhRDhGdERXWkl1dHA2aGY3bjlJR0xpRVZYOElYTEFPb1BsUmF1OTk3ZFMydy1JWDQ1cEZlMGpFX3Qwd1dkYzNoVjY3bXh2MGFuTTBTTzJkUGJCY3Mtd0lrcy1DOWJtLWV1N2xjRXlnMTVWLTNfeEVxZG80Z0tIQlpqY1RkdVNQYzNaejlpOWpHR1NpMmpvd0Zhc2ZxdndydU9POFE3REJYZzVlOG52RnBWR0Q3eXZjdmFFQjFkdXRXckp2Y2psY1JoUm5WZw?oc=5",
           "ts": 1785517467000,
           "sentiment": 0.0,
@@ -290,8 +300,24 @@
           "category": "semis"
         },
         {
+          "title": "Moonshot impulsa Kimi con un clúster de 20.000 chips de Nvidia vía Alibaba",
+          "source": "DiarioBitcoin",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcmwxZThzd3NGc0ptbmlOM3R0VURiQUFWSzYtMGVobDY2bnBGNzREc1QzTUx1bjl5TTJPUjE4Z0UwNzJvWm5mZTE2VnJweFJyWUE1eGJ3amozdFdNRHNDVzNxSXBOQWJac0t5d1hLems1NzdXRjFPVW5rN2RIZ003Rl9VYnI3bmVuSTlHTDVuVm9MT0dINVREUEVYNnFuZXlIeEd1aUFKVDgwa21WNl9vbVIxQ09NSlBUeXRQakdQNUdzdGM?oc=5",
+          "ts": 1785512631000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 3.6,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Moonshot accede a un clúster de chips de Nvidia mediante un acuerdo con Alibaba, según Bloomberg",
-          "source": "MarketScreener España",
+          "source": "es.marketscreener.com",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNLXMtNG0zRm1MYWFSTENPcDlWTTdZb0tNb3FGdTZMQkhOZEd3LTVzU0xMTDNfU1g1ajFiNlZVMjIySklkNjJFM0JxTVZTdWFlM3BwdXRUNTdZSDk4S2FnN1FwNWxwVGlqMlBsQllvYWk0Y0k2NDJ5b3c0YXB2N3EzNlJTUXFranNvWDBCR1VUbkFhLTJhN3MtdkVKNnN2WUwtUU9zcUFYcW1wNjl3Wkh0SzdKcjNQOGFoVm5uRW9YZllnMGdKQ2lKWmZzZFdqbjFhSmdhaHc1bm1kc1dJbmFCdlRwZ2Q0UQ?oc=5",
           "ts": 1785510454000,
           "sentiment": 0.5,
@@ -338,48 +364,16 @@
           "category": "semis"
         },
         {
-          "title": "Bloomberg: Moonshot usó 20.000 chips de Nvidia a través de Alibaba para rivalizar con EE.UU.",
-          "source": "Investing.com España",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYnk0UmFZSjNPemVYTW1rZ2F1QlByZWVLdVR5SkFkZC0wM0pzSG45aFo4TUZpVGw3QmtWR2tUdGZnVHpCbklTSjMxeC1VVDkwOEI0akZGdlFJTFlEc1BmWHhfWkNJaFNzWmwybGFNWUpoR3J5R2ZUOExvZW90YkpkOVczaUNnS1B6WXYzOTdqRW5OZWpmQlVPLWNmaWRFdko1bkRsanJMUlZaZ0Q5UGF6TmRMUXQ4bmdlaU9BRTZSeFhoRXBoQm9KWldmSHQ2UHl0Rks1azhySGdCNGxm?oc=5",
-          "ts": 1785502500000,
+          "title": "Bloomberg: Moonshot usó 20,000 chips Nvidia vía Alibaba para rivalizar con EE.UU.",
+          "source": "Investing.com México",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcHVMdzhyMWNvR25hSktpX196cUxGTjNPdVlTYTJnVUh0OTVVOVN0a2tZSFZHM21JMnVtNTFIcEt2V3FoQkdOLXF4cFE4VzVnRkQwLWhfNkNtRllMUFdvdFB3RXZvWFpRVjVScFc0a1ZuWC1MUzhrOXAwSFRXanp5VUtmWjIxMXJKdVZVWVpJVVY4d0hKeFV4MkhqWDV1UnFHdWJwSDZLM3dSSHZ5SVNPdEdQdU1PeGhMaG9Fcmpyb0xtZkc3VEc1UjJlbmdSdw?oc=5",
+          "ts": 1785503720000,
           "sentiment": 0.0,
           "tickers": [
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "La última llamada de ganancias de Tim Cook: la estrategia de IA en el dispositivo de Apple",
-          "source": "es.qz.com",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVi1ZUTJMSXc3MnBWMWwtNEhUSWtYX282eE5UMkhGVFJtODJMczZkaUpwZ3Q3c0MwR25Fbm9BSG92RFJoTXJROHVmZi1qLWhPeE9VUHBpQ3lsSzdpbm4yTjBMNGRtYkdQdXRPUVh3eGx4NThPODBQSmVoWDRtdkJxVkdpUWl2V1ZyXzlzdHpRTlUwcnA5c2htd293SWpMWkxiaWV0T0oxSFlWZHktcVh5SjBHR2VxWEFyUE5qVmhTVktWb2c?oc=5",
-          "ts": 1785497042000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": 1.4,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "AP actualiza sus normas sobre inteligencia artificial para reforzar el control humano en la redacción",
-          "source": "Laboratorio de Periodismo Luca de Tena",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTVUwVUh5M2FhT0JrY01BU2dNdjRxWmpabnFGY1cyZzFaQzRXVXlERW1fVS1BV1E4NlByOXd5RTF0VzMteThLZGFpbk5VVEREUko1eUZJWXI3b2NUSnNzNEVBUWVLa09oNWFReFFHNGZtWGs2bFkyVFJyMXBjd1hMYTRPX29mSXdEVkt4ekxEaGxwZFRZRFhZaFVQQi1TaEt4SVd6ak9iaFEyTnhZVElqLUZyRnFobnQtSEFPZXhrS29XUWdDQXlBcGljT08zZGhNem5rbA?oc=5",
-          "ts": 1785495745000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.8,
+              "pct": 1.5,
               "dir": 1
             }
           ],
@@ -549,7 +543,7 @@
         },
         {
           "title": "Empresas tecnológicas pierden más de 1 billón de dólares en Bolsa de Nueva York",
-          "source": "eleconomista.com.mx",
+          "source": "El Economista",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcjVvSmxUQjczbUo0ZlpUdUZBQ205ajQ1NFZVQ3JmSHFRWVhFcGdLYjlKQ1lXM2FsbVlQLXhVb2hmelFUc3Rka3V2aVFyRnZjNFpWa3hGV3Y3NUhVcnpaTnV4QUg3MjAydVllazE1cGVsNFBJMkpDVno3VnJ4VnBWalVIVXlLYkduT0pTdFZBZnNpR0VnZ1puUlBQSEMtVFU1andVa0JTXzhQQzF6TzZSRGJpd05oNm1aUlpWLXdLTlJwZkXSAcgBQVVfeXFMT0ZzdjhpS2lsWHdDN1pMbEhnZzFGS0V4d3ZtblYzc0hjNE1idjNMbGszQ1RRWU5jM01BSzFVZGVranZNZVlQOWJsYmFCWUU5VnV0SUplcXROYjdaRkkxUGpMUmZ0UHJQZHJrdDdGWEluSEM1cEhDTGZMVmdPYklRQzU1aXY3d2ljYXA1SkxxVHM1d0cwMGVmM1Bfb1ljREN1dkgydGpGY2tfMDUwQXFHOEV3QWRvNmlMaDJQX2lZSVNzQ1BHWXJnLTI?oc=5",
           "ts": 1782111600000,
           "sentiment": -0.5,
@@ -579,13 +573,13 @@
             {
               "sym": "ASTS",
               "name": "AST SpaceMobile",
-              "pct": 2.6,
+              "pct": 2.1,
               "dir": 1
             },
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.6,
+              "pct": 0.4,
               "dir": 1
             }
           ],
@@ -641,7 +635,7 @@
         },
         {
           "title": "Estados Unidos invertirá US$10,000 millones para impulsar su industria de defensa",
-          "source": "revistamercado.do",
+          "source": "Revista Mercado",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSkIzZTV2RUdTbkNxRkU4eXF0am5oVjhvMXg0YXBOVVVXQXpPNHpCSEZaYzNVcXJpbmtsTURleE1qM3JvZTlDMGRDdVVUUHdZMjFhNEVuN0xydUpPU1dSeXdqbHNtVzZWRFhhWlFTdnJienVVRlVmeTB0cktxUVFIcVRScDZSbUczVmIwS09wc1JMaFh6aHlRWU15YTMxUnZfbTlIeTJGdWdrbjJvR1ZPZk1iVkZmT1FtUEt3Y2M3cDI5dw?oc=5",
           "ts": 1784328670000,
           "sentiment": 0.0,
@@ -650,34 +644,6 @@
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
               "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
-        },
-        {
-          "title": "España financia con 50 millones más la compra de armas estadounidenses para Ucrania a través de la OTAN",
-          "source": "EL PAÍS",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWWp2RTRVT1FHX0lUX2hiRVFILTVjQXdhQkFVTi02TXFnRlpBcmJ5RjViU3E4azlRU0p1eGlYRUp1cU0yVDJjVnlLeWdsR0dsUURYNzNhV1JVWkdXUGRKRWlrLXlvdXM4SG1aN2o5QkVtWTJFZ3JTaTV1bFpoaEZnWnFTekxVRWhPR1ppMmFaODJha0w2WW5XNTFPY2NiN2QtVXluRFpQazR0RF9JckYwMWNIQW15RUNNS0xkS2xMZU0yaW_SAdcBQVVfeXFMTmI1MzB4SHpEZkhiUF9TekpyWVRadzVMSFpmLS1KSlQ4YUt5d0VDLVBLdXRiNktycWdZRUdObXY0QnM2Qm9iN0FaVHFhRldBa1RHc25IbWlDbHBmdVNLSHF6eFRVU1p5ZmRkY1JEd2FTZnBHSnVEX3BBQjBnM3BwOEppY0dzSWRDTWlRV1dmOEZTYzZNUFdwQ0d2eThKeGFiSXVlaE9NS2ZxWld6b09OZVRBS1JIcXZGVEl5WjdCVllqU3gzdXV3aEZXenhDd0J2YnpmRlJ5Y0k?oc=5",
-          "ts": 1783407600000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": -0.7,
-              "dir": -1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.4,
-              "dir": 1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": 0.3,
               "dir": 1
             }
           ],
@@ -1065,7 +1031,7 @@
         },
         {
           "title": "Wall Street mira más allá de la guerra: el crudo tensa los mercados, pero la bolsa resiste",
-          "source": "La Razón",
+          "source": "larazon.es",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbDJNZXAyN2tzYTVwSThBYWxwZTZYQXpkOFdRaVQyRmRqWHM2U0tSOFF5Vll6NW0tbUE0b2lGOWhIaC0yTUZNeVlNYloyTUttNE1RTWhzeUUwVmZXV3Nhc09HTlFkN1N6eC1wVEE0M243SGJXWmpsaGRXLTVJS0ZNc245NVVIWjFOUUx1aVpDUnExQXAwRmtScHBHeUtXaXlkaHpxTndwaWFFVF85al91WnVERkhVQ0FiR3VvVE9YOXJVTFRGT0ZlZ1JMYmJCLVZ4cktzTUZnV3ZuQdIB7gFBVV95cUxPXzZDdHFBb29HdzhJclI0dUdsaDJNQXktbmhleVBwMTBnTkZNQ0NyQk5Jem5JZmdFdjJEM2hFZ19wbFdjZE5Rc2RfcHo5NzFYeGVjMld3OVhrejFFbVdyWTlBZ1NqNk5Eb081MnFuXzNwVlhBOXlmTlZQWDNRbFh3MlJiaTFROFFnYnFWTVByY1VzSnE3TEZwWWhhTVpJMjNkWWJtZEZRQVBURzRaSDdacGltaTV0YkdLQ0xCSTJSVzVPemRZTDNtMXRfUEtfNTg4dGZzVDY0NTJmM1duR0hGNVlmR2pEQmpkNXNKcl93?oc=5",
           "ts": 1777705200000,
           "sentiment": -0.5,
@@ -1244,6 +1210,22 @@
       "label": "Macro / Bolsa",
       "items": [
         {
+          "title": "Las acciones argentinas registraron subas en la bolsa local y en Wall Street",
+          "source": "Editorial RN",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWXd1aU1JaWJZRlZIV3BkdTJaRTVVc3RkdnUtNDZObW9DRTlQV1FHQWVvNDNpWERyaFVWcG03R1dpZ0VhTTBNTXdsRE1GNXV3MEVpbXVPQngzd3Uxb2hfRmVjYkdoZ2lIN3VyWU1TYTl3aHNqLUozazNTZFlyUFZ6TkQwLXZzQUZYZUlxYVF1WTdIWnF0XzVZU2J3bEh6N3VWeHhrbU1jaw?oc=5",
+          "ts": 1785501016000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.6,
+              "dir": 1
+            }
+          ],
+          "category": "macro"
+        },
+        {
           "title": "Las bolsas asiáticas se desmarcaron de la tendencia de Wall Street tras la reunión de la Reserva Federal.",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWElmSUJjRTdGS2Zhc2hLTzJkOGRlQjZ3ZXNmRDR3X1dYUEpSUFlLb0pYMjJWa1lWQW0ySDFnem05eEJPeHB0ZWF1aHpsTm5UVC1UMk9YbGpMT2c0bVRvY2wxUEF5S3BGeUlNRnVickF0M21iSmk2MDBNMjkzZ25QbEt2bE1JNG5Fd0dYeXlCaw?oc=5",
@@ -1284,8 +1266,8 @@
         {
           "title": "Wall Street cerró en rojo tras la decisión de la Reserva Federal",
           "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeXdWZnZ2cWE4SnB6X1NSeHFPZnloRWQ2b1E1TkFKa0g1Z0I3aWx4UTdXOTdTREJCdlZSendpM1hUNGpRbWRYVGtMZFRxcFQyLW1TVGlueHBKLUxIdUsxY29WNVhuMGRyMmV6bm1laFZXZW5lWDM1QkUybVlhYXlaUUpIRWhFc29FYzVIU2xmTzVxNGZ4T1gzRjhpQnJBN2VJLXI5SE1BUnR3MklralhyZjNkbms1Z9IB0AFBVV95cUxOSkxBVUgza25PSXFQOEt4a1U5Z1R3VVc1VUYtTHF0b0M2MHdSQ05yWmNhRzJxalZqclF1V3I1M2hpZndXU25STHh0bEFtNFh3QnJJNENXbldrS1lJVlRpT3ZZdW9Ma2hHZF9ZY3lUMjN2NjVkOE5OWnVtLV9aNHU5LU91MmIxNWh0TXZMSTZVZUdXTV9sUFFnWjdwYmQ0NjdDZmw2SzJmQ3FYd2I2OS03cnpaVllRQU5UVm92VG43eU4xRE14SWFRcXVBN0huM1pa?oc=5",
-          "ts": 1785360900000,
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSkxBVUgza25PSXFQOEt4a1U5Z1R3VVc1VUYtTHF0b0M2MHdSQ05yWmNhRzJxalZqclF1V3I1M2hpZndXU25STHh0bEFtNFh3QnJJNENXbldrS1lJVlRpT3ZZdW9Ma2hHZF9ZY3lUMjN2NjVkOE5OWnVtLV9aNHU5LU91MmIxNWh0TXZMSTZVZUdXTV9sUFFnWjdwYmQ0NjdDZmw2SzJmQ3FYd2I2OS03cnpaVllRQU5UVm92VG43eU4xRE14SWFRcXVBN0huM1pa0gHQAUFVX3lxTE5KTEFVSDNrbk9JcVA4S3hrVTlnVHdVVzVVRi1McXRvQzYwd1JDTnJaY2FHMnFqVmpyUXVXcjUzaGlmd1dTblJMeHRsQW00WHdCckk0Q1duV2tLWUlWVGlPdll1b0xraEdkX1ljeVQyM3Y2NWQ4Tk5adW0tX1o0dTktT3UyYjE1aHRNdkxJNlVlR1dNX2xQUWdaN3BiZDQ2N0NmbDZLMmZDcVh3YjY5LTdyelpWWVFBTlRWb3ZUbjd5TjFETXhJYVFxdUE3SG4zWlo?oc=5",
+          "ts": 1785357562000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -1440,80 +1422,52 @@
             }
           ],
           "category": "macro"
-        },
-        {
-          "title": "¿Y si la Fed compra acciones? El escenario que abre el creciente peso de Wall Street",
-          "source": "Bloomberg Línea",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSl9TRmZfZWlGZ2xCakpSbXYtNjJ6N3Q0ZGtfNGgyMkNXM3dTSFVuc3dYZEMzZVAtTWJTMDJMWHM1OHJMcFlPQksyTzJvQ25BWDhLT3V4Y2ItNkhTbk9TOFlvV0x1S01uRVowNTRUSHQyNExkamJxM2VOZHFoZW5aU0p4UHY4QWMxMzY4d0VfTVpKcktDOXAwUkRMeXQtUlVvaVBjV2RpLXhhZWhuSUktU01nRTZlcFViXzRnWXkwOE7SAdQBQVVfeXFMTl9mWHl2ZFpyYndzOHFiR2Y2WHNxejlkODNWUnZ2ZWE1ZWFJN09mMUtnMHBHaTV4TTNwSXZ0a3FHLVE3dWRnRzlZYVdMdHFjb2ZTZWJGM0c4RWpwazU3b2J0OEY1QzdYazlabXlQWEUzemdmT2lKdWU5cW5uN3B6WGJySzkwemFaSllFZ0d5VzI5M1Y5bW5fZXJoVVg3VkpWNE8wZTFqYkRhWmo5Qk9XQ2M4MEUtX2sxZ3BJbWM1Z3RZTTlTYWkyd2NsNXE4SlFkUDF2S1M?oc=5",
-          "ts": 1784098800000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
         }
       ]
     }
   ],
   "tickerBoard": [
     {
-      "sym": "WTI",
-      "name": "Petróleo WTI",
-      "net": -12.0,
-      "n": 28
-    },
-    {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 10.0,
-      "n": 4
+      "net": 12.0,
+      "n": 6
+    },
+    {
+      "sym": "WTI",
+      "name": "Petróleo WTI",
+      "net": -10.4,
+      "n": 26
     },
     {
       "sym": "ASTS",
       "name": "AST SpaceMobile",
-      "net": 6.8,
+      "net": 6.3,
       "n": 3
-    },
-    {
-      "sym": "AMZN",
-      "name": "Amazon",
-      "net": 4.8,
-      "n": 4
     },
     {
       "sym": "GOOGL",
       "name": "Alphabet",
-      "net": 4.5,
-      "n": 4
+      "net": 5.1,
+      "n": 5
     },
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 4.2,
-      "n": 25
+      "net": 4.4,
+      "n": 23
     },
     {
-      "sym": "AAPL",
-      "name": "Apple",
-      "net": 3.0,
-      "n": 6
+      "sym": "AMZN",
+      "name": "Amazon",
+      "net": 3.6,
+      "n": 3
     },
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 2.9,
+      "net": 3.1,
       "n": 15
-    },
-    {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": 2.6,
-      "n": 22
     },
     {
       "sym": "META",
@@ -1522,16 +1476,16 @@
       "n": 1
     },
     {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": -2.3,
-      "n": 3
+      "sym": "AAPL",
+      "name": "Apple",
+      "net": 2.2,
+      "n": 6
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 1.7,
-      "n": 4
+      "sym": "SPY",
+      "name": "S&P 500",
+      "net": 1.8,
+      "n": 20
     },
     {
       "sym": "MU",
@@ -1540,10 +1494,22 @@
       "n": 1
     },
     {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 0.9,
+      "n": 3
+    },
+    {
       "sym": "MSFT",
       "name": "Microsoft",
       "net": 0.8,
       "n": 1
+    },
+    {
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": -0.4,
+      "n": 4
     }
   ],
   "ecuador": [
@@ -1552,14 +1518,6 @@
       "source": "ElOriente.com.",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTks4ZWhnMTI3dzRZWldwZFNwVXdNa2lpbi1xWFFmUVhsWXR4SzNFcDJma1BjYjNobWk1R3diNFlFelc1TEFHMExlbkNlcl94VmNPQ25FUWlnMmNkcEluUnhsWFI1WHZDak8xSGQyT2ZvRW03dmQyZy01VTE1UTA3emdyb2hGMUxDUVVzdWNBbEhybE1MdEE0SHcyQTMxbzFMZ0JoQWVtV293cGxw?oc=5",
       "ts": 1785459798000,
-      "sentiment": 0.0,
-      "tags": []
-    },
-    {
-      "title": "Perder el empleo en Ecuador: el mayor miedo es no poder comprar alimentos",
-      "source": "Diario La Hora",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQakdMQXZ3WHhVS09BWlduYXpHbTktS25aa3dBQm1tbUY4c2NKZzkxeUpnQTFfTURkQ2ptNml0TnY2VGRHbHZxaVNXSjRzNW45RFhJN2hLVVgzVFJqbU5za203d0VrYk1FZGhoZ1VoTm8zRVBHY0pHU1BwV3p3T29IUVhoOUxnUkE5V3hTV2I0SEFkaEhuQVEyZTNOQXludW5rTE9wSzdXQzNOQm0wRVphWUxEalZtQTFYczhOcDVPYjluVllr?oc=5",
-      "ts": 1785426300000,
       "sentiment": 0.0,
       "tags": []
     },
@@ -1687,6 +1645,14 @@
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSlpMcEx0WjZaU0NGWmhyYUVJQ1lqLVFfX0ZZeGN6S0h5QUZiNkpFTWFXbVFZWjhzSGozVTVrRERBN3dFMWRIZmU3a1ZKMGkxeHlqdXJfX0V3a195Y3N5RHh6M3ZGVkU5dms5RUdFTVJxQlFxREV4ZVdUbWV0MnVBSlFJaTk4S2RPM0RpOGJCbGRoa28wUUxrYTVSN0c4YlBSZjFlbThOSHpnSkg5TmZFdnc1SENKZUkxbnlRMmxJYTBtbGd6bTFuLUxWN2RQUldGZ2R4bGVkUk8zbWhTUFlCMXBaUzZROVU?oc=5",
       "ts": 1783580400000,
       "sentiment": 0.0,
+      "tags": []
+    },
+    {
+      "title": "El precio de la carne sube en Ecuador; estas son las razones que explican su variación en 2026",
+      "source": "Primicias",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOWhCTWE1NU9iNm1vUVczUzBhNkJ4a09YbWUyOUVYT1dNazZpRGsxOEhneS0xVXdPYy10VUt4WW1fWVllREdCN0hNRUtINTJXUGdKNEJFZWtBWlNpSzV4UFFkZEhCQ3pST2hnSnFHLVRIYzlIN0xQSjRtZ0tpMWxYTHhtVnBRdXkzVnJFV1p2cEozR3UxZFp3U0VQOEtfMHVJMDdZWW5zSQ?oc=5",
+      "ts": 1783494000000,
+      "sentiment": 0.5,
       "tags": []
     }
   ]

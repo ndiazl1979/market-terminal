@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T06:45:04.062838+00:00",
+  "updated": "2026-08-05T09:26:53.314008+00:00",
   "assets": [
     {
       "symbol": "AAPL",
@@ -103,9 +103,9 @@
       "week52Low": 297.38,
       "volume": 32958176,
       "marketCap": 1292884377600,
-      "pe": 300.32,
+      "pe": 294.91,
       "forwardPe": 147.51,
-      "eps": 1.09,
+      "eps": 1.11,
       "dividendYield": null,
       "beta": 1.83,
       "sma50": 387.05,
@@ -194,7 +194,7 @@
       "pe": 31.63,
       "forwardPe": 16.44,
       "eps": 6.7,
-      "dividendYield": 0.48,
+      "dividendYield": 0.5,
       "beta": 2.21,
       "sma50": 205.65,
       "sma200": 193.22,
@@ -269,21 +269,21 @@
       "symbol": "BTC",
       "name": "Bitcoin",
       "type": "crypto",
-      "price": 64268.0,
-      "change": 651.03,
+      "price": 64131.0,
+      "change": 699.02,
       "changePct": 0.6,
       "dayHigh": 64450.0,
       "dayLow": 63405.0,
       "week52High": 126080.0,
       "week52Low": 67.81,
-      "volume": 22857299585,
-      "marketCap": 1289606316194,
-      "circulatingSupply": 20065975.0,
+      "volume": 22918428201,
+      "marketCap": 1286849376748,
+      "circulatingSupply": 20066018.0,
       "ath": 126080.0,
-      "athChangePct": -49.03,
-      "sma50": 63239.08,
-      "sma200": 70634.68,
-      "rsi": 51.6,
+      "athChangePct": -49.14,
+      "sma50": 63235.88,
+      "sma200": 70633.88,
+      "rsi": 50.7,
       "signal": "MANTENER",
       "signalScore": -21,
       "signalReasons": [
@@ -291,20 +291,20 @@
         "Precio bajo SMA200 (tendencia larga bajista)",
         "Death cross (SMA50 < SMA200)",
         "MACD bajo señal (momentum bajista)",
-        "RSI 52: neutral"
+        "RSI 51: neutral"
       ],
       "quant": {
         "volAnnual": 35.64,
-        "sharpe": -0.93,
-        "sortino": -1.24,
+        "sharpe": -0.94,
+        "sortino": -1.25,
         "maxDrawdown": -53.05,
         "var95": -3.71,
-        "ret1m": -0.69,
-        "ret3m": 0.35,
-        "ret1y": -43.67,
-        "macd": -77.835,
+        "ret1m": -0.94,
+        "ret3m": 0.1,
+        "ret1y": -43.81,
+        "macd": -88.033,
         "macdState": "bajista",
-        "bollPctB": 47.6
+        "bollPctB": 43.5
       },
       "spark": [
         59953.44,
@@ -346,7 +346,7 @@
         63466.47,
         63472.83,
         64062.17,
-        64270.07
+        64110.28
       ],
       "currency": "USD"
     },
@@ -354,21 +354,21 @@
       "symbol": "ETH",
       "name": "Ethereum",
       "type": "crypto",
-      "price": 1869.45,
-      "change": 11.75,
+      "price": 1872.49,
+      "change": 17.07,
       "changePct": 0.3,
       "dayHigh": 1878.93,
-      "dayLow": 1851.95,
+      "dayLow": 1852.57,
       "week52High": 4946.05,
       "week52Low": 0.432979,
-      "volume": 6774768194,
-      "marketCap": 225609235564,
+      "volume": 7114714324,
+      "marketCap": 225967945001,
       "circulatingSupply": 120682172.16782461,
       "ath": 4946.05,
-      "athChangePct": -62.2,
-      "sma50": 1786.66,
-      "sma200": 2078.42,
-      "rsi": 51.5,
+      "athChangePct": -62.14,
+      "sma50": 1786.69,
+      "sma200": 2078.43,
+      "rsi": 51.7,
       "signal": "MANTENER",
       "signalScore": -21,
       "signalReasons": [
@@ -376,7 +376,7 @@
         "Precio bajo SMA200 (tendencia larga bajista)",
         "Death cross (SMA50 < SMA200)",
         "MACD bajo señal (momentum bajista)",
-        "RSI 51: neutral"
+        "RSI 52: neutral"
       ],
       "quant": {
         "volAnnual": 54.39,
@@ -384,12 +384,12 @@
         "sortino": -0.79,
         "maxDrawdown": -67.5,
         "var95": -5.48,
-        "ret1m": -2.46,
-        "ret3m": 3.19,
-        "ret1y": -48.24,
-        "macd": -9.702,
+        "ret1m": -2.39,
+        "ret3m": 3.27,
+        "ret1y": -48.2,
+        "macd": -9.615,
         "macdState": "bajista",
-        "bollPctB": 36.3
+        "bollPctB": 37.3
       },
       "spark": [
         1571.94,
@@ -431,7 +431,7 @@
         1881.71,
         1858.2,
         1868.62,
-        1869.56
+        1870.91
       ],
       "currency": "USD"
     }

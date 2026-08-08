@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T18:15:38.513803+00:00",
+  "updated": "2026-08-08T19:00:42.699192+00:00",
   "categories": [
     {
       "key": "tech",
@@ -190,6 +190,22 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "La valoración de Nvidia es la más baja en 10 años pese a la demanda de IA",
+          "source": "Yahoo Finanzas",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONE85QnQtaFcteEFmVlRVVFJQZGFyRTV1QW9KQzZVVHVydjZ4X3NSb21TYlZSMFJKRmp2T084SVhaV0Myd2oyMW5CVGZJaWh3MjlkLXpKTnhrclkyVlJoc0t0cG9aU0p4Q0tvZUEyREN2Zl9WVlRGS01TTVBnY1hPbVVlaTdmdGJONUkyX2I0bzRORWtmNGxWUGttXzYxZw?oc=5",
+          "ts": 1786211576000,
+          "sentiment": -0.67,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": -4.2,
+              "dir": -1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Valuación de Nvidia en mínimo de 10 años pese a demanda récord de IA",
           "source": "Yahoo Finanzas",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcHlZa1hrNW5lY3JMMEVCUnZqYzVWNlNGejAwNFpoTEV0VElxM1Yzb2k2UDVRVlREbWV4VEstU2hqajJTaVRmazhuQXBTVGdQVDdrT3Q0eWNVUkIwWDc4ME1wSGFwQWFFMGtzcEtMOEFibXl5LU9oVFhFV05iZFV5M3FQbHdSRk14NThvblFOMzIwVDM1YTU1d2VpeF9KVkdwWW9JMlhn?oc=5",
@@ -247,7 +263,23 @@
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": 1.0,
+              "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Apple anuncia que los usuarios de Mac en China podrán conectarse al servicio de inteligencia artificial Qwen de Alibaba",
+          "source": "MarketScreener España",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYWZCSHl4Y2g2elBoaWh1MEZiN201RnFrUWhqd3B6OTl3VWtVeTBiaEFBM3NmRC0wemdpYkIwTmlfcjZOcFN6cUlZajVPbGNHSS1NY0V5M08tX3NwblByRjg3ZHFJUTdtYnpjeEJzcUNEUV9zTC1YLXBiZmtjM3dGbVZoTThYenNheDA1X3Z1UjlHRVBBNWZEUUVhczdwaU5IY21UZW5ZVDV5TG5QZzJuY1NjR0xwRnc1bU4zemczdVJVY29QTlp6eDFPR2N6cVY2SDZkM2YxZl9DcVY3ZjQxT0ZKekd5eXloSHNSSw?oc=5",
+          "ts": 1786192276000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -263,7 +295,7 @@
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -324,22 +356,6 @@
               "sym": "GOOGL",
               "name": "Alphabet",
               "pct": 0.5,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Acciones de inteligencia artificial: ¿Dónde están las oportunidades?",
-          "source": "Morningstar",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeTduX2FDSnVQS1NBaFg3bjNwOUJxYTVKUnNiZTlJYnY0TUpTbWZ1bW5FVEV0ektfa2F3eGt1QV92T1pkdF9naHpNeDJkTzJKVkpQU25WaGpWaU5LM05CUS1yN3Fnbm1nbVd2WVhNeFVaNW9uVmJPWXNYMV9ocDRhald1TFVXRmJ0Vng0QjE1MWNNeG9qd3hKSU02UUdTdHRaTmNDRWV5bDNaZw?oc=5",
-          "ts": 1778482800000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.6,
               "dir": 1
             }
           ],
@@ -525,7 +541,7 @@
       "items": [
         {
           "title": "Burgos se prepara para fabricar armas y equipos militares",
-          "source": "Diario de Burgos",
+          "source": "diariodeburgos.es",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa1poY2lxcFNNT3VhZFE2SjI1N1BCYmZGR0hUQnRYc29KMWg4ZUx3eHA1dGhuQ0dMNERVOXZUejZkbmY1OGw3Z1NBVDRLOXlrUkhMSi1hSnpPcHh0dWk3ZFJwdDVSUUtwdGdpbTFsamdPZjlBMF9lNkt2Y3dubk13aUpCRkRTTGN2ZEFCdnRsT3JySGZ1aVhqTm5yNV96al9URGZaUmtLclNBOE8yVDBfQlZ0dEFaRlZlWlRDdFVwY29jSDJZa2JaNmtQNUlFa1dvSzloc1d3?oc=5",
           "ts": 1785985200000,
           "sentiment": 0.0,
@@ -1362,27 +1378,21 @@
       "n": 24
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 4.0,
-      "n": 5
-    },
-    {
       "sym": "QQQ",
       "name": "Nasdaq 100",
       "net": 4.0,
       "n": 18
     },
     {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 3.2,
+      "n": 4
+    },
+    {
       "sym": "AMZN",
       "name": "Amazon",
       "net": 2.7,
-      "n": 5
-    },
-    {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": 2.5,
       "n": 5
     },
     {
@@ -1404,16 +1414,22 @@
       "n": 1
     },
     {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": -1.2,
-      "n": 18
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": -1.7,
+      "n": 6
     },
     {
       "sym": "AAPL",
       "name": "Apple",
-      "net": 0.8,
-      "n": 1
+      "net": 1.4,
+      "n": 2
+    },
+    {
+      "sym": "SPY",
+      "name": "S&P 500",
+      "net": -1.2,
+      "n": 18
     },
     {
       "sym": "TSLA",
@@ -1484,7 +1500,7 @@
     },
     {
       "title": "Ecuador exportará 10,8 millones de barriles de petróleo y prevé ingresos por 872 millones de dólares",
-      "source": "elcomercio.com",
+      "source": "El Comercio",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNXVrWnBuWjBUaUlhb0ktUVlQaWN6U0JvajlJSDRYYmUtd0hsb0hicU9IdVJQSm1zSDNJODlVN21yYkVQZW41NkxzenQ1VEtlLVNCVlRqdE1KdXlWX2FjbGdKZ0dWaGU0a1JHbjh2M0R1NXpvb3JidmlseW5WQXFXR0ZaM1hheEo4LXl4cjdHckYwTFRLZGV3MW91UjBuWW5mSkI1MjRVQ1JhMlhIU0Y0UE9MY0dWcHVhR1ZvQXF4NVZyLUNYemlwYWpxVFNycUZUay1tNA?oc=5",
       "ts": 1785881345000,
       "sentiment": 0.0,
@@ -1528,14 +1544,6 @@
       "tags": []
     },
     {
-      "title": "Nadie se quiere ir a la bolsa",
-      "source": "forbes.com.ec",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RNGItYzJSZnE1STg3bnJ6amtzNXZhQ2VCdHhtUnRyX0xQWHQtT05FdkdFV3ZXamtONWRLRDdjVXY4UWV6Y3pGclZCZjF2NEc3X19NaFFBaVlEYmVPX2x3OE1WYjR0YUZQS0J0WmJmMmhOUnlX0gF6QVVfeXFMUFlNYkhoeVFfSzZnQzg4NTVfamgyekxkb09pZG0xQU5OeHF5Q2Z4eUQxcmoycFYtUlRYbnllS0tVS3dVU2NER2JCelU5WG9teEp6UTJkZkVOc2lnVHpWN2paY2M5T0RuSW1hS2lkbTJ0THNHS0g0WjRGVVE?oc=5",
-      "ts": 1784908320000,
-      "sentiment": 0.0,
-      "tags": []
-    },
-    {
       "title": "TLC Ecuador-Canadá abre mercado sin aranceles para el 99,6% de las exportaciones",
       "source": "Diario La Hora",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRzhCT0tOT1FNNXU5R3d6MDR4NDg2aUhJQ0FoY3hDN3cyRndZZ1RpUk5uZ20wSEZRY1pnRy1yanBuS2dpYzB4YWFHWEdobTlXVGw3V3RfRGc4Z0UxRXVFbU1xc3BtWVJILVRaNGk4MGZGZnRYWVh3MDhJZ0xpcHI1aVhJdW5VM0dIT3VpWi1sQTZtMENjdzFqT3I2NzZFdmhxQWtuRmVqOHhNSXJ6SjJjVExmN2lBU3FwS3I4bEtnaU1SZjdnUEJ3ZTlxVWI?oc=5",
@@ -1553,7 +1561,7 @@
     },
     {
       "title": "Petróleo supera los 100 dólares este 23 de julio de 2026 y aumenta la presión sobre los combustibles en Ecuador",
-      "source": "elcomercio.com",
+      "source": "El Comercio",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRmoydThQZVh4QktJUV9OUTJZTHNhd0s0Q2l0dWRlUXVMdWFyVmRrYUJ2czlZcXo4bmtGZEpUcW1GQnAwTE9ELTVDWDZuNlZ5WDhkSC12U0JVcm41SW1Oa2Z0bC1jdEpKOGxFYmNacDM3REh3bE4ycnBxMVk0WVMxRUpTdFFpVXdQREtyR1VHaktCMlZDUEs4YnBUVUQ?oc=5",
       "ts": 1784790000000,
       "sentiment": 0.5,
@@ -1594,6 +1602,14 @@
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPamFnMGNQdXFmTE94QkpsLWJyb3MzT09xYXg0N1JocW4zeGdXZEVFRFBRTmhZemFybEk3SW1VbUR1R0lfOTQ0OTM3TDZJZUh0enkzRkxfZXUyYXdTVzBVSUVSdXRqaHZsXzJ3RHJ2b21pNWh2UThtYXZ1Z2R5THFxWC1SaE5pTkV5TTFDeDdGRldJZll4bnpmeTVlOTZFZGhPTFZieVhZM2M1QURJalhKM29JUGxpRDZyU1pYNWxIMUlEUlM3b2YtS0lrMDE1OWVxaU9ya1pRdUpuYmZKclNHSWt2a1hxNk9oQi0yX3JDamtHNWJHajl5Tl90U1ZYQ05Q?oc=5",
       "ts": 1784271600000,
       "sentiment": 0.0,
+      "tags": []
+    },
+    {
+      "title": "Ecuador pierde alumnos y crecimiento económico",
+      "source": "Diario La Hora",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlNuX3I1ckZFUkVCTGF0YkkxY0tpRjhtWXRNYTNqVFpqd085SkR2d0g3bHNDR3NyeXpDVHRSUDJmZVZaZUo4eHJaYm5OVmNUQUhhUHpydW8wQXRSbHV0UHUzWlN3ckJ5d3hJMmEtYjZQeVhZdVIya2ZyVThKTVJnbnJpQnpwTHo3dTR6b0VVN0pDUUxzSF93N0FNcGFMZ2xVZFE?oc=5",
+      "ts": 1784185200000,
+      "sentiment": -0.5,
       "tags": []
     }
   ]

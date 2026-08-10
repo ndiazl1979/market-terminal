@@ -1,10 +1,26 @@
 {
-  "updated": "2026-08-10T07:11:34.626863+00:00",
+  "updated": "2026-08-10T08:50:26.053160+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Consultorio de acciones: SAP, Tesla, SOFI, ACS, Rezolve y Cognizant",
+          "source": "Investing.com España",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb3RKUEZSNFBJZTQzODFHWFNzdnQyaHpnUVY2MjdTT2I4M0lkTUoyajZXLU0xdEpGa1dNYnBscFlmdkpndjFMTXhEb0I1YWwzOFZZMWl1enNkcENSRGZKUHl3T3VKU2JJMUtBQTdWTG9LT3BSRnZOdnR0ekctSUMzN1NBa1dBd2hzOFBTMkpsdFZzS2xfNXVfaXdmbWh2MjhOb09SNXlzQzc2dw?oc=5",
+          "ts": 1786338960000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "TSLA",
+              "name": "Tesla",
+              "pct": 1.9,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Amazon superó los tres billones de dólares de valorización y Jeff Bezos hizo lo que mejor sabe hacer: vender 15 millones de acciones",
           "source": "Xataka México",
@@ -166,22 +182,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Jeff Bezos vendió casi U$S 350 millones en acciones de Amazon tras el récord de la compañía",
-          "source": "roadshow.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSVhYTE5USG5RTC1fUXRRUmZzdVRMYWFqMHZiZGNYSmRCY1N0bnhxSlBuQWNON0NsYW9mNmdTcDNFS1BtY0RBTjFmcGtmTEJybXRUY2JWa3haOE5ZMjJkaEJTaDBFbTY1U28tTW83b2owZFN4b2dXVjZZbmVCZHV2UkVDT1V5enFzU214MTlEY3lsSHVFS25ld2JvMEsyRWFtTlJQeGR2blJkd0NQdWV4amNCbGRyY3FCS19r?oc=5",
-          "ts": 1786030394000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": 1.1,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -189,6 +189,54 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "TSMC batió su récord mensual de ingresos en julio ante la fuerte demanda de chips de IA",
+          "source": "HolaNews",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRlU4QkNvUjBFbWtiUldOYmtobW9ZRzBPcFJHY2VacjBBR0R3LVFJS3IzalMwYjk2NkU2bGJwbWx6eDBoZ2liWWR4b3kxLTVxN0VuZHhIQWZkcF8wZHgwcFFxR1dhUDkyM2FTTUx5X2JYeUNmVUtQdU95WGF2Tkpfbm41ZlN2QmpFbzh3U1Nab01ic2tYTWV6YXd0aVRDMk9FdFpZMlFnOTBkdEd3aVE?oc=5",
+          "ts": 1786351542000,
+          "sentiment": 0.25,
+          "tickers": [
+            {
+              "sym": "TSM",
+              "name": "TSMC",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "AMD refuerza su apuesta por la IA con la compra de Taalas y sus chips específicos para cada modelo",
+          "source": "COMPUTERWORLD ESPAÑA",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWDZ2SFc4TUpvLUowQXh4blBaOUlBWXoyVXFpdkxiRXVMbTU5SDBPQXR2M000RmtIa1JoZU9IVG9IejJLMWRBVXJ5THpOblNoQXJ0M1I4RFZHMTlpbTdrNDBPWi1nSmxfdE9RQjFINU16czA2Mzl0dkhZdGRNaGtsLVBIQzJvRGlEYU9TR0tZMmtTZmFoWURXMzdzOHFnUDhpSU9iT296UEI1M1ZXODFwVWptekV5WVhtaWJaSVhONWNoa3YyQTZtVVVrN3NpdEIyNklsSFk4NFVkckhfbklNdGlnaG9UMkxrZnNGWnNoZDFHWTdBeWk4?oc=5",
+          "ts": 1786347530000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "AMD",
+              "name": "AMD",
+              "pct": 1.7,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "El fundador de DeepMind asume un cargo destacado en el ámbito de la IA en Google",
+          "source": "COMPUTERWORLD ESPAÑA",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRGoycnhSejVNd3kwYmNUOWRzR0hWZkFhdnhsbWpmYTBmQXBoUHZnZGItZWVwa3VPZmhHcDgwWVZGdEtCZm9wdkQ0VXV5UnNvX3NpWEdvN1h3bEc2MDh4ZEdlSmVRVXUydHBZTTFTMk1ILWxqblQwd1VYczQxS2QxckdoZmt2MnVJakE3aDNSS0REOE9HU1Y0azdDXzUycWJVU0d2STl2cGQ1Zm1wSFZwNHNWWm1scDlvS2dVRmpNWXBWWk1KclliMWRR?oc=5",
+          "ts": 1786346315000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 0.9,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Ventas de TSMC suben 45% ante fuerte demanda de chips para IA",
           "source": "Bloomberg Línea",
@@ -212,26 +260,10 @@
           "category": "semis"
         },
         {
-          "title": "TSMC batió su récord mensual de ingresos en julio ante la fuerte demanda de chips de IA",
-          "source": "EFE - Agencia de noticias",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNVk4S2ZxTGh6Mkl2U2xVYTJKbmVZNHVpTmU5R3pVNGMyaHJ6dE1HMkl3V3BiMWxmWUkyZGUtQzFjRWpWUW1HQi1NWTBMMzRMaXZRTTBTbXROYmZzc3h6LVJiOTViWjRyS0tNM0FteTl5U1JXTlc0VlpUdFJPY0JFTXpOYw?oc=5",
-          "ts": 1786343761000,
-          "sentiment": 0.25,
-          "tickers": [
-            {
-              "sym": "TSM",
-              "name": "TSMC",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
           "title": "TSMC y Sony invertirán miles de millones en planta avanzada de sensores de chips",
-          "source": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdy1QZ09YbXRYblFScEFSZTZpTHdtN3BZbkRBWlFiUmhFbWxwT0pOd1FjWG9GT3NnYm50elB1NGd4Z2M3WGhLaThRVzNWOE5JdWpmMVlERU4wSk1KWE9zdUprZW0zdE9ibEY1bC1RX2pycVBmdnFZeWdETWZtaXo2UkVRaE01V0prTEZCd3A1cTlqaHltMTE2MA?oc=5",
-          "ts": 1786343640000,
+          "source": "Euronews",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY0FocDdkajVMaDVEMkZjVzdxZXBnU0NCN1ZQY1FaWmU5OFd3WFd0S3lhelQ3RXc4c2VKR21TM1RVMm1PZGMxQl81SWpTX3dqVVc4Uzc5X1dGWnhOM0lfZzNuVU80ZHpWSEUxRnplWFU0d3JRUVdiQUpYXy1oRG9WbDRvcERZbFhMUWdOWklzRHV6VUo5VEhwcEFZWGx0YndJWkNXY2ozR0lrTTYxNWdlelNTdWozamhNeHUwRklXRmcwdw?oc=5",
+          "ts": 1786343695000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -252,7 +284,7 @@
         {
           "title": "Fuentes de prensa: Sony y TSMC invertirán 6 millones de dólares para producir chips en Japón.",
           "source": "Agenzia Nova",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlRfZzNTeTItbTlfbGtSY2p6WUtiR0tzc1E4Z3RzTnhTYlVjV0NPY3VVSXhOQlZ0bklNbDNiQWhpLTZPbUZ2bjJwVktHOEhMZ0p3dWRLUkkzaFJUTlFJZ3RhVkt4VmkyQlpfcGJHaXVvUmJCQU9QUGhJd1ZETGxURGF1c0lHcGJVUzlHRHJVNzh0bXhNZWlCRktTUnN1MWlsNTZUV0lGejd3U1VqWDVQMmRiZWc2bXhuQkVTRTF3TmU4M1pD?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUEMzbDh2cjVaVTBDTUlDVUNjc3Vlb29yVXc1OE1kUC1kQzhnQVAtWi1iRklrN3d1UWd0Yllkb3lNWmdJbkxLVHF3blY4eFhqb0lTX0YxNGF1bnk1SnZTeWNmNDhaTFo1SXFiVEJ3NzhLWXZFVEc3emtNU3h4NkJVLTg2dXlrc08zaVdhQmpaOS1FV0h4dUlrbHRWVTNUZkpHZjROMmJWVDJvektQVTY4dW9vZ0owVjhLM2dBNlQ2cVFPUzBNei1ZNkZmQmNSSF83R2tVdklLRW42RVdKTnJJMlFrLUpGT0RLVmliRg?oc=5",
           "ts": 1786340252000,
           "sentiment": 0.0,
           "tickers": [
@@ -334,38 +366,6 @@
             }
           ],
           "category": "semis"
-        },
-        {
-          "title": "La inteligencia artificial no viene a mejorar el call center, viene a decidir qué tipo de relación queremos tener con las empresas",
-          "source": "Enrique Dans",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbVZFbzExcDRTd1dvcUszMWcxTndtcWdQVVdSNzZwWS1INlQwOXVFSHFFWG5mZ2lYai1hSmxlblRVOWx2NGgwZkNqOERSalB3bkMzRW1fdEx0STRoSkdxNmFBVlJEUUs2UUY1NWpNQ1ZfMGdDaWVEOFItN0dSTTRQR0NrXzZwVVZ0VXh5b2lzM2VaZHZfUXZvbC1IM19FMnliSDhIMDdfM1VuTnI0bU9uUHdId0YwRTdlbjVNRFo2ZVhWaTd6SERYbFp3TGVTelM5NkpDVC1KSnpSMXBocWRqS3RTOU9vUnBXVFhMNnl4Ulk2WVdrOTZaWXFRNVlqNFU?oc=5",
-          "ts": 1786192555000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Nvidia presenta nuevos chips con funciones de inteligencia artificial para computadoras",
-          "source": "Chicago Tribune",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUFNtM2czTGxDdzlCWWlGZWMwZVpmTHBVbEZ0b1p4Q0F3NjhKbE5rUHRCRFVFRjJRV3JnZy1FZlhQZWdhZFU0X3FyOHhOUDBkd0Vwd1QwUmJNWUdVdHE1Ykh5SnlSbGVNZUF6Y3FBNmZvUnpnODlodlA3enNjTm1Pd0dDR3B3MF9tVnh2Zm1KeTBrMDNLVllHZlZ6OHF2bGRaQlVLUF9SSU1ZaE11QmV2NFo3b25qWjRuRENVVEFTYVlUUXppbEhGbHhn?oc=5",
-          "ts": 1780297200000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
         }
       ]
     },
@@ -401,22 +401,6 @@
               "name": "Nasdaq 100",
               "pct": 0.4,
               "dir": 1
-            }
-          ],
-          "category": "space"
-        },
-        {
-          "title": "SpaceX ‘se estrella’ en la Luna y en Wall Street: se desploma en bolsa tras su reporte trimestral",
-          "source": "elceo.com",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcDRIR2hweG5aVDQ0R0M3ekVJRTNIZVA4V3plUDFiNFpxcFVnbFRyMVpsVzJxOEt6NHE4RTh6enBRMWlqZExmTi11QU00WTVCU3F5dVZCNXRLbjFKZ3E1SGJXOF9sQjlaMHRya2t5b1RNdXNKZTYtaVRXLTlGWk9sbVNYQmxUUVdlaThodHAyM3NqaGYyTEFseGsxRXN0bDVlOWFheld6VXl5TmtJN1laRDRERFFtam5tc0NPMW1hRQ?oc=5",
-          "ts": 1785948870000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": -0.7,
-              "dir": -1
             }
           ],
           "category": "space"
@@ -538,6 +522,22 @@
             }
           ],
           "category": "space"
+        },
+        {
+          "title": "Empresas tecnológicas pierden más de 1 billón de dólares en Bolsa de Nueva York",
+          "source": "El Economista",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcjVvSmxUQjczbUo0ZlpUdUZBQ205ajQ1NFZVQ3JmSHFRWVhFcGdLYjlKQ1lXM2FsbVlQLXhVb2hmelFUc3Rka3V2aVFyRnZjNFpWa3hGV3Y3NUhVcnpaTnV4QUg3MjAydVllazE1cGVsNFBJMkpDVno3VnJ4VnBWalVIVXlLYkduT0pTdFZBZnNpR0VnZ1puUlBQSEMtVFU1andVa0JTXzhQQzF6TzZSRGJpd05oNm1aUlpWLXdLTlJwZkXSAcgBQVVfeXFMT0ZzdjhpS2lsWHdDN1pMbEhnZzFGS0V4d3ZtblYzc0hjNE1idjNMbGszQ1RRWU5jM01BSzFVZGVranZNZVlQOWJsYmFCWUU5VnV0SUplcXROYjdaRkkxUGpMUmZ0UHJQZHJrdDdGWEluSEM1cEhDTGZMVmdPYklRQzU1aXY3d2ljYXA1SkxxVHM1d0cwMGVmM1Bfb1ljREN1dkgydGpGY2tfMDUwQXFHOEV3QWRvNmlMaDJQX2lZSVNzQ1BHWXJnLTI?oc=5",
+          "ts": 1782111600000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": -0.7,
+              "dir": -1
+            }
+          ],
+          "category": "space"
         }
       ]
     },
@@ -623,7 +623,7 @@
         },
         {
           "title": "Trump ansía el Nobel de la Paz, pero invierte en industria militar y gana millones con la guerra",
-          "source": "teleSUR",
+          "source": "telesurtv.net",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ybHpUU0N3X04tTTF6LTNBcl93aThQb1l2QjJhTlBuTURYbUNIQnl5Z1NveFF2aVdwNmU3ZFpMV25SWHVoblE3ejJIWDZmckJldEtLSVJIRWpFTDhCOXhxZWJUQ09yRzlXSnFHOUNaa2ZyN2NHTU9vRg?oc=5",
           "ts": 1783705983000,
           "sentiment": 0.0,
@@ -717,7 +717,7 @@
       "items": [
         {
           "title": "Precios del combustible hoy, 5 de agosto de 2026: Los precios mundiales del petróleo caen casi un 6%.",
-          "source": "vietnam.vn",
+          "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOelctbEhqcDl2X0lTZEJxamhDeDNnMlRJLXdoMksyUkVhVW10NDIwU1JTcmRVSUVoNDB3aENuckFDMGkxTndfeU1ybmxGVm9McS00WnU1SVRCVk5BMlNTUGhqVUgyY25XMkJXUVpBMGRDRU5YRlV1TldqMjNqeG42N0ZGY0dZdw?oc=5",
           "ts": 1785887277000,
           "sentiment": -0.5,
@@ -849,7 +849,7 @@
         },
         {
           "title": "Precios de los combustibles hoy (2 de agosto): El crudo Brent supera los 90 dólares por barril, ¿cómo serán los precios de los combustibles en el mercado interno?",
-          "source": "vietnam.vn",
+          "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT3Nfa2lCU1k2LUNPRkItT1dqelJCME5QWl9RQVBKRHYxRURVcG4zc282NG9aQ2tDdTAtb0VVMUswclIwci0zQ1FwZWRHQ2FzNzZQZ1ZEX1NBNkZvVUlGX09yUHhISGVHTHBiUklSek40Ykw2M1I1YjJDTFNzWnBlRm5tMXdHaDFGN2VXUFBJcmhtVlhvZlVNUnJxVXJZdlZJNGxjQkZWQTZaaWRWSHJXeDIzdjRCWEYzWkE?oc=5",
           "ts": 1785631595000,
           "sentiment": 0.5,
@@ -931,7 +931,7 @@
       "items": [
         {
           "title": "IPSA cierre con leve caída pero retiene los 11.000 puntos mientras inversionistas siguen resultados, tasas de interés y conflicto geopolítico",
-          "source": "df.cl",
+          "source": "Diario Financiero",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90d1B1OFhwYlJPTXc4cWhuZ19vTjQ3XzUtLXZBQ04tVHZFalJwbUNlc3RBQ245UHdCS0FOYWhvN0ZVaGhnS3NOd0ZhLV8taTBOaWhrNzJGYzVsSlduMUZ2SDBaVTI4QmYx?oc=5",
           "ts": 1785481200000,
           "sentiment": -0.67,
@@ -1137,7 +1137,7 @@
         },
         {
           "title": "Economía/Bolsa.- El Ibex 35 sube un 4,3% en abril, hasta los 17.781 puntos, con el conflicto iraní aún de telón de fondo",
-          "source": "Bolsamania",
+          "source": "bolsamania.com",
           "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNend5VGdyU2VUckhpbVI0TGdkU3lPZjFhOTVmR0gxM3ZXeUpBN184a0pMQ2FsLThqcWNlNFhwOEJVYkNNRXlyRzBkYjBYX2JpWGdSdDY5TjNIWkhaQ1N2VlZkQ2ZiMTNOelBtWi1seVIycWstY3ZjZWJZXzdadk1UUjJPNURoUHhOaHNmZVU2ZEhYV0NyOUpRWDFyZ1Q1YW5RdVVkZ203VXNRSk9MR2NCMlJJNGwwdnhLLXZVUW1zSkM5aVlrd2pnWnYyMjFkbzhsazRXSGsyVGc0d0pHcWNZeFZ3OGpoR0pNS3ctU2E5UjFUZnpMWmdXcGI3eDNqeDQ2SUgw0gGIAkFVX3lxTE1OMkRUQmhuY1RSNHp6UDJCb1VnSUg5dm5ScWV6U0h2WjM2eEtQUHllZmsyTlgwVWhxRi1iWmNZQlR3VEMxbm9iWkkwRG10WnZhM0k0YW5kS29RVmE4Ym5WLXZiT0FxbGlIeUpkTHhIVHJyZlZrRG5TcDZqUXltWFVHWmI5TS1uczZMUUM2ZXVReUVyX1p1N0tDeVdoQjBqc2F0NVZ5ZVVXeEs3REtpcUJqZ1Y1M3ViNHpRWGFrSnZQMGNTNU9pVzY1Nm1iYm5ORXJsRXFKUWRsX1ItdXJQSTd4V0twenZtNDRpLWJybklLU1Voa1ZyNlRKbWNKbWxUSFRkeEVMckZ6bw?oc=5",
           "ts": 1777532400000,
           "sentiment": 0.0,
@@ -1412,20 +1412,32 @@
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 6.5,
-      "n": 5
+      "net": 5.5,
+      "n": 4
     },
     {
       "sym": "AMZN",
       "name": "Amazon",
-      "net": 5.8,
-      "n": 6
+      "net": 4.7,
+      "n": 5
+    },
+    {
+      "sym": "AMD",
+      "name": "AMD",
+      "net": 3.6,
+      "n": 2
     },
     {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 3.6,
-      "n": 7
+      "net": 2.9,
+      "n": 6
+    },
+    {
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "net": 2.8,
+      "n": 4
     },
     {
       "sym": "QQQ",
@@ -1437,18 +1449,6 @@
       "sym": "ASTS",
       "name": "AST SpaceMobile",
       "net": 2.1,
-      "n": 1
-    },
-    {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": 1.9,
-      "n": 3
-    },
-    {
-      "sym": "AMD",
-      "name": "AMD",
-      "net": 1.9,
       "n": 1
     },
     {
@@ -1466,8 +1466,8 @@
     {
       "sym": "TSLA",
       "name": "Tesla",
-      "net": -0.8,
-      "n": 2
+      "net": 1.1,
+      "n": 3
     }
   ],
   "ecuador": [
@@ -1497,7 +1497,7 @@
     },
     {
       "title": "Camarón, banano y cacao ecuatorianos seducen al mercado japonés: un acuerdo económico está en camino",
-      "source": "Vistazo",
+      "source": "vistazo.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM29MVGNFempSMURlaHFKT05xTVloU0xSWDJReGVPTE1hNDU2aEs2Y01FLXh5Qld5NGVVYnVnU1lWY0p3QXh2SFplMVNidWJOVXRjU3prMndVM1dZcFJGdlY1OTdzM0hnaDZRcS1aTUIwdTk5NTd6eHZoeHkxbVVobWxFOGNRRTVtWmlnNThKUmc4REpiQ2VLT2ctWURkOHZkX1E3SDlONGI4Z2ZBa1lyUzZzRWxwcHRKMXd3ci1wWmxxSldkc3JjbldUY0fSAdIBQVVfeXFMTmd4SW50YmY2UzY2V1F5VkxDN21TZ1dnV2ZvRXZEY05ELWN1WFBuWUMySWhHSVM5SEFVdVpyZF9KTVQxRS0yV2szSnlzNEdIdzJMUkNEa2tIUF9qR3JTRmhqV09Yb0ZvWVY0T3VKc0MxVUEwbzF5THcxVi03VG5VdEp4MkhHVURQVFMyTEJXeEplTW9reUlfSHdPamdZZDdUU1RIdzZ6d3JoM1FTSERBOW1DNm1HQWRvZVpfUlBKdDFwdHJDSVFjUFByUnZNZkxqNlFn?oc=5",
       "ts": 1786054281000,
       "sentiment": 0.5,
@@ -1542,7 +1542,7 @@
     },
     {
       "title": "Crecimiento histórico del mercado de valores ecuatoriano",
-      "source": "Vistazo",
+      "source": "vistazo.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb28wZE8tYTJwczJBMExIaEJPZ2tyS0tGVmdwTlBVaWtpWk5MVmo5T1RpOVpQcWFGNlN0SXlQUFJoQVpIS3IybFB4NkFvTU1pZllYRE4yd1ZqSXRMV2hkYWF5XzNyNnNxR2ZSb29ua2d6R2pHck5lTHMyT3ZMMUQ3Z1l6TjlRRVcxbUxueEJxaF83bGRyemhpNjBadkZNdkhTa0Rid3lVemhITU4yRmNDYnpNUdIBuAFBVV95cUxNdXh1UW9fbTgtUUV6bV9TaTBEZEdoQ3RubkY3NEVaXzN2QmR2SDNqWUg4d21EbDR0bzFyYTRNOXk4R3NrZFJQZlpvRVl1aG1TaEpoWEJEQ0RqV1RVSVlwUDJNNWlXTWNSQ2hrVGdZR1F1MmlQN2FBVzUzQUF0NFJGZVFudFZwSmY4NE90eG9vMU44UFhob1VGQVBLT2wxSHRBU1NpZDZCckZQa0FEQ1pNT2NHQ0xaVVJS?oc=5",
       "ts": 1785135600000,
       "sentiment": 0.0,

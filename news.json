@@ -1,10 +1,26 @@
 {
-  "updated": "2026-08-10T13:35:33.399394+00:00",
+  "updated": "2026-08-10T14:40:12.225377+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Acciones de Meta suben tras lanzamiento de Muse Glimmer y ambiciosa estrategia de IA",
+          "source": "mx.advfn.com",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNHUyQXVKQ05oU0M3OHhPZVlTdllRRm9kMVlZbUcxQ24tcjJPZThKWDJ3QTl2dDlZaE5IZkt6NkJ3ZE91aUhHRjN0NjdaYVVhcnBoMFA5blZYWmotaVlOeDBBVXoyTElfdDJBLVpobGE5NWRQLW9IUXNzc3dOQTA5RGZzRjk2b3lEbGYwVnZRdkFrX016VllacmZDMU9jXzlLNW5SOXBuWWt0dEdIbTM0TlE1NXVObEtKaW0wUlo4UVR0NGNTczJSSW5WdWlLYTlSWkdzRQ?oc=5",
+          "ts": 1786371027000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": 2.4,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "¿Por qué suben hoy las acciones de Meta Platforms?",
           "source": "Investing.com España",
@@ -154,22 +170,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Amazon supera 3 billones y Bezos vende 15M acciones: qué aprender",
-          "source": "El Ecosistema Startup",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMEVXRmJNeEpHZF92M1dUT2ppaEVCVDBPMW5kRF9RTml5aE5fcTlvTG1TUTJjUmozaUhUdXYxSVhKbEVmN25NMzB6amRmTTVIcFlTZ2syaVVKZThzMXVaZnZQYlhsSWFYV2p3WTJSWU9qN0w1QXplTk0xQUlYQjNzUURSZHVMZ2lrYmN6TTAzSUlkQzhBbXBNT0NpZw?oc=5",
-          "ts": 1786122390000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": 1.1,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -178,8 +178,62 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "Adopción y oportunidades en inteligencia artificial: ¿hacia dónde va el mercado?",
+          "source": "elfinanciero.com.mx",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMkV6NDMwSHpwSlFVRm5BRnlvbzJNelViUlgtVDdSMTMzazkxZ3JmSFJjbkFsSmRnZFVtRWlHdFFfc2RUZnRKdmdDbFpfbnNjdnlVTTJMbUt6R1lIT1ZTX3NtSUs3TEpKOXQzb0ZxSW9kbzV0Q0NveENvbUFzZHNXOG5Wcmo4SE45aWNaMEs0T2NmbkI3REVaTnhZR2NaZTU4QjJoYURDNGFlR2lmVXBvXzVkYmxSblBjdHhUWWVGWWxuZXN3cEo2LU5LSWxHWU05Mjg2M1JtQ1BKeTNZZmtJQWRFb0M?oc=5",
+          "ts": 1786371071000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Microsoft planea revelar el chip Maia 300 en septiembre",
+          "source": "Yahoo Finanzas",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZU56Mm1JdUVPcWYwR0NpUU1WTmdvNTlEX1FjRlVJaTJvaUJNOEVMYVRKVmhST1AyUFpZdm1tRm1fYml1ZW9NZHN2eFhRekdpYVlCbEowOHVKY0s3ZXkxbUNkZExfOE1VYjhvY3lLUnNSUjJOczlJeUwtdjhZZ2dXdEs5VUxUYnZtSHVGV2pBcHNabl9PaXc?oc=5",
+          "ts": 1786370672000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "MSFT",
+              "name": "Microsoft",
+              "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Microsoft acelera su apuesta por chips propios: alianza clave con TSMC",
+          "source": "DiarioBitcoin",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV3RneThEU1J3aGstYUhVMDdYZ1JhN2htMGFTbzJvOC1sSWJIbklHM01LeEJPQkVvZGpWYnNYazdVbTN3VVNlTjNwa0w4ci1SZHplc09leWhVS1RnRFF6M2MxWW40WDRRVlA2Mk15SWtNc0V5cnV1Wk5qZ0NnSTQ2MGRGYkgzRHVQX1RPYzBMR015N2ZBR09lWHE5UjdDeERET2FuTjl0QnRQTm5BcjNTVw?oc=5",
+          "ts": 1786370625000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "TSM",
+              "name": "TSMC",
+              "pct": 1.2,
+              "dir": 1
+            },
+            {
+              "sym": "MSFT",
+              "name": "Microsoft",
+              "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Microsoft planea presentar su nuevo chip de inteligencia artificial Maia 300 en septiembre, según The Information",
-          "source": "MarketScreener España",
+          "source": "es.marketscreener.com",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVXpXQnVaT1M2WGdCUWFTQkY5dzZMYVlxMW9HRHBNY01NX2pBSlEwY0ZzSmpmcDNySWhfVVVlTS03NGFPNXIzeFhMUV93R2NkaGQtQkluX1RmNXJzTDJVVXNPdnZEUmlvb0dDcllGbzB6dEZhaENjVVpVSG8yS2MwS2huWWZmSlpkblhnNV9aUEtYeWR2UFItc0FwZUtZT0R2ejdOSmNMRVVQTFh2b2VmTW1kbEVMRlE1UHQ4aGw4WHFHOE1CbHlXM1hxMVc1eW9kaXc2TWhBbnRudlVSYzBBekFVaXZkcnM1cWln?oc=5",
           "ts": 1786368088000,
           "sentiment": 0.0,
@@ -195,7 +249,7 @@
         },
         {
           "title": "Novo Nordisk y AWS firman una alianza de inteligencia artificial para el descubrimiento de fármacos y crean un centro en Londres",
-          "source": "MarketScreener España",
+          "source": "es.marketscreener.com",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSU5Vem1WWGV2SmJHLURHTllrLWRkZ1pKQWJ3bG1wMTNJS2xmYWYzWVR6V3FTdTFhZDhHdlhDcUhETTlybGxZc19NdFZFWXBaUXlvbWJ0OS1tUmVpbTZDaU9oVFZmNlh5VU9zS2tROGMzSmExNmRCbXgwVFNjcHY4cUhmcUJSUUROUEFlX3JzTjlNbS0wOXAtQ0RZb2NzR1dSQkVpWldwOF9jMFZ1WWpXUUhXRm5ReWdmNmN5QnE4QVVBT2JaZ1FxMWdlbDhHT2ZFM09uYVh0WmJoM1NDVk1pZnBkOFhkMnR0LVN3?oc=5",
           "ts": 1786367122000,
           "sentiment": 0.0,
@@ -294,60 +348,6 @@
             }
           ],
           "category": "semis"
-        },
-        {
-          "title": "TSMC vuelve a batir récord de ingresos impulsada por la demanda de chips para IA",
-          "source": "Business Insider España",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQWp5Z0Y3Y2htZzMwc2YzUTZxUDFxYUVlUjhWNEUwajU5S3ZOVG1raV9MY3JrTURRRzBYd0FqVnhLYndfMFptb3VheXlnc194VGlOd2RVTzVobUFXS1d2dDdVYjlfYmtHZjZOU2MzY1ZQMUR4R0wzcUhaWkk5T3VCN3Frb2dOQVktYm9ZRV9WanRnSWw4TzEyNE4wWGJveHlhblc0a0ItLTExVzNaZFg3aDlRVjdfZExveUc0a3RJZTA4dw?oc=5",
-          "ts": 1786353899000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSM",
-              "name": "TSMC",
-              "pct": 1.2,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "TSMC bate su récord de facturación impulsada por la demanda de chips para inteligencia artificial - Libre Mercado",
-          "source": "Libertad Digital",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZU1ac3VfRklsUWQzOEpsZFo2WDJGUS1LMElDdDZJckd1dVpxa3dubHNnUXFIZG1TMkVsNjBBSWlNd0lTS3pFaVZ5aGVBNHIyX091WFVYRXJUbUxYVTlIT0hIcVNhamNsVWo1TVF0ZkZFMFF0X3JpbDBaWUpVNk9pdmhhQkliTTZGOHpPakJSZXdDVXVYNGFTd0VGZEtrWjM0Q0EwNktHV2pTbS1mLTBRZkVsYlZkN2Q0elJKWGNNTGZuX1ctdTZ3YmEwYXJjdWpWN245TlZlVGtpb19iNjdndUhrQWZwZUpENUh6VzdDU0p6dWhBR2tmRlFiVDVtdURO?oc=5",
-          "ts": 1786353525000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSM",
-              "name": "TSMC",
-              "pct": 1.2,
-              "dir": 1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "TSMC batió su récord mensual de ingresos en julio ante la fuerte demanda de chips de IA",
-          "source": "HolaNews",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRlU4QkNvUjBFbWtiUldOYmtobW9ZRzBPcFJHY2VacjBBR0R3LVFJS3IzalMwYjk2NkU2bGJwbWx6eDBoZ2liWWR4b3kxLTVxN0VuZHhIQWZkcF8wZHgwcFFxR1dhUDkyM2FTTUx5X2JYeUNmVUtQdU95WGF2Tkpfbm41ZlN2QmpFbzh3U1Nab01ic2tYTWV6YXd0aVRDMk9FdFpZMlFnOTBkdEd3aVE?oc=5",
-          "ts": 1786351542000,
-          "sentiment": 0.25,
-          "tickers": [
-            {
-              "sym": "TSM",
-              "name": "TSMC",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
         }
       ]
     },
@@ -437,7 +437,7 @@
         },
         {
           "title": "Google compra acciones de SpaceX tras su salida a bolsa: ¿A cuánto ascienden HOY?",
-          "source": "El Financiero",
+          "source": "elfinanciero.com.mx",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ2RNd3Vnc0s0cEVJYmFBVmFXckJtVGh6bHpGWnI0Z1FubndIOG9YNC03TTZoOG5FeVh6SmZ6ZFlJYzhmdXVyNFA2Mm1DX1hOZ2p2VThIMWNmTkd1UGNNZEVEbVlmMGdQZWFhM09JdVdZS2hrblBpaTByeXZUZ0x3UXhFa3YwaUNjNzdaYUpfYzJGam1mazBuX3RtVC14aDRGbTRUdDV1RmlGWXBzd0thTGxSdDVZZ2JhVUh1eFdFLW1rXzFhSEdrNER0VQ?oc=5",
           "ts": 1784790000000,
           "sentiment": 0.0,
@@ -507,7 +507,7 @@
         },
         {
           "title": "Empresas tecnológicas pierden más de 1 billón de dólares en Bolsa de Nueva York",
-          "source": "El Economista",
+          "source": "eleconomista.com.mx",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcjVvSmxUQjczbUo0ZlpUdUZBQ205ajQ1NFZVQ3JmSHFRWVhFcGdLYjlKQ1lXM2FsbVlQLXhVb2hmelFUc3Rka3V2aVFyRnZjNFpWa3hGV3Y3NUhVcnpaTnV4QUg3MjAydVllazE1cGVsNFBJMkpDVno3VnJ4VnBWalVIVXlLYkduT0pTdFZBZnNpR0VnZ1puUlBQSEMtVFU1andVa0JTXzhQQzF6TzZSRGJpd05oNm1aUlpWLXdLTlJwZkXSAcgBQVVfeXFMT0ZzdjhpS2lsWHdDN1pMbEhnZzFGS0V4d3ZtblYzc0hjNE1idjNMbGszQ1RRWU5jM01BSzFVZGVranZNZVlQOWJsYmFCWUU5VnV0SUplcXROYjdaRkkxUGpMUmZ0UHJQZHJrdDdGWEluSEM1cEhDTGZMVmdPYklRQzU1aXY3d2ljYXA1SkxxVHM1d0cwMGVmM1Bfb1ljREN1dkgydGpGY2tfMDUwQXFHOEV3QWRvNmlMaDJQX2lZSVNzQ1BHWXJnLTI?oc=5",
           "ts": 1782111600000,
           "sentiment": -0.5,
@@ -633,7 +633,7 @@
         },
         {
           "title": "Cómo vende Rusia su industria militar frente a Europa y EE.UU.: la batalla de narrativas en el mercado global de defensa",
-          "source": "escudodigital.com",
+          "source": "Escudo Digital",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOd3ExTTQ4eHVfN3pYMEtUQ3dCMW5ETlJsVkV0YzROaWp1SUtBTXBYV055NF9tZU1IeUVkT2MtenVmSUw3Q3MwQjFRUkVzRzM3NVcta2hEandXNFlaa25meGwxLXRqajFjVVM5MGxiWXRFZ3czQWk3WEhhM2VoZXpwMm5MRXVLMTVaSENpdi1RSkNUVHhWeXg3MGJYcndNVmNoVEJoXy13bFpPaVNDODZsTFRLamkyWVZUNDNaMFZ1VWNuc1ozYjJhZGs1X3BkZFczeVByYmZQalBFcFlUejNxVDBZVjQyelZYNEZINlZpTmhBdFlPNXgxUmVIemlGVHJ3?oc=5",
           "ts": 1781247600000,
           "sentiment": 0.0,
@@ -1087,7 +1087,7 @@
         },
         {
           "title": "Economía/Bolsa.- El Ibex 35 sube un 4,3% en abril, hasta los 17.781 puntos, con el conflicto iraní aún de telón de fondo",
-          "source": "bolsamania.com",
+          "source": "Bolsamania",
           "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNend5VGdyU2VUckhpbVI0TGdkU3lPZjFhOTVmR0gxM3ZXeUpBN184a0pMQ2FsLThqcWNlNFhwOEJVYkNNRXlyRzBkYjBYX2JpWGdSdDY5TjNIWkhaQ1N2VlZkQ2ZiMTNOelBtWi1seVIycWstY3ZjZWJZXzdadk1UUjJPNURoUHhOaHNmZVU2ZEhYV0NyOUpRWDFyZ1Q1YW5RdVVkZ203VXNRSk9MR2NCMlJJNGwwdnhLLXZVUW1zSkM5aVlrd2pnWnYyMjFkbzhsazRXSGsyVGc0d0pHcWNZeFZ3OGpoR0pNS3ctU2E5UjFUZnpMWmdXcGI3eDNqeDQ2SUgw0gGIAkFVX3lxTE1OMkRUQmhuY1RSNHp6UDJCb1VnSUg5dm5ScWV6U0h2WjM2eEtQUHllZmsyTlgwVWhxRi1iWmNZQlR3VEMxbm9iWkkwRG10WnZhM0k0YW5kS29RVmE4Ym5WLXZiT0FxbGlIeUpkTHhIVHJyZlZrRG5TcDZqUXltWFVHWmI5TS1uczZMUUM2ZXVReUVyX1p1N0tDeVdoQjBqc2F0NVZ5ZVVXeEs3REtpcUJqZ1Y1M3ViNHpRWGFrSnZQMGNTNU9pVzY1Nm1iYm5ORXJsRXFKUWRsX1ItdXJQSTd4V0twenZtNDRpLWJybklLU1Voa1ZyNlRKbWNKbWxUSFRkeEVMckZ6bw?oc=5",
           "ts": 1777532400000,
           "sentiment": 0.0,
@@ -1165,7 +1165,7 @@
         },
         {
           "title": "Wall Street cierra con números verdes por reporte de empleo en EU",
-          "source": "El Financiero",
+          "source": "elfinanciero.com.mx",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOXhWeTZOYVp3cHJsQl9DSXdFQm83dlV0WW1kRkFUQV9IVDZnMGJjRkpNcFV3QWdyWDdVYVVKZmN2dmdxRzg1YmxwUUwydVI0SHd4RVoyY0cxY1VkVE9jMzB2a3FRZUtVUlktalZVWl9Fa1VCZEJFc21kcW1wYkZMM29CMzNsTm1SR2FnQUQ2Q040c2dBQ21IUG9teGNxLXJtMDVR?oc=5",
           "ts": 1786144100000,
           "sentiment": 0.0,
@@ -1197,7 +1197,7 @@
         },
         {
           "title": "Wall Street cierra al alza tras datos de empleo en EE. UU.",
-          "source": "crhoy.com",
+          "source": "CR Hoy",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ0RhMW44Y3g3VFRxSkdFQ1YtZXQ3T3RtdFFpY1RKOTBOUVphNGMxYk93ekluaFkwOEVxYkRsbktGd2hfaVJaTTM4MHR6eTVLZEF3YWJwMXdLQkRMSExvVExYOW1WUDlTTEZSMktrWUNfTWp1TVZqNm1HT0wyRGhoZEFNcmVaNXc5V05qeg?oc=5",
           "ts": 1786138110000,
           "sentiment": 0.5,
@@ -1330,16 +1330,16 @@
   ],
   "tickerBoard": [
     {
+      "sym": "META",
+      "name": "Meta",
+      "net": 10.8,
+      "n": 5
+    },
+    {
       "sym": "WTI",
       "name": "Petróleo WTI",
       "net": -9.3,
       "n": 23
-    },
-    {
-      "sym": "META",
-      "name": "Meta",
-      "net": 8.4,
-      "n": 4
     },
     {
       "sym": "ITA",
@@ -1348,16 +1348,16 @@
       "n": 19
     },
     {
-      "sym": "AMZN",
-      "name": "Amazon",
-      "net": 5.5,
-      "n": 5
-    },
-    {
       "sym": "NVDA",
       "name": "NVIDIA",
       "net": 5.2,
       "n": 2
+    },
+    {
+      "sym": "AMZN",
+      "name": "Amazon",
+      "net": 4.4,
+      "n": 4
     },
     {
       "sym": "QQQ",
@@ -1366,16 +1366,16 @@
       "n": 17
     },
     {
-      "sym": "TSM",
-      "name": "TSMC",
-      "net": 3.0,
-      "n": 5
-    },
-    {
       "sym": "TSLA",
       "name": "Tesla",
       "net": 2.7,
       "n": 4
+    },
+    {
+      "sym": "MSFT",
+      "name": "Microsoft",
+      "net": 2.4,
+      "n": 3
     },
     {
       "sym": "GOOGL",
@@ -1402,10 +1402,10 @@
       "n": 18
     },
     {
-      "sym": "MSFT",
-      "name": "Microsoft",
-      "net": 0.8,
-      "n": 1
+      "sym": "TSM",
+      "name": "TSMC",
+      "net": 0.0,
+      "n": 3
     }
   ],
   "ecuador": [
@@ -1419,7 +1419,7 @@
     },
     {
       "title": "Serenza inició operaciones en mercado de la salud en Ecuador",
-      "source": "eluniverso.com",
+      "source": "El Universo",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMFdoQUVsb2FHZV9TV0VuT3RBMzRQcUNmTXlOLVZDLXJNbXlURURrQzQyaS1RWkFCVnE3Q2xiTE5jRU80aGE0NkpYa3JxUElnQ0hpWnpGeGNUZkZWZTlVMDA1MWlTNlFWTmhFcE5xR21GdjlFbV8yQkRmeWM4MU40OERXczR4Z3BuZExjN080QUVHT2xGRzlZS0ZxUGlWVDF0aDlPV0V6M3cxSGVjR2d2UzZnTzE3ekt5VUhwStIB0AFBVV95cUxNV3k0S0g0NTlodnhCQ2t2VU1uc3ZvMUxCaUdlT3Nyd1BRTW0taUdtOHFUb1l2WWhUNTlMN004WncxdUU3ZVBYb0VyM29QcW5OZ2h6aXZGUTdwV3BnWl9PTzJKbDRnRENHaGZRUlNKX0ljVEwwbGRQUGJOUS0tSjQ1aG95MlRFdjgtTEFGVUdJWlNXd3dNaGVKNnJ4RUtualFfRDB1Wk51Q3FMZExZcDJiamJkRFE4Z2tTR3h2ZjBnSko3RDFRZkNHamw2aTZIOHAw?oc=5",
       "ts": 1786133700000,
       "sentiment": 0.0,

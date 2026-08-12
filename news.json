@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T21:59:15.066885+00:00",
+  "updated": "2026-08-12T22:44:17.315234+00:00",
   "categories": [
     {
       "key": "tech",
@@ -57,7 +57,7 @@
         },
         {
           "title": "Acciones de Microsoft se afianzan cerca de máximos gracias a la nube",
-          "source": "ebc.com",
+          "source": "EBC Financial Group",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdlNGaWRrNVd1cElYV0JVSlhCOGZvbWUyOWxRMElxWGoxOWZoOWttUzNSOHpkNDFyd3FnRGUtZ0lqTHVubm5hY21yOVV0VDFRSHlCYzNZYjRUeTZmRnppNDVIOHhYa2RDRm5QRUFWLWRrSk81cVFsRllPcnJZY3U3WHhLaUVVWVZ0VkozejdfTHpDVU5fUkl4aTF4a0R6dw?oc=5",
           "ts": 1786519126000,
           "sentiment": 0.5,
@@ -175,7 +175,7 @@
         },
         {
           "title": "Las acciones de Nvidia caen tras su racha alcista: ¿qué esperar ahora?",
-          "source": "ebc.com",
+          "source": "EBC Financial Group",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZUE1WVZ1QzM1VjZFZFNMV3p6OEEzMnV4NU1JUF9HVlpyUXpRZ0lYSGhBZEVoVncxcC10SndlQXJFdG5waTZyTDVaTnQtS3hJTGRpaHRPaWVPbG5PbjI3RmhIOGVCc3NIMW92cy1oVk12cHF6OTRxSTctMkltTk9hN1BCVXk?oc=5",
           "ts": 1786421700000,
           "sentiment": 0.0,
@@ -196,8 +196,24 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "Google presenta el Pixel 11: nuevo procesador, mejores cámaras y más inteligencia artificial",
+          "source": "Rutamotor",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeldiT2U5NU91U1kybXJVWHk3R3BYWHBGMlNtOFZIbXNlRVdObnlfdTdTY1hPVXM1S3Y1dzJRLVlubVQ2Z1NrZDgwSl9idC1fWFhrYUY0RWZ0em9qVWdCUkM2QUk0WlRUQ0psa2RzX0huVVZzd0Nfb2pia2JQT29zU19pNHgxbWl6dGxQV04zVkQ0eXk3bUJ6Z09pMExIdw?oc=5",
+          "ts": 1786568204000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 0.9,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Wall Street avanza con inflación moderada y un nuevo impulso de las acciones de inteligencia artificial",
-          "source": "es-us.finanzas.yahoo.com",
+          "source": "Yahoo Finanzas",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONXRzTGNQZE5nQWkxLUU5LWR3VXlsWVFlQ2FzZk0yR2NiOElTNHVNZjZsQU9NUHVzX2s3YW5EbzkxYnFGbGlOcVZpMDkybHNrejI1NEFDbVRMdUVIWC16Snl2WG5pcDZwR1FaWjdzNWJKQWZLZ2g5X0tOT050RlRLVGN2ajRyZ2FEYm5YV3FoYk1Fd18xdnVVRVZxU1NMd3B5?oc=5",
           "ts": 1786566379000,
           "sentiment": 0.5,
@@ -241,7 +257,7 @@
         },
         {
           "title": "Nvidia blinda su capital al mitigar riesgos en proyectos de IA",
-          "source": "revistamercado.do",
+          "source": "Revista Mercado",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc0ZtVEYxaWNPWEdVTXJDRGxlb2hVTzFBS2pjUzJHVUdrS1ZkeVQ5YmJ5WlJ3bUVZdHQwM2g2X3ZudjRuMkR4NTRXdTg4bldLM3RzQXgwNlo3VG1PV25PbW5iUWRFUUxPMjNmWlBPZEEwV1VjZmphUEIydFhTQWtOM0xoQU92MW8wbGtRbVNHbFBNa2RFVXpXQUxSSl8wQ1k?oc=5",
           "ts": 1786565200000,
           "sentiment": 0.0,
@@ -297,7 +313,7 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             }
           ],
@@ -362,22 +378,6 @@
             }
           ],
           "category": "semis"
-        },
-        {
-          "title": "El Cabildo impulsa nuevas acciones formativas en inteligencia artificial dirigidas al personal de las administraciones públicas",
-          "source": "cabildofuer.es",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNFlIUG5sNGNQcVVvUW91NHpOWWVFUUlpdFVmWThTRngxM2t2RHpCN01UakRtWTE0WVJ0MENZZ2lPUWc2eDhibWg1c09xSzhNZ2g3U1JST2drX0hFMUJibER2YjVXcEhNaG1DYk00SlBVZVdjZUJCUVZSUk1remJlcnpRMW93ckVLa0dibkZjRmU5djVSNFo2ems0by0?oc=5",
-          "ts": 1786538768000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.7,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
         }
       ]
     },
@@ -418,10 +418,10 @@
           "category": "space"
         },
         {
-          "title": "Los primeros resultados trimestrales de SpaceX como empresa que cotiza en bolsa superaron las expectativas, pero los costos relacionados con la inteligencia artificial afectaron a la cotización de sus acciones",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XRFYtQllJLUx1WkRuN2VmdWtRN1BjM2pVMk1FTGRtc0JMSVdPWWNHM0gyTGdzMm90SWNDY0NyNlNRM0tVTnpzOXNPUjRUMFRocTRzUy1OVUtOcVFOY3B3Vm9IS3NhZF9iemlpbXVBbDVWQnV5d0VXSA?oc=5",
-          "ts": 1785875997000,
+          "title": "Los primeros resultados trimestrales de SpaceX como empresa que cotiza en bolsa superaron las expectativas, pero los costes relacionados con la inteligencia artificial afectaron a la cotización de sus acciones",
+          "source": "tradingview.com",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wSmNkYXhSVlFodURJYUJjZlJkVHV1Qlg2S2drdjRBOW15V0YwSnh6U2l1WXcyOWRENkdheDN5TzJRaXdlaVYwaDhGaU1WRkR5M0t4YnhsVjJZaVkwMU9jZlI1dDAxenNULWhzQ21PVzZ2S1BhMDNqNQ?oc=5",
+          "ts": 1785878733000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -531,7 +531,7 @@
         },
         {
           "title": "La salida a bolsa de SpaceX sacude Wall Street: el efecto dominó que podría impulsar a Nvidia y todo el ecosistema de IA",
-          "source": "es-us.finanzas.yahoo.com",
+          "source": "Yahoo Finanzas",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQXzhIVE9JUTFpOXhUbWdoOHU2bzJxV1pkbGJ0Z0h5X251NTlVQUxGa0Z5dVlyeVh3Y0wtRnhyZlZBLWtJRVJKbmdVSl9MUjlfZHBsN2VmbnVuRXYxNHJJZUpxMC13VlNCNzRnLTR4ajNCeHZNYUJhNDRWZG5yX0I4T1NVeWJjZzBSSlVwZkFaRDRCZw?oc=5",
           "ts": 1782111600000,
           "sentiment": 0.0,
@@ -637,7 +637,7 @@
         },
         {
           "title": "Defensa impulsa la industria militar con 15 nuevos programas y 2.300 millones adicionales",
-          "source": "theobjective.com",
+          "source": "The Objective",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWTJzQTlCTndiU3JnS2ZTcmZRNVJXMGhSN2c5MG81a0FsMWlCYmxWN2FsSGJ6RWswUHNlLXBYTmJRNU5jVC1fSVJmU0FUZ0VzMFFBX0ZXbXBEd1ZXY0ZSam43M3VLcVZrR0xHWFFmV191VkllM0RSRDF3OUhDZFFxcGszUdIBiAFBVV95cUxOdHBKYm4zNVROTHNTSk9fRTctQW1WTjdzSmFydXRJejJhcUpKdm9Rc3RMLVRzVW81azlfY1VCRU41eDVfRzVOeVlXV09ZUWE4ei1GVHdZd2l0QjJsQ0RuUmlrZFo0eDlYOHluSzRONFRuY3RaQ2dXeXk4a3ctd3htLVc5Ti1JcmZV?oc=5",
           "ts": 1785308400000,
           "sentiment": 0.5,
@@ -1079,7 +1079,7 @@
         },
         {
           "title": "Petróleo cae por debajo de los 100 dólares y suben las bolsas",
-          "source": "Perfil",
+          "source": "perfil.com",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYVR5QkVhang2WWtxRjk2c19fbFh6a281VG1pWTBLSHJSQThwOXl1UVd4Q1AwZ01sQnk4d29XUXNtb2RyRGEyS1RJYXVFczkySjlWTWRjckh3WnVFa0Z3eXFkaFJkenlxTnZuZEpHYmZWZFItU0RFcVNkUlUtdExkVnA2aXp2UkhoRGZJRHpBalMxUHpYMkJIQUhZeXpBaVBpOTg1NmtPSWhsWUMtM25hYzFMYkFDOUpWYmVlTDhwSVhSU0NFVlE4dTVNajVoZVZULUhTUHRuVWphSVE3QVA5djNPQlRESzdJZlgzUlB30gHzAUFVX3lxTE9fRDVuTGVzSVdsdHN6V0ppVG16Z3pXV1JJZEtJZFczMzFnZmFtYkx1aDY1c1RET2JieS1KSFNOeHRnVHM0MGtaODR6QkhySHRQeGRxZ1BwYy1qS0JrOG42RFZwdTVCSWxnYWN0SndKVTVuWnh0MXlNNTRIMlV5ejAtSHhsV2JkS1RlZ2IyMEZnaXFSanVzX1ZpUjlIVEtFaVo3WTRmaEZRakVvaUM4b2JMdTBVLThyOW5JQkxMSUY4VU56LTFzU3FULWJWclRoeEVFOEF6QlltZElQYTdCMm1iWTFFcktKVDh0SmgwRTRrUGpJdw?oc=5",
           "ts": 1779692400000,
           "sentiment": 0.0,
@@ -1218,6 +1218,28 @@
       "label": "Macro / Bolsa",
       "items": [
         {
+          "title": "Wall Street cierra en positivo, aliviada por la inflación en EEUU",
+          "source": "Diario Las Américas",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN0NnRHRERWpQVEtlckR2VDM4eDlLZjd4VG1RdWZzeHJYMXJETF9YcGpCWGZEdVpwaHRTaUY1dkR6NDlJWTdsXzlYaFZQQTJGd1U4VXlRRkVzSy1POURON1NfUm9DZmM1YmRFRG5zMC16X0Zrb19IU01fdWFSUlRMMUlQQjNpeUdUc3g2c3dDdFBNNmEzN25aaFFzNTJyaDg2dE9jQ0VKUUEwQdIBrwFBVV95cUxNQ25WMERocXF2bmZ2NU1zWnI1dEVwVy1UYzhtMHFRVEwyYjhUZEkzejJvbTVyam5uWFI2ZG5kTXp4aWFGbEI2M0NnWENDc2VyMS1VLW81T05QY3UtMUZqdGtOVG4xQzI3ajNLX2FzUHk4ZFZidXJteHRpeXN0eHdxYlF3V1U0dnpxV2x1eXAtTXlzV1poT2VBenBfdEtNc0NWcEpyT3p4aUM5MHg3NElZ?oc=5",
+          "ts": 1786568880000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.7,
+              "dir": 1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 0.5,
+              "dir": 1
+            }
+          ],
+          "category": "macro"
+        },
+        {
           "title": "Wall Street recibe el dato de inflación con optimismo y marca subidas",
           "source": "Bolsamania",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdV9GWFlCV1RQMTUyT0Ntb2RWdXFtMTFEamJpZFJDZ21fTjNSYmhUb0JPSWktSjkxQTVFdFlEN2NhMmNNUkhLc05LUlN2QTVuNV9BMVdQOXNOSTlSdWlaSTlCcjk4b0ZSV0tSX25OQURtTzZCZDAzTlhnNlVfVTFnTDBGX25nRUlnX1RCTzlwRmx3REhJaUI0Qno0LUd6d0E5WWdXQm5QMUJlTXdiNkNQV2Nn0gG3AUFVX3lxTE1maUJyblYyZGlDSHlROElCTXFpVURqbXFYWUNrQnpPZWdldzZLaURyVkgzTTN2bzBCalR1VWY5VlBsOG93VGNabDFMMnlQeUNMVVVvMkVhV25MaWpWeFlrdTRDaV9qaFVxVFJtUElhV3JqNE5VNzF0NTZtSXBWX3VNd1lPOWdhSkJYMDFQZGp0YThqV2QtUkh3c1pidzFSQktsaWNsMUkyRDAzcEVzaTFQckZ1d2NZcw?oc=5",
@@ -1249,7 +1271,7 @@
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 1.1,
+              "pct": 0.9,
               "dir": 1
             }
           ],
@@ -1279,7 +1301,7 @@
         },
         {
           "title": "Wall Street cae por incertidumbre en el Estrecho de Hormuz",
-          "source": "El Tiempo Latino",
+          "source": "eltiempolatino.com",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFNRRzdZTS1veS1IZEhTRXZrZ0FuaTFFWGdqX3pRMDYxZ2FTTjMyS0tEQV9yOHl1QmZieDdrdjhsSHFMZEQwU29xLTVjRDE0QVF1RHRzRmw1Rk56LV9tdHVIMjZmR2cwb3JxMTUtVVRPS0V4RS12TEJTU09xd3Nya3FfTUZMZnZ2VGJDbXZmcWJILVhNT2JfZzJnTVZ6dG90OVNYOHl1blhyUQ?oc=5",
           "ts": 1786345200000,
           "sentiment": -0.5,
@@ -1378,44 +1400,34 @@
             }
           ],
           "category": "macro"
-        },
-        {
-          "title": "Wall Street abre en rojo bajo la presión de los precios del petróleo",
-          "source": "Diario Las Américas",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMEZoTWM4ekItd2U3UkxPSC1XMEszU0U2U3pMa1ZYMmR0amZXSTFfaWpxQk9MS3l2Q0NoeFhQa0l6RXVLZURYeDdZNjZOVlNibXhSNGNGQVdKX2xXNEtTYnRDUHRDOW5lSFREc1lobGJDczBuQy1sVndGNEhHT0hWczMyX2MxT0VaZ1NTdlBWcVMta3VYZXpPQ2lZZFd6ekJ1V1h5VnJuV2pGcUdPTHfSAbMBQVVfeXFMTUNucnhxYVFfZEZFNU1Sb3AwZ1FHdXluQjl6QWNuY01TSWxqMzBYS3ROdWxVSEZtV294dUVRR1oxbXNRdVdOUnh0SmtmcU9ROHNLeUlfSF9hQjI2a0pvM2N5RG1Pb2hQSklwRk5ITnZ5NmRvdnp0eU10NURQc28zMjRzc0hlWHA5c09kNnZHQWVRQjR5VFo1UmVhN1NkOXlYY19nb2FXcFU0VHVqeDRiTFZRR0k?oc=5",
-          "ts": 1785308400000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": -1.3,
-              "dir": -1
-            },
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": -0.7,
-              "dir": -1
-            }
-          ],
-          "category": "macro"
         }
       ]
     }
   ],
   "tickerBoard": [
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 9.6,
-      "n": 8
-    },
-    {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
       "net": 8.4,
       "n": 20
+    },
+    {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 7.9,
+      "n": 7
+    },
+    {
+      "sym": "QQQ",
+      "name": "Nasdaq 100",
+      "net": 5.8,
+      "n": 17
+    },
+    {
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "net": 5.6,
+      "n": 6
     },
     {
       "sym": "ASTS",
@@ -1426,32 +1438,20 @@
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 4.9,
-      "n": 6
-    },
-    {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": 4.7,
-      "n": 5
-    },
-    {
-      "sym": "QQQ",
-      "name": "Nasdaq 100",
       "net": 4.6,
-      "n": 17
-    },
-    {
-      "sym": "WTI",
-      "name": "Petróleo WTI",
-      "net": -3.8,
-      "n": 24
+      "n": 6
     },
     {
       "sym": "MSFT",
       "name": "Microsoft",
       "net": 2.9,
       "n": 3
+    },
+    {
+      "sym": "WTI",
+      "name": "Petróleo WTI",
+      "net": -2.5,
+      "n": 23
     },
     {
       "sym": "META",
@@ -1480,8 +1480,8 @@
     {
       "sym": "SPY",
       "name": "S&P 500",
-      "net": 1.2,
-      "n": 20
+      "net": 1.7,
+      "n": 21
     },
     {
       "sym": "TSLA",
@@ -1551,7 +1551,7 @@
       "title": "Ecuador exportará 10,8 millones de barriles de petróleo y prevé ingresos por 872 millones de dólares",
       "source": "El Comercio",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNXVrWnBuWjBUaUlhb0ktUVlQaWN6U0JvajlJSDRYYmUtd0hsb0hicU9IdVJQSm1zSDNJODlVN21yYkVQZW41NkxzenQ1VEtlLVNCVlRqdE1KdXlWX2FjbGdKZ0dWaGU0a1JHbjh2M0R1NXpvb3JidmlseW5WQXFXR0ZaM1hheEo4LXl4cjdHckYwTFRLZGV3MW91UjBuWW5mSkI1MjRVQ1JhMlhIU0Y0UE9MY0dWcHVhR1ZvQXF4NVZyLUNYemlwYWpxVFNycUZUay1tNA?oc=5",
-      "ts": 1785881345000,
+      "ts": 1785826800000,
       "sentiment": 0.0,
       "tags": [
         {

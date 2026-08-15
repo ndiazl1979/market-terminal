@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T23:45:32.920163+00:00",
+  "updated": "2026-08-15T23:58:33.183477+00:00",
   "categories": [
     {
       "key": "tech",
@@ -884,16 +884,28 @@
           "category": "oil"
         },
         {
-          "title": "El precio del crudo cae: ¿Dónde cotizan hoy el Brent y el WTI?",
-          "source": "EBC Financial Group",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSWRNMVY5THg2Q2J4VHY3RnotQXF0MUtna1k2V2ZIQ3RkY1VFc3h5cnFkUlZPQWE3OWM3YXRTcEhfRk5leGh4S1hJTlA2eDdmWVFKbWVYZ1F4UVpsNE1lVUd4bko5MUl2MWJXb2haYjVYMTB0a3RiLXo1ekZDd0N4TFI5aVFIWVYwYlBJN1c0aw?oc=5",
-          "ts": 1785724680000,
+          "title": "Pronóstico del precio del petróleo crudo WTI: el petróleo cae por debajo de $80 mientras Trump detiene los ataques contra Irán; subirán los precios?",
+          "source": "TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbVVOZ2tOWWhJZFZJNE90X1hCNjFOX3dndnRTSDQ5MXdkMUh6aGx1WXpuNHZZTUhpZWtCbWVZc1MxWkVGWUwwRHpCcDBwVWJhcXhhaHQxM2g2UmgyclZ6SF9tWmNQbmFNNkRaT29aNUJ5QlZJbU9scDEwajlLdm5TZnNreUJ5ZWZQdnRUR2R6Qjg2QUFmeDdIdmYyNUx6ZUdsMW1TaW5oMlY3T1BhU3NqMHFVU1V3Qm5NMUo4LTc2R3FJd3FpR3ZGTnVUTGp2YkRHdmZIWW0zcF8zcGV5VmJCbHMyc1ZSQndUTmpOREk5bFY?oc=5",
+          "ts": 1785747939000,
           "sentiment": -0.5,
           "tickers": [
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
               "pct": -1.3,
+              "dir": -1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 0.9,
+              "dir": 1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": -0.6,
               "dir": -1
             }
           ],
@@ -1181,7 +1193,7 @@
       "items": [
         {
           "title": "Así abren los mercados este viernes: Wall Street, petróleo, bolsas, oro y más",
-          "source": "Hoy Digital",
+          "source": "hoy.com.do",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPck5xWDdtQVI3WHlxYXp6NDFaa09RZkxfSzFYU3Y0WUdYWWN3aFNtajZFdjAyTXZySEhfdlVRUzVxYnQwWDZoWFJvYlpNMHZCQW44WUctUHFYSzU5SWpiWUFQUF9BSm0wNFJqcS1hX3RYZlBTX1B4eTZzai1uMlVoZzJ0QXNRQzZhTUFEMC1BRW9MbDVoeXVCOWd1UlRhWmJy0gGmAUFVX3lxTE80Rm9WVkRzZnpENGY3Z05wMVVma1lHeUxUTWw1RzNjUWNwMHFsU1h6dnZmOW9aQVJhSmo2NnRXaXlSNWQ3U01fZFlueThYejZ4R3ZVUFFjdmVhbGt5UmNWRzlhb1QtZzBKMURWNXB5cG1DUXAxXzY4U0xMNndEcXl3S3hnRVJNc2E3a0hMY3piNjQyQUI4cmk4VFVsbFAyM3RCR3NFLWc?oc=5",
           "ts": 1786721131000,
           "sentiment": 0.0,
@@ -1382,8 +1394,8 @@
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 5.6,
-      "n": 18
+      "net": 6.5,
+      "n": 19
     },
     {
       "sym": "SMH",
@@ -1422,12 +1434,6 @@
       "n": 2
     },
     {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": 1.5,
-      "n": 18
-    },
-    {
       "sym": "AMZN",
       "name": "Amazon",
       "net": 1.4,
@@ -1444,6 +1450,12 @@
       "name": "Microsoft",
       "net": 1.2,
       "n": 2
+    },
+    {
+      "sym": "SPY",
+      "name": "S&P 500",
+      "net": 0.9,
+      "n": 19
     },
     {
       "sym": "ASML",

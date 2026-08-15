@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T19:20:22.146266+00:00",
+  "updated": "2026-08-15T20:10:18.606139+00:00",
   "categories": [
     {
       "key": "tech",
@@ -53,6 +53,22 @@
             {
               "sym": "MSFT",
               "name": "Microsoft",
+              "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Liverpool vende parte de sus acciones al fundador de Amazon, Jeff Bezos",
+          "source": "Mediotiempo",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnZLQTM1aW4yNUdzVE9YMjB0MnBVNmhyZFhKYXlFNE1sVmtoV3c0RGNzTC1kSUplSWFhM3c1T2l4QkQ2bF9DWWhHNTBhc0ZYY3poTEtzQU5YY2pBbmktQWIzTmZsNWxYNUNKQVdWUTlpcW5IU0drWVNoSllQUUV5aGhzWE5XVVRvUjZtREswNi1xei1PajNzVkdseUl3UVRZY0N30gGjAUFVX3lxTE5GamFMcU9QSGFsS0RqRTZTU2RTQUl0b0JFaEFab0x5UVpQTTdWR1c1UkVsbHcxS3A1WUJEV3NPSjJUQWZBZkswb0FRdUQ5dXJuRmtYbVdqSlRWbDdYOURTcl9LWjU2ck84TFRBcUpSeHVQSGVzTHl6QjlEQ2k2YlJCRnhFWjVZQVNVQTM4MzFQSkZyN3dqS25zNVlvN1dNV1AyQkU?oc=5",
+          "ts": 1786737783000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "AMZN",
+              "name": "Amazon",
               "pct": 0.7,
               "dir": 1
             }
@@ -139,7 +155,7 @@
             {
               "sym": "META",
               "name": "Meta",
-              "pct": 1.7,
+              "pct": 1.3,
               "dir": 1
             }
           ],
@@ -166,40 +182,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Acciones de Meta: ¿están baratas frente a Alphabet, Amazon y Microsoft?",
-          "source": "XTB.com",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZGJwT0pxekItM2NZU25maHdZbUxJX3lBUzNacjBNb1VHUVJLNldkUDVqVmdaV0ZoajJqd0pyMUluTHRtbFBFM3ota0NBcVZPNXpMcmp2WlE4emJwWXRSRWJJaldOTVhaV2N3ODlkV3NaYnhfNGZCSm5UZTJpMl9zdFJMejNOM3VvVWVRQTEyS3hmc294WHo5ajdaWWhqZ3dpTWVEVUJqNTRWNTZxb1pmUjhLTm53QkxQMk93d2JBbzA2YVI0YXB0OWV3?oc=5",
-          "ts": 1786566793000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 0.7,
-              "dir": 1
-            },
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": 0.6,
-              "dir": 1
-            },
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 0.5,
-              "dir": 1
-            },
-            {
-              "sym": "MSFT",
-              "name": "Microsoft",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -208,10 +190,26 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "Descubren chips de NVIDIA en misiles rusos con IA y NVIDIA responde que sus productos no están disponibles en Rusia ni fueron diseñados para matar",
+          "source": "tarreo.com",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQN3QzQnF3RkRva1dtRHI1alBXX2RKcVRHbEhMYl9jRlJodUh6cmFIVzBFUTBuWHZGZTJTeFNUV0xmUjhYejEtb2FqMkpXYnpoQnJ1TzUxQksyeUdNRWpxRkxTYkpmTE1OVjZ1ZDkydkl1dGt4Sl9VVUZPU3l1VlJPOElOT3JGaFdldjZOTjBERThnVWlkRncyOFRCcnFaLWduV05xdEc2NHVSWmFvbXJjOXphNTlaOTRxMWVSVUxWdHV1Zjc5bzBXR2FLRW0zcEpXTnVfYzZhd2xra1BhMVZlX2VvMFZ5aFlXcC02Nkg4YzBZY2RRQ0NfZUxJMUswZUJ5d3JfRG1sMGI?oc=5",
+          "ts": 1786823649000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "ChatGPT ahora registra todo lo que haces en un Mac de Apple: qué función es y cómo funciona",
-          "source": "infobae.com",
+          "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVk9lak9UN0ZxZnRLUmxVSFh6WnAtY2dyMEx1c1BTNWtiR1dCSnJ5VWRRdWNxQWVtUURWTE0wQzNRUUJvRVN5MVp5VWlhcmhQTXpfeXlkNHlRMEluUGV5M1V3MWRoWmlyVjZzbGZNakxKNmMwdWQzTVl5SktESFdnTFVFLXRGOHJweU1PUnYwWHdCMjhFdVJERTFqS2lZWlRoTUpsa0xmQlFxanRYQXVRQlNCMUNnUml0SXZFM2M2LUwzVUhaN19ZM3dWa3fSAecBQVVfeXFMTVpCb2Y1QTFmYnRLM2RNT0w2TFhtaXRZRFQtSTc1WEdWWkJPMm5SbTFUZmY4YjU1SUpXQjJleVhDVkwzTF8yeDB5bFhfUXRwNDlDX3hOd3JxMk9FSUQ3RHJzQmJzSmRXUmR3cHdiTGdnd2VJTWVaUVNwSHg1akJyNlQ1dHd4SE1TVEhhekEtbFFaUnRoM0xDYi1STEhhd09NLUhuMDM2OElxUjlvRi1Mazg1RU5IZlVwX0MzWEV5U1lKMHJRYnNKOHFGOU9lTTJXcG13LW8yTFVRamFKTlVMbDFoVXBXMm5Z?oc=5",
-          "ts": 1786819894000,
+          "ts": 1786820394000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -234,22 +232,6 @@
               "sym": "GOOGL",
               "name": "Alphabet",
               "pct": 0.9,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "El fondo de IA que tuvo que vender casi toda su cartera el mes pasado acaba de apostar 400 millones por unos chips que todavía no fabrica nadie",
-          "source": "larazon.es",
-          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOQTNhX0o1RFUyX2IzTE5TNldMSVJQZXprQmN0UHdRZG9xQzVJWE5qaXROd09wTXFmY0Z0OXNNaDJzZFJOZEYweFpHWFN2WjdJRUl0MXZvcWJFYlNZR0V4SG9zbVVBaWltZ0pBcWZOUHlpWmhFbzJWR3ZUNlMtZDZhLVotVzNzVkJXaENMeV9RdzV1M0N2WW1HUXB4ODIwb0JpZFRQNlprcGJNcnQwd0tPbEU2c09DSGxOb0pZTjNvSXBZU29neC1wanFvSm5FOEpLeENXMWo3SjdsaXpyY3dSUnV4Z2JZNDdFTEt1dnpsZTVqd05WcE51OEhObGVvV0c0MjVvYWV3WHlZdDJVd2VWOVpNaUlxSVNnN2xsMWRzRXY2VmthSzFZWkpFRDVZd3JFWGhmQV82NFUzUQ?oc=5",
-          "ts": 1786806000000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.0,
               "dir": 1
             }
           ],
@@ -289,7 +271,7 @@
         },
         {
           "title": "India anunció un plan para formar en inteligencia artificial a 10 millones de jóvenes en un año",
-          "source": "infobae.com",
+          "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcVZ5OVl6ako3TlF3a3R0c1gzUXREZ3RFMmxTU1c0a0htdlQ1RUVxS0hvRHdNQnNMMzhWZzFld1JNS294STRScTN2NERIdWk2NjFUM1NmLTluZ1Q0QTdvQmxlS0lRWGxwUHM1NzVvdTdkWURPX3pZYzhxaHZubC1oZGViWTVSYUc0QjVBUTkycXAzTnVGWGVyNndVZ2ZmQXJSc1B1TnBUMXk0VXNMb0dlN0hLSDRpbHF2ald0enJ2clVodERHWEsxQlBHcWJodFplbVdONmd5dm5ibzFHTGfSAfgBQVVfeXFMUE9VVTFjQldTNHAtOVBNWFowUHJaVGl6TGhRLVdEWWNRLXE4d3FXLVRYSmlwYXNBOXNQeVlkbjMzeUNXNTBYcHNQODByNU51TWF2Z3B6LUlPZkdpSm00VjIxTDBNek5zQlVpblEzWVRvZmpJdm0wUXNtejZkM1ZTckxVdDR1Q2o2TVI1cFR1V0piaFBwSjJzdm5DT2c3cFhUUGExa09iVTBaZGlVb3FnUXJPWVZMVEwtSEFRenptT2h2YVI1QURsSGt6VWx2SXZ5QS1LemQ2U0tieU1UYWJjX3NxUnNPVGpMd3ZGN1Ayc29mdWh3bXFuRWo?oc=5",
           "ts": 1786797180000,
           "sentiment": 0.0,
@@ -336,15 +318,15 @@
           "category": "semis"
         },
         {
-          "title": "Google está implementando su inteligencia artificial Gemini entre los estudiantes de secundaria.",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaEhsdTNMeHJfUTNFT0xna3EwMWpCNl9MSGdpZU8wRFhpdnZrelhoWXFtZXdJZ0hLY3A3RjFXb2lHOTY4bUtkd0htSG0zU29fbGJITzF4dFRkY05FMVl2c280NmFpRHAzTTZWbEpNVm8tb2FUck1XLUVadm1rR2E5MlNpNVgxWVBoeHlHTTRXQ25TTXBh?oc=5",
-          "ts": 1786766249000,
+          "title": "La Inteligencia Artificial entra en una nueva fase: los inversores exigen beneficios reales frente a promesas",
+          "source": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc2ludGdLd05rYmE2Y1NXMlJic1R2TzN1RG1hS2hrUVZpNk9KRkhLUVA3cHVmenlJVUY5YzVGRkszdDRVNUh2VVdMSW5YR3V3ckc3VXJvLVEydEFmTXlXT0dxbGpKX05TeC1icVRKTmxRbWJib1VTSjQwMXh4d3FfbnF0ZXVQd2pxOTEtdTJTV3U2RmNwalh0U0RzVlY2XzA?oc=5",
+          "ts": 1786769400000,
           "sentiment": 0.0,
           "tickers": [
             {
-              "sym": "GOOGL",
-              "name": "Alphabet",
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
               "pct": 0.8,
               "dir": 1
             }
@@ -355,7 +337,7 @@
           "title": "Apple amplía su fabricación en EE.UU. con Mac Mini y servidores de inteligencia artificial en Houston",
           "source": "Comercio TV",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUWNVMTZlQVBuR3BzLW1Da1g3bWlEWE84UVpMaHE3YncxZnhFZ1BNdE1QellOeGxTWlB0UWsxV0E5SDd5R3R6QmVfdXVPNGFvaWo4NnJXZUZoek1aX1BacUxrU2x5STFXczZKYWE2QndOX2h0Wlp5QTEyVkZsQ1Z4ckZXNVhiZXhTajA0MkVkVlVVNXFGN3Fia1JKSjhYeG9BdDMxSnVQM1JCeFBQdHRKbVk0QzVWRnhTNS1EV3AyWmtoTlVvLVlTWGY5QTA?oc=5",
-          "ts": 1786764665000,
+          "ts": 1786768063000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -391,7 +373,7 @@
         },
         {
           "title": "El gasto disparado en IA de SpaceX diluye su crecimiento y hunde en Bolsa a la empresa de Elon Musk",
-          "source": "Cinco Días",
+          "source": "cincodias.elpais.com",
           "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeUhsc2I0YlA4WVJmMGNGa0RvWWNaSjBrZndyOEFpRGwzYXpBVDE3U2k2UGhmWW55NlNQOHB2YUlYZEdpWC1RU1BRSE5seWNTSFotU0x2OFFESGl5a3FaWktWeHR3aVk4UUlhTkN1bUNkNzNKb05OT3I2bERGckN0OXJ1M2Vaa19ZWDQ1MnNNOW0yc0ZTMGQ1NnpBMkxKWlFyZGxrQmRmOTlWWkQzQzZSemlHU0ZMVC1raWRjbXVGUHBsbGJwckFOTjUycXN5M2h2Zk5kQVg2WmZZRXBaUmtnUVJCejJkd3g0R2NCbEVlYmlnbHhSVkZiWGNBUXR6QdIBkgJBVV95cUxPTlA5ZVZRQU9IN1M0SjFXZHFINFBpbHEyZnMtc1ZtTDZjMjRMU29TY0kzOEJaOGFCZk5vYm5Cc29BNlJzaWMxUlgzQ3FYdzBfM3l1b0lYOFN6ZVRPQ0ZpeElDRTg2UXdXaWhNbm5HVk1CT2Z6eHFZZVdPZFgwVjJBNDN1V1FVM3F6ZkhFWHVUdkhFUHl1MmNKYWt3bEY2T1JIWTBvV1JtVGVOeU9KQUJRZUstaHFURkpid0Z1cXdsMlFGRVV2UE5FaE5QX3N0STJ3SGxTNnFtTHdMM2FGS21uTEJvbE1kM0diNjlucVFoTHZiU0FsLXlVeC1xMjVQcGwwM1Z0REJnbTR1SFdOSFpxTXB3?oc=5",
           "ts": 1785913200000,
           "sentiment": -0.5,
@@ -407,7 +389,7 @@
         },
         {
           "title": "La salida a bolsa de SpaceX enfría al sector espacial y borra más de 1 billón de dólares en un mes",
-          "source": "infobae.com",
+          "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaFp6ZTJWR2ViLWJrdEowUGN1XzFHM1A2QXYwMTFWYk1sTjl4UmJJUTN4emlTdnBUUFRocnBZWDdCZXlYYnhIcUFsamlxRmNfXzRfdDBNbGNXcEJUZ3gwSnl1Zi0xZW4xTzBFLXlJeUZqTHhGVnoydFVYdGt0blhJYVFrbU9DS254SUF1YWJYUERNaUEzV1BYSUpTa1ZadVJJUWJkR1VGS3c2cm5Fb1phUm9BNENjV0xMVE1RQnBHUnVkVWVmSWRKODRRbFNPcDVWV1BfLUxnMNIB8gFBVV95cUxNS3paTFRHd2RWUXpfV3pMMmJlNkJFeDZtOFkwQlV0amhWOG0yYkhMN2RROUZhdW9tRXlUVVNMV1dILUNzMUFqTzFzT2UwU1hxc2JESGRrWllzLU42Mm1YT2dRUENaVmVoS1ZqQkQ4MFJxQ1ZQeVlZMzZwbTR4Mk96el9iUXZrZjU4YzBwNnlDclNPN21waWRQTjFHblNUb2FTRldrSlhTWUxUclFXem5nbGx2ZUxTQmZ5MXllMUpPaWZMVEh0TlpyZ0VrS0YyYXVJT3BqaUpHRm56V19lTTlJRFNTaVFWVnVCTzZjeURRUEd2UQ?oc=5",
           "ts": 1784790000000,
           "sentiment": 0.0,
@@ -455,7 +437,7 @@
         },
         {
           "title": "SpaceX entra hoy en el Nasdaq 100 y obliga a comprar a fondos con un patrimonio de 700.000 millones",
-          "source": "Cinco Días",
+          "source": "cincodias.elpais.com",
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOU0tLaGpOdzA5TW5iRjZaak9xMUFhQ3RDVmdJM054akV6SWRqN0VHU2JXZXgyVWtxSVAwakhicDlHQlBhZjE2cjlzNTRFd0xtd3pFdXBkUXlsaFBaYno1VzhQeGl6V0dGN3dVM25jeTNpMGRXcVdVWmctSG1wSERJTmFGSF85dVhSZXY3d29uMElBQTEwX19uNmI5N09LOVl2cUI5aHlNTUxwZzVwdE1nSWpjWjZORjBwYXRiRk9wellIcGFHY00xZEZnbV9SSjBSS0tWNkREaDNSdTYxZlZHcGJMbnlyQnlrVk82TmMwUV9IdUU3NUJZ0gGLAkFVX3lxTE1SVG53czBiSGZpa1VfMS1qcnkwZWxhQWhFVlg5OVZVZUtKc1BOVGJRRlYtdmdHdi1OTG5MTlZwaDgyVXJDbGpkZ1BQR1UtWndsX2d4WUppY3o3WGRtak1WdzJHRy1nSERJSDMtMTcxdDFtYjJBOVBFbzk1eEhLUXAwbThuM2w3amhMV09RdXZrZkozbmdUUzBIOEg2dnA5em8wV2JUWVpfUGU4UmFfUWp6UVZJZGJMWnd5ZkxVNmRRZHgwazRjSk9ralRlaFFucGs3UjI4b3VzOVdSVlZLUmFvMUE5UXJuZTg4SnQ2UTNQdFc4WkJzTmV3RU9idU1KQzUzeHcxdmV2VmxoZw?oc=5",
           "ts": 1783321200000,
           "sentiment": 0.0,
@@ -597,7 +579,7 @@
         },
         {
           "title": "Ucrania sancionó más de 40 empresas y personas por suministrar armas y equipo tecnológico al Ejército ruso",
-          "source": "infobae.com",
+          "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYnJxRGhodVl3N19CNF9YTEUzZ3NEcVo4b2ZwQ01VamhxNTBheVUwZ3pnRk9ia0VtdmwyNC1JeWRkMVZxZWk3Q0Voc3JVaW5pUTFaRDVLdzZJZTlNZGxyamUtOUFTRzBfMUhiY3QyYVpFVkJ1OHJYSTJ3RnFwbkoxeTQydGtUS096WTNtLURKeEVBc0g5M284MkZMcWpjYUg0SFk4UEgzWHpGUjZsUWwtaEtKU3dOcDFsNXlmdFVvbUlQdUp2LXhVaFluMUhqa1pIczVjNzlGU2dhQ2ZrZWZzRXdPVDJzeUJ1eFZEetIBhwJBVV95cUxQUk9lUFBrak5QT1ZDQ0ZJX2xJTjVtN1JlYlFJb1YyUWFhcVRkNDNFZ2l2cVlUTUM5QlVaaHJmUk10Mm5KN2lzcGVJOGZMbXR5U3I3VHc0VHlCanhfODhBR2ZURi1IVFAwTjFmdmdUdzBHT1U5NEtQQjRGaGthM3JMUnNWRWRFcklCNWVfdUJlZjNoai1LTExLYy1zRXJtRTVYQ3NZaXA2REI0VU40T1NObEZMNFNEWW5Ydy1iTzVsM0hwUlhoRHlmNTZXMXNjaUNTbk9QZUFGekJGTUl5bEtMQlU5QlRNYmh6YmJrOW9lOVVnWC1SU3IzNUVtTlFrRGNSZFpzV2Uzaw?oc=5",
           "ts": 1785913200000,
           "sentiment": 0.0,
@@ -735,7 +717,7 @@
       "items": [
         {
           "title": "Retroceso en el precio del petróleo: el brent cierra en 87.07 y el WTI en 81.25 dólares",
-          "source": "Diario de Yucatán",
+          "source": "yucatan.com.mx",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOUVJZ3ZTU1ppZ2xWakxRQ1JjNnM3UDRRR0taR252WVl0WVY4TzNWS202RWpsYzlmWF9Sc0l2ck1kYlVoX01VUm40dXhwanlhSU5abks3eDZ4cG9SMk9Pc0N4cEdIVUtQbmFIYzd6cGJWdUtiOEhURlhqQWtDSGhpMzluUy1sREhEVmNtQkRTd3ZpeVVyMTNmMXMzWGNzOXpqME5KSWNjand3QWVIekdFek95SmFtNUJpNnZjOVg0d0c4cTZhZmd0WklyenA5Rl9BY3hMNkZyaw?oc=5",
           "ts": 1786654570000,
           "sentiment": 0.0,
@@ -887,7 +869,7 @@
         },
         {
           "title": "Caen precios del dólar y el petróleo: menor tensión global y expectativas sobre la Fed mueven los mercados",
-          "source": "infobae.com",
+          "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVy1rQVNQS0Fib205OGtyUHgxanlGZ0dCR0lHMXRPTFFNTENVWWpGaVV6WWljUFJINWFpX0ZLcjdWRWw2UUdDMFFncENocTJZU1RiQ1V3eWhqUkpJXzdQTUpsaUlOX1o0cGxGNjdZMlpwRThsejFrNjNhRGg2aHRSRXNJV3ZnM0F1ZUZPdmtOVC1MdVhleGlySnJmM0FNRFByRFI0cWFLT0JHMFN3M0tmSHhLVFJ2MmIyMkZncDAyOVlqeVZsM0FwWktCdDZ5Q0VJVXhKWjJwREU1U29pck4w0gH6AUFVX3lxTE5IM0NrZ0psWjZjbVF6QlpQeDU0Y2JyZllORUNZLURPZXVPOWdkcWRYSkM4YkRIb0tUbFJXU0tRWmlJTjdnOGp1NVJTS3BoWnlBaGtScXFVakVORkRJYkVQal9wdXlWd2g5T1NMZ1NWaHVZSmFPRi1ORE5wLU1NT3NGSXJsSlRGQW16YUdNYjZGclAydlRSMFpKVUZseXVuNWlqMWlOSkxscllhMkNSVUFVOTlzUXhrbDM2a1R4aTRiNmIySHd6eFNublpqMl94eTA5UmVrVmNtV3gzTjV6elZkVmdieDJBcW94MzlJZkZZbGNrb1NCX01Rd0E?oc=5",
           "ts": 1785826800000,
           "sentiment": -0.67,
@@ -971,7 +953,7 @@
         },
         {
           "title": "El Ibex registra su peor semana en dos meses mientras la IA mantiene el impulso de Wall Street",
-          "source": "Cinco Días",
+          "source": "cincodias.elpais.com",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeHVkQ2FGZWpOeVZFbUNIUWNVWlFKanRVNG0xejF5cFRIUFo1cFVkX1UzVHhnaVB2UUNOLUhkMjlDYkVsbHFHU3gzUTlYcm9rVVRMbzMwRFVSZUhvRGFaVFpPdjFWV3dfNjNKOVFlZXdrMXhoY29OZW1rd1NTWjl2S01vM3VORS14REYwNWRKdkLSAaQBQVVfeXFMTWZPOGxGWmZ0NHVJZ1pvQkEzSWZSTWd4RmF0OXo5dmFacmhNMks0WXI5VTZhUHBFeWd1SW1VS09KU2RmcmV6QmN2LW1nQTl3RjJjOUwwXy1zcncxRm1HZVlHV3U4MTlLZEhWektCRFZXOUw4R1hvb3g3aXo5Uk81OXJnUERYbnU5RG54amE5RGN4OGVvQ0RNb3ZsU29YTW40LWk5THA?oc=5",
           "ts": 1783666800000,
           "sentiment": 0.0,
@@ -987,7 +969,7 @@
         },
         {
           "title": "La Bolsa cede ante el cóctel de guerra, inflación y ajuste tecnológico",
-          "source": "Cinco Días",
+          "source": "cincodias.elpais.com",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFdPMVR0UGdRRVRXTUc2RVMzbm5MZU9yMWpxY2FGVU9ncTluWU9mbDFyYlhGdjFMLXpUX2VIU1lPaTRxMWlVNmt6MWU5Q2JJaDlhVm5LZmpyWTlDWkZZY2RMWDBxeHR1WXlYNUt4SEQ5YXNtM2tUX3JLN0ZnOTRZTlFldHg4Z1VNZ2FMNVBEcjTSAaQBQVVfeXFMT0c1TzRQNEVWYWdWaDJpU0ZFTGJYd2NTdUNubFdqaTlSVVdnU0Z6ZXV6TllsSUhfc1JtUnFycHRKNUNyUXpmY2s5bnlTZHZLcGY0Q2l1R1VuZlVFNXlGQzcycjRDN1ZlTlVRbXVuZ3hnNDMxel84Y0I0dWhkS29kY0RPWWVRcnlXUzY1RWlmcTA3bll6enJfckxoMURnNm9EdHFCNWE?oc=5",
           "ts": 1781074800000,
           "sentiment": -0.67,
@@ -1015,7 +997,7 @@
         },
         {
           "title": "La Bolsa respira por el desplome del petróleo ante la expectativa del fin de la guerra en Irán",
-          "source": "Cinco Días",
+          "source": "cincodias.elpais.com",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSkd1eTl4TmZuQ3gxZDd0cEx1d2QwZC1SWjNlUjR2WjdJQkhrclhBVGh0NnUtemZ4bDBxTTd4VXQ3QTR4OWU0a2R3Yl9EbXQ4aHhSaWEtRThkVlpMeGpsWFY2VV84ZHJBblRlZ3RYU19UNG10SVFVWXNhWHZoQ2hWZUNPUUdQdWF4M1ltalNURUnSAaQBQVVfeXFMT1ZOdm9GSmJnSzV1MjlFSXdEUkY0OUtLNmxJdzdMQ3pYZ19lQkpsWFRuaVJiMkozbHFKeXhjUU11c3prWDZ4a0NYMmxpT3N2czlleDk1YmxLRVV6OVRiMUc4MXYwbGZKNnI2d1RReHdMcG9PQm1LMlh4ZFVTa1R6SlVZVzZBaWF2ZXlOa3BRcW9sU2VTOEhLU3VoMmYwMENCMjFOdWI?oc=5",
           "ts": 1780038000000,
           "sentiment": -0.67,
@@ -1043,7 +1025,7 @@
         },
         {
           "title": "Petróleo cae por debajo de los 100 dólares y suben las bolsas",
-          "source": "perfil.com",
+          "source": "Perfil",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYVR5QkVhang2WWtxRjk2c19fbFh6a281VG1pWTBLSHJSQThwOXl1UVd4Q1AwZ01sQnk4d29XUXNtb2RyRGEyS1RJYXVFczkySjlWTWRjckh3WnVFa0Z3eXFkaFJkenlxTnZuZEpHYmZWZFItU0RFcVNkUlUtdExkVnA2aXp2UkhoRGZJRHpBalMxUHpYMkJIQUhZeXpBaVBpOTg1NmtPSWhsWUMtM25hYzFMYkFDOUpWYmVlTDhwSVhSU0NFVlE4dTVNajVoZVZULUhTUHRuVWphSVE3QVA5djNPQlRESzdJZlgzUlB30gHzAUFVX3lxTE9fRDVuTGVzSVdsdHN6V0ppVG16Z3pXV1JJZEtJZFczMzFnZmFtYkx1aDY1c1RET2JieS1KSFNOeHRnVHM0MGtaODR6QkhySHRQeGRxZ1BwYy1qS0JrOG42RFZwdTVCSWxnYWN0SndKVTVuWnh0MXlNNTRIMlV5ejAtSHhsV2JkS1RlZ2IyMEZnaXFSanVzX1ZpUjlIVEtFaVo3WTRmaEZRakVvaUM4b2JMdTBVLThyOW5JQkxMSUY4VU56LTFzU3FULWJWclRoeEVFOEF6QlltZElQYTdCMm1iWTFFcktKVDh0SmgwRTRrUGpJdw?oc=5",
           "ts": 1779692400000,
           "sentiment": 0.0,
@@ -1059,7 +1041,7 @@
         },
         {
           "title": "Acciones de calidad a largo plazo: cómo invertir cuando el ruido geopolítico lo inunda todo",
-          "source": "Estrategias de Inversión",
+          "source": "estrategiasdeinversion.com",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMHoxeGRLaDFKRWI5bXlBSE5CUWFpRzQtMFpCelEtUnBoVWtjOFE2V1dScDJHckYxb0dVTW9uNHdhQUEwU205RjFFcS1kOG5yZC1hSVpMbnNuQ2o4dFVnZXRXUWwwcjg2QlFaWXNmZGFkTUpXVlhmWXRvTzczTkxZV0ZQbnAyeW5BUGt5WGh5d0NmZV82b0xsWEJfcnRUU1V6emkwY9IBoAFBVV95cUxQVFVHcUVQTlNtZlNiRzV1VkZiSXFkUjFzdmFsdm1zX3dzVmNIYldOcXNReHFCRS1qYVNQUFAzdXVNRkdKajRsLWg5ZGdYRjRZd2NZOVRGZXBZcWlZSS0wUnBjbExpZlQyb1BGVGJhMWVWcW4ycFBVTXVQVkZmOVdLWFZydEFWZkVSWEVkMGhrT2NuYXN5RWNCQkVUMkt3aTh5?oc=5",
           "ts": 1779346800000,
           "sentiment": 0.0,
@@ -1087,7 +1069,7 @@
         },
         {
           "title": "Wall Street mira más allá de la guerra: el crudo tensa los mercados, pero la bolsa resiste",
-          "source": "larazon.es",
+          "source": "La Razón",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbDJNZXAyN2tzYTVwSThBYWxwZTZYQXpkOFdRaVQyRmRqWHM2U0tSOFF5Vll6NW0tbUE0b2lGOWhIaC0yTUZNeVlNYloyTUttNE1RTWhzeUUwVmZXV3Nhc09HTlFkN1N6eC1wVEE0M243SGJXWmpsaGRXLTVJS0ZNc245NVVIWjFOUUx1aVpDUnExQXAwRmtScHBHeUtXaXlkaHpxTndwaWFFVF85al91WnVERkhVQ0FiR3VvVE9YOXJVTFRGT0ZlZ1JMYmJCLVZ4cktzTUZnV3ZuQdIB7gFBVV95cUxPXzZDdHFBb29HdzhJclI0dUdsaDJNQXktbmhleVBwMTBnTkZNQ0NyQk5Jem5JZmdFdjJEM2hFZ19wbFdjZE5Rc2RfcHo5NzFYeGVjMld3OVhrejFFbVdyWTlBZ1NqNk5Eb081MnFuXzNwVlhBOXlmTlZQWDNRbFh3MlJiaTFROFFnYnFWTVByY1VzSnE3TEZwWWhhTVpJMjNkWWJtZEZRQVBURzRaSDdacGltaTV0YkdLQ0xCSTJSVzVPemRZTDNtMXRfUEtfNTg4dGZzVDY0NTJmM1duR0hGNVlmR2pEQmpkNXNKcl93?oc=5",
           "ts": 1777705200000,
           "sentiment": -0.5,
@@ -1121,7 +1103,7 @@
         },
         {
           "title": "La Bolsa se olvida de la guerra y empieza mayo desligada del precio del petróleo",
-          "source": "Cinco Días",
+          "source": "cincodias.elpais.com",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd3RHbkpjaTBENEd5S0FlSjVHaFVBbW5TTW9jRmV2bmkycUhaN0p3MThWZVdpOTlPTEJ6QjNCV3E5dTJpSklERURxWWtyS3V5UzdhQi1GRXFiX1AxcDg4MUk4R3hld2lTM1pqOG1xR1poMGpyUXVlU3RxTl93OHp6VF9kemRMV2RlMUFWeW1BVkwxNDZuWFd3Wk9jcTB3ZjVoQ09ZZ0hfcHJ4QWZqZmFJS1FMVTFQcldOTHpLTEZWWWhfVEVIeVI5NzI0Wk1RdURxQmNLRVhxRkZMSjBHeFZB0gHzAUFVX3lxTFB3YTQxeUlLWlNSaTJ3RW1nS2FtT1BncF9KcWZXeHFkWXd5S3JQYnMtNWNfSTN2VVR6b20tNFl5cG4zdmQxQjBSWVptcUhPRjcwWnR2c3Vhd0hlYnljQmsxWngwR3ZFbUZZcV90ZWQtT3NjTVdfV0t5VERjby1FTzN1cXN4NWFjcjlmTmt4a01kcnVyVVBweUtxbER4OENEMTFDUUNkbUkxZGloNkVKcVFsMVJkdVRUVGxMWjh2MG9XdjhCRE9ZcDctMkxLTGlxVlpPSkllTE8yMjdzOEFVQmstN0pmS1JGQWJxbUNmMjVKOTNUcw?oc=5",
           "ts": 1777532400000,
           "sentiment": -0.5,
@@ -1337,7 +1319,7 @@
         },
         {
           "title": "Jornada financiera: las acciones argentinas perdieron hasta 6% en Wall Street y el riesgo país subió por sexta rueda seguida",
-          "source": "infobae.com",
+          "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRnJILXJYZ3pFcHZnZkpjdGhNUS1oS0FqdHFJLVhZeUhMQjBOcGVCd2FZZVZZVXJWb084YmlUVkFhUmdoM2xpRi1VLUVVakhUeXd6eXEtUlpLTlZ5LURkOHRTTTJ1SWJtTEdVWTRIWEtGd1A4RjdyUWFfQWVhNUFsS1Q4ZS10VVVGMlRBTjdUUG9QalZhbGkwNEU5ek5ib1JteFVvMmZ6NUs5MnVnZmVMaGNvaVhPeUxLckt2NmdEQUJZRFF0SDFRMXdPTTZJR1NnemFtSjBqN1hVbUJEbkYwMGtSWjZscDQtdTYzSjlvMmNUM1ZrOVhfUnZDRdIBlgJBVV95cUxQdkNOeno3clV3ZDVIYU04NG92TGRLSnlWSnBUZEZWbjFDSXJGRVhRV2h5V1plNllTTXFreWZJSE9ucFhiUlI4SGlyMEVzcXBCaWlKYXVOQjlFNW1qNWF3WDBZd2x5S3BJWE0yaGZMWHpIeU9oZExXRGp3NzczU3dldTc1X1lXU2xQb2s3WFFGNk5QUVQzdEpaekt3TloweHpOUzV3TFBNV2dkVGhWejhJMEdHRmsyOVVWN0R0ODJsc3RlNWZTODJWazN0enE2NTJkMWZySTdtMWZuYjVpV0VBMk1ISWMyS3ppbl9Za2FmTjdhU181a2JVSndib09FSkZLVDdReWpLSUExN2JIWEhBeFIyRmZyQQ?oc=5",
           "ts": 1786487400000,
           "sentiment": 0.5,
@@ -1406,8 +1388,8 @@
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 9.1,
-      "n": 5
+      "net": 10.9,
+      "n": 6
     },
     {
       "sym": "ITA",
@@ -1418,7 +1400,7 @@
     {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 5.6,
+      "net": 5.4,
       "n": 7
     },
     {
@@ -1434,22 +1416,10 @@
       "n": 2
     },
     {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": 2.7,
-      "n": 4
-    },
-    {
       "sym": "AAPL",
       "name": "Apple",
       "net": 2.6,
       "n": 3
-    },
-    {
-      "sym": "META",
-      "name": "Meta",
-      "net": 2.4,
-      "n": 2
     },
     {
       "sym": "WTI",
@@ -1458,16 +1428,28 @@
       "n": 24
     },
     {
-      "sym": "MSFT",
-      "name": "Microsoft",
-      "net": 1.7,
-      "n": 3
-    },
-    {
       "sym": "AMZN",
       "name": "Amazon",
+      "net": 1.4,
+      "n": 2
+    },
+    {
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "net": 1.4,
+      "n": 2
+    },
+    {
+      "sym": "MSFT",
+      "name": "Microsoft",
       "net": 1.3,
       "n": 2
+    },
+    {
+      "sym": "META",
+      "name": "Meta",
+      "net": 1.3,
+      "n": 1
     },
     {
       "sym": "SPY",
@@ -1575,7 +1557,7 @@
     },
     {
       "title": "Serenza inició operaciones en mercado de la salud en Ecuador",
-      "source": "eluniverso.com",
+      "source": "El Universo",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMFdoQUVsb2FHZV9TV0VuT3RBMzRQcUNmTXlOLVZDLXJNbXlURURrQzQyaS1RWkFCVnE3Q2xiTE5jRU80aGE0NkpYa3JxUElnQ0hpWnpGeGNUZkZWZTlVMDA1MWlTNlFWTmhFcE5xR21GdjlFbV8yQkRmeWM4MU40OERXczR4Z3BuZExjN080QUVHT2xGRzlZS0ZxUGlWVDF0aDlPV0V6M3cxSGVjR2d2UzZnTzE3ekt5VUhwStIB0AFBVV95cUxNV3k0S0g0NTlodnhCQ2t2VU1uc3ZvMUxCaUdlT3Nyd1BRTW0taUdtOHFUb1l2WWhUNTlMN004WncxdUU3ZVBYb0VyM29QcW5OZ2h6aXZGUTdwV3BnWl9PTzJKbDRnRENHaGZRUlNKX0ljVEwwbGRQUGJOUS0tSjQ1aG95MlRFdjgtTEFGVUdJWlNXd3dNaGVKNnJ4RUtualFfRDB1Wk51Q3FMZExZcDJiamJkRFE4Z2tTR3h2ZjBnSko3RDFRZkNHamw2aTZIOHAw?oc=5",
       "ts": 1786133700000,
       "sentiment": 0.0,

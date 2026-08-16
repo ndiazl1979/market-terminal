@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T18:01:22.165790+00:00",
+  "updated": "2026-08-16T18:39:21.250261+00:00",
   "categories": [
     {
       "key": "tech",
@@ -15,7 +15,7 @@
             {
               "sym": "MSFT",
               "name": "Microsoft",
-              "pct": 0.7,
+              "pct": 0.6,
               "dir": 1
             }
           ],
@@ -93,7 +93,7 @@
         },
         {
           "title": "Jeff Bezos, fundador de Amazon, compra parte de las acciones del Liverpool",
-          "source": "forbescentroamerica.com",
+          "source": "Forbes Centroamérica",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNW80ek9nWGZJWFJOY2tmcW9rR1ZwbzJGb1kyeTY4YVR5MGNwM0kxUUdxQ3pFN3dhV1RFdlhndDdvRmJYZFdVQ1RyZmdyVjYxaHgwdDJiRVVxSF9TRmFXREtsUGl1Z3ZkNVdlTFNndzZlU1JPVS1ENTR3d1ljXzBRZG9tcVNXdDRqdlJxRklId0pKR2tsSHlKblFwbjNORFAwQy1GUnlvbXliN1d1cE5lU3NKT3hiMm8?oc=5",
           "ts": 1786733791000,
           "sentiment": 0.0,
@@ -141,7 +141,7 @@
         },
         {
           "title": "Acciones de Apple suben 1%: precio actual y claves en Wall Street",
-          "source": "EBC Financial Group",
+          "source": "ebc.com",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQzJZemZKTndBaG1VVDR5Q1pCenNvQ0l0aFFvLXdPNFJoSTNabjhiSjNMSEZ5SEFyM0QwdHhNZTZvVFo2QTNlMXQzcVVYRlFkSG0yWmxoMVhKZ2J5amJxTV9SR2RUT1VaOGgwdmVwcnY3aE5nblJTWkQxYmktT2VESDV0TGFsOVB0YmlJeFZtdGVmaEdk?oc=5",
           "ts": 1786676813000,
           "sentiment": 0.5,
@@ -184,6 +184,22 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "La infraestructura digital y el mercado laboral frente al avance de la inteligencia artificial",
+          "source": "El Economista",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY0dzaTRrbkZXd0ZmRWR6UHpsTzRUTWNZaVpZRXUwZC1oa3JreUVsanZXWjNza3NDYUJFWFZSMjJMbTdJTVlzRGtCVW9Pa0Y1QzVXYWNIdktod28zTXdiakVNQVM0TER4VTRVSUpyaW14UjM0d3UwX3hpMDZVR1VEYlpHY0pvQndEWmg4M2NOVFZwMnhDRkNhNUQ0OVdPWmpVQ24xQmxCMlJyUGRTd0JtbjVldWdPeWJwUEl4cXFwNTNTMUNDVFpUaTdPU3E2RkNyU0VOVElB0gHbAUFVX3lxTE00LW1hUlRDZE5aVmN3QzFrelJlX05sSzItN2pHT2xMaHIzV2RfT0tHZ2stekh5aEVnUGtZS1pjLWljNEhqVlV1Sk9Hd0Z5WXVqTi1WTTI3TzU0cWdOaFhOaUhIYVBYaW5NamZEbEdJOE1Ha2cxQWFkeHBFc3hWdWd4VTczdzctTUJ0cUQ2UGxFN0czb0JMc1FKajQ2YWJ6N2NWakltbnBPc3NPYjNMX1lhR2pDOUI1eHNUMlJnc1J5ZEZkY1dqV1ZGSE5CUlRMaHFZdDJHUkpHMEFYQQ?oc=5",
+          "ts": 1786902753000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Terafab: la fábrica de chips de US$16.800M de Elon Musk que supera a TSMC",
           "source": "El Ecosistema Startup",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONkhWT3c0Y0twLVRzSUduVVpidDdLdWpVeXN1c2xpRzJLbXN3RFhQTzFBTWpCMjNIeGpyQkI5TXcyWVN3SU1QWUFTV2VJR2lOV1lWRXk3X1FqQ0ItamIwZ0s4emR5blQzV3h0UkJzdkFtbTBxVlpMNkN5RGg4ZEhRQi1lekJUd3dhQXNEamhfZGpYdWN2YXZ1WkdZSERzWjFaQWpjOQ?oc=5",
@@ -221,22 +237,6 @@
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Del patrocinio a la inteligencia artificial: la nueva estrategia de Google por el fútbol",
-          "source": "Primicias",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS00xRklmVFVhWC1UamY5VnBxeFlQM3M4OVpPdEI1VGNKUzR1SW1LMEhQWEpRZDhudUxwYTBVdFVhMW02ODlVUzlfRExIZndsc2hwMFdjNy1Zd2JIRnEzZ1BlYWVfcEJrV3loQkVmMkpENEZQNmRZcUdocnh2SzRKNDQ4NzhINWxQX051NkRVMFc2V2cwQzZMV0RVcnlqRnJLbjlQdkFZTEY?oc=5",
-          "ts": 1786877700000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
               "pct": 0.8,
               "dir": 1
             }
@@ -863,7 +863,7 @@
         },
         {
           "title": "El precio del crudo cae: ¿Dónde cotizan hoy el Brent y el WTI?",
-          "source": "EBC Financial Group",
+          "source": "ebc.com",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSWRNMVY5THg2Q2J4VHY3RnotQXF0MUtna1k2V2ZIQ3RkY1VFc3h5cnFkUlZPQWE3OWM3YXRTcEhfRk5leGh4S1hJTlA2eDdmWVFKbWVYZ1F4UVpsNE1lVUd4bko5MUl2MWJXb2haYjVYMTB0a3RiLXo1ekZDd0N4TFI5aVFIWVYwYlBJN1c0aw?oc=5",
           "ts": 1785724680000,
           "sentiment": -0.5,
@@ -1023,7 +1023,7 @@
         },
         {
           "title": "Petróleo cae por debajo de los 100 dólares y suben las bolsas",
-          "source": "Perfil",
+          "source": "perfil.com",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYVR5QkVhang2WWtxRjk2c19fbFh6a281VG1pWTBLSHJSQThwOXl1UVd4Q1AwZ01sQnk4d29XUXNtb2RyRGEyS1RJYXVFczkySjlWTWRjckh3WnVFa0Z3eXFkaFJkenlxTnZuZEpHYmZWZFItU0RFcVNkUlUtdExkVnA2aXp2UkhoRGZJRHpBalMxUHpYMkJIQUhZeXpBaVBpOTg1NmtPSWhsWUMtM25hYzFMYkFDOUpWYmVlTDhwSVhSU0NFVlE4dTVNajVoZVZULUhTUHRuVWphSVE3QVA5djNPQlRESzdJZlgzUlB30gHzAUFVX3lxTE9fRDVuTGVzSVdsdHN6V0ppVG16Z3pXV1JJZEtJZFczMzFnZmFtYkx1aDY1c1RET2JieS1KSFNOeHRnVHM0MGtaODR6QkhySHRQeGRxZ1BwYy1qS0JrOG42RFZwdTVCSWxnYWN0SndKVTVuWnh0MXlNNTRIMlV5ejAtSHhsV2JkS1RlZ2IyMEZnaXFSanVzX1ZpUjlIVEtFaVo3WTRmaEZRakVvaUM4b2JMdTBVLThyOW5JQkxMSUY4VU56LTFzU3FULWJWclRoeEVFOEF6QlltZElQYTdCMm1iWTFFcktKVDh0SmgwRTRrUGpJdw?oc=5",
           "ts": 1779692400000,
           "sentiment": 0.0,
@@ -1396,16 +1396,16 @@
       "n": 5
     },
     {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 8.2,
+      "n": 9
+    },
+    {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
       "net": 8.2,
       "n": 18
-    },
-    {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 7.2,
-      "n": 8
     },
     {
       "sym": "QQQ",
@@ -1446,7 +1446,7 @@
     {
       "sym": "MSFT",
       "name": "Microsoft",
-      "net": 1.7,
+      "net": 1.6,
       "n": 3
     },
     {
@@ -1462,15 +1462,15 @@
       "n": 1
     },
     {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": 1.3,
-      "n": 2
-    },
-    {
       "sym": "AAPL",
       "name": "Apple",
       "net": 0.9,
+      "n": 1
+    },
+    {
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "net": 0.5,
       "n": 1
     }
   ],
@@ -1522,7 +1522,7 @@
     },
     {
       "title": "El Gobierno resalta que Bolivia baja su riesgo país a 407 puntos y se mantiene por debajo de Argentina y Ecuador",
-      "source": "oxigeno.bo",
+      "source": "Oxígeno Digital",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUk9xbldzSTdtN3lvVUt3dGdPTkFzRWp2RlVLdVozcW9uTWVUNy1DZlMwVngzSG8zNzZPR296RkgxaGRKZk14T19PWWRJMnQyaTdLU0tNV3BTNHdNMnc5d2M4eXR4YVpNVEw4eWJEUnNQU0pZa0RwZjlmSGxhZ0FJMzJKRVIyUTR3eHZGdUZhdFNGbHhORzR1OXJSWEhhdWFqX2ZwcFh3WXpKTzNCVldwd0RObkhSeWMtblM1OXJLRWxQRmZERkZ6Vy1TWFU?oc=5",
       "ts": 1786751334000,
       "sentiment": -0.5,
@@ -1537,7 +1537,7 @@
     },
     {
       "title": "Ecuador produjo menos petróleo, pero recibió 15 % más por sus exportaciones en el primer semestre",
-      "source": "ElOriente.com.",
+      "source": "eloriente.com",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRnBjVjRDLUprMk82QmpHZkFOZHRZeEVDeG5NMURhdmFtSFFPUUJBMVBqZERzYndaNUxZWlZ3VXFJLWp6WXMtT2JHSi1NbnhSRVFwcTcwYXhXSGtzdTl2Y0VHanh4bDdQd0JGSFNabGtRX1hiaTNPck5UZWJQc3RlNjAza2ZYQVFLdFY3RkxWZWVDVW5VV1pZM3NaY3NjRWZQUVhRZmdKeVB2TWRHNGkxNWZ0RnVUTDMtN0U0SWxMelZBSEFIMmlDdjQzandZRFo3?oc=5",
       "ts": 1786557880000,
       "sentiment": 0.0,
@@ -1576,7 +1576,7 @@
     },
     {
       "title": "Serenza inició operaciones en mercado de la salud en Ecuador",
-      "source": "El Universo",
+      "source": "eluniverso.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMFdoQUVsb2FHZV9TV0VuT3RBMzRQcUNmTXlOLVZDLXJNbXlURURrQzQyaS1RWkFCVnE3Q2xiTE5jRU80aGE0NkpYa3JxUElnQ0hpWnpGeGNUZkZWZTlVMDA1MWlTNlFWTmhFcE5xR21GdjlFbV8yQkRmeWM4MU40OERXczR4Z3BuZExjN080QUVHT2xGRzlZS0ZxUGlWVDF0aDlPV0V6M3cxSGVjR2d2UzZnTzE3ekt5VUhwStIB0AFBVV95cUxNV3k0S0g0NTlodnhCQ2t2VU1uc3ZvMUxCaUdlT3Nyd1BRTW0taUdtOHFUb1l2WWhUNTlMN004WncxdUU3ZVBYb0VyM29QcW5OZ2h6aXZGUTdwV3BnWl9PTzJKbDRnRENHaGZRUlNKX0ljVEwwbGRQUGJOUS0tSjQ1aG95MlRFdjgtTEFGVUdJWlNXd3dNaGVKNnJ4RUtualFfRDB1Wk51Q3FMZExZcDJiamJkRFE4Z2tTR3h2ZjBnSko3RDFRZkNHamw2aTZIOHAw?oc=5",
       "ts": 1786086000000,
       "sentiment": 0.0,

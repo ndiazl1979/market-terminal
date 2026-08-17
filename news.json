@@ -1,10 +1,26 @@
 {
-  "updated": "2026-08-17T17:55:39.545703+00:00",
+  "updated": "2026-08-17T18:28:44.335826+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Mark Zuckerberg, CEO de Meta: “Donaremos el 99% de nuestras acciones para buscar la igualdad social”",
+          "source": "eju.tv",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcHNBZkNhT3dORWdLLU01UVg5M3FvYk9qU1ZjRkhWc2JrU2dtX0VibWV0YThBcHZiSTJhdG14clphU1BZcjQxVGdvY1dBRUp1clBFc0Y3VnZCWFNacEpBUDhteXhncm1NYWc4amoySzdQSTROZ1dKQkt2Wmdmd2Q4V1YybkNRellFR2VBTHNyY3RPV1A4ajV1VzhwcUhmVmVsWDJDdDdZVDJxbHl5N0Jval90WjlNQUVOQUlV?oc=5",
+          "ts": 1786990863000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": 1.2,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Nvidia reporta el 26 de agosto; los titanes no esperan: 15 acciones IA hasta +200%",
           "source": "Investing.com México",
@@ -16,22 +32,6 @@
               "sym": "NVDA",
               "name": "NVIDIA",
               "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Mark Zuckerberg, CEO de Meta: “Donaremos el 99% de nuestras acciones para buscar la igualdad social”",
-          "source": "Diario AS",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQU14Z1V0LVZlS3JaUndNZXlKNFo4bFdMcXU2YUNYQXdaSkdxcERVY2x1cmxrZ2JNcENqdkJETU9pRHdpVnNxclFMODdWM1pVbE5uX0NuNXlpaDFDVDhnaVBnLWg2YmFPX2w2R0xVdDBMeW56MGRMWkZoRzV2RFc4T3lwOGZpTjBvbWtFZ2toWG1FRlloN1VuclFzV2pKaXdyMGxSRm4xV19Cbm1oSTF5YTFBZGlfc1NMbGxkbVowS0s0T2hsb3BYLWFfMFJrUjdRVm5HcEpJVWHSAewBQVVfeXFMTmV2dnBad3ZRTGdCXzk4bHo4MEZYc1hzNmNoOFFjQmtoZk95Q0lCVU5LMjFrZHM2SU14QThJOVNoMG5veFBodFBNOEwyMGdzUUlScElrTUVPTmFDNlhEVzBsYm1TYU5Pc0xjSGplZWJzdktiQUN4MEk5Mlgwd203a1dYbTdPODZIZFNMWm5IR2ZIWmctS0tEQzNPQUZ4NTF3bU5WYUhzbDY2dE1USlJXY2JQSHZmV1pVdEI1LXB6d2hmMU0weW04TWdfTVhqWGZydTBPSXUtV1FscGo3ZURmaHVrdjFEcEJsZlN5YWw?oc=5",
-          "ts": 1786981862000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 1.2,
               "dir": 1
             }
           ],
@@ -117,7 +117,7 @@
             {
               "sym": "MSFT",
               "name": "Microsoft",
-              "pct": 0.6,
+              "pct": 0.4,
               "dir": 1
             }
           ],
@@ -183,6 +183,28 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Intel baraja su regreso al mercado de memorias para recuperar terreno en inteligencia artificial",
+          "source": "MarketScreener España",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbTFqNENBcG9IbmIxaGNYenk5NElVRTBabHZLa29xZzk3Ukx6YWpta3Q2Rlo3X0xCNGRQYjRIRjg1ZVQwbl9OUmlIQ0ZoS2syYUZLbVAzMDZsWUNYS3dFcmtOakRSNGZOa1R5eHV5dURPbW1kd0hCNHZ5QlF4M21vbnVBeWxlbFFMWWd0bkZ5X3F3UXpFUzVWNndSQWpyTEtoQ2tzdWtYQnFFUWNXTUFWYWx4VlA3dXVlejNaREJyTVktazJRZGh4SGgtUjlKQ2prTy01eFZwc1FjMEFmbkhHakZTeVNTV3c?oc=5",
+          "ts": 1786988840000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "INTC",
+              "name": "Intel",
+              "pct": 1.4,
+              "dir": 1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Amazon escanea y destruye libros para entrenar IA",
           "source": "El Ecosistema Startup",
@@ -317,7 +339,7 @@
             {
               "sym": "GOOGL",
               "name": "Alphabet",
-              "pct": 0.9,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -325,7 +347,7 @@
         },
         {
           "title": "Limusa incorpora un asistente con inteligencia artificial en WhatsApp aumentando la eficiencia en la atención al ciudadano",
-          "source": "Ayuntamiento de Lorca",
+          "source": "lorca.es",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02MlVXa1NqQTVJMzdQYkdJVkJYdVptcDFWOW5kc2lRelFtc1dLbDRBZTluazdiSTV6VVhERUVvMlg3TXl3MXlPTFNoLVUtaU0yclFKY19xQU9RZnNoWXZIOTdn?oc=5",
           "ts": 1786963061000,
           "sentiment": 0.0,
@@ -334,22 +356,6 @@
               "sym": "META",
               "name": "Meta",
               "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Los modelos de inteligencia artificial de Alibaba superan los 3.000 millones de descargas en seis meses",
-          "source": "MarketScreener España",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdUlpdUE1c1ljTEp1Q3hJZS10MzIxZUlTajN4cGdoOUdiWHJkdW1pcG4zTGdCb1JSbEEtbl9OUGVrZ1NmZ1FKVXhmUnNnOUNkNDUxYkk0OTAzckRMSEktemRJYWpPcjVjamR1YkMzc1M5a3RNMHhfMnJXOFZWR18ybmI0YWxieUlCenZZRENYZllGR0IxTUMzdktsVG9UdVZqZWFjV0cyTXZhYnRuZ2RtRUw2cHJMNVYtWEpUQ1E5ZzFrUm9meFR4QXpzLVo0MzNKOU5xV1lLZGRFVndXcURnRG9xSFk5MDNjN3h1eA?oc=5",
-          "ts": 1786956757000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -394,8 +400,24 @@
           "category": "space"
         },
         {
+          "title": "SpaceX se derrumbó en Wall Street ante la preocupación que genera su gasto en IA",
+          "source": "La Tercera",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPczNHVFVFSDh3bVYtcmJLNHduYm9fTFdjSmZwQnJteGhvUDNvNGxjTkI1UEtsX3pIdFFZTVRCY1ctUkxrVkJfMUExMkxjUFN2VUduLXdMS2JSREE3NU9fREh3ZFNmaE9YaFhCbTJ3RktVQmdERDB3MUZib2Fjb1ZXcW1jN1ppRS1TcnBON3NLQ0g1LWNQVUZMUm4wTVBjMmFrQlA3TVRBUERBekR1WW1iZlQwb080d9IB1wFBVV95cUxNTjRldnhJQktUMkpsVUc4UnhHR3o4T1VjT2xqTUFuUDVGNWY2VUtYTHhqbUFENlQ2VmtJQmxuNXBNeVpIaFlhR3M5enlCRkV4a0pSdkhfODRyQ3A5OVJfV2FEdU9jRFZRNW0yS3RRUFEwZUNaUXhIa1VDYkljM0QxWFhZTlNNWTg4NVh6VnlqRjNYUXR3UDhSamp5VUQ5MDFmLTRlM3ZPUUJKc0lyWU9hVUtDM3hDNnJGeVg1d1kyVEtPTUpfLVlpTkNWUk1VdlR0R2k1LTAwQQ?oc=5",
+          "ts": 1785913200000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "space"
+        },
+        {
           "title": "Cuál es el patrimonio real de Elon Musk: estas son todas sus empresas",
-          "source": "Infobae",
+          "source": "infobae.com",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSVR6c3RkT2VvaFE5RXhwNHpaT3pZV3EwSng0c1ZxU3BlSWhJekhRT1J5NlhtcmY4Z2FvSzhvZU1xZFpPcllfLXhHMmw3TFlsSklSUk4yV3BqRUNackItbGw0WTZ5OGQySml1SkppZVN0aEZkeGV2emVnZ3NPUnJqcmlaUy1wdXM4ZjU4TWFTeThLcTZKaTBIZFF3MkFCeFA4TmI3aVpsaGg4WTlobmZB0gHKAUFVX3lxTE5NS21IbzA0QjRQWjZrMmVKckJkSUY3Wm9NWmpsbVJQTUxqVGNZY3hRVlBKWC1YVUNqbndnVi1oUEtWSm0yeEZfR2NzSE1JT3lsdThJN2Y2R3ZtZHRpakx2YmFzbjVUU2NqaTJMdXZIV2NnUUREdG5UN1VLdEd5Y2dlNzJjUlNUbDg5U3pWV1FQUG44ZS0yXzNNUTh5aDU3UldYOUE3cDY3WUhHZFFZcks0cWVndXk1bXhfaEhDVWxkRGpEYkFmY05DN0E?oc=5",
           "ts": 1785481200000,
           "sentiment": 0.0,
@@ -411,7 +433,7 @@
         },
         {
           "title": "La salida a bolsa de SpaceX enfría al sector espacial y borra más de 1 billón de dólares en un mes",
-          "source": "Infobae",
+          "source": "infobae.com",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaFp6ZTJWR2ViLWJrdEowUGN1XzFHM1A2QXYwMTFWYk1sTjl4UmJJUTN4emlTdnBUUFRocnBZWDdCZXlYYnhIcUFsamlxRmNfXzRfdDBNbGNXcEJUZ3gwSnl1Zi0xZW4xTzBFLXlJeUZqTHhGVnoydFVYdGt0blhJYVFrbU9DS254SUF1YWJYUERNaUEzV1BYSUpTa1ZadVJJUWJkR1VGS3c2cm5Fb1phUm9BNENjV0xMVE1RQnBHUnVkVWVmSWRKODRRbFNPcDVWV1BfLUxnMNIB8gFBVV95cUxNS3paTFRHd2RWUXpfV3pMMmJlNkJFeDZtOFkwQlV0amhWOG0yYkhMN2RROUZhdW9tRXlUVVNMV1dILUNzMUFqTzFzT2UwU1hxc2JESGRrWllzLU42Mm1YT2dRUENaVmVoS1ZqQkQ4MFJxQ1ZQeVlZMzZwbTR4Mk96el9iUXZrZjU4YzBwNnlDclNPN21waWRQTjFHblNUb2FTRldrSlhTWUxUclFXem5nbGx2ZUxTQmZ5MXllMUpPaWZMVEh0TlpyZ0VrS0YyYXVJT3BqaUpHRm56V19lTTlJRFNTaVFWVnVCTzZjeURRUEd2UQ?oc=5",
           "ts": 1784790000000,
           "sentiment": 0.0,
@@ -504,22 +526,6 @@
             }
           ],
           "category": "space"
-        },
-        {
-          "title": "La primera semana de SpaceX, dirigida por Elon Musk, como empresa que cotiza en bolsa desata el frenesí en los mercados",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BOVU4eWc0MVZrc0l5OTZDY1c1cUJ4c3gwZzZzNE14cEpIdjJyVGpFbTVKY3oyNE9oUWNkdXlMTTVuNFpobEtaS2s5MURmMm9YYVVLVmpYNGJsVk5Mc29ZLWNIQzhqQjU2QW9pNTJnSjNPSlBMVmpB?oc=5",
-          "ts": 1782111600000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSLA",
-              "name": "Tesla",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "space"
         }
       ]
     },
@@ -545,7 +551,7 @@
         },
         {
           "title": "Ucrania abre a empresas de defensa una base de 5 millones de imágenes de combate para entrenar sistemas militares de inteligencia artificial",
-          "source": "escenariomundial.com",
+          "source": "Escenario Mundial",
           "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNdFlsdkE2dG9DODh4bzFKQlFHQjZZeXl1M0JNTEo5Y3hiNXlWWWRJLTdxSE95NzlGakJfZnlMMUhWMTRXOWpoQXF6VHpvMlFfbk1Id2JHU0tfX2pvYUhLeDJsNEpNeG8xU0RCeDZwNkpsYVhDUUFBU1pMNUYtVmtRR2tXNV9aTWJSMjBUd0NiWDVLUTd1cWhWSGxKeUt3NXVDZC0wQm05clRpRlFEcmwybjdNQk9hWDJZVUQ0MlduU0xCaDZCN1pWdzY5Qm05N21BWGJYR1cycE5PcWNDOFVhUWJVSmJXTXpyTzdlZTZobkNsYVR3STVTejhaTmREWEU4alhVNGJDR3JHX0VsS1ZwcmdRWdIBmwJBVV95cUxQRUVUV1FVR0JWTF83c2RhNFJybkZGbjlHc0FqbXloZXRSbVMtbGVZNk5IdGJGZzlzZHFYLUhZRmhleFVZR0ZDeFp0UDJEcmV5V0N2UkJfcERuQnpBSTVnUzA3bEQxSnlsWjYxMkc4WXNvRVQtMnUzbm4zZEN5MWk2RW5ISko4eEpmY2VzTmxnUXdzUHdkNDhSampGSFlQSHM5UkhhbUtYLVZsTGJhQ3oyZ3hObzFGRE12bzh1SUNLXzZCREtfb3FXemJta0NZbjFWZG0yMzhMRXJTeUhkRmU2bUhCWnpkV0hXUVRRMUUxOTdEcmZUZjlBUENXVXdWNHdfcEs2S0FyTFc1T3lpQ0VTOUoxWERwUGxFVmRV?oc=5",
           "ts": 1786509548000,
           "sentiment": 0.0,
@@ -579,7 +585,7 @@
         },
         {
           "title": "Ucrania sancionó más de 40 empresas y personas por suministrar armas y equipo tecnológico al Ejército ruso",
-          "source": "Infobae",
+          "source": "infobae.com",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYnJxRGhodVl3N19CNF9YTEUzZ3NEcVo4b2ZwQ01VamhxNTBheVUwZ3pnRk9ia0VtdmwyNC1JeWRkMVZxZWk3Q0Voc3JVaW5pUTFaRDVLdzZJZTlNZGxyamUtOUFTRzBfMUhiY3QyYVpFVkJ1OHJYSTJ3RnFwbkoxeTQydGtUS096WTNtLURKeEVBc0g5M284MkZMcWpjYUg0SFk4UEgzWHpGUjZsUWwtaEtKU3dOcDFsNXlmdFVvbUlQdUp2LXhVaFluMUhqa1pIczVjNzlGU2dhQ2ZrZWZzRXdPVDJzeUJ1eFZEetIBhwJBVV95cUxQUk9lUFBrak5QT1ZDQ0ZJX2xJTjVtN1JlYlFJb1YyUWFhcVRkNDNFZ2l2cVlUTUM5QlVaaHJmUk10Mm5KN2lzcGVJOGZMbXR5U3I3VHc0VHlCanhfODhBR2ZURi1IVFAwTjFmdmdUdzBHT1U5NEtQQjRGaGthM3JMUnNWRWRFcklCNWVfdUJlZjNoai1LTExLYy1zRXJtRTVYQ3NZaXA2REI0VU40T1NObEZMNFNEWW5Ydy1iTzVsM0hwUlhoRHlmNTZXMXNjaUNTbk9QZUFGekJGTUl5bEtMQlU5QlRNYmh6YmJrOW9lOVVnWC1SU3IzNUVtTlFrRGNSZFpzV2Uzaw?oc=5",
           "ts": 1785826800000,
           "sentiment": 0.0,
@@ -623,7 +629,7 @@
         },
         {
           "title": "Europa dispara el gasto militar: 454.000 millones, un 75% más en 5 años, impulsan la defensa en Bolsa",
-          "source": "OkDiario",
+          "source": "okdiario.com",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONmFlMTl4WFRsY2ZUc0hMejFjX2UxRV9mdm9BVmo1ZlZjZ2ZnRzNTMHNWQ245cjd5anY0OTZ4LWlPUmxoRUo3c3Q1dzEzUzR5MW42N2hYeHZKeW5mNlJ2U1M0OVhxaHZGeVh6WFVIQ1NDNmlYRnBLTllXS283SnBKMWhGbWp6WjRWQ2I0b01uMThIWXR5djlMQnhnT05wd0JrUWdiYW1KN0hvbDFoeUc5LTctclpvUDM1TE9nYtIBwgFBVV95cUxQNFFxNzhycmJia1lYV0xDY3FQRkZRdjhtTkdxdHlCc18zSWw4dEZGcVhtdnZRNUJrUEFkNGlqSGpYM0M2R2ppbGtMVk5jbWZTSy1WQ3duYUtTV1hMU2h5Z0hhZV9KcmVjRlJGQUFEZmo5YThhSDEwcVRMdk1Rb2dDUDg2d2lHeTZmME4tSUpaRXJuM212bUNwMmdSdi02N29Xbk44VHpENWFlNEcxQXBHZUZlNEZqRWdDNFNoN1pJZDlkUQ?oc=5",
           "ts": 1784962800000,
           "sentiment": 0.5,
@@ -825,7 +831,7 @@
         },
         {
           "title": "Caen precios del dólar y el petróleo: menor tensión global y expectativas sobre la Fed mueven los mercados",
-          "source": "Infobae",
+          "source": "infobae.com",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVy1rQVNQS0Fib205OGtyUHgxanlGZ0dCR0lHMXRPTFFNTENVWWpGaVV6WWljUFJINWFpX0ZLcjdWRWw2UUdDMFFncENocTJZU1RiQ1V3eWhqUkpJXzdQTUpsaUlOX1o0cGxGNjdZMlpwRThsejFrNjNhRGg2aHRSRXNJV3ZnM0F1ZUZPdmtOVC1MdVhleGlySnJmM0FNRFByRFI0cWFLT0JHMFN3M0tmSHhLVFJ2MmIyMkZncDAyOVlqeVZsM0FwWktCdDZ5Q0VJVXhKWjJwREU1U29pck4w0gH6AUFVX3lxTE5IM0NrZ0psWjZjbVF6QlpQeDU0Y2JyZllORUNZLURPZXVPOWdkcWRYSkM4YkRIb0tUbFJXU0tRWmlJTjdnOGp1NVJTS3BoWnlBaGtScXFVakVORkRJYkVQal9wdXlWd2g5T1NMZ1NWaHVZSmFPRi1ORE5wLU1NT3NGSXJsSlRGQW16YUdNYjZGclAydlRSMFpKVUZseXVuNWlqMWlOSkxscllhMkNSVUFVOTlzUXhrbDM2a1R4aTRiNmIySHd6eFNublpqMl94eTA5UmVrVmNtV3gzTjV6elZkVmdieDJBcW94MzlJZkZZbGNrb1NCX01Rd0E?oc=5",
           "ts": 1785826800000,
           "sentiment": -0.67,
@@ -1013,7 +1019,7 @@
         },
         {
           "title": "Petróleo cae por debajo de los 100 dólares y suben las bolsas",
-          "source": "perfil.com",
+          "source": "Perfil",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYVR5QkVhang2WWtxRjk2c19fbFh6a281VG1pWTBLSHJSQThwOXl1UVd4Q1AwZ01sQnk4d29XUXNtb2RyRGEyS1RJYXVFczkySjlWTWRjckh3WnVFa0Z3eXFkaFJkenlxTnZuZEpHYmZWZFItU0RFcVNkUlUtdExkVnA2aXp2UkhoRGZJRHpBalMxUHpYMkJIQUhZeXpBaVBpOTg1NmtPSWhsWUMtM25hYzFMYkFDOUpWYmVlTDhwSVhSU0NFVlE4dTVNajVoZVZULUhTUHRuVWphSVE3QVA5djNPQlRESzdJZlgzUlB30gHzAUFVX3lxTE9fRDVuTGVzSVdsdHN6V0ppVG16Z3pXV1JJZEtJZFczMzFnZmFtYkx1aDY1c1RET2JieS1KSFNOeHRnVHM0MGtaODR6QkhySHRQeGRxZ1BwYy1qS0JrOG42RFZwdTVCSWxnYWN0SndKVTVuWnh0MXlNNTRIMlV5ejAtSHhsV2JkS1RlZ2IyMEZnaXFSanVzX1ZpUjlIVEtFaVo3WTRmaEZRakVvaUM4b2JMdTBVLThyOW5JQkxMSUY4VU56LTFzU3FULWJWclRoeEVFOEF6QlltZElQYTdCMm1iWTFFcktKVDh0SmgwRTRrUGpJdw?oc=5",
           "ts": 1779692400000,
           "sentiment": 0.0,
@@ -1284,16 +1290,22 @@
           "category": "macro"
         },
         {
-          "title": "WALL STREET CIERRA EN ROJO: ¿Qué está pasando con la bolsa más importante del mundo?",
-          "source": "Perú 21",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWEUxaERHUFUyaHhkREJzM2dGaDNNT2R5TTdaZjlXbmtUSVV2ZHByQnkwbFZ1Y0VtYXlQRTRHcVFFV3lMUkZSRUFHQV9oZHVGQWVpQTNsUXBZUTJsY2paY0dRUG5qUUV5dk02dlJnQXlOSjhoNWRoU1VfVTlSRDhKUGNVeHJQR3NRcGxBR0FUUE5Rbk8xT3hPNmtTMDhrOHRSd3FZU1ExX3UwMTA1aUE?oc=5",
-          "ts": 1786397980000,
-          "sentiment": 0.0,
+          "title": "Wall Street abre al alza a la espera de cifras de inflación",
+          "source": "Diario Las Américas",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVEh4MXZlYUVMNWpLbzJwbzdQOFZrVldRWERDaDdMQlZRNmNGN0xXSFpKN1Y2OTBNV3BwR0pwbl93cHNIX3pPMnctY0JQYWNFRGlBN2psRTE2eDRUcExXVzNPejBXWVBzUFJ3OGVXakNjYmptQU9lQ3NUcDRGSDhGYmUyWW80YU9hd2FjbTVzQW9BUVJEODFDRkNBX1l3M3NSUzgxX3V30gGrAUFVX3lxTE5yV2hMd3NyQklidVN1UzU3MW9YOU9aNTVtdUlrdXRvTm1ncFBVZmRud280UXFWZXJtQW1hOXlvT0ZzTGpxTWI4NXNObmtFNk1MRkx6dnJpU2xHREhQM2NSN25BdFk2TDM1Z2t0alBzZjV5UHpyZXlYZXNRTjNTaGlpdFRFRlFOanVrZEFxV2NieG1rVEZTMUw3RXJQS1ktWXVpU0hyOEJha2kyaw?oc=5",
+          "ts": 1786463760000,
+          "sentiment": 0.5,
           "tickers": [
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.4,
+              "pct": 0.7,
+              "dir": 1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 0.6,
               "dir": 1
             }
           ],
@@ -1388,19 +1400,13 @@
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 3.6,
-      "n": 19
-    },
-    {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": 2.5,
-      "n": 5
+      "net": 4.3,
+      "n": 20
     },
     {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 2.4,
+      "net": 2.6,
       "n": 6
     },
     {
@@ -1410,9 +1416,21 @@
       "n": 1
     },
     {
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": 1.5,
+      "n": 4
+    },
+    {
+      "sym": "INTC",
+      "name": "Intel",
+      "net": 1.4,
+      "n": 1
+    },
+    {
       "sym": "GOOGL",
       "name": "Alphabet",
-      "net": 1.4,
+      "net": 1.3,
       "n": 2
     },
     {
@@ -1422,28 +1440,28 @@
       "n": 1
     },
     {
-      "sym": "MSFT",
-      "name": "Microsoft",
-      "net": 1.0,
-      "n": 2
-    },
-    {
       "sym": "AMZN",
       "name": "Amazon",
       "net": 1.0,
       "n": 1
     },
     {
-      "sym": "META",
-      "name": "Meta",
-      "net": 0.2,
-      "n": 3
+      "sym": "MSFT",
+      "name": "Microsoft",
+      "net": 0.8,
+      "n": 2
     },
     {
       "sym": "SPY",
       "name": "S&P 500",
-      "net": 0.0,
-      "n": 17
+      "net": 0.6,
+      "n": 18
+    },
+    {
+      "sym": "META",
+      "name": "Meta",
+      "net": 0.2,
+      "n": 3
     }
   ],
   "ecuador": [
@@ -1525,7 +1543,7 @@
     },
     {
       "title": "Bolivia reduce su riesgo país y se sitúa por debajo de Ecuador y Argentina",
-      "source": "La Patria 3.0",
+      "source": "lapatria.bo",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVy1zUGRuaV9USEJzY1kxZmVBNkVLMzZPR0lmaHRiMkFXLUxka3ZQYkVwWWZxUi1Gc3hlUGtKbzRpRTdiQUFJSUo4Z0FjVlhTTlhNVFE5QjNEN2g3QzJ2LXFqU0llR0V6bDY4MDdBbGFESUlPNW9CNk43RU9uQlJENmdSMWxMTFVUMVZmdzhHVUc?oc=5",
       "ts": 1786752593000,
       "sentiment": 0.0,
@@ -1570,7 +1588,7 @@
     },
     {
       "title": "Ecuador: Más empresas miran al mercado de valores para financiar su crecimiento",
-      "source": "vistazo.com",
+      "source": "Vistazo",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNnBtc1g0ZU5oSEtWSkh6eHNIOTNnMHVIZmVVUU9DcGJOemQ3LUtLc2JrT1FvWExTTGlxQ1ZCeE1vaHFhMHZUNGJHUGJUWFE4MzdNcHVVU2dNNzVhamt2MHR0OWV2aDlNU2lSOW9COHQ3UDNrUHJWdjU1a0NCX2s3azR1ZlNuNWU2U3JiRHlOc2wwNXhlUDYzNDBaaUtybmlrTmhCWEFsQi1YTjVSaVdiYUhXOGc4ejVCRE5BSDdQMnNuQdIBxwFBVV95cUxNSFlfclQ5cGFVYTBEX1B5Y1FJelVCaTFselpRNm5KQkM3U3RBa2ZTNVViZ2dheUhQS2hxZy1HOE9PbVJnbkg2UEZWbmJ6UDg2UC1jRjEtWFZtcE9OU2V1TDZGUWYzMzl0Y0VLRVJldndNWi1jaUZkMmZCd1ZKbmkxdERnSUdNbEMzRnlxMzNJSFF1d3R2bXJROWg3b1Q5Y0RyWWZSVkZfNnU4R3djUTR6TXFWcTk5R1F6eUdZaGIxa0JNU0t4VVNV?oc=5",
       "ts": 1786470828000,
       "sentiment": 0.0,
@@ -1610,7 +1628,7 @@
     },
     {
       "title": "Camarón, banano y cacao ecuatorianos seducen al mercado japonés: un acuerdo económico está en camino",
-      "source": "vistazo.com",
+      "source": "Vistazo",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM29MVGNFempSMURlaHFKT05xTVloU0xSWDJReGVPTE1hNDU2aEs2Y01FLXh5Qld5NGVVYnVnU1lWY0p3QXh2SFplMVNidWJOVXRjU3prMndVM1dZcFJGdlY1OTdzM0hnaDZRcS1aTUIwdTk5NTd6eHZoeHkxbVVobWxFOGNRRTVtWmlnNThKUmc4REpiQ2VLT2ctWURkOHZkX1E3SDlONGI4Z2ZBa1lyUzZzRWxwcHRKMXd3ci1wWmxxSldkc3JjbldUY0fSAdIBQVVfeXFMTmd4SW50YmY2UzY2V1F5VkxDN21TZ1dnV2ZvRXZEY05ELWN1WFBuWUMySWhHSVM5SEFVdVpyZF9KTVQxRS0yV2szSnlzNEdIdzJMUkNEa2tIUF9qR3JTRmhqV09Yb0ZvWVY0T3VKc0MxVUEwbzF5THcxVi03VG5VdEp4MkhHVURQVFMyTEJXeEplTW9reUlfSHdPamdZZDdUU1RIdzZ6d3JoM1FTSERBOW1DNm1HQWRvZVpfUlBKdDFwdHJDSVFjUFByUnZNZkxqNlFn?oc=5",
       "ts": 1785999600000,
       "sentiment": 0.5,

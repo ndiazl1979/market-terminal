@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T22:20:07.891086+00:00",
+  "updated": "2026-08-17T22:45:04.768316+00:00",
   "categories": [
     {
       "key": "tech",
@@ -79,7 +79,7 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             }
           ],
@@ -171,6 +171,44 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "¿Alerta de burbuja? El BCE advierte caída en las acciones de Inteligencia Artificial",
+          "source": "Imagen Radio",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSUpsRGcxeHAwYUlyS1FKVkRaNjlrV2RKdXF5NkZPLTdyUlE3bGo2MWhDTzdaSllmZVcyYkY1TllySHo5VkJWWGdJSzBRUThpRXpJLVZLeFBqLVJiLVpDX2NkNXkyYmZ2THRqOXZ0eE1XNHkxVkZhOGRjeVZqdm02cDI2b3FXSV8wZFdrM3JrakhPYURDZVRDaUtkXzNzM2lOQllseGROeGp0Z9IBrwFBVV95cUxNOUNoN0dWdnF3anFFNVY2aDl3VmpkdW1zSXlER0N3SGlRVGRhYlRNUmg1eWNLZjZGV1hTQWRKWGdTN2FNR2p4dk9CQWVmVTVFa1lUd1BKQXBJeENENGwwNTN0WUN6ZHNMT2Qxa2E3R3dwbUJlQkVsSmdid0pwd1l4T2RSR25wdTdSaXFRNmZtSXFxeU84VVBwY3dzVzZiVTdyR2haR242bGlqQm5HQjhn?oc=5",
+          "ts": 1787003909000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": -2.0,
+              "dir": -1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Nvidia apuesta $105,000 millones por centro de datos de OpenAI con capacidad de hasta 8 gigavatios",
+          "source": "es-us.finanzas.yahoo.com",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaHRTSDA4dEdZaDRsM3ZwZlVLRXhNTEUzNGlWZEJqM2FNc1c2M3U2SndoVERHS2FtZm9OWWVJcE5Sa3VWNTFzczFCWGo3RF9ILTZUQko1TmxERUVQY25hSHJxa2RQZmItYkw1c01YazYzV1U1SGdYUlRvVEk4M3l0dVZqRm8yY2o3VjE5VkZadjZPdw?oc=5",
+          "ts": 1787002708000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "La IA ya no es solo un juego de chips: Nvidia y Palantir ¿los líderes del mercado?",
           "source": "Investing.com México",
@@ -319,44 +357,6 @@
               "name": "ETF Semiconductores",
               "pct": -1.7,
               "dir": -1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Nvidia invertirá $1,500 millones en SB Energy para un campus de IA en Ohio que dará servicio a OpenAI",
-          "source": "Revista ADVFN",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUm1STEpkTjVJQXc2ODBJUXJhVTFWVzhwNDJ3OW1hckI2WER3RmdpcEczbFI2T1pKR1NLSlQ1b1dpci1BZjFlakJUVXZDT0t1Z3VEQVFSOUVVYjJITTlXSm0wYkRvUW9BZWpNazFvZXhLMWFadm9pNkQwTk1neVRSaF81VUNCQ19TcF9xbkFKMGpEd3F2MlRaeDFoUUlIYW9ickNIOVA5Mk90NGJocGpiVGY3UlpGUHFwRjNDMXJ4a05QM21mWHRlN2EwS01aXzJmd3N5bjFjVFJZQUc3d20weC1uaG9IbGpF?oc=5",
-          "ts": 1786976353000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Nvidia apoyaría centro de datos de OpenAI por 100.000 millones en Ohio",
-          "source": "Investing.com España",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaDBucTE5eXctSGQwTGJQSjBVRFFHQ0RFMFItVlBzSTEyVXVFTTNJLWdTU2pVLXQxdnV4QVZoM0Y1dWNhenNHMTJubzhLN202N2k4MWdYNEc1T0FGLVpoNU1GUkoxOU5OYlJJcXBqc250SEJxNl9SUVhJLVJtaTFpN0N5OGp1bmp6ZktDYUFGWHBrdmtyLUN6aVJqSTQzNjNNTnZPSVpKM1JqaW93aXpuRDhaZzBkanUxbmVtakNIS2liYkk?oc=5",
-          "ts": 1786975620000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
-              "dir": 1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.8,
-              "dir": 1
             }
           ],
           "category": "semis"
@@ -1393,7 +1393,7 @@
       "sym": "NVDA",
       "name": "NVIDIA",
       "net": 12.0,
-      "n": 10
+      "n": 9
     },
     {
       "sym": "ITA",
@@ -1408,12 +1408,6 @@
       "n": 24
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 4.5,
-      "n": 8
-    },
-    {
       "sym": "QQQ",
       "name": "Nasdaq 100",
       "net": 3.3,
@@ -1424,6 +1418,12 @@
       "name": "Amazon",
       "net": 3.0,
       "n": 3
+    },
+    {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 2.7,
+      "n": 9
     },
     {
       "sym": "TSLA",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T19:07:46.110379+00:00",
+  "updated": "2026-08-17T19:37:17.795512+00:00",
   "categories": [
     {
       "key": "tech",
@@ -184,10 +184,26 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "Stripe acuerda la compra de la firma de inteligencia artificial OpenRouter por 7.000 millones USD",
+          "source": "MarketScreener España",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZHNUUmhQRWFGV3Q3Vl9oV1didThRUEV1TmJEUjctNjFUY0VKVDhEYnFGb25SZEtxZ2pacDVyZmFPQTEwdHdLdEZtUGFBRUc3TGhCc05pNGF6b2wzbDJ6aUdlYkZUOU05NmtRa2o0cGpJUDhFYklORVRuODdPVVJxVE5LUnZaR0RQV19sTFZRdWo5VWtHck1CMEZ3c1dxNHNXZms1VUNxUDNoQXdOcmFqcUR6Zno4V00td3p2ZUFqQ0dKUGdMeElpUnhOOHFPd1pjcGt4MjVPUGRHSnJ1RTBJdkNIX1BSUGtI?oc=5",
+          "ts": 1786994325000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "¿Una burbuja de USD $500.000 millones? Jeff Gundlach cuestiona la gran apuesta de Nvidia por financiar chips IA",
           "source": "DiarioBitcoin",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ2ZJZFpqN3VyR19XUnRpS1k0Sng4MkdaZERCQkJ5bWVZYXVaYmdqOVJuaEVGaDVvQ19GcHV5Z3NsYXFsWkROenpENGZQZGx4Ny1TdF91al9kVHRjR0k4c3RQV1h1SlFLVlc3QnhjVTRHaU5iMFNqcFhsVTdpczg3b05US1hYY1JyNVVwaFBRczBLR0VDaFNzc1VoX3FVaV9fSzJCaFhLSzA0dXpJME81MzhzWTVSRWNCSl9OVC1LdUswV0tlSTRfeDJmb3NjSTZuanNaV3V2RzEzUQ?oc=5",
-          "ts": 1786993309000,
+          "ts": 1786993336000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -229,7 +245,7 @@
         },
         {
           "title": "Nvidia invertirá hasta US$105.000 millones en centro de datos para OpenAI",
-          "source": "Yahoo Finanzas",
+          "source": "es-us.finanzas.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNm9BU3hSMWlTZ1NaOGJmdUZ3Z09jTUYzRW52MFpGZm9hNzNqS18wYmhLemlVM244V2NrZU14N3Y5MWF6Zlk3NTcwWmY5eGwxbUFCQnNwOVNTOHZFc0J5djEweTRJV2xzTGtvREdlRkNwWWtpWWdHdjZJaXl5NVF0eVVOTmRxZDhYSTZiME9EOGNBb0U?oc=5",
           "ts": 1786978832000,
           "sentiment": 0.0,
@@ -283,7 +299,7 @@
         },
         {
           "title": "Nvidia invertirá $1,500 millones en SB Energy para un campus de IA en Ohio que dará servicio a OpenAI",
-          "source": "Yahoo Finanzas",
+          "source": "es-us.finanzas.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYkJWOEozMWNGT2pkdWNYNmR5T3JFbU9xc0N4WjdxU3dxYTN1R1ZrbjlSdlp5czcyZEVzdHVvYnh3LXRsWFFrSndaTGwwRU9jQzlCYl81MnF0TXdXVl9jRGVsSXhzV2xVRUQ5Ql90SDZCM3JSSGZ3dXpmcnVZVl9PeUVWRXMyQ0RTcy00OFRTaEkyc3JVZEpxeQ?oc=5",
           "ts": 1786976091000,
           "sentiment": 0.0,
@@ -321,7 +337,7 @@
         },
         {
           "title": "Gasto en IA da frutos: S&P 500 apunta a 8.000",
-          "source": "ecosistemastartup.com",
+          "source": "El Ecosistema Startup",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fZXd3Xzczb0h5NzNKV3U2R19YcXJzdWZIb1NEVktKbXZteEpNV1haUE1xZ2dvNzBRLTZPMERBRzFNVlU4akxvNnRuck5fTHRZdDN2R19DTE9sU01WZVFncXp0eXZFMmJfeXZ0VjFWd0ZEY0hRdUl5X0tpOXU5TWs?oc=5",
           "ts": 1786972907000,
           "sentiment": 0.0,
@@ -329,7 +345,7 @@
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.7,
+              "pct": 0.6,
               "dir": 1
             }
           ],
@@ -346,22 +362,6 @@
               "sym": "GOOGL",
               "name": "Alphabet",
               "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Limusa incorpora un asistente con inteligencia artificial en WhatsApp aumentando la eficiencia en la atención al ciudadano",
-          "source": "Ayuntamiento de Lorca",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02MlVXa1NqQTVJMzdQYkdJVkJYdVptcDFWOW5kc2lRelFtc1dLbDRBZTluazdiSTV6VVhERUVvMlg3TXl3MXlPTFNoLVUtaU0yclFKY19xQU9RZnNoWXZIOTdn?oc=5",
-          "ts": 1786963061000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 1.0,
               "dir": 1
             }
           ],
@@ -391,7 +391,7 @@
         },
         {
           "title": "El gasto disparado en IA de SpaceX diluye su crecimiento y hunde en Bolsa a la empresa de Elon Musk",
-          "source": "cincodias.elpais.com",
+          "source": "Cinco Días",
           "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeUhsc2I0YlA4WVJmMGNGa0RvWWNaSjBrZndyOEFpRGwzYXpBVDE3U2k2UGhmWW55NlNQOHB2YUlYZEdpWC1RU1BRSE5seWNTSFotU0x2OFFESGl5a3FaWktWeHR3aVk4UUlhTkN1bUNkNzNKb05OT3I2bERGckN0OXJ1M2Vaa19ZWDQ1MnNNOW0yc0ZTMGQ1NnpBMkxKWlFyZGxrQmRmOTlWWkQzQzZSemlHU0ZMVC1raWRjbXVGUHBsbGJwckFOTjUycXN5M2h2Zk5kQVg2WmZZRXBaUmtnUVJCejJkd3g0R2NCbEVlYmlnbHhSVkZiWGNBUXR6QdIBkgJBVV95cUxPTlA5ZVZRQU9IN1M0SjFXZHFINFBpbHEyZnMtc1ZtTDZjMjRMU29TY0kzOEJaOGFCZk5vYm5Cc29BNlJzaWMxUlgzQ3FYdzBfM3l1b0lYOFN6ZVRPQ0ZpeElDRTg2UXdXaWhNbm5HVk1CT2Z6eHFZZVdPZFgwVjJBNDN1V1FVM3F6ZkhFWHVUdkhFUHl1MmNKYWt3bEY2T1JIWTBvV1JtVGVOeU9KQUJRZUstaHFURkpid0Z1cXdsMlFGRVV2UE5FaE5QX3N0STJ3SGxTNnFtTHdMM2FGS21uTEJvbE1kM0diNjlucVFoTHZiU0FsLXlVeC1xMjVQcGwwM1Z0REJnbTR1SFdOSFpxTXB3?oc=5",
           "ts": 1785913200000,
           "sentiment": -0.5,
@@ -487,7 +487,7 @@
         },
         {
           "title": "SpaceX entra hoy en el Nasdaq 100 y obliga a comprar a fondos con un patrimonio de 700.000 millones",
-          "source": "cincodias.elpais.com",
+          "source": "Cinco Días",
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOU0tLaGpOdzA5TW5iRjZaak9xMUFhQ3RDVmdJM054akV6SWRqN0VHU2JXZXgyVWtxSVAwakhicDlHQlBhZjE2cjlzNTRFd0xtd3pFdXBkUXlsaFBaYno1VzhQeGl6V0dGN3dVM25jeTNpMGRXcVdVWmctSG1wSERJTmFGSF85dVhSZXY3d29uMElBQTEwX19uNmI5N09LOVl2cUI5aHlNTUxwZzVwdE1nSWpjWjZORjBwYXRiRk9wellIcGFHY00xZEZnbV9SSjBSS0tWNkREaDNSdTYxZlZHcGJMbnlyQnlrVk82TmMwUV9IdUU3NUJZ0gGLAkFVX3lxTE1SVG53czBiSGZpa1VfMS1qcnkwZWxhQWhFVlg5OVZVZUtKc1BOVGJRRlYtdmdHdi1OTG5MTlZwaDgyVXJDbGpkZ1BQR1UtWndsX2d4WUppY3o3WGRtak1WdzJHRy1nSERJSDMtMTcxdDFtYjJBOVBFbzk1eEhLUXAwbThuM2w3amhMV09RdXZrZkozbmdUUzBIOEg2dnA5em8wV2JUWVpfUGU4UmFfUWp6UVZJZGJMWnd5ZkxVNmRRZHgwazRjSk9ralRlaFFucGs3UjI4b3VzOVdSVlZLUmFvMUE5UXJuZTg4SnQ2UTNQdFc4WkJzTmV3RU9idU1KQzUzeHcxdmV2VmxoZw?oc=5",
           "ts": 1783321200000,
           "sentiment": 0.0,
@@ -969,7 +969,7 @@
         },
         {
           "title": "El Ibex registra su peor semana en dos meses mientras la IA mantiene el impulso de Wall Street",
-          "source": "cincodias.elpais.com",
+          "source": "Cinco Días",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeHVkQ2FGZWpOeVZFbUNIUWNVWlFKanRVNG0xejF5cFRIUFo1cFVkX1UzVHhnaVB2UUNOLUhkMjlDYkVsbHFHU3gzUTlYcm9rVVRMbzMwRFVSZUhvRGFaVFpPdjFWV3dfNjNKOVFlZXdrMXhoY29OZW1rd1NTWjl2S01vM3VORS14REYwNWRKdkLSAaQBQVVfeXFMTWZPOGxGWmZ0NHVJZ1pvQkEzSWZSTWd4RmF0OXo5dmFacmhNMks0WXI5VTZhUHBFeWd1SW1VS09KU2RmcmV6QmN2LW1nQTl3RjJjOUwwXy1zcncxRm1HZVlHV3U4MTlLZEhWektCRFZXOUw4R1hvb3g3aXo5Uk81OXJnUERYbnU5RG54amE5RGN4OGVvQ0RNb3ZsU29YTW40LWk5THA?oc=5",
           "ts": 1783666800000,
           "sentiment": 0.0,
@@ -985,7 +985,7 @@
         },
         {
           "title": "La Bolsa cede ante el cóctel de guerra, inflación y ajuste tecnológico",
-          "source": "cincodias.elpais.com",
+          "source": "Cinco Días",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFdPMVR0UGdRRVRXTUc2RVMzbm5MZU9yMWpxY2FGVU9ncTluWU9mbDFyYlhGdjFMLXpUX2VIU1lPaTRxMWlVNmt6MWU5Q2JJaDlhVm5LZmpyWTlDWkZZY2RMWDBxeHR1WXlYNUt4SEQ5YXNtM2tUX3JLN0ZnOTRZTlFldHg4Z1VNZ2FMNVBEcjTSAaQBQVVfeXFMT0c1TzRQNEVWYWdWaDJpU0ZFTGJYd2NTdUNubFdqaTlSVVdnU0Z6ZXV6TllsSUhfc1JtUnFycHRKNUNyUXpmY2s5bnlTZHZLcGY0Q2l1R1VuZlVFNXlGQzcycjRDN1ZlTlVRbXVuZ3hnNDMxel84Y0I0dWhkS29kY0RPWWVRcnlXUzY1RWlmcTA3bll6enJfckxoMURnNm9EdHFCNWE?oc=5",
           "ts": 1781074800000,
           "sentiment": -0.67,
@@ -1013,7 +1013,7 @@
         },
         {
           "title": "La Bolsa respira por el desplome del petróleo ante la expectativa del fin de la guerra en Irán",
-          "source": "cincodias.elpais.com",
+          "source": "Cinco Días",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSkd1eTl4TmZuQ3gxZDd0cEx1d2QwZC1SWjNlUjR2WjdJQkhrclhBVGh0NnUtemZ4bDBxTTd4VXQ3QTR4OWU0a2R3Yl9EbXQ4aHhSaWEtRThkVlpMeGpsWFY2VV84ZHJBblRlZ3RYU19UNG10SVFVWXNhWHZoQ2hWZUNPUUdQdWF4M1ltalNURUnSAaQBQVVfeXFMT1ZOdm9GSmJnSzV1MjlFSXdEUkY0OUtLNmxJdzdMQ3pYZ19lQkpsWFRuaVJiMkozbHFKeXhjUU11c3prWDZ4a0NYMmxpT3N2czlleDk1YmxLRVV6OVRiMUc4MXYwbGZKNnI2d1RReHdMcG9PQm1LMlh4ZFVTa1R6SlVZVzZBaWF2ZXlOa3BRcW9sU2VTOEhLU3VoMmYwMENCMjFOdWI?oc=5",
           "ts": 1780038000000,
           "sentiment": -0.67,
@@ -1119,7 +1119,7 @@
         },
         {
           "title": "La Bolsa se olvida de la guerra y empieza mayo desligada del precio del petróleo",
-          "source": "cincodias.elpais.com",
+          "source": "Cinco Días",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd3RHbkpjaTBENEd5S0FlSjVHaFVBbW5TTW9jRmV2bmkycUhaN0p3MThWZVdpOTlPTEJ6QjNCV3E5dTJpSklERURxWWtyS3V5UzdhQi1GRXFiX1AxcDg4MUk4R3hld2lTM1pqOG1xR1poMGpyUXVlU3RxTl93OHp6VF9kemRMV2RlMUFWeW1BVkwxNDZuWFd3Wk9jcTB3ZjVoQ09ZZ0hfcHJ4QWZqZmFJS1FMVTFQcldOTHpLTEZWWWhfVEVIeVI5NzI0Wk1RdURxQmNLRVhxRkZMSjBHeFZB0gHzAUFVX3lxTFB3YTQxeUlLWlNSaTJ3RW1nS2FtT1BncF9KcWZXeHFkWXd5S3JQYnMtNWNfSTN2VVR6b20tNFl5cG4zdmQxQjBSWVptcUhPRjcwWnR2c3Vhd0hlYnljQmsxWngwR3ZFbUZZcV90ZWQtT3NjTVdfV0t5VERjby1FTzN1cXN4NWFjcjlmTmt4a01kcnVyVVBweUtxbER4OENEMTFDUUNkbUkxZGloNkVKcVFsMVJkdVRUVGxMWjh2MG9XdjhCRE9ZcDctMkxLTGlxVlpPSkllTE8yMjdzOEFVQmstN0pmS1JGQWJxbUNmMjVKOTNUcw?oc=5",
           "ts": 1777532400000,
           "sentiment": -0.5,
@@ -1420,16 +1420,16 @@
       "n": 24
     },
     {
-      "sym": "QQQ",
-      "name": "Nasdaq 100",
-      "net": 4.3,
-      "n": 20
-    },
-    {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 3.6,
-      "n": 7
+      "net": 4.6,
+      "n": 8
+    },
+    {
+      "sym": "QQQ",
+      "name": "Nasdaq 100",
+      "net": 4.2,
+      "n": 20
     },
     {
       "sym": "ASTS",
@@ -1468,6 +1468,12 @@
       "n": 1
     },
     {
+      "sym": "META",
+      "name": "Meta",
+      "net": -0.8,
+      "n": 2
+    },
+    {
       "sym": "SPY",
       "name": "S&P 500",
       "net": 0.6,
@@ -1478,12 +1484,6 @@
       "name": "Microsoft",
       "net": 0.4,
       "n": 1
-    },
-    {
-      "sym": "META",
-      "name": "Meta",
-      "net": 0.2,
-      "n": 3
     }
   ],
   "ecuador": [

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T21:38:06.991169+00:00",
+  "updated": "2026-08-17T21:56:37.585051+00:00",
   "categories": [
     {
       "key": "tech",
@@ -400,6 +400,22 @@
           "category": "space"
         },
         {
+          "title": "SpaceX se derrumbó en Wall Street ante la preocupación que genera su gasto en IA",
+          "source": "La Tercera",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPczNHVFVFSDh3bVYtcmJLNHduYm9fTFdjSmZwQnJteGhvUDNvNGxjTkI1UEtsX3pIdFFZTVRCY1ctUkxrVkJfMUExMkxjUFN2VUduLXdMS2JSREE3NU9fREh3ZFNmaE9YaFhCbTJ3RktVQmdERDB3MUZib2Fjb1ZXcW1jN1ppRS1TcnBON3NLQ0g1LWNQVUZMUm4wTVBjMmFrQlA3TVRBUERBekR1WW1iZlQwb080d9IB1wFBVV95cUxNTjRldnhJQktUMkpsVUc4UnhHR3o4T1VjT2xqTUFuUDVGNWY2VUtYTHhqbUFENlQ2VmtJQmxuNXBNeVpIaFlhR3M5enlCRkV4a0pSdkhfODRyQ3A5OVJfV2FEdU9jRFZRNW0yS3RRUFEwZUNaUXhIa1VDYkljM0QxWFhZTlNNWTg4NVh6VnlqRjNYUXR3UDhSamp5VUQ5MDFmLTRlM3ZPUUJKc0lyWU9hVUtDM3hDNnJGeVg1d1kyVEtPTUpfLVlpTkNWUk1VdlR0R2k1LTAwQQ?oc=5",
+          "ts": 1785913200000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "space"
+        },
+        {
           "title": "Cuál es el patrimonio real de Elon Musk: estas son todas sus empresas",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSVR6c3RkT2VvaFE5RXhwNHpaT3pZV3EwSng0c1ZxU3BlSWhJekhRT1J5NlhtcmY4Z2FvSzhvZU1xZFpPcllfLXhHMmw3TFlsSklSUk4yV3BqRUNackItbGw0WTZ5OGQySml1SkppZVN0aEZkeGV2emVnZ3NPUnJqcmlaUy1wdXM4ZjU4TWFTeThLcTZKaTBIZFF3MkFCeFA4TmI3aVpsaGg4WTlobmZB0gHKAUFVX3lxTE5NS21IbzA0QjRQWjZrMmVKckJkSUY3Wm9NWmpsbVJQTUxqVGNZY3hRVlBKWC1YVUNqbndnVi1oUEtWSm0yeEZfR2NzSE1JT3lsdThJN2Y2R3ZtZHRpakx2YmFzbjVUU2NqaTJMdXZIV2NnUUREdG5UN1VLdEd5Y2dlNzJjUlNUbDg5U3pWV1FQUG44ZS0yXzNNUTh5aDU3UldYOUE3cDY3WUhHZFFZcks0cWVndXk1bXhfaEhDVWxkRGpEYkFmY05DN0E?oc=5",
@@ -507,22 +523,6 @@
               "name": "Nasdaq 100",
               "pct": -0.7,
               "dir": -1
-            }
-          ],
-          "category": "space"
-        },
-        {
-          "title": "La primera semana de SpaceX, dirigida por Elon Musk, como empresa que cotiza en bolsa desata el frenesí en los mercados",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BOVU4eWc0MVZrc0l5OTZDY1c1cUJ4c3gwZzZzNE14cEpIdjJyVGpFbTVKY3oyNE9oUWNkdXlMTTVuNFpobEtaS2s5MURmMm9YYVVLVmpYNGJsVk5Mc29ZLWNIQzhqQjU2QW9pNTJnSjNPSlBMVmpB?oc=5",
-          "ts": 1782111600000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSLA",
-              "name": "Tesla",
-              "pct": 1.0,
-              "dir": 1
             }
           ],
           "category": "space"
@@ -1416,8 +1416,8 @@
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 3.3,
-      "n": 16
+      "net": 3.7,
+      "n": 17
     },
     {
       "sym": "AMZN",
@@ -1426,16 +1426,16 @@
       "n": 3
     },
     {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": 2.5,
-      "n": 5
-    },
-    {
       "sym": "ASTS",
       "name": "AST SpaceMobile",
       "net": 2.1,
       "n": 1
+    },
+    {
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": 1.5,
+      "n": 4
     },
     {
       "sym": "INTC",

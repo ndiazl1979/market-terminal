@@ -1,10 +1,26 @@
 {
-  "updated": "2026-08-18T02:42:08.635925+00:00",
+  "updated": "2026-08-18T03:27:20.710608+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Las acciones de Nvidia se mantienen estables mientras la garantía de 105.000 millones de OpenAI equivale a dos trimestres de flujo de caja",
+          "source": "TechStock²",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObmg1M2E0RVFneHdyYWhkUjJTMVZ4Y3pWc1BzTEdwaWtnZmRJdUFMeHVXSlNPNzRTa2RmcDRUcmt5OHlJQWNvQy14RWhJMVdJXzhBaXFzcEF5OE9vZ3pHbTZrM0szamo4NGp6c0Z2WmJLeWpXTkttQ0ZZN3V3ZDlqX0MtdkVzeW14VWwxd2l0b2NjUF9BdElBNWpGN3FLVHozUGYtTlNZU3IzblI0aWJiQWdfTzhFLWtDbXJNSWFUb1kxZ0VRVjR2S0JkdlBsRFh5Z0FDSncxX3B5cE9keFhhdzFrOG5pWlp5d01LYl9aSkg?oc=5",
+          "ts": 1787021789000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "ARK de Cathie Wood vende acciones de Roblox y compra Nvidia",
           "source": "Investing.com España",
@@ -103,7 +119,7 @@
         },
         {
           "title": "NVIDIA Stock Is Up 19% This Year. Its Biggest Overhang Just Got Smaller.",
-          "source": "TIKR.com",
+          "source": "tikr.com",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY01rTVB1ZDdVZUpFbTcxbnJMTG80bWhpQTYyLW9NTEVMS0hpOGxYMnFCLXd6MC1OS2pYQXlvQTg2WXo0YUpBSTU1ZlZIUDNpaEc1ZDhGVVBXQjBnR0JfcjVuZ3dpbHU5V1Z2azY1a0VNME9oQ0t2YjlZeGg3VC1fN3h4TENyTjl1VjlNRFJlNXFtWjZ1WWtrVmxTX0FHSVhJ?oc=5",
           "ts": 1786958463000,
           "sentiment": 0.0,
@@ -148,22 +164,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "NVIDIA adquiere acciones de SpaceX por un valor aproximado de 21.000 millones de dólares.",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSMEp0YVlaT0I4cXJGdmxEVWptdjIzQXJ2a2hRdmxaOHRnbThqVzh1LTR1bEw1cmtEQjVmMHI2cUFHR1huU2QycDFOVFdqaHZFZWlqUF9reFluQkwzVDRpaUFqczVvQjg3dFVmbTRJSjIxRXlES1kzckM1bklSUQ?oc=5",
-          "ts": 1786774996000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -171,6 +171,40 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Taiwán propone entregar US$314 a cada persona por auge económico de la inteligencia artificial",
+          "source": "Prensa Libre",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRUljVjB1SzVzaktmQk8yeDNKaXo1UmFUMGZzclZ4T0prN3VNVGM5RkFsLWp5akpseTl0T0taN0prRmlnUzFBQUhMWDVtelBDdGxEdGRXa0g1MU5vTWJ2Ynl3RlI5LWhoREV6Z2VZZnpZR2Z0YWRpeEdlSEpqTnVELVNBSHpqOTlZanlOamlTeEwtUmRNQ0w1VGxTREZjRVFIVXZaZzIzV2xCekpXSUlPNnBjOEZCNGE3QVdiWWdQSldUNXQ1UnhQckRaYzRLYTFRZGw2bkRSWUlDUQ?oc=5",
+          "ts": 1787021319000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -1.2,
+              "dir": -1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": -0.8,
+              "dir": -1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 0.5,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "¿Una burbuja de USD $500.000 millones? Jeff Gundlach cuestiona la gran apuesta de Nvidia por financiar chips IA",
           "source": "DiarioBitcoin",
@@ -248,22 +282,16 @@
           "category": "semis"
         },
         {
-          "title": "La IA ya no es solo un juego de chips: Nvidia y Palantir ¿los líderes del mercado?",
+          "title": "La IA no es solo un juego de chips: quiénes son los verdaderos líderes del mercado",
           "source": "Investing.com México",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWWdRTkE2NEhhejVTTFZYZjI0SlVzUmxXSUdHUkp1V3VWZmlKZWJXMnR0UURVRUpfWXhuVnNReW84NFQteVQ5SjlreVZnWU9UN2tiUFBNVzkyT0ZGaDFvNFFHZ2MwR0FOYjFXLUgzWklTajdpNnUxZWpqaUU2c2lzWXlkNWY4YXFWYU42aWJDV1Q2SEdTWFFoUnZjLWNyTXhsQllySkxnX0U5RDBiSGFEWEltMjlWUmFCSXktVzlLMHlpaU90dElNb1IzM2g5TnAw?oc=5",
-          "ts": 1786999663000,
+          "ts": 1786999835000,
           "sentiment": 0.0,
           "tickers": [
             {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            },
-            {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -302,48 +330,26 @@
           "category": "semis"
         },
         {
-          "title": "Nvidia invertirá hasta US$105.000 millones en centro de datos para OpenAI",
-          "source": "Yahoo Finanzas",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNm9BU3hSMWlTZ1NaOGJmdUZ3Z09jTUYzRW52MFpGZm9hNzNqS18wYmhLemlVM244V2NrZU14N3Y5MWF6Zlk3NTcwWmY5eGwxbUFCQnNwOVNTOHZFc0J5djEweTRJV2xzTGtvREdlRkNwWWtpWWdHdjZJaXl5NVF0eVVOTmRxZDhYSTZiME9EOGNBb0U?oc=5",
-          "ts": 1786978832000,
-          "sentiment": 0.0,
+          "title": "Las acciones de Nvidia rozan su máximo histórico: ¿qué ocurre hoy con la favorita de la IA?",
+          "source": "TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WWW03N3lmR1E5S25HNlNzUXZOelFQSm9zbFRSUS1ybDVuVVlaNXVyUDhhZFFZOWNsTGJzQnNtcXQwNEVKRHJvUUtKQmRZUEpEYU1BX0RVSjhFdDFHRFQ4eGQzenppUQ?oc=5",
+          "ts": 1786980405000,
+          "sentiment": 0.5,
           "tickers": [
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.5,
-              "dir": 1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.8,
+              "pct": 3.1,
               "dir": 1
             }
           ],
           "category": "semis"
         },
         {
-          "title": "El que fuera el hombre más rico del mundo perdió 100.000 millones de dólares debido a la ola de la inteligencia artificial.",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR3VYWGdFVF96WjNSSkF6RkNCSDNmMXhpRktoMDNjUXNqdE5ZQTNCb2QyZzZDVVNKOGxPZmJqOTluUmI3ZUZVSzJySkR2ZmJsWlVNczNPZnRjbV9hYkVMUHFLLURCVVhudjBsdUlCTklhN0xSdmhLOGg1alhGRF9uS0JyTEEwY2JqYm4wa05SMA?oc=5",
-          "ts": 1786978156000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": -1.7,
-              "dir": -1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Nvidia apoyaría centro de datos de OpenAI por 100.000 millones en Ohio",
-          "source": "Investing.com España",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaDBucTE5eXctSGQwTGJQSjBVRFFHQ0RFMFItVlBzSTEyVXVFTTNJLWdTU2pVLXQxdnV4QVZoM0Y1dWNhenNHMTJubzhLN202N2k4MWdYNEc1T0FGLVpoNU1GUkoxOU5OYlJJcXBqc250SEJxNl9SUVhJLVJtaTFpN0N5OGp1bmp6ZktDYUFGWHBrdmtyLUN6aVJqSTQzNjNNTnZPSVpKM1JqaW93aXpuRDhaZzBkanUxbmVtakNIS2liYkk?oc=5",
-          "ts": 1786975620000,
+          "title": "Nvidia invertirá hasta US$105.000 millones en centro de datos para OpenAI",
+          "source": "Yahoo Finanzas",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNm9BU3hSMWlTZ1NaOGJmdUZ3Z09jTUYzRW52MFpGZm9hNzNqS18wYmhLemlVM244V2NrZU14N3Y5MWF6Zlk3NTcwWmY5eGwxbUFCQnNwOVNTOHZFc0J5djEweTRJV2xzTGtvREdlRkNwWWtpWWdHdjZJaXl5NVF0eVVOTmRxZDhYSTZiME9EOGNBb0U?oc=5",
+          "ts": 1786978832000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -497,7 +503,7 @@
         },
         {
           "title": "Empresas tecnológicas pierden más de 1 billón de dólares en Bolsa de Nueva York",
-          "source": "El Economista",
+          "source": "eleconomista.com.mx",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcjVvSmxUQjczbUo0ZlpUdUZBQ205ajQ1NFZVQ3JmSHFRWVhFcGdLYjlKQ1lXM2FsbVlQLXhVb2hmelFUc3Rka3V2aVFyRnZjNFpWa3hGV3Y3NUhVcnpaTnV4QUg3MjAydVllazE1cGVsNFBJMkpDVno3VnJ4VnBWalVIVXlLYkduT0pTdFZBZnNpR0VnZ1puUlBQSEMtVFU1andVa0JTXzhQQzF6TzZSRGJpd05oNm1aUlpWLXdLTlJwZkXSAcgBQVVfeXFMT0ZzdjhpS2lsWHdDN1pMbEhnZzFGS0V4d3ZtblYzc0hjNE1idjNMbGszQ1RRWU5jM01BSzFVZGVranZNZVlQOWJsYmFCWUU5VnV0SUplcXROYjdaRkkxUGpMUmZ0UHJQZHJrdDdGWEluSEM1cEhDTGZMVmdPYklRQzU1aXY3d2ljYXA1SkxxVHM1d0cwMGVmM1Bfb1ljREN1dkgydGpGY2tfMDUwQXFHOEV3QWRvNmlMaDJQX2lZSVNzQ1BHWXJnLTI?oc=5",
           "ts": 1782111600000,
           "sentiment": -0.5,
@@ -585,7 +591,7 @@
         },
         {
           "title": "Burgos se prepara para fabricar armas y equipos militares",
-          "source": "diariodeburgos.es",
+          "source": "Diario de Burgos",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa1poY2lxcFNNT3VhZFE2SjI1N1BCYmZGR0hUQnRYc29KMWg4ZUx3eHA1dGhuQ0dMNERVOXZUejZkbmY1OGw3Z1NBVDRLOXlrUkhMSi1hSnpPcHh0dWk3ZFJwdDVSUUtwdGdpbTFsamdPZjlBMF9lNkt2Y3dubk13aUpCRkRTTGN2ZEFCdnRsT3JySGZ1aVhqTm5yNV96al9URGZaUmtLclNBOE8yVDBfQlZ0dEFaRlZlWlRDdFVwY29jSDJZa2JaNmtQNUlFa1dvSzloc1d3?oc=5",
           "ts": 1785999600000,
           "sentiment": 0.0,
@@ -1263,7 +1269,7 @@
         },
         {
           "title": "Wall Street cierra con signo mixto una jornada marcada por el dato de inflación",
-          "source": "Bolsamania",
+          "source": "bolsamania.com",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVWdSU25iakg0OEl2WXNtSmMzak83el9OeGRSTzN4OFRYNFZ1X3BvOHQ1ZUpVRGhuVlVxLTlXRFU1dkQtTHB3OVp1NmVlYm41bmcxZFNNUjdHSFhuVk92ZEZtSUNvczNxcElvd0ZhbWk2eDJ0RjJwdmRPNTFqZ29relMwamdSZXJyX3VBMjVqaEdvUG1hSjgxbWNqUmlIRWEyTTZzUWZBREIydFR2TWJBQVZ30gG3AUFVX3lxTE0xWk4zMHRsVmU1TXo0RmpZczYwMXB3TEl2akFJNHlVVjJqVFdiOHhLejlhenNxWllLckxIdGxkZk42T1RjMGliQWhGXzNiTExkckxiRWdyQUlkVllHanNkMmJpU3k2YVdPaUJMdC1nLTJLdEU5NnoyRFVQelZxWllWSXZkdG9QOHlDLTRkRXVIZjlLd0t2T2JQQzhRNnQ0YUk2U2xoOHB0WVVrZXRXaGxlWklwVW1fNA?oc=5",
           "ts": 1786531740000,
           "sentiment": 0.0,
@@ -1323,7 +1329,7 @@
         },
         {
           "title": "Wall Street cierra la semana en verde impulsado por el sector tecnológico y el mercado laboral de EU",
-          "source": "latinus.us",
+          "source": "LatinUS",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZGUyRHNlZTJxM3FZUm5jQmZ4S2ZoQVVjS1dZN3o1aGtiMlE3Um83OFgwOWZLZjlCLXNtTUhCQTRmcWxSMEE5ZVV6Y05uQjZiTTdpdlNJTFdkOWJETWR6VU1WTm9DSC1vbHY1c1NkRjkyYVRlN0FTY2otelUxMERsT2x0OVlneEp2UXF0d2N6dklSV2dXU1pZbVE3SUh0TGpxZlZWRmFLU29SeUI0elNvcURhNXh0eXBNUXdta0NsUzdHRi1fLVpjZkVEYjdqZ214MTFaaVNiS3hROFVPdGRNTtIB4AFBVV95cUxNZGUyRHNlZTJxM3FZUm5jQmZ4S2ZoQVVjS1dZN3o1aGtiMlE3Um83OFgwOWZLZjlCLXNtTUhCQTRmcWxSMEE5ZVV6Y05uQjZiTTdpdlNJTFdkOWJETWR6VU1WTm9DSC1vbHY1c1NkRjkyYVRlN0FTY2otelUxMERsT2x0OVlneEp2UXF0d2N6dklSV2dXU1pZbVE3SUh0TGpxZlZWRmFLU29SeUI0elNvcURhNXh0eXBNUXdta0NsUzdHRi1fLVpjZkVEYjdqZ214MTFaaVNiS3hROFVPdGRNTg?oc=5",
           "ts": 1786086000000,
           "sentiment": 0.0,
@@ -1377,19 +1383,25 @@
       "sym": "NVDA",
       "name": "NVIDIA",
       "net": 12.0,
-      "n": 12
+      "n": 11
     },
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 7.9,
-      "n": 18
+      "net": 7.1,
+      "n": 19
     },
     {
       "sym": "WTI",
       "name": "Petróleo WTI",
-      "net": -3.6,
-      "n": 24
+      "net": -4.8,
+      "n": 25
+    },
+    {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 4.2,
+      "n": 8
     },
     {
       "sym": "QQQ",
@@ -1404,16 +1416,16 @@
       "n": 5
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 2.5,
-      "n": 9
-    },
-    {
       "sym": "ASTS",
       "name": "AST SpaceMobile",
       "net": 2.1,
       "n": 1
+    },
+    {
+      "sym": "SPY",
+      "name": "S&P 500",
+      "net": 1.3,
+      "n": 19
     },
     {
       "sym": "META",
@@ -1426,12 +1438,6 @@
       "name": "Amazon",
       "net": 0.8,
       "n": 1
-    },
-    {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": 0.8,
-      "n": 18
     },
     {
       "sym": "GOOGL",
@@ -1540,7 +1546,7 @@
     },
     {
       "title": "El Gobierno resalta que Bolivia baja su riesgo país a 407 puntos y se mantiene por debajo de Argentina y Ecuador",
-      "source": "oxigeno.bo",
+      "source": "Oxígeno Digital",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUk9xbldzSTdtN3lvVUt3dGdPTkFzRWp2RlVLdVozcW9uTWVUNy1DZlMwVngzSG8zNzZPR296RkgxaGRKZk14T19PWWRJMnQyaTdLU0tNV3BTNHdNMnc5d2M4eXR4YVpNVEw4eWJEUnNQU0pZa0RwZjlmSGxhZ0FJMzJKRVIyUTR3eHZGdUZhdFNGbHhORzR1OXJSWEhhdWFqX2ZwcFh3WXpKTzNCVldwd0RObkhSeWMtblM1OXJLRWxQRmZERkZ6Vy1TWFU?oc=5",
       "ts": 1786751334000,
       "sentiment": -0.5,
@@ -1555,7 +1561,7 @@
     },
     {
       "title": "Ecuador produjo menos petróleo, pero recibió 15 % más por sus exportaciones en el primer semestre",
-      "source": "ElOriente.com.",
+      "source": "eloriente.com",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRnBjVjRDLUprMk82QmpHZkFOZHRZeEVDeG5NMURhdmFtSFFPUUJBMVBqZERzYndaNUxZWlZ3VXFJLWp6WXMtT2JHSi1NbnhSRVFwcTcwYXhXSGtzdTl2Y0VHanh4bDdQd0JGSFNabGtRX1hiaTNPck5UZWJQc3RlNjAza2ZYQVFLdFY3RkxWZWVDVW5VV1pZM3NaY3NjRWZQUVhRZmdKeVB2TWRHNGkxNWZ0RnVUTDMtN0U0SWxMelZBSEFIMmlDdjQzandZRFo3?oc=5",
       "ts": 1786557880000,
       "sentiment": 0.0,
@@ -1590,14 +1596,6 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSlhDUGFNM1BxamU4ZkJYNXdIdlhPTzB5NWRGQmR3ZzQ1RlVIRXYxZWliQ3RTWnF3a3dJR0lDRUFjdmxKTElnUERmSFBseUdyQzNMZVFLRE4wNWJ1RmlJYUxVejdNdW83U2hfY196Q1VjSFdwMXpsdW1BN2FrM29uYUJJY1VQVVhHRHhJMzBhZHhoT1pCRHprSnZBN1RSRUk?oc=5",
       "ts": 1786446300000,
       "sentiment": 0.5,
-      "tags": []
-    },
-    {
-      "title": "Serenza inició operaciones en mercado de la salud en Ecuador",
-      "source": "El Universo",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMFdoQUVsb2FHZV9TV0VuT3RBMzRQcUNmTXlOLVZDLXJNbXlURURrQzQyaS1RWkFCVnE3Q2xiTE5jRU80aGE0NkpYa3JxUElnQ0hpWnpGeGNUZkZWZTlVMDA1MWlTNlFWTmhFcE5xR21GdjlFbV8yQkRmeWM4MU40OERXczR4Z3BuZExjN080QUVHT2xGRzlZS0ZxUGlWVDF0aDlPV0V6M3cxSGVjR2d2UzZnTzE3ekt5VUhwStIB0AFBVV95cUxNV3k0S0g0NTlodnhCQ2t2VU1uc3ZvMUxCaUdlT3Nyd1BRTW0taUdtOHFUb1l2WWhUNTlMN004WncxdUU3ZVBYb0VyM29QcW5OZ2h6aXZGUTdwV3BnWl9PTzJKbDRnRENHaGZRUlNKX0ljVEwwbGRQUGJOUS0tSjQ1aG95MlRFdjgtTEFGVUdJWlNXd3dNaGVKNnJ4RUtualFfRDB1Wk51Q3FMZExZcDJiamJkRFE4Z2tTR3h2ZjBnSko3RDFRZkNHamw2aTZIOHAw?oc=5",
-      "ts": 1786086000000,
-      "sentiment": 0.0,
       "tags": []
     },
     {
@@ -1636,6 +1634,14 @@
           "dir": 1
         }
       ]
+    },
+    {
+      "title": "Arroceros de Ecuador esperan recuperarse en el mercado colombiano, tras ser desplazados por Estados Unidos",
+      "source": "Primicias",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV2ZNZHZ5dXBscWszQ1A3R1NlOEZ6SHF1dklsT0M2eDZ4YmYya1U3NTZWUGRqTk8xZXA4cjJrUmZMa2V5bHZRelMweENCSmdzZUNxTGtsY3JKSm5salNVMGR2MV9USXVMOTd0RUMtWVpVQmZOUTV5dzY5aFlwZTNEcWxaZERiWnk1ZEJqcG1wZWxJVUxBcl9MeEJIdTRwWFhVM2pHeWRpSzl3QQ?oc=5",
+      "ts": 1785567600000,
+      "sentiment": 0.0,
+      "tags": []
     }
   ]
 }

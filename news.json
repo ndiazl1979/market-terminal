@@ -1,10 +1,32 @@
 {
-  "updated": "2026-08-18T07:06:59.360945+00:00",
+  "updated": "2026-08-18T08:56:20.258553+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Cathie Wood compra acciones de Nvidia por unos 22,8 millones: vende AMD y Palantir",
+          "source": "Benzinga España",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcThReG5PVnZpVFd1VDFMOUdyWXVWbnVBQkctV2FPekM3VU5wclVTYlF5bm5SSG1fZ1Q4OWVtaHJVTzRxWDlvRmlPOU9USlQ2VTd0OGpwXzRDQWxtZDlNcHEwOTV1RUxTUm90YzY5NWpRWDVWOXRWODRlUVNMb2JEdjBNYTRrdmdVaFVBZ3B5NmF3Umg4VV93?oc=5",
+          "ts": 1787041390000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            },
+            {
+              "sym": "AMD",
+              "name": "AMD",
+              "pct": 1.7,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Las acciones de Nvidia se encaminan hacia su máximo histórico mientras Cathie Wood aumenta sustancialmente sus participaciones: ¿qué señales se ocultan detrás?",
           "source": "TradingKey",
@@ -55,7 +77,7 @@
         },
         {
           "title": "ARK de Cathie Wood vende acciones de Roblox y compra Nvidia",
-          "source": "es.investing.com",
+          "source": "Investing.com España",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSDhvSkxVMnEzSjg5Y3B5VlJQcnA3RGdPS2pmNjE4blVVZkh1bElRRmNoRjBNTXZKM1NXTWhVck1hTk5pYVRpNzMtb2g0UWhld2ItaGtoa1FoU0hoZWxtRl9pakVkM2ZyeTd5WGVrRERHVHlmaWJmRTJMeTFmUjhHMEtlT09wWEl4YTdGNldLLWp4N1EtaldNYmM2QkRDSkc5MzBrbG43OUFjeVliVEM1N2ZROXBmUQ?oc=5",
           "ts": 1787011680000,
           "sentiment": 0.0,
@@ -96,22 +118,6 @@
               "sym": "AMZN",
               "name": "Amazon",
               "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Mark Zuckerberg, CEO de Meta: “Donaremos el 99% de nuestras acciones para buscar la igualdad social”",
-          "source": "eju.tv",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcHNBZkNhT3dORWdLLU01UVg5M3FvYk9qU1ZjRkhWc2JrU2dtX0VibWV0YThBcHZiSTJhdG14clphU1BZcjQxVGdvY1dBRUp1clBFc0Y3VnZCWFNacEpBUDhteXhncm1NYWc4amoySzdQSTROZ1dKQkt2Wmdmd2Q4V1YybkNRellFR2VBTHNyY3RPV1A4ajV1VzhwcUhmVmVsWDJDdDdZVDJxbHl5N0Jval90WjlNQUVOQUlV?oc=5",
-          "ts": 1786990863000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 1.0,
               "dir": 1
             }
           ],
@@ -172,8 +178,40 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "Google acelera la carrera de la inteligencia artificial con lanzamientos masivos y precios a la baja",
+          "source": "Radio Popular de Bilbao",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbGd6M2RDTFFRbWVUZ1hNTlprbjI1a1F6YmtITzNfNV9iQ3Y0dUVJdFZGaWVPbWJiUkg5MWhTb1hEVThjdkF5TnFMWFpsVWdvZTM5OUF4VEo1bXItYTRnQmpIUEh3VWZWemJyb1J6Wkw1TjZXbzRUd2JhOFIyWmZ1Z09CZHZvLW1QcjB1UEpPZFBTTkd2aEJYRWVSM1ZQVUpTTVhyd3RId0tKZFZNamtLYUhzTENMeTQwX0gxNzJnY0prdzd6Q3RDWHJWYjFmUQ?oc=5",
+          "ts": 1787042439000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": -1.9,
+              "dir": -1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "AJ Bell ve en Nvidia una alerta sobre la posible burbuja de inteligencia artificial",
+          "source": "Benzinga España",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdVlZMV8zYkFyTGxNRW11a0pWN3RRajRBaVFBN2lzd0VyVVphTWhxZkUwQjR5eFcyc0xlUGctTmstSzJPSWpzTThSbTZNbFBkSzhLaFo5eTF5WkdFOUIwRWlwWW05dm5TZE9QSi1BTUl2RFE0di1fUENjQXlPV0hiVEFnZE4ydHdGTU1zWE5B?oc=5",
+          "ts": 1787041195000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Las mejores acciones de Inteligencia Artificial para invertir en Agosto de 2026",
-          "source": "es.investing.com",
+          "source": "Investing.com España",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTzE4QVVJdnhDbXA3M25DWDNVTW5QS2JMQWhPYWZsZXNIamFzY0NOM2dUVzNnRkpTN0FqNENfelVqZ1ZnQm10TEd5alBkX2xFbElPdFdMRHhBVUNvcVJ6WkdFY1Fsai04bDNNaVFXLURtRTRqSVpjY1lpdEVabF9Yc3p4NlY2QVF2T3dGNXQ0cTZmbTE4QjRDODJRN2UybmNMZVJUa1lLR2s4eG9TYTRSSXo0VDVnT2o4bWozNGNGWEE2RTFPaEVaSjhJMnFhSUNP?oc=5",
           "ts": 1787032200000,
           "sentiment": 0.0,
@@ -197,25 +235,25 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": -1.2,
+              "pct": -1.0,
               "dir": -1
             },
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             },
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": -0.8,
+              "pct": -0.7,
               "dir": -1
             },
             {
               "sym": "SPY",
               "name": "S&P 500",
-              "pct": 0.5,
+              "pct": 0.4,
               "dir": 1
             }
           ],
@@ -239,7 +277,7 @@
         },
         {
           "title": "¿Alerta de burbuja? El BCE advierte caída en las acciones de Inteligencia Artificial",
-          "source": "imagenradio.com.mx",
+          "source": "Imagen Radio",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSUpsRGcxeHAwYUlyS1FKVkRaNjlrV2RKdXF5NkZPLTdyUlE3bGo2MWhDTzdaSllmZVcyYkY1TllySHo5VkJWWGdJSzBRUThpRXpJLVZLeFBqLVJiLVpDX2NkNXkyYmZ2THRqOXZ0eE1XNHkxVkZhOGRjeVZqdm02cDI2b3FXSV8wZFdrM3JrakhPYURDZVRDaUtkXzNzM2lOQllseGROeGp0Z9IBrwFBVV95cUxNOUNoN0dWdnF3anFFNVY2aDl3VmpkdW1zSXlER0N3SGlRVGRhYlRNUmg1eWNLZjZGV1hTQWRKWGdTN2FNR2p4dk9CQWVmVTVFa1lUd1BKQXBJeENENGwwNTN0WUN6ZHNMT2Qxa2E3R3dwbUJlQkVsSmdid0pwd1l4T2RSR25wdTdSaXFRNmZtSXFxeU84VVBwY3dzVzZiVTdyR2haR242bGlqQm5HQjhn?oc=5",
           "ts": 1787003909000,
           "sentiment": -0.5,
@@ -255,7 +293,7 @@
         },
         {
           "title": "Nvidia apuesta $105,000 millones por centro de datos de OpenAI con capacidad de hasta 8 gigavatios",
-          "source": "Yahoo Finanzas",
+          "source": "es-us.finanzas.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaHRTSDA4dEdZaDRsM3ZwZlVLRXhNTEUzNGlWZEJqM2FNc1c2M3U2SndoVERHS2FtZm9OWWVJcE5Sa3VWNTFzczFCWGo3RF9ILTZUQko1TmxERUVQY25hSHJxa2RQZmItYkw1c01YazYzV1U1SGdYUlRvVEk4M3l0dVZqRm8yY2o3VjE5VkZadjZPdw?oc=5",
           "ts": 1787002708000,
           "sentiment": 0.0,
@@ -318,44 +356,6 @@
               "sym": "NVDA",
               "name": "NVIDIA",
               "pct": 1.5,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Las acciones de Nvidia rozan su máximo histórico: ¿qué ocurre hoy con la favorita de la IA?",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WWW03N3lmR1E5S25HNlNzUXZOelFQSm9zbFRSUS1ybDVuVVlaNXVyUDhhZFFZOWNsTGJzQnNtcXQwNEVKRHJvUUtKQmRZUEpEYU1BX0RVSjhFdDFHRFQ4eGQzenppUQ?oc=5",
-          "ts": 1786980405000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 3.1,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Nvidia invertirá hasta US$105.000 millones en centro de datos para OpenAI",
-          "source": "Yahoo Finanzas",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNm9BU3hSMWlTZ1NaOGJmdUZ3Z09jTUYzRW52MFpGZm9hNzNqS18wYmhLemlVM244V2NrZU14N3Y5MWF6Zlk3NTcwWmY5eGwxbUFCQnNwOVNTOHZFc0J5djEweTRJV2xzTGtvREdlRkNwWWtpWWdHdjZJaXl5NVF0eVVOTmRxZDhYSTZiME9EOGNBb0U?oc=5",
-          "ts": 1786978832000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
-              "dir": 1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -449,7 +449,7 @@
         },
         {
           "title": "Las acciones de SpaceX se desploman y Elon Musk pierde casi 600 mil millones de dólares.",
-          "source": "Vietnam.vn",
+          "source": "vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRmpDSnBlMGRHdm5Td3JCZzVZN3NnZnVOTDdqWEo2NE1FeHdZaWdxOFY4TWtDemRZOGJzd1Zuc3pYcTRVYndCb0VTV1FBcDRFdnhZZGxCaHI2MjhsRUtLYld2c0xwVGxNQUI0LXlzWnVlMmQxWWFocmp3TUp6VnZGd0FwTE11MXc?oc=5",
           "ts": 1784185200000,
           "sentiment": -0.5,
@@ -559,7 +559,7 @@
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": 1.6,
+              "pct": 1.4,
               "dir": 1
             }
           ],
@@ -743,7 +743,7 @@
       "items": [
         {
           "title": "Precios de la gasolina y el diésel hoy, 18 de agosto de 2026: El Brent supera los 91 dólares, lo que aumenta la presión en el mercado interno.",
-          "source": "Vietnam.vn",
+          "source": "vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV083NFdMM2o2dDBfaUhqR0RHTWUyVldkRjRGUXAtRlA5YW56SHdhLWJlbVhtX2RwU05RSUJGUVA4dTJ6TmN0WC15U2VuSnQta3RncEIxVUh6WWpFTzZNUGU2TG9UdzNtM2dlNDhJZ3NDejllM0NhZDh5LUhBM21mcnBjWTdOZWxBRzM5cmZmb2hUN3ptajNyM3RFZGRIUQ?oc=5",
           "ts": 1787007981000,
           "sentiment": 0.5,
@@ -759,7 +759,7 @@
         },
         {
           "title": "Precios de la gasolina y el petróleo hoy, 17 de agosto: el WTI baja, el Brent se mantiene por encima de los 88 dólares.",
-          "source": "Vietnam.vn",
+          "source": "vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYXd1OU5mMVliei10VXF0Vy1HX2NMck5mM1VmUnFrUmZiSmt1NUFWUDcyS1AxdndTVU15MjlPQkRYZFdXZjJfVmlsdG5pV1dZNC1VX0RMekY2MzhjNmlnNU9sNVZsWlZLVkpzZUxQeXJYV0kzQnc1YXpVQkYteE1ON0RKZ01xVmpJNWc?oc=5",
           "ts": 1786924588000,
           "sentiment": -0.5,
@@ -819,7 +819,7 @@
         },
         {
           "title": "Precios de los combustibles hoy (11 de agosto): Los precios mundiales del petróleo se disparan, el Brent se acerca a los 88 dólares.",
-          "source": "Vietnam.vn",
+          "source": "vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVJ3WGF5M0Q4ZTJNcmZtTHFRN2NObktGeUEzZHNVdWV3ZmtpclVpenFuSHVVOWZjXzZ4X1NhYzhBNVlGSmFtbFVmd0F4LW8taW9wbFBnTTNkSHIxSHVTVW0xVDBxOVFkVU1oWlB4YVYwdi1zc2g2Yy05VGxyM2ItNWdTbkdTR3NHM1dqQXZQOEltSTg3T3c?oc=5",
           "ts": 1786408008000,
           "sentiment": 0.0,
@@ -911,7 +911,7 @@
         },
         {
           "title": "Precios de los combustibles hoy (2 de agosto): El crudo Brent supera los 90 dólares por barril, ¿cómo serán los precios de los combustibles en el mercado interno?",
-          "source": "Vietnam.vn",
+          "source": "vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT3Nfa2lCU1k2LUNPRkItT1dqelJCME5QWl9RQVBKRHYxRURVcG4zc282NG9aQ2tDdTAtb0VVMUswclIwci0zQ1FwZWRHQ2FzNzZQZ1ZEX1NBNkZvVUlGX09yUHhISGVHTHBiUklSek40Ykw2M1I1YjJDTFNzWnBlRm5tMXdHaDFGN2VXUFBJcmhtVlhvZlVNUnJxVXJZdlZJNGxjQkZWQTZaaWRWSHJXeDIzdjRCWEYzWkE?oc=5",
           "ts": 1785567600000,
           "sentiment": 0.5,
@@ -1327,7 +1327,7 @@
         },
         {
           "title": "Wall Street cae por incertidumbre en el Estrecho de Hormuz",
-          "source": "eltiempolatino.com",
+          "source": "El Tiempo Latino",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFNRRzdZTS1veS1IZEhTRXZrZ0FuaTFFWGdqX3pRMDYxZ2FTTjMyS0tEQV9yOHl1QmZieDdrdjhsSHFMZEQwU29xLTVjRDE0QVF1RHRzRmw1Rk56LV9tdHVIMjZmR2cwb3JxMTUtVVRPS0V4RS12TEJTU09xd3Nya3FfTUZMZnZ2VGJDbXZmcWJILVhNT2JfZzJnTVZ6dG90OVNYOHl1blhyUQ?oc=5",
           "ts": 1786345200000,
           "sentiment": -0.5,
@@ -1402,14 +1402,8 @@
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 9.5,
+      "net": 9.4,
       "n": 21
-    },
-    {
-      "sym": "WTI",
-      "name": "Petróleo WTI",
-      "net": -4.5,
-      "n": 24
     },
     {
       "sym": "QQQ",
@@ -1418,10 +1412,16 @@
       "n": 16
     },
     {
+      "sym": "WTI",
+      "name": "Petróleo WTI",
+      "net": -4.3,
+      "n": 24
+    },
+    {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 4.1,
-      "n": 8
+      "net": 3.1,
+      "n": 7
     },
     {
       "sym": "TSLA",
@@ -1436,33 +1436,39 @@
       "n": 1
     },
     {
+      "sym": "META",
+      "name": "Meta",
+      "net": -2.0,
+      "n": 1
+    },
+    {
+      "sym": "AMD",
+      "name": "AMD",
+      "net": 1.7,
+      "n": 1
+    },
+    {
       "sym": "MSFT",
       "name": "Microsoft",
       "net": 1.4,
       "n": 1
     },
     {
-      "sym": "META",
-      "name": "Meta",
-      "net": -1.0,
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "net": -1.4,
       "n": 2
     },
     {
       "sym": "SPY",
       "name": "S&P 500",
-      "net": 1.0,
+      "net": 0.9,
       "n": 18
     },
     {
       "sym": "AMZN",
       "name": "Amazon",
       "net": 0.8,
-      "n": 1
-    },
-    {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": 0.5,
       "n": 1
     }
   ],
@@ -1508,7 +1514,7 @@
     },
     {
       "title": "Bolivia reduce su riesgo país y se ubica por debajo de Argentina y Ecuador",
-      "source": "FmBolivia",
+      "source": "fmbolivia.com.bo",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPelBDamRzUEZmZTZfMEVTY0ZOWW8tMHNDa3I4STJaczRHVFIyT1BaQmhFOHdaMjhjbm81b0YzOW5xVzJKSjcwYnlBZ29BT24tZ0RUSUJSdmQ0a2FzaU5Ja2lyNjJRVlo2bUxabDZlSnlwOEs5blNqM1VaMk1DNFh1OUNHWXZyajk1bmNBQno0UE1WS0tpN0pMVzFSejNSYzhuTXA0anBBOGUwaS1FbTZtdEQwcTg?oc=5",
       "ts": 1786911166000,
       "sentiment": 0.0,
@@ -1606,7 +1612,7 @@
     },
     {
       "title": "Ecuador ha recibido USD 11.353 millones en préstamos hasta julio de 2026; ¿en qué se ha usado el dinero?",
-      "source": "primicias.ec",
+      "source": "Primicias",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS2hNWFA3cnpRX0pVcDNrb2dDOEZfcV9COExEeHZkbDZvclVUZkxrTnF1b0VxNThpbmY0OVU5ZWM2ek5wcGJwbFFsdDdyaElRVXo3LTlkYmR4Vkw2ZGdnVlBTMVYxcFdZY2ZHNk40OXI4eEQyNUpkLThTTGFaS21YT0g5bVViZ21KYkcxbU5yNDIycHJFM21QTEhYZzNGYzkzTVdTN2VlVmpqMkZKVTBv?oc=5",
       "ts": 1786467000000,
       "sentiment": 0.0,

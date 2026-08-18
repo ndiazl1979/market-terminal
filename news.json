@@ -1,13 +1,35 @@
 {
-  "updated": "2026-08-18T21:35:48.008078+00:00",
+  "updated": "2026-08-18T22:09:49.613255+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
         {
+          "title": "Apple cae 10% desde su último máximo y queda entre las 25 peores acciones del S&P 500",
+          "source": "Forbes Ecuador",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbENYR0tvdjhiUjdaUVd5a2lWYm1iQVpzX041aG5pWEFrdmJmMlBRQldNRmtwTkdEQmp0dWdNSnVuWjFaZ2x6Wk9KckVTNDYyRkxhdmVrR2pKT2dZOHpuUldMRTcwUTlyVHRzcXR5MnhuZlY4VlJFTE1vVlNVdTR6LVpKX2xRb3p1R1JDallFRTVMNmVSTXFCOENXendXOHVUZTNr0gGoAUFVX3lxTE9yS0VobTN3blFOd1hoY3JSTE9rbnBrTGhpaFMtU3pkVEZORUpMbnBSYkJSV2F1YmI4TlMwLWEyX2VlaHFKY0ZPMzZtbm9tOFF6TVo2RTNRMG5qS2NrY1p1Z2ZYcnhaQXRsVGhZRnlYT2hzbmZnUVgwMTNiQU5FY040ZkpqUXhqd3FIN256OHZsSHA4c3J4bDYtUTdtNldkSkZsUHRrS0VCYQ?oc=5",
+          "ts": 1787085420000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 0.8,
+              "dir": 1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
           "title": "Nvidia domina las últimas dos décadas en Wall Street, pero cuatro acciones la superan a cinco años",
-          "source": "Comercio TV",
+          "source": "comercio.tv",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQTJZNmZ5VV9TTUZwSy16RXMyMkthc0swR1BQWldGSHJkVGstd2dnY2g0OFJUTU9La3Q5bGJvcktfOThSV09hdFlZQmMzR0ZoRmllNmVBWnM3VTlKdkR2M2hDZFZYemFndVJtcHllcWNBZkNUWldKZWxpOGwyQXM3dW9tSDhhVVJueldVN2lJMW5YVUVlbjFwWnAwRnM1dDNJdHpKVkNtSmdQU0h4MTRVcGtLN2RoM251MEFyTkIyX2hDSmR4dk5CMA?oc=5",
           "ts": 1787078112000,
           "sentiment": 0.0,
@@ -37,7 +59,7 @@
             {
               "sym": "TSLA",
               "name": "Tesla",
-              "pct": 3.8,
+              "pct": 3.2,
               "dir": 1
             }
           ],
@@ -53,7 +75,7 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": -3.6,
+              "pct": -3.1,
               "dir": -1
             }
           ],
@@ -196,22 +218,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Las acciones de Nvidia se encaminan hacia su máximo histórico mientras Cathie Wood aumenta sustancialmente sus participaciones: ¿qué señales se ocultan detrás?",
-          "source": "TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeWctbVctQ1RYZkxvYS1QUzZIRFFjeDhMTjlhZ2ZtYkFsX0hjdHFLYk1WUUtpSzRRWThYMFpGM3cwa09zRHpJSGZoaXVscnQ2OVdBLXFUeFk0Y1dJVUZFYXdDU1Bpd1JyRklWdnNiREtaQWxpLXB4Wl83QVZSbVBpdDY4MGJ2MEFpVFp5OTNmZXdfUXl5SDNEczQ5ZWlLb0JTZUNhMGh2TllxUWlpQXJ6WmhZWi1sWUR6cjNrU3c4emZWUQ?oc=5",
-          "ts": 1787035979000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 3.1,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -219,6 +225,60 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "OpenAI elimina el equipo dedicado a analizar los riesgos de su inteligencia artificial",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY1VQREY2T00yVHEwNlJmbnIxZl9MVmplRC1fWE9ORGFOdmJNWWNpVWg0QVM4Q25WclZUWjItX0NXdEhQSWVQaEVlTDZCMlhfVWlFQVZoOGg0bmRYNGRyeEg5NkF2TWUzRkdfaGtCUnRvVnBzdEtzUXV4czJnbXR0a1NQWE5uX0RTUDkxX3F3cG4tM21XT1ZZSmo3WjV2U2FIRFpoTG1xVWtmem95ZzZzWDlfWGdWbEV0TkpDNk9TVUhyQVM0NEdz0gHiAUFVX3lxTE8zZ3Y4QkVVME8xX1p6Um9OLThkdmZsRG13eGJDZlZydG5hZ0ZJMGFYVVVGMEFTZE5weWZOdE1NbnhfUHBUcFNDNVhJUnNTcW52MEVWOWg2SlN3TXVGUzAzbGxRM0JhOUVtTGJ1dUU3RlZ2aGhUWE8wUlE3Uk9mUzQzZEl2b2ZTV1ZJS2swMTRPd0x5Tkg4Z09KNGZjRWkyOThKWm5WTnExcl9yVkZVQ1pid2ZsUXlzQlFudW5EelF1Tlk4Wkd4b3dpRTNXNVE4YTRpSGgzZ0pCTDgtenpzbllyY2c?oc=5",
+          "ts": 1787090441000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Meta quiere que sus gafas Ray-Ban graben todo lo que se ve en tiempo real y se identifiquen personas",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTXUyYmNsUi1fX09uTTdtUy0yRV9VSTk2SzFORDBDdEM5TTNtbExNSG5WR1FYWVA1RUpEZFZnVmZ6RWwwMENGN3J2YXVYUFpjRVY0ME1UelQ5ckZDb1VUeWs4VjlPaUtQTXpsdmJqRThxeHJ3cHptbC1ESHFHX3luU2hfeDEtaHZmMDNBVWFkZVpTOHMxSUNJWjhLTGtaUkt3eHRsVGVwSkkyQTF4VG5TS1VFMXlTUjZLTGw1OWZaaC1Fa2JQZS1XQWcxZ19JWXdjak5UZEFpQ3DSAfMBQVVfeXFMTkwzNXdiWldwdV93dGZPdGZmc0tLMHJxbVdkNjFpUnoxYzB5Z3JmU1lkc09pQUhNTUt1NkR4bXBfc3NMLURwSTBBbHV3TEJSYzkyTDRyZ3M1SkJxTDl4dk5rZU5wWTNLdEc4RmhMZVFwbC16T2p4NWNQeHpXSmxNSFZmdXgwUGFvT2ZMYk8yN2cyRjU3X3E1ODA4ZlRaWkxsLVN4NlFNODRUb0Nsd0h1TEhZTXl5eFVmYjNhdndBWExQOUxvbUYwR3lWdHVjbGNTNnU3QS1wR2IwLUF6THZUV2lveGpFenBCX2FhNEI3NzBZMUc4?oc=5",
+          "ts": 1787089528000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": -2.4,
+              "dir": -1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Los planes de Samsung y AMD para competir con Nvidia en chips de IA",
+          "source": "Bahía César",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRzI1a2RZNlQ3dkt5UnNjekNnVDFIWmVsaVpubDBtQ3ZKLWJNSFZzR2lmeGZGWWEtYWhQNjlyQXBsWGRkTkJJLUlVMDZabjBucVFUTHdTekdXQnZsTkZxZlBQMm9IVXFpLV83VENqRlBtMU1UZUNuRGk0T1ZEVjEzQ0dnN0xiSU9pX3lYZDRjbFNtdkVEekhhLXVydkVWNkQ5RWtsYw?oc=5",
+          "ts": 1787086818000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            },
+            {
+              "sym": "AMD",
+              "name": "AMD",
+              "pct": 1.7,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Nuevos AirPods: Apple muestra por error sus audífonos con cámara antes del anuncio oficial",
           "source": "Infobae",
@@ -349,67 +409,7 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Apple, escéptica a la IA, ahora sufre el auge de la inteligencia artificial en bolsa",
-          "source": "DiarioBitcoin",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS2VoVVdIOXhiTUpwSTlSMGlldy1jTGRzLVVzZkJMcGR4NUJJeHJsNlRLNzlVOWJWQ0RsTDhoVENUT2tPbmtUcWE4eTFpeXI1c1JYZkh0Mm1vbTlUSDFPTWd5M0RxTzZrTE5nYXl1ZU9QY0J4bkpoR1ZNeVpOeko5RWdhb0t1N0V2aVFSem5tN2doVWNsdm9uWVpnMklZbHlLc1JNc3N6cHgyX1dSN0hfZmFKQUVnUQ?oc=5",
-          "ts": 1787066655000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.8,
-              "dir": 1
-            },
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "OpenAI contrata en EEUU un nuevo centro de datos masivo, respaldado por Nvidia",
-          "source": "Yahoo Finanzas",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPempkUU5aZzd3eUs5cFpWQXg4b3VOWDMwdEtOSm9NTWwwQ0tJMVZYVTl6UDZoUmVpVldJSXRXcWRGNnJNODJOTlFLRWVWQzl4UlVNMGFsWF93clJQYWhGWUxlNVhhV2RFQjlhcGoxWXVjSXoxMU02TUlCdW83VmcxQVhtdG1Pczd4N2pzV0I1cFNZSko0?oc=5",
-          "ts": 1787049015000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
               "pct": 1.5,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Nvidia respalda con 105.000 millones un centro de datos de OpenAI",
-          "source": "La Ecuación Digital",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZFdEcGJjenRSLUNLcmo0QUcyT1NObnFOb1hUOFlHdlpNb3lWSUo5QUF0YzJoV25DNVJ2bHU1YmRwZk5yMGhJRGhrck1RNXB2dzQyaTJUeGEza1MxY0IzRWhHNGZXb1Q1M0xETTNTLTlxNXprLU9ZX0hvRVUyNVljUFltWXc5ekVOZXl2Q2Zn?oc=5",
-          "ts": 1787048196000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
-              "dir": 1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -566,23 +566,17 @@
           "category": "space"
         },
         {
-          "title": "La salida a bolsa de SpaceX sacude Wall Street: el efecto dominó que podría impulsar a Nvidia y todo el ecosistema de IA",
-          "source": "Benzinga España",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdjlaVUtiNmNFN0t4TTVWa0hlNWFvSlNRVkFKSHNBdHlmNkc0ZXRfOThkMm13bzNzZGhNbmxmMkhkcDhxN0J6U0NENUJrTUstNUZ3S2JZRjFkTGhLNWxPUDBJX3JHVTF1MUltWGVKVkUybk5oeUJYMmV3RWtyYzVVQzU5TEc2ay1QY2phWmRWdmN5bkQxZWZ6bW5tWWtZZzlzQUJZ?oc=5",
+          "title": "Empresas tecnológicas pierden más de 1 billón de dólares en Bolsa de Nueva York",
+          "source": "El Economista",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcjVvSmxUQjczbUo0ZlpUdUZBQ205ajQ1NFZVQ3JmSHFRWVhFcGdLYjlKQ1lXM2FsbVlQLXhVb2hmelFUc3Rka3V2aVFyRnZjNFpWa3hGV3Y3NUhVcnpaTnV4QUg3MjAydVllazE1cGVsNFBJMkpDVno3VnJ4VnBWalVIVXlLYkduT0pTdFZBZnNpR0VnZ1puUlBQSEMtVFU1andVa0JTXzhQQzF6TzZSRGJpd05oNm1aUlpWLXdLTlJwZkXSAcgBQVVfeXFMT0ZzdjhpS2lsWHdDN1pMbEhnZzFGS0V4d3ZtblYzc0hjNE1idjNMbGszQ1RRWU5jM01BSzFVZGVranZNZVlQOWJsYmFCWUU5VnV0SUplcXROYjdaRkkxUGpMUmZ0UHJQZHJrdDdGWEluSEM1cEhDTGZMVmdPYklRQzU1aXY3d2ljYXA1SkxxVHM1d0cwMGVmM1Bfb1ljREN1dkgydGpGY2tfMDUwQXFHOEV3QWRvNmlMaDJQX2lZSVNzQ1BHWXJnLTI?oc=5",
           "ts": 1782111600000,
-          "sentiment": 0.0,
+          "sentiment": -0.5,
           "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.0,
-              "dir": 1
-            },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.4,
-              "dir": 1
+              "pct": -0.7,
+              "dir": -1
             }
           ],
           "category": "space"
@@ -595,7 +589,7 @@
       "items": [
         {
           "title": "Rearme: El gasto militar del Estado Español en 2025 fue de 23.333 millones, un 46,5% más que en 2024",
-          "source": "Kaos en la red",
+          "source": "kaosenlared.net",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS0kwYkFpSFdmZ1pwb0N2dTAxNXFkWm1HUm0xcGRhN3ZnYzZpUC1yOWVPYVFMS0V6OXNUdkxya1k4MUJOMVpoZDZtMWVyblMzOUw0d1g3REc3dkRWT2twelgzc0lrSVFoODJhYm1QTTVDcE80TThXSmgzODdhZVNUVzM1MVBPd3NJNFpDcm51NGxTS0JCT0ZrMXhUcDMycmFIbGEwcUUwcjZDZzdEV1RWNE5YQnV2N1VEODVEODBn?oc=5",
           "ts": 1787034650000,
           "sentiment": 0.0,
@@ -737,7 +731,7 @@
         },
         {
           "title": "Europa dispara el gasto militar: 454.000 millones, un 75% más en 5 años, impulsan la defensa en Bolsa",
-          "source": "okdiario.com",
+          "source": "OkDiario",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONmFlMTl4WFRsY2ZUc0hMejFjX2UxRV9mdm9BVmo1ZlZjZ2ZnRzNTMHNWQ245cjd5anY0OTZ4LWlPUmxoRUo3c3Q1dzEzUzR5MW42N2hYeHZKeW5mNlJ2U1M0OVhxaHZGeVh6WFVIQ1NDNmlYRnBLTllXS283SnBKMWhGbWp6WjRWQ2I0b01uMThIWXR5djlMQnhnT05wd0JrUWdiYW1KN0hvbDFoeUc5LTctclpvUDM1TE9nYtIBwgFBVV95cUxQNFFxNzhycmJia1lYV0xDY3FQRkZRdjhtTkdxdHlCc18zSWw4dEZGcVhtdnZRNUJrUEFkNGlqSGpYM0M2R2ppbGtMVk5jbWZTSy1WQ3duYUtTV1hMU2h5Z0hhZV9KcmVjRlJGQUFEZmo5YThhSDEwcVRMdk1Rb2dDUDg2d2lHeTZmME4tSUpaRXJuM212bUNwMmdSdi02N29Xbk44VHpENWFlNEcxQXBHZUZlNEZqRWdDNFNoN1pJZDlkUQ?oc=5",
           "ts": 1784962800000,
           "sentiment": 0.5,
@@ -835,7 +829,7 @@
         },
         {
           "title": "El precio del petróleo Brent roza los 88 dólares tras las exigencias de Irán para reabrir Ormuz",
-          "source": "elboletin.com",
+          "source": "El Boletín",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQWc1M3N0aVZBRWptZTdfSWRjZGlfTVRKNDZRMkJrUTJSQUZPaWw3V1M4aU4tVmdGWHFTLUo1Um9zbjdxeHl3blVJblNUdmN1RTNvOE5YeDJiMmxmZnNaZDN6S3JMWkxZZ0hvTC1ZbFVBVkhSODBvRXhOdlpvU2xsTmlxMTZHUlkxOXdLbEdkamVmVW1kZTdwRjYzRXV1eU5TTDQ5TVZGcVdFcWJlNzZtVTVvNnVmdWNKXy1xRVFXUdIBxAFBVV95cUxNVnBDM3ZiZWo1eDRSZURRcEVVWm9VV1o3U0h0Wmhtc25TWW9xcXhpaElZM3l5c3hvdEFNRGQyQml4RVFyaVdBRWFYT1o3RVcxbjd2bUNNbHlNbjBQODItXzBSakpZNjduZ1F0TXVFTUJxbW00ZzF6b1ZVUFB6eDcwdVJzMzdHN2RjRF9ieEtyaWNMWnBlVDhMQ1psRl9sQ3VKUVpqSXhkRXFzMGxPb25tNWZlY01sdlBKTmNWT29oZHJjelZo?oc=5",
           "ts": 1786436666000,
           "sentiment": 0.0,
@@ -1211,7 +1205,7 @@
         },
         {
           "title": "Economía/Bolsa.- El Ibex 35 sube un 4,3% en abril, hasta los 17.781 puntos, con el conflicto iraní aún de telón de fondo",
-          "source": "Bolsamania",
+          "source": "bolsamania.com",
           "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNend5VGdyU2VUckhpbVI0TGdkU3lPZjFhOTVmR0gxM3ZXeUpBN184a0pMQ2FsLThqcWNlNFhwOEJVYkNNRXlyRzBkYjBYX2JpWGdSdDY5TjNIWkhaQ1N2VlZkQ2ZiMTNOelBtWi1seVIycWstY3ZjZWJZXzdadk1UUjJPNURoUHhOaHNmZVU2ZEhYV0NyOUpRWDFyZ1Q1YW5RdVVkZ203VXNRSk9MR2NCMlJJNGwwdnhLLXZVUW1zSkM5aVlrd2pnWnYyMjFkbzhsazRXSGsyVGc0d0pHcWNZeFZ3OGpoR0pNS3ctU2E5UjFUZnpMWmdXcGI3eDNqeDQ2SUgw0gGIAkFVX3lxTE1OMkRUQmhuY1RSNHp6UDJCb1VnSUg5dm5ScWV6U0h2WjM2eEtQUHllZmsyTlgwVWhxRi1iWmNZQlR3VEMxbm9iWkkwRG10WnZhM0k0YW5kS29RVmE4Ym5WLXZiT0FxbGlIeUpkTHhIVHJyZlZrRG5TcDZqUXltWFVHWmI5TS1uczZMUUM2ZXVReUVyX1p1N0tDeVdoQjBqc2F0NVZ5ZVVXeEs3REtpcUJqZ1Y1M3ViNHpRWGFrSnZQMGNTNU9pVzY1Nm1iYm5ORXJsRXFKUWRsX1ItdXJQSTd4V0twenZtNDRpLWJybklLU1Voa1ZyNlRKbWNKbWxUSFRkeEVMckZ6bw?oc=5",
           "ts": 1777532400000,
           "sentiment": 0.0,
@@ -1239,7 +1233,7 @@
         },
         {
           "title": "Las bolsas borran la guerra de Irán y vuelven a máximos, pero el riesgo sigue vivo",
-          "source": "Bolsamania",
+          "source": "bolsamania.com",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdmlZbnA4NWs1VUNIa3V5X3lSb1pOUDJwYi1DQnhwTHRUbThLRU9GVjJVOG5VamJGNDBTV09USF9GaDRhTlUyRXZTdE1Xc3JDYzdfTG1KVERQeWtHQ3lQNU9rMW52cy13ZXdEZjRadXR6QmNjalJWNDZ2cWQ5TFVwd05jQVpXOE1sWU5Bb3BXTnVuX2lIVi1hMkRyMnlrWmFWS1A2UVd1YU9LVFZQWlQtWFppQmdTQmJuTl9vMDlNaTJRYXlpcHJLRHlQOVZON2ZhbUFoVXdMdk1VemFrSlY5OVBnNXcyZ9IB6wFBVV95cUxOcnhJaEd6emlwOTNIZlpqSkZsTi0tb0pMVXBCelRvSFVrLUJlRU5UN1p3NHhQaUJ2eTVEaEkzYnZka0VxMmFLNnNBdHFEQTY5d2FjOHZnY0taejRtVEl1cWlncFJIRmR2dWwxS0xEd0RRUlo2M2VoM1AzZGRtRkgtSzdzaUVOdnlPME1weVNtTnYzbEdjb0xkUzhaRm15OTgtZEkwbzlwWkNnZU9oUmxEZGZ4Sl9ZUV8xeFRMNVZLaS1rQXJJVjdWRmFZUEVjc2x6YUdJbW1VSkR5QnVUVW9rak5udDhuVjR3TGFB?oc=5",
           "ts": 1776841200000,
           "sentiment": 0.0,
@@ -1355,7 +1349,7 @@
         },
         {
           "title": "Wall Street cierra con signo mixto una jornada marcada por el dato de inflación",
-          "source": "Bolsamania",
+          "source": "bolsamania.com",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVWdSU25iakg0OEl2WXNtSmMzak83el9OeGRSTzN4OFRYNFZ1X3BvOHQ1ZUpVRGhuVlVxLTlXRFU1dkQtTHB3OVp1NmVlYm41bmcxZFNNUjdHSFhuVk92ZEZtSUNvczNxcElvd0ZhbWk2eDJ0RjJwdmRPNTFqZ29relMwamdSZXJyX3VBMjVqaEdvUG1hSjgxbWNqUmlIRWEyTTZzUWZBREIydFR2TWJBQVZ30gG3AUFVX3lxTE0xWk4zMHRsVmU1TXo0RmpZczYwMXB3TEl2akFJNHlVVjJqVFdiOHhLejlhenNxWllLckxIdGxkZk42T1RjMGliQWhGXzNiTExkckxiRWdyQUlkVllHanNkMmJpU3k2YVdPaUJMdC1nLTJLdEU5NnoyRFVQelZxWllWSXZkdG9QOHlDLTRkRXVIZjlLd0t2T2JQQzhRNnQ0YUk2U2xoOHB0WVVrZXRXaGxlWklwVW1fNA?oc=5",
           "ts": 1786531740000,
           "sentiment": 0.0,
@@ -1466,34 +1460,34 @@
   ],
   "tickerBoard": [
     {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": 12.0,
-      "n": 13
-    },
-    {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
       "net": 7.8,
       "n": 22
     },
     {
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 7.3,
+      "n": 10
+    },
+    {
       "sym": "TSLA",
       "name": "Tesla",
-      "net": 6.9,
+      "net": 6.3,
       "n": 6
     },
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 5.7,
-      "n": 18
+      "net": 5.3,
+      "n": 19
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 2.5,
-      "n": 6
+      "sym": "META",
+      "name": "Meta",
+      "net": -4.4,
+      "n": 2
     },
     {
       "sym": "INTC",
@@ -1502,16 +1496,16 @@
       "n": 1
     },
     {
+      "sym": "AAPL",
+      "name": "Apple",
+      "net": 2.3,
+      "n": 3
+    },
+    {
       "sym": "SPY",
       "name": "S&P 500",
       "net": 2.3,
       "n": 19
-    },
-    {
-      "sym": "AAPL",
-      "name": "Apple",
-      "net": 2.2,
-      "n": 3
     },
     {
       "sym": "WTI",
@@ -1526,10 +1520,10 @@
       "n": 1
     },
     {
-      "sym": "META",
-      "name": "Meta",
-      "net": -2.0,
-      "n": 1
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 1.9,
+      "n": 5
     },
     {
       "sym": "AMZN",
@@ -1538,15 +1532,15 @@
       "n": 2
     },
     {
-      "sym": "AMD",
-      "name": "AMD",
-      "net": -1.5,
-      "n": 2
-    },
-    {
       "sym": "MSFT",
       "name": "Microsoft",
       "net": -1.4,
+      "n": 1
+    },
+    {
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "net": 0.5,
       "n": 1
     }
   ],
@@ -1638,7 +1632,7 @@
     },
     {
       "title": "Bolivia reduce su riesgo país y se mantiene por debajo de Argentina y Ecuador",
-      "source": "Red Uno",
+      "source": "reduno.com.bo",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMGNuc1JEZzNJSHdVb1BGWVEwNlVHSjZuS3ZETmZSLXdFYm91QXlfYWE1WXFlb08tcGJjdnRXbkxCbmVJV3dhQ0REWE0wU1JsVnp3VHF2MlhfcDFNSXFTV1h1cmoyOVF6TjB5LWdHbUJ5U0U0OEl4akl2dXhjR0xBRTNUenJxNXJUcHVSQzdTbFJuRGFac3V3bWYyeDk2Q3F3aEU3YjJmT05TczlTX1Q0NXF5djhmLUhtNUFvdnlSSDBrcVk?oc=5",
       "ts": 1786800001000,
       "sentiment": 0.0,

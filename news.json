@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T14:17:44.032067+00:00",
+  "updated": "2026-08-18T14:55:29.572104+00:00",
   "categories": [
     {
       "key": "tech",
@@ -23,6 +23,40 @@
               "name": "Apple",
               "pct": 0.8,
               "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Por qué se está quebrando el comercio de chips de IA: Nvidia, AMD e Intel caen en el premercado",
+          "source": "Bitfinanzas",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2tQeXhRWlZSSHU1bFhrVFBEcm1KcWNwYmlyZXl2NXdkc0NObnZWenNwR3VpaEpZMndWX096T0M3YzFwc3dheXdTY1ZfSDVGNkpodGF6am9vd3FzMFZUWmI2ZUxMdXdMcEJGWkJGNmRyYVdxaHVTSUlheXhaa0c2WGhXdUstZw?oc=5",
+          "ts": 1787056200000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": -3.6,
+              "dir": -1
+            },
+            {
+              "sym": "AMD",
+              "name": "AMD",
+              "pct": -3.4,
+              "dir": -1
+            },
+            {
+              "sym": "INTC",
+              "name": "Intel",
+              "pct": -2.8,
+              "dir": -1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": -2.0,
+              "dir": -1
             }
           ],
           "category": "tech"
@@ -91,13 +125,13 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             },
             {
               "sym": "AMD",
               "name": "AMD",
-              "pct": 1.7,
+              "pct": 1.4,
               "dir": 1
             }
           ],
@@ -166,22 +200,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Pronóstico del precio de las acciones de Amazon: Morgan Stanley señala que el negocio de AWS podría impulsar la acción a 500 $ para finales de 2027",
-          "source": "TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb1hEaE9ScjVaVktzR1dXTWV4a0dhLUVUT3R2ZkVjOEI2WlB2RkdaNDU1YmxNQ1kyaF9Dd1E0TFVSbEUxaGV5YVdIcUhkY0d4c1JqSVVHa2h0R3ZMZUhmVlVRbUp3dkRSMG1jVGRYZlVqYmhxQW52NnVhd2ZCMGRiZzBvSWJMenBsSUVQdWJkWkdBbUNwTXVqQUJUZ0t2eXBsWnFMN2FYd0JJb2FoTGdLRUhmR2QyS21iN1dfOW5FUU93QQ?oc=5",
-          "ts": 1786991774000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -189,6 +207,22 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Nvidia acelera la logística industrial con IA aplicada a semiconductores",
+          "source": "diario.elmundo.sv",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTVhsb0lUczQyOWNzeGRzc0J1LWtnSi1ZLXVncERRd0JHZVRCRnpDN2Jna19Mb3hTYUJ1ejZKay1yaFBfeFpIY3hUc19NZXFCRXNuRjRyNGJUV2otSTV3d3MzY2xGYTIya1NVWGpIQ19ETTI0U2VjeFpUbTRYM0FXVnYtekhuVTNmLWlvN3lEOXhFMHZfa3RyMmdudk9zN3VFaG0tQ05MdU9CS1lZQndOSVlSQ2EzUnB0Q096TWU2QdIBtgFBVV95cUxPODNIRXBuaHptd2xIaXpnV1lhblRZUkcwSTJzNlk2NE5fUEtiUVRzUTdaaWc4b0tfZHR3TUg4UjU3cW4zN25nR0NDZXlmZ09teE9RellmQm8xTGtyclpqbjJxNEpnb0ttUGFUNnFGZ2FQMkx3Slh5YmdfNjNxckp0X3pMOEtnZGxGVHQ3TjN0OVVQZHBfREpvdTEwTlBta1BfZnJTRUQtZkY4bEdXaUczWWI5OW5EZw?oc=5",
+          "ts": 1787062805000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Mi amigo el algoritmo: ¿por qué millones de personas buscan compañía en la inteligencia artificial?",
           "source": "NTR Zacatecas",
@@ -201,6 +235,40 @@
               "name": "ETF Semiconductores",
               "pct": 1.0,
               "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Por qué se está quebrando el comercio de chips de IA: Nvidia, AMD e Intel caen en el premercado",
+          "source": "Bitfinanzas",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2tQeXhRWlZSSHU1bFhrVFBEcm1KcWNwYmlyZXl2NXdkc0NObnZWenNwR3VpaEpZMndWX096T0M3YzFwc3dheXdTY1ZfSDVGNkpodGF6am9vd3FzMFZUWmI2ZUxMdXdMcEJGWkJGNmRyYVdxaHVTSUlheXhaa0c2WGhXdUstZw?oc=5",
+          "ts": 1787056200000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": -3.6,
+              "dir": -1
+            },
+            {
+              "sym": "AMD",
+              "name": "AMD",
+              "pct": -3.4,
+              "dir": -1
+            },
+            {
+              "sym": "INTC",
+              "name": "Intel",
+              "pct": -2.8,
+              "dir": -1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": -2.0,
+              "dir": -1
             }
           ],
           "category": "semis"
@@ -261,7 +329,7 @@
         },
         {
           "title": "Google invierte 10 millones de dólares en la adquisición de datos de Spirit Airlines para fines de inteligencia artificial.",
-          "source": "Vietnam.vn",
+          "source": "vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNel9qa25fYVBsRG1ZNWlUNG4wY24xNFA4Nlh4UkdFbjlXRnF2ZHJCRzVXNVF3NVQwOVRkX1kwcXRFMGszaF80Nmt2Q2ctZ2hMZi1kM2ZXQ01hckVlaktjLS1fWmhJS2FXdTJCb21UdEg5c0l4Ql9TSVBFSllRYVRCcVFlZFdVeVlBSmk5SUhHc3U1Zw?oc=5",
           "ts": 1787044499000,
           "sentiment": 0.0,
@@ -310,58 +378,26 @@
           "category": "semis"
         },
         {
+          "title": "Google acelera la carrera de la inteligencia artificial con lanzamientos masivos y precios a la baja",
+          "source": "Radio Popular de Bilbao",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbGd6M2RDTFFRbWVUZ1hNTlprbjI1a1F6YmtITzNfNV9iQ3Y0dUVJdFZGaWVPbWJiUkg5MWhTb1hEVThjdkF5TnFMWFpsVWdvZTM5OUF4VEo1bXItYTRnQmpIUEh3VWZWemJyb1J6Wkw1TjZXbzRUd2JhOFIyWmZ1Z09CZHZvLW1QcjB1UEpPZFBTTkd2aEJYRWVSM1ZQVUpTTVhyd3RId0tKZFZNamtLYUhzTENMeTQwX0gxNzJnY0prdzd6Q3RDWHJWYjFmUQ?oc=5",
+          "ts": 1787042439000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": -1.6,
+              "dir": -1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "AJ Bell ve en Nvidia una alerta sobre la posible burbuja de inteligencia artificial",
           "source": "Benzinga España",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdVlZMV8zYkFyTGxNRW11a0pWN3RRajRBaVFBN2lzd0VyVVphTWhxZkUwQjR5eFcyc0xlUGctTmstSzJPSWpzTThSbTZNbFBkSzhLaFo5eTF5WkdFOUIwRWlwWW05dm5TZE9QSi1BTUl2RFE0di1fUENjQXlPV0hiVEFnZE4ydHdGTU1zWE5B?oc=5",
           "ts": 1787041195000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Las mejores acciones de Inteligencia Artificial para invertir en Agosto de 2026",
-          "source": "Investing.com España",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTzE4QVVJdnhDbXA3M25DWDNVTW5QS2JMQWhPYWZsZXNIamFzY0NOM2dUVzNnRkpTN0FqNENfelVqZ1ZnQm10TEd5alBkX2xFbElPdFdMRHhBVUNvcVJ6WkdFY1Fsai04bDNNaVFXLURtRTRqSVpjY1lpdEVabF9Yc3p4NlY2QVF2T3dGNXQ0cTZmbTE4QjRDODJRN2UybmNMZVJUa1lLR2s4eG9TYTRSSXo0VDVnT2o4bWozNGNGWEE2RTFPaEVaSjhJMnFhSUNP?oc=5",
-          "ts": 1787032200000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Shadow AI: la inteligencia artificial que las empresas usan sin que sus propios departamentos lo sepan",
-          "source": "merca20.com",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOVU2NmIzaFlnV3oyLXNjNTZ1cnVHRXJ4ZFJhN0hQQ2owTlpqUEZDRVMtbmJ0emFNb1RyX3hRLWFBNXd1bHhHcEdQZGhQQXRjQlhIai1QWDQ2RENoeGM4MExpNGRxYWFkOFl5Zmk2Q01DWGx6aEtQSF9nMlI4SldHdUtyb1oyQ2J2ZWFiUllWSENxa1NBUmlaY094TlVJZ3JrUjdRQk1pelRrR0xqNGN5Z1c1V3JSbC1lQXE3ZjlsMGJsYklw?oc=5",
-          "ts": 1787008895000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "LG y NVIDIA colaborarán en robots con inteligencia artificial",
-          "source": "Pisapapeles",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLTdIVGRtbWtwX0xRejZINEM1aUNHZEtXZzZPX1o4VDRzbHB6TjhOOXhXbmRXRW9kLS1ZQ3B5OG9yWHJnVXZSVmNnQXJ3R3J6RWZkVUFLTnh3eE5kdUhsblpjbVQwblJ5WjNiMGJHWHVtdnJZenJGTVlNV1l3NS1NdWswWTl2M19CTDFpTC1NRdIBlAFBVV95cUxOWk5RUFg1cS1ENlFUdFpHd1ZYXzRvQWpZZUlaTF9LeE1sWXlJSU9RNWdrdXNhTXV1WlE1NlhLaXNkazlocG9sYnVvNElnLTZGWkJpcFlaOHpyTGtYUnpxV2hCM1JjakVlcEszQ2Fsc2dmXzdmTjJYX0pCR241VGVaSDg3NjR1MmZMTk5NMnNQTTR2bGFk?oc=5",
-          "ts": 1786996800000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -461,7 +497,7 @@
         },
         {
           "title": "Las acciones de SpaceX se desploman y Elon Musk pierde casi 600 mil millones de dólares.",
-          "source": "Vietnam.vn",
+          "source": "vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRmpDSnBlMGRHdm5Td3JCZzVZN3NnZnVOTDdqWEo2NE1FeHdZaWdxOFY4TWtDemRZOGJzd1Zuc3pYcTRVYndCb0VTV1FBcDRFdnhZZGxCaHI2MjhsRUtLYld2c0xwVGxNQUI0LXlzWnVlMmQxWWFocmp3TUp6VnZGd0FwTE11MXc?oc=5",
           "ts": 1784185200000,
           "sentiment": -0.5,
@@ -767,7 +803,7 @@
       "items": [
         {
           "title": "Precios de la gasolina y el diésel hoy, 18 de agosto de 2026: El Brent supera los 91 dólares, lo que aumenta la presión en el mercado interno.",
-          "source": "Vietnam.vn",
+          "source": "vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV083NFdMM2o2dDBfaUhqR0RHTWUyVldkRjRGUXAtRlA5YW56SHdhLWJlbVhtX2RwU05RSUJGUVA4dTJ6TmN0WC15U2VuSnQta3RncEIxVUh6WWpFTzZNUGU2TG9UdzNtM2dlNDhJZ3NDejllM0NhZDh5LUhBM21mcnBjWTdOZWxBRzM5cmZmb2hUN3ptajNyM3RFZGRIUQ?oc=5",
           "ts": 1787007981000,
           "sentiment": 0.5,
@@ -783,7 +819,7 @@
         },
         {
           "title": "Precios de la gasolina y el petróleo hoy, 17 de agosto: el WTI baja, el Brent se mantiene por encima de los 88 dólares.",
-          "source": "Vietnam.vn",
+          "source": "vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYXd1OU5mMVliei10VXF0Vy1HX2NMck5mM1VmUnFrUmZiSmt1NUFWUDcyS1AxdndTVU15MjlPQkRYZFdXZjJfVmlsdG5pV1dZNC1VX0RMekY2MzhjNmlnNU9sNVZsWlZLVkpzZUxQeXJYV0kzQnc1YXpVQkYteE1ON0RKZ01xVmpJNWc?oc=5",
           "ts": 1786924588000,
           "sentiment": -0.5,
@@ -843,7 +879,7 @@
         },
         {
           "title": "Precios de los combustibles hoy (11 de agosto): Los precios mundiales del petróleo se disparan, el Brent se acerca a los 88 dólares.",
-          "source": "Vietnam.vn",
+          "source": "vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVJ3WGF5M0Q4ZTJNcmZtTHFRN2NObktGeUEzZHNVdWV3ZmtpclVpenFuSHVVOWZjXzZ4X1NhYzhBNVlGSmFtbFVmd0F4LW8taW9wbFBnTTNkSHIxSHVTVW0xVDBxOVFkVU1oWlB4YVYwdi1zc2g2Yy05VGxyM2ItNWdTbkdTR3NHM1dqQXZQOEltSTg3T3c?oc=5",
           "ts": 1786408008000,
           "sentiment": 0.0,
@@ -1421,19 +1457,13 @@
       "sym": "NVDA",
       "name": "NVIDIA",
       "net": 12.0,
-      "n": 10
+      "n": 11
     },
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
       "net": 9.5,
       "n": 20
-    },
-    {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 6.2,
-      "n": 7
     },
     {
       "sym": "WTI",
@@ -1448,6 +1478,18 @@
       "n": 16
     },
     {
+      "sym": "INTC",
+      "name": "Intel",
+      "net": -2.8,
+      "n": 1
+    },
+    {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 2.6,
+      "n": 6
+    },
+    {
       "sym": "META",
       "name": "Meta",
       "net": -2.4,
@@ -1460,16 +1502,10 @@
       "n": 1
     },
     {
-      "sym": "AMZN",
-      "name": "Amazon",
-      "net": 1.8,
-      "n": 2
-    },
-    {
       "sym": "AMD",
       "name": "AMD",
-      "net": 1.7,
-      "n": 1
+      "net": -2.0,
+      "n": 2
     },
     {
       "sym": "TSLA",
@@ -1478,16 +1514,16 @@
       "n": 6
     },
     {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": 1.4,
-      "n": 2
-    },
-    {
       "sym": "SPY",
       "name": "S&P 500",
       "net": 1.1,
       "n": 18
+    },
+    {
+      "sym": "AMZN",
+      "name": "Amazon",
+      "net": 1.0,
+      "n": 1
     },
     {
       "sym": "AAPL",
@@ -1619,7 +1655,7 @@
     },
     {
       "title": "Ecuador produjo menos petróleo, pero recibió 15 % más por sus exportaciones en el primer semestre",
-      "source": "eloriente.com",
+      "source": "ElOriente.com.",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRnBjVjRDLUprMk82QmpHZkFOZHRZeEVDeG5NMURhdmFtSFFPUUJBMVBqZERzYndaNUxZWlZ3VXFJLWp6WXMtT2JHSi1NbnhSRVFwcTcwYXhXSGtzdTl2Y0VHanh4bDdQd0JGSFNabGtRX1hiaTNPck5UZWJQc3RlNjAza2ZYQVFLdFY3RkxWZWVDVW5VV1pZM3NaY3NjRWZQUVhRZmdKeVB2TWRHNGkxNWZ0RnVUTDMtN0U0SWxMelZBSEFIMmlDdjQzandZRFo3?oc=5",
       "ts": 1786557880000,
       "sentiment": 0.0,

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T19:34:11.271889+00:00",
+  "updated": "2026-08-20T19:58:42.497660+00:00",
   "categories": [
     {
       "key": "tech",
@@ -97,7 +97,7 @@
           "title": "Marvell sube 10% por un acuerdo con Google, que podrá comprar 12.200 millones en acciones",
           "source": "Bitfinanzas",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zV05SeTRvUnhqb3FLUjdPYjd6TUU3Z19BS2c2TE9DNUdIVHRfLXMwcWY2bWI2bU43NEhyOGV0bWR1MVRSdG4zX2lhVTBvNE1fWmc3Zl9fV21pYWhRMGlweDRlNC1jeVBFTkZfaHZwb19RQ04tZERONXd3?oc=5",
-          "ts": 1787175223000,
+          "ts": 1787175513000,
           "sentiment": 0.67,
           "tickers": [
             {
@@ -214,6 +214,112 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "Google lanza nuevos teléfonos con cámaras potenciadas por IA",
+          "source": "elsalvador.com",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb2h0REFQLU83ekJCZ09udlFDWlptVlh1SGNUT0k2Nm9CRHVaTnk2eG9GU28yWVZEUHU0WnFWY283UkZseUdkT1RaQkFxaUVsSmVsVWhDVUhnTlcwc0dpSVlqUGs4MjhhUkZBN1lQcmp1TE04cUFVQUFvUmZMZ01oLWVGLUpOTmFwOXVlcF9oU0hfYXRLeFJmWEtlWQ?oc=5",
+          "ts": 1787252621000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 0.9,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Nvidia domina la IA, pero Google, Amazon y Meta quieren depender menos de sus chips",
+          "source": "Bloomberg Línea",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeDlIYUVaeUFtN2FqOWVNZGw5SGxIZ04yVFpQLTUybDJkSFV6REQtYVlibkZDZFNFWnk2bndsZ0hYQ1o0bDZPUlVkVjVXU0lZV0F6TW94NUo2a1JqUUZZNGo1Um9pOHMxNkNWRU5PSGVuRElNZzNOQU1XbEVxbjV2eVFJVlh0ckNla0hSWlpNczlJZktjXzZsbW00NXFZV2lGUTRka2JJdGpTejU1aFU3ZldOUWp3OTFLVTNWZ1cyNNIB0wFBVV95cUxPam9YeXlUd0l3WHMxYmxaZDVqR1hjLUwxYzhfNzVYZGRPZFcwaWREX0dhMnFBMzdSUHlrVzZZV0draXB0eHRXSzRXMjBKbk8yOVdrSE14ZnNrN3c3aXZCN1dPbS04V2NXR3dqejZZamJrRk5rdHQ1OFU1NVVfRHhVTFM3Uno4MTJIMENnYlRGTDVsbGlIMkNuT3EtMktPZWQ5MmE4eEVBRHd2Q2ZrTkM0bl9FNjhFNXNKdnhiWXRaNkVoazUyTmUwNENMSWVsRVozUTlN?oc=5",
+          "ts": 1787252354000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            },
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": 1.2,
+              "dir": 1
+            },
+            {
+              "sym": "AMZN",
+              "name": "Amazon",
+              "pct": 1.0,
+              "dir": 1
+            },
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 0.9,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Nvidia enfrenta la competencia de chips personalizados de Google, Amazon y Meta en el auge de la IA",
+          "source": "Rosario Finanzas",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORkR0OEcwb2hORS1OcDlhTjJUWU1ldklNRng1ME15MmhXaHhjcEY4WmxzYVRIb0pHcjVpeWZLcTVhbmJhUXhrd3JyR2RUV0hrUHdWdVpYVUpjdjhyR2ZMS2JNcDBWbzNNZjZFUzdCSmR0YUE4WGVla0NOYVE1MXI1Y1RFbnNsQUI4SHd6ZUM2Yk96M0M0S25zZHBTNG51TzNKUGZWaS1XbUVXT0U2clA2OUhFcEN4RnBEcDhIT1Q2Qk1FWXZDdHBEa2JHblBveEE?oc=5",
+          "ts": 1787252354000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            },
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": 1.2,
+              "dir": 1
+            },
+            {
+              "sym": "AMZN",
+              "name": "Amazon",
+              "pct": 1.0,
+              "dir": 1
+            },
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 0.9,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Meta se convierte en uno de los mayores clientes de inteligencia artificial de Microsoft",
+          "source": "Yahoo Finanzas",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTDJxTkx2eTZGdU1DMXhLOVpYbVBFdzhoaW9GeWRhclNRNjZTOFB0d2wzTEJneXI2cUtLQVhZQjFIWS1saDdwbGIydE9QLVZlNHJjMW5McEhUYXRwODYtVmZJTkhUbHYzcmpvdEc3VVZvSkFHSGlSZDF6QWpGMjRQd2g5Tm9wMUtHbFFUT04tRXRNMXh6dFZVRDNMZDQ5X3YtcU5j?oc=5",
+          "ts": 1787251912000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": 1.2,
+              "dir": 1
+            },
+            {
+              "sym": "MSFT",
+              "name": "Microsoft",
+              "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Destinan US$ 10 millones al Centro Nacional de Inteligencia Artificial que busca ser el \"Institut Pasteur de la IA\"",
           "source": "EL PAÍS Uruguay",
           "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYmFFS2IzaGFIdEVMRGNtM0dSZUZLV21NY3p4Y0xOUGsyMDM0ODNYSy1mNEtiWTNqc2x4QUEtel9RUHdEQ3ZESWdRel8xNGQ4QzdDQ1BuNGZZMHFKc0Jhcm5jTGY0OFdOaFBTWVF5a19xMjByTi0yWnR4ZzdPc01BQUJ1dEo2OGxQUWRGSW9oMXNpQjJWZFdpWXY1aE5JYkZZQ2ExbEU3Nm10U2ppM04zVnROa0pvbEswb2NVR0MwbDV0VXE5R2kxR2JITWZGNFJxV0UteHU2OGRkSldRdGhkZDdMckVzVUd0ajJRZHN6VHM?oc=5",
@@ -303,77 +409,7 @@
             {
               "sym": "META",
               "name": "Meta",
-              "pct": 1.2,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Meta se convierte en uno de los mayores clientes de inteligencia artificial de Microsoft",
-          "source": "MarketScreener España",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTkZ1OWZFZmplUlFPSFhNdEo1NXA0Nk1TRDlLTENLaWlZbTRBMm40cU1hUllxU0pkaG9QSThqN1NXNUZxSWRoZllTTlZ2Yl9wZ0FNMEw0djdWTVFyZWMwZHRHNVE2bHhpbWNkRVFRWFJoejhaTUJobVpEbFpxLWRQZGRfMmlYTDFLZFZqNGh4OHM5ZHV5bTAtR1NEZHYyN2tZeFh2QWg0WXFYMTQ0ekhzZjVGZ0tGWV82UzIxTkNqU012aHdWNk00WWo5aFJQeFJjci1WZGlIODNGWEJZ?oc=5",
-          "ts": 1787225614000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
               "pct": 1.0,
-              "dir": 1
-            },
-            {
-              "sym": "MSFT",
-              "name": "Microsoft",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Entendiendo Nvidia",
-          "source": "Enrique Dans",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kNGtMUkdYUGl3Z1oxdjYyOGhwZ3doeXd3ZEFqaEpyY2ZQbWhHRUozcjUxS0JOSjdzUTRVTkx1R1UxN1RUc1c0S28wV1paY3JsZWM2TU9OM05GaERRcV9MSktGc3FLRDNuQmJz?oc=5",
-          "ts": 1787223860000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Las inversiones en inteligencia artificial están aumentando la presión sobre los mercados de capitales estadounidenses.",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV2ZDSDBIOHlnTE9DWWhjcmR6TVVTZ0l1Wm1BXy0ybTYzM3RVQXo0WGpXT25CNncyMTloNkZUWTRoaWcyQlg1Y1lTb1ZUVHBnaDBXd3lQcXNqaWhpTC1WdXBTQy1PSG9ybW03WUc2Q3RZZXhnTzRrQXd0S2FlRGZGVGRoUQ?oc=5",
-          "ts": 1787202922000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "México y AMD unen fuerzas para impulsar la inteligencia artificial y el supercómputo",
-          "source": "TechRadar",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNC16WUt5MERHbGltM0o5NkpJbDJ6d0k5VmtyZEF4dHNUMTh4RGs1dTNTLVBnTER0anF0cWFzenVldmJDbnkteUdBLUlUSGtDRTdCZDkwa1VaWVlqWXNPYUZLNl9TYzFTYUFxbHcycllJRW1wTU1hRnhrVlkwX1Y0ZjN2b0FKT2lMdHRJdUZod2tKS3k3UnMyTGhMWE5fM0NySHI4UWljQmJCRXlPS3lLM2VjNkMwNC1MY1ZFejE4d3Bldw?oc=5",
-          "ts": 1787194800000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "AMD",
-              "name": "AMD",
-              "pct": 1.4,
               "dir": 1
             }
           ],
@@ -1416,14 +1452,14 @@
     {
       "sym": "GOOGL",
       "name": "Alphabet",
-      "net": 8.8,
-      "n": 8
+      "net": 11.5,
+      "n": 11
     },
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 8.4,
-      "n": 5
+      "net": 10.5,
+      "n": 6
     },
     {
       "sym": "ASTS",
@@ -1432,10 +1468,10 @@
       "n": 3
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 5.7,
-      "n": 6
+      "sym": "META",
+      "name": "Meta",
+      "net": 5.8,
+      "n": 5
     },
     {
       "sym": "WTI",
@@ -1444,22 +1480,28 @@
       "n": 23
     },
     {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 4.9,
+      "n": 5
+    },
+    {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
       "net": 4.7,
       "n": 20
     },
     {
-      "sym": "META",
-      "name": "Meta",
-      "net": 3.4,
-      "n": 3
-    },
-    {
       "sym": "QQQ",
       "name": "Nasdaq 100",
       "net": 3.3,
       "n": 17
+    },
+    {
+      "sym": "AMZN",
+      "name": "Amazon",
+      "net": 2.6,
+      "n": 3
     },
     {
       "sym": "AVGO",
@@ -1472,12 +1514,6 @@
       "name": "S&P 500",
       "net": 1.9,
       "n": 17
-    },
-    {
-      "sym": "AMD",
-      "name": "AMD",
-      "net": 1.4,
-      "n": 1
     },
     {
       "sym": "INTC",

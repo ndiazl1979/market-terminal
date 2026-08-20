@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T09:05:56.505465+00:00",
+  "updated": "2026-08-20T09:46:44.053598+00:00",
   "categories": [
     {
       "key": "tech",
@@ -53,7 +53,7 @@
           "title": "Marvell sube 10% por un acuerdo con Google, que podrá comprar 12.200 millones en acciones",
           "source": "Bitfinanzas",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zV05SeTRvUnhqb3FLUjdPYjd6TUU3Z19BS2c2TE9DNUdIVHRfLXMwcWY2bWI2bU43NEhyOGV0bWR1MVRSdG4zX2lhVTBvNE1fWmc3Zl9fV21pYWhRMGlweDRlNC1jeVBFTkZfaHZwb19RQ04tZERONXd3?oc=5",
-          "ts": 1787175210000,
+          "ts": 1787175209000,
           "sentiment": 0.67,
           "tickers": [
             {
@@ -201,6 +201,28 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Un informe señala que TSMC está lista para producir en masa chips A16 de 1,6 nm en el Q4, pero ¿está por delante de Intel y Samsung?",
+          "source": "TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY0dsanJsdGh3U3hTSm9zR0ZHMU56SThRNmlTTzlJVTI0UFpWd2RhLUJjRGVXeXdBZm5HSkRkdUdsNmdWS2RyaUdPMXdNSlhQSkZsU0V4T2pka0dwYXpSclhhVTdXTVZ3anhRWVBqcmtDOGtEWjY5WTBScEFQeTFXQ0N1QXFpaW1ENllWUGk1ZzhEazdwQ2NFLXZ4V1JSek5VbjF1emtqbm0yTmN0cWVrWl9Vc1VkNVpHNHIwbzljNFRUZG9RQlE?oc=5",
+          "ts": 1787216849000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "INTC",
+              "name": "Intel",
+              "pct": 1.4,
+              "dir": 1
+            },
+            {
+              "sym": "TSM",
+              "name": "TSMC",
+              "pct": 1.2,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Las inversiones en inteligencia artificial están aumentando la presión sobre los mercados de capitales estadounidenses.",
           "source": "Vietnam.vn",
@@ -352,22 +374,6 @@
               "sym": "NVDA",
               "name": "NVIDIA",
               "pct": 1.5,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Meta lanza nuevo modelo de Inteligencia Artificial",
-          "source": "DW.com",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTWFoWnhUcTJYakZqZzVtY2V3TU12TVpGdXg1QTZ2SnhFTHd0RjEzRlQ0NkVQWEpuS0huOThyYzlFd05LOVJ4V1U4OXdJOGJobldXUWZROXF2SngyTkFYWFhEQU1tam9BY2JFR0VCYlNZLVFBUnlSZGx0azRBX0pzZWdRQTd1X3h5ZjNR0gGLAUFVX3lxTFB5UkdPNDZGcFVkUnFpZl9tb1E2RVZNQXNFMEowWjlmSHRLLTNpeFowZTNqcUhTVi1wUE8tYVlfQkI3VGl4dUZwVHhzcjJwSmhKU0dCS2xfakFKN0VsYy1GZ0hicGNkUEd5eDQ1WHd3RFhTbmJsaGh3NTJaOEVvQkFRRm9YcEhPWTRUODA?oc=5",
-          "ts": 1786431600000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -1454,16 +1460,22 @@
       "n": 2
     },
     {
+      "sym": "TSM",
+      "name": "TSMC",
+      "net": 3.2,
+      "n": 2
+    },
+    {
       "sym": "QQQ",
       "name": "Nasdaq 100",
       "net": 3.1,
       "n": 16
     },
     {
-      "sym": "TSM",
-      "name": "TSMC",
-      "net": 2.0,
-      "n": 1
+      "sym": "INTC",
+      "name": "Intel",
+      "net": 2.6,
+      "n": 2
     },
     {
       "sym": "AAPL",
@@ -1478,21 +1490,9 @@
       "n": 19
     },
     {
-      "sym": "INTC",
-      "name": "Intel",
-      "net": 1.2,
-      "n": 1
-    },
-    {
       "sym": "AVGO",
       "name": "Broadcom",
       "net": 1.1,
-      "n": 1
-    },
-    {
-      "sym": "META",
-      "name": "Meta",
-      "net": 0.7,
       "n": 1
     },
     {

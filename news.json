@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T11:13:49.260714+00:00",
+  "updated": "2026-08-21T11:43:13.744641+00:00",
   "categories": [
     {
       "key": "tech",
@@ -202,6 +202,22 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "Estudiantes de 9 países de la ASEAN compiten en un concurso de inteligencia artificial, resultando victorioso el equipo de Filipinas.",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb1lLWGRFLW95QVVjcWExSjloRFdleTF1dU9nODV0NThaTDlqdWVFQW82VkYxdjVxdnRCVGk2c3hCMndBOGRnazFPQkxwV25ZeEhoYjBKWEVHUlFXQnFCX1cydG9jWE1IdjVFbkZXT0llMTVUSmdHaXNkUEtLQjE2c0RDYWZFWXZTZE9OcjFpek83UUVU?oc=5",
+          "ts": 1787311878000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Nvidia y Rebellions exploran una posible alianza para reforzar su apuesta por los chips de IA",
           "source": "Business Insider España",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQODRPbWx5WHM5ZVZWemNoRmM2dUdjTGxfWVF5cXR6SjgwSDNQZktjZHRoT1ZSTEdJMFlpQnpmbGkzdllCNHdRQ0s1YV84eEVjWDNhdF95VVlTRVhPRjNEbklySm9XTS12Y1ZHQTFzcFc0M0dzUWNZTDVSaUxSaENFTkJjREZYTHpYbTZrbzBUeG0zbkdIdWxNb01iVkx2MjN3LXdMbmZHem02b0phZkc3SXRlcUc1SEl2QWJVX0g2cGt1OEhrMkdscmt1Q2NNNmVLR1dGcjN4UXU4aEU?oc=5",
@@ -339,40 +355,6 @@
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Nvidia domina la IA, pero Google, Amazon y Meta quieren depender menos de sus chips",
-          "source": "Bloomberg Línea",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeDlIYUVaeUFtN2FqOWVNZGw5SGxIZ04yVFpQLTUybDJkSFV6REQtYVlibkZDZFNFWnk2bndsZ0hYQ1o0bDZPUlVkVjVXU0lZV0F6TW94NUo2a1JqUUZZNGo1Um9pOHMxNkNWRU5PSGVuRElNZzNOQU1XbEVxbjV2eVFJVlh0ckNla0hSWlpNczlJZktjXzZsbW00NXFZV2lGUTRka2JJdGpTejU1aFU3ZldOUWp3OTFLVTNWZ1cyNNIB0wFBVV95cUxPam9YeXlUd0l3WHMxYmxaZDVqR1hjLUwxYzhfNzVYZGRPZFcwaWREX0dhMnFBMzdSUHlrVzZZV0draXB0eHRXSzRXMjBKbk8yOVdrSE14ZnNrN3c3aXZCN1dPbS04V2NXR3dqejZZamJrRk5rdHQ1OFU1NVVfRHhVTFM3Uno4MTJIMENnYlRGTDVsbGlIMkNuT3EtMktPZWQ5MmE4eEVBRHd2Q2ZrTkM0bl9FNjhFNXNKdnhiWXRaNkVoazUyTmUwNENMSWVsRVozUTlN?oc=5",
-          "ts": 1787252354000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
-              "dir": 1
-            },
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 1.0,
-              "dir": 1
-            },
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": 0.8,
-              "dir": 1
-            },
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
               "pct": 0.8,
               "dir": 1
             }
@@ -1438,14 +1420,14 @@
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 12.0,
-      "n": 8
+      "net": 11.8,
+      "n": 7
     },
     {
       "sym": "GOOGL",
       "name": "Alphabet",
-      "net": 8.1,
-      "n": 8
+      "net": 7.3,
+      "n": 7
     },
     {
       "sym": "ASTS",
@@ -1466,22 +1448,22 @@
       "n": 21
     },
     {
-      "sym": "META",
-      "name": "Meta",
-      "net": 4.0,
-      "n": 4
-    },
-    {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 4.0,
-      "n": 4
+      "net": 5.0,
+      "n": 5
     },
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
       "net": 3.8,
       "n": 16
+    },
+    {
+      "sym": "META",
+      "name": "Meta",
+      "net": 3.0,
+      "n": 3
     },
     {
       "sym": "SPY",
@@ -1493,12 +1475,6 @@
       "sym": "AVGO",
       "name": "Broadcom",
       "net": 2.0,
-      "n": 2
-    },
-    {
-      "sym": "AMZN",
-      "name": "Amazon",
-      "net": 1.4,
       "n": 2
     },
     {
@@ -1517,6 +1493,12 @@
       "sym": "AAPL",
       "name": "Apple",
       "net": 0.7,
+      "n": 1
+    },
+    {
+      "sym": "AMZN",
+      "name": "Amazon",
+      "net": 0.6,
       "n": 1
     }
   ],

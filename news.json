@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T07:56:56.994603+00:00",
+  "updated": "2026-08-21T08:36:50.997176+00:00",
   "categories": [
     {
       "key": "tech",
@@ -120,28 +120,6 @@
           "category": "tech"
         },
         {
-          "title": "Marvell permite a Google invertir 12.200 millones en sus acciones a cambio de chips personalizados",
-          "source": "MuyComputerPRO",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaGVJcm8zMDZOSTVBS1N1d3h5YjJoYldVNngxRGpGVjJZSTlHY3ZlcGV2UEtNTXJ4LVBOS29UUGE3YkJDMHpPUDJTUnY5dU04bm1jMHlQbUxUOWN0eFRKUmt0dHJoZnRtUWFETzk1cXBsalVPbTB2VkNFYzgyMlVnaFdHUDNkWnlncmJ3cTJzUVRvVXk4aldwTEgzV0hzVEt4YVdWSm1WRkUwc001SVB0MFQ4aGU?oc=5",
-          "ts": 1787216374000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 0.8,
-              "dir": 1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
           "title": "Acciones de Marvell suben 11% tras acuerdo de warrants con Google",
           "source": "Investing.com México",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONWtRYzNsQU9CRkR0b2ZHSV9QSnZFaWU5NkFTZjhPMHlxQzViUnFBdWt6bkw2M2ZidGg0cEFzSXcwNUdxdEpXMTVsTTNid0dMOXVnTmg1NDI1RnhBN1hwSFFfclBJcG5yWnByLVFOLW9TLVRIT1VHLUU1dURacVptbXg1d21Ta3pfbnlqdFJ4ZlNraHZ4d1JkMzA2SlFLYXkyNURmZ0duNXE3cEZ3Z2JFcjlRcnNoV0hmNlJ1X1k2ckhlTGdEODhz?oc=5",
@@ -194,6 +172,28 @@
             }
           ],
           "category": "tech"
+        },
+        {
+          "title": "Acciones de Broadcom expuestas a preocupaciones sobre proveedores de Google mientras se proyectan 370 mil millones de dólares en financiación para IA",
+          "source": "TechStock²",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVTNFLWtlUzZwREFOX1FxQ2tEUkxtTzUweDZsdzBfaHQ4R1BYblVYc0ZNZk03aTQ0RmlKcS1EaWI0YWZpSVJhckZxYXlkVURMQ2d3U1FfRXdZTWpNN19uVm9JREVqN1c3NnMxQU5iVGZpZWYwWHdtMk1sYW1kWXhrUE5xdzFuZHFwUFFzNDkwdXVlNDJON3lhc0pPZTBDMHg3Wmg1cEd3MkZ0SmtkU3k1TzZCblBmcmRQZ1RkNEdWdG9zaXNOWGZrRmdKYlJyc2szaG51YWp1WmVHSFdlMnM1blUwMGNIaUVfVUFzVUlUQjF2RW83R2hobzZOREdMLWs?oc=5",
+          "ts": 1787169910000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "AVGO",
+              "name": "Broadcom",
+              "pct": 0.9,
+              "dir": 1
+            },
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
         }
       ]
     },
@@ -201,6 +201,22 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Nvidia desmiente el desarrollo de un chip de inteligencia artificial específico para China",
+          "source": "MarketScreener España",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQU9IQnhzWEM0S1JFYlF1Y29NWEYxQ1I4dG5ZMzY2UHloVThqdEdnalcxVklTdEx3UjluemhNTTkybUZ2dHdVWnFhUTlLbzh3YU9LQjB2MWlYd1dPMktSRWlEc19TVHdKWUNZNFhVTkEyR3JQRzRVSzZuUlNYQ2xjOE02LV9sMWhFMWtleHBfU1QyRmptZzJ0aWNqekRyck5NUEdNTDBNbG5ZMEF1bzlMYXVRYXhUaFhuWUNmZXRzeTJPNzFkM3FiY0FpVHUzSXg0Z0EyOWc3dzRkVEF3dmNz?oc=5",
+          "ts": 1787300892000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Nvidia desmiente el lanzamiento de chips de IA personalizados para China antes de fin de año",
           "source": "TradingKey",
@@ -227,7 +243,7 @@
             {
               "sym": "GOOGL",
               "name": "Alphabet",
-              "pct": 0.9,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -386,22 +402,6 @@
             }
           ],
           "category": "semis"
-        },
-        {
-          "title": "Entendiendo Nvidia",
-          "source": "Enrique Dans",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kNGtMUkdYUGl3Z1oxdjYyOGhwZ3doeXd3ZEFqaEpyY2ZQbWhHRUozcjUxS0JOSjdzUTRVTkx1R1UxN1RUc1c0S28wV1paY3JsZWM2TU9OM05GaERRcV9MSktGc3FLRDNuQmJz?oc=5",
-          "ts": 1787223860000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
         }
       ]
     },
@@ -534,22 +534,6 @@
           "category": "space"
         },
         {
-          "title": "El rechazo a Musk llega a Wall Street: inversores buscan excluir a SpaceX de sus carteras",
-          "source": "Bloomberg Línea",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSl92QnI5clQtblk5OGdqdzYwS3RBMjNEeHFvN0Y1c1hsN3dCYXpoM3k3S2p1dWhzdFRJQmRSR1g0RFN5ZjVEMERtOVZxNEFORlpxMW55Mnl2WEtrd0dQM09wWU83aE1GaHVKYnAxdGpvTEViREVtRGdYTnN2LVRraEhFSGJDR3hJdDg2UWdWcF85NzU3UWV6WkFPbG1HOFVUQ2J4ZkdVUHBZQlB4bElzdEF6ZXZnUUlaZHJvVlNDZmRKSlNmTklSWdIB3AFBVV95cUxOTlhfdFJnM204V0xTRVAta28xZjRVRnlMT3hqNzJ0d3VJdGhRSnBoZGhEUzBHNVR5eGxDdDQ5a3NCMDNRcVdoRWEzWFZ6R1BLQ0xZb1lJOFVQOE1jS2NEdUpxamk1X0JvZ2szbm9wNHJBWG9GcUJtak5NTWlNbDhTcEJ3NnVjbHRVbkVyZkJnRW9jb1pKRzlPbUU1a3Axd2dzby0wOFJHUUY4ZkVELXQzSTJlU2NybHNPd2I3bkwyMVZYdWJwbE5mLXFpMWxjQndJb29MMTFuUXFnLVly?oc=5",
-          "ts": 1783321200000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "space"
-        },
-        {
           "title": "SpaceX entra hoy en el Nasdaq 100 y obliga a comprar a fondos con un patrimonio de 700.000 millones",
           "source": "Cinco Días",
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOU0tLaGpOdzA5TW5iRjZaak9xMUFhQ3RDVmdJM054akV6SWRqN0VHU2JXZXgyVWtxSVAwakhicDlHQlBhZjE2cjlzNTRFd0xtd3pFdXBkUXlsaFBaYno1VzhQeGl6V0dGN3dVM25jeTNpMGRXcVdVWmctSG1wSERJTmFGSF85dVhSZXY3d29uMElBQTEwX19uNmI5N09LOVl2cUI5aHlNTUxwZzVwdE1nSWpjWjZORjBwYXRiRk9wellIcGFHY00xZEZnbV9SSjBSS0tWNkREaDNSdTYxZlZHcGJMbnlyQnlrVk82TmMwUV9IdUU3NUJZ0gGLAkFVX3lxTE1SVG53czBiSGZpa1VfMS1qcnkwZWxhQWhFVlg5OVZVZUtKc1BOVGJRRlYtdmdHdi1OTG5MTlZwaDgyVXJDbGpkZ1BQR1UtWndsX2d4WUppY3o3WGRtak1WdzJHRy1nSERJSDMtMTcxdDFtYjJBOVBFbzk1eEhLUXAwbThuM2w3amhMV09RdXZrZkozbmdUUzBIOEg2dnA5em8wV2JUWVpfUGU4UmFfUWp6UVZJZGJMWnd5ZkxVNmRRZHgwazRjSk9ralRlaFFucGs3UjI4b3VzOVdSVlZLUmFvMUE5UXJuZTg4SnQ2UTNQdFc4WkJzTmV3RU9idU1KQzUzeHcxdmV2VmxoZw?oc=5",
@@ -576,6 +560,22 @@
               "sym": "QQQ",
               "name": "Nasdaq 100",
               "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "space"
+        },
+        {
+          "title": "Elon Musk planea un móvil de SpaceX conectado a su red de internet por satélite Starlink",
+          "source": "La Vanguardia",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc004bTVmVE5pOWVyR2xWU3RsM1VzajVMbEpHYXJpTmtGTDZMa0hDdDZVZnkyejV1TTFxZDQ4bnNTUWVwNnN1THN5VkZIVDBGSjZLWFByNEF0WU9mTmhWeGJkaE5rVVJXSUw0aF84WGVJQWFIdFU3UkgzQ1REUzFnYzFsMF9XM2ozeUZnclJFS2JrV2VHOU9IS3JCQ0l1T1pDWXBQM3c5elRvRXlTUXpXdnJCOTJTdkVIbXozNVQwcEJjUFZCZXfSAcsBQVVfeXFMTlVBWDlYeG15bGE5cHZ3Ynotd1FhNW9idmt6ODVJNXlJRjZENTUwTjE2OWoxa3lCdU1aQS1JZWtST1NhM05sWi1MMWpKbW9aY01CTlduUnN2dDJZMlZBekRIT2MzZnFIbXVfVWJQZnM5XzN5LVU2dXdDZU5VTkM1d2lnRTJqTGhCLWZma0JJLXRqZGpyS2VmRlVkWi15MUpuRFg3dnhNNmYtdW1mdlF5RkRNNVRldTJFSEJJc2lqMkMzeHpqZXpCUDhCLWM?oc=5",
+          "ts": 1782975600000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "TSLA",
+              "name": "Tesla",
+              "pct": 1.0,
               "dir": 1
             }
           ],
@@ -1266,6 +1266,22 @@
       "label": "Macro / Bolsa",
       "items": [
         {
+          "title": "Bolsa de Valores de Lima continúa con ganancias, mientras que Wall Street sigue cayendo",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOEtlNTBYTkhKYTFEeFp5d0ZBWHBBR0xYR0Zzc2hLQmF3MFhGcURwbmtOYzNPOG1tdEZ5LTctV1VMM05PY0RnREgwTmozRHotYTJMbHJVMVA5aU5lTUw5cHR4V0w5MmtPWThTdUVwLXpldDdiSGdsMk9wZ0FObWJibWJMWHdDVTNldnVlLUFKeTNpSVViSF9DazZ5ZTJEbzM0aWRVaTlBeENUQ2MySEtldWlfMkkwdU9jZGpfYVgwOHNqN05fWFHSAeABQVVfeXFMT2pJQWVKSmhUZkxGejluWkY1RXF4UXJybUtkaHZUb1czbDF0c1FRYnJCUExtenpyUGhfYU00TlZ3M2tBbmRaRE5OTVR1TkNSRERBelZ6V1J2dWR4LU9wTmxYaUlWcW1VQlB1NWlJUGxweFFFR1pXSDR4aUo2ejU0LUlmOE9Ua295WU0yOWEtbXRRenNiVzhjRllQTlZrcFR1c00zZ3BPTDdSa0VDNW9lcHFtUXY2aDJJMmgxTjFLa1Y5eUZKT1EyWFloRlp4YjdKZ1hjXzFnXzVuODlZZ2FKT1U?oc=5",
+          "ts": 1787251500000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 1.1,
+              "dir": 1
+            }
+          ],
+          "category": "macro"
+        },
+        {
           "title": "Wall Street cierra ‘alegre’; se beneficia con el anuncio de compra de bonos de EU a largo plazo",
           "source": "El Financiero",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWHlyUDVaRTl5b3ZJcm9VeE9wZF9uOWlTVVZGMGtPcmlad1A4RW96MjdfVDFzSGFzOHRtblBld1lQYzIxcUFDcEh3YlJIY2w2eGZKa2t1MktMUmFNT3MxeUY2dHFHVjJQS2xWOW45S2laOEJLWjZTb3VuQkRyMzNTeVFqTnItVnhicFV0M19KQmQwVDF1dDBkSA?oc=5",
@@ -1438,22 +1454,6 @@
             }
           ],
           "category": "macro"
-        },
-        {
-          "title": "Wall Street cierra la semana en verde impulsado por el sector tecnológico y el mercado laboral de EU",
-          "source": "LatinUS",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZGUyRHNlZTJxM3FZUm5jQmZ4S2ZoQVVjS1dZN3o1aGtiMlE3Um83OFgwOWZLZjlCLXNtTUhCQTRmcWxSMEE5ZVV6Y05uQjZiTTdpdlNJTFdkOWJETWR6VU1WTm9DSC1vbHY1c1NkRjkyYVRlN0FTY2otelUxMERsT2x0OVlneEp2UXF0d2N6dklSV2dXU1pZbVE3SUh0TGpxZlZWRmFLU29SeUI0elNvcURhNXh0eXBNUXdta0NsUzdHRi1fLVpjZkVEYjdqZ214MTFaaVNiS3hROFVPdGRNTtIB4AFBVV95cUxNZGUyRHNlZTJxM3FZUm5jQmZ4S2ZoQVVjS1dZN3o1aGtiMlE3Um83OFgwOWZLZjlCLXNtTUhCQTRmcWxSMEE5ZVV6Y05uQjZiTTdpdlNJTFdkOWJETWR6VU1WTm9DSC1vbHY1c1NkRjkyYVRlN0FTY2otelUxMERsT2x0OVlneEp2UXF0d2N6dklSV2dXU1pZbVE3SUh0TGpxZlZWRmFLU29SeUI0elNvcURhNXh0eXBNUXdta0NsUzdHRi1fLVpjZkVEYjdqZ214MTFaaVNiS3hROFVPdGRNTg?oc=5",
-          "ts": 1786086000000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
         }
       ]
     }
@@ -1468,7 +1468,7 @@
     {
       "sym": "GOOGL",
       "name": "Alphabet",
-      "net": 10.2,
+      "net": 10.0,
       "n": 10
     },
     {
@@ -1498,14 +1498,14 @@
     {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 4.9,
-      "n": 5
+      "net": 4.1,
+      "n": 4
     },
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 3.5,
-      "n": 17
+      "net": 3.8,
+      "n": 16
     },
     {
       "sym": "SPY",
@@ -1522,8 +1522,8 @@
     {
       "sym": "AVGO",
       "name": "Broadcom",
-      "net": 1.1,
-      "n": 1
+      "net": 2.0,
+      "n": 2
     },
     {
       "sym": "INTC",
@@ -1532,16 +1532,16 @@
       "n": 1
     },
     {
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": 0.9,
+      "n": 4
+    },
+    {
       "sym": "AAPL",
       "name": "Apple",
       "net": 0.7,
       "n": 1
-    },
-    {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": -0.1,
-      "n": 3
     }
   ],
   "ecuador": [

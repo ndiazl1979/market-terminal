@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T23:54:30.408978+00:00",
+  "updated": "2026-08-21T00:42:39.017035+00:00",
   "categories": [
     {
       "key": "tech",
@@ -60,6 +60,28 @@
               "sym": "SMH",
               "name": "ETF Semiconductores",
               "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Predicción del precio de las acciones de Marvell: ¿puede MRVL seguir subiendo tras el acuerdo de chips personalizados con Google?",
+          "source": "TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUENIWWJ2RFBzYkdDck1vcHlGLU5IczhCajMxb3g3MFZnZlRXY2dJbXpYd0ZNd1VRcm5wRXNEbTRsOF9MdDFoLWN5bi1KWkt0WnpqTjRkSmFRa1lsbndvVy1wYTlCUjVSLWxCa2lKZnhaSURPakRfTmd3dmh4ZU12LUZUT2dreXJrazZHZ0VYVkNmREh4NnJqeVhRRC1Ka240M2kwSlEtam9VZGdnTHVFazkyZlpnTU91ODkyQ1BQQjVjM1ZKNWd1RW9KVmVvTXlRT0RJVnhJT1J2UFVTVW80?oc=5",
+          "ts": 1787216851000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.7,
+              "dir": 1
+            },
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 1.6,
               "dir": 1
             }
           ],
@@ -180,28 +202,6 @@
               "sym": "GOOGL",
               "name": "Alphabet",
               "pct": 1.3,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Google podrá comprar hasta 12,200 mdd en acciones de Marvell para asegurar chips de IA",
-          "source": "DPL News",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NX21yS2s3Z200NTNJQTJtdzE0LTJDR3RrcFZkaUpvZUJoeUVKNVBtV2I2cnJkeDZ4cHhQbVdVVGYxRW13XzNNckcyNnNDYzJJVGk3WmpUb1ZjMzNVVHhuMDVhTTdycXJORzVtUDUwWTRfMjFpMFBJeEZ5dUJ4MWs?oc=5",
-          "ts": 1787164931000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 0.7,
-              "dir": 1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -1262,6 +1262,22 @@
       "label": "Macro / Bolsa",
       "items": [
         {
+          "title": "Wall Street cierra con números rojos, lastrado por alza en interés de deuda de EU; BMV gana",
+          "source": "El Financiero",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeXppU0xRVVJIdFNSMHQzWGlpb29jQ0UzSWJBRlJEcjN5M0p1RkYtNzlxMDhLQV9JeHBZR0ZZWF9OOEs2Wm5ubHdqUXJSU1J5eWpMUGNxTFZVNjFKTzAwQmlGTzhMN2dNVjRpd05LZGlRZ1oyekdNaW9BWHRkdk43WXAwckdZTEYyWktSQjJnQ0VEMnlPSUVzdw?oc=5",
+          "ts": 1787269319000,
+          "sentiment": 0.67,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 1.5,
+              "dir": 1
+            }
+          ],
+          "category": "macro"
+        },
+        {
           "title": "Wall Street cierra ‘alegre’; se beneficia con el anuncio de compra de bonos de EU a largo plazo",
           "source": "El Financiero",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWHlyUDVaRTl5b3ZJcm9VeE9wZF9uOWlTVVZGMGtPcmlad1A4RW96MjdfVDFzSGFzOHRtblBld1lQYzIxcUFDcEh3YlJIY2w2eGZKa2t1MktMUmFNT3MxeUY2dHFHVjJQS2xWOW45S2laOEJLWjZTb3VuQkRyMzNTeVFqTnItVnhicFV0M19KQmQwVDF1dDBkSA?oc=5",
@@ -1434,22 +1450,6 @@
             }
           ],
           "category": "macro"
-        },
-        {
-          "title": "Wall Street cierra la semana en verde impulsado por el sector tecnológico y el mercado laboral de EU",
-          "source": "LatinUS",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZGUyRHNlZTJxM3FZUm5jQmZ4S2ZoQVVjS1dZN3o1aGtiMlE3Um83OFgwOWZLZjlCLXNtTUhCQTRmcWxSMEE5ZVV6Y05uQjZiTTdpdlNJTFdkOWJETWR6VU1WTm9DSC1vbHY1c1NkRjkyYVRlN0FTY2otelUxMERsT2x0OVlneEp2UXF0d2N6dklSV2dXU1pZbVE3SUh0TGpxZlZWRmFLU29SeUI0elNvcURhNXh0eXBNUXdta0NsUzdHRi1fLVpjZkVEYjdqZ214MTFaaVNiS3hROFVPdGRNTtIB4AFBVV95cUxNZGUyRHNlZTJxM3FZUm5jQmZ4S2ZoQVVjS1dZN3o1aGtiMlE3Um83OFgwOWZLZjlCLXNtTUhCQTRmcWxSMEE5ZVV6Y05uQjZiTTdpdlNJTFdkOWJETWR6VU1WTm9DSC1vbHY1c1NkRjkyYVRlN0FTY2otelUxMERsT2x0OVlneEp2UXF0d2N6dklSV2dXU1pZbVE3SUh0TGpxZlZWRmFLU29SeUI0elNvcURhNXh0eXBNUXdta0NsUzdHRi1fLVpjZkVEYjdqZ214MTFaaVNiS3hROFVPdGRNTg?oc=5",
-          "ts": 1786086000000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
         }
       ]
     }
@@ -1464,7 +1464,7 @@
     {
       "sym": "GOOGL",
       "name": "Alphabet",
-      "net": 10.1,
+      "net": 11.0,
       "n": 10
     },
     {
@@ -1480,16 +1480,16 @@
       "n": 5
     },
     {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 5.7,
+      "n": 5
+    },
+    {
       "sym": "WTI",
       "name": "Petróleo WTI",
       "net": 5.0,
       "n": 23
-    },
-    {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 4.7,
-      "n": 5
     },
     {
       "sym": "ITA",
@@ -1500,7 +1500,7 @@
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 3.3,
+      "net": 4.4,
       "n": 17
     },
     {

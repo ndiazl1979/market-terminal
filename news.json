@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T13:20:56.774820+00:00",
+  "updated": "2026-08-22T14:01:50.851278+00:00",
   "categories": [
     {
       "key": "tech",
@@ -58,22 +58,6 @@
           "source": "Investing.com España",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZ3JCV3F6TnQxSk1VcUZGb0s2cndTV1RQQTdWNE5DWlpQa1NOSGlfNXU1R3dmZDdzR2xIN3B5enNnaVVTYWRnWEtZSXl1UXBPc3E0QmlOQXEwMmhMVUN4bG5PVnJ5VzFJMjU2cTNudzBGdHI4M1FRMktmSGZJRU5tUUxYTUJnM0RxdTlGd3NXb0Q5ZERweUxQSnRHS2s2c1AxdnhZbU8wb1JTeVpxZWlNNE84Tjc2cWNjRGJDVVI2N0ViZjREVUNxNFdNQW1oajZqQUNMYmxoVWxwaVlK?oc=5",
           "ts": 1787273160000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "El director de Tecnología de Meta vende acciones por 4.379.184 dólares",
-          "source": "Investing.com España",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQblVQb1RMa0gwV3hETWVmRlRpS3pNdVVpbU9TTlRzeXpHY2RPVHhnMDRiaXVnVWtuSEJ0Z3FKMlZKNURmcVljaHcxSDlMbzdCc2p5NFBMSkZiUHFzcFg4U0l3Y2VycEN0aWx6bkljOXRodnpIUHA4WDJ4UEVhMTFNS1QtTGFGVm13OVgydDVzVURfbnBDOHc4RWdSaDY1d2NnUWtTbDhWQlNGM1JCeE9hdVk5Y19wLVNNVmlFSzZrV2tRVFJudU1sWTdISFE?oc=5",
-          "ts": 1787270460000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -188,6 +172,28 @@
             }
           ],
           "category": "tech"
+        },
+        {
+          "title": "Marvell otorga a Google un derecho de suscripción de acciones de $12.2 mil millones en un acuerdo de chips de IA.",
+          "source": "es.qz.com",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWFI5UHk4MVdMVmlpUVRDRWotVFY5b3V0SV9RYlVDX3BDWjhGMmw3M25YV3JpMTJ3dHUwenlxZ1hSU1hMaERmcEJsSy02U2QzaW1tVzNiQldvVHBGYW1SREdhTGFoenVGS2xlRVNkWWxyLUtmTnJzV2xrdnBKVzZfTzduSXhHNHlVR0QxdFRvVU9tWHhZeGx4M3lGVmxJNXhHV0hF?oc=5",
+          "ts": 1787167405000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.1,
+              "dir": 1
+            },
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
         }
       ]
     },
@@ -196,10 +202,58 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "Modo BTS en Gemini: Así puedes activar el contenido especial en México",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSlNCUDg0QlRxc2R3RF84UDJwcUVxdnFmb1hQTzg0Q2xMTUJsR3FZZDdJVGJLcFdncHNuYzlLWng3MkItMEdIa2ZuQ21FaWN5U1pxOFV3blg4MW5GdHdPbjRVS2F1dHR5UFA1elVMcVIteXB6d0RyVXVMeUhiMkwxQ0c1VVNYdnZMWWxlY3VrWlR3VmFxMDRENnc3dVBmcFNKY1pBblRweUVTRkZJcFBLT0xR?oc=5",
+          "ts": 1787406373000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 0.9,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Waymo lanza su propio chip para robotaxis: 1.000 TOPS y fabricación TSMC",
+          "source": "KCH FM",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT0RhMDUzN3MyRHJTTExoSE12YlVmV0NOYjlQYWltcWxkZk5uMnlRNlRCdVkwaFpGQm04UmxmbGlpTmo4SThNWUU4UU9FNnIybTFzLVNYNVF6QzRVUVNaQVZBSk9ZTkI5Y3hoXzhUa3FpS2I2NHBYX2RMUWpMeGc0WnVzaExKaW1IcnkxVDRsVUJVU3M3M1M0dmxpZU1JZXVFLUVWRFpNdk9NalRKYWRGZA?oc=5",
+          "ts": 1787405696000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "TSM",
+              "name": "TSMC",
+              "pct": 1.2,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Aplicar la transformación digital y la inteligencia artificial para expandir los mercados de las empresas industriales rurales.",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWEl2VGtraFp3aW5OWUF3bHVzNEpVM2l4WE5TYzhXTmFwUnNCRC0wX2Z0ZnhGeTFIZU9acGtZMzVKSnIyWHl3bGtIei1YQVRvVTVNQWpNaklnSzZXRnRVUEVSV0pUN1V3SGFyWWZjak9TWWQ1ckVPcDlfWGRCc2RQdF9zSENXWUhQYUgzUjRVeXFJMFpMWjIybFFIRlJGRmthZzlGSktFaXBIR1lyZFk0UkdMdGRFbkhNb0ZEYw?oc=5",
+          "ts": 1787405058000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Apple recorta más de 200 empleos en Siri y Vision Pro para priorizar la inteligencia artificial",
           "source": "DiarioBitcoin",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLXpuLVpHdTBoNE4zZEFEWE5CV09TUEtheVNPdHM2TUF2QUxydUxJc0FhUk9TOXR3SE9GUU9vTWZBVy1lT25SNmU1d1hOUkdib2g0MEppOGFZc2k5dlRVNnBNU0V5MllLM0wyeEl2SkNKekQyRkpaYkJQeTJHUDc1Z0p2WWZWaVFGVGdxbmNGMFFHX0diV1h5c3JPQzBuY0UxekJXVnRUdlpjd243SWxhZlpDeGJRUGU5TzFKNzhhWGdTa2NHVDZfZ01tUUVnM0VjYldV?oc=5",
-          "ts": 1787403540000,
+          "ts": 1787403774000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -222,6 +276,28 @@
               "sym": "GOOGL",
               "name": "Alphabet",
               "pct": 0.9,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Nvidia planea invertir cientos de millones de dólares en infraestructura para centros de datos de inteligencia artificial.",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRVhXR3lYTVljc1k0Umpvemc1NkdiZ0V6aVFHLWI0LXdpOUFWRGh3YzJfZ1V2eEhtLWY2ZGRpckYxbzgwTlNjcXAtdWJmUnpWSEVRRDM0ajlTREowR3ZTNGtoanNlb2tVRDBxSXBLQmFnc1RtcVptamEyb1F2NElXRjU0a0I1b3hVMWZFbkpGa0w0YnRVYkRNWWJCdXkwUQ?oc=5",
+          "ts": 1787400885000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
               "dir": 1
             }
           ],
@@ -269,7 +345,7 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             }
           ],
@@ -286,70 +362,6 @@
               "sym": "NVDA",
               "name": "NVIDIA",
               "pct": 1.5,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Propuesta para aplicar la inteligencia artificial a la detección y alerta sobre transacciones inmobiliarias inusuales.",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUmZpTVpkbzFCcVVFSUgzWlFVMkk1Wk9wV18wbzUwWXpaZTVFdDNpUU15UDhlRE5LTlI3bWRHd3dPeUprQUFpa0M0Q1lvc1JCUWY2ZjRQZnpvR0hBUHZhakk3TUdYdTdXVWkzWHdreXU3WEozb08wRXhJSklBSFcyTGVUVWVJZll3eGFhQ0tlMXZpS01DbDNpc1REbXVaWU0?oc=5",
-          "ts": 1787378689000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Mientras la inteligencia artificial avanza, empresas tecnológicas recortan a miles de empleados y compañías como Meta y Cloudflare vinculan parte de sus despidos con la automatización y la transformación de sus operaciones",
-          "source": "El Imparcial",
-          "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQUEdTdnpwVzEzeHVqd1RONWtPdGtyWWtSOWt4ZkV5YjRvT1ZOT2VLLTFVOWZrVUVvRXdqeGVuRTBtOWtHV2V3WTNJb3dsYlZLVlFYczVVbFNmcHhOUXN3N21XNzFVODVORjVvYkxIZEhTekI5VFBfRlpQbXJwRlI1UGtRYkVzT2xlbXlrWE5ZVVVWQ3JDTUthZnVoN20ydFNMS1d6WlhrTFVQY0VKZUJyN2ZuYXV2RmRqanFpOURiVmtwUkpObFN5Z2tBUGtoc3kwejhyWUFCNDY4Sl9zWHVfS1pwS0pVeDQ4eW5tOGdjWjNaZ1AwNUEyZ0VRRU1iT2dMc01ucWRyUHUzbjNJcU5WajhhVGYwUFZQWnNhUTQ2azljbTE2RjR2QjF6aG5NOTlaZEJFYkpTeFlpMDlPeG5mYnF5ZE9EaTV4ZWszakRlZ2drNlBPZ1FRMk5rUzQtejdLUklUSU9uamJ4N0hOMzNYOG04aTBLdmVyUnl5d3ZLTHJhc0d2dlFv0gGiA0FVX3lxTE5aRkpxdlM4Mi1TOVdaM1NKT3pfVGJCbkRsT296OTJnOWRvdWZwQlpIZWJ3LXQtU2xHaTJkampMek9MYm1EQzM0a0xBYXF5QzRka2JJdmgzbGdqRkNsYk1mVGwwUVgyMDNpcTNJTWVWbVFibUkyLWFFY3B0UC1lTFZzVFg2R1hHWHhGLU1QRWI3Z2JMY2J1NGM0aEttMjJGYzNWU3JadTY2TTZ5TDVmeExvS1FRdWFIbE5OY2tpcmtDcHFKcGFWQ2ZGR0NtcDRiSnhoUEZJZ2daNTlXREtzSG9GcHZTZDFhZmhJZlVYMThNSXFxWWwxTTkyT1lnS0RadFRlaVRhWm1KUzRKQkhWMEJCUG40ejlKRWhwcldSQnFnSWdCRllQblRpTjlSa241YmdUcThkaVpCNEVmRmJiVC04NGVDaHVzSmxEMURhUk9GZ05vLVFPUVJfZ1BWbW9kWTBqS3luWHJyZ29zUGVYTjQ0cnZUTEdRQ2J2ZjJMSFptNjNDM3dCOWlMTXNaczBWR1liN2VOY3ZUcWxaTG1zSGdfWlE?oc=5",
-          "ts": 1787374883000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Meta Pocket: cómo la IA revoluciona la creación de videojuegos",
-          "source": "El Ecosistema Startup",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMmxMZnBHb0tXZHJPcF91UDVoakE0c1hzU1Q3QlZGUjA3RUNSaWVGcEpiMjFBeW1nSEZYYWRndU5xQUV6UGRxMXBKWXpMYzBzamJRSXNtT3BBUHN4V2ZfemRXb3dYZGQxQjRWZ2cwdFN3b29zQmxuS3MwQVk0cm40allOSm5EcUpQSk0td3lrTjU4bFkyZ0Vn?oc=5",
-          "ts": 1787351084000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Una herramienta de inteligencia artificial detecta señales de acoso sexual en Roblox, la plataforma que usan 123 millones de niños cada día",
-          "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNV1luaUloZUtRN3pQbjI0WHFpY2JwTzlVTDh3cTh1SmE4djY5bXlnZ2cxV2J1dmh3YkVjUlJ0T0lBb0RnUGlVbnkyMGpvTGp3VnNvSnBoblhNZXBETkdWZGdWVnh4eWpHei1Wa3hTbnRfUE9PdXZCMC1tNWs2Qzl3NzlBTGRIQ1VJdlg3VWpISElIQ3duM3hkUjZNR0s3aWZlb1V4Y25ObTJlM1FjaFNtYllQXzhOMXRibUhERERkeDNUOUlWOENqMW13WEtlNzNwcU5HdS1OUjVXS3czcEIyc2JXcFNGQm53U0R4a0NxUWhhZVVSb25KeExhcUJjaTdtcWNzOTF0U2stbmZIYWNaTENuUl9IYVZw0gGzAkFVX3lxTE1wN3h5WlBvcnFHN1BpQjNOYlRxN21ER3N1T29CeVNheXltS211d1FoNWVfeGt6dTNyQ0JWTUc1LVctVHByQmRzNHAtR0JzSmg2TDVWZGdHS3JrSDBhY0Y2M1hYbzVZbldVMHEtM1pEQmJWV1dUaGkza2F5MVpvcE5DaWdyQmFUY3lsR1dRR05VU2lsQkQ0d1BUUFVpRE1nNzVnQXoyVlc0ek5pMVlLY2JBTldGSGpEQ0g4blFpQmwydW8zX29xWkRHc2Nzb1RqRnV0alVQZlJFSldPSndDcXVzMzR2MlpBbHBnRXo1bWdWR2twVjN2azFEVEx1NjRlLXdNTDRmc1RfSnhHa0dIU3M5RlRvUWR4SGg5VFdIdTMtbmdPZ0pYdkJIdEVqWjBsa0dHUnc?oc=5",
-          "ts": 1787344080000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -490,6 +502,22 @@
           "category": "space"
         },
         {
+          "title": "Duro revés para las empresas de Elon Musk, que ya no es billonario: Tesla y SpaceX lideran la caída de las tecnológicas en bolsa",
+          "source": "MARCA",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeWlMNmdHZ0NLei1KendvdlFob0txUDhfbkx6bG1XbGk5M3RTRThNTTV6SjhnSlFUN01tMmZ5NEpqbTN3Rjg4WTc3eTlOUUhoN01LN2Vhd01kWHdEWmdhNmJFVm93OU1VeUtBeXhfS2x0QmhOamo1MFduaVQ4VUtGRG9LYkptMDlqUkx3OS1ZNlllSkhDY3BGZUs3TU9fWXFwdXpteWlRZzdSRXFUSXNwcUZBeVRJWHJCbmt5ZlJoeVFPaHFNRWtPMV84bmwwUlZL0gHQAUFVX3lxTFBzM2lxY2hPcGIxaGxYbDdKOW8xVkowdWNkcEllVDd6dUx2LWtmaTRwWmw2U3F0X2hMR2RLYzZycm1LcUNvQmp6dXJ2UWpoeGl6TUpHbFlocGVNSW1lS3piQlROZ3Q5el9VNTlMd05RS3hoRnhBVzJMdDFWWlBjZEduRDJjdGxEN1d6QWRZREpSZGQtTzVLcDJBcldVTGlXSVFpU3d2X2hVcmZIajNCZUF1cXU0eFBvR1E4dmsyN1RuLWFjUl92VEtlS05GcElEU2I?oc=5",
+          "ts": 1785222000000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "TSLA",
+              "name": "Tesla",
+              "pct": -2.1,
+              "dir": -1
+            }
+          ],
+          "category": "space"
+        },
+        {
           "title": "La salida a bolsa de SpaceX enfría al sector espacial y borra más de 1 billón de dólares en un mes",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaFp6ZTJWR2ViLWJrdEowUGN1XzFHM1A2QXYwMTFWYk1sTjl4UmJJUTN4emlTdnBUUFRocnBZWDdCZXlYYnhIcUFsamlxRmNfXzRfdDBNbGNXcEJUZ3gwSnl1Zi0xZW4xTzBFLXlJeUZqTHhGVnoydFVYdGt0blhJYVFrbU9DS254SUF1YWJYUERNaUEzV1BYSUpTa1ZadVJJUWJkR1VGS3c2cm5Fb1phUm9BNENjV0xMVE1RQnBHUnVkVWVmSWRKODRRbFNPcDVWV1BfLUxnMNIB8gFBVV95cUxNS3paTFRHd2RWUXpfV3pMMmJlNkJFeDZtOFkwQlV0amhWOG0yYkhMN2RROUZhdW9tRXlUVVNMV1dILUNzMUFqTzFzT2UwU1hxc2JESGRrWllzLU42Mm1YT2dRUENaVmVoS1ZqQkQ4MFJxQ1ZQeVlZMzZwbTR4Mk96el9iUXZrZjU4YzBwNnlDclNPN21waWRQTjFHblNUb2FTRldrSlhTWUxUclFXem5nbGx2ZUxTQmZ5MXllMUpPaWZMVEh0TlpyZ0VrS0YyYXVJT3BqaUpHRm56V19lTTlJRFNTaVFWVnVCTzZjeURRUEd2UQ?oc=5",
@@ -500,22 +528,6 @@
               "sym": "ASTS",
               "name": "AST SpaceMobile",
               "pct": 2.1,
-              "dir": 1
-            }
-          ],
-          "category": "space"
-        },
-        {
-          "title": "Google compra acciones de SpaceX tras su salida a bolsa: ¿A cuánto ascienden HOY?",
-          "source": "El Financiero",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ2RNd3Vnc0s0cEVJYmFBVmFXckJtVGh6bHpGWnI0Z1FubndIOG9YNC03TTZoOG5FeVh6SmZ6ZFlJYzhmdXVyNFA2Mm1DX1hOZ2p2VThIMWNmTkd1UGNNZEVEbVlmMGdQZWFhM09JdVdZS2hrblBpaTByeXZUZ0x3UXhFa3YwaUNjNzdaYUpfYzJGam1mazBuX3RtVC14aDRGbTRUdDV1RmlGWXBzd0thTGxSdDVZZ2JhVUh1eFdFLW1rXzFhSEdrNER0VQ?oc=5",
-          "ts": 1784790000000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 0.5,
               "dir": 1
             }
           ],
@@ -1408,28 +1420,22 @@
       "n": 24
     },
     {
-      "sym": "META",
-      "name": "Meta",
-      "net": 5.4,
-      "n": 6
-    },
-    {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 5.1,
-      "n": 3
+      "net": 6.6,
+      "n": 4
     },
     {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 5.0,
-      "n": 6
+      "net": 6.5,
+      "n": 7
     },
     {
       "sym": "GOOGL",
       "name": "Alphabet",
-      "net": 4.8,
-      "n": 6
+      "net": 6.2,
+      "n": 7
     },
     {
       "sym": "QQQ",
@@ -1450,6 +1456,12 @@
       "n": 19
     },
     {
+      "sym": "META",
+      "name": "Meta",
+      "net": 2.6,
+      "n": 3
+    },
+    {
       "sym": "ASTS",
       "name": "AST SpaceMobile",
       "net": 2.1,
@@ -1462,10 +1474,10 @@
       "n": 2
     },
     {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": 1.5,
-      "n": 4
+      "sym": "TSM",
+      "name": "TSMC",
+      "net": 1.2,
+      "n": 1
     },
     {
       "sym": "AAPL",
@@ -1478,13 +1490,19 @@
       "name": "Microsoft",
       "net": 0.7,
       "n": 1
+    },
+    {
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": -0.6,
+      "n": 5
     }
   ],
   "ecuador": [
     {
       "title": "La balsa ecuatoriana busca blindar su presencia en los mercados internacionales",
       "source": "El Universo",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUVZRWl80b2pmdllpbWFLTHF6aFpwTmpGM09vRG1UOThWUXVxTnpESmozR25BLS1WMXpZc0NiYlNnOTFfb2tkSXl3M1BiZjFTNGVZWEk5UUcxb1ByMDR6MjJCc1FBWDVmS3BvSk0tclhvS0ZHd3dERHVUNmoyMUVoRVhNaEI3XzRnbGF6U2taZU1NeWVoOTJNeFd0TGJYUDZieV9ValZybF9tWWRoc3ZOSXBEN1paS2pzbFZSOTJTVm14aVFlSWp2dzgtcGFsZ3VPNnAwVWZTLWdhQ2lwa0HSAd4BQVVfeXFMT1FWUVpfNG9qZnZZaW1hS0xxemhacE5qRjNPb0RtVDk4VlF1cU56REpqM0duQS0tVjF6WXNDYmJTZzkxX29rZEl5dzNQYmYxUzRlWVhJOVFHMW9QcjA0ejIyQnNRQVg1Zktwb0pNLXJYb0tGR3d3RER1VDZqMjFFaEVYTWhCN180Z2xhelNrWmVNTXllaDkyTXhXdExiWFA2YnlfVWpWcmxfbVlkaHN2TklwRDdaWktqc2xWUjkyU1ZteGlRZUlqdnc4LXBhbGd1TzZwMFVmUy1nYUNpcGtB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVnhtdjdTcFZSZE5ya1daTW9WVnBsX0ZMcVV6NFItUGtQXy1HWlFzLXNMbXZ2aFJZWHRXdHRhakVlVUlDYmRZQXdyWlpVUWNoZm5BSFY2ZTRxV3lUWU43dlg4cElrRXBTVmFZd0t2S0g4aHVoT2VjRndzQlRrQnFrclg2SWltYUwtODdDWnZ1UDJoZm82N2lVV3I4MVJJeUVfbFNnUmVqeW8xTHhURmE2aHI3N0Rsd0c5N21jWVJzdWhNTGFWaWZzdWdn0gHeAUFVX3lxTE9RVlFaXzRvamZ2WWltYUtMcXpoWnBOakYzT29EbVQ5OFZRdXFOekRKajNHbkEtLVYxellzQ2JiU2c5MV9va2RJeXczUGJmMVM0ZVlYSTlRRzFvUHIwNHoyMkJzUUFYNWZLcG9KTS1yWG9LRkd3d0REdVQ2ajIxRWhFWE1oQjdfNGdsYXpTa1plTU15ZWg5Mk14V3RMYlhQNmJ5X1VqVnJsX21ZZGhzdk5JcEQ3WlpLanNsVlI5MlNWbXhpUWVJanZ3OC1wYWxndU82cDBVZlMtZ2FDaXBrQQ?oc=5",
       "ts": 1787331000000,
       "sentiment": 0.0,
       "tags": []
@@ -1509,21 +1527,6 @@
       "source": "Diario La Hora",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUzRhbE5SVll6RWlHUF8xQUY1R0VoSmRMWHZ3RGVJVk9iYXNqQ3FjNy1GTERSUkQtYjhBQ0dENFNWWTdaY19sVjJaLXZFOUIyNUczZEd3Njc1LTBwNVBsdDBLamM3RHVDQnd5M2MxSTkwV1BHazVXcVFCZjFCTXAtc3hQdkpWRmV1NENMTkRQR0pRaVg3NzhhS0l0eVNKYmFYNUFnSmJwa2Z4ejBLQUtyTTNXdUUyZDc0cWc?oc=5",
       "ts": 1787324400000,
-      "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "RIESGO PAÍS",
-          "name": "Riesgo país (EMBI)",
-          "pct": null,
-          "dir": -1
-        }
-      ]
-    },
-    {
-      "title": "Bank of America: \"cualquier cosa menos bonos\"",
-      "source": "Estrategias de Inversión",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU2RFSUJpRVBwRUwxQVNGejdnRlNBVi1XbkREX3VHdVJCNTd2aW1MNUtYX29SVl84S3A3WjEtdHROendVZVdXMmhhZGM3Wjk4ckw1dkFYc2tScVprRTM4Q1ZSTkFTME1yOV9zYlFNSkd0OHZTX0hXZF9zNmVndEx3STBSeDVOQVB3c2xkdVY4bzlmTEtSUlJJT2xTTWxJZWZHczZXaDVBcEdURkt6bWlnSDUtRmFTRFAyYS16RWN30gGaAUFVX3lxTFA3c0RMRlByMGFhSGdXNDhmMkVOYW1JZEljR0pSaVlleTgtWUNweXdDUldhTEJCNUVVUDhBOUN3TEFMRVg2VWVTemJrOEp6a0JmVlpKbEsySkNrQ25pM1VfcmttWmpwbEszNGxoREc5YVZ5eFc2T1FoN1E5bk0zVnNmMmhwTXZaMEFsa1FDVmthV3RsQmRsOWpqRWc?oc=5",
-      "ts": 1787200800000,
       "sentiment": 0.0,
       "tags": [
         {
@@ -1664,6 +1667,14 @@
       ]
     },
     {
+      "title": "Ecuador: Más empresas miran al mercado de valores para financiar su crecimiento",
+      "source": "Vistazo",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNnBtc1g0ZU5oSEtWSkh6eHNIOTNnMHVIZmVVUU9DcGJOemQ3LUtLc2JrT1FvWExTTGlxQ1ZCeE1vaHFhMHZUNGJHUGJUWFE4MzdNcHVVU2dNNzVhamt2MHR0OWV2aDlNU2lSOW9COHQ3UDNrUHJWdjU1a0NCX2s3azR1ZlNuNWU2U3JiRHlOc2wwNXhlUDYzNDBaaUtybmlrTmhCWEFsQi1YTjVSaVdiYUhXOGc4ejVCRE5BSDdQMnNuQdIBxwFBVV95cUxNSFlfclQ5cGFVYTBEX1B5Y1FJelVCaTFselpRNm5KQkM3U3RBa2ZTNVViZ2dheUhQS2hxZy1HOE9PbVJnbkg2UEZWbmJ6UDg2UC1jRjEtWFZtcE9OU2V1TDZGUWYzMzl0Y0VLRVJldndNWi1jaUZkMmZCd1ZKbmkxdERnSUdNbEMzRnlxMzNJSFF1d3R2bXJROWg3b1Q5Y0RyWWZSVkZfNnU4R3djUTR6TXFWcTk5R1F6eUdZaGIxa0JNU0t4VVNV?oc=5",
+      "ts": 1786470828000,
+      "sentiment": 0.0,
+      "tags": []
+    },
+    {
       "title": "En Ecuador se vendieron 36 motocicletas por hora entre enero y julio de 2026",
       "source": "Diario La Hora",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMGIyd29kMlBtY1RXVzhzLWRtek85NW9JTWdiYy1TSlBKZ0lzZEdTbEVLVFJCeVFid0gzbmM3Rm9CdWR0QjFVbHpXYVBnb01tYXJILVN3NWl0YmROYVhFRWsxWUNEbFQ0TXJQaDJzcFM4QzgtUnRTMGR6NUVTTmxGUWptSFJDSU5qZFhoc215XzFfdG13U01Cd09DU2RIYTkyYmdCTmxSYUdXdDRlYk50UmJUSjYxVkpGbTZkMjNueXFqdWUwT3ZUM3NR?oc=5",
@@ -1672,11 +1683,11 @@
       "tags": []
     },
     {
-      "title": "Ecuador: Más empresas miran al mercado de valores para financiar su crecimiento",
-      "source": "Vistazo",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNnBtc1g0ZU5oSEtWSkh6eHNIOTNnMHVIZmVVUU9DcGJOemQ3LUtLc2JrT1FvWExTTGlxQ1ZCeE1vaHFhMHZUNGJHUGJUWFE4MzdNcHVVU2dNNzVhamt2MHR0OWV2aDlNU2lSOW9COHQ3UDNrUHJWdjU1a0NCX2s3azR1ZlNuNWU2U3JiRHlOc2wwNXhlUDYzNDBaaUtybmlrTmhCWEFsQi1YTjVSaVdiYUhXOGc4ejVCRE5BSDdQMnNuQdIBxwFBVV95cUxNSFlfclQ5cGFVYTBEX1B5Y1FJelVCaTFselpRNm5KQkM3U3RBa2ZTNVViZ2dheUhQS2hxZy1HOE9PbVJnbkg2UEZWbmJ6UDg2UC1jRjEtWFZtcE9OU2V1TDZGUWYzMzl0Y0VLRVJldndNWi1jaUZkMmZCd1ZKbmkxdERnSUdNbEMzRnlxMzNJSFF1d3R2bXJROWg3b1Q5Y0RyWWZSVkZfNnU4R3djUTR6TXFWcTk5R1F6eUdZaGIxa0JNU0t4VVNV?oc=5",
+      "title": "Argentina busca recuperar en Ecuador el mercado de autos que ganó China",
+      "source": "expreso.ec",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSlhDUGFNM1BxamU4ZkJYNXdIdlhPTzB5NWRGQmR3ZzQ1RlVIRXYxZWliQ3RTWnF3a3dJR0lDRUFjdmxKTElnUERmSFBseUdyQzNMZVFLRE4wNWJ1RmlJYUxVejdNdW83U2hfY196Q1VjSFdwMXpsdW1BN2FrM29uYUJJY1VQVVhHRHhJMzBhZHhoT1pCRHprSnZBN1RSRUk?oc=5",
       "ts": 1786431600000,
-      "sentiment": 0.0,
+      "sentiment": 0.5,
       "tags": []
     }
   ]

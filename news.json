@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T22:30:53.110091+00:00",
+  "updated": "2026-08-22T22:51:09.830051+00:00",
   "categories": [
     {
       "key": "tech",
@@ -158,6 +158,28 @@
           "category": "tech"
         },
         {
+          "title": "Las acciones de Nvidia se mantienen estables mientras la compra de $10 millones del CEO de Intel sugiere un aumento de $15 mil millones en la valoración",
+          "source": "TechStock²",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQLURHaXF4dVFObHNKUU5zLXBPWGxVWHlrQ0VNWmJ5Vm4xcC1sZzV3T0xQdjBpcUZwLVNUaVdJU2pIdFBDMUZVUkctaTVQOXg4T19qTlRxWHJOU01IVExxVUpuSXoyOUxFUHU0SW1jMkdaTjhPbkwwWVRLZThvNVJjSE1tVHVhWjZYRUxVREJ3bGR6c0Q2Z3hUX3RxaG93ZXN3MjVpMEZCdkFqNWdVbXBEb0FOQ2hMMFZBU3h1cGxmd25HSlp3aDJMTU1vRXh2a0dSNDYydG91ZG41UnpEdWE3ZFRXMnVVMllTanZrcWlVQkMyQUVqbV9iSndwSGdZN3Ro?oc=5",
+          "ts": 1787180977000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.0,
+              "dir": 1
+            },
+            {
+              "sym": "INTC",
+              "name": "Intel",
+              "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
           "title": "Acciones de Broadcom expuestas a preocupaciones sobre proveedores de Google mientras se proyectan 370 mil millones de dólares en financiación para IA",
           "source": "TechStock²",
           "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVTNFLWtlUzZwREFOX1FxQ2tEUkxtTzUweDZsdzBfaHQ4R1BYblVYc0ZNZk03aTQ0RmlKcS1EaWI0YWZpSVJhckZxYXlkVURMQ2d3U1FfRXdZTWpNN19uVm9JREVqN1c3NnMxQU5iVGZpZWYwWHdtMk1sYW1kWXhrUE5xdzFuZHFwUFFzNDkwdXVlNDJON3lhc0pPZTBDMHg3Wmg1cEd3MkZ0SmtkU3k1TzZCblBmcmRQZ1RkNEdWdG9zaXNOWGZrRmdKYlJyc2szaG51YWp1WmVHSFdlMnM1blUwMGNIaUVfVUFzVUlUQjF2RW83R2hobzZOREdMLWs?oc=5",
@@ -178,28 +200,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Marvell otorga a Google un derecho de suscripción de acciones de $12.2 mil millones en un acuerdo de chips de IA.",
-          "source": "es.qz.com",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWFI5UHk4MVdMVmlpUVRDRWotVFY5b3V0SV9RYlVDX3BDWjhGMmw3M25YV3JpMTJ3dHUwenlxZ1hSU1hMaERmcEJsSy02U2QzaW1tVzNiQldvVHBGYW1SREdhTGFoenVGS2xlRVNkWWxyLUtmTnJzV2xrdnBKVzZfTzduSXhHNHlVR0QxdFRvVU9tWHhZeGx4M3lGVmxJNXhHV0hF?oc=5",
-          "ts": 1787167405000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.1,
-              "dir": 1
-            },
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -207,6 +207,22 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Nvidia informó subas de más del 15% en servidores con chips de inteligencia artificial",
+          "source": "Diario El Norte - San Nicolás",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSnh1eUozUENzX21ia0JMR192NE9BZmQxYldvZmllUEJ0Q2x3YkIxeUo3dUJmUGJEZnhVbkN4bE1rMmRLdmtwdExFNHlqMFhjd2REQjJTNUJ2SXZxT0hob3hIckljYkRsN3NyRUNmaU5CN0R5bGlkaC16MXRNNmJkZ3ZMWG94ZC1laTY4Zm8yaWczV3oweE1WdDFDZldCdTZ2VVNmbFZsWFBGQzdrRE42SzVLa0o4dw?oc=5",
+          "ts": 1787438320000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Los clientes de Nvidia se enfrentan a subidas de precios de servidores de más del 15%",
           "source": "Investing.com España",
@@ -346,22 +362,6 @@
               "sym": "TSM",
               "name": "TSMC",
               "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Aplicar la transformación digital y la inteligencia artificial para expandir los mercados de las empresas industriales rurales.",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWEl2VGtraFp3aW5OWUF3bHVzNEpVM2l4WE5TYzhXTmFwUnNCRC0wX2Z0ZnhGeTFIZU9acGtZMzVKSnIyWHl3bGtIei1YQVRvVTVNQWpNaklnSzZXRnRVUEVSV0pUN1V3SGFyWWZjak9TWWQ1ckVPcDlfWGRCc2RQdF9zSENXWUhQYUgzUjRVeXFJMFpMWjIybFFIRlJGRmthZzlGSktFaXBIR1lyZFk0UkdMdGRFbkhNb0ZEYw?oc=5",
-          "ts": 1787405058000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -1398,16 +1398,16 @@
   ],
   "tickerBoard": [
     {
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 9.4,
+      "n": 6
+    },
+    {
       "sym": "WTI",
       "name": "Petróleo WTI",
       "net": 8.0,
       "n": 24
-    },
-    {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": 6.6,
-      "n": 4
     },
     {
       "sym": "ITA",
@@ -1424,13 +1424,7 @@
     {
       "sym": "GOOGL",
       "name": "Alphabet",
-      "net": 5.0,
-      "n": 6
-    },
-    {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 4.2,
+      "net": 4.0,
       "n": 5
     },
     {
@@ -1438,6 +1432,12 @@
       "name": "S&P 500",
       "net": 2.4,
       "n": 19
+    },
+    {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 2.3,
+      "n": 3
     },
     {
       "sym": "ASTS",
@@ -1476,9 +1476,9 @@
       "n": 5
     },
     {
-      "sym": "MSFT",
-      "name": "Microsoft",
-      "net": 0.6,
+      "sym": "INTC",
+      "name": "Intel",
+      "net": 0.8,
       "n": 1
     }
   ],

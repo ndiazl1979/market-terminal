@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T11:27:53.184922+00:00",
+  "updated": "2026-08-22T11:45:36.688407+00:00",
   "categories": [
     {
       "key": "tech",
@@ -196,6 +196,22 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "La revolución de los IPOs: la inteligencia artificial reescribe el mercado de capitales",
+          "source": "Corrientes Hoy",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRk9DNjFFeEw0Q2FkZ3ZBeDJ6WEpGa2Z0Y3dNNVRzS3hiaWhpaEhTQzJjMG8xdlNDTkhERjNvODVwX21tMkV3T01LbkhTbnV6X2F6Z0s1NDFnZ2s2Q2FZV241V0JXY3c3Slg0aDhZNWVCeTZwUkM3N3lxZ3ZvYk0tT3I4dURsMXhHdVBhOGd6eUtwcGV5WGF6WUJmVldaYXFmMGF2RE5WTjluekNfa0Y0U0xSVEN0OGxUMVRGSnhJOEc3US15SWtNanBySlNEdG5vSUhsLUdn?oc=5",
+          "ts": 1787398703000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "LG fabricará robots humanoides con Nvidia desde 2027",
           "source": "El Ecosistema Startup",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTGk1UjExWEp3ZnBwWVlSY09LRi1MRlBjczRPS1VSLTNRcFpYd0pZbl9sRWV3a3Y1MktGQ3BMOHNHSzgzbHoycko1V1Rqc1hjbUxHNjJjeFJaajN0MGI0TFdOZkJ4NUN1Wi15ZnlMSmtiTkVwNGdXRnU4dUpXeW9INTM1MjNTTFh3aGhJ?oc=5",
@@ -340,22 +356,6 @@
               "sym": "QQQ",
               "name": "Nasdaq 100",
               "pct": 0.6,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Nvidia considerada 'selección principal' antes de sus resultados del 2T",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yb1paSEh6OWRWYzJNNVZzWGRYbjZKeVplMUZ0ajBTeGxBQ3JLeTZ6Zks4aVpBTDNheFJsRFkxcHhPZXk2UTdzSzNNcFQ0ZGYwMExYNzNXajRvMDZrN3VQYXJUUUdsUQ?oc=5",
-          "ts": 1787339478000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
               "dir": 1
             }
           ],
@@ -1388,16 +1388,22 @@
   ],
   "tickerBoard": [
     {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": 8.4,
-      "n": 5
-    },
-    {
       "sym": "WTI",
       "name": "Petróleo WTI",
       "net": 8.2,
       "n": 25
+    },
+    {
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 6.9,
+      "n": 4
+    },
+    {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 6.0,
+      "n": 7
     },
     {
       "sym": "META",
@@ -1410,12 +1416,6 @@
       "name": "Nasdaq 100",
       "net": 5.3,
       "n": 18
-    },
-    {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 5.0,
-      "n": 6
     },
     {
       "sym": "ITA",

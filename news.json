@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T23:05:00.050525+00:00",
+  "updated": "2026-08-22T23:30:16.783664+00:00",
   "categories": [
     {
       "key": "tech",
@@ -158,22 +158,16 @@
           "category": "tech"
         },
         {
-          "title": "Las acciones de Nvidia se mantienen estables mientras la compra de $10 millones del CEO de Intel sugiere un aumento de $15 mil millones en la valoración",
-          "source": "TechStock²",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQLURHaXF4dVFObHNKUU5zLXBPWGxVWHlrQ0VNWmJ5Vm4xcC1sZzV3T0xQdjBpcUZwLVNUaVdJU2pIdFBDMUZVUkctaTVQOXg4T19qTlRxWHJOU01IVExxVUpuSXoyOUxFUHU0SW1jMkdaTjhPbkwwWVRLZThvNVJjSE1tVHVhWjZYRUxVREJ3bGR6c0Q2Z3hUX3RxaG93ZXN3MjVpMEZCdkFqNWdVbXBEb0FOQ2hMMFZBU3h1cGxmd25HSlp3aDJMTU1vRXh2a0dSNDYydG91ZG41UnpEdWE3ZFRXMnVVMllTanZrcWlVQkMyQUVqbV9iSndwSGdZN3Ro?oc=5",
-          "ts": 1787180977000,
-          "sentiment": 0.0,
+          "title": "Marvell sube 10% por un acuerdo con Google, que podrá comprar 12.200 millones en acciones",
+          "source": "Bitfinanzas",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zV05SeTRvUnhqb3FLUjdPYjd6TUU3Z19BS2c2TE9DNUdIVHRfLXMwcWY2bWI2bU43NEhyOGV0bWR1MVRSdG4zX2lhVTBvNE1fWmc3Zl9fV21pYWhRMGlweDRlNC1jeVBFTkZfaHZwb19RQ04tZERONXd3?oc=5",
+          "ts": 1787175513000,
+          "sentiment": 0.67,
           "tickers": [
             {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.0,
-              "dir": 1
-            },
-            {
-              "sym": "INTC",
-              "name": "Intel",
-              "pct": 0.8,
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 1.2,
               "dir": 1
             }
           ],
@@ -626,6 +620,22 @@
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
               "pct": 0.9,
+              "dir": 1
+            }
+          ],
+          "category": "defense"
+        },
+        {
+          "title": "Estados Unidos invertirá US$10,000 millones para impulsar su industria de defensa",
+          "source": "Revista Mercado",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSkIzZTV2RUdTbkNxRkU4eXF0am5oVjhvMXg0YXBOVVVXQXpPNHpCSEZaYzNVcXJpbmtsTURleE1qM3JvZTlDMGRDdVVUUHdZMjFhNEVuN0xydUpPU1dSeXdqbHNtVzZWRFhhWlFTdnJienVVRlVmeTB0cktxUVFIcVRScDZSbUczVmIwS09wc1JMaFh6aHlRWU15YTMxUnZfbTlIeTJGdWdrbjJvR1ZPZk1iVkZmT1FtUEt3Y2M3cDI5dw?oc=5",
+          "ts": 1784271600000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 0.4,
               "dir": 1
             }
           ],
@@ -1400,8 +1410,8 @@
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 9.4,
-      "n": 6
+      "net": 8.4,
+      "n": 5
     },
     {
       "sym": "WTI",
@@ -1412,20 +1422,20 @@
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 5.4,
-      "n": 20
+      "net": 5.8,
+      "n": 21
+    },
+    {
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "net": 5.7,
+      "n": 6
     },
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
       "net": 5.0,
       "n": 18
-    },
-    {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": 4.5,
-      "n": 5
     },
     {
       "sym": "SMH",
@@ -1470,15 +1480,15 @@
       "n": 5
     },
     {
-      "sym": "INTC",
-      "name": "Intel",
-      "net": 0.8,
-      "n": 1
-    },
-    {
       "sym": "AVGO",
       "name": "Broadcom",
       "net": 0.7,
+      "n": 1
+    },
+    {
+      "sym": "MSFT",
+      "name": "Microsoft",
+      "net": 0.6,
       "n": 1
     }
   ],

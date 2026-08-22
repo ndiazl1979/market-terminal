@@ -1,10 +1,32 @@
 {
-  "updated": "2026-08-22T14:29:52.164261+00:00",
+  "updated": "2026-08-22T14:50:08.494738+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Wall Street predice el precio de las acciones de Amazon para los próximos 12 meses",
+          "source": "Bitfinanzas",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSEtMRkU5Nkk0VEpzdkVjSWE5NnZ3OFJLR2s5Vjl5OWRYMUVyQ3ZCVmRVaU5hNkRmSmZRQ0Y3clUzVHVSYkRkZE5IcnM0VmszNU1vc1g2VDlrbjEyR0lfdHdlM2ZYRzh3WUFvRHk2bEZpVUNGTlA1RkZzNlRmYlFYRw?oc=5",
+          "ts": 1787409105000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "AMZN",
+              "name": "Amazon",
+              "pct": 1.0,
+              "dir": 1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Perspectivas de las acciones de Meta: nombrada 'Top Pick' por Morgan Stanley, ¿se recuperará la acción?",
           "source": "TradingKey",
@@ -47,7 +69,7 @@
             {
               "sym": "TSLA",
               "name": "Tesla",
-              "pct": 1.6,
+              "pct": 1.3,
               "dir": 1
             }
           ],
@@ -181,22 +203,6 @@
               "name": "Alphabet",
               "pct": 0.5,
               "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Las acciones de Apple destacan entre los Siete Magníficos por su bajo gasto en IA.",
-          "source": "es.qz.com",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcWRvMEJ1dTFTMWxvNHU1WUo3SEpxVUZXaUNMZ2x6NVZIWWpUX09iYm5DRUVodEliSG44SEU2cFVzbTd4d1Atb1o5bnV4Rk9iV1ZrOEVXWnZEZEhlMFNFcThoWG1zXzgzQmd1LVJJUHZoR2dMdkl1Ykp2UVNHZVhvTi1yYUxtZUpyZmJSbFNUOA?oc=5",
-          "ts": 1787163315000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": -0.9,
-              "dir": -1
             }
           ],
           "category": "tech"
@@ -578,22 +584,6 @@
           "category": "defense"
         },
         {
-          "title": "El desafío del rearme europeo: una industria 160.000 millones por detrás de la de EEUU",
-          "source": "El Economista",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSjAxRVNUbks1a2NRZTQxNVpCejBGdGUwLWY1eTdUV2xPMzM4dVdTUU5PcHAxV1lzNUl5MmpmbWJEc0U2Q01SbXl3anZRUXlLdTZacHNvakhSbGN5ZFNNS0hxbVVLWVNPYnFWX0xGSndxbjJZSXdfWUFXMWtjQUlRS0NPY003VnZraEhfYVpHaFpGMGZmSzBHNE5fcW1LR1dwQlhrdDhHX2g0MElNNjBTY0MyZFdMZk5UR29OLU5rMlBTMEtwM2tyMEFURlc2bE9rOFY0LUwtVWdsVll3SzhKVzltcTAwUdIB0AFBVV95cUxQTlNfckk1WURCUGp0Z1otTzNLTndDNk84NTRiR2hFLU1ha0lnSkFiT0RQOXV6RHY0NWMtR0ROaFhyV1VPblhMU0Zocmhjd0pHY185ZXpOSUU4M2Nac3A1bmlFdDNnYzlKX2JGM1NBWWdPNkVEM0FEVHZoSlZDYzlhcDhJb3N1d3ZydWFzd1BrQUNDNUp5MGZsV01HNVdhc1lVOXZaMW5SVk9pcXJETHo2cUE4RkExaVNlR3hZeWxGcTFqNDN3VXF0a0dXSFNWXzV5?oc=5",
-          "ts": 1786086000000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
-        },
-        {
           "title": "Ucrania sancionó más de 40 empresas y personas por suministrar armas y equipo tecnológico al Ejército ruso",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYnJxRGhodVl3N19CNF9YTEUzZ3NEcVo4b2ZwQ01VamhxNTBheVUwZ3pnRk9ia0VtdmwyNC1JeWRkMVZxZWk3Q0Voc3JVaW5pUTFaRDVLdzZJZTlNZGxyamUtOUFTRzBfMUhiY3QyYVpFVkJ1OHJYSTJ3RnFwbkoxeTQydGtUS096WTNtLURKeEVBc0g5M284MkZMcWpjYUg0SFk4UEgzWHpGUjZsUWwtaEtKU3dOcDFsNXlmdFVvbUlQdUp2LXhVaFluMUhqa1pIczVjNzlGU2dhQ2ZrZWZzRXdPVDJzeUJ1eFZEetIBhwJBVV95cUxQUk9lUFBrak5QT1ZDQ0ZJX2xJTjVtN1JlYlFJb1YyUWFhcVRkNDNFZ2l2cVlUTUM5QlVaaHJmUk10Mm5KN2lzcGVJOGZMbXR5U3I3VHc0VHlCanhfODhBR2ZURi1IVFAwTjFmdmdUdzBHT1U5NEtQQjRGaGthM3JMUnNWRWRFcklCNWVfdUJlZjNoai1LTExLYy1zRXJtRTVYQ3NZaXA2REI0VU40T1NObEZMNFNEWW5Ydy1iTzVsM0hwUlhoRHlmNTZXMXNjaUNTbk9QZUFGekJGTUl5bEtMQlU5QlRNYmh6YmJrOW9lOVVnWC1SU3IzNUVtTlFrRGNSZFpzV2Uzaw?oc=5",
@@ -616,54 +606,6 @@
               "sym": "SPY",
               "name": "S&P 500",
               "pct": 0.3,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
-        },
-        {
-          "title": "Defensa impulsa la industria militar con 15 nuevos programas y 2.300 millones adicionales",
-          "source": "The Objective",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWTJzQTlCTndiU3JnS2ZTcmZRNVJXMGhSN2c5MG81a0FsMWlCYmxWN2FsSGJ6RWswUHNlLXBYTmJRNU5jVC1fSVJmU0FUZ0VzMFFBX0ZXbXBEd1ZXY0ZSam43M3VLcVZrR0xHWFFmV191VkllM0RSRDF3OUhDZFFxcGszUdIBiAFBVV95cUxOdHBKYm4zNVROTHNTSk9fRTctQW1WTjdzSmFydXRJejJhcUpKdm9Rc3RMLVRzVW81azlfY1VCRU41eDVfRzVOeVlXV09ZUWE4ei1GVHdZd2l0QjJsQ0RuUmlrZFo0eDlYOHluSzRONFRuY3RaQ2dXeXk4a3ctd3htLVc5Ti1JcmZV?oc=5",
-          "ts": 1785308400000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.9,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
-        },
-        {
-          "title": "Europa dispara el gasto militar: 454.000 millones, un 75% más en 5 años, impulsan la defensa en Bolsa",
-          "source": "OkDiario",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONmFlMTl4WFRsY2ZUc0hMejFjX2UxRV9mdm9BVmo1ZlZjZ2ZnRzNTMHNWQ245cjd5anY0OTZ4LWlPUmxoRUo3c3Q1dzEzUzR5MW42N2hYeHZKeW5mNlJ2U1M0OVhxaHZGeVh6WFVIQ1NDNmlYRnBLTllXS283SnBKMWhGbWp6WjRWQ2I0b01uMThIWXR5djlMQnhnT05wd0JrUWdiYW1KN0hvbDFoeUc5LTctclpvUDM1TE9nYtIBwgFBVV95cUxQNFFxNzhycmJia1lYV0xDY3FQRkZRdjhtTkdxdHlCc18zSWw4dEZGcVhtdnZRNUJrUEFkNGlqSGpYM0M2R2ppbGtMVk5jbWZTSy1WQ3duYUtTV1hMU2h5Z0hhZV9KcmVjRlJGQUFEZmo5YThhSDEwcVRMdk1Rb2dDUDg2d2lHeTZmME4tSUpaRXJuM212bUNwMmdSdi02N29Xbk44VHpENWFlNEcxQXBHZUZlNEZqRWdDNFNoN1pJZDlkUQ?oc=5",
-          "ts": 1784962800000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.9,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
-        },
-        {
-          "title": "Presidente Abinader entrega blindado Furia VBD-2 y modernos equipos para reforzar la defensa nacional",
-          "source": "Presidencia de la República Dominicana",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM29oUHkzdS1MV2p4MmRxcjR5LUJ5QWYwZ0p5NXR0ZlVZS25LQkdzWFhkTzNCNmNZM0dNSVNhQXpGMXZIQ25IOHIzdEJFOUNGVXpkTDZqT0VhZmxmUmYyWl9HXzhmUksxQ3NHRzd3c1R4b29YektTWG5pSXc4UlNXVWVOXzByRGZ5ZHdkQklPOGJrbWhycmd1THkyNFhybUxkcng4RlE2S1FoWGstamp3OFIzOTROV1NJeURIUw?oc=5",
-          "ts": 1784271600000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.4,
               "dir": 1
             }
           ],
@@ -720,6 +662,50 @@
               "sym": "SPY",
               "name": "S&P 500",
               "pct": 0.3,
+              "dir": 1
+            }
+          ],
+          "category": "defense"
+        },
+        {
+          "title": "Ucrania ha construido una industria de defensa de 50.000 millones de dólares en cuatro años. Por qué las exportaciones son clave",
+          "source": "UNITED24 Media",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPV1BKSWJoSlNfYXNKRmtZMkpCLTFibVBVYWRYVU4tbUdHUjJLUnlqQmJjQTBWdXBQY1o1X0xIaXlIeTVwZ3hIcXlTVUZfQ2thRms1YlBtSlJCWjUtdURzRjh6czVuVnNhdnpSY21UR0lZMWZ6R0dON2pKclBMMGE5N0thb0xnYks4UGlvdGx1bFBPQ1U3M2pwWlB6ZkFJZEZTY0kxRTJhVlNpRXN4Nm9PT1dqc1dhT2FKQmdDRDM5LXFiYVVVVGY5ci16Rk5fSkc1YWRheTVtVV9XeHl1bDNfUEU2VmNzTjZCRXFITUZIUUJRTWFaRi16RDBoLTA3SEpWV243STdkYw?oc=5",
+          "ts": 1771920000000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -0.7,
+              "dir": -1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 0.4,
+              "dir": 1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 0.3,
+              "dir": 1
+            }
+          ],
+          "category": "defense"
+        },
+        {
+          "title": "“Primero armas, no ganancias”: Trump endurece condiciones a contratistas militares",
+          "source": "CiberCuba",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRndtcHFTQi1OVjhydkFNU21aQ2trRXBYaS05cE00Q2Jvb095MnctR0VaZUVtZ3BGY3NPX0NfeDNtd2hYWjRXamlhNC1rVHY2LTMxcmZma1RfcW9udUl6a19LMy1FcHIyeXJ4WVYwSk9QNGdCOEtYZ1R3QWNCTk9XRU9jek5pNHdPaGRORzFCUWJJdng4NjdUbEJtQ0N2eG94TDRPdDB5OXpDb1dHc2RkdS1oQVVDNG45Q0l5b2tveDNRQdIBwgFBVV95cUxQRndtcHFTQi1OVjhydkFNU21aQ2trRXBYaS05cE00Q2Jvb095MnctR0VaZUVtZ3BGY3NPX0NfeDNtd2hYWjRXamlhNC1rVHY2LTMxcmZma1RfcW9udUl6a19LMy1FcHIyeXJ4WVYwSk9QNGdCOEtYZ1R3QWNCTk9XRU9jek5pNHdPaGRORzFCUWJJdng4NjdUbEJtQ0N2eG94TDRPdDB5OXpDb1dHc2RkdS1oQVVDNG45Q0l5b2tveDNRQQ?oc=5",
+          "ts": 1767772800000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 0.9,
               "dir": 1
             }
           ],
@@ -1422,8 +1408,8 @@
     {
       "sym": "WTI",
       "name": "Petróleo WTI",
-      "net": 9.1,
-      "n": 24
+      "net": 8.4,
+      "n": 25
     },
     {
       "sym": "SMH",
@@ -1446,19 +1432,19 @@
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 4.7,
-      "n": 17
-    },
-    {
-      "sym": "ITA",
-      "name": "ETF Defensa/Aeroespacial",
-      "net": 4.1,
-      "n": 21
+      "net": 5.4,
+      "n": 18
     },
     {
       "sym": "SPY",
       "name": "S&P 500",
-      "net": 3.4,
+      "net": 3.7,
+      "n": 20
+    },
+    {
+      "sym": "ITA",
+      "name": "ETF Defensa/Aeroespacial",
+      "net": 2.8,
       "n": 19
     },
     {
@@ -1480,28 +1466,28 @@
       "n": 1
     },
     {
+      "sym": "AMZN",
+      "name": "Amazon",
+      "net": 1.0,
+      "n": 1
+    },
+    {
       "sym": "META",
       "name": "Meta",
       "net": 1.0,
       "n": 1
     },
     {
-      "sym": "MSFT",
-      "name": "Microsoft",
-      "net": 0.7,
-      "n": 1
-    },
-    {
       "sym": "TSLA",
       "name": "Tesla",
-      "net": -0.6,
+      "net": -0.9,
       "n": 5
     },
     {
       "sym": "AAPL",
       "name": "Apple",
-      "net": -0.1,
-      "n": 2
+      "net": 0.8,
+      "n": 1
     }
   ],
   "ecuador": [

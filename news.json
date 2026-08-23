@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T11:45:05.869169+00:00",
+  "updated": "2026-08-23T11:59:24.156260+00:00",
   "categories": [
     {
       "key": "tech",
@@ -212,22 +212,6 @@
           "category": "semis"
         },
         {
-          "title": "Granada recibe 2,6 millones para convertirse en referente nacional de la inteligencia artificial urbana",
-          "source": "Motril Digital",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOekltWHR2NW1ZUVhMV2pMeEo4b3B6UXlwUnd6LXZ6OU4zdm5PZ0JnczhDQjg2Zzg4bWxjVzRZalBTR2R1b21Xa2pvbndTcUtCM01acVNUUXEyMUVWMEdVQmFBS0ZWZ0NzaGdwQ1NRdW9vS19qNjVDUTUtZWx2eU5ZV0NBVTFFRFZFTDgxNU1yZUdyT0MtY0huYWNhOVV2c0dNbEt2R29PajYxZlV3YnFxNE10MURNNFZKOFZjRlhLb3BDSlpTYTlnRHNGX09udw?oc=5",
-          "ts": 1787481559000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
           "title": "China: Hong Kong recauda casi 13.000 millones de dólares con salidas a bolsa relacionadas con la inteligencia artificial.",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQjFHazZlSW8zbktQU2VYRG9RRkxLYWQ3by1OMkgzckNidDF3cUtSTzBkaXIxSnRWWmNiRnpDTFVsNFI0aldzS0RpaHFhMTFNYkNoNnRfZkhDXzdmRE1GSEFoV3JVU01wOHg0ZklYLXFnTThqWXc1eFdRTFYyQl9ZSGJ1V044SDlQaXRlWmJ6Z2UyeFVKSy1B?oc=5",
@@ -350,6 +334,22 @@
               "sym": "AAPL",
               "name": "Apple",
               "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Nvidia negocia invertir 3.000 millones en SB Energy",
+          "source": "Inspenet",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzUmh0RHVSa2s5dkZuTnEwbDZLQWpmMEhXYzllU3Y5UHhwTXFMZG9kdHZpbnI1ZlBkUk81WlNnQXV0aExrZjNlemFuQjJNamtvUVRONlVqVXZET2w3dHhnMkRPZHFUTFMyeXBhdERQR18xSTAtSVJWaWxn?oc=5",
+          "ts": 1787413158000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.5,
               "dir": 1
             }
           ],
@@ -1410,8 +1410,8 @@
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 9.3,
-      "n": 6
+      "net": 10.8,
+      "n": 7
     },
     {
       "sym": "ITA",
@@ -1420,16 +1420,16 @@
       "n": 22
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 5.7,
-      "n": 7
-    },
-    {
       "sym": "WTI",
       "name": "Petróleo WTI",
       "net": 5.2,
       "n": 24
+    },
+    {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 4.7,
+      "n": 6
     },
     {
       "sym": "QQQ",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T07:19:43.014197+00:00",
+  "updated": "2026-08-23T07:50:51.550244+00:00",
   "assets": [
     {
       "symbol": "AAPL",
@@ -189,7 +189,7 @@
       "dayLow": 214.5,
       "week52High": 236.54,
       "week52Low": 164.07,
-      "volume": 91591112,
+      "volume": 91581137,
       "marketCap": 5200733011968,
       "pe": 32.88,
       "forwardPe": 16.48,
@@ -269,21 +269,21 @@
       "symbol": "BTC",
       "name": "Bitcoin",
       "type": "crypto",
-      "price": 76311.0,
-      "change": -1044.1,
+      "price": 76042.0,
+      "change": -1127.96,
       "changePct": -1.7,
       "dayHigh": 77498.0,
       "dayLow": 75775.0,
       "week52High": 126080.0,
       "week52Low": 67.81,
-      "volume": 29263219589,
-      "marketCap": 1531652794910,
+      "volume": 28993775652,
+      "marketCap": 1526276140561,
       "circulatingSupply": 20071518.0,
       "ath": 126080.0,
-      "athChangePct": -39.47,
-      "sma50": 65136.66,
-      "sma200": 68979.84,
-      "rsi": 76.6,
+      "athChangePct": -39.69,
+      "sma50": 65131.16,
+      "sma200": 68978.47,
+      "rsi": 75.5,
       "signal": "MANTENER",
       "signalScore": 14,
       "signalReasons": [
@@ -291,20 +291,20 @@
         "Precio sobre SMA200 (tendencia larga alcista)",
         "Death cross (SMA50 < SMA200)",
         "MACD sobre señal (momentum alcista)",
-        "RSI 77: sobrecompra"
+        "RSI 75: sobrecompra"
       ],
       "quant": {
         "volAnnual": 36.47,
-        "sharpe": -0.6,
-        "sortino": -0.82,
+        "sharpe": -0.61,
+        "sortino": -0.83,
         "maxDrawdown": -53.05,
         "var95": -3.66,
-        "ret1m": 20.25,
-        "ret3m": 20.65,
-        "ret1y": -33.83,
-        "macd": 1559.899,
+        "ret1m": 19.81,
+        "ret3m": 20.21,
+        "ret1y": -34.07,
+        "macd": 1542.332,
         "macdState": "alcista",
-        "bollPctB": 97.9
+        "bollPctB": 96.8
       },
       "spark": [
         64717.17,
@@ -346,7 +346,7 @@
         73097.55,
         78424.62,
         77081.02,
-        76317.16
+        76041.89
       ],
       "currency": "USD"
     },
@@ -354,21 +354,21 @@
       "symbol": "ETH",
       "name": "Ethereum",
       "type": "crypto",
-      "price": 2395.4,
-      "change": -41.67,
+      "price": 2388.16,
+      "change": -33.41,
       "changePct": -2.1,
       "dayHigh": 2442.67,
       "dayLow": 2361.13,
       "week52High": 4946.05,
       "week52Low": 0.432979,
-      "volume": 14979980115,
-      "marketCap": 289093646202,
+      "volume": 14738816866,
+      "marketCap": 288206645412,
       "circulatingSupply": 120681536.97115873,
       "ath": 4946.05,
-      "athChangePct": -51.57,
-      "sma50": 1919.43,
-      "sma200": 2006.09,
-      "rsi": 75.0,
+      "athChangePct": -51.72,
+      "sma50": 1919.28,
+      "sma200": 2006.05,
+      "rsi": 74.3,
       "signal": "MANTENER",
       "signalScore": 14,
       "signalReasons": [
@@ -376,20 +376,20 @@
         "Precio sobre SMA200 (tendencia larga alcista)",
         "Death cross (SMA50 < SMA200)",
         "MACD sobre señal (momentum alcista)",
-        "RSI 75: sobrecompra"
+        "RSI 74: sobrecompra"
       ],
       "quant": {
         "volAnnual": 53.67,
-        "sharpe": -0.62,
+        "sharpe": -0.63,
         "sortino": -0.88,
         "maxDrawdown": -67.25,
         "var95": -5.19,
-        "ret1m": 27.32,
-        "ret3m": 40.53,
-        "ret1y": -49.9,
-        "macd": 60.099,
+        "ret1m": 26.91,
+        "ret3m": 40.08,
+        "ret1y": -50.06,
+        "macd": 59.608,
         "macdState": "alcista",
-        "bollPctB": 93.7
+        "bollPctB": 93.0
       },
       "spark": [
         1916.76,
@@ -431,7 +431,7 @@
         2326.71,
         2518.78,
         2423.41,
-        2395.85
+        2388.16
       ],
       "currency": "USD"
     }

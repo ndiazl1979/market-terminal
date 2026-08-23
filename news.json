@@ -1,10 +1,26 @@
 {
-  "updated": "2026-08-23T09:02:33.805425+00:00",
+  "updated": "2026-08-23T09:36:15.438719+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Acciones de Nvidia en el punto de mira ante resultados y alzas de precio de GPUs",
+          "source": "TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50dzVKS3AwY3RlRWMxRDNuT3ZTRTZZeE1ybnZyS29VdGNvWW8wQVhhYUZDZmZuUFFFNzRNb2E5MzNkOXlCaWJ6UnNkMkNrOERRVktHS1lUcVRRak9Bc0x3QWg5MGZpUQ?oc=5",
+          "ts": 1787462183000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Wall Street predice el precio de las acciones de Amazon para los próximos 12 meses",
           "source": "Bitfinanzas",
@@ -178,28 +194,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Google podrá comprar hasta 12,200 mdd en acciones de Marvell para asegurar chips de IA",
-          "source": "DPL News",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NX21yS2s3Z200NTNJQTJtdzE0LTJDR3RrcFZkaUpvZUJoeUVKNVBtV2I2cnJkeDZ4cHhQbVdVVGYxRW13XzNNckcyNnNDYzJJVGk3WmpUb1ZjMzNVVHhuMDVhTTdycXJORzVtUDUwWTRfMjFpMFBJeEZ5dUJ4MWs?oc=5",
-          "ts": 1787164931000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.6,
-              "dir": 1
-            },
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 0.5,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -207,6 +201,22 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Acciones de Nvidia en el punto de mira ante resultados y alzas de precio de GPUs",
+          "source": "TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50dzVKS3AwY3RlRWMxRDNuT3ZTRTZZeE1ybnZyS29VdGNvWW8wQVhhYUZDZmZuUFFFNzRNb2E5MzNkOXlCaWJ6UnNkMkNrOERRVktHS1lUcVRRak9Bc0x3QWg5MGZpUQ?oc=5",
+          "ts": 1787462183000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Nvidia informa a clientes de alzas de precios de más de 15% en chips de IA, reporta Bloomberg News",
           "source": "La Jornada",
@@ -346,22 +356,6 @@
               "sym": "NVDA",
               "name": "NVIDIA",
               "pct": 1.5,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Waymo lanza su propio chip para robotaxis: 1.000 TOPS y fabricación TSMC",
-          "source": "KCH FM",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT0RhMDUzN3MyRHJTTExoSE12YlVmV0NOYjlQYWltcWxkZk5uMnlRNlRCdVkwaFpGQm04UmxmbGlpTmo4SThNWUU4UU9FNnIybTFzLVNYNVF6QzRVUVNaQVZBSk9ZTkI5Y3hoXzhUa3FpS2I2NHBYX2RMUWpMeGc0WnVzaExKaW1IcnkxVDRsVUJVU3M3M1M0dmxpZU1JZXVFLUVWRFpNdk9NalRKYWRGZA?oc=5",
-          "ts": 1787405696000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSM",
-              "name": "TSMC",
-              "pct": 1.0,
               "dir": 1
             }
           ],
@@ -1344,28 +1338,6 @@
           "category": "macro"
         },
         {
-          "title": "Wall Street ‘sonríe’ por dato de inflación en EU y el S&P 500 alcanza nuevo máximo histórico",
-          "source": "El Financiero",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQTljcEotUlQwYW5abmlpeExpTGl0NW9BZnozRmxqUy12QndmOTRwZ0dKZDFqSXM5ZGRGTHgxa05jczNEa1lmZU4zcThvR2h4UGxzcjlCLWMtNmZfcmlZdXNReUxfcjVWS3NvZ2dTczREOWNZQV91VlBNS1FXTUFvQTdBZ0xJdF9YTE1NeUtsN25yam1ENXprSA?oc=5",
-          "ts": 1786604400000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.7,
-              "dir": 1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": 0.6,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
-        },
-        {
           "title": "Wall Street cierra en positivo, aliviada por la inflación en EEUU",
           "source": "Diario Las Américas",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN0NnRHRERWpQVEtlckR2VDM4eDlLZjd4VG1RdWZzeHJYMXJETF9YcGpCWGZEdVpwaHRTaUY1dkR6NDlJWTdsXzlYaFZQQTJGd1U4VXlRRkVzSy1POURON1NfUm9DZmM1YmRFRG5zMC16X0Zrb19IU01fdWFSUlRMMUlQQjNpeUdUc3g2c3dDdFBNNmEzN25aaFFzNTJyaDg2dE9jQ0VKUUEwQdIBrwFBVV95cUxNQ25WMERocXF2bmZ2NU1zWnI1dEVwVy1UYzhtMHFRVEwyYjhUZEkzejJvbTVyam5uWFI2ZG5kTXp4aWFGbEI2M0NnWENDc2VyMS1VLW81T05QY3UtMUZqdGtOVG4xQzI3ajNLX2FzUHk4ZFZidXJteHRpeXN0eHdxYlF3V1U0dnpxV2x1eXAtTXlzV1poT2VBenBfdEtNc0NWcEpyT3p4aUM5MHg3NElZ?oc=5",
@@ -1408,6 +1380,22 @@
             }
           ],
           "category": "macro"
+        },
+        {
+          "title": "Wall Street cierra la semana en verde impulsado por el sector tecnológico y el mercado laboral de EU",
+          "source": "LatinUS",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZGUyRHNlZTJxM3FZUm5jQmZ4S2ZoQVVjS1dZN3o1aGtiMlE3Um83OFgwOWZLZjlCLXNtTUhCQTRmcWxSMEE5ZVV6Y05uQjZiTTdpdlNJTFdkOWJETWR6VU1WTm9DSC1vbHY1c1NkRjkyYVRlN0FTY2otelUxMERsT2x0OVlneEp2UXF0d2N6dklSV2dXU1pZbVE3SUh0TGpxZlZWRmFLU29SeUI0elNvcURhNXh0eXBNUXdta0NsUzdHRi1fLVpjZkVEYjdqZ214MTFaaVNiS3hROFVPdGRNTtIB4AFBVV95cUxNZGUyRHNlZTJxM3FZUm5jQmZ4S2ZoQVVjS1dZN3o1aGtiMlE3Um83OFgwOWZLZjlCLXNtTUhCQTRmcWxSMEE5ZVV6Y05uQjZiTTdpdlNJTFdkOWJETWR6VU1WTm9DSC1vbHY1c1NkRjkyYVRlN0FTY2otelUxMERsT2x0OVlneEp2UXF0d2N6dklSV2dXU1pZbVE3SUh0TGpxZlZWRmFLU29SeUI0elNvcURhNXh0eXBNUXdta0NsUzdHRi1fLVpjZkVEYjdqZ214MTFaaVNiS3hROFVPdGRNTg?oc=5",
+          "ts": 1786086000000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "macro"
         }
       ]
     }
@@ -1416,8 +1404,8 @@
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 9.0,
-      "n": 6
+      "net": 10.8,
+      "n": 7
     },
     {
       "sym": "WTI",
@@ -1434,26 +1422,20 @@
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 4.6,
+      "net": 4.3,
       "n": 18
     },
     {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 4.3,
-      "n": 6
+      "net": 3.7,
+      "n": 5
     },
     {
       "sym": "GOOGL",
       "name": "Alphabet",
-      "net": 4.2,
-      "n": 6
-    },
-    {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": 2.4,
-      "n": 19
+      "net": 3.7,
+      "n": 5
     },
     {
       "sym": "ASTS",
@@ -1468,10 +1450,10 @@
       "n": 4
     },
     {
-      "sym": "TSM",
-      "name": "TSMC",
-      "net": 1.0,
-      "n": 1
+      "sym": "SPY",
+      "name": "S&P 500",
+      "net": 1.8,
+      "n": 18
     },
     {
       "sym": "AMZN",
@@ -1496,6 +1478,12 @@
       "name": "Microsoft",
       "net": 0.6,
       "n": 1
+    },
+    {
+      "sym": "META",
+      "name": "Meta",
+      "net": 0.1,
+      "n": 3
     }
   ],
   "ecuador": [

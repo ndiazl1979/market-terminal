@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T22:00:30.004850+00:00",
+  "updated": "2026-08-23T22:28:57.001973+00:00",
   "categories": [
     {
       "key": "tech",
@@ -190,10 +190,26 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "Meta vuelve a abrazar la IA abierta",
+          "source": "Expansión",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWldQcGFWckhOZjMwLTM1YUV3R29zcWtraVV6N2ZRQW5MWkVscjZ5UXQ2TU8xRi1mTzd1NllKcEdGWWFyNFhDS0hKcjhidUtVejY1dmxwWVdtUTlEaXpEbWw2Z2xaR21PdHRINm05d0lmYmN0RDM5ZE1RNC1wcGE1d2l3a9IBgwFBVV95cUxOeVVseHpMLVdHRVlJTG82Zl84d3FzdUhPelFvRHM2SGRoRDFnLUZtekdjYjB6ZFAxaEtob3BjTjFFVFdQcmh5eUhuZVhsQ3lVUVFHTnczS0VYT2VSNmhQY0ZSZF9oV0tLbXU4dURYdlRzWFI3SWhyd1Fwc1F6SjNHbmNNSQ?oc=5",
+          "ts": 1787522520000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": 1.2,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Claves de la semana: Nvidia, PCE y Jackson Hole ponen a prueba a Wall Street",
           "source": "XTB.com",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUF9Jc0ZNUHJ6V3dteVRMV0pmRE9Wc2Y2dlBpSVJmNHNPMmotUHZBUWNSMkNyRHVXUXNaaDBpOWtfWFdCYmk0TWZvMUR4dEpiMmY4VDREWnVTNG5wSXpJM2ZWdVp4QzRabWVTYnN6X2lJR2FfLTFuNXhVT1hEWVdCaGRpYkF1UWhpM0o4R1BVbnQ3LUo1VjhWVjFJWTlFLUcxbjJreTJJM0luUWFfUFUzenZLcG5rYlhGb092UjFtWjRFTEFsMTdIWFJERXZmcTdXNklj?oc=5",
-          "ts": 1787519362000,
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQWNLaTliX3h6UW9TSjZ2QzBTaXBVNi1RZjQxSkVfOS1CanNKUWd3WkZDaHpMTm1rNThDbGQtT3IzMmd2MnZXR1lKd1NGZzRkUDBURTNheVAxZTlub3BrVmZlUTFNcVFpenFFNVJZTHQyNVgxUGJ0bC1ja0NMeXRWMldXVFM1WF9kT3FsTE5uUmxENUVILXVTUk91YXNlSUVVNldHai1VRXpMYlZRbzIzeEFtaW83NWZzeV82TXA4WHNFeW5ubHItYXZpeTdPNTlpbVVQdg?oc=5",
+          "ts": 1787518872000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -323,7 +339,7 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             }
           ],
@@ -340,22 +356,6 @@
               "sym": "NVDA",
               "name": "NVIDIA",
               "pct": 1.5,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Alibaba busca USD $10.200 millones para acelerar su apuesta total por la inteligencia artificial",
-          "source": "DiarioBitcoin",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVk3anc4LU9TeFBPS3VySXJZSDUxanp3MHdTekh0aUI2ZElaMkdSQUc4UmZGOXhjR0gxLXc2Y3BvSHpMalZnT2JpT2tsOUdVa1h4elM0MzRVQ0hkQ0diRGdDbWNxSERDWnc1cGVXVEZnNi0xMGxWejZ3OWk1RXhhUlhSUDZBQms5dGRWS1pYSWUxZ1lEQi05dkxBZWNrNWxFY0o2LTZxVmo0QU5Jcnl2NG5KbEdVSFh2SHlfVklucm4tYXRrLXo2R1FzY1k?oc=5",
-          "ts": 1787494396000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -1440,8 +1440,8 @@
     {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 4.1,
-      "n": 5
+      "net": 3.3,
+      "n": 4
     },
     {
       "sym": "ASTS",
@@ -1454,6 +1454,12 @@
       "name": "Alphabet",
       "net": 2.0,
       "n": 3
+    },
+    {
+      "sym": "META",
+      "name": "Meta",
+      "net": 1.9,
+      "n": 4
     },
     {
       "sym": "AMZN",
@@ -1472,12 +1478,6 @@
       "name": "Tesla",
       "net": -1.2,
       "n": 5
-    },
-    {
-      "sym": "META",
-      "name": "Meta",
-      "net": 0.7,
-      "n": 3
     },
     {
       "sym": "MSFT",

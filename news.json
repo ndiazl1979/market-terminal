@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T09:56:03.848644+00:00",
+  "updated": "2026-08-23T10:17:44.082322+00:00",
   "categories": [
     {
       "key": "tech",
@@ -912,29 +912,17 @@
           "category": "oil"
         },
         {
-          "title": "Pronóstico del precio del petróleo crudo WTI: el petróleo cae por debajo de $80 mientras Trump detiene los ataques contra Irán; subirán los precios?",
+          "title": "El crudo Brent supera los 84 $ mientras el estancamiento de las negociaciones en Ormuz impulsa los precios",
           "source": "TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbVVOZ2tOWWhJZFZJNE90X1hCNjFOX3dndnRTSDQ5MXdkMUh6aGx1WXpuNHZZTUhpZWtCbWVZc1MxWkVGWUwwRHpCcDBwVWJhcXhhaHQxM2g2UmgyclZ6SF9tWmNQbmFNNkRaT29aNUJ5QlZJbU9scDEwajlLdm5TZnNreUJ5ZWZQdnRUR2R6Qjg2QUFmeDdIdmYyNUx6ZUdsMW1TaW5oMlY3T1BhU3NqMHFVU1V3Qm5NMUo4LTc2R3FJd3FpR3ZGTnVUTGp2YkRHdmZIWW0zcF8zcGV5VmJCbHMyc1ZSQndUTmpOREk5bFY?oc=5",
-          "ts": 1785740400000,
-          "sentiment": -0.5,
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdzNqQVhIMHpZSm1ubHhra09QdW84WUVFSTZQazh3VlUtMXFOTXl2b05HNlVjUi1SQWJvVl90X25qdFFSTG0wVl9fa2FVSGJFXzRSREs0MVpQdUpIaEZwa0hfVVAtQ2NaRFg2N2RzOXZTb1FveFFid3I0NzVqRDIyNlFhcFp5WWFwZXFqclVyQVhyYVVqME94SUZrdHg3MWVsYV9yLUR3cGIyLWhlRHpqSEVsWFcycDFta3RtMDJEdE5jZXBmS1o1aXprMjMxa01XYVVhaVBzNHlMc08zRkJzck92TGw?oc=5",
+          "ts": 1786258800000,
+          "sentiment": 0.67,
           "tickers": [
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": -1.3,
-              "dir": -1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.9,
+              "pct": 1.5,
               "dir": 1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": -0.6,
-              "dir": -1
             }
           ],
           "category": "oil"
@@ -1420,16 +1408,16 @@
       "n": 6
     },
     {
-      "sym": "ITA",
-      "name": "ETF Defensa/Aeroespacial",
-      "net": 6.5,
-      "n": 22
-    },
-    {
       "sym": "WTI",
       "name": "Petróleo WTI",
-      "net": 5.2,
+      "net": 8.0,
       "n": 24
+    },
+    {
+      "sym": "ITA",
+      "name": "ETF Defensa/Aeroespacial",
+      "net": 5.6,
+      "n": 21
     },
     {
       "sym": "SMH",
@@ -1464,8 +1452,8 @@
     {
       "sym": "SPY",
       "name": "S&P 500",
-      "net": 1.2,
-      "n": 19
+      "net": 1.8,
+      "n": 18
     },
     {
       "sym": "AMZN",
@@ -1562,12 +1550,102 @@
       "tags": []
     },
     {
+      "title": "Bolivia reduce su riesgo país por debajo de Argentina y Ecuador",
+      "source": "El Diario - Bolivia",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTEtRQzhuWDgzb19OeDFMNnhqT0kyeGVlTDRKaEtHckRUX0ZqYWMwbEVyNVZ1VWJSMi1oMldUMkVBeTFINDJHWW10SzQ1bDg2R3kxZWRYVm1tS0pINXBWYnIwVGt5ZjZFMjlERC1jbHI5WFdKX2YzSk9ZWElqTlp4LWFDcG9jQWNVWW5kNjM5WjI2Q2tsX1N6SGhLMGNQeE83MEZ4NUdIajUxUFU?oc=5",
+      "ts": 1786962644000,
+      "sentiment": 0.0,
+      "tags": [
+        {
+          "sym": "RIESGO PAÍS",
+          "name": "Riesgo país (EMBI)",
+          "pct": null,
+          "dir": -1
+        }
+      ]
+    },
+    {
       "title": "¿Por qué el camarón tiene tanto peso en la economía de Ecuador?",
       "source": "El Comercio Ecuador",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMlAySWVkNFN0NTExdkZPR1F1U0hSR1ZjeDVaVVhIZnAtMGlSUGYybXlhTFRrSUJKLU5GZTZKMFlvSUlxbU9wRWUwVGphYlRTNE5xM3dvbUlVdmJtU1RHVjlLbElxNFZZODlHZURCM3ZZb0Z6RDVxdkxDazUzRzRHOHBaaDhwWkZ1eWVvQjNnbFRkXzV2aHc?oc=5",
       "ts": 1786944000000,
       "sentiment": 0.0,
       "tags": []
+    },
+    {
+      "title": "Bolivia reduce su riesgo país y se ubica por debajo de Argentina y Ecuador",
+      "source": "FmBolivia",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPelBDamRzUEZmZTZfMEVTY0ZOWW8tMHNDa3I4STJaczRHVFIyT1BaQmhFOHdaMjhjbm81b0YzOW5xVzJKSjcwYnlBZ29BT24tZ0RUSUJSdmQ0a2FzaU5Ja2lyNjJRVlo2bUxabDZlSnlwOEs5blNqM1VaMk1DNFh1OUNHWXZyajk1bmNBQno0UE1WS0tpN0pMVzFSejNSYzhuTXA0anBBOGUwaS1FbTZtdEQwcTg?oc=5",
+      "ts": 1786867920000,
+      "sentiment": 0.0,
+      "tags": [
+        {
+          "sym": "RIESGO PAÍS",
+          "name": "Riesgo país (EMBI)",
+          "pct": null,
+          "dir": -1
+        }
+      ]
+    },
+    {
+      "title": "Bolivia reduce su riesgo país y se mantiene por debajo de Argentina y Ecuador",
+      "source": "Red Uno",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMGNuc1JEZzNJSHdVb1BGWVEwNlVHSjZuS3ZETmZSLXdFYm91QXlfYWE1WXFlb08tcGJjdnRXbkxCbmVJV3dhQ0REWE0wU1JsVnp3VHF2MlhfcDFNSXFTV1h1cmoyOVF6TjB5LWdHbUJ5U0U0OEl4akl2dXhjR0xBRTNUenJxNXJUcHVSQzdTbFJuRGFac3V3bWYyeDk2Q3F3aEU3YjJmT05TczlTX1Q0NXF5djhmLUhtNUFvdnlSSDBrcVk?oc=5",
+      "ts": 1786800001000,
+      "sentiment": 0.0,
+      "tags": [
+        {
+          "sym": "RIESGO PAÍS",
+          "name": "Riesgo país (EMBI)",
+          "pct": null,
+          "dir": -1
+        }
+      ]
+    },
+    {
+      "title": "Riesgo país de Bolivia baja a 407 puntos y queda por debajo de Argentina y Ecuador",
+      "source": "El Deber",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVTJVTzdqOVBiS3QxYXY3RnlERnRCUXVQOFMzU0hrZWRaMi1VaWoyalNXNnFxeThLME5CdzlJSnh2RDhaTk11dEgwSUpUMVYyRW94TWV3N29Ed2hxa2RUMW8xRmpUbFhxOXRwUGE3TE42c0FWMVFnWk0yR2dxVHJDdllwVW4zeUxFZE5jb2Q5Mmc4dnhGRzBENWpaRVBCdHB4MkhHeGhZZW1yYl9TOWc?oc=5",
+      "ts": 1786793973000,
+      "sentiment": -0.5,
+      "tags": [
+        {
+          "sym": "RIESGO PAÍS",
+          "name": "Riesgo país (EMBI)",
+          "pct": null,
+          "dir": 1
+        }
+      ]
+    },
+    {
+      "title": "El Gobierno resalta que Bolivia baja su riesgo país a 407 puntos y se mantiene por debajo de Argentina y Ecuador",
+      "source": "Oxígeno Digital",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUk9xbldzSTdtN3lvVUt3dGdPTkFzRWp2RlVLdVozcW9uTWVUNy1DZlMwVngzSG8zNzZPR296RkgxaGRKZk14T19PWWRJMnQyaTdLU0tNV3BTNHdNMnc5d2M4eXR4YVpNVEw4eWJEUnNQU0pZa0RwZjlmSGxhZ0FJMzJKRVIyUTR3eHZGdUZhdFNGbHhORzR1OXJSWEhhdWFqX2ZwcFh3WXpKTzNCVldwd0RObkhSeWMtblM1OXJLRWxQRmZERkZ6Vy1TWFU?oc=5",
+      "ts": 1786758209000,
+      "sentiment": -0.5,
+      "tags": [
+        {
+          "sym": "RIESGO PAÍS",
+          "name": "Riesgo país (EMBI)",
+          "pct": null,
+          "dir": 1
+        }
+      ]
+    },
+    {
+      "title": "Bolivia reduce su riesgo país y se sitúa por debajo de Ecuador y Argentina",
+      "source": "La Patria 3.0",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVy1zUGRuaV9USEJzY1kxZmVBNkVLMzZPR0lmaHRiMkFXLUxka3ZQYkVwWWZxUi1Gc3hlUGtKbzRpRTdiQUFJSUo4Z0FjVlhTTlhNVFE5QjNEN2g3QzJ2LXFqU0llR0V6bDY4MDdBbGFESUlPNW9CNk43RU9uQlJENmdSMWxMTFVUMVZmdzhHVUc?oc=5",
+      "ts": 1786754154000,
+      "sentiment": 0.0,
+      "tags": [
+        {
+          "sym": "RIESGO PAÍS",
+          "name": "Riesgo país (EMBI)",
+          "pct": null,
+          "dir": -1
+        }
+      ]
     },
     {
       "title": "Ecuador produjo menos petróleo, pero recibió 15 % más por sus exportaciones en el primer semestre",
@@ -1599,67 +1677,6 @@
       "ts": 1786431600000,
       "sentiment": 0.0,
       "tags": []
-    },
-    {
-      "title": "Argentina busca recuperar en Ecuador el mercado de autos que ganó China",
-      "source": "expreso.ec",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSlhDUGFNM1BxamU4ZkJYNXdIdlhPTzB5NWRGQmR3ZzQ1RlVIRXYxZWliQ3RTWnF3a3dJR0lDRUFjdmxKTElnUERmSFBseUdyQzNMZVFLRE4wNWJ1RmlJYUxVejdNdW83U2hfY196Q1VjSFdwMXpsdW1BN2FrM29uYUJJY1VQVVhHRHhJMzBhZHhoT1pCRHprSnZBN1RSRUk?oc=5",
-      "ts": 1786431600000,
-      "sentiment": 0.5,
-      "tags": []
-    },
-    {
-      "title": "Ecuador ha recibido USD 11.353 millones en préstamos hasta julio de 2026; ¿en qué se ha usado el dinero?",
-      "source": "Primicias",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS2hNWFA3cnpRX0pVcDNrb2dDOEZfcV9COExEeHZkbDZvclVUZkxrTnF1b0VxNThpbmY0OVU5ZWM2ek5wcGJwbFFsdDdyaElRVXo3LTlkYmR4Vkw2ZGdnVlBTMVYxcFdZY2ZHNk40OXI4eEQyNUpkLThTTGFaS21YT0g5bVViZ21KYkcxbU5yNDIycHJFM21QTEhYZzNGYzkzTVdTN2VlVmpqMkZKVTBv?oc=5",
-      "ts": 1786431600000,
-      "sentiment": 0.0,
-      "tags": []
-    },
-    {
-      "title": "Serenza inició operaciones en mercado de la salud en Ecuador",
-      "source": "El Universo",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMFdoQUVsb2FHZV9TV0VuT3RBMzRQcUNmTXlOLVZDLXJNbXlURURrQzQyaS1RWkFCVnE3Q2xiTE5jRU80aGE0NkpYa3JxUElnQ0hpWnpGeGNUZkZWZTlVMDA1MWlTNlFWTmhFcE5xR21GdjlFbV8yQkRmeWM4MU40OERXczR4Z3BuZExjN080QUVHT2xGRzlZS0ZxUGlWVDF0aDlPV0V6M3cxSGVjR2d2UzZnTzE3ekt5VUhwStIB0AFBVV95cUxNV3k0S0g0NTlodnhCQ2t2VU1uc3ZvMUxCaUdlT3Nyd1BRTW0taUdtOHFUb1l2WWhUNTlMN004WncxdUU3ZVBYb0VyM29QcW5OZ2h6aXZGUTdwV3BnWl9PTzJKbDRnRENHaGZRUlNKX0ljVEwwbGRQUGJOUS0tSjQ1aG95MlRFdjgtTEFGVUdJWlNXd3dNaGVKNnJ4RUtualFfRDB1Wk51Q3FMZExZcDJiamJkRFE4Z2tTR3h2ZjBnSko3RDFRZkNHamw2aTZIOHAw?oc=5",
-      "ts": 1786086000000,
-      "sentiment": 0.0,
-      "tags": []
-    },
-    {
-      "title": "Envoy Tyres llega a Ecuador: así son los neumáticos europeos que buscan ganar mercado",
-      "source": "expreso.ec",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUmMzZG9DUXpUc1pFdkR0NW9LZGt2NnJ3ZnBNc3RfZFh0aFgyZUpPQ3Nwa0NIWFl3ZDVJNEk2VjNmQ0RLWHM0bEh3REFZeUozYWw2cmhMYTcwaW81SjE3ODdGUjR5WE53QUV2VXRaeXVWSXFzaE1CSXNPTTkxZXFXUWY2cU03RXJwLWV1TVhEOW02OTctUjlsTEtlZFdNUHRtM2psVFhJNnZIbE5ULUtlUHZVVmNSMWw0dlpZeTFvQW4teU1SaXBDc1NQYVpqLW9OOHNrdV9n?oc=5",
-      "ts": 1786086000000,
-      "sentiment": 0.0,
-      "tags": []
-    },
-    {
-      "title": "Camarón, banano y cacao ecuatorianos seducen al mercado japonés: un acuerdo económico está en camino",
-      "source": "Vistazo",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM29MVGNFempSMURlaHFKT05xTVloU0xSWDJReGVPTE1hNDU2aEs2Y01FLXh5Qld5NGVVYnVnU1lWY0p3QXh2SFplMVNidWJOVXRjU3prMndVM1dZcFJGdlY1OTdzM0hnaDZRcS1aTUIwdTk5NTd6eHZoeHkxbVVobWxFOGNRRTVtWmlnNThKUmc4REpiQ2VLT2ctWURkOHZkX1E3SDlONGI4Z2ZBa1lyUzZzRWxwcHRKMXd3ci1wWmxxSldkc3JjbldUY0fSAdIBQVVfeXFMTmd4SW50YmY2UzY2V1F5VkxDN21TZ1dnV2ZvRXZEY05ELWN1WFBuWUMySWhHSVM5SEFVdVpyZF9KTVQxRS0yV2szSnlzNEdIdzJMUkNEa2tIUF9qR3JTRmhqV09Yb0ZvWVY0T3VKc0MxVUEwbzF5THcxVi03VG5VdEp4MkhHVURQVFMyTEJXeEplTW9reUlfSHdPamdZZDdUU1RIdzZ6d3JoM1FTSERBOW1DNm1HQWRvZVpfUlBKdDFwdHJDSVFjUFByUnZNZkxqNlFn?oc=5",
-      "ts": 1785999600000,
-      "sentiment": 0.5,
-      "tags": []
-    },
-    {
-      "title": "Ecuador exportará 10,8 millones de barriles de petróleo y prevé ingresos por 872 millones de dólares",
-      "source": "El Comercio Ecuador",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNXVrWnBuWjBUaUlhb0ktUVlQaWN6U0JvajlJSDRYYmUtd0hsb0hicU9IdVJQSm1zSDNJODlVN21yYkVQZW41NkxzenQ1VEtlLVNCVlRqdE1KdXlWX2FjbGdKZ0dWaGU0a1JHbjh2M0R1NXpvb3JidmlseW5WQXFXR0ZaM1hheEo4LXl4cjdHckYwTFRLZGV3MW91UjBuWW5mSkI1MjRVQ1JhMlhIU0Y0UE9MY0dWcHVhR1ZvQXF4NVZyLUNYemlwYWpxVFNycUZUay1tNA?oc=5",
-      "ts": 1785826800000,
-      "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "WTI",
-          "name": "Petróleo WTI",
-          "pct": 0.7,
-          "dir": 1
-        },
-        {
-          "sym": "USD/MACRO",
-          "name": "Macro / dólar",
-          "pct": null,
-          "dir": 1
-        }
-      ]
     }
   ]
 }

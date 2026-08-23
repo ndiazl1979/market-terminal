@@ -1,10 +1,26 @@
 {
-  "updated": "2026-08-23T14:09:21.210783+00:00",
+  "updated": "2026-08-23T14:36:47.881128+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "La IA predice el precio de las acciones de Nvidia para el 1 de septiembre de 2026",
+          "source": "Bitfinanzas",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORVpPT24zbnlQcVg5bHRMQzVRU3dWUWl2bHI1V3E5R0hlVzdydnZ3QmZGVUlkc0NxdWFmeEZoemF5ZlA5SVQ4SFNrcHk2RUpkYzM4REVNRW9yQ1JqUXhWREdhZzUyeTdHSkc2UHNHSzRDYV9zZzgwd3BrYzhYcGZPdTF0Z0NCUzBWLWZtNWM3anZQMV9IaDhiNw?oc=5",
+          "ts": 1787495380000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Citi espera que las acciones de Nvidia suban tras sus resultados",
           "source": "Investing.com España",
@@ -31,13 +47,13 @@
             {
               "sym": "AMZN",
               "name": "Amazon",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.6,
+              "pct": 0.5,
               "dir": 1
             }
           ],
@@ -178,22 +194,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Acciones de Marvell suben 11% tras acuerdo de warrants con Google",
-          "source": "Investing.com México",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONWtRYzNsQU9CRkR0b2ZHSV9QSnZFaWU5NkFTZjhPMHlxQzViUnFBdWt6bkw2M2ZidGg0cEFzSXcwNUdxdEpXMTVsTTNid0dMOXVnTmg1NDI1RnhBN1hwSFFfclBJcG5yWnByLVFOLW9TLVRIT1VHLUU1dURacVptbXg1d21Ta3pfbnlqdFJ4ZlNraHZ4d1JkMzA2SlFLYXkyNURmZ0duNXE3cEZ3Z2JFcjlRcnNoV0hmNlJ1X1k2ckhlTGdEODhz?oc=5",
-          "ts": 1787197684000,
-          "sentiment": 0.67,
-          "tickers": [
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 1.2,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -201,6 +201,38 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "La IA predice el precio de las acciones de Nvidia para el 1 de septiembre de 2026",
+          "source": "Bitfinanzas",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORVpPT24zbnlQcVg5bHRMQzVRU3dWUWl2bHI1V3E5R0hlVzdydnZ3QmZGVUlkc0NxdWFmeEZoemF5ZlA5SVQ4SFNrcHk2RUpkYzM4REVNRW9yQ1JqUXhWREdhZzUyeTdHSkc2UHNHSzRDYV9zZzgwd3BrYzhYcGZPdTF0Z0NCUzBWLWZtNWM3anZQMV9IaDhiNw?oc=5",
+          "ts": 1787495380000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Alibaba busca USD $10.200 millones para acelerar su apuesta total por la inteligencia artificial",
+          "source": "DiarioBitcoin",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVk3anc4LU9TeFBPS3VySXJZSDUxanp3MHdTekh0aUI2ZElaMkdSQUc4UmZGOXhjR0gxLXc2Y3BvSHpMalZnT2JpT2tsOUdVa1h4elM0MzRVQ0hkQ0diRGdDbWNxSERDWnc1cGVXVEZnNi0xMGxWejZ3OWk1RXhhUlhSUDZBQms5dGRWS1pYSWUxZ1lEQi05dkxBZWNrNWxFY0o2LTZxVmo0QU5Jcnl2NG5KbEdVSFh2SHlfVklucm4tYXRrLXo2R1FzY1k?oc=5",
+          "ts": 1787494396000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Alibaba emitirá acciones por más de u$s10.000 millones para potenciar su negocio de inteligencia artificial",
           "source": "Ambito",
@@ -318,38 +350,6 @@
           "source": "Investing.com España",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSmhzclJLbEZYbERXc0Vsb2thWklKQ2R3TVNzN3lOcTBvSVRsd1Bvc3huV1BxV0drTHR0UDhkMUY5YlFueEstVTY4VlhHZVJrODVwbHBVQmlKQTdHLVZ6VWJZZjlPMDFucmN5Nlk2b3k4YWloUzJlaHFSWmxoeHlGSWFaN2FqWFUyTDBQeEFkUEZCaGI3WmlyUkJlVHZNN0VnTUtSTGdrWDVtMm1ZaDRmYkFldHBnd1lfVUpVU2RPOS1tNzdMaktZT0tYZjM0VGszZ0UwT2VIZw?oc=5",
           "ts": 1787431620000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Nvidia siente la presión de los chips: el costo de sus servidores de IA subirá más de 15%",
-          "source": "Bloomberg Línea",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdEtQeHFuMUswaFRYamV5N1RUNmY3eGpDeTluYV9CWmU5RGRNNzlWdnBib0xfSllxN3lxbHotNDlqV2N5N1FVcTJZVWduNXRENVBibm1GWnRSb01TMUwwbi1GTThsMEQ2NEFnOC1wT0tOOTFyS1ZnTWU1d2tqWjBkbDdqMGltOWhwZ2M0UVdJYTFXanh5OG43RGx3Ny02WDJhOXgzT1FfQWdHaGZUV0FxUGUtUGp3RkVHbG5GbnhTWnh6aUdqUjF1eGVB0gHeAUFVX3lxTE9NdTVkRTExNFU0V1ZtM2hEV3N2OTlCc0JwMHhUV3pycDQtQ0tvV0ZNNnhicXluWGZ2c2EzczRfNVBWTnBtYk80ZXpJNXVudVlwbnpnVDNzRXNYcFhCVDdkaHB4cy03UHk0OHMxeTZFWlZtTTRoM0N3amVhODd4XzBmWVZ6VkFxTVBWNnc4VE9nQWphTHJ3S1NWQ0pBbW4yeTlwM2lfVnE1eFAwcFoxc1ctLTlzWkZVWTFHUUpjSE53WTNnLVQ0d1FEWm5CcWNENjAtU1ZxZUV5dFhCVThSZw?oc=5",
-          "ts": 1787426972000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Nvidia notifica a sus clientes subidas de precios superiores al 15% en inteligencia artificial, según Bloomberg",
-          "source": "MarketScreener España",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeDI2amRNYW51WUtDVHc5b1BmQmNqdThPeElfRWFucDlhMjNmdFpnamowWmtVdk5YbGhQaXlXM21lcjZaMUF6YmVyZUhSSl9Da3BIZTQwZy1mUllTa2E4NEVtU1Z1b2d3YlVGcEFfT2M5N2lpOXJpWFJ5cVFqLWRQT0JQbVVpZEE5czJYUV9Zcy10Y2ZfWWJqQmVybjhTV21IaGlEY2JxNnVoLVNQSTZIVG5mQ0xjMERhWE5yOUNacXdrRkwwZkk0dmY5QVVXVjUzOWpWV2ZnRndHLUstQzV5NkRSTFRfS0ZVVlE?oc=5",
-          "ts": 1787426067000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -642,22 +642,6 @@
           "category": "defense"
         },
         {
-          "title": "Presidente Abinader entrega blindado Furia VBD-2 y modernos equipos para reforzar la defensa nacional",
-          "source": "Presidencia de la República Dominicana",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM29oUHkzdS1MV2p4MmRxcjR5LUJ5QWYwZ0p5NXR0ZlVZS25LQkdzWFhkTzNCNmNZM0dNSVNhQXpGMXZIQ25IOHIzdEJFOUNGVXpkTDZqT0VhZmxmUmYyWl9HXzhmUksxQ3NHRzd3c1R4b29YektTWG5pSXc4UlNXVWVOXzByRGZ5ZHdkQklPOGJrbWhycmd1THkyNFhybUxkcng4RlE2S1FoWGstamp3OFIzOTROV1NJeURIUw?oc=5",
-          "ts": 1784271600000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
-        },
-        {
           "title": "Líderes de OTAN impulsarán millones para industria militar y Ucrania con presión de Trump",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTVUzNFFwN3Y5c3lHU0IxbDRyYUpuSHF5ZHZwZmZjWDJmeFktWll1SWtvMVZVSm51RFdWWFFYa1htQi1YSXhycURNZWNjemo3X1lZc1NSLWZBOXRPa1lGNkVVemFYOGxOV1NVSkNTUm5vdTljcWNodjkzLUJOeUlkZWl4WGFxcjNra0FZS2dUa2FOelN2MUhwbm84dHB2RXE4SXNyeUlMR19veWgzOXN1RkhRNDNLV1ZVbktPN1Bkc2NIT2RycktIdENXMGJSemNZSGpaWlRHWmJ4d9IB9AFBVV95cUxQWm53cFNsTndmbjMyOHI4ejFmOF9kQ1VZbV9rRzhpWHM3VW9SR2h2SmNZekJqb0xpMC1iTUJtWF93X0hSSW1sQ1M5NGZPQlJlTnloSjlEd0JkNGNDRUxsQzNrczAzU3NuWDhvZF9rVUNhN3lUNmNLcWR3V3ZTQl9BQXRHLUhkYTVrUGZtVVpXdThtUFg3aks0a1ZEbVpjSDVuNlRSS2sxUURRVFJmaEtPdnk5Q2loS0FnejFMTXZOeTdsQ1hleWlIS3pqRGhJQmVrLUtUWHQzOHQ3T3d6amxSZXZLVG56bmdxekNhX0hJVlFqZGZT?oc=5",
@@ -708,22 +692,6 @@
               "sym": "SPY",
               "name": "S&P 500",
               "pct": 0.3,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
-        },
-        {
-          "title": "Defensa prepara con hermetismo una treintena de programas para elevar el gasto militar a 35.000 millones",
-          "source": "El Economista",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQc0NNOVUwUUNaRHlyeGVnNG9rMFI2T0U1RkkwQlhaUGZVNzlCdFp2bDhGa1paSTk3amVDYlNXN01Gcy1HS0czVEpuSVNTUTVuSWJIckpIZGg1MkZPdHpFTDBBdU43S29RbjVpRGM3b0hvSjU2NHZkVDZHN3JkTjZPZTFndGMxYTh1LWh6TFJ6THBhb09YNm1ydFpiTEdaU2pMN3ZfSk9hZ0pIU1RITGJrLVJJb1R1UWRwTy1LWF82Ulh0UURYSDdjWWd4UnQ4c3NmZ05nR1V4VEtpc2tURzg0UDJZUndMdlZsUWRZemRvbDhtekRjTGZIU1lzaGIxazDSAeoBQVVfeXFMTVNMNlpzUkdMMWdPZEN2cGxPQktPSmVyTkljaTVtVGUtQ25iTjBHdzc0ZkdrODR4QmowODQ5Q2JQZjd0Z1FkaXNkcm45V0QtcGtmRWd3cndiV3JRdmlsc2IzNXNOdEF2N1RxRUlBUTQyMVdaLVlmUkt1MzVlNnVxa256a1g0bjJVay1ZUUt1eUdVb0o2M3pXR1FBajlyaXZQbDdLZVNqSVNoX0ZvRzJNQkcwNE9KeFNQTkJEMUsxMEc0NEJMNW1NS3htV1lRMkNBYVdzM2F4OWlsdmZicTV6Rkl2UENDUGxLc2R3?oc=5",
-          "ts": 1778914800000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.4,
               "dir": 1
             }
           ],
@@ -1432,20 +1400,20 @@
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 9.3,
-      "n": 6
-    },
-    {
-      "sym": "ITA",
-      "name": "ETF Defensa/Aeroespacial",
-      "net": 6.9,
-      "n": 23
+      "net": 8.1,
+      "n": 5
     },
     {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 6.7,
-      "n": 8
+      "net": 7.7,
+      "n": 9
+    },
+    {
+      "sym": "ITA",
+      "name": "ETF Defensa/Aeroespacial",
+      "net": 6.1,
+      "n": 21
     },
     {
       "sym": "WTI",
@@ -1456,14 +1424,14 @@
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 4.3,
+      "net": 4.2,
       "n": 18
     },
     {
       "sym": "GOOGL",
       "name": "Alphabet",
-      "net": 3.7,
-      "n": 5
+      "net": 2.5,
+      "n": 4
     },
     {
       "sym": "ASTS",
@@ -1486,7 +1454,7 @@
     {
       "sym": "AMZN",
       "name": "Amazon",
-      "net": 0.8,
+      "net": 0.7,
       "n": 1
     },
     {
@@ -1618,6 +1586,21 @@
       ]
     },
     {
+      "title": "Reduce el riesgo país de Bolivia: esto revelaron los datos hasta el 13 de agosto",
+      "source": "Bolivia.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVRiZUJ0YVI2QTFSZW05VjhqdkdPeG1DSWxaaGdhaUJHMkVrb3l3bmZoWEh5ZVNfR3g5WER2RlhST2cta0tDSlg2NkwtcmpuaE15ektUeGVVRmJaaVJGbUZ2S19aLXU4aWRHbzRobnZSVTFDX2VPOXJpWDV4SVQtbDVES3duZEZwNkN0cDgwRUVtNnlGTmpqU3phSHpJc1pJY0ltbVhWRQ?oc=5",
+      "ts": 1786808331000,
+      "sentiment": 0.0,
+      "tags": [
+        {
+          "sym": "RIESGO PAÍS",
+          "name": "Riesgo país (EMBI)",
+          "pct": null,
+          "dir": -1
+        }
+      ]
+    },
+    {
       "title": "Bolivia reduce su riesgo país y se mantiene por debajo de Argentina y Ecuador",
       "source": "Red Uno",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMGNuc1JEZzNJSHdVb1BGWVEwNlVHSjZuS3ZETmZSLXdFYm91QXlfYWE1WXFlb08tcGJjdnRXbkxCbmVJV3dhQ0REWE0wU1JsVnp3VHF2MlhfcDFNSXFTV1h1cmoyOVF6TjB5LWdHbUJ5U0U0OEl4akl2dXhjR0xBRTNUenJxNXJUcHVSQzdTbFJuRGFac3V3bWYyeDk2Q3F3aEU3YjJmT05TczlTX1Q0NXF5djhmLUhtNUFvdnlSSDBrcVk?oc=5",
@@ -1691,14 +1674,6 @@
           "dir": 1
         }
       ]
-    },
-    {
-      "title": "En Ecuador se vendieron 36 motocicletas por hora entre enero y julio de 2026",
-      "source": "Diario La Hora",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMGIyd29kMlBtY1RXVzhzLWRtek85NW9JTWdiYy1TSlBKZ0lzZEdTbEVLVFJCeVFid0gzbmM3Rm9CdWR0QjFVbHpXYVBnb01tYXJILVN3NWl0YmROYVhFRWsxWUNEbFQ0TXJQaDJzcFM4QzgtUnRTMGR6NUVTTmxGUWptSFJDSU5qZFhoc215XzFfdG13U01Cd09DU2RIYTkyYmdCTmxSYUdXdDRlYk50UmJUSjYxVkpGbTZkMjNueXFqdWUwT3ZUM3NR?oc=5",
-      "ts": 1786467578000,
-      "sentiment": 0.0,
-      "tags": []
     }
   ]
 }

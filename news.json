@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T00:00:47.558178+00:00",
+  "updated": "2026-08-23T01:50:47.669342+00:00",
   "categories": [
     {
       "key": "tech",
@@ -15,13 +15,13 @@
             {
               "sym": "AMZN",
               "name": "Amazon",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.7,
+              "pct": 0.6,
               "dir": 1
             }
           ],
@@ -37,7 +37,7 @@
             {
               "sym": "META",
               "name": "Meta",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -158,22 +158,6 @@
           "category": "tech"
         },
         {
-          "title": "Marvell sube 10% por un acuerdo con Google, que podrá comprar 12.200 millones en acciones",
-          "source": "Bitfinanzas",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zV05SeTRvUnhqb3FLUjdPYjd6TUU3Z19BS2c2TE9DNUdIVHRfLXMwcWY2bWI2bU43NEhyOGV0bWR1MVRSdG4zX2lhVTBvNE1fWmc3Zl9fV21pYWhRMGlweDRlNC1jeVBFTkZfaHZwb19RQ04tZERONXd3?oc=5",
-          "ts": 1787175513000,
-          "sentiment": 0.67,
-          "tickers": [
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 1.2,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
           "title": "Marvell otorga a Google un derecho de suscripción de acciones de $12.2 mil millones en un acuerdo de chips de IA.",
           "source": "es.qz.com",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWFI5UHk4MVdMVmlpUVRDRWotVFY5b3V0SV9RYlVDX3BDWjhGMmw3M25YV3JpMTJ3dHUwenlxZ1hSU1hMaERmcEJsSy02U2QzaW1tVzNiQldvVHBGYW1SREdhTGFoenVGS2xlRVNkWWxyLUtmTnJzV2xrdnBKVzZfTzduSXhHNHlVR0QxdFRvVU9tWHhZeGx4M3lGVmxJNXhHV0hF?oc=5",
@@ -194,6 +178,28 @@
             }
           ],
           "category": "tech"
+        },
+        {
+          "title": "Google podrá comprar hasta 12,200 mdd en acciones de Marvell para asegurar chips de IA",
+          "source": "DPL News",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NX21yS2s3Z200NTNJQTJtdzE0LTJDR3RrcFZkaUpvZUJoeUVKNVBtV2I2cnJkeDZ4cHhQbVdVVGYxRW13XzNNckcyNnNDYzJJVGk3WmpUb1ZjMzNVVHhuMDVhTTdycXJORzVtUDUwWTRfMjFpMFBJeEZ5dUJ4MWs?oc=5",
+          "ts": 1787164931000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 0.6,
+              "dir": 1
+            },
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 0.5,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
         }
       ]
     },
@@ -201,6 +207,22 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Agentes de IA: de responder preguntas a tomar acciones, la nueva frontera de la inteligencia artificial",
+          "source": "El Nacional",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNEg3Z1RQeWVuTERla3hKTkphSWU2WGItTWhwRDJIU0wzTFVJU0xKUXRNOGNpUm9acGdfMkppWFo4cTRvNEFXd3FCaXE5TlhVOTFsSFg1RXRXUktVTkZydV9qSkJFYzR5bHN0MGd5bnFhdjRqdXMyN29rS01RdnphdXRSTmlvcXZyUER5UXlqZEtoM2I1bFA3MXNCcklZNWJsVXA1aWNvOWVrWXlpTkpULTdHRFNyRldmcEVGQkRRaXFhb1pPZzFNNXlnSWhWc2hQQ2Jn?oc=5",
+          "ts": 1787442021000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Nvidia informó subas de más del 15% en servidores con chips de inteligencia artificial",
           "source": "Diario El Norte - San Nicolás",
@@ -243,7 +265,23 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Nvidia notifica a sus clientes subidas de precios superiores al 15% en inteligencia artificial, según Bloomberg",
+          "source": "MarketScreener España",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeDI2amRNYW51WUtDVHc5b1BmQmNqdThPeElfRWFucDlhMjNmdFpnamowWmtVdk5YbGhQaXlXM21lcjZaMUF6YmVyZUhSSl9Da3BIZTQwZy1mUllTa2E4NEVtU1Z1b2d3YlVGcEFfT2M5N2lpOXJpWFJ5cVFqLWRQT0JQbVVpZEE5czJYUV9Zcy10Y2ZfWWJqQmVybjhTV21IaGlEY2JxNnVoLVNQSTZIVG5mQ0xjMERhWE5yOUNacXdrRkwwZkk0dmY5QVVXVjUzOWpWV2ZnRndHLUstQzV5NkRSTFRfS0ZVVlE?oc=5",
+          "ts": 1787426067000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.5,
               "dir": 1
             }
           ],
@@ -259,7 +297,7 @@
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -324,38 +362,6 @@
               "sym": "GOOGL",
               "name": "Alphabet",
               "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "El nuevo plan de LG y Nvidia empieza con lavadoras y termina con robots humanoides",
-          "source": "Gizmodo en Español",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMjNBTzBVYnJ6UHJqdmVtMU1QMU8ySEMtQjBza1VYNUJBZFhaNTZmZEJGdG95OVlHb0lpblVRWXB1LTM1b2Y5bTJUTldNMm9LdjE3aE9ydzJLcG5hS2YybUd4elhjeVdDaHNhUElwT2hlck5KNllWeW9NWkxuYThjVHpkbmtLLU10dFVmbE1jNTd0Vm1ybzk3M2RuaUZGNGFPWjBfYUxQZ3lzY1l4WkY4aFJhMlRVWms?oc=5",
-          "ts": 1787407948000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Waymo lanza su propio chip para robotaxis: 1.000 TOPS y fabricación TSMC",
-          "source": "KCH FM",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT0RhMDUzN3MyRHJTTExoSE12YlVmV0NOYjlQYWltcWxkZk5uMnlRNlRCdVkwaFpGQm04UmxmbGlpTmo4SThNWUU4UU9FNnIybTFzLVNYNVF6QzRVUVNaQVZBSk9ZTkI5Y3hoXzhUa3FpS2I2NHBYX2RMUWpMeGc0WnVzaExKaW1IcnkxVDRsVUJVU3M3M1M0dmxpZU1JZXVFLUVWRFpNdk9NalRKYWRGZA?oc=5",
-          "ts": 1787405696000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSM",
-              "name": "TSMC",
-              "pct": 1.0,
               "dir": 1
             }
           ],
@@ -448,6 +454,22 @@
           "category": "space"
         },
         {
+          "title": "SpaceX se derrumbó en Wall Street ante la preocupación que genera su gasto en IA",
+          "source": "La Tercera",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPczNHVFVFSDh3bVYtcmJLNHduYm9fTFdjSmZwQnJteGhvUDNvNGxjTkI1UEtsX3pIdFFZTVRCY1ctUkxrVkJfMUExMkxjUFN2VUduLXdMS2JSREE3NU9fREh3ZFNmaE9YaFhCbTJ3RktVQmdERDB3MUZib2Fjb1ZXcW1jN1ppRS1TcnBON3NLQ0g1LWNQVUZMUm4wTVBjMmFrQlA3TVRBUERBekR1WW1iZlQwb080d9IB1wFBVV95cUxNTjRldnhJQktUMkpsVUc4UnhHR3o4T1VjT2xqTUFuUDVGNWY2VUtYTHhqbUFENlQ2VmtJQmxuNXBNeVpIaFlhR3M5enlCRkV4a0pSdkhfODRyQ3A5OVJfV2FEdU9jRFZRNW0yS3RRUFEwZUNaUXhIa1VDYkljM0QxWFhZTlNNWTg4NVh6VnlqRjNYUXR3UDhSamp5VUQ5MDFmLTRlM3ZPUUJKc0lyWU9hVUtDM3hDNnJGeVg1d1kyVEtPTUpfLVlpTkNWUk1VdlR0R2k1LTAwQQ?oc=5",
+          "ts": 1785913200000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "space"
+        },
+        {
           "title": "Wall Street está a punto de recibir el primer informe de ganancias de SpaceX",
           "source": "CNN en Español",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM0N5QU1OckN3dE1yVk9RekhtZG1Jdi00RjZ5MnF4OERrNm1tdnowQ0dLWE81RU1aVmhTQWJlYUpzWWM2Q1o5Y0w0aE1YRVA1MXo0RmFJQll5LVhpZmR3OW0zZUQ1WUVGTGdEU1paSVE1STFXR1ZBelpvT25EdWJlUkU2b3BucDVJWjh0ODRmejlvZlpkYlo1NEpNNA?oc=5",
@@ -507,22 +529,6 @@
               "name": "Tesla",
               "pct": -2.1,
               "dir": -1
-            }
-          ],
-          "category": "space"
-        },
-        {
-          "title": "La salida a bolsa de SpaceX enfría al sector espacial y borra más de 1 billón de dólares en un mes",
-          "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaFp6ZTJWR2ViLWJrdEowUGN1XzFHM1A2QXYwMTFWYk1sTjl4UmJJUTN4emlTdnBUUFRocnBZWDdCZXlYYnhIcUFsamlxRmNfXzRfdDBNbGNXcEJUZ3gwSnl1Zi0xZW4xTzBFLXlJeUZqTHhGVnoydFVYdGt0blhJYVFrbU9DS254SUF1YWJYUERNaUEzV1BYSUpTa1ZadVJJUWJkR1VGS3c2cm5Fb1phUm9BNENjV0xMVE1RQnBHUnVkVWVmSWRKODRRbFNPcDVWV1BfLUxnMNIB8gFBVV95cUxNS3paTFRHd2RWUXpfV3pMMmJlNkJFeDZtOFkwQlV0amhWOG0yYkhMN2RROUZhdW9tRXlUVVNMV1dILUNzMUFqTzFzT2UwU1hxc2JESGRrWllzLU42Mm1YT2dRUENaVmVoS1ZqQkQ4MFJxQ1ZQeVlZMzZwbTR4Mk96el9iUXZrZjU4YzBwNnlDclNPN21waWRQTjFHblNUb2FTRldrSlhTWUxUclFXem5nbGx2ZUxTQmZ5MXllMUpPaWZMVEh0TlpyZ0VrS0YyYXVJT3BqaUpHRm56V19lTTlJRFNTaVFWVnVCTzZjeURRUEd2UQ?oc=5",
-          "ts": 1784790000000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "ASTS",
-              "name": "AST SpaceMobile",
-              "pct": 2.1,
-              "dir": 1
             }
           ],
           "category": "space"
@@ -729,7 +735,7 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -884,22 +890,6 @@
           "category": "oil"
         },
         {
-          "title": "Noticias del petróleo: Brent cerca de 90 dólares mientras el conteo de barcos en Ormuz señala un suministro más ajustado",
-          "source": "FXEmpire",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSmhUc2t6RFhpRmZwVWJuQ25kcXBCZFFUT29tQjB2YUF2Zks1a25XNjRrZGRLUHpiNDBPNlJzM0cxeW9jZzV5Y3BCTWNuWWZCeUJBY1oySHhpMVhmbWZabHJyTmlaOHZEU0RRN054VzJVNHBLVU9fVWpWazVtNlJSNnpuemNPUnNWM3JIa1FkeHRGMnpseEMzbVZsdFpwVWJ0YnlGWlJ6NWZ1UElEUVhwS2hFME5nSnNBM0ZoVUQ3cko1X1QwOGZBLW9vYW9IOGV4WTFscjZZQlpRMUY4VE5qOXBlSkVzeXppUTVmaFZtNGtidEw5Nlo0aDcyMmNCUHBpRUNzOXJiNA?oc=5",
-          "ts": 1786431600000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "oil"
-        },
-        {
           "title": "Perspectiva del precio del petróleo: WTI y Brent suben mientras se desvanecen las esperanzas de un acuerdo EE. UU.-Irán",
           "source": "FXEmpire",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxORmQ2YUlBQTJIdjdaMllXOEtYNjF3ZjlrTjQ2QWN3M3VwMDZ3RWhTb1pUZkZic0VNRUpocmJRYWdjX0VZbm9aVnZIQnQxNWg5VmdIT0tuTVRud3J5c2t2NVV3Y0VORDJDd2wtY21VQURnTjdSbHk1T01VWjk1TFRVNUVwV0xZZnoxakFYQXQ1bkJLZE1BdGs0V3BabGdaN1VkVUN4bXNSU0lSU2YzSmRmaHc1cDVWLUc4aUhYc3R2c3ZwSDBBczlkZGJiR1NwMzFDY1NRMVBQT20yeXVVM0hmN3BEUW1SUGhlN0NVLVBaeWJtZWpXdFkxTEotVUlJOUhB?oc=5",
@@ -922,6 +912,22 @@
               "sym": "SPY",
               "name": "S&P 500",
               "pct": 0.6,
+              "dir": 1
+            }
+          ],
+          "category": "oil"
+        },
+        {
+          "title": "Precios de los combustibles hoy (11 de agosto): Los precios mundiales del petróleo se disparan, el Brent se acerca a los 88 dólares.",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVJ3WGF5M0Q4ZTJNcmZtTHFRN2NObktGeUEzZHNVdWV3ZmtpclVpenFuSHVVOWZjXzZ4X1NhYzhBNVlGSmFtbFVmd0F4LW8taW9wbFBnTTNkSHIxSHVTVW0xVDBxOVFkVU1oWlB4YVYwdi1zc2g2Yy05VGxyM2ItNWdTbkdTR3NHM1dqQXZQOEltSTg3T3c?oc=5",
+          "ts": 1786408008000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -1410,13 +1416,13 @@
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 8.4,
+      "net": 8.1,
       "n": 5
     },
     {
       "sym": "WTI",
       "name": "Petróleo WTI",
-      "net": 8.0,
+      "net": 7.8,
       "n": 24
     },
     {
@@ -1426,22 +1432,22 @@
       "n": 21
     },
     {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": 5.7,
-      "n": 6
-    },
-    {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 5.0,
-      "n": 18
+      "net": 5.3,
+      "n": 19
     },
     {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 3.4,
-      "n": 4
+      "net": 5.0,
+      "n": 6
+    },
+    {
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "net": 5.0,
+      "n": 6
     },
     {
       "sym": "SPY",
@@ -1450,34 +1456,22 @@
       "n": 19
     },
     {
-      "sym": "ASTS",
-      "name": "AST SpaceMobile",
-      "net": 2.1,
-      "n": 1
-    },
-    {
       "sym": "AAPL",
       "name": "Apple",
-      "net": 1.5,
+      "net": 1.4,
       "n": 2
-    },
-    {
-      "sym": "AMZN",
-      "name": "Amazon",
-      "net": 1.0,
-      "n": 1
-    },
-    {
-      "sym": "TSM",
-      "name": "TSMC",
-      "net": 1.0,
-      "n": 1
     },
     {
       "sym": "TSLA",
       "name": "Tesla",
       "net": -0.9,
       "n": 5
+    },
+    {
+      "sym": "AMZN",
+      "name": "Amazon",
+      "net": 0.8,
+      "n": 1
     },
     {
       "sym": "AVGO",
@@ -1490,6 +1484,12 @@
       "name": "Microsoft",
       "net": 0.6,
       "n": 1
+    },
+    {
+      "sym": "META",
+      "name": "Meta",
+      "net": 0.1,
+      "n": 3
     }
   ],
   "ecuador": [
@@ -1498,14 +1498,6 @@
       "source": "El Universo",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVnhtdjdTcFZSZE5ya1daTW9WVnBsX0ZMcVV6NFItUGtQXy1HWlFzLXNMbXZ2aFJZWHRXdHRhakVlVUlDYmRZQXdyWlpVUWNoZm5BSFY2ZTRxV3lUWU43dlg4cElrRXBTVmFZd0t2S0g4aHVoT2VjRndzQlRrQnFrclg2SWltYUwtODdDWnZ1UDJoZm82N2lVV3I4MVJJeUVfbFNnUmVqeW8xTHhURmE2aHI3N0Rsd0c5N21jWVJzdWhNTGFWaWZzdWdn0gHeAUFVX3lxTE9RVlFaXzRvamZ2WWltYUtMcXpoWnBOakYzT29EbVQ5OFZRdXFOekRKajNHbkEtLVYxellzQ2JiU2c5MV9va2RJeXczUGJmMVM0ZVlYSTlRRzFvUHIwNHoyMkJzUUFYNWZLcG9KTS1yWG9LRkd3d0REdVQ2ajIxRWhFWE1oQjdfNGdsYXpTa1plTU15ZWg5Mk14V3RMYlhQNmJ5X1VqVnJsX21ZZGhzdk5JcEQ3WlpLanNsVlI5MlNWbXhpUWVJanZ3OC1wYWxndU82cDBVZlMtZ2FDaXBrQQ?oc=5",
       "ts": 1787331000000,
-      "sentiment": 0.0,
-      "tags": []
-    },
-    {
-      "title": "Ecuador y Panamá buscan expandir el intercambio comercial e inversiones",
-      "source": "El Universo",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUGtnT0dhTC16ZlplcVFLc3MwWDNlQ0JER1hQaE9wLXE5MHdNODkxTmt3RmZhdzRRb3ktMHVKeHVjVzI4cXEtNGdVRnlUMWdvME9QUEJxa05LcUpFMXpJYng0a0laczhDRjVodFdzMXNFWUMzQTVxNVVJR0I5ZHFsNW5GZUpGVmZGQ1F5OXZTeTdyTmdjUllHZlFGRjYwX1JUdVUtRlR6ZkgwQUgzc2J0NVFkWm4wbS1kZGFwaTJ6MNIB0wFBVV95cUxQdDN4T3hTYUJKenBxRHB1UFdWUnJnTjh4V19LNE9UazdQZFMyTFJCQ0tmbnZlVk1wVmY3cWRuLU56aXBfa0c4LUZrbkwyNzhjRnBBZ3BZOWdwUmN5VWtkYm80T1lBLTZOMXZ6RmNwOGhacGVjQW1ndS05cDk5Y3NQaUZDRkpVMmM5Z25sSEY3VFlNV0IyMU1xVnZ5MVlRblhHOUpiQjhSVmhTVEcxUXMtWkc4S3dBRFRXeTMzektyQUhmS2UxRDZubExfMVVLNTUzTWJr?oc=5",
-      "ts": 1787329260000,
       "sentiment": 0.0,
       "tags": []
     },
@@ -1564,57 +1556,12 @@
       "tags": []
     },
     {
-      "title": "Bolivia reduce su riesgo país por debajo de Argentina y Ecuador",
-      "source": "El Diario - Bolivia",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTEtRQzhuWDgzb19OeDFMNnhqT0kyeGVlTDRKaEtHckRUX0ZqYWMwbEVyNVZ1VWJSMi1oMldUMkVBeTFINDJHWW10SzQ1bDg2R3kxZWRYVm1tS0pINXBWYnIwVGt5ZjZFMjlERC1jbHI5WFdKX2YzSk9ZWElqTlp4LWFDcG9jQWNVWW5kNjM5WjI2Q2tsX1N6SGhLMGNQeE83MEZ4NUdIajUxUFU?oc=5",
-      "ts": 1786962644000,
-      "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "RIESGO PAÍS",
-          "name": "Riesgo país (EMBI)",
-          "pct": null,
-          "dir": -1
-        }
-      ]
-    },
-    {
       "title": "¿Por qué el camarón tiene tanto peso en la economía de Ecuador?",
       "source": "El Comercio Ecuador",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMlAySWVkNFN0NTExdkZPR1F1U0hSR1ZjeDVaVVhIZnAtMGlSUGYybXlhTFRrSUJKLU5GZTZKMFlvSUlxbU9wRWUwVGphYlRTNE5xM3dvbUlVdmJtU1RHVjlLbElxNFZZODlHZURCM3ZZb0Z6RDVxdkxDazUzRzRHOHBaaDhwWkZ1eWVvQjNnbFRkXzV2aHc?oc=5",
       "ts": 1786944000000,
       "sentiment": 0.0,
       "tags": []
-    },
-    {
-      "title": "Bolivia reduce su riesgo país y se ubica por debajo de Argentina y Ecuador",
-      "source": "FmBolivia",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPelBDamRzUEZmZTZfMEVTY0ZOWW8tMHNDa3I4STJaczRHVFIyT1BaQmhFOHdaMjhjbm81b0YzOW5xVzJKSjcwYnlBZ29BT24tZ0RUSUJSdmQ0a2FzaU5Ja2lyNjJRVlo2bUxabDZlSnlwOEs5blNqM1VaMk1DNFh1OUNHWXZyajk1bmNBQno0UE1WS0tpN0pMVzFSejNSYzhuTXA0anBBOGUwaS1FbTZtdEQwcTg?oc=5",
-      "ts": 1786867920000,
-      "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "RIESGO PAÍS",
-          "name": "Riesgo país (EMBI)",
-          "pct": null,
-          "dir": -1
-        }
-      ]
-    },
-    {
-      "title": "Bolivia reduce su riesgo país y se mantiene por debajo de Argentina y Ecuador",
-      "source": "Red Uno",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMGNuc1JEZzNJSHdVb1BGWVEwNlVHSjZuS3ZETmZSLXdFYm91QXlfYWE1WXFlb08tcGJjdnRXbkxCbmVJV3dhQ0REWE0wU1JsVnp3VHF2MlhfcDFNSXFTV1h1cmoyOVF6TjB5LWdHbUJ5U0U0OEl4akl2dXhjR0xBRTNUenJxNXJUcHVSQzdTbFJuRGFac3V3bWYyeDk2Q3F3aEU3YjJmT05TczlTX1Q0NXF5djhmLUhtNUFvdnlSSDBrcVk?oc=5",
-      "ts": 1786800001000,
-      "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "RIESGO PAÍS",
-          "name": "Riesgo país (EMBI)",
-          "pct": null,
-          "dir": -1
-        }
-      ]
     },
     {
       "title": "Riesgo país de Bolivia baja a 407 puntos y queda por debajo de Argentina y Ecuador",
@@ -1628,36 +1575,6 @@
           "name": "Riesgo país (EMBI)",
           "pct": null,
           "dir": 1
-        }
-      ]
-    },
-    {
-      "title": "El Gobierno resalta que Bolivia baja su riesgo país a 407 puntos y se mantiene por debajo de Argentina y Ecuador",
-      "source": "Oxígeno Digital",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUk9xbldzSTdtN3lvVUt3dGdPTkFzRWp2RlVLdVozcW9uTWVUNy1DZlMwVngzSG8zNzZPR296RkgxaGRKZk14T19PWWRJMnQyaTdLU0tNV3BTNHdNMnc5d2M4eXR4YVpNVEw4eWJEUnNQU0pZa0RwZjlmSGxhZ0FJMzJKRVIyUTR3eHZGdUZhdFNGbHhORzR1OXJSWEhhdWFqX2ZwcFh3WXpKTzNCVldwd0RObkhSeWMtblM1OXJLRWxQRmZERkZ6Vy1TWFU?oc=5",
-      "ts": 1786758209000,
-      "sentiment": -0.5,
-      "tags": [
-        {
-          "sym": "RIESGO PAÍS",
-          "name": "Riesgo país (EMBI)",
-          "pct": null,
-          "dir": 1
-        }
-      ]
-    },
-    {
-      "title": "Bolivia reduce su riesgo país y se sitúa por debajo de Ecuador y Argentina",
-      "source": "La Patria 3.0",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVy1zUGRuaV9USEJzY1kxZmVBNkVLMzZPR0lmaHRiMkFXLUxka3ZQYkVwWWZxUi1Gc3hlUGtKbzRpRTdiQUFJSUo4Z0FjVlhTTlhNVFE5QjNEN2g3QzJ2LXFqU0llR0V6bDY4MDdBbGFESUlPNW9CNk43RU9uQlJENmdSMWxMTFVUMVZmdzhHVUc?oc=5",
-      "ts": 1786754154000,
-      "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "RIESGO PAÍS",
-          "name": "Riesgo país (EMBI)",
-          "pct": null,
-          "dir": -1
         }
       ]
     },
@@ -1683,6 +1600,67 @@
       "ts": 1786467578000,
       "sentiment": 0.0,
       "tags": []
+    },
+    {
+      "title": "Ecuador: Más empresas miran al mercado de valores para financiar su crecimiento",
+      "source": "Vistazo",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNnBtc1g0ZU5oSEtWSkh6eHNIOTNnMHVIZmVVUU9DcGJOemQ3LUtLc2JrT1FvWExTTGlxQ1ZCeE1vaHFhMHZUNGJHUGJUWFE4MzdNcHVVU2dNNzVhamt2MHR0OWV2aDlNU2lSOW9COHQ3UDNrUHJWdjU1a0NCX2s3azR1ZlNuNWU2U3JiRHlOc2wwNXhlUDYzNDBaaUtybmlrTmhCWEFsQi1YTjVSaVdiYUhXOGc4ejVCRE5BSDdQMnNuQdIBxwFBVV95cUxNSFlfclQ5cGFVYTBEX1B5Y1FJelVCaTFselpRNm5KQkM3U3RBa2ZTNVViZ2dheUhQS2hxZy1HOE9PbVJnbkg2UEZWbmJ6UDg2UC1jRjEtWFZtcE9OU2V1TDZGUWYzMzl0Y0VLRVJldndNWi1jaUZkMmZCd1ZKbmkxdERnSUdNbEMzRnlxMzNJSFF1d3R2bXJROWg3b1Q5Y0RyWWZSVkZfNnU4R3djUTR6TXFWcTk5R1F6eUdZaGIxa0JNU0t4VVNV?oc=5",
+      "ts": 1786431600000,
+      "sentiment": 0.0,
+      "tags": []
+    },
+    {
+      "title": "Argentina busca recuperar en Ecuador el mercado de autos que ganó China",
+      "source": "expreso.ec",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSlhDUGFNM1BxamU4ZkJYNXdIdlhPTzB5NWRGQmR3ZzQ1RlVIRXYxZWliQ3RTWnF3a3dJR0lDRUFjdmxKTElnUERmSFBseUdyQzNMZVFLRE4wNWJ1RmlJYUxVejdNdW83U2hfY196Q1VjSFdwMXpsdW1BN2FrM29uYUJJY1VQVVhHRHhJMzBhZHhoT1pCRHprSnZBN1RSRUk?oc=5",
+      "ts": 1786431600000,
+      "sentiment": 0.5,
+      "tags": []
+    },
+    {
+      "title": "Ecuador ha recibido USD 11.353 millones en préstamos hasta julio de 2026; ¿en qué se ha usado el dinero?",
+      "source": "Primicias",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS2hNWFA3cnpRX0pVcDNrb2dDOEZfcV9COExEeHZkbDZvclVUZkxrTnF1b0VxNThpbmY0OVU5ZWM2ek5wcGJwbFFsdDdyaElRVXo3LTlkYmR4Vkw2ZGdnVlBTMVYxcFdZY2ZHNk40OXI4eEQyNUpkLThTTGFaS21YT0g5bVViZ21KYkcxbU5yNDIycHJFM21QTEhYZzNGYzkzTVdTN2VlVmpqMkZKVTBv?oc=5",
+      "ts": 1786431600000,
+      "sentiment": 0.0,
+      "tags": []
+    },
+    {
+      "title": "Envoy Tyres llega a Ecuador: así son los neumáticos europeos que buscan ganar mercado",
+      "source": "expreso.ec",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUmMzZG9DUXpUc1pFdkR0NW9LZGt2NnJ3ZnBNc3RfZFh0aFgyZUpPQ3Nwa0NIWFl3ZDVJNEk2VjNmQ0RLWHM0bEh3REFZeUozYWw2cmhMYTcwaW81SjE3ODdGUjR5WE53QUV2VXRaeXVWSXFzaE1CSXNPTTkxZXFXUWY2cU03RXJwLWV1TVhEOW02OTctUjlsTEtlZFdNUHRtM2psVFhJNnZIbE5ULUtlUHZVVmNSMWw0dlpZeTFvQW4teU1SaXBDc1NQYVpqLW9OOHNrdV9n?oc=5",
+      "ts": 1786086000000,
+      "sentiment": 0.0,
+      "tags": []
+    },
+    {
+      "title": "Camarón, banano y cacao ecuatorianos seducen al mercado japonés: un acuerdo económico está en camino",
+      "source": "Vistazo",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM29MVGNFempSMURlaHFKT05xTVloU0xSWDJReGVPTE1hNDU2aEs2Y01FLXh5Qld5NGVVYnVnU1lWY0p3QXh2SFplMVNidWJOVXRjU3prMndVM1dZcFJGdlY1OTdzM0hnaDZRcS1aTUIwdTk5NTd6eHZoeHkxbVVobWxFOGNRRTVtWmlnNThKUmc4REpiQ2VLT2ctWURkOHZkX1E3SDlONGI4Z2ZBa1lyUzZzRWxwcHRKMXd3ci1wWmxxSldkc3JjbldUY0fSAdIBQVVfeXFMTmd4SW50YmY2UzY2V1F5VkxDN21TZ1dnV2ZvRXZEY05ELWN1WFBuWUMySWhHSVM5SEFVdVpyZF9KTVQxRS0yV2szSnlzNEdIdzJMUkNEa2tIUF9qR3JTRmhqV09Yb0ZvWVY0T3VKc0MxVUEwbzF5THcxVi03VG5VdEp4MkhHVURQVFMyTEJXeEplTW9reUlfSHdPamdZZDdUU1RIdzZ6d3JoM1FTSERBOW1DNm1HQWRvZVpfUlBKdDFwdHJDSVFjUFByUnZNZkxqNlFn?oc=5",
+      "ts": 1785999600000,
+      "sentiment": 0.5,
+      "tags": []
+    },
+    {
+      "title": "Ecuador exportará 10,8 millones de barriles de petróleo y prevé ingresos por 872 millones de dólares",
+      "source": "El Comercio Ecuador",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNXVrWnBuWjBUaUlhb0ktUVlQaWN6U0JvajlJSDRYYmUtd0hsb0hicU9IdVJQSm1zSDNJODlVN21yYkVQZW41NkxzenQ1VEtlLVNCVlRqdE1KdXlWX2FjbGdKZ0dWaGU0a1JHbjh2M0R1NXpvb3JidmlseW5WQXFXR0ZaM1hheEo4LXl4cjdHckYwTFRLZGV3MW91UjBuWW5mSkI1MjRVQ1JhMlhIU0Y0UE9MY0dWcHVhR1ZvQXF4NVZyLUNYemlwYWpxVFNycUZUay1tNA?oc=5",
+      "ts": 1785826800000,
+      "sentiment": 0.0,
+      "tags": [
+        {
+          "sym": "WTI",
+          "name": "Petróleo WTI",
+          "pct": 0.7,
+          "dir": 1
+        },
+        {
+          "sym": "USD/MACRO",
+          "name": "Macro / dólar",
+          "pct": null,
+          "dir": 1
+        }
+      ]
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T11:44:09.613450+00:00",
+  "updated": "2026-08-24T12:02:31.375080+00:00",
   "categories": [
     {
       "key": "tech",
@@ -320,6 +320,22 @@
           "category": "semis"
         },
         {
+          "title": "El IBEX 35 busca los 20.000 puntos en la semana de Nvidia y Jackson Hole",
+          "source": "TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Tc3pRUDg1dzdJVDE5dXpLZ1RMdUFmakV3R1B2dTZadjkyY0dpYmc5Y3Q2cXEyT3JkUzZEUFVzUlBxUDI4QWN0SHpMdF9sWWVQWWpZME5rUWxDQ2dYY05sa2tjLVdwZFR5?oc=5",
+          "ts": 1787555632000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Xiaomi lanza nuevo chip con TSMC para competir con Apple y Samsung",
           "source": "Investing.com México",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUVJneWxDTTBuZ2dQQkdaNTR4WFRkWjd3a3IwRFptLVRzZUQxMFhkaHktUnpTdm9maFRoMzNmMU90WmpJV1NxLVYwUkZUWXRzRU9CQ2lYRTBkVGpnTHhlZEhKVG1RcmxLZE9Ya1NXb19aZ2E4U1R4a1IyWU5CZVFUYnd6MldYMkl4SkpnRXlRdl9ubkV5T3h0ZGhBbFFKa1p5cnZWaWVFSXRsU2cteGRRYk8yN2MyR1Z1MG0tTXlwQQ?oc=5",
@@ -354,22 +370,6 @@
               "pct": 1.8,
               "dir": 1
             },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Uber fue multada con casi mil millones de dólares por usar inteligencia artificial para bloquear las cuentas de los conductores.",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORHFBaTFpR2F0RGxpNDF2QjZQdDFOWDRydk1jSEpLWU1JXzFiMUxKTjh6anRxemcwdF93b0lsQnN1OThyTTBRZlhwVG5rTjBjdi1Lb3E3T1dxZWVfYUpRbmRoeUQwa0h6cmJ3dDJlVGpfS0x2Q1FaRmUzb2d6OEFhd0xkTm8yeWY0QVRYQQ?oc=5",
-          "ts": 1787551656000,
-          "sentiment": 0.0,
-          "tickers": [
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
@@ -1447,7 +1447,7 @@
       "sym": "NVDA",
       "name": "NVIDIA",
       "net": 12.0,
-      "n": 13
+      "n": 14
     },
     {
       "sym": "ITA",
@@ -1462,12 +1462,6 @@
       "n": 25
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 3.6,
-      "n": 4
-    },
-    {
       "sym": "QQQ",
       "name": "Nasdaq 100",
       "net": 3.3,
@@ -1478,6 +1472,12 @@
       "name": "S&P 500",
       "net": 2.7,
       "n": 22
+    },
+    {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 2.6,
+      "n": 3
     },
     {
       "sym": "ASTS",

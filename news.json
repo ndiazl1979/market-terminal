@@ -1,10 +1,26 @@
 {
-  "updated": "2026-08-24T07:37:23.605860+00:00",
+  "updated": "2026-08-24T08:24:02.109663+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Resultados de Nvidia: tres umbrales que pueden mover sus acciones",
+          "source": "Benzinga España",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcTl0c3ZUaU1hY05Dck52VnNRUE5SUU1GWEtaSC1hcmtZeldia0FuR3BoekN2SW1nNkZoemRBaHp5aFlib05UR0FER0Z4cGcxN1JlVzl0SU5fZWM1ZHFZcWdPbWZpQ2NrX3M4Z2pvVTZBM3VWZ2JYLXhsZHdyQ2lFZnZPUF9LV19RWlhQeE5CZEswUQ?oc=5",
+          "ts": 1787556615000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "3 acciones que podrían ganar con la IA, según Jensen Huang",
           "source": "Bitfinanzas",
@@ -166,22 +182,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Tesla: Según los medios, el Cybercab se incorporará a la flota de robotaxis a corto plazo",
-          "source": "Morningstar",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWU9sYnNEXzM2M3prUzFQZmkwQ3ZMa3dmM0FTODBPeWVCSmFyWnNTWDliZWpPUTdaei1vRERqbDV3QS1DR09MUlJwU1BRdU55VEZLUW5fSHV1SmlKZlNVa3FydHZrUUgwUHpoM2FOcFNyY3JENlBUXzhUcjBJTERmaTVCMWEyU3pYV3R0ekV2ZkdSbGVlaHlIdXF2YUVHN1lidXpPVW8ySWlOdGZvbF83aUZyTmtlMHQxUjdLQjJGLWVtUQ?oc=5",
-          "ts": 1787162066000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSLA",
-              "name": "Tesla",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -189,6 +189,22 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Nvidia en conversaciones para invertir en Perplexity: ¿Cómo afectará este acuerdo a las acciones de NVDA?",
+          "source": "TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY2lZN1JSa3BZRUxYYmhhU2JybWVUbEtBQ2ZaTTYwY3ZkdGh3QTZpR2stUldaaWJmbUdwTDRKWGRvNEFJUm1VSElnMHdsbXdIaVRiZGtHSUFVTXV6SmpqS3FVZFBaUENTanNEd2QyalUzcWRBSFRlT2FIckZwMEIyaDN1T1A0MC1nY2hPekpQRXVxSFRqaDNzMnI5VVY2MllIMF81ZUZKUG5ncnhxeDVXYWp3NjI5M2NPdlMyOC16QzlUMVBvUWtGbXNhZTM3MG1M?oc=5",
+          "ts": 1787558615000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 3.6,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Nvidia, la señal de los bonos y Jackson Hole marcan la semana en Bolsa | Resumen diario de mercados",
           "source": "Finect",
@@ -339,22 +355,6 @@
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Libros con IA en Amazon: el 63% de los títulos religiosos serían generados por inteligencia artificial",
-          "source": "Criptotendencias",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeVFNMHBvSzNkaGFDWG1yVTdQU3lFMjJIdDdjZnhaQjBHOHdYM2dhY1BsNmp1YjBWTmxWWkN1ZW9lT1R1SWwzd0RfM3poMklneHZfTi1QcDNPelowZmliYXQtdzdWZkVQUndxZEt1ME5nRF9KeUhzWk5WczQ2SUpneHJ3?oc=5",
-          "ts": 1787504477000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
               "pct": 0.8,
               "dir": 1
             }
@@ -1433,7 +1433,7 @@
       "sym": "NVDA",
       "name": "NVIDIA",
       "net": 12.0,
-      "n": 9
+      "n": 11
     },
     {
       "sym": "ITA",
@@ -1478,10 +1478,16 @@
       "n": 20
     },
     {
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": -1.2,
+      "n": 5
+    },
+    {
       "sym": "AMZN",
       "name": "Amazon",
-      "net": 1.5,
-      "n": 2
+      "net": 0.7,
+      "n": 1
     },
     {
       "sym": "MSFT",
@@ -1494,12 +1500,6 @@
       "name": "Meta",
       "net": -0.3,
       "n": 2
-    },
-    {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": -0.2,
-      "n": 6
     }
   ],
   "ecuador": [

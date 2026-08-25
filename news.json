@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T21:28:34.086698+00:00",
+  "updated": "2026-08-25T21:53:55.517317+00:00",
   "categories": [
     {
       "key": "tech",
@@ -85,7 +85,7 @@
             {
               "sym": "TSLA",
               "name": "Tesla",
-              "pct": 1.9,
+              "pct": 1.6,
               "dir": 1
             }
           ],
@@ -101,7 +101,7 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             }
           ],
@@ -190,6 +190,22 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "Editorial Perfil denuncia al gigante de inteligencia artificial OpenAI y a Microsoft por el uso de contenidos periodísticos",
+          "source": "Clarin.com",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdDJRak9VU0JvSjR4TGduNXVqc280WlRlZEtaVmgwM1N5YWprdUFJSklnVVhJdnBGSHZ2VXZiVzFBcjRqNVFmZk02Umh3UTBjeGxEbDA0OXBUMlpiQzA3NENIY0djU0MtN3BnVDhlY0tfS2M1bGtqVzJHYUV6VS0xcDNvZ0d5YXkxS19RN3FPaEp1akp5eUY0T19wbFpiRnoyVUpwczhaTzIzSlh2OUoxMW1CcjFRSUdlT2RWRTVrbGMxcG9tQ1pXX2dKWGlZWi04U0U4UDVFQlpHc3B3TDVTZjFiUkZDZ1oz?oc=5",
+          "ts": 1787693350000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "MSFT",
+              "name": "Microsoft",
+              "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Nvidia se diversifica y apuesta por una IA propia",
           "source": "Página|12",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV0YtVy05ajJvNVlqQVVweTJOMm0xTFdFSjFwOGVPNWh3WXhMOGZJNVdEVmJwOEx5ZTBNWEJfZ3ctZGVoZHduWHJvLVNuc0xxYUxsRjFmalppX3pZZmxJMTBaUFo1a2NZeUFQREhkV0NaUVAxVjZjMERBMXZNVGY5MkUxUGVkZ2lQbU80SjZqZEt1eWM?oc=5",
@@ -239,7 +255,7 @@
         },
         {
           "title": "Elon Musk dice haber memorizado el diseño de su nuevo chip de IA y promete que superará tres veces el rendimiento de NVIDIA al 10% de su precio",
-          "source": "Tarreo Gamer",
+          "source": "Tarreo",
           "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRDJSQ1NjcUpjTzJJOFpucGZiNllBb3k5cG54QlVGQWpIYnRNMmpiak9kOUF1WHczRzg2SVEwX3pIMEpoX2RFUjRfZEVsajRONXJFV0dSdFpaNDBLSHUwWDhmM1V2TGkxZmc1TjdkLUdJQlA4aGZVR2ZZVGo3M0pxMXVqVllid0J6dnlIUUIwblVXbzJoNHJvdTBpWGxFcndFZGVlOFAzWW5hSGY3T0xrVDRaSXI4MUZEbjkwLWV6SzdDZkpfdnFTc1FnTWdVb0ZNSW0tWHUtSjVxR1l0cThyYzFlLUt5MFRQZmpEV3laQjk1UnZ0cWk0Rnh0SHdHM3gzbnZBRw?oc=5",
           "ts": 1787685314000,
           "sentiment": 0.0,
@@ -334,22 +350,6 @@
               "sym": "AAPL",
               "name": "Apple",
               "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Siete Magníficas vs. semiconductores: ¿los chips son los nuevos líderes del mercado?",
-          "source": "XTB",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWnFxN1RxSk9wN1RPYVVGRHFiWGpZZnFkang2VVdjMlFqQ0ZfRnZ2UlhJNHhJTHc1Wkd6STZoTzRvTndZaWltbmVPd2c5dXc1WlhycTRBTHI2dmhFM2VFLWszUDRFV1o5UUZFOFNGNTBvUENfR0JCckh2QWFVUExaTG1pWl9GMVljMjQxdlhqU19wZ2VSTkl0ZXNBSnFCdWxQLVlLTzdhQXM5Y2J2dnMzMm1UQ0RyWURPTm9PWVBHcGNiN0tIYW53NUpSaDFHcFNKaENNTjN2QkpPc202?oc=5",
-          "ts": 1787680781000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.0,
               "dir": 1
             }
           ],
@@ -726,6 +726,34 @@
           "category": "oil"
         },
         {
+          "title": "Los precios internacionales del petróleo se desploman más de un 3%: Goldman afirma que una caída de $10 en el petróleo respaldará a las acciones, Irán planea un canal marítimo temporal en el estrecho de Ormuz",
+          "source": "TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWjllUWM3WEo4emlWTjdYZkFjaTVXWmlpRTMxSVI2WVFtOUM0dklCMDV4UUdyM3hpVFdXVFg0Y08tVG1IQ0ZWLVp2S2padW5KQ1BwRllpaklsYVNVWTFhc1E5Tk00NWhuRmVwQURwRVpLSWxHcWVJZ0hvVU5rOENaeFNWVVhHSFJ6bjVVN2hmREQ2UHdzUnZlMXRVU1o3Y1dlR2JQejJNZ1ZnU1g5NjcwYTUwbWlhZGtvY0YxV3VsVjkwRWdRUGpKa2dtb0Q1bE1u?oc=5",
+          "ts": 1787674692000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -2.4,
+              "dir": -1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 1.6,
+              "dir": 1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": -1.0,
+              "dir": -1
+            }
+          ],
+          "category": "oil"
+        },
+        {
           "title": "Precios del petróleo hoy (22 de agosto de 2026): WTI por encima de 86 dólares, Brent cerca de 94 dólares.",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcHBNZ0h4THVQLXdQc2F3RmtFWFF6Ty1TeUVpelhtLTJUYXgtdEZKMDdySXNsMEpHaUxYZTRITngyaWZqN2xka2JUUmNVZjNITzh1WU5MbGVWNlN0YnJlN0c5ZVVlS0RyU0loUW9TRXZHM1gzVGozQXZtUm9mOWJNZDh1bWI2WWdBOGF5bl90R2NMeHM?oc=5",
@@ -888,34 +916,6 @@
             }
           ],
           "category": "oil"
-        },
-        {
-          "title": "Pronóstico del precio del petróleo crudo WTI: el petróleo cae por debajo de $80 mientras Trump detiene los ataques contra Irán; subirán los precios?",
-          "source": "TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbVVOZ2tOWWhJZFZJNE90X1hCNjFOX3dndnRTSDQ5MXdkMUh6aGx1WXpuNHZZTUhpZWtCbWVZc1MxWkVGWUwwRHpCcDBwVWJhcXhhaHQxM2g2UmgyclZ6SF9tWmNQbmFNNkRaT29aNUJ5QlZJbU9scDEwajlLdm5TZnNreUJ5ZWZQdnRUR2R6Qjg2QUFmeDdIdmYyNUx6ZUdsMW1TaW5oMlY3T1BhU3NqMHFVU1V3Qm5NMUo4LTc2R3FJd3FpR3ZGTnVUTGp2YkRHdmZIWW0zcF8zcGV5VmJCbHMyc1ZSQndUTmpOREk5bFY?oc=5",
-          "ts": 1785740400000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": -1.3,
-              "dir": -1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.9,
-              "dir": 1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": -0.6,
-              "dir": -1
-            }
-          ],
-          "category": "oil"
         }
       ]
     },
@@ -1004,7 +1004,7 @@
         {
           "title": "La Bolsa cede ante el cóctel de guerra, inflación y ajuste tecnológico",
           "source": "Cinco Días",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFdPMVR0UGdRRVRXTUc2RVMzbm5MZU9yMWpxY2FGVU9ncTluWU9mbDFyYlhGdjFMLXpUX2VIU1lPaTRxMWlVNmt6MWU5Q2JJaDlhVm5LZmpyWTlDWkZZY2RMWDBxeHR1WXlYNUt4SEQ5YXNtM2tUX3JLN0ZnOTRZTlFldHg4Z1VNZ2FMNVBEcjTSAaQBQVVfeXFMT0c1TzRQNEVWYWdWaDJpU0ZFTGJYd2NTdUNubFdqaTlSVVdnU0Z6ZXV6TllsSUhfc1JtUnFycHRKNUNyUXpmY2s5bnlTZHZLcGY0Q2l1R1VuZlVFNXlGQzcycjRDN1ZlTlVRbXVuZ3hnNDMxel84Y0I0dWhkS29kY0RPWWVRcnlXUzY1RWlmcTA3bll6enJfckxoMURnNm9EdHFCNWE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFdPMVR0UGdRRVRXTUc2RVMzbm5MZU9yMWpxY2FGVU9ncTluWU9mbDFyYlhGdjFMLXpUX2VIU1lPaTRxMWlVNmt6MWU5Q2JJaDlhVm5LZmpyWTlDWkZZY2RMWDBxeHR1WXlYNUt4SEQ5YXNtM2tUX3JLN0ZnOTRZTlFldHg4Z1VNZ2FMNVBEcjQ?oc=5",
           "ts": 1781074800000,
           "sentiment": -0.67,
           "tickers": [
@@ -1198,6 +1198,22 @@
       "label": "Macro / Bolsa",
       "items": [
         {
+          "title": "Wall Street cierra en positivo una jornada marcada por las caídas del precio del petróle",
+          "source": "Bolsamania",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVmdiUUw1SmxlQ2dxRmo2Zm1EUjdOQzF0Z3ppQ3IyM0VfaldJbE11aU85ZmFOcFFWMi0tTERfdDR6WTJnRWZnejAyNk1VLVlOaVd4MUVxTjBkdTRLaVhXb3NYOFg2cWRncHhJWjlDYnQtS1dIOGhvRXdnMVNURDYyYkpaLVY3UnB4eXlPSUNmM21ac2tDSDluc0YtRmNRNlcxWkhWWUdNRFhERjU0c2EteWIxNWtXa3hs0gG-AUFVX3lxTFBuWURGTVJmZ1JGNXlXYTg0QWxQNTBqcFBaRUQ0b2JGOVpaeVdkb21wVmptc0VEbms2M09ZUE1waS02eWo5RjBmQTBPWEE1S0xtdzhKekZ5Nms1LXp1d2ZBWVY2OGhXWXdMZFkyZ2VFY3dvclFMY21xNGJNX2RYd2ExVktqXzgzbDdNOEdrSXdwckcwaURRS0ZVclB4U2VXMlRfTENNYVp5bXU1LXRLdEZXMjlxVThobmFSTmM1UXc?oc=5",
+          "ts": 1787665320000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.6,
+              "dir": 1
+            }
+          ],
+          "category": "macro"
+        },
+        {
           "title": "Futuros de Wall Street caen, petróleo baja y tecnológicas arrastran bolsas globales",
           "source": "Rosario Finanzas",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWTIySXdNdGFuMTFoUnNKM2ZiS2pZUEI0b2dfb1V2alpTYUViS1BMQW1kWVQ2eER0Tk5JbGtJdHQ5WEZxZmJqd2xzTGRycHlCdDl3UlBKTGtUdkxPTndjdXUweFlQTVBYMTNGNkd6aTUzbjB2aktnWGlZbFBwZ05KQ3YyMjJJZjdFUmtJNmJBTWNCWUlUaTQ5RkpXXzBaaWVlUmZENFpYMHlfNkxYR1VwTGJISThlLTdJTnc?oc=5",
@@ -1370,22 +1386,6 @@
             }
           ],
           "category": "macro"
-        },
-        {
-          "title": "Wall Street cierra al alza tras datos de desempleo en EEUU",
-          "source": "Diario Las Américas",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUWF1YkNlaHQ1Y1ZPSW5NYjVnanQ1aFlIM0pxcmVvOUhDSXhGRmVTWHYwODFSNHBYazFqWkM2Y25mTE5vOWRfRlYwWWY5Q2k0U0pLM2ZqN3lXR2Z4bWFHTS1VbmFwb0VKQ1NzT2VVUV9za2hVUDBPYm1ZR24xRFViWUlkQ014V1B2QUZ5X0N2RVpaaFJPTFN4RTRURlhCbUt00gGmAUFVX3lxTE5FVFg1N2paUi10MXZBX1BzWXBwVUM4a09WclY5NmJKV0NHMXdNWkRkbnc1RjlWcGZtR2poT2I2U29KZ3pmYlRFU2d3R1EwQXhKUE5ZZmJpYlg5ckY5RlRtbjFqVVZPVVhZNllwY3lVRlVUTExzS0JuREdHNDVyR2J5Sll1SEpDdzJxcmdzcnB0LXJ1NFc3NWtYSy1YZXpsM2g1aGlmdlE?oc=5",
-          "ts": 1786086000000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
         }
       ]
     }
@@ -1400,19 +1400,19 @@
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 7.6,
+      "net": 8.3,
       "n": 22
     },
     {
       "sym": "TSLA",
       "name": "Tesla",
-      "net": 7.5,
+      "net": 7.2,
       "n": 7
     },
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 3.6,
+      "net": 3.5,
       "n": 18
     },
     {
@@ -1428,16 +1428,16 @@
       "n": 1
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 2.0,
-      "n": 2
-    },
-    {
       "sym": "AAPL",
       "name": "Apple",
       "net": 1.5,
       "n": 2
+    },
+    {
+      "sym": "WTI",
+      "name": "Petróleo WTI",
+      "net": -1.1,
+      "n": 25
     },
     {
       "sym": "META",
@@ -1446,16 +1446,22 @@
       "n": 1
     },
     {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": -0.3,
-      "n": 19
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 1.0,
+      "n": 1
     },
     {
-      "sym": "WTI",
-      "name": "Petróleo WTI",
-      "net": 0.0,
-      "n": 25
+      "sym": "MSFT",
+      "name": "Microsoft",
+      "net": 0.8,
+      "n": 1
+    },
+    {
+      "sym": "SPY",
+      "name": "S&P 500",
+      "net": -0.7,
+      "n": 19
     }
   ],
   "ecuador": [

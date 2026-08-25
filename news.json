@@ -1,10 +1,26 @@
 {
-  "updated": "2026-08-25T13:59:21.665351+00:00",
+  "updated": "2026-08-25T14:49:58.163399+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "¿Son las acciones de Nvidia una compra antes de los resultados del segundo trimestre?",
+          "source": "Bitfinanzas",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVzF1bHlFcVpWUDNrbHVfTkZFRHhVVUJMT2JfQjRLcEd2SkhyQmdyUU1mdmw2SklYMUpxQzFGYV96WG5rU2NFZjFTOVdCckYxVk5sSGxjYm5xYl90bGZ6ZUVrdEp6Y1NJdmttWEJFOVFvRjFOdjJHUkJkV2FaV3htcGZ4b0ZNS3ZDZ1E?oc=5",
+          "ts": 1787668383000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Coinbase lleva acciones tokenizadas de Apple y Nvidia a la red Base",
           "source": "Cryptonews.net",
@@ -166,28 +182,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Coinbase (COIN) lanza acciones tokenizadas en Base con Apple, Nvidia entre las primeras participaciones",
-          "source": "CoinDesk",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcjdkakhrYW1DS2tjY3QwbVNkNUFoa1NOczJuckthVmpqSE94ZDVNVlBXWmNBalR2c3dFdV9qb2IzMnkyRUVsVGstaFFmMXY4emhQeEJXdm9RN1VlY0owRGotaHFVY2QzVUZ2M1dublRnVHI4VWFaTWYwSzIyZ3kxeGZHd0NRNzQxV1ZsSjNKNTZJLU5hb3ZkZURPNnB1MzhBem14ZG1udThOamFNY19PaERoWXA4WEhmYzhDcEI1NmxJUmtxeDJ6N0ZQRzJfWlYtS0RzY19VV2U?oc=5",
-          "ts": 1787591555000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
-              "dir": 1
-            },
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -195,6 +189,54 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Apple presenta los nuevos Mac mini y Mac Studio con chips M6 y M5 Ultra centrados en potenciar la IA",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNHFHX3NKNkFHWG1aNHVlY2ZPQkRGOWRfc2Ixa1VfZmNIUWFNU2t3bkFzcTBTZTRHZzBDRDBYSS1LWXYtVTZsc01CZU02dGNGYkFtNndUSkluSUVNdmVoMGo2aWlrVkpXZlNCNFk5RmhpMzRNZ19aLWZVWi1GQnNrTFJpUklFNm1fdkJWTkdzRDlJLVotS3FSWnNlWlRUaXYzVXNHOE9xem9GLXAxRjBUeW05QzQ2SHpjbmpMZ2ZNUkpYZE1mNml1Yk9iOTFuSjBSN2RwZ0c3X05DQQ?oc=5",
+          "ts": 1787668062000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Jalapeño de OpenAI rinde 1.9x más que Nvidia GB300",
+          "source": "El Ecosistema Startup",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRWpheFRrZmR3SjBENUtXWnJtOXNSSmpPcEszX3pJXzFoTU9VWjl3YTJ1dHQwUnY4cUhDclcyNzFYZlNCeFdTSFJzaG8tb2J4RFl3VnIwWmxXdmxIOUtPb2ttaUJ2ZGRxNnNHVE1QdzBQQzc4OTZOZkkzMVBQM05hS1hORzNZLW1y?oc=5",
+          "ts": 1787667704000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Primero AI recauda 12 millones de dólares para llevar la inteligencia artificial a las empresas de AL",
+          "source": "El Economista",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWUJQRkZxUVEyVWc3Rk5tTzNJRWxvSkt1TnhSTXNGSnEwR3hLVUh5aEpkRjdkdl9McVUzVTNxaUJ5cTY1SzBzZ0lhU2J6WEZiZ2otMExWTjNLQVZ1aGhBZXVsN0paR2Z6TGhRekd4cUNRVjA3WXJ0SVdfYUo3WHVqTW5McnFpd2ZGTnhRYjJtdmZ5dlZINjQySnlZTi1LNHQ0QjdHaVBVOS1wSGJhMXgwUzBlWXJ1SnQ0cWxsWVhuc2RWTThnUFZCcTR5amtrSFU4V0Y5MzY1VmVKQdIB3wFBVV95cUxNdF9ZNzc2WGdaYnRGZVRBU05tTjV3cXZHd0ZUa1hJNmJJOGY0eTlJNzVPcFFQYnc1OENGWjBOalRnN0p3UHNfNWNTdy1tbUk1cElQRERyY0YzNFVyT05HZGVxdV8yOTZNeE9OcW0wcDBTdDhoa05IdlR2bWV1VHozN0JUSVJveERiUUFaNkFZc3hid0JZSlNXeDczUENpTVE0R1N6N2JneXFkOC1oMzdOZ1ZlaWFnemlvSUVBVWlDVnFrTkxpS04yRDJzWHJaQTRRd1lTbzdZSE9DSXo2YkZV?oc=5",
+          "ts": 1787667650000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Apple anuncia nuevos Mac mini con chip M6 y Mac Studio M5 Ultra enfocados en inteligencia artificial",
           "source": "La Tercera",
@@ -244,6 +286,22 @@
           "category": "semis"
         },
         {
+          "title": "Bill Gates, cofundador de Microsoft: \"Dentro de diez años, la mayoría de las tareas humanas podrán ser realizadas por inteligencia artificial\"",
+          "source": "Clarin.com",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZmdjcnB2X1UxVVhfa09HOFhzdDl1azQ3dHhiOVg4ekpzdUU1bGstS3JscG4ycG9ISGxuemxhcjZhSHZXaGZ6NVMtaGxBUE1CTjRyakh6MkZWNFFoN3U5elBnSFlEeEhYWnNUbEUzOHpGYjNxRGRYV2dNY3Y5Q0NMdjJDYlhOVlVYRzJVaEU0QkpBM1VwQmYyM05VRkktTmdkTkFlVEhLdWhLVjJuaHNubklHMEFnUHlfbXRnNWU4aGE0eG1oVDFNUHZGYUEzNU0yQWFJang1UDlBczR5S01ZenFSWng2Q3ZHWEhzSEVZSXJ3YUNQNUE?oc=5",
+          "ts": 1787664054000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "MSFT",
+              "name": "Microsoft",
+              "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Deutsche Bank adopta el nuevo servicio de inteligencia artificial de Google para el sector financiero",
           "source": "MarketScreener España",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaWhSS1RwNTZVbmd3cTJ4VmJrRmZ5VW9Qa3VtRDNhU1F3UVFrNi0yaUZuUm1qMWFzX0lhMWlEU0l5RjNlY2RGd0o1d3R0Q3RDNl9xOUI1NDd2N0d2ZThWX3ZTTWszbDNlUHZNa3NTTXNZcFdzYzI0MWZmdXVva3ZFTG1hRXFPNEI5dlZjWHViSWlPYkNsRkZpSTFyZU9HS2k4dVMwV194VDBtRXVLdFVyZ3FDeloxWmE5bDdFdXprS0lxUEhYaHh4b1RKTnV4RE1PQ1pRVHN4QWk3QXRrbXFvOFpRR2pDbFZKVnVLaA?oc=5",
@@ -286,70 +344,6 @@
               "sym": "GOOGL",
               "name": "Alphabet",
               "pct": 0.9,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "SpaceX planea lanzar satélites de inteligencia artificial impulsados por Nvidia para finales de 2027.",
-          "source": "es.qz.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRZklIT20tOGtOYjl6cHBITGVGdjQ5WnJCd0dtSWZmTHBQU29zYXJMWDNCcVRMSXBMVlhBTTFWYlFNRGFSVnh6MG5Zd2FWckNwWTlqa1NNTUR5NHdSaVBDSXNNWHRSUklicWNGVi1R?oc=5",
-          "ts": 1787659884000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Nvidia Q2: superar estimaciones no es suficiente, arrasar es lo mínimo esperado",
-          "source": "Investing.com España",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSEl2cHp1MGp6dWM4d2ZFRHlHSUVEdUNPcjVEOHhLaGdJblFBT0dRaGRBRnltc2t0ZWxWMmRSSGRvWVJvLUd1WlNCNDJuTW0xajRFNEluM0VoM2dSUTRnTWdiYjFiMmxZNnhrQTlXOWlMRkJ4ZlFIVEctczJ2eS1yWFQtSFhkZmlqaXdCalZkU3pNQTRhLUc5cDRyQl9Bc2NRN0F5X2tjQUN1Ynhxd010V2ZkNkNBZFdlVDlHQ0NVdnNxeXhCOGdMVWF3eWx0Zw?oc=5",
-          "ts": 1787658240000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Resultados de Nvidia ponen a prueba el crecimiento de Rubin y su estrategia de financiamiento de IA",
-          "source": "mx.advfn.com",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWllIZ1ZsRTRYSjBWV3ZPUjZBNFBueDNLc2tuTEhEQVFab3lpcnpxQVEyc0xhMzZ2empwTXFYQ05ENFVGSEtWRjdxT0piTUxzOVRMR3BPeGVFclN5NVctNHZwYlZweEEwMUV1UHZpS042Ti1Sd2JrN3ZNdVpoYUxYejNOVllaQkY4RzNpYmR5ckJLelQ0OWNSR0xudkdhUHlkMklGMUZOLXVFaXBjN25Xck9DYm1EWVpUOUhpbTBfTGwzaE8zZndYQjRLZ1phRnh6OHNxVlpqMExIM09Kd2Vvaml4VzNhVjY2?oc=5",
-          "ts": 1787656204000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Nvidia se juega mucho más que unos resultados",
-          "source": "MUNDIARIO",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVmxzWlBEWWpsV05HSDhXRHRERG1RbUFkTXBBV2M1d2U0eFVTRFpIZ1pzQ1h5b1lQYVFxX2diWmJ0bWVmOVhkdlhWYUJOQzJQd0lUWllHY2tNaGkxa2dxZERXN0UyOVRYV3JZdjZHbHdST2ZNLUdsV1E3Z1FDWGwxanE1d1JIMjRvMmVRdFl0M2MyU3lKTTFrbXZ5ck1NN2ZqTlZvcmh6bFZ1c1c3c1J4V3JpeHJibWloMkJINlhPbHNnRW10ZzFUTExGTXM5clEzTHJpOHFQZDBPUdIB3wFBVV95cUxNSzctb2F2U2RzLUxIajdrTkVMQ1dISURteHNzWm5tZkhsczE3TExaZFVwUTgtQk5HRWp5aHpJTVhSOWJ1UjRraEYtMGxjMERIS1psQTZINXpHQ0VkRkRHVFhTQlp5QWt6WkpQZEtfSVJNZ3FLRUU4aHpFai1YeVdNaWxIOVRsLXdhYlV1TjBKY0ttOXlYSG5OOVIyWll6VXhsMkVTSGRDZ2o2VEpsejF6NzBFUFozLWN2N1dOa2NIZUxuaTVaMUlUUy0tWlF6aUh5WkhWa2hPdW5QS01HTm9N?oc=5",
-          "ts": 1787651724000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
               "dir": 1
             }
           ],
@@ -630,6 +624,34 @@
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
               "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "defense"
+        },
+        {
+          "title": "Líderes de OTAN impulsarán millones para industria militar y Ucrania con presión de Trump",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTVUzNFFwN3Y5c3lHU0IxbDRyYUpuSHF5ZHZwZmZjWDJmeFktWll1SWtvMVZVSm51RFdWWFFYa1htQi1YSXhycURNZWNjemo3X1lZc1NSLWZBOXRPa1lGNkVVemFYOGxOV1NVSkNTUm5vdTljcWNodjkzLUJOeUlkZWl4WGFxcjNra0FZS2dUa2FOelN2MUhwbm84dHB2RXE4SXNyeUlMR19veWgzOXN1RkhRNDNLV1ZVbktPN1Bkc2NIT2RycktIdENXMGJSemNZSGpaWlRHWmJ4d9IB9AFBVV95cUxQWm53cFNsTndmbjMyOHI4ejFmOF9kQ1VZbV9rRzhpWHM3VW9SR2h2SmNZekJqb0xpMC1iTUJtWF93X0hSSW1sQ1M5NGZPQlJlTnloSjlEd0JkNGNDRUxsQzNrczAzU3NuWDhvZF9rVUNhN3lUNmNLcWR3V3ZTQl9BQXRHLUhkYTVrUGZtVVpXdThtUFg3aks0a1ZEbVpjSDVuNlRSS2sxUURRVFJmaEtPdnk5Q2loS0FnejFMTXZOeTdsQ1hleWlIS3pqRGhJQmVrLUtUWHQzOHQ3T3d6amxSZXZLVG56bmdxekNhX0hJVlFqZGZT?oc=5",
+          "ts": 1783234800000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -0.7,
+              "dir": -1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": -0.4,
+              "dir": -1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 0.3,
               "dir": 1
             }
           ],
@@ -992,7 +1014,7 @@
         {
           "title": "La Bolsa cede ante el cóctel de guerra, inflación y ajuste tecnológico",
           "source": "Cinco Días",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFdPMVR0UGdRRVRXTUc2RVMzbm5MZU9yMWpxY2FGVU9ncTluWU9mbDFyYlhGdjFMLXpUX2VIU1lPaTRxMWlVNmt6MWU5Q2JJaDlhVm5LZmpyWTlDWkZZY2RMWDBxeHR1WXlYNUt4SEQ5YXNtM2tUX3JLN0ZnOTRZTlFldHg4Z1VNZ2FMNVBEcjTSAaQBQVVfeXFMT0c1TzRQNEVWYWdWaDJpU0ZFTGJYd2NTdUNubFdqaTlSVVdnU0Z6ZXV6TllsSUhfc1JtUnFycHRKNUNyUXpmY2s5bnlTZHZLcGY0Q2l1R1VuZlVFNXlGQzcycjRDN1ZlTlVRbXVuZ3hnNDMxel84Y0I0dWhkS29kY0RPWWVRcnlXUzY1RWlmcTA3bll6enJfckxoMURnNm9EdHFCNWE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFdPMVR0UGdRRVRXTUc2RVMzbm5MZU9yMWpxY2FGVU9ncTluWU9mbDFyYlhGdjFMLXpUX2VIU1lPaTRxMWlVNmt6MWU5Q2JJaDlhVm5LZmpyWTlDWkZZY2RMWDBxeHR1WXlYNUt4SEQ5YXNtM2tUX3JLN0ZnOTRZTlFldHg4Z1VNZ2FMNVBEcjQ?oc=5",
           "ts": 1781074800000,
           "sentiment": -0.67,
           "tickers": [
@@ -1380,16 +1402,16 @@
   ],
   "tickerBoard": [
     {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": 10.5,
-      "n": 15
-    },
-    {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 8.4,
-      "n": 22
+      "net": 8.0,
+      "n": 23
+    },
+    {
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 5.4,
+      "n": 12
     },
     {
       "sym": "TSLA",
@@ -1406,7 +1428,7 @@
     {
       "sym": "AAPL",
       "name": "Apple",
-      "net": 3.1,
+      "net": 3.2,
       "n": 4
     },
     {
@@ -1416,16 +1438,28 @@
       "n": 3
     },
     {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": -0.6,
-      "n": 18
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 1.0,
+      "n": 1
     },
     {
       "sym": "WTI",
       "name": "Petróleo WTI",
+      "net": -1.0,
+      "n": 24
+    },
+    {
+      "sym": "MSFT",
+      "name": "Microsoft",
+      "net": 0.8,
+      "n": 1
+    },
+    {
+      "sym": "SPY",
+      "name": "S&P 500",
       "net": -0.3,
-      "n": 23
+      "n": 19
     }
   ],
   "ecuador": [

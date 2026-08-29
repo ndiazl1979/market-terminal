@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Condominio ANPR</title>
+<style>
+  :root{
+    --bg:#0a0e14; --panel:#0f1621; --panel2:#131c29; --line:#1f2c3d;
+    --fg:#c9d6e5; --dim:#6b7f96; --accent:#ff9f1c; --ok:#2ecc71; --bad:#e74c3c;
+    --blue:#3fa7ff;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--fg);
+    font-family:"SF Mono",Menlo,Consolas,monospace;font-size:13px}
+  header{display:flex;align-items:center;gap:14px;padding:10px 16px;
+    background:var(--panel);border-bottom:1px solid var(--line)}
+  header h1{font-size:15px;margin:0;letter-spacing:.5px;color:var(--accent)}
+  header .who{margin-left:auto;color:var(--dim)}
+  button{background:var(--panel2);color:var(--fg);border:1px solid var(--line);
+    padding:6px 12px;border-radius:4px;cursor:pointer;font-family:inherit;font-size:12px}
+  button:hover{border-color:var(--accent)}
+  button.primary{background:var(--accent);color:#0a0e14;border-color:var(--accent);font-weight:700}
+  button.danger{color:var(--bad);border-color:#3a1f22}
+  input,select{background:var(--bg);color:var(--fg);border:1px solid var(--line);
+    padding:6px 8px;border-radius:4px;font-family:inherit;font-size:12px}
+  nav{display:flex;gap:4px;padding:8px 16px;background:var(--panel);border-bottom:1px solid var(--line);flex-wrap:wrap}
+  nav button.active{background:var(--panel2);border-color:var(--accent);color:var(--accent)}
+  main{padding:16px;max-width:1100px;margin:0 auto}
+  .grid{display:grid;gap:12px}
+  .cards{grid-template-columns:repeat(auto-fit,minmax(140px,1fr))}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:14px}
+  .card .n{font-size:26px;color:var(--accent);font-weight:700}
+  .card .l{color:var(--dim);font-size:11px;text-transform:uppercase;letter-spacing:.5px}
+  table{width:100%;border-collapse:collapse;background:var(--panel);border:1px solid var(--line);border-radius:6px;overflow:hidden}
+  th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);font-size:12px}
+  th{color:var(--dim);text-transform:uppercase;font-size:10px;letter-spacing:.5px}
+  tr:last-child td{border-bottom:none}
+  .tag{padding:2px 7px;border-radius:10px;font-size:10px;font-weight:700}
+  .tag.ok{background:#123522;color:var(--ok)} .tag.bad{background:#3a1518;color:var(--bad)}
+  .tag.qr{background:#132a3a;color:var(--blue)} .tag.manual{background:#2a2434;color:#b58cff}
+  .row{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-bottom:12px}
+  .panel{background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:16px;margin-bottom:16px}
+  .panel h3{margin:0 0 12px;font-size:13px;color:var(--accent)}
+  .muted{color:var(--dim)}
+  #login{max-width:340px;margin:12vh auto;text-align:center}
+  #login .panel{padding:28px}
+  #login input{width:100%;margin-bottom:10px}
+  .hidden{display:none}
+  .qrbox{display:flex;gap:16px;align-items:center;background:var(--panel2);padding:12px;border-radius:6px;margin-top:10px}
+  .qrbox img{background:#fff;padding:6px;border-radius:6px;width:140px;height:140px}
+  code{background:var(--bg);padding:2px 5px;border-radius:3px;color:var(--blue);word-break:break-all}
+</style>
+</head>
+<body>
+
+<div id="login">
+  <div class="panel">
+    <h1 style="color:var(--accent);margin-top:0">◧ Condominio ANPR</h1>
+    <p class="muted">Control de acceso vehicular</p>
+    <input id="lu" placeholder="usuario" autocomplete="username">
+    <input id="lp" type="password" placeholder="contraseña" autocomplete="current-password">
+    <button class="primary" style="width:100%" onclick="login()">Ingresar</button>
+    <p id="lerr" class="muted" style="color:var(--bad)"></p>
+  </div>
+</div>
+
+<div id="appwrap" class="hidden">
+  <header>
+    <h1>◧ Condominio ANPR</h1>
+    <button class="primary" onclick="openGate()">⛒ Abrir barrera</button>
+    <span class="who"><span id="whoami"></span> · <a href="#" onclick="logout()" style="color:var(--dim)">salir</a></span>
+  </header>
+  <nav id="nav"></nav>
+  <main id="view"></main>
+</div>
+
+<script>
+const API = "";
+let me = null;
+const tabs = ["Panel","Unidades","Residentes","Vehículos","Visitas QR","Bitácora"];
+let current = "Panel";
+
+async function api(path, opts={}){
+  const r = await fetch(API+path, {credentials:"include",
+    headers:{"Content-Type":"application/json"}, ...opts});
+  if(r.status===401){ show("login"); throw new Error("401"); }
+  return r.headers.get("content-type")?.includes("json") ? r.json() : r;
+}
+function show(what){
+  document.getElementById("login").classList.toggle("hidden", what!=="login");
+  document.getElementById("appwrap").classList.toggle("hidden", what==="login");
+}
+async function login(){
+  const username=lu.value, password=lp.value;
+  const r=await fetch(API+"/api/auth/login",{method:"POST",credentials:"include",
+    headers:{"Content-Type":"application/json"},body:JSON.stringify({username,password})});
+  if(!r.ok){ lerr.textContent="Credenciales inválidas"; return; }
+  await boot();
+}
+async function logout(){ await fetch(API+"/api/auth/logout",{method:"POST",credentials:"include"}); show("login"); }
+async function openGate(){
+  const r=await api("/api/gate/open",{method:"POST"});
+  alert(r.ok?"Barrera abierta":"No se pudo abrir: "+r.detail);
+  if(current==="Bitácora"||current==="Panel") render();
+}
+
+function buildNav(){
+  const n=document.getElementById("nav"); n.innerHTML="";
+  tabs.forEach(t=>{ const b=document.createElement("button");
+    b.textContent=t; b.className=t===current?"active":"";
+    b.onclick=()=>{current=t;buildNav();render();}; n.appendChild(b); });
+}
+function el(html){ const d=document.createElement("div"); d.innerHTML=html.trim(); return d.firstChild; }
+function esc(s){ return (s??"").toString().replace(/[<>&]/g,c=>({"<":"&lt;",">":"&gt;","&":"&amp;"}[c])); }
+
+async function render(){
+  const v=document.getElementById("view"); v.innerHTML="<p class='muted'>cargando…</p>";
+  try{ await ({Panel:vPanel,Unidades:vUnidades,Residentes:vResidentes,
+    "Vehículos":vVehiculos,"Visitas QR":vVisitas,Bitácora:vBitacora}[current])(v); }
+  catch(e){ if(e.message!=="401") v.innerHTML="<p class='muted'>error: "+esc(e.message)+"</p>"; }
+}
+
+// ── Panel ──
+async function vPanel(v){
+  const s=await api("/api/stats"); const logs=await api("/api/logs?limit=15");
+  v.innerHTML="";
+  const cards=[["Accesos hoy",s.total],["Autorizados",s.authorized],["Denegados",s.denied],
+    ["Unidades",s.units],["Residentes",s.residents],["Vehículos",s.vehicles]];
+  const g=el("<div class='grid cards'></div>");
+  cards.forEach(([l,n])=>g.appendChild(el(`<div class='card'><div class='n'>${n}</div><div class='l'>${l}</div></div>`)));
+  v.appendChild(g);
+  v.appendChild(el("<h3 style='color:var(--accent);margin:18px 0 8px'>Últimos accesos</h3>"));
+  v.appendChild(logTable(logs));
+}
+function logTable(logs){
+  const t=el(`<table><thead><tr><th>Hora</th><th>Tipo</th><th>Placa</th><th>Decisión</th><th>Motivo</th><th>Foto</th></tr></thead><tbody></tbody></table>`);
+  const tb=t.querySelector("tbody");
+  logs.forEach(l=>{
+    const dec=l.decision==="authorized"?"<span class='tag ok'>AUTORIZADO</span>":"<span class='tag bad'>DENEGADO</span>";
+    const kind={anpr:"tag ok",qr:"tag qr",manual:"tag manual"}[l.kind]||"tag";
+    const foto=l.snapshot?`<a href='/snapshots/${l.snapshot}' target='_blank' style='color:var(--blue)'>ver</a>`:"";
+    tb.appendChild(el(`<tr><td>${new Date(l.ts+"Z").toLocaleString()}</td>
+      <td><span class='${kind}'>${l.kind.toUpperCase()}</span></td>
+      <td>${esc(l.plate)||"—"}</td><td>${dec}</td><td class='muted'>${esc(l.reason)}</td><td>${foto}</td></tr>`));
+  });
+  if(!logs.length) tb.appendChild(el("<tr><td colspan=6 class='muted'>sin registros</td></tr>"));
+  return t;
+}
+
+// ── Unidades ──
+async function vUnidades(v){
+  const rows=await api("/api/units"); v.innerHTML="";
+  v.appendChild(el(`<div class='panel'><h3>Nueva unidad</h3><div class='row'>
+    <input id='uc' placeholder='Ej. Torre A - 302'><input id='un' placeholder='notas' style='flex:1'>
+    <button class='primary' id='ub'>Agregar</button></div></div>`));
+  document.getElementById("ub").onclick=async()=>{
+    await api("/api/units",{method:"POST",body:JSON.stringify({code:uc.value,notes:un.value})}); render();};
+  const t=el(`<table><thead><tr><th>Código</th><th>Residentes</th><th>Notas</th><th></th></tr></thead><tbody></tbody></table>`);
+  rows.forEach(u=>{ const tr=el(`<tr><td>${esc(u.code)}</td><td>${u.residents}</td><td class='muted'>${esc(u.notes)}</td>
+    <td><button class='danger'>eliminar</button></td></tr>`);
+    tr.querySelector("button").onclick=async()=>{await api("/api/units/"+u.id,{method:"DELETE"});render();};
+    t.querySelector("tbody").appendChild(tr);});
+  v.appendChild(t);
+}
+
+// ── Residentes ──
+async function vResidentes(v){
+  const [rows,units]=await Promise.all([api("/api/residents"),api("/api/units")]); v.innerHTML="";
+  const opts=units.map(u=>`<option value='${u.id}'>${esc(u.code)}</option>`).join("");
+  v.appendChild(el(`<div class='panel'><h3>Nuevo residente</h3><div class='row'>
+    <input id='rn' placeholder='nombre'><select id='ru'>${opts}</select>
+    <input id='rp' placeholder='teléfono'><input id='re' placeholder='email'>
+    <button class='primary' id='rb'>Agregar</button></div></div>`));
+  document.getElementById("rb").onclick=async()=>{
+    await api("/api/residents",{method:"POST",body:JSON.stringify(
+      {name:rn.value,unit_id:+ru.value,phone:rp.value,email:re.value})}); render();};
+  const t=el(`<table><thead><tr><th>Nombre</th><th>Unidad</th><th>Contacto</th><th>Vehículos</th><th></th></tr></thead><tbody></tbody></table>`);
+  rows.forEach(r=>{ const tr=el(`<tr><td>${esc(r.name)}</td><td>${esc(r.unit)||"—"}</td>
+    <td class='muted'>${esc(r.phone)} ${esc(r.email)}</td><td>${r.vehicles.map(esc).join(", ")||"—"}</td>
+    <td><button class='danger'>eliminar</button></td></tr>`);
+    tr.querySelector("button").onclick=async()=>{await api("/api/residents/"+r.id,{method:"DELETE"});render();};
+    t.querySelector("tbody").appendChild(tr);});
+  v.appendChild(t);
+}
+
+// ── Vehículos ──
+async function vVehiculos(v){
+  const [rows,res]=await Promise.all([api("/api/vehicles"),api("/api/residents")]); v.innerHTML="";
+  const opts=res.map(r=>`<option value='${r.id}'>${esc(r.name)} (${esc(r.unit)||"—"})</option>`).join("");
+  v.appendChild(el(`<div class='panel'><h3>Nueva placa en lista blanca</h3><div class='row'>
+    <input id='vp' placeholder='placa Ej. ABC123'><select id='vr'>${opts}</select>
+    <input id='vd' placeholder='descripción (auto)' style='flex:1'>
+    <button class='primary' id='vb'>Autorizar</button></div></div>`));
+  document.getElementById("vb").onclick=async()=>{
+    await api("/api/vehicles",{method:"POST",body:JSON.stringify(
+      {plate:vp.value,resident_id:+vr.value,description:vd.value})}); render();};
+  const t=el(`<table><thead><tr><th>Placa</th><th>Residente</th><th>Descripción</th><th>Estado</th><th></th></tr></thead><tbody></tbody></table>`);
+  rows.forEach(x=>{ const st=x.active?"<span class='tag ok'>ACTIVA</span>":"<span class='tag bad'>INACTIVA</span>";
+    const tr=el(`<tr><td><b>${esc(x.plate_display||x.plate)}</b></td><td>${esc(x.resident)||"—"}</td>
+      <td class='muted'>${esc(x.description)}</td><td>${st}</td>
+      <td><button>${x.active?"desactivar":"activar"}</button> <button class='danger'>eliminar</button></td></tr>`);
+    const[tg,dl]=tr.querySelectorAll("button");
+    tg.onclick=async()=>{await api("/api/vehicles/"+x.id+"/toggle",{method:"POST"});render();};
+    dl.onclick=async()=>{await api("/api/vehicles/"+x.id,{method:"DELETE"});render();};
+    t.querySelector("tbody").appendChild(tr);});
+  v.appendChild(t);
+}
+
+// ── Visitas QR ──
+async function vVisitas(v){
+  const [rows,units]=await Promise.all([api("/api/qr/visitors"),api("/api/units")]); v.innerHTML="";
+  const opts="<option value=''>—</option>"+units.map(u=>`<option value='${u.id}'>${esc(u.code)}</option>`).join("");
+  v.appendChild(el(`<div class='panel'><h3>Generar pase de visita</h3><div class='row'>
+    <input id='qn' placeholder='nombre visitante'><input id='qp' placeholder='placa (opcional)'>
+    <select id='qu'>${opts}</select>
+    <input id='qh' type='number' value='24' style='width:70px'> <span class='muted'>horas</span>
+    <input id='qm' type='number' value='1' style='width:60px'> <span class='muted'>usos</span>
+    <button class='primary' id='qb'>Crear QR</button></div><div id='qout'></div></div>`));
+  document.getElementById("qb").onclick=async()=>{
+    const r=await api("/api/qr/visitors",{method:"POST",body:JSON.stringify(
+      {name:qn.value,plate:qp.value,unit_id:qu.value?+qu.value:null,hours_valid:+qh.value,max_uses:+qm.value})});
+    document.getElementById("qout").innerHTML=
+      `<div class='qrbox'><img src='/api/qr/visitors/${r.id}/image'>
+       <div><b>${esc(r.name)}</b><br><span class='muted'>vence ${new Date(r.valid_until+"Z").toLocaleString()} · ${r.max_uses} uso(s)</span><br>
+       <code>${r.token}</code><br><span class='muted'>Comparte el QR o el enlace de validación con el visitante.</span></div></div>`;
+    setTimeout(render,50);};
+  const t=el(`<table><thead><tr><th>Visitante</th><th>Placa</th><th>Vigencia</th><th>Usos</th><th>Estado</th><th>QR</th><th></th></tr></thead><tbody></tbody></table>`);
+  rows.forEach(x=>{ const activo=!x.revoked && x.uses<x.max_uses && new Date(x.valid_until+"Z")>new Date();
+    const st=x.revoked?"<span class='tag bad'>REVOCADO</span>":activo?"<span class='tag ok'>VIGENTE</span>":"<span class='tag bad'>EXPIRADO</span>";
+    const tr=el(`<tr><td>${esc(x.name)}</td><td>${esc(x.plate)||"—"}</td>
+      <td class='muted'>${new Date(x.valid_until+"Z").toLocaleString()}</td><td>${x.uses}/${x.max_uses}</td>
+      <td>${st}</td><td><a href='/api/qr/visitors/${x.id}/image' target='_blank' style='color:var(--blue)'>ver</a></td>
+      <td>${x.revoked?"":"<button class='danger'>revocar</button>"}</td></tr>`);
+    const b=tr.querySelector("button"); if(b) b.onclick=async()=>{await api("/api/qr/visitors/"+x.id+"/revoke",{method:"POST"});render();};
+    t.querySelector("tbody").appendChild(tr);});
+  v.appendChild(t);
+}
+
+// ── Bitácora ──
+async function vBitacora(v){
+  const logs=await api("/api/logs?limit=200"); v.innerHTML="";
+  v.appendChild(el("<div class='row'><button class='primary' onclick='render()'>↻ Refrescar</button></div>"));
+  v.appendChild(logTable(logs));
+}
+
+async function boot(){
+  try{ me=await api("/api/auth/me"); }catch{ show("login"); return; }
+  document.getElementById("whoami").textContent=me.username+" ("+me.role+")";
+  show("app"); buildNav(); render();
+}
+boot();
+</script>
+</body>
+</html>

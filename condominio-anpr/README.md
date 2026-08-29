@@ -60,11 +60,19 @@ PORT=9000 ./run_local.sh                     # otro puerto
 # contraseña de admin (de ADMIN_PASSWORD, o preguntándola). .env NO se sube
 # al repo: la clave queda solo en esta máquina.
 
+# opción B — Windows (PowerShell)
+$env:ADMIN_PASSWORD='TuClave!!!'; .\run_local.ps1   # 1ª vez
+.\run_local.ps1                                     # siguientes veces
+
 # opción B — local, manual
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 uvicorn app.main:app --host 0.0.0.0 --port 8000
 ```
+
+En Windows necesitas **Python 3** (python.org, marca *Add to PATH*) y **Git**.
+Si PowerShell bloquea el script, ejecútalo así una vez:
+`powershell -ExecutionPolicy Bypass -File .\run_local.ps1`
 
 Abre **http://localhost:8000** e ingresa con el usuario/clave de `.env`.
 

@@ -51,7 +51,11 @@ cp .env.example .env          # edita SECRET_KEY, ADMIN_PASSWORD, cámara…
 # opción A — Docker (recomendado)
 docker compose up --build
 
-# opción B — local
+# opción B — local, automatizado (crea venv, instala deps, arranca)
+./run_local.sh                 # http://localhost:8000
+PORT=9000 ./run_local.sh       # otro puerto
+
+# opción B — local, manual
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 uvicorn app.main:app --host 0.0.0.0 --port 8000

@@ -52,8 +52,13 @@ cp .env.example .env          # edita SECRET_KEY, ADMIN_PASSWORD, cámara…
 docker compose up --build
 
 # opción B — local, automatizado (crea venv, instala deps, arranca)
-./run_local.sh                 # http://localhost:8000
-PORT=9000 ./run_local.sh       # otro puerto
+ADMIN_PASSWORD='TuClave!!!' ./run_local.sh   # 1ª vez: fija la clave de admin
+./run_local.sh                               # siguientes veces
+PORT=9000 ./run_local.sh                     # otro puerto
+
+# La 1ª vez, run_local.sh crea .env con una SECRET_KEY aleatoria y la
+# contraseña de admin (de ADMIN_PASSWORD, o preguntándola). .env NO se sube
+# al repo: la clave queda solo en esta máquina.
 
 # opción B — local, manual
 python -m venv .venv && source .venv/bin/activate

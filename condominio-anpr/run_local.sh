@@ -9,8 +9,13 @@
 #    4. Levanta el servidor en http://localhost:8000
 #
 #  Uso:
-#    ./run_local.sh              # puerto 8000
-#    PORT=9000 ./run_local.sh    # otro puerto
+#    ./run_local.sh                              # puerto 8000
+#    PORT=9000 ./run_local.sh                    # otro puerto
+#    ADMIN_PASSWORD='TuClave!!!' ./run_local.sh  # fija la clave de admin
+#
+#  La primera vez crea .env con una SECRET_KEY aleatoria y la contraseña de
+#  admin (de la variable ADMIN_PASSWORD, o preguntándola). El .env NUNCA se
+#  sube al repo: la clave queda solo en esta máquina.
 # ─────────────────────────────────────────────────────────────
 set -euo pipefail
 
@@ -40,10 +45,30 @@ echo "▸ Instalando dependencias…"
 pip install --quiet --upgrade pip
 pip install --quiet -r requirements.txt
 
-# 3) Configuración inicial.
+# 3) Configuración inicial (.env solo local; nunca se sube al repo).
 if [ ! -f .env ]; then
   cp .env.example .env
-  echo "▸ Se creó .env desde el ejemplo. EDÍTALO para cambiar la contraseña admin."
+
+  # SECRET_KEY aleatoria y única para esta instalación.
+  NEW_SECRET="$("$PY" -c 'import secrets; print(secrets.token_urlsafe(48))')"
+
+  # Contraseña de admin: variable de entorno, o preguntar si es interactivo.
+  NEW_PASS="${ADMIN_PASSWORD:-}"
+  if [ -z "$NEW_PASS" ] && [ -t 0 ]; then
+    printf "▸ Define la contraseña del usuario admin: " >&2
+    read -rs NEW_PASS; echo >&2
+  fi
+
+  # Escribir valores en .env con Python (evita problemas de escape con !, $, etc.).
+  NEW_SECRET="$NEW_SECRET" NEW_PASS="$NEW_PASS" "$PY" - <<'PYEOF'
+import os, re, pathlib
+p = pathlib.Path(".env"); t = p.read_text()
+t = re.sub(r"^SECRET_KEY=.*$", "SECRET_KEY=" + os.environ["NEW_SECRET"], t, flags=re.M)
+if os.environ.get("NEW_PASS"):
+    t = re.sub(r"^ADMIN_PASSWORD=.*$", "ADMIN_PASSWORD=" + os.environ["NEW_PASS"], t, flags=re.M)
+p.write_text(t)
+PYEOF
+  echo "▸ Se creó .env (SECRET_KEY aleatoria; contraseña de admin fijada). No se sube al repo."
 fi
 
 # 4) Arrancar.

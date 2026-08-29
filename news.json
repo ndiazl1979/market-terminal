@@ -1,10 +1,32 @@
 {
-  "updated": "2026-08-29T03:50:12.061917+00:00",
+  "updated": "2026-08-29T10:28:48.345939+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Las acciones de semiconductores muestran una reacción moderada a los resultados de Nvidia",
+          "source": "XTB.com",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYkg5di13OHhmOTVYU2FzTEdRNzFfMjdGYWhDT2dGdERpMlBvVVhxemk2V0lkQVhMVEg1QklPUmk2cXRfSkViZk9wNlFuUzkyNTcxMEg0YXZIYVJMdkh2UW5rRVhHYlVkQy1OUE56T0ZNZ3dtbzhCclN4bGlLY0NpTDBiMzA5bmZiTDJ6WHZGS29CY3BwYlJtSURnNjdyX0V4UGtyTFZwVENYYmdVeVg2ejlzYnZlR1J4UlpQZGZDV19UdWhvbU5POGtfUUdhRjA?oc=5",
+          "ts": 1787962002000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.5,
+              "dir": 1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Pronóstico de las acciones de Amazon: Evercore afirma que los agentes de IA como Alexa impulsan las compras incrementales, ¿pueden las acciones alcanzar un nuevo máximo?",
           "source": "TradingKey",
@@ -54,34 +76,6 @@
           "category": "tech"
         },
         {
-          "title": "Nueva opción para acceder a acciones de Apple, Amazon y Microsoft desde Colombia: así funciona",
-          "source": "Noticias RCN",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNmExT3RtX25XbXJSUmV6Y3dQMGFHV1Ata0cyT2dnbEJ2WXUtYjhTWG5nYmZmM0tRWUJXZFhIc2duMUtYeXdFMU8zSW5UWW9BSVVGZjF2NmluVVBIaEV1YjQ4YVo1TmNEcnF6WTVIY1lTazY5VjlNVndwbWc5TUJYOFRCWjd4QXM2d2QzOTI5Vmg2VUczRzBKTjFDYTV4V2dEZnI1UVVmWHdTbnFMdDcwb1hzYkxpS1lqNEhSVVhVa09SWGVPSF9PbnJldnhYeUnSAc8BQVVfeXFMUEpfai1xclZ5bk9EUW96VE1ZZzdUd2hqaGNHSFhFc3JEYTdTOU5MaFlhVG9haHRUZzRBdTJZdzdBNkFuTUhkZVFkRXVua01WV0FHMVJxaGNWZUFud055MWV3ZDFhaHJVVmY0Q3F5MURKSzB3OTNRLTRlSzZQRVItSDd6M0l4Q09kajJ3YVVjb2lZNzBMNk5ZSVZKVzdBM2dGQmJnOW92aDhVOVN6UHNGdHpheXBwNXNiamRKWC1Qc1ZvcFVhdzFUQ1p0ZkI1Nkxz?oc=5",
-          "ts": 1787930747000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": 0.8,
-              "dir": 1
-            },
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": 0.7,
-              "dir": 1
-            },
-            {
-              "sym": "MSFT",
-              "name": "Microsoft",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
           "title": "Las acciones de Apple desafían la crisis del smartphone: IDC prevé un récord para el iPhone",
           "source": "Benzinga España",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRW1EYnRlZU9xMDZTRFRKMW5xZUNWWXpOa05FT0VBT1RCZEt1RnRvcktvbjhiQURtcW9vaXlrd0cyVXVTbWs3TzZjWTdBR1pzeG1HdmtsQ2l1RXctekRWTlNQVGVHNXNfSjdfOVdmbTgwT3NDNm5aeEU3UlItTXVwMmdKcUd0enMwM29sM1poY0lzUWFFSExsLVlabC1icjAxdTE4?oc=5",
@@ -115,22 +109,6 @@
               "name": "Nasdaq 100",
               "pct": -1.1,
               "dir": -1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Acciones de Nvidia al alza: destacan en el Mercado Global Colombiano",
-          "source": "Valora Analitik",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWHIxWndYNGdrOHVoSUI5ZUstdHhwbmNOY05wUnVNVHVmU0I4ZWduUTBrbXJqOUlMSEozX01Fb213Y0NIdEkzWDZ4RktZT1k2dzBEWWdVM1VYRVpXekc5N29feXhobEdMRHNrZUI1UFc2MkJSbmZpRDN4TWVpQU1lZEpiUW1GUEZFRWoxWUxhUGdray03aExUWnB1VU53RFl30gGmAUFVX3lxTFBJeklCc2ZaOUNTNDZtbWh1OEE0cUh5WFY2VEFCOWQ5ZGNTTFVsNkZJeFhxYTR2SE90M18xenRvX01UMk1iU0JkRHBwcUhRaHh4VzJXTnRSSVdxam9GR1ExR2dSR0J5QzdlVUNtS1hFcU03Y0hCWWFqT25kdDhuakhoRUhjUXVnMFd0YlUzakNLemZ1UXdEM1VrcmxGTlVsZl9TVS04cVE?oc=5",
-          "ts": 1787921165000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 3.1,
-              "dir": 1
             }
           ],
           "category": "tech"
@@ -177,7 +155,23 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 3.1,
+              "pct": 2.5,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "NVIDIA cumplió expectativas y sus acciones se dispararon",
+          "source": "El Economista",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSXdST0ZXOTVzTm45UjJ4dlhuejcyRnJteFR4M1RCRjN2ak5SQzh0T2ZhMmlkQkxYRVFzaDdWMUNIem92Q1BHSnZhUVhUTlp6VkU5bFpWbTZaUTZTNVhDRVVlS05hd29EYnFNOGV3c3RQRnM4Zy0tYmFZbnFsSXVEZWJDX3E0STVvdU5feWkzX3lJLTZhQWVjNWtZYjBVdC1nTjRNQWE5WWFhbGI2YnfSAbMBQVVfeXFMTzN0U3IyRks2SWpiSG9nSFd4RTRkRlBSM3QxWWdoTlBrNEhwU0NtRG8tQlBET1ljT1FVN1RkdmdCTVBCdE0tbjhtczRCbG1BQVFWdXVHQVVjWkwydkNHVW1zaVE0clJUbnh0Sld5X0RkS0hxcEhmQi1qbEJRcTdyOUw1QXVIa2VMaW5fbi10OVJTVzBUMWNJVzhpelBNZlo3Y1UxTUtwVVJ3c09HU2dEdEhkNTQ?oc=5",
+          "ts": 1787887461000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.3,
               "dir": 1
             }
           ],
@@ -190,15 +184,31 @@
       "label": "Semiconductores / IA",
       "items": [
         {
-          "title": "Microsoft afila sus planes en Perú: la IA entra al socavón en minería y ¿ven laboratorio?",
-          "source": "Gestión",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMm9mYkk3TU1jUmlpMEFlY0p5cXpZZ3dMdG85d1Z1eTJSOGVhTlJFMmlLRlluTUNrcGpSaC1VQzVqTVpIakctWDRxa3ZEOHBXQzBqQUswZFdaaXZscG1BNzQ3cTg0LU5SVFh0WmxlOE5MREdWa2dfWlN2RW5veDFJTmFiOGpfdDAwcjNBNkNOX0htcGxjaDlSLXQ0bzd6d0ZCa21TRG1yQWgxU2xlYmplaWJ1SE95SHlHVW43akRzRFE3aklrX2VLSXFldkJSelRoNV9PSS1lSXVvUWNPcUxEOA?oc=5",
-          "ts": 1787960375000,
+          "title": "Propuesta para añadir una prueba de selección para el equipo olímpico de Inteligencia Artificial.",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR2hUVUpPaFJPbTVLZHBkUkRCQU9nVHBKdDNuWUFBYmlxNC03dG5zVFRlNWdxM0U0R0N3TlR4V1Fzblg3WFZxc05xTDd3Y3hpRDhlMmVyUmpzcjFPYTZyX0U2NmNLRGlXbzFZc1ZuN2U2ZTNOOXd0dGd6XzFOZmhBQWJWLUdKS2NuWXl5ZVhn?oc=5",
+          "ts": 1787982974000,
           "sentiment": 0.0,
           "tickers": [
             {
-              "sym": "MSFT",
-              "name": "Microsoft",
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "AvanteLab amplía su equipo y busca talento especializado en inteligencia artificial",
+          "source": "El Observador CR",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVkE5amRDbDZrQ2k4TVAxVVdvRWM4OVZ5S3NCdUlZc1J5dVA1Qi10T2lTU0tUTmdLNE1nRm1pNTFUYS12eWZPU2VfOUVlQlhfLVZPR3BzMlZ3d3V5SFN3NDM3ZTRkVm1wLXZnRkQ2SWlzdzg0OTVJRTd2Z2huYm9CSmFWVlBnZlpyQUNvR3pRVjhCcmE4MnNEa29kUEROSUNrYWtVYmhkblo4UQ?oc=5",
+          "ts": 1787972096000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
               "pct": 0.8,
               "dir": 1
             }
@@ -206,16 +216,16 @@
           "category": "semis"
         },
         {
-          "title": "Orrego destinó $350 millones para que 27 Pymes incorporen tecnología e inteligencia artificial",
-          "source": "La Nota San Juan",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWGYzNTBqNEV5VmRSSmw3dnBUdnFNczh1ck1YSU5oT0JiUXI1VTB2aU5ycWNNSDlzQmozTjFrWGlTMTZVSWluVkxYQVJWamJtTXVHSG1RYkZoSUNra2p3U25FZE5lcm45aWJDc1FJa2VQc1duV0ZaNlR2RktrMm1KdXhhZV92SmRwb3NaT2FiajE5WUh1UXJjMWF3UW5jMEhsTDk2cWRxRnNWSWduUFNFMmhrUEVzUGpKREE?oc=5",
-          "ts": 1787959398000,
+          "title": "Microsoft afila sus planes en Perú: la IA entra al socavón en minería y ¿ven laboratorio?",
+          "source": "Gestión",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMm9mYkk3TU1jUmlpMEFlY0p5cXpZZ3dMdG85d1Z1eTJSOGVhTlJFMmlLRlluTUNrcGpSaC1VQzVqTVpIakctWDRxa3ZEOHBXQzBqQUswZFdaaXZscG1BNzQ3cTg0LU5SVFh0WmxlOE5MREdWa2dfWlN2RW5veDFJTmFiOGpfdDAwcjNBNkNOX0htcGxjaDlSLXQ0bzd6d0ZCa21TRG1yQWgxU2xlYmplaWJ1SE95SHlHVW43akRzRFE3aklrX2VLSXFldkJSelRoNV9PSS1lSXVvUWNPcUxEOA?oc=5",
+          "ts": 1787971574000,
           "sentiment": 0.0,
           "tickers": [
             {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.0,
+              "sym": "MSFT",
+              "name": "Microsoft",
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -260,28 +270,6 @@
           "category": "semis"
         },
         {
-          "title": "Nvidia va a comprar Hugging Face por 12.900 millones con un objetivo: blindarse ante la avalancha de chips propios",
-          "source": "Xataka",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYUtBeEU4TDJsVEItNTZOc2tUVVNGdS1SdzViRXBqa29WdnFFMVlVMmxxY1FuRVhjWkVFWkJ2bTZMSWZjbnluN09ZQmlUaXJVdWUwYnFCYVpZanhUOEtrellNcjJBWl90U2cwLTRLZjdYM3VFMXVsMGZmMnBRNjFWQmFvbGlfdnA5ZWt2UmNrbXYxcXNtTmdVaGZvUmpOQ0VzdDh5cVNlUlA4ME9nbjVZcHE2aDVTNWdReTVIbWowZlN0M19Sa2VTeVJuTTY1NXQ4SVNLTDRnR3dfUEJtNFI0dU5YZXliUdIB6wFBVV95cUxOdmI2MTdwdUk2elhMc29KMkE2NU5oVFl3R2RfcGVDNFNRYnc1aER0blkyOUVhTjR1Q3ZLT3VKU1NCZV9lT3FqN08zWU80eUpaQW9JdG5ZeG9tcGF4b0NFZERGTXY5YS1yVWEtbTMwUVc5aDQ1Szc4OWZ5WWhKcVd4YWFweEcwdW9fZ3JyQmdPTDUtYU16SzNMZDktbDFaWFhIOFBnUGtBM3l6QUs1Rjl5X2huR3AydjA1RUxJQlN5ZTh4R2FuWXJmNm5PUjJUSktHelhwWV9tYVpkUUNqb0ZNT205TXVoc2s3Ymo4?oc=5",
-          "ts": 1787942894000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
-              "dir": 1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
           "title": "Nvidia compra Hugging Face por US$12.900M: claves",
           "source": "El Ecosistema Startup",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU0hCNEM2N2VCakFvSjJCbVJHWF9fMGxCaXM4VEtGaS0zX0lIa0NmLVQ1TFp5cnUybUE3dnlobVhPcEJ5T0ZCNG9pU1BsQmNSSlRCQXg4eWtDUnAzV1lDZ1pIck94cjl4MjVINWZtZV9ZcWFVal9lTUctYmNHOTEtVG95VGk?oc=5",
@@ -314,48 +302,48 @@
           "category": "semis"
         },
         {
-          "title": "Anthropic busca su propio chip de IA para dejar de depender de Nvidia",
-          "source": "KCH FM",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVlgwcXNHdWVYY3hhWmU2bGtrd2hqRjc0OGlqcGVTSjZlbkVWS3c3ejMyXzhKal9TNC1yOTBkeWdvcXR0Z0ZsYnJpWWlBVjN3OTZqVXNFSXRoVU5tamJuTkN0cGc2eFdDNWRBUEY2aEFVbmI0LV93WG8yTzVfQWYyNUdBX0FTVHJlc0hSTjlsS1RVbmt2TEE4ZzBVd1RkVjBJYThOWHl6NFNWNDN5WGc?oc=5",
-          "ts": 1787939240000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Meta lanza Startup School para 200 startups en India",
+          "title": "Anthropic quiere su chip propio para no depender de Nvidia",
           "source": "El Ecosistema Startup",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeVVjdnBtMWliWVZySjNWQXNzcmNmUGVCaFlDOEQwekRNUXVKTm9SRTFIOExmRmpJWkgzakg4YS0wLUk4YzliUjhtQTliWUtWSHpNbmZuMHVXbmhjODNVeEkybEFlc3FCbWc2d1V2WGtiNXNxdDM5SEUtblhPd3REeVh2TW5mVjNhNjc4?oc=5",
-          "ts": 1787935005000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Nvidia crea un PAC para ganar influencia sobre la regulación de la IA",
-          "source": "DiarioBitcoin",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQXzlZYjg3N2xibW1kUXNaX1RpZ1d4a0dhM2lHdGFNMEVsZmR4Um9JSlZ1ZXRMMGlIQ3Y4S2pudG54bmd6Tkx1SE5VZmh0MzFtYzRUM0ZsOEFIeC1vRmdUY2FjX1REaTliYlVsUnBLRjJ3RDZ2TjllRWdNQzVfcXRXTkFldkxodEczdm5UNE5ZazRTaVhCSDQ2aUczcFhmajBVeU9FMnlrT1E3SDhad3RxTW9IaWw2NVd1bEdpTHBYSVZzblhBR01XSWx5dE8?oc=5",
-          "ts": 1787925746000,
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMUdKUWdYQWJGQUdKeEVsTjgxZ1ZjcXVVc3N0Vjh5VTlibTQyUHlIOU5iaHI5WktKZ0trMXg4bFo5RDU4YVJ3RmdQNWtfYkxFbWxRTjZiM1pxc3hNMVZZYjBTRlFQVjdzVC1xZU1JUDh5OWtCU1RUNnFFZy1FVGJKZ1pKdW5sQXVrTVlmVi0wMjJ0TWM?oc=5",
+          "ts": 1787924952000,
           "sentiment": 0.0,
           "tickers": [
             {
               "sym": "NVDA",
               "name": "NVIDIA",
               "pct": 1.5,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Yotta evalúa una salida a bolsa para financiar su expansión de inteligencia artificial",
+          "source": "DiarioBitcoin",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNem5XT1VubWRSREF3ZmdyU1FvR20yZV83VEIxZzV2WEdIdnZCZ3UwZVdWWklaclpXZ3RHbU9LUDI4QTR1NE5talJ3VjBoalNBUkFNMjZaeUhET2pKWkgwZEpYdnMwT2NhMXhGLWtvdnFLRi1oZWRQMjVwcmkwTURieVBPQXNSYXB2SVcyYmVQa09OVWtwbUtlZWNKeHp4U09UMFhZcFFlQUYwUWhtTkdnRURBVXhHOFM0a251TDE5TVY?oc=5",
+          "ts": 1787904339000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Estafadores usan la inteligencia artificial para hacer caer a sus víctimas",
+          "source": "Telemundo 52",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcGtseTltZUhSMk5HeHlOUlNydEJwQUx5Nm9oemFGcEJvWmc0ZEd3aTN0N3VKUzZzQUVuYTN1aE5RLXdORm1mTlM4OThKdXRRX3pKcmxkTTZhX2Z3dHlZamk1ZnhMekVzbDRjWDFFNDhtcXRYMEpXMzJtMVFWd0RSWlFLZE84Z1FRR0lxSG5vQWVZUFhNUG9xUUl2X20yN1hiS3ltSXVkWlBHNDhVOHd1SlhBYnRVc0dBajdudE1mOTZfQUxFV1QtUXZR0gHSAUFVX3lxTE9WU19OS0hRTDNYRF9vV0VkT0lNUm9PV0ZLVF9WZ0lWcFNBcXhCb1YycUdCSE9YMVVCVVVoNHA4WkxMMGpTQXJTRDFmQlNJem42dlg0b2lXWENBRTF4Mm90dWpPUXVWX3B4NU82V1ZoWFJlaS1jWjdDZlBTbFV3Y0J4OS1RTUNwZjJrTlF2RUpQc2hyNE1GY05seTJzYVdFRVZQVWM0LVFpZkkwRVRETHo0Q2lTNUpiMkZFSlhOcVE4UEJ4bm1xZ0tKeW81X3pyVG13dw?oc=5",
+          "ts": 1787878823000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -464,6 +452,22 @@
           "category": "space"
         },
         {
+          "title": "SpaceX se derrumbó en Wall Street ante la preocupación que genera su gasto en IA",
+          "source": "La Tercera",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPczNHVFVFSDh3bVYtcmJLNHduYm9fTFdjSmZwQnJteGhvUDNvNGxjTkI1UEtsX3pIdFFZTVRCY1ctUkxrVkJfMUExMkxjUFN2VUduLXdMS2JSREE3NU9fREh3ZFNmaE9YaFhCbTJ3RktVQmdERDB3MUZib2Fjb1ZXcW1jN1ppRS1TcnBON3NLQ0g1LWNQVUZMUm4wTVBjMmFrQlA3TVRBUERBekR1WW1iZlQwb080d9IB1wFBVV95cUxNTjRldnhJQktUMkpsVUc4UnhHR3o4T1VjT2xqTUFuUDVGNWY2VUtYTHhqbUFENlQ2VmtJQmxuNXBNeVpIaFlhR3M5enlCRkV4a0pSdkhfODRyQ3A5OVJfV2FEdU9jRFZRNW0yS3RRUFEwZUNaUXhIa1VDYkljM0QxWFhZTlNNWTg4NVh6VnlqRjNYUXR3UDhSamp5VUQ5MDFmLTRlM3ZPUUJKc0lyWU9hVUtDM3hDNnJGeVg1d1kyVEtPTUpfLVlpTkNWUk1VdlR0R2k1LTAwQQ?oc=5",
+          "ts": 1785913200000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "space"
+        },
+        {
           "title": "Cuál es el patrimonio real de Elon Musk: estas son todas sus empresas",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSVR6c3RkT2VvaFE5RXhwNHpaT3pZV3EwSng0c1ZxU3BlSWhJekhRT1J5NlhtcmY4Z2FvSzhvZU1xZFpPcllfLXhHMmw3TFlsSklSUk4yV3BqRUNackItbGw0WTZ5OGQySml1SkppZVN0aEZkeGV2emVnZ3NPUnJqcmlaUy1wdXM4ZjU4TWFTeThLcTZKaTBIZFF3MkFCeFA4TmI3aVpsaGg4WTlobmZB0gHKAUFVX3lxTE5NS21IbzA0QjRQWjZrMmVKckJkSUY3Wm9NWmpsbVJQTUxqVGNZY3hRVlBKWC1YVUNqbndnVi1oUEtWSm0yeEZfR2NzSE1JT3lsdThJN2Y2R3ZtZHRpakx2YmFzbjVUU2NqaTJMdXZIV2NnUUREdG5UN1VLdEd5Y2dlNzJjUlNUbDg5U3pWV1FQUG44ZS0yXzNNUTh5aDU3UldYOUE3cDY3WUhHZFFZcks0cWVndXk1bXhfaEhDVWxkRGpEYkFmY05DN0E?oc=5",
@@ -480,6 +484,22 @@
           "category": "space"
         },
         {
+          "title": "Empresa de defensa Space-Eyes, respaldada por Eric Trump, prepara su salida a bolsa vía SPAC",
+          "source": "Forbes México",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdEpxcWdDMU0yWmNoanpzV0oya0tIeEduLWVxYUFRRU8xZDduOUlJVzFUWkEzQ1Vlb1VvZmpQOGVpVVVmVkNkVGRGWmxjalZFNG1RNmthem9mU3U1dkRFbUxLSGlCd3VhZGJiWGV0U0t5ZC1DcUktbUJjOFhCdFFNWVdvU1JrNEhCSzRNLVVOanV2RnFKWG1xOGhRdktQN2Vjd0wxSU9ZMTJxdVZla1JWMDZ4dw?oc=5",
+          "ts": 1785481200000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "space"
+        },
+        {
           "title": "La salida a bolsa de SpaceX enfría al sector espacial y borra más de 1 billón de dólares en un mes",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaFp6ZTJWR2ViLWJrdEowUGN1XzFHM1A2QXYwMTFWYk1sTjl4UmJJUTN4emlTdnBUUFRocnBZWDdCZXlYYnhIcUFsamlxRmNfXzRfdDBNbGNXcEJUZ3gwSnl1Zi0xZW4xTzBFLXlJeUZqTHhGVnoydFVYdGt0blhJYVFrbU9DS254SUF1YWJYUERNaUEzV1BYSUpTa1ZadVJJUWJkR1VGS3c2cm5Fb1phUm9BNENjV0xMVE1RQnBHUnVkVWVmSWRKODRRbFNPcDVWV1BfLUxnMNIB8gFBVV95cUxNS3paTFRHd2RWUXpfV3pMMmJlNkJFeDZtOFkwQlV0amhWOG0yYkhMN2RROUZhdW9tRXlUVVNMV1dILUNzMUFqTzFzT2UwU1hxc2JESGRrWllzLU42Mm1YT2dRUENaVmVoS1ZqQkQ4MFJxQ1ZQeVlZMzZwbTR4Mk96el9iUXZrZjU4YzBwNnlDclNPN21waWRQTjFHblNUb2FTRldrSlhTWUxUclFXem5nbGx2ZUxTQmZ5MXllMUpPaWZMVEh0TlpyZ0VrS0YyYXVJT3BqaUpHRm56V19lTTlJRFNTaVFWVnVCTzZjeURRUEd2UQ?oc=5",
@@ -490,38 +510,6 @@
               "sym": "ASTS",
               "name": "AST SpaceMobile",
               "pct": 2.1,
-              "dir": 1
-            }
-          ],
-          "category": "space"
-        },
-        {
-          "title": "Google compra acciones de SpaceX tras su salida a bolsa: ¿A cuánto ascienden HOY?",
-          "source": "El Financiero",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ2RNd3Vnc0s0cEVJYmFBVmFXckJtVGh6bHpGWnI0Z1FubndIOG9YNC03TTZoOG5FeVh6SmZ6ZFlJYzhmdXVyNFA2Mm1DX1hOZ2p2VThIMWNmTkd1UGNNZEVEbVlmMGdQZWFhM09JdVdZS2hrblBpaTByeXZUZ0x3UXhFa3YwaUNjNzdaYUpfYzJGam1mazBuX3RtVC14aDRGbTRUdDV1RmlGWXBzd0thTGxSdDVZZ2JhVUh1eFdFLW1rXzFhSEdrNER0VQ?oc=5",
-          "ts": 1784790000000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 0.5,
-              "dir": 1
-            }
-          ],
-          "category": "space"
-        },
-        {
-          "title": "¿Comprará SpaceX a Tesla? Musk no revela sus planes",
-          "source": "CNN en Español",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVA3N3lVRGtvam1VOElBa1FQMXphWWhUMXZjV1FoNnBDZl9xcENvQ25uUTBTRTY3SHBjZVpJU1VjVS1LMFhVdV9sQl92QktBVmJmN2swVE12WGs5S2pkQWRZb1h0MTRmOWltSFVBTWJjN0dkc0lWVnlPQ1R5blNLYzFubUpET2E5UmpMWA?oc=5",
-          "ts": 1784703600000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSLA",
-              "name": "Tesla",
-              "pct": 1.0,
               "dir": 1
             }
           ],
@@ -652,6 +640,34 @@
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
               "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "defense"
+        },
+        {
+          "title": "Líderes de OTAN impulsarán millones para industria militar y Ucrania con presión de Trump",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTVUzNFFwN3Y5c3lHU0IxbDRyYUpuSHF5ZHZwZmZjWDJmeFktWll1SWtvMVZVSm51RFdWWFFYa1htQi1YSXhycURNZWNjemo3X1lZc1NSLWZBOXRPa1lGNkVVemFYOGxOV1NVSkNTUm5vdTljcWNodjkzLUJOeUlkZWl4WGFxcjNra0FZS2dUa2FOelN2MUhwbm84dHB2RXE4SXNyeUlMR19veWgzOXN1RkhRNDNLV1ZVbktPN1Bkc2NIT2RycktIdENXMGJSemNZSGpaWlRHWmJ4d9IB9AFBVV95cUxQWm53cFNsTndmbjMyOHI4ejFmOF9kQ1VZbV9rRzhpWHM3VW9SR2h2SmNZekJqb0xpMC1iTUJtWF93X0hSSW1sQ1M5NGZPQlJlTnloSjlEd0JkNGNDRUxsQzNrczAzU3NuWDhvZF9rVUNhN3lUNmNLcWR3V3ZTQl9BQXRHLUhkYTVrUGZtVVpXdThtUFg3aks0a1ZEbVpjSDVuNlRSS2sxUURRVFJmaEtPdnk5Q2loS0FnejFMTXZOeTdsQ1hleWlIS3pqRGhJQmVrLUtUWHQzOHQ3T3d6amxSZXZLVG56bmdxekNhX0hJVlFqZGZT?oc=5",
+          "ts": 1783234800000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -0.7,
+              "dir": -1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": -0.4,
+              "dir": -1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 0.3,
               "dir": 1
             }
           ],
@@ -812,34 +828,6 @@
           "category": "oil"
         },
         {
-          "title": "El precio del petróleo Brent supera los 93 dólares por la ofensiva económica de Trump contra Irán",
-          "source": "El Boletín",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVmVMZUZCNllPZ0xUZ001S0RwSDNhR0dKU0lLZDdYaFA5VVBFVGdZczVxRVBsb0VRdWprNGxVNHk3Y0xqXy1HbmxVMU5rOF95RVFnUDFfd1RDSW5tWGtHVkZCMVo4Y3Jub2Q2Znd3MXhVYWRtbjA5QVZ2WW5lMXZsWGlhcVIzZ3lkdG5mVGlzSE5WQ1hPSnJjZWlDcllreDgxLVdWZUtwM1lfT3FsU2E1c1NxZVg5eW9HUGhPSEpITkQ1Z9IBxwFBVV95cUxQV2dvOFcxdEJJWmxFZ0ZqMlJjUExmejViQ1dtVFlrcnRndXZEaEE4bGZEbmRNTFlSQnc2eFQyT2NQNEZZdzI4TUtLbGZyMndpRDhLYmVDMzdIakRnVTZDREljS2VmTXBYYkNZTUhTNjZxMDFYRDRJQjBacENyTTh6ckRlSmhUc1htWnNpaERyMGh5VkFrZFd0eGhJWkliTWR0ZjVMeTlhRWtqQ0tLZ2doc3gyclpNd3NNNUtoYXYwMTJ1d0FKdXpr?oc=5",
-          "ts": 1787220304000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 1.3,
-              "dir": 1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": -0.9,
-              "dir": -1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": 0.6,
-              "dir": 1
-            }
-          ],
-          "category": "oil"
-        },
-        {
           "title": "Precios de la gasolina y el diésel hoy, 18 de agosto de 2026: El Brent supera los 91 dólares, lo que aumenta la presión en el mercado interno.",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV083NFdMM2o2dDBfaUhqR0RHTWUyVldkRjRGUXAtRlA5YW56SHdhLWJlbVhtX2RwU05RSUJGUVA4dTJ6TmN0WC15U2VuSnQta3RncEIxVUh6WWpFTzZNUGU2TG9UdzNtM2dlNDhJZ3NDejllM0NhZDh5LUhBM21mcnBjWTdOZWxBRzM5cmZmb2hUN3ptajNyM3RFZGRIUQ?oc=5",
@@ -894,6 +882,22 @@
               "sym": "SPY",
               "name": "S&P 500",
               "pct": 0.3,
+              "dir": 1
+            }
+          ],
+          "category": "oil"
+        },
+        {
+          "title": "El crudo Brent supera los 84 $ mientras el estancamiento de las negociaciones en Ormuz impulsa los precios",
+          "source": "TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdzNqQVhIMHpZSm1ubHhra09QdW84WUVFSTZQazh3VlUtMXFOTXl2b05HNlVjUi1SQWJvVl90X25qdFFSTG0wVl9fa2FVSGJFXzRSREs0MVpQdUpIaEZwa0hfVVAtQ2NaRFg2N2RzOXZTb1FveFFid3I0NzVqRDIyNlFhcFp5WWFwZXFqclVyQVhyYVVqME94SUZrdHg3MWVsYV9yLUR3cGIyLWhlRHpqSEVsWFcycDFta3RtMDJEdE5jZXBmS1o1aXprMjMxa01XYVVhaVBzNHlMc08zRkJzck92TGw?oc=5",
+          "ts": 1786258800000,
+          "sentiment": 0.67,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": 1.5,
               "dir": 1
             }
           ],
@@ -1189,7 +1193,29 @@
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.7,
+              "pct": 0.6,
+              "dir": 1
+            }
+          ],
+          "category": "macro"
+        },
+        {
+          "title": "Los mercados bursátiles esperan hoy el mensaje del presidente de la Reserva Federal en Jackson Hole. El petróleo cotiza por debajo de los 90 dólares. La Bolsa de Milán está en el punto de mira en este juego de riesgos",
+          "source": "firstonline.info",
+          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOblBOSXhtTGlfd0VPYlpISWxEc1NKNmUxMlNXcG9kc2VDdS1Qc2F4aVVNNWhRelA4dVA0UUUzU0RnRk1SdHpfajR4QlNIMDdkbVZ6RW9pelE0U05jbi0tNHQ3OXE1bV9wWXE5WVRwcGpobndxRThyOUNuRWRvcDJnQ1huY3VEemxHT3JkVktCMnNBaVc2QkpLVURLUXRQUWxvZ1hxV3Y2Sk4zNFYwMWlXZHFtdUNHWjdmOEVQZktmMEQ0cnkwdk9uUGRwSEtPTlI3dTV5YTVxVUJXUmF5SFk5eC1ydGRlbDJ5ZER2S053TjR1XzcwMmptbk0zVkl2NkNUSUg2X1ZWSDh2amQ2c3NqMl9nVDRWTThDTzFjR2gtYkFEUDlVUHJ3alZ6TFF4YWhyN2JtaDNiSG9pZUxYeG1GdUdKRWVqaUhGUFlTNFB2NkJlc0JRNmNyQVJOSnJReDJsTE8yVnRZTkdJeU1GTVpvUUZjaUJtVEpsTWVjNQ?oc=5",
+          "ts": 1787899850000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": 0.8,
+              "dir": 1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 0.3,
               "dir": 1
             }
           ],
@@ -1205,7 +1231,7 @@
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.6,
+              "pct": 0.5,
               "dir": 1
             }
           ],
@@ -1221,7 +1247,7 @@
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": -1.1,
+              "pct": -0.9,
               "dir": -1
             }
           ],
@@ -1237,7 +1263,29 @@
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": -0.9,
+              "pct": -0.7,
+              "dir": -1
+            }
+          ],
+          "category": "macro"
+        },
+        {
+          "title": "Futuros de Wall Street caen, petróleo baja y tecnológicas arrastran bolsas globales",
+          "source": "Rosario Finanzas",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWTIySXdNdGFuMTFoUnNKM2ZiS2pZUEI0b2dfb1V2alpTYUViS1BMQW1kWVQ2eER0Tk5JbGtJdHQ5WEZxZmJqd2xzTGRycHlCdDl3UlBKTGtUdkxPTndjdXUweFlQTVBYMTNGNkd6aTUzbjB2aktnWGlZbFBwZ05KQ3YyMjJJZjdFUmtJNmJBTWNCWUlUaTQ5RkpXXzBaaWVlUmZENFpYMHlfNkxYR1VwTGJISThlLTdJTnc?oc=5",
+          "ts": 1787573100000,
+          "sentiment": -0.67,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -1.5,
+              "dir": -1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": -0.8,
               "dir": -1
             }
           ],
@@ -1266,10 +1314,10 @@
           "category": "macro"
         },
         {
-          "title": "Wall Street cerró en rojo ante la incertidumbre en Medio Oriente y a la espera de las actas de la Fed",
-          "source": "Ambito",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRVdLWnlTaFFoSzV2R19rOUdZYnJIY185NXFWOXU4cXdsYmJfdmFlUUNmc2FFTzJzMm1vLThBMndUSV9RTVJvaUhqLUU5RnRnXzBTTlJTMGJpQ0tHYVoyUEFHQ2llZUM1aHBqYWI5ckcxRk5ZbGFsQU0xSkZyeVN0YXMzS3dlU1oxWWl1YURjWmx5Ynk5cEtHcUNma0pCVm04QTVwUWVORVpPTWZJSXBlNHk4MnFvak9LcjFicNIBwgFBVV95cUxONmhtQjc2WXFBWkdVSVlUMUlfaW9lRWpVNTduMi1QSV8yb0x2SHpTUUNaQXM3NlpfNEI3c0RiVHhvN3l1Sktnc3VCQTJuSGtIdmtTU0FGWUNkWU9HeHRCcWI2UnBNRXEwZFpRYlJ0SXVEbFJyMkFTSXNMd1VzcjRreWhXSURXeTdXQk9lMV9OWjVuYnlFcFg5Q29oNWc3ZEpMenM2Z0tCTjVUMjhVWFNWWDREbkdjMDR0bjg0dmZYZXFrdw?oc=5",
-          "ts": 1786950000000,
+          "title": "Wall Street cierra ‘alegre’; se beneficia con el anuncio de compra de bonos de EU a largo plazo",
+          "source": "El Financiero",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWHlyUDVaRTl5b3ZJcm9VeE9wZF9uOWlTVVZGMGtPcmlad1A4RW96MjdfVDFzSGFzOHRtblBld1lQYzIxcUFDcEh3YlJIY2w2eGZKa2t1MktMUmFNT3MxeUY2dHFHVjJQS2xWOW45S2laOEJLWjZTb3VuQkRyMzNTeVFqTnItVnhicFV0M19KQmQwVDF1dDBkSA?oc=5",
+          "ts": 1787122800000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -1282,66 +1330,34 @@
           "category": "macro"
         },
         {
-          "title": "Wall Street cerró en rojo tras la decisión de la Reserva Federal",
-          "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeXdWZnZ2cWE4SnB6X1NSeHFPZnloRWQ2b1E1TkFKa0g1Z0I3aWx4UTdXOTdTREJCdlZSendpM1hUNGpRbWRYVGtMZFRxcFQyLW1TVGlueHBKLUxIdUsxY29WNVhuMGRyMmV6bm1laFZXZW5lWDM1QkUybVlhYXlaUUpIRWhFc29FYzVIU2xmTzVxNGZ4T1gzRjhpQnJBN2VJLXI5SE1BUnR3MklralhyZjNkbms1Z9IB0AFBVV95cUxOSkxBVUgza25PSXFQOEt4a1U5Z1R3VVc1VUYtTHF0b0M2MHdSQ05yWmNhRzJxalZqclF1V3I1M2hpZndXU25STHh0bEFtNFh3QnJJNENXbldrS1lJVlRpT3ZZdW9Ma2hHZF9ZY3lUMjN2NjVkOE5OWnVtLV9aNHU5LU91MmIxNWh0TXZMSTZVZUdXTV9sUFFnWjdwYmQ0NjdDZmw2SzJmQ3FYd2I2OS03cnpaVllRQU5UVm92VG43eU4xRE14SWFRcXVBN0huM1pa?oc=5",
-          "ts": 1785308400000,
-          "sentiment": 0.0,
+          "title": "El negacionismo invade un Wall Street cada vez más optimista: sin freno en la IA ni recesión o subida de tipos",
+          "source": "Business Insider España",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVFFtazdncTFDcl92X1F2S0pIQjQ0ajFYQWJpQ2RkaHNYOVIzNnJSZVlQOVkzaUxGTDcxTXFDNUlqZDBPTGxWSU5WenF3WXc2NGlVVHlZOV9Oc2xtaHJjZFFTNERhMF9xTE9teDVqN1h6T25jOVFTOGN3NVE4MUlCT0FwWGlhZDJyZGtESExmTGk3VmY0MzNwOXU0Vmx0ZHo5WFlBSXlndEN6eThScTlWYVJvX0U4MVZKUFJqWEVqeDNjRHVnRUp1cmI4M1llSGRpS1pTaEcyeVFGMkpyWi1Ib3JyclE?oc=5",
+          "ts": 1787110500000,
+          "sentiment": -0.5,
           "tickers": [
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.4,
+              "pct": -0.7,
+              "dir": -1
+            }
+          ],
+          "category": "macro"
+        },
+        {
+          "title": "Wall Street suma tres días de pérdidas tras venta masiva de bonos y el salto del petróleo",
+          "source": "Bloomberg Línea",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdU5WNDNWMWRyWDlrVktBOUZYTHZab0h4ZGVKTW0xM0U1MGIyM19BTDY3Y21UZ0JJTmdRMkZYTmw2QnplN0NiMjN4dDU4M1FIOGVYZ2J2b1h1bVppNE80Z2tCRnJWS2lnYV9CRTZ2LWFmWmpUOW8xQjNzbmc3YWdjTmU1MlExQV9jUnp4RmNGbExTX0l3MmQ0eEJvc19URnE4cElxVUZ5MTgtSDJ2NW9oWkRROUxELTR0cEZRNlZobnVWTlHSAdcBQVVfeXFMUGRUM1hhOVlGSW5ScXU4N1lHV1I3a0JGb2txaWNBRWx2N2ZmQU5LRUIwQnpnYjJneEtIQmtnWVViZjE1ZElROEFma25EMEFiNzB4NWZhZEZYVjFqdTRxQUxGOTM4UEN6cEthaUZfUTU5OVc4VGlWVDhxWUpLODFoTzN4TmRXR3dvdWxoREcwRVVHMkpFbFpxcHFxOHc5amt6eHVxczg3NEV5VEdncFozbVkyMElteU4wQUFBU3NxOUdqZXBkX1BKWHk4OVBVYW11RXVJcTJSaHc?oc=5",
+          "ts": 1787036400000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": 0.7,
               "dir": 1
             },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": 0.3,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
-        },
-        {
-          "title": "¿Y si la Fed compra acciones? El escenario que abre el creciente peso de Wall Street",
-          "source": "Bloomberg Línea",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSl9TRmZfZWlGZ2xCakpSbXYtNjJ6N3Q0ZGtfNGgyMkNXM3dTSFVuc3dYZEMzZVAtTWJTMDJMWHM1OHJMcFlPQksyTzJvQ25BWDhLT3V4Y2ItNkhTbk9TOFlvV0x1S01uRVowNTRUSHQyNExkamJxM2VOZHFoZW5aU0p4UHY4QWMxMzY4d0VfTVpKcktDOXAwUkRMeXQtUlVvaVBjV2RpLXhhZWhuSUktU01nRTZlcFViXzRnWXkwOE7SAdQBQVVfeXFMTl9mWHl2ZFpyYndzOHFiR2Y2WHNxejlkODNWUnZ2ZWE1ZWFJN09mMUtnMHBHaTV4TTNwSXZ0a3FHLVE3dWRnRzlZYVdMdHFjb2ZTZWJGM0c4RWpwazU3b2J0OEY1QzdYazlabXlQWEUzemdmT2lKdWU5cW5uN3B6WGJySzkwemFaSllFZ0d5VzI5M1Y5bW5fZXJoVVg3VkpWNE8wZTFqYkRhWmo5Qk9XQ2M4MEUtX2sxZ3BJbWM1Z3RZTTlTYWkyd2NsNXE4SlFkUDF2S1M?oc=5",
-          "ts": 1784098800000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
-        },
-        {
-          "title": "El ‘Greenspan put’ y la compleja relación de Wall Street con la Fed",
-          "source": "Cinco Días",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMzFWLVNzS0kwZnJlRXlJMUo5Ujl2LUxLZHRUMUlyNkVZY3gzcXozSlBWbnJRQ3cyeGRyd1lPT0hTTU5OOUs5MlRvQ29OUVEwbmVOekJtcVV5QThBZERPeHZ2Qkp2c3RjSndHYm1XemRKSVBfcFZzQ2ttcnBiS0hzRG1qRjR5LTdzdEx6a1ZNNkNYU0huVjRoaWR2cHVUVHpWbzluaG5ibmtvNHVjdzUtWWw5bklhenBVaV83Z2ZBTGNPNDNLZkFmTnZ3UdIB3wFBVV95cUxNcDY5R2NlMEhzazNKaG9neUdHM0lLUWY2ZU9QT0xSSDdfOXpVbmtKbUN6aEFaSUVYd3kxa2JVbXlPMFVZMUdZaFBaeTkwdVRNX2hBbG1sRWw0UGZ6ZlpXSHgzWHlaak5nYjRCbnpwczdvRFgwQTk2UUJVVXgyT0p4N3ZXU0RTdmtxdUNBbHZGNU1hNlhXcUlJZ1FvWFRiRVJ4OHJZYkJLQndsX3pYX25nMFJKSGFzRkZHVWxHYnJ3U3FnWDdldGRwWThFcTM2NnoweTQ2N1FNNmNrdjNWQUFR?oc=5",
-          "ts": 1783666800000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
-        },
-        {
-          "title": "¿Qué sector de Wall Street podría beneficiarse de una subida de tipos en EE.UU.?",
-          "source": "Estrategias de Inversión",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDVUZF8wVldlQ2VkNzBjcTJqa0hIakdKeVNCbFNtS1dKUDhjbnlqbll6RDVjaUxDaVN0LWJvZHZiQ0s0Z1kxRGhCdGd6M0tSZkV1UTk2anNra3JhVDFRLVR2UENmRU5MWENnckhTaVRHdE5oVGVTNXJDeXBzOEo2LWYzb0VEMjNWZllid1k5UEN2a21GcGFDbXNNR1RNN3FDa2x3dUlqTUJMaE9XbG9jX3drY3FqeGVKbnYyc3UyYW45VUXSAZ8BQVVfeXFMT3ZTbmFvMnltVTllU29tMXYtMkF6THB6YVF2UWx0dVU0eHBteGJ1ZTFuQXBoMW9Dc2tEYW5vbjdubGc3TG5fMGd4eHNMb2NZUVlkbjFsUFNzMTNtdlZOS0FnS0hqdGpfbTNoeUdGMk5IN2l3X2tvUndHSEF5c3RSRkpXXzhTNmVheDB6OFNMUGplMHF2Zm5uMXdVU0pIMm5v?oc=5",
-          "ts": 1782975600000,
-          "sentiment": 0.0,
-          "tickers": [
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
@@ -1358,14 +1374,8 @@
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 9.5,
-      "n": 18
-    },
-    {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": 7.4,
-      "n": 14
+      "net": 10.4,
+      "n": 19
     },
     {
       "sym": "ASTS",
@@ -1374,52 +1384,40 @@
       "n": 3
     },
     {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 4.8,
+      "n": 6
+    },
+    {
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 3.5,
+      "n": 13
+    },
+    {
       "sym": "SPY",
       "name": "S&P 500",
+      "net": -3.2,
+      "n": 16
+    },
+    {
+      "sym": "QQQ",
+      "name": "Nasdaq 100",
       "net": -2.9,
       "n": 16
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 2.6,
-      "n": 3
-    },
-    {
       "sym": "AMZN",
       "name": "Amazon",
-      "net": 2.5,
-      "n": 2
+      "net": 1.7,
+      "n": 1
     },
     {
       "sym": "WTI",
       "name": "Petróleo WTI",
-      "net": 2.1,
-      "n": 21
-    },
-    {
-      "sym": "MSFT",
-      "name": "Microsoft",
-      "net": 1.5,
-      "n": 2
-    },
-    {
-      "sym": "AAPL",
-      "name": "Apple",
-      "net": 1.4,
-      "n": 2
-    },
-    {
-      "sym": "META",
-      "name": "Meta",
-      "net": 1.0,
-      "n": 1
-    },
-    {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": 0.9,
-      "n": 4
+      "net": 1.6,
+      "n": 25
     },
     {
       "sym": "LMT",
@@ -1428,16 +1426,22 @@
       "n": 2
     },
     {
-      "sym": "QQQ",
-      "name": "Nasdaq 100",
-      "net": -0.8,
-      "n": 16
+      "sym": "AAPL",
+      "name": "Apple",
+      "net": 0.7,
+      "n": 1
     },
     {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": 0.5,
+      "sym": "MSFT",
+      "name": "Microsoft",
+      "net": 0.7,
       "n": 1
+    },
+    {
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": -0.1,
+      "n": 3
     }
   ],
   "ecuador": [
@@ -1483,7 +1487,7 @@
     },
     {
       "title": "Recuperar mercado andino",
-      "source": "El Comercio Ecuador",
+      "source": "El Comercio",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONndQMHhscnMzWGhpYmR0eFNjQ29fcG1BNFRZRTIwQkR4dHZhdHZNRG1uSEZkVVhnaDM0XzlQYUVzS2JxRlZYLUNTYXJiWi1wV3R0cVhPSDJ0MGdvU1dhVkR4VEdiLUFzb0ZrTno2VkN6NDl3cnBtWE5ueUVJWmtUWWQ0bUdHUms2dDJsMjVEb25OYUNT?oc=5",
       "ts": 1787634300000,
       "sentiment": 0.0,
@@ -1491,7 +1495,7 @@
     },
     {
       "title": "Singapur abre una puerta para las exportaciones de Ecuador, según especialistas",
-      "source": "El Comercio Ecuador",
+      "source": "El Comercio",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUzRSdHctOXhKZ1l3cHdNckFrRjRaaS1pVjd6TUpJRkFDS3JrNlJYck1wU2NyZmlRN0JWbEpOakp0MzhqM0VsUlNoRXd5QmxvNHpsZ0Zld1JBVnN3Vmwwb1dyNUc3ZDhzUThXRTEyMExPV2NFeHJldndKeHZQVDRPaHFOZGtzSXN2WEtvVkhpQnRGMW5MdC1xc0dvMEZMNDZLZ0RxdlJOOHF2dU5hRDNGUVBySkEzZw?oc=5",
       "ts": 1787614625000,
       "sentiment": 0.0,
@@ -1545,7 +1549,7 @@
     },
     {
       "title": "¿Por qué el camarón tiene tanto peso en la economía de Ecuador?",
-      "source": "El Comercio Ecuador",
+      "source": "El Comercio",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMlAySWVkNFN0NTExdkZPR1F1U0hSR1ZjeDVaVVhIZnAtMGlSUGYybXlhTFRrSUJKLU5GZTZKMFlvSUlxbU9wRWUwVGphYlRTNE5xM3dvbUlVdmJtU1RHVjlLbElxNFZZODlHZURCM3ZZb0Z6RDVxdkxDazUzRzRHOHBaaDhwWkZ1eWVvQjNnbFRkXzV2aHc?oc=5",
       "ts": 1786863600000,
       "sentiment": 0.0,

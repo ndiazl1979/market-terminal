@@ -1,10 +1,26 @@
 {
-  "updated": "2026-08-29T21:04:10.623750+00:00",
+  "updated": "2026-08-29T23:14:00.117047+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Nvidia se dispara casi un 10%, impulsando su valor por encima de los US$5,5 billones",
+          "source": "Forbes Colombia",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTHA1MC1zcTlsXzFkaDRJWFF6NWd2NFNtQmMyZFlBcGVvNmtlTkJzamlEQllJcTMxeF9lM2dQYnV1OWl1SDBHUWsxX0JQVGFEREhMYkFDVEduY1BaU0lGblNRV3c3T1ZIdlZYdHhzdVlwOXZtd2gwYzhPTmdoT1RWemc3N1oyeENHZlVYNm9sVVpSNW5iSkZ6Q3dVRnFPQQ?oc=5",
+          "ts": 1788026204000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 3.6,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Las acciones de Apple suben un 1,6% ante las tendencias de búsqueda del Watch Ultra 4 y se acerca el juicio del segmento de 7.900 millones de dólares",
           "source": "TechStock²",
@@ -15,23 +31,7 @@
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 1.6,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Nvidia se dispara casi un 10%, impulsando su valor por encima de los US$5,5 billones",
-          "source": "Forbes Colombia",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ0YxNTdNSUVRcTA1MWNFbnZrMklxcU1SZUhwdzdNajkyQndaZFBMVFhEejNZTUh4dV9DTVE4TVI2Tm5hdnZiY2FWY0hnRGd0TVRxbkJ5SlJyeTdxXzhiNHNRcklsdERtb05YS21zQ0ItQUtIVWNnZzBKQXdscFhHZ3h1emJQYm9BVW5SRld3?oc=5",
-          "ts": 1788019063000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 3.6,
+              "pct": 1.4,
               "dir": 1
             }
           ],
@@ -162,16 +162,22 @@
           "category": "tech"
         },
         {
-          "title": "NVIDIA cumplió expectativas y sus acciones se dispararon",
-          "source": "El Economista",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSXdST0ZXOTVzTm45UjJ4dlhuejcyRnJteFR4M1RCRjN2ak5SQzh0T2ZhMmlkQkxYRVFzaDdWMUNIem92Q1BHSnZhUVhUTlp6VkU5bFpWbTZaUTZTNVhDRVVlS05hd29EYnFNOGV3c3RQRnM4Zy0tYmFZbnFsSXVEZWJDX3E0STVvdU5feWkzX3lJLTZhQWVjNWtZYjBVdC1nTjRNQWE5WWFhbGI2YnfSAbMBQVVfeXFMTzN0U3IyRks2SWpiSG9nSFd4RTRkRlBSM3QxWWdoTlBrNEhwU0NtRG8tQlBET1ljT1FVN1RkdmdCTVBCdE0tbjhtczRCbG1BQVFWdXVHQVVjWkwydkNHVW1zaVE0clJUbnh0Sld5X0RkS0hxcEhmQi1qbEJRcTdyOUw1QXVIa2VMaW5fbi10OVJTVzBUMWNJVzhpelBNZlo3Y1UxTUtwVVJ3c09HU2dEdEhkNTQ?oc=5",
-          "ts": 1787887461000,
+          "title": "Las acciones tecnológicas impulsaron al Nasdaq tras los resultados de Nvidia y Salesforce",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdWpOSk1PRzVIQnZDUGNSSi0yZWxkb1BJYi1JelNVd1Vpb3V0cHN3T2xROFBEN3hEYWNOVUtwTFV2a2MyME1nWDJTcU1BSGNCbExBeXpydWt2ZGNsZ0dZM044cm5acWZiN0pMSUZjcmhZNVFwaWRXUEdJOEFOQ3M4cmluRzlQQTgybGc1bmI5aDFxN3FnSjRTME1sdHBYUzdzUzlxTVowaEtISE91ai1CZHZNMnBTdmR3RVpaQngtd2ZjN3ZNVW9qNktGQ0x1SjZJeWRPTGtHd9IB8gFBVV95cUxPZ0RDUy03ZU9wWnZ6UVZKbkR2TDBSVVY4Ny1TVFpNb1lZc3hBQzFSUlFMdG9zZXlydl9rZE1mNlEyTTdCUFJTY25Vd0llQ2FGVkdaS0prTE1YTjRTWEQ4ZGprTERzZmhpWHZyRl8yXzUwYkozQm9JbGtBRGU0S2NjUXhBd0RycG9kOFpMR0JnVWlxeGNqSWtkdDRDNThmNllaUjZNYWlMREpvUjR6eUxaRWo0aFEzUC1Sek1YNWdsOGZEY3RnZEgxM0tVeDI5TWZRR2FLdmdfRm5Qdld4WlMtUW1nUDY0UHV6N1BCMGdyQk0tQQ?oc=5",
+          "ts": 1787867400000,
           "sentiment": 0.0,
           "tickers": [
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.3,
+              "pct": 1.0,
+              "dir": 1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.4,
               "dir": 1
             }
           ],
@@ -222,32 +228,28 @@
           "category": "semis"
         },
         {
-          "title": "Gemini puede convertir tus hojas de cálculo en apps interactivas con su nueva función de IA",
-          "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSGhjNndacl9jcnNSQUxCZ1lyMGs2cUtzUHE1Q1YtaXJ2Nk41R243aTNCeHZjSjVHSUNYdF9HbU1MVnRXb2RaQnNURjhCSUVIaHFZaUhuLWUwOUdMOUxYS1VwUVZkTlRuMEtFYmFrWVU4ckhNN0w2UnZjRjB1N2hRRUMyVUZsOG00RG52bzUxeWttaU1mN3RWTTBic0Y1UVlobXY4Yk9lSmxCR0lGMHQ0TlhfTkZjMk5CZUlvR19DMHJoaGthN3BhTGdLYURTQQ?oc=5",
-          "ts": 1788014820000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Inteligencia de mercado 🔍 @nvidia reportó $59.7 mil millone",
-          "source": "KuCoin",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UM0JaMG9kUTJpcWJDUkhmMkU2N2hhOUNFNzU4OGwtcVZCYmMyWDVBbEU2WjBlUGNEYlpCYzdzdEZ2NlhycXVyM0UxVzhaRGFnczVTWUZJTGI2R1FHY1VLd2x4Mi1DbklvVW1oOGhvMHpiRDNucFJv?oc=5",
-          "ts": 1788012626000,
+          "title": "Caída en Wall Street: semiconductores arrastran al Nasdaq y Nvidia sube precios",
+          "source": "El Ecosistema Startup",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVW1aWFVIYTY4VGZjMnlFaUpwNE05SGJQOWl2ejhCZEpYakFDVlE2cXhqREFQTGhsM1lPRGNxVEplc25yckpWZHhoMHE1TnNQZXdsRlhZNG5lLVpEWWZYS2FoOFJtbkdaeDd3Rlo4aHVHYTVicnVpVmdWSzFSWVhCLW1jM3c3d1ZNazV4ZmJ3TGFSOExJWXdUNVdMYzJMSTVkTFU1ejFCUkcxQmhna2c?oc=5",
+          "ts": 1788019414000,
           "sentiment": 0.0,
           "tickers": [
             {
               "sym": "NVDA",
               "name": "NVIDIA",
               "pct": 1.5,
+              "dir": 1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 0.8,
+              "dir": 1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.6,
               "dir": 1
             }
           ],
@@ -344,6 +346,22 @@
               "sym": "NVDA",
               "name": "NVIDIA",
               "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Meta lanza nuevo modelo de Inteligencia Artificial",
+          "source": "dw.com",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTWFoWnhUcTJYakZqZzVtY2V3TU12TVpGdXg1QTZ2SnhFTHd0RjEzRlQ0NkVQWEpuS0huOThyYzlFd05LOVJ4V1U4OXdJOGJobldXUWZROXF2SngyTkFYWFhEQU1tam9BY2JFR0VCYlNZLVFBUnlSZGx0azRBX0pzZWdRQTd1X3h5ZjNR0gGLAUFVX3lxTFB5UkdPNDZGcFVkUnFpZl9tb1E2RVZNQXNFMEowWjlmSHRLLTNpeFowZTNqcUhTVi1wUE8tYVlfQkI3VGl4dUZwVHhzcjJwSmhKU0dCS2xfakFKN0VsYy1GZ0hicGNkUEd5eDQ1WHd3RFhTbmJsaGh3NTJaOEVvQkFRRm9YcEhPWTRUODA?oc=5",
+          "ts": 1786431600000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -689,7 +707,7 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": 1.7,
+              "pct": 1.3,
               "dir": 1
             }
           ],
@@ -984,22 +1002,6 @@
           "category": "war"
         },
         {
-          "title": "El Ibex registra su peor semana en dos meses mientras la IA mantiene el impulso de Wall Street",
-          "source": "Cinco Días",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeHVkQ2FGZWpOeVZFbUNIUWNVWlFKanRVNG0xejF5cFRIUFo1cFVkX1UzVHhnaVB2UUNOLUhkMjlDYkVsbHFHU3gzUTlYcm9rVVRMbzMwRFVSZUhvRGFaVFpPdjFWV3dfNjNKOVFlZXdrMXhoY29OZW1rd1NTWjl2S01vM3VORS14REYwNWRKdkLSAaQBQVVfeXFMTWZPOGxGWmZ0NHVJZ1pvQkEzSWZSTWd4RmF0OXo5dmFacmhNMks0WXI5VTZhUHBFeWd1SW1VS09KU2RmcmV6QmN2LW1nQTl3RjJjOUwwXy1zcncxRm1HZVlHV3U4MTlLZEhWektCRFZXOUw4R1hvb3g3aXo5Uk81OXJnUERYbnU5RG54amE5RGN4OGVvQ0RNb3ZsU29YTW40LWk5THA?oc=5",
-          "ts": 1783666800000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "war"
-        },
-        {
           "title": "La Bolsa cede ante el cóctel de guerra, inflación y ajuste tecnológico",
           "source": "Cinco Días",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFdPMVR0UGdRRVRXTUc2RVMzbm5MZU9yMWpxY2FGVU9ncTluWU9mbDFyYlhGdjFMLXpUX2VIU1lPaTRxMWlVNmt6MWU5Q2JJaDlhVm5LZmpyWTlDWkZZY2RMWDBxeHR1WXlYNUt4SEQ5YXNtM2tUX3JLN0ZnOTRZTlFldHg4Z1VNZ2FMNVBEcjTSAaQBQVVfeXFMT0c1TzRQNEVWYWdWaDJpU0ZFTGJYd2NTdUNubFdqaTlSVVdnU0Z6ZXV6TllsSUhfc1JtUnFycHRKNUNyUXpmY2s5bnlTZHZLcGY0Q2l1R1VuZlVFNXlGQzcycjRDN1ZlTlVRbXVuZ3hnNDMxel84Y0I0dWhkS29kY0RPWWVRcnlXUzY1RWlmcTA3bll6enJfckxoMURnNm9EdHFCNWE?oc=5",
@@ -1160,6 +1162,34 @@
             }
           ],
           "category": "war"
+        },
+        {
+          "title": "¿Por qué la bolsa sube mientras el riesgo geopolítico aumenta?",
+          "source": "Rankia",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTTVsaXZtQ2FmT3JwRVZVeWhLZmpiZk5aZTRNNUp4bnBOcGMzYVVpSTBuNEt6dXBLME1WRFpuTExDN2F4MWZNTUtMSkFFcFZoTUNvOTZCTlFqbGJRbm1HbEZvd01vX05OeG4wRWFXQVBsQXNDenBubm5RMVYxZ2twZFo3X3N5MUFJbkI1MFBxM0xJNnpYYkRNUzlMWVZlMk9ER3E4dkNR?oc=5",
+          "ts": 1776322800000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -1.3,
+              "dir": -1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": -0.9,
+              "dir": -1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 0.6,
+              "dir": 1
+            }
+          ],
+          "category": "war"
         }
       ]
     },
@@ -1177,7 +1207,7 @@
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.6,
+              "pct": 0.5,
               "dir": 1
             }
           ],
@@ -1208,7 +1238,7 @@
         {
           "title": "El bono que pone nervioso a Wall Street y tumba la bolsa",
           "source": "Negocios.com",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2ZIamJOaUVrMUtRNGpza2ZYOGdfWTJIblNfVE5PRS1Qb3RCYVp2WEtQZWliQTExLXR0TEpTNzF0Ti1qclJpUmJQeDZMMVVpd2daNzVEQl9mWlZuNl9SdVhNNDR3SGprUnZUOXQtVHdJNEIzbU01Q0N3RDBlTU51aE9vU3pHSnRORnRUblRfbE9jaE9oZndDdnpXU0RhX3FreUoyRS1Kb3pfcWtaMDJ5LVRXc3dlNEpid2I40gG7AUFVX3lxTFBLZkhqYk5pRWsxS1E0anNrZlg4Z19ZMkhuU19UTk9FLVBvdEJhWnZYS1BlaWJBMTEtdHRMSlM3MXROLWpyUmlSYlB4NkwxVWl3Z1o3NURCX2ZaVm42X1J1WE00NHdIamtSdlQ5dC1Ud0k0QjNtTTVDQ3dEMGVNTnVoT29TekdKdE5GdFRuVF9sT2NoT2hmd0N2eldTRGFfcWt5SjJFLUpvel9xa1owMnktVFdzd2U0SmJ3Yjg?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbTR6NEVfdHFXQWNIcVc4RHNRb0JfUzNkb1kza3BRTGFwU3ljNWtYMmE4NVZ0RTVuSGc5V3YyWnN4ZDJoZnBwQTQyRm51bjRSRkZGbWQ5SDBTd1d3SnY5aXZ5ZTdBLVNhS3ZyWU1tY09HN0NPZlNkLVBMM3EtM3EzR01jQThyMUF1MWZmOGhtczBPZHRLenZ3Z2JabDhuVVRlaEVUdjVnRUhZVDdCY3ZNMFJfZGdLd9IBuwFBVV95cUxQS2ZIamJOaUVrMUtRNGpza2ZYOGdfWTJIblNfVE5PRS1Qb3RCYVp2WEtQZWliQTExLXR0TEpTNzF0Ti1qclJpUmJQeDZMMVVpd2daNzVEQl9mWlZuNl9SdVhNNDR3SGprUnZUOXQtVHdJNEIzbU01Q0N3RDBlTU51aE9vU3pHSnRORnRUblRfbE9jaE9oZndDdnpXU0RhX3FreUoyRS1Kb3pfcWtaMDJ5LVRXc3dlNEpid2I4?oc=5",
           "ts": 1787899351000,
           "sentiment": 0.0,
           "tickers": [
@@ -1364,8 +1394,8 @@
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 9.3,
-      "n": 18
+      "net": 8.4,
+      "n": 19
     },
     {
       "sym": "ASTS",
@@ -1374,46 +1404,40 @@
       "n": 2
     },
     {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": -2.8,
-      "n": 16
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 2.6,
+      "n": 3
     },
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": -2.7,
-      "n": 16
+      "net": -2.2,
+      "n": 17
+    },
+    {
+      "sym": "SPY",
+      "name": "S&P 500",
+      "net": -2.2,
+      "n": 17
     },
     {
       "sym": "AAPL",
       "name": "Apple",
-      "net": 2.2,
+      "net": 2.0,
       "n": 2
-    },
-    {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": 2.2,
-      "n": 3
-    },
-    {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 1.8,
-      "n": 2
-    },
-    {
-      "sym": "WTI",
-      "name": "Petróleo WTI",
-      "net": 1.6,
-      "n": 24
     },
     {
       "sym": "AMZN",
       "name": "Amazon",
       "net": 1.4,
       "n": 1
+    },
+    {
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "net": 1.4,
+      "n": 2
     },
     {
       "sym": "AMD",
@@ -1438,6 +1462,12 @@
       "name": "Lockheed Martin",
       "net": 0.8,
       "n": 2
+    },
+    {
+      "sym": "MSFT",
+      "name": "Microsoft",
+      "net": 0.7,
+      "n": 1
     }
   ],
   "ecuador": [
@@ -1511,6 +1541,14 @@
           "dir": -1
         }
       ]
+    },
+    {
+      "title": "Ecuador alista embarque de prueba para el reingreso de banano al mercado de Brasil",
+      "source": "El Universo",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPYzR0aTUxZHdfNTZqVUR2bkd3WnBHLUptd3JpTmdjZ3o5SEJXdU5raC1jdnBIS3MxV3FmUlNwRHlfZ2dwWHJyN21BeDVWZDNKUWlnN3FYRWlNNkY1MEIzWTBLODVvNHIwOFVzTmFqNkRzeHRTVmdFTDk0YWxEbmFSbjlfb0djcHBDWUtKYlVhTzZyOTRJcmk4d2s2aU9EMl81Ml8tUnpHeS1KWXdvSzEyWXFyaUVQY3ZucVpUS2dnQVRXOE5XeTU4MFZ5b3J2dnRRTWg3M1JDVXlNOXZVN05MOVA5cnlZdUExcTk1cTlYWlNsbVE5czVXQ9IBjAJBVV95cUxOaWtDMlZwSkJsZ1o4QlpOTllnWU4zQlpuX05fUmpBWnpvNUYyTmJweVdodzRSV1JKcFpuMkU0NmVOVGQyZ3JUSGtxNG1EeURKZ2R0NmdtZW9UTmhvaVhnYkpmRXEtZmozNHhXXzUtYVZWRmhOOGtJbW42NDZFNzlkTmVJcWlJNGQwOFNaOEpQVU52eGstcTRrbTU5ZVE1T1BScGxQanJyd25Eb19kM25JLWYyVVctbnppbkJEMWRSME5tTTdFTzZFMXNvVWk2TUV2TmNrVGR6c1Nqb3BMaGNvNUhDZmZTNnBvWGxkTUJtdHZxNTBwV0cwYlBhenF4SjNuSmxxd1luME53SVAz?oc=5",
+      "ts": 1787122800000,
+      "sentiment": 0.0,
+      "tags": []
     },
     {
       "title": "La balsa ecuatoriana busca blindar su presencia en los mercados internacionales",
@@ -1593,21 +1631,6 @@
           "name": "Riesgo país (EMBI)",
           "pct": null,
           "dir": 1
-        }
-      ]
-    },
-    {
-      "title": "Bolivia reduce su riesgo país y se mantiene por debajo de Argentina y Ecuador",
-      "source": "Red Uno",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMGNuc1JEZzNJSHdVb1BGWVEwNlVHSjZuS3ZETmZSLXdFYm91QXlfYWE1WXFlb08tcGJjdnRXbkxCbmVJV3dhQ0REWE0wU1JsVnp3VHF2MlhfcDFNSXFTV1h1cmoyOVF6TjB5LWdHbUJ5U0U0OEl4akl2dXhjR0xBRTNUenJxNXJUcHVSQzdTbFJuRGFac3V3bWYyeDk2Q3F3aEU3YjJmT05TczlTX1Q0NXF5djhmLUhtNUFvdnlSSDBrcVk?oc=5",
-      "ts": 1786777200000,
-      "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "RIESGO PAÍS",
-          "name": "Riesgo país (EMBI)",
-          "pct": null,
-          "dir": -1
         }
       ]
     }

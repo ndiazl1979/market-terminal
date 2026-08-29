@@ -1,4 +1,4 @@
-name: "Update market & World Cup data"
+name: "Update market data"
 
 on:
   schedule:
@@ -8,7 +8,6 @@ on:
     branches: [ main ]
     paths:
       - "fetch_data.py"
-      - "fetch_worldcup.py"
       - ".github/workflows/update-data.yml"
 
 permissions:
@@ -35,18 +34,14 @@ jobs:
       - name: Fetch market data
         run: python fetch_data.py
 
-      - name: Fetch World Cup 2026 data
-        run: python fetch_worldcup.py
-        continue-on-error: true
-
       - name: Commit data if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data.json worldcup.json
+          git add data.json
           if git diff --staged --quiet; then
             echo "Sin cambios en los datos"
           else
-            git commit -m "chore: actualizar mercados y Mundial [skip ci]"
+            git commit -m "chore: actualizar mercados [skip ci]"
             git push
           fi

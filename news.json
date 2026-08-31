@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T21:58:21.083255+00:00",
+  "updated": "2026-08-31T00:14:36.401306+00:00",
   "categories": [
     {
       "key": "tech",
@@ -15,7 +15,7 @@
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -31,13 +31,13 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.5,
+              "pct": 1.3,
               "dir": 1
             },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.6,
+              "pct": 0.5,
               "dir": 1
             }
           ],
@@ -190,10 +190,26 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "Resumen semanal: Aumento de ingresos, capex de $60–$64 mil millones y producción de chips de 3 nm/6 nm para Xiaomi",
+          "source": "TradingView",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14UUxnWmN4bzROdDlFNENJNWxTa2doSWRWOWVXaV9NT2labTZhNVROM29uNWk2Y1FUZ0ZlR2hNYnlBNS1YdE56R2RtVTlOMTRpUVFoaHJjMUxQSE9zQjFyRzZiaE1GeVJQSjZKcg?oc=5",
+          "ts": 1788131642000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Google prueba a 240 km/h una inteligencia artificial que asiste a pilotos de Fórmula E en tiempo real",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQclhWVXBOdW0wU3dzYi1DSG1JMG00b3l3OGJSTFJjVnRGRFdidnh3b2lDTm9uSVdfUG1GNzdHUnVnSk9QYzdIdk9UQzY1eUpFYU1BVGRPTEVha0ViQ1hvSldwUExzckU4MGVMZ0VOZGlvWE1aVzNOTGJwSFRHTlppMmRyODk2aGJlYzE5Qm52REcwcGwwQ1J4X005cnVQazhRN1NQOEUyZ0xSd2txOVQ2bDF3NnBSTDR2VVJDOE1QVDBvaWI0bnBkLWhpa1pYMk1ubUFVNlItdExTRUV4QlHSAfgBQVVfeXFMTzBfaHo3NnpRWlBaT0FxLXNXQURkMWRMZUVBcjdKc2xyTEZSbi1ZMGpPWkJTRmFGVGlhZlR1UTFqVnk2elhPZno2REpUZ2NzZVpyUjZMQUZYem05LU9hOWV1TlkxcjRBbnFSNm9ESXZ3TG9sejJUTXVvRmVGQnVIQzBjSHNibHY5ZVFYNGNQTGp2a0hPdjY4dlhnWk0xcTlGb29yNjNlMU5OUWQ5SEpTcXBaM1NQSEd2TkJUQ3dPOThETjROVFhYbm1zVGlLOHQwNWR5NmtPUmpmNXNFTlRVR1gxV1RBSjdSTElxRUVOYUw4MUg4RVI0N24?oc=5",
-          "ts": 1788116289000,
+          "ts": 1788119220000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -209,7 +225,7 @@
           "title": "OpenAI y Google advierten sobre riesgos de IA en ciberataques",
           "source": "MILENIO",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONEQ2UVlWemM3NDdEY1ozRElTX3dDOFdzVllKZ0hjaU9yZjMzNkJGLWhtNWkxQjZ4Rmx3dW9ScTA2UFY4b0lGUXJmeTJBUHl6cnBXWkR4cmZSQTNXR2FCdDZ0c3lWa1NTMUNxaE5qQlIybHRCVEdTaHQzcU95d2h2UkNVb3VXV0UzMl84dENDQzhlSGF4RWlkZ1c2cmRJR0poY3Z1UHJ6WUVNbVRPM0VKZXNld9IBswFBVV95cUxNazk4bmFWQU9kY1BSY3JKeEk5X0dVdUhiSmVJbGlQak9pSkF2TnVFY0FtN19ISkVaMGpOV0hnM0M0Q09reE5lTkNnVmdOZ0VMNGphYWRveXFSeTVSZmRoTUpQcXRYY21CZy1HUWFCODBKMUROdnZVX2NmWU1xdVRzWXZhbVQ1cThadFBBckxqeEs3U0dSeUs1UlVGM3Zsc19ydVhzNzd3OExpM1phMHR1SXpqcw?oc=5",
-          "ts": 1788104212000,
+          "ts": 1788113004000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -225,7 +241,7 @@
           "title": "Nvidia lleva la IA local a la pelea contra Apple con su chip RTX Spark",
           "source": "DiarioBitcoin",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2RxNFQ4YWxOMzdjUGdiXzlsSFBwaGY5R25SRlNrQ3FGOXBQejdLaGEydjktT2RtblU0OVJQV1JxM3l4RlJJNElfNWdBcWdjTzdWU1NKMl9HYVpTTzdCY2k1QktoQUVXWW8zakp5TldaMFJDY0tCV1NBSW5DOHVqUEh4OEhOVlBHUUYwWFY1SGM2TzFSTFFCYXFESmlPWGQzd3dhclQ2SjFQWnIxU3FPMjhR?oc=5",
-          "ts": 1788102324000,
+          "ts": 1788105933000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -340,28 +356,6 @@
               "sym": "SMH",
               "name": "ETF Semiconductores",
               "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Predicción del precio de las acciones de TSMC: A medida que la demanda de chips de IA se intensifica, ¿podrá TSM alcanzar nuevos máximos en 2026?",
-          "source": "TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQck8wRW8wczdXOFBNUDRoSE1aUEQyVXpMODZ3ZW41eXBUa1lnYS1FMDR6Z3lqN052c1hiRmg0VXgzQ3piS1F3NmN4OUZZOElPLU9PYjlYUGRWYkJrNlhYWWhVWGh4MGVZTXZ6NWktZG1aQ0JzTm9qVXFSMW1jTEJ2RkduUTZRS1pkMmdVUllCRTB2STJzbzgxOXU4QjV5Si1tWS1IZ3pSNDc1d3Jj?oc=5",
-          "ts": 1788030481000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSM",
-              "name": "TSMC",
-              "pct": 0.8,
-              "dir": 1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -1219,7 +1213,7 @@
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.5,
+              "pct": 0.4,
               "dir": 1
             }
           ],
@@ -1406,13 +1400,13 @@
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 6.0,
+      "net": 5.8,
       "n": 8
     },
     {
       "sym": "AAPL",
       "name": "Apple",
-      "net": 3.7,
+      "net": 3.6,
       "n": 5
     },
     {
@@ -1434,15 +1428,15 @@
       "n": 3
     },
     {
-      "sym": "AMZN",
-      "name": "Amazon",
-      "net": 1.7,
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 1.8,
       "n": 2
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 1.5,
+      "sym": "AMZN",
+      "name": "Amazon",
+      "net": 1.7,
       "n": 2
     },
     {
@@ -1452,21 +1446,15 @@
       "n": 5
     },
     {
-      "sym": "AMD",
-      "name": "AMD",
-      "net": 0.9,
-      "n": 1
-    },
-    {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": -0.8,
+      "net": -1.0,
       "n": 16
     },
     {
-      "sym": "TSM",
-      "name": "TSMC",
-      "net": 0.8,
+      "sym": "AMD",
+      "name": "AMD",
+      "net": 0.9,
       "n": 1
     },
     {
@@ -1474,6 +1462,12 @@
       "name": "Lockheed Martin",
       "net": 0.8,
       "n": 2
+    },
+    {
+      "sym": "RTX",
+      "name": "RTX (Raytheon)",
+      "net": 0.7,
+      "n": 1
     }
   ],
   "ecuador": [

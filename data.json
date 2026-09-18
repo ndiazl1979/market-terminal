@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T23:42:08.369666+00:00",
+  "updated": "2026-09-18T01:30:14.151834+00:00",
   "assets": [
     {
       "symbol": "AAPL",
@@ -20,9 +20,9 @@
       "eps": 8.71,
       "dividendYield": 0.32,
       "beta": 1.08,
-      "sma50": 319.62,
-      "sma200": 285.67,
-      "rsi": 65.4,
+      "sma50": 319.14,
+      "sma200": 285.38,
+      "rsi": 62.2,
       "signal": "COMPRA",
       "signalScore": 65,
       "signalReasons": [
@@ -30,22 +30,23 @@
         "Precio sobre SMA200 (tendencia larga alcista)",
         "Golden cross (SMA50 > SMA200)",
         "MACD sobre señal (momentum alcista)",
-        "RSI 65: neutral"
+        "RSI 62: neutral"
       ],
       "quant": {
-        "volAnnual": 25.09,
-        "sharpe": 1.54,
-        "sortino": 2.3,
+        "volAnnual": 25.11,
+        "sharpe": 1.49,
+        "sortino": 2.22,
         "maxDrawdown": -13.8,
         "var95": -2.14,
-        "ret1m": 8.7,
-        "ret3m": 13.97,
-        "ret1y": 42.19,
-        "macd": 1.677,
+        "ret1m": 8.78,
+        "ret3m": 11.18,
+        "ret1y": 40.25,
+        "macd": 1.529,
         "macdState": "alcista",
-        "bollPctB": 94.8
+        "bollPctB": 87.6
       },
       "spark": [
+        325.61,
         321.38,
         332.73,
         336.62,
@@ -84,8 +85,7 @@
         332.27,
         333.08,
         331.34,
-        332.41,
-        337.0
+        332.41
       ],
       "currency": "USD"
     },
@@ -103,37 +103,38 @@
       "week52Low": 297.38,
       "volume": 38770658,
       "marketCap": 1446324338688,
-      "pe": 342.24,
+      "pe": 332.91,
       "forwardPe": 166.64,
-      "eps": 1.07,
+      "eps": 1.1,
       "dividendYield": null,
       "beta": 1.84,
-      "sma50": 351.09,
-      "sma200": 397.65,
-      "rsi": 54.8,
+      "sma50": 351.65,
+      "sma200": 397.97,
+      "rsi": 51.1,
       "signal": "MANTENER",
-      "signalScore": 3,
+      "signalScore": -21,
       "signalReasons": [
         "Precio sobre SMA50 (tendencia corta alcista)",
         "Precio bajo SMA200 (tendencia larga bajista)",
         "Death cross (SMA50 < SMA200)",
-        "MACD sobre señal (momentum alcista)",
-        "RSI 55: neutral"
+        "MACD bajo señal (momentum bajista)",
+        "RSI 51: neutral"
       ],
       "quant": {
-        "volAnnual": 46.5,
-        "sharpe": -0.05,
-        "sortino": -0.06,
+        "volAnnual": 46.54,
+        "sharpe": -0.1,
+        "sortino": -0.13,
         "maxDrawdown": -39.1,
         "var95": -4.64,
-        "ret1m": 8.71,
-        "ret3m": -7.61,
-        "ret1y": -12.15,
-        "macd": 0.194,
-        "macdState": "alcista",
-        "bollPctB": 72.7
+        "ret1m": 5.53,
+        "ret3m": -11.51,
+        "ret1y": -14.1,
+        "macd": -0.037,
+        "macdState": "bajista",
+        "bollPctB": 50.6
       },
       "spark": [
+        374.01,
         319.69,
         313.03,
         309.22,
@@ -172,8 +173,7 @@
         365.44,
         358.97,
         356.58,
-        358.08,
-        366.2
+        358.08
       ],
       "currency": "USD"
     },
@@ -191,14 +191,14 @@
       "week52Low": 164.27,
       "volume": 92845751,
       "marketCap": 5296402989056,
-      "pe": 27.73,
+      "pe": 27.01,
       "forwardPe": 14.05,
-      "eps": 7.91,
+      "eps": 8.12,
       "dividendYield": 0.47,
       "beta": 2.22,
-      "sma50": 213.67,
-      "sma200": 197.81,
-      "rsi": 51.9,
+      "sma50": 213.36,
+      "sma200": 197.59,
+      "rsi": 46.9,
       "signal": "COMPRA",
       "signalScore": 41,
       "signalReasons": [
@@ -206,22 +206,23 @@
         "Precio sobre SMA200 (tendencia larga alcista)",
         "Golden cross (SMA50 > SMA200)",
         "MACD bajo señal (momentum bajista)",
-        "RSI 52: neutral"
+        "RSI 47: neutral"
       ],
       "quant": {
         "volAnnual": 38.06,
-        "sharpe": 0.77,
-        "sortino": 1.16,
+        "sharpe": 0.71,
+        "sortino": 1.06,
         "maxDrawdown": -20.21,
         "var95": -4.13,
-        "ret1m": -0.07,
-        "ret3m": 7.3,
-        "ret1y": 24.75,
-        "macd": -1.182,
+        "ret1m": -4.83,
+        "ret3m": 3.24,
+        "ret1y": 21.66,
+        "macd": -1.571,
         "macdState": "bajista",
-        "bollPctB": 53.6
+        "bollPctB": 32.3
       },
       "spark": [
+        211.82,
         208.53,
         206.61,
         196.29,
@@ -260,8 +261,7 @@
         218.29,
         210.96,
         212.17,
-        213.9,
-        219.34
+        213.9
       ],
       "currency": "USD"
     },
@@ -269,21 +269,21 @@
       "symbol": "BTC",
       "name": "Bitcoin",
       "type": "crypto",
-      "price": 76375.0,
-      "change": 307.5,
-      "changePct": 0.4,
+      "price": 76517.0,
+      "change": -57.15,
+      "changePct": -0.06,
       "dayHigh": 77024.0,
       "dayLow": 75972.0,
       "week52High": 126080.0,
       "week52Low": 67.81,
-      "volume": 23771502010,
-      "marketCap": 1534044030179,
-      "circulatingSupply": 20085834.0,
+      "volume": 23457755823,
+      "marketCap": 1536914097081,
+      "circulatingSupply": 20085856.0,
       "ath": 126080.0,
-      "athChangePct": -39.42,
-      "sma50": 72148.32,
-      "sma200": 70326.92,
-      "rsi": 50.9,
+      "athChangePct": -39.31,
+      "sma50": 72383.88,
+      "sma200": 70365.45,
+      "rsi": 51.4,
       "signal": "COMPRA",
       "signalScore": 41,
       "signalReasons": [
@@ -294,20 +294,19 @@
         "RSI 51: neutral"
       ],
       "quant": {
-        "volAnnual": 36.71,
-        "sharpe": -0.61,
-        "sortino": -0.84,
+        "volAnnual": 36.7,
+        "sharpe": -0.62,
+        "sortino": -0.85,
         "maxDrawdown": -53.05,
         "var95": -3.61,
-        "ret1m": -4.86,
-        "ret3m": 19.71,
-        "ret1y": -34.41,
-        "macd": -745.964,
+        "ret1m": -1.68,
+        "ret3m": 19.74,
+        "ret1y": -34.7,
+        "macd": -687.351,
         "macdState": "bajista",
-        "bollPctB": 21.5
+        "bollPctB": 26.2
       },
       "spark": [
-        64856.1,
         63915.71,
         63537.56,
         63408.63,
@@ -346,7 +345,8 @@
         78173.35,
         75590.24,
         76146.81,
-        76366.82
+        76371.36,
+        76516.77
       ],
       "currency": "USD"
     },
@@ -354,21 +354,21 @@
       "symbol": "ETH",
       "name": "Ethereum",
       "type": "crypto",
-      "price": 2446.2,
-      "change": 31.71,
-      "changePct": 1.31,
+      "price": 2448.42,
+      "change": 12.42,
+      "changePct": 0.53,
       "dayHigh": 2478.98,
-      "dayLow": 2412.84,
+      "dayLow": 2415.23,
       "week52High": 4946.05,
       "week52Low": 0.432979,
-      "volume": 12034887871,
-      "marketCap": 298576392031,
+      "volume": 11739017977,
+      "marketCap": 298835118176,
       "circulatingSupply": 122056009.605603,
       "ath": 4946.05,
-      "athChangePct": -50.54,
-      "sma50": 2227.93,
-      "sma200": 2066.94,
-      "rsi": 54.1,
+      "athChangePct": -50.5,
+      "sma50": 2238.56,
+      "sma200": 2069.04,
+      "rsi": 54.3,
       "signal": "COMPRA",
       "signalScore": 41,
       "signalReasons": [
@@ -384,15 +384,14 @@
         "sortino": -0.78,
         "maxDrawdown": -66.62,
         "var95": -5.08,
-        "ret1m": -2.62,
-        "ret3m": 31.27,
-        "ret1y": -46.77,
-        "macd": -24.758,
+        "ret1m": 0.25,
+        "ret3m": 33.01,
+        "ret1y": -46.7,
+        "macd": -23.43,
         "macdState": "bajista",
-        "bollPctB": 38.7
+        "bollPctB": 40.8
       },
       "spark": [
-        1908.94,
         1871.4,
         1880.49,
         1877.74,
@@ -431,7 +430,8 @@
         2514.76,
         2397.5,
         2415.96,
-        2445.55
+        2446.14,
+        2448.47
       ],
       "currency": "USD"
     }

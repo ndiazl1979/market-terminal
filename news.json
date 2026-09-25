@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T23:52:18.569962+00:00",
+  "updated": "2026-09-25T01:58:44.580417+00:00",
   "categories": [
     {
       "key": "tech",
@@ -37,13 +37,13 @@
             {
               "sym": "META",
               "name": "Meta",
-              "pct": 1.2,
+              "pct": 1.0,
               "dir": 1
             },
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -59,7 +59,7 @@
             {
               "sym": "META",
               "name": "Meta",
-              "pct": -2.4,
+              "pct": -2.0,
               "dir": -1
             }
           ],
@@ -75,7 +75,7 @@
             {
               "sym": "META",
               "name": "Meta",
-              "pct": 2.4,
+              "pct": 2.0,
               "dir": 1
             }
           ],
@@ -91,7 +91,7 @@
             {
               "sym": "META",
               "name": "Meta",
-              "pct": -2.4,
+              "pct": -2.0,
               "dir": -1
             }
           ],
@@ -196,6 +196,72 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "Geopolítica sacude los mercados: Petróleo, inflación e inteligencia artificial redefinen dónde se mueve el dinero",
+          "source": "Comercio TV",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVW5laS1CZXc0bkJnVUlsVGtaamstWnR0TWQwZ2xta2dvR3ZZOXo1QVVVeHVXRTFHa1lIYWViYmxwbWp0N1htMEtVQjhXYTFjMjlRZGRLRml0MDl1dEhGRUliSlk1cnp3QXl6dUdMSXB1NEtUZ2NUaW1uRjFuR0VTWkRXRnV3YU9TdU5pZVJ2VjhzRERvbkRtLW9fbmZCc0dwN2FlNzVxTGhUaGNUMVh6OW1fWWk0dXlwcFhmWXRRRGJUY1RL?oc=5",
+          "ts": 1790297701000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": 1.2,
+              "dir": 1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 0.5,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "La NSA destinaría miles de millones a probar modelos de inteligencia artificial",
+          "source": "diariobitcoin.com",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMFR4Y2xaYTdRTmJXZUlUVGFFVlZQUHpxYnhZN0JyMWdvWVlTME9kQ0F2elRuY0NESE4zUEhLbkZuc3pGV2NUQzVoOWZCbHo2RFZLNDIyUmxCNGJpVmRDazVRcml0aUdKZEFwcm04M1dTWWplLW5uWWRfY09ZcjZ0N3pSTVNuS3hSeTZUbWYwVjI0NHRJSG5nNVdFNldIdnFrMFhxU0lZSGNDX2kxb3V1U2I2UjROd1l0TUpfWXZB?oc=5",
+          "ts": 1790297474000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Apple estrena en Chile los nuevos Mac mini y Mac Studio: más potencia para inteligencia artificial y precios desde $1.049.990",
+          "source": "La Tercera",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYTN3T1dRb1ZPTFdCWlBuT21pcGhlQXI3VVBJMTRLWFdpbnEwdGxXWEc5Vll2OFdub01NM2lPaEJ3RFhJX1RTakRncGFXRlo5UTdEYzBDUG9INmhKdms5U3hOcnpVbkNldG5fUVNaQThBbERTY2hGeW9lYlNUeFJwRERibWYtXy1KTnZ1V09lcGI0MExRYnE2bWZrZ1laV19WX1FWMkpR0gHHAUFVX3lxTE5yV1NCRjM4a1dqbkF0ZlNNSkc0RFM1U21zSlluYklNQTZEWnZBU095NjE4bThEbVlBZzdsRkFqdk1saFloYlVmS3lRcGRKSEZLMC12QWZjQk5jM2xzX3J4SE1ncTlqQlM4MC1lUFFqdGtlcVpDTFg2Zm05OTEwZFVIVE5ISk9uX001UWltdXRVWVJYZ3JmOGFWQmpHc1hMa2N6R3NrVi00ZmNLYjZWdE92S3NHZDZBUHRWTmV4cURMbkVjM2RBZWM?oc=5",
+          "ts": 1790297336000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            },
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Google lanzará al espacio un satélite experimental para probar centros de datos de inteligencia artificial",
           "source": "NTN24",
           "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPM2FWbU9Vb0t6Z1pBSDR3V0dzRWtHTmhrUm4xam5wNHRJbjRHY2g1WGFjQzFweDNRS3o5eU1KdWV0VmtWUVZoaTMxTEJNZ3BnYktUOElRbU9kazl5cV9lOXRES3h6R1pnZGxtOE5RejZLaVNmR3p1R0FMYXZHU0plNWloZXpRdVlqRTZWSVlvSWlXRFM4VEdWbWNOSWFKVUhQMDFmTkFDUG9Ea1pZQWpFQ3M3ZVQxcXkwRGFsc2F1UldmWWF5TlRSQmk1QUVNRjBHSTU4MWJITWgxcXhDQzN0NnFfMWxaRjRWNnJXWWoyejZhQzZOM1pQWNIB-AFBVV95cUxQSU1tMTd6NThFV0lwcnd2WDFZb0lhbHo5Yl9IX3JYZmhjLVpfWlhNVkpURXdXcWNkLXdET2Jmd21URUdwZll2djY2RDRRRWtpMDlmZWRFM0xKSWVfeFRzRENncjR3Tm1JU09FVTZXeTNWSmtNemhaR1NSZWpwbWlPT21WbUJtTkMtcmZCVjBDVjhNblVCRmhHQWVWZXpkZ3lNTDZGaXVTU2FVcEduS05jT3Z3WVowcVFJaFpTdVh4b21QOURUUEtXMWF5Y0tOYmZCaU5SWTVnelJ5czRWWDFjdnhqTEJZeWszT3VjSzdkQmNTV3NQd3RsMw?oc=5",
@@ -229,7 +295,7 @@
         },
         {
           "title": "Google: 59% de profesionales en Brasil ya usan agentes de IA",
-          "source": "El Ecosistema Startup",
+          "source": "ecosistemastartup.com",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYm42a1pJalhOTk1EREc1U0JHMFZCWk1sWGZIc0w2Q3RXRmtnWFppYUZ2QzBaX0FrbmtOdlNyQ0RvLW0xN2F6ZDVnYVFZOVVzelFMM1d0NnZQSTNyMnAxZG5rYVExaWdJVy1IN0ZTdjRGNlcwUktjY0wwcnNySmRJZ09WSTBzdkVvNWVSLWZMRzVlazQ?oc=5",
           "ts": 1790278607000,
           "sentiment": 0.0,
@@ -237,7 +303,7 @@
             {
               "sym": "GOOGL",
               "name": "Alphabet",
-              "pct": 0.9,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -247,45 +313,35 @@
           "title": "Google probará chips de inteligencia artificial en órbita con proyecto Suncatcher -",
           "source": "Petróleo y Energía",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOUFxbW1jQVowZHhFWm1zb0o0M3hELWktUmZ6amhPVldrdTZ5SlN4U2ozbGZVQks2M0Vmck95U3J2TzZSdW1oRWJxaGNaMmFuekNrRmJMbGhFYzlFVHFMRm84WEJRMXp5UVJRRzNxY2pDTUZpaVJEWkhrY29jWjBBX05UYzhIQzNSeWxKMHlKTnJkbmE3Tkl3LUdQX25YaTU3MnBSU3ctVU9rd3VzQ2FjSUlyMENCMFpzVmx5SkhoN3ktald1UjViMg?oc=5",
-          "ts": 1790278052000,
+          "ts": 1790278330000,
           "sentiment": 0.0,
           "tickers": [
             {
               "sym": "GOOGL",
               "name": "Alphabet",
-              "pct": 0.9,
+              "pct": 0.8,
               "dir": 1
             }
           ],
           "category": "semis"
         },
         {
-          "title": "Meta revive el espíritu del Tamagotchi con Muse Charm: una mascota de bolsillo impulsada por inteligencia artificial",
-          "source": "guapacho.com",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX2tVZUcwRWxFemdCZnphbW0zRVZpM1ZRZ0lCaE5QYmpENFVIMU9PNTZrQTJFMm16UWxBWVFDQ01LbFUwN1FlbFJQQTNycXllLUY3ZnJFZEt4Wk5jaHE2VHhENWhiU2dNQlN4clRQbUFJQU5XNjYySEw5SGZBdnN3bXp4Nk5BRU9SQW9BWHZabUxmZEJIU3VOU2ttSnluRS05bkhXVmhHUUtZTDNtN0RqQXFXQVRjeXh2RWd1X1duTDAteWo5bGdUcFdIb0xOYmRPUWNj?oc=5",
-          "ts": 1790277931000,
+          "title": "Desde contestar mensajes hasta ejecutar acciones: así funciona Muse, la nueva inteligencia artificial de Meta",
+          "source": "El Sol de México",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdWF4ZThrQVJyRC1kQ3BHOW1UamxveFdnMXBVUzdFUWtCVFRxTGIzQkxsT3JUVXN0amxiYmMwSmxmREFfMFpLbVVYOFNPTVpyYWtCVTF0ODNFRHpsNEFHaTd2VVlRZmh3Tk9MTkh6UFUtaWVBaHhISU01dUViT1hYTlR4OHVETzAtaDhuc1o1SlMwTE1DS1JBVWZBU3ZpLVZSUENyS1h0R2ZNWWNkZFg3VUpjb1RoSnZQR0FfT0NTaU5EcXVWTUYyUTJhWV9fT1BNQlROWF9HVmZZOWZvQVQyMjlyOE02SVYwbEVj?oc=5",
+          "ts": 1790277543000,
           "sentiment": 0.0,
           "tickers": [
             {
               "sym": "META",
               "name": "Meta",
-              "pct": 1.2,
+              "pct": 1.0,
               "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "La NSA destinaría miles de millones a probar modelos de inteligencia artificial",
-          "source": "diariobitcoin.com",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMFR4Y2xaYTdRTmJXZUlUVGFFVlZQUHpxYnhZN0JyMWdvWVlTME9kQ0F2elRuY0NESE4zUEhLbkZuc3pGV2NUQzVoOWZCbHo2RFZLNDIyUmxCNGJpVmRDazVRcml0aUdKZEFwcm04M1dTWWplLW5uWWRfY09ZcjZ0N3pSTVNuS3hSeTZUbWYwVjI0NHRJSG5nNVdFNldIdnFrMFhxU0lZSGNDX2kxb3V1U2I2UjROd1l0TUpfWXZB?oc=5",
-          "ts": 1790277348000,
-          "sentiment": 0.0,
-          "tickers": [
+            },
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -318,38 +374,6 @@
               "sym": "GOOGL",
               "name": "Alphabet",
               "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "¿Cómo ha cambiado el autocuidado de diabetes tipo 2 en la era de la inteligencia artificial?",
-          "source": "saluddigital.com",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbWZBU053QkxhRzdvWmFfMUFIWEVfak1rS1RrX256MzB4alVUTTBqZlJwa2ZKdnN1U3VYMHhaYzFWUFJoc0ZyYjRqcW9oakVUMmo2T1hXc2UzU25FZzJXQTdBazFHcmZxN1A5NW5XbHJQUEJON2lzOHAzZDB1NDNqSHlNajJicnZha1VGMEtGei0tWXBBWGZsZHdfbnIwY0Fqb04tUEM3MFIzSUQzR0RQWGZNRXNwS0xjcW8xano1VDU2RkE?oc=5",
-          "ts": 1790269541000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Meta revive el Tamagotchi con Muse Charm, un compañero de bolsillo impulsado por inteligencia artificial",
-          "source": "Gizmodo en Español",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY2VtLVppQndiWFdMeXBKZTRyUEZVSG9HY3NlR2loUmszRTRFVHYtckk4N0k0cm9weEtPT1hRNS1jenNCYjJrWF9fanVQV3FYQlJMWWpJemlEZG1xdlFIWDB3cEtCZEUzX1B1dzAyWFBoOXZpQlNwSjJrNFY0WGd4eWEwZVo3Y2ExSnFZMEo2U1FRZkZyLWZPaTdiRGwwcUh6aTNfcnk1LXRJVU5pUHNrTXJHTUhsWkxBcmpZb0cwOWRDVHdZT3ZoV1ZaX0lwUDdtN2gw?oc=5",
-          "ts": 1790267840000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 1.0,
               "dir": 1
             }
           ],
@@ -427,7 +451,7 @@
         },
         {
           "title": "Wall Street está a punto de recibir el primer informe de ganancias de SpaceX",
-          "source": "cnnespanol.cnn.com",
+          "source": "CNN en Español",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM0N5QU1OckN3dE1yVk9RekhtZG1Jdi00RjZ5MnF4OERrNm1tdnowQ0dLWE81RU1aVmhTQWJlYUpzWWM2Q1o5Y0w0aE1YRVA1MXo0RmFJQll5LVhpZmR3OW0zZUQ1WUVGTGdEU1paSVE1STFXR1ZBelpvT25EdWJlUkU2b3BucDVJWjh0ODRmejlvZlpkYlo1NEpNNA?oc=5",
           "ts": 1785826800000,
           "sentiment": 0.5,
@@ -506,29 +530,17 @@
           "category": "space"
         },
         {
-          "title": "Bezos acelera en la carrera espacial frente a Elon Musk y abre su Blue Origin a nuevos inversores",
-          "source": "EL PAÍS",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSGVfSEp5bUc5WkxOTHlMMHRkc1JiQ1FVS2NQbUhZUTU4NjVQeE1EMEtSVWQ5YUljUUNqT1dRWnFWZzVwNGJIWEN6Z1RHcFZpSGhMNjFxNTJVME5KTkk3bjluQWhxQ05JQ0JzQW1jT3Mwa2RKRnlCWW5Pc3k1bVl0TWxSZXZrNzlMR1B3V1FEaGhnSi1PWjY2OVNPbVFnbW1CWmVaRmpVQXVsZVJNaE1hTDdWSzJraktvU2F2Wk91OHd6cmhEZFhKZ2lmaW00djEyMG1wenMzNmvSAewBQVVfeXFMTk91Q2tBSDdRTGtGZTE4YXlUV2MwSy1hV0owZko4aDV2YVVDOEdJTV92c0dSc0JtOTAydDZERE5zY0Z4WGpMQ1RSd2NmMktvdlVESzg5VkNzcW1MaVhORWpRc3h6TW1VVy1DSE40QXFvT2hkWHFSazE2YVgtc3BtMF8tbVlvVDZUakZqMFh3ZUVLR0VxSFo5MzZqS1cyaTU5TGwzOTZNMnZva3VhZUFHNTJ5NDl0US0xRXJkRlhxdmdmMUxobGgycHBVbWoyZzM3YWtrLW00TEZpRmx6X3FKYkFETmVZNUVDZi0yT0U?oc=5",
-          "ts": 1783666800000,
-          "sentiment": 0.0,
+          "title": "SpaceX entra en índice Nasdaq-100, pero baja en la bolsa",
+          "source": "revistaeyn.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDFtZUVPLWFjeUE0NldNSTk0V1ZISDRJMlNOQUZISHZYQVIxQmY2enkxVDFtZmNRMHZQbFdiSGhvZWs0QlRtTjZmcUdmVjBEN2pXWXVxY0FzRXBrMVFMbDZDenJpTl92MjhTMmppWWJWRUxGUVAtblFWWmJrblpBSTFHOURzMG5jSFNFU0w2Uk95d0g5NHVlbGJYLW5KRUZPYWR1WmR4U1FYV1pPR0dQQWR6VQ?oc=5",
+          "ts": 1783407600000,
+          "sentiment": -0.5,
           "tickers": [
             {
-              "sym": "ASTS",
-              "name": "AST SpaceMobile",
-              "pct": 2.1,
-              "dir": 1
-            },
-            {
-              "sym": "TSLA",
-              "name": "Tesla",
-              "pct": 1.0,
-              "dir": 1
-            },
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": 0.6,
-              "dir": 1
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": -0.7,
+              "dir": -1
             }
           ],
           "category": "space"
@@ -541,7 +553,7 @@
       "items": [
         {
           "title": "De los 12.000 millones de incremento de gasto militar en 2025, el Ministerio de Defensa solo aportó el 12%",
-          "source": "El Independiente",
+          "source": "elindependiente.com",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTUQzdFItRmZiT3VxRlBpeFl6azB5WmJxQnhLd0d2bHFxVWR0ekc2XzI2ZzJfSkJibUticmIydGdtWmI0LXRMOVdFV2x4MUM4WjVQTGp4czlvenp4NFpESFdJZ09PckJwczc4R25VSDZzQjh1VFpJTzZzMlltb2pJOGtmeWNOcU41Z1ZMcFNEYktNM0lsQjVUNmx2dUhTVnVPaWxteFZpN2JuZkRoZmlHMFVQaTNmMUIyeU1rOTBqZzJsZVVnOTdmakZYeHduanpnM3J4bjNkMEF0cWktZEx5VXRQVk5IMjVNLWZFUERR0gHzAUFVX3lxTE9LbXZ3TDdOZWhvZDdjRmdkUGpQRTVOSm1mNGFpZW1kalU3WDVpN1N4anZzTHpUQWlpbVROTzVnZlFaS044Y2VSUWNENGR1bm12SWE2NVNOdU5jTklfZ19NQjJ3dmxWd2pubkxfRTUwQVlucWE3WUVHTDVla3VwXy1LbHVaX211TEFzcDdaelB4SlBfUHJ4ZkpMYzZPTWxmbUl5STVyN2N5NGI3engtalpRRXo2MFdKNkk4RkxmRnFEdnhjUk9KWjJVcTAwUWN0WWpnblBDNkw0YUs1SExiRHp4eWJXTE00TFYzQnFqeXpISFI2Zw?oc=5",
           "ts": 1790114596000,
           "sentiment": 0.0,
@@ -604,6 +616,22 @@
           "category": "defense"
         },
         {
+          "title": "General Dynamics rescata la transmisión de SAPA que Defensa vendió como soberanía tecnológica",
+          "source": "escudodigital.com",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcVdVc3dyc0JhcU52d000enZRQVFhYlRMVjI2RjdIYm56ZUNwWjFmS3NzUEpybjdxNkFadUdVRHJ5cmR4WFJreDVlN3FKSmdOQVhPYy10UFdhc1ROYjY1NFZQMEJfTjV6cmRqYWFKQ1ZOR1plVEctX0p6Y3lCMkZSaXlSSzRtRlRlT1JjeTFwd1RpVF9yWWJZWTJMeUJsOTNKbm02QWJpVFNNN2laR0FNcnRIbXRheEJuaVNyVS1DZlk3N0QxSHpYUEpiUVVFNXdTR3c?oc=5",
+          "ts": 1784271600000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "GD",
+              "name": "General Dynamics",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "defense"
+        },
+        {
           "title": "Líderes de OTAN impulsarán millones para industria militar y Ucrania con presión de Trump",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTVUzNFFwN3Y5c3lHU0IxbDRyYUpuSHF5ZHZwZmZjWDJmeFktWll1SWtvMVZVSm51RFdWWFFYa1htQi1YSXhycURNZWNjemo3X1lZc1NSLWZBOXRPa1lGNkVVemFYOGxOV1NVSkNTUm5vdTljcWNodjkzLUJOeUlkZWl4WGFxcjNra0FZS2dUa2FOelN2MUhwbm84dHB2RXE4SXNyeUlMR19veWgzOXN1RkhRNDNLV1ZVbktPN1Bkc2NIT2RycktIdENXMGJSemNZSGpaWlRHWmJ4d9IB9AFBVV95cUxQWm53cFNsTndmbjMyOHI4ejFmOF9kQ1VZbV9rRzhpWHM3VW9SR2h2SmNZekJqb0xpMC1iTUJtWF93X0hSSW1sQ1M5NGZPQlJlTnloSjlEd0JkNGNDRUxsQzNrczAzU3NuWDhvZF9rVUNhN3lUNmNLcWR3V3ZTQl9BQXRHLUhkYTVrUGZtVVpXdThtUFg3aks0a1ZEbVpjSDVuNlRSS2sxUURRVFJmaEtPdnk5Q2loS0FnejFMTXZOeTdsQ1hleWlIS3pqRGhJQmVrLUtUWHQzOHQ3T3d6amxSZXZLVG56bmdxekNhX0hJVlFqZGZT?oc=5",
@@ -649,7 +677,7 @@
         },
         {
           "title": "Cómo vende Rusia su industria militar frente a Europa y EE.UU.: la batalla de narrativas en el mercado global de defensa",
-          "source": "Escudo Digital",
+          "source": "escudodigital.com",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOd3ExTTQ4eHVfN3pYMEtUQ3dCMW5ETlJsVkV0YzROaWp1SUtBTXBYV055NF9tZU1IeUVkT2MtenVmSUw3Q3MwQjFRUkVzRzM3NVcta2hEandXNFlaa25meGwxLXRqajFjVVM5MGxiWXRFZ3czQWk3WEhhM2VoZXpwMm5MRXVLMTVaSENpdi1RSkNUVHhWeXg3MGJYcndNVmNoVEJoXy13bFpPaVNDODZsTFRLamkyWVZUNDNaMFZ1VWNuc1ozYjJhZGs1X3BkZFczeVByYmZQalBFcFlUejNxVDBZVjQyelZYNEZINlZpTmhBdFlPNXgxUmVIemlGVHJ3?oc=5",
           "ts": 1781247600000,
           "sentiment": 0.0,
@@ -778,22 +806,6 @@
           "category": "oil"
         },
         {
-          "title": "Caen los precios del petróleo: Brent a 104,85 dólares y WTI a 101,85 dólares mientras Arabia Saudita aumenta el suministro - Noticias y Estadísticas",
-          "source": "indexbox.io",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTG9JSDVDOWZJaFFuanFlWGw1NHBmNEdOM2JzbjlobEVubWlkV2JrVUNTS0I5TFRGc1NvcmJkRE4yVElSeEhYU2d1OHFCUC1XZm4yV2FkRHhpVTZ4WjlYVkR4dkhsNFN1alRvb0k3dThrVmdfQmI4N3gxdUVjY0huZlgwZXA1SjVxdHRCX1ZhVWNJUjVWVjJDWGEzZDUwZ1l6d3RoZHBWRW5vY1lEMTBaUUN0UF9kaG9rMnc?oc=5",
-          "ts": 1789651247000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": -1.3,
-              "dir": -1
-            }
-          ],
-          "category": "oil"
-        },
-        {
           "title": "Precios del petróleo al alza: el brent cierra en 108.75 y el WTI en 105.83 dólares el barril",
           "source": "Diario de Yucatán",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQT3cxN0xrcWJzTlkwUk95N18tR0ttaUppNnFndHp1NmJ5VTFkd2hoa3h1MDVLTkZ4WnA0WnpDNGFBUmpaUjZMeFZIdWg1ZU9mU280cHVDaXhJUVZWZ2pKT0FRUzJXTG5NbkZXM2NKb1VfZzh2NGxuYXZBN0xKNTMwZTMwbVltMUhFUW1xbUY5VHhOSWNKQk1iRXFINlhxbVNkbUstN1lwRG82b3RmT3lIWktMOUUwSWtRMUVCOGVUNWsyT3ZWV3JxY1ZIa2Q0N1VrMmpURGM4aGhRdGRkMFE?oc=5",
@@ -827,7 +839,7 @@
         },
         {
           "title": "El precio del petróleo WTI se dispara y supera los 104 dólares por barril por crisis en Medio Oriente",
-          "source": "La República EC",
+          "source": "larepublica.ec",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORzRES2JwSGdKMTBKSVVQRWM0eEpEVmZhcThfRGJOZU1pN0hDOFBaUmplYTZoWjhKcndMaVllVHlIUmZJMWJObWEwZHRYckxzTkRFcU5zaE9FR2FBcWpldV9vVE1Xb0lEdU1LdzI1N1pxeDYyWm90N3FFMmVRdkZUalYybXlFQk5WZzl4aGxpRnJ0LUNvY29EWEVjOXotSW9kbUZVU2N1cmFHY2l4Z2kyWVRyUmFQT1ltYkh1UmtiSDZjNExSN0VObXpDRVNmQmlaRGJBLVFZTVJVaHR6ZHc?oc=5",
           "ts": 1789369200000,
           "sentiment": 0.25,
@@ -836,6 +848,22 @@
               "sym": "WTI",
               "name": "Petróleo WTI",
               "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "oil"
+        },
+        {
+          "title": "Petróleo Brent supera los US$108 por barril y Colombia proyecta ingresos hasta por $40 billones en 2026",
+          "source": "abceconomia.co",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU3RFbHdqbGZZT1BQQkRQaHlzLW9SSHY3UFdmVWpxc0RFYnF4N2JLRXNYNlNkZlJWdk9qV3Y2NFhDYmhHY205RjhlSWZqaWlLY0VrVDgtUE9kdjZMQnFNSWJQZjJQRFdDSVdkR1lSam5zVVpqMkFuenJkREI4RTZ2WXVPYUZVcVhlUkRKYmpRM2dxWm9rSU1lYTk2SVdWOWpT?oc=5",
+          "ts": 1789369200000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": 1.3,
               "dir": 1
             }
           ],
@@ -995,7 +1023,7 @@
         },
         {
           "title": "Petróleo cae por debajo de los 100 dólares y suben las bolsas",
-          "source": "perfil.com",
+          "source": "Perfil",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYVR5QkVhang2WWtxRjk2c19fbFh6a281VG1pWTBLSHJSQThwOXl1UVd4Q1AwZ01sQnk4d29XUXNtb2RyRGEyS1RJYXVFczkySjlWTWRjckh3WnVFa0Z3eXFkaFJkenlxTnZuZEpHYmZWZFItU0RFcVNkUlUtdExkVnA2aXp2UkhoRGZJRHpBalMxUHpYMkJIQUhZeXpBaVBpOTg1NmtPSWhsWUMtM25hYzFMYkFDOUpWYmVlTDhwSVhSU0NFVlE4dTVNajVoZVZULUhTUHRuVWphSVE3QVA5djNPQlRESzdJZlgzUlB30gHzAUFVX3lxTE9fRDVuTGVzSVdsdHN6V0ppVG16Z3pXV1JJZEtJZFczMzFnZmFtYkx1aDY1c1RET2JieS1KSFNOeHRnVHM0MGtaODR6QkhySHRQeGRxZ1BwYy1qS0JrOG42RFZwdTVCSWxnYWN0SndKVTVuWnh0MXlNNTRIMlV5ejAtSHhsV2JkS1RlZ2IyMEZnaXFSanVzX1ZpUjlIVEtFaVo3WTRmaEZRakVvaUM4b2JMdTBVLThyOW5JQkxMSUY4VU56LTFzU3FULWJWclRoeEVFOEF6QlltZElQYTdCMm1iWTFFcktKVDh0SmgwRTRrUGpJdw?oc=5",
           "ts": 1779692400000,
           "sentiment": 0.0,
@@ -1165,7 +1193,7 @@
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": -1.1,
+              "pct": -0.9,
               "dir": -1
             }
           ],
@@ -1328,64 +1356,70 @@
       "n": 16
     },
     {
+      "sym": "WTI",
+      "name": "Petróleo WTI",
+      "net": 7.3,
+      "n": 25
+    },
+    {
       "sym": "META",
       "name": "Meta",
-      "net": 8.0,
-      "n": 11
-    },
-    {
-      "sym": "ASTS",
-      "name": "AST SpaceMobile",
-      "net": 4.2,
-      "n": 2
-    },
-    {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": 4.0,
-      "n": 5
+      "net": 6.0,
+      "n": 9
     },
     {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 3.6,
-      "n": 4
+      "net": 4.6,
+      "n": 5
     },
     {
-      "sym": "WTI",
-      "name": "Petróleo WTI",
-      "net": 3.5,
-      "n": 24
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "net": 3.8,
+      "n": 5
     },
     {
       "sym": "SPY",
       "name": "S&P 500",
-      "net": -3.1,
-      "n": 15
-    },
-    {
-      "sym": "AMZN",
-      "name": "Amazon",
-      "net": 1.3,
-      "n": 2
+      "net": -2.6,
+      "n": 16
     },
     {
       "sym": "TSLA",
       "name": "Tesla",
-      "net": -1.2,
-      "n": 5
+      "net": -2.2,
+      "n": 4
+    },
+    {
+      "sym": "ASTS",
+      "name": "AST SpaceMobile",
+      "net": 2.1,
+      "n": 1
     },
     {
       "sym": "AAPL",
       "name": "Apple",
-      "net": 0.8,
+      "net": 1.6,
+      "n": 2
+    },
+    {
+      "sym": "AMZN",
+      "name": "Amazon",
+      "net": 0.7,
+      "n": 1
+    },
+    {
+      "sym": "GD",
+      "name": "General Dynamics",
+      "net": 0.4,
       "n": 1
     },
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 0.3,
-      "n": 16
+      "net": -0.2,
+      "n": 17
     }
   ],
   "ecuador": [
@@ -1414,7 +1448,7 @@
     },
     {
       "title": "Misión comercial permitirá a empresas extremeñas conocer y explorar el mercado de Ecuador",
-      "source": "regiondigital.com",
+      "source": "Región Digital",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ2RWRUFEUDdMejlSTXFrc0JBZ082b24ySm03dGI1OHNINXJmUV9XdzFDd2hWNHMwR29wSEc4dlpNNFlYbzZ3UUpMWjd2QWg0UEhubWJkZFVWRFpvaURvT2tJQ0kzRXQwenZrX1BtLTM0VUozX3d3a2EzZWV6bnItMjkxWVBCWlBxUnRDZVhrVE51eUFLWUY1czJpUDJmbHZqcHBOV2VjZmxkYjBtNXpnTG5LVWVJRVplZ3V1cjZGYzJTblF1Ul9tQWJ4MkNFOTcxMFpMZFVFdU03Qlh2WmllcGx3QdIB6AFBVV95cUxNYlE5enA2OXRjcVFXMHNaV1FndU1Xd1FGWEV6WXpwdFVFOHpNNWF6VFhka0x4S0FrNUVvb0lQaWZvUkNYRVpFbXFUemt1UFV2bzhwdHMwNDRXcDRlbWI4N1U3eU9XTTZfZy1ydndqNDloUHdTT2FPX24wc1RSN0lqVXNqVWpxblhldy0wV0MtbE9CeGV6c1I2NDBlSjZyd0htaW1GSDNmejdJbG5hSHpTNnhQZlpXdDlMelA2Qm50Q3g0bjkyOE1CSGR3Q3JNQVdmelAtUDhaNWs1bXhiUWFvdU04U1d5aW1x?oc=5",
       "ts": 1790175845000,
       "sentiment": 0.0,
@@ -1467,7 +1501,7 @@
     },
     {
       "title": "JP Morgan cambia su metodología del EMBI: el riesgo país de Ecuador registra un incremento técnico",
-      "source": "La República EC",
+      "source": "larepublica.ec",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOXBVYXMtUHpqejBseHNOSDRiVTRiOTJVTEtjM05GYTZ3LVNLTnFIV3dUS1FEM1BFTEpZY005Y0xfTFduclp0VmNZbEJueENTWUl2VXVIQjFVYzhBTmNaSU8wYlRVYWc2QnRicGdxUXE5aGwzQkhjT3Z1REJKdDM0WVBWX0RUY2VQTjlPVzNwRGFwZkdFUlAxNEZkZWtEWHFZUnZKRUVVaEdjZTZiY2JDV1g3VjQtQXdwZHJ5WWRQYW1GTWZUOGZoaDZwbldZQTB0eS1teEQxMkk?oc=5",
       "ts": 1790099078000,
       "sentiment": 0.0,

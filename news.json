@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T18:49:26.767617+00:00",
+  "updated": "2026-10-01T22:56:12.022446+00:00",
   "categories": [
     {
       "key": "tech",
@@ -31,7 +31,7 @@
             {
               "sym": "MSFT",
               "name": "Microsoft",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -47,13 +47,13 @@
             {
               "sym": "TSLA",
               "name": "Tesla",
-              "pct": -3.8,
+              "pct": -3.2,
               "dir": -1
             },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": -1.3,
+              "pct": -1.1,
               "dir": -1
             }
           ],
@@ -69,7 +69,7 @@
             {
               "sym": "GOOGL",
               "name": "Alphabet",
-              "pct": 0.9,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -178,10 +178,74 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "Fondos estatales chinos financiaron compras de chips Nvidia restringidos",
+          "source": "Investing.com España",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcHYtR1FmbVFZbTJic0g0dlRLNnpXM1p1eENJWUc3S0NQV2VBRmpSb3lDYTdqOTFmZVMwWVNyTHVZcU9WM0EzdTVZYnJTOFRvdnEyeVM2cHF6dEpGNGV3M01BNERRWE9tbk9NLXBZMzJ1VDdOeXpoSWhLaDFfQkNCYjUyRjdKdHN6TjNoUVhDeGhFNWRyLTN2NVhCc3ZRRk1SRWt6SUtXa3NMN0dUR0FfT3ltOXpRbmdobGh0WUhQeWlEMklIWE5R?oc=5",
+          "ts": 1790890140000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Meta amplía Muse para pequeños negocios: qué puede hacer su asistente de inteligencia artificial",
+          "source": "CiberCuba",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeEhwVVlHd1pabE5FbFMzSlkxeU9tTDh5b2owNDhnQXdCZU10ZGxkRnZVeHIyOEEwajdiYTBOOUlNeU5iOXVqb1JzU19ld09UTnd5dThqX2tHWWZiLXRaaTBsbEVhcWV6MTFiMU44Mm5memhUTzVaZDFod1o4NTYwNHlKZFpHbGhZZzNmOE55LUhSS042MjVXTXdlN2p0b3NkQmFOY1FBXzVVSkhSd3FSR2Y0NHQtTThBNHBIYndYaFZrWHUy0gHEAUFVX3lxTE94SHBVWUd3WlpsTkVsUzNKWTF5T21MOHlvajA0OGdBd0JlTXRkbGRGdlV4cjI4QTBqN2JhME45SU15TmI5dWpvUnNTX2V3T1ROd3l1OGpfa0dZZmItdFppMGxsRWFxZXoxMWIxTjgybmZ6aFRPNVpkMWh3Wjg1NjA0eUpkWkdsaFlnM2Y4TnktSFJLTjYyNVdNd2U3anRvc2RCYU5jUUFfNVVKSFJ3cVJHZjQ0dC1NOEE0cEhid1hoVmtYdTI?oc=5",
+          "ts": 1790887809000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": 1.2,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "La inteligencia artificial transforma las decisiones de compra de los consumidores peruanos, según un estudio de Google",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNjA1eE9hMWIxcTRnTG5obmlPNFJTR3hJams5Mm1xdl9laTBLSy1CTk1uVmJrLXlCMFd1MTU3ZllOYWR2QjFadmNFZGRVRlU1cl8taTVLVmszNjlnNlN6TnFQandqcFRaRlBVZ2tVbTRGM3RBcHBRRXFSV1B5UThVdVptRFFWRk5rN0kzYTJjdXJTeFhDYnVObFlYZFJvbDRoMDZELXJvMUphOHFjc2lFQm40cVJaZkxpcTE2bm1VaEEzeHJSXy0xNk5iT0ZBbms3MFFQNWdyZkJKTkY3SXVFTXlwb3dKX3owNmdmdk1mQWvSAYsCQVVfeXFMUDh0VkJNVUp5SWx0cDZRa2ZiYWw0U0EyYTdKRXc0NTdoMVZDeGhLdnVLZWpFMnZDcUg3VTdVT0cwTjlCZzBnWTRnUjFqWHBiQWJfa3hkdXJvWEpteWdtMGExLVgyRDc3dWVFMjNWVUZ2TFFzb2s2NzVGZUJyVEJhZGZFdWI2MnZ5TTFiOXo2T2lRU0QxbmNDR1owcGFoRXFhT2ZLdGRWSjMtaUN1QkItTU5EbXZNRWkzYVllSllGV3p5cXhHbG5lWWZaZGlsYkJIRTA3VWhrdmVYSlhsMlJQREhhenRkQzl4WTRiQllMQzJsXzRYZDZQcEg5VGlyWkUtNDBpa1FTaXY5SFJR?oc=5",
+          "ts": 1790886833000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 0.9,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Cómo será el nuevo comando de guerra autónoma del Pentágono y qué papel tendrá Elon Musk",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNay15U0tFYjd5cUdnT0VOOGNrcV82cTFRUTdIY0hPNEthRDhpUEpXeWlfcnBjOGNBR1BUdmtBNnl4dlc1SE0yZzZ5QXNLN00ycUh5X0E3X0tsSnVSa0wxV2c0T3pTdmV6d2VuTzUtYXkxdFU1RGc3aUNrbE44c3J2SnVkZWRET1RPV0U2WVpjQzlSSnVJVmlTb2VDaHVFT1FaQjdBN2E4NXN4R2p5X3pCUlpiMnNiNVoyNXZCYmN0QzRUVmVkb25qWm1uWFlFZTdrY1NxbtIB7wFBVV95cUxQSThyaWdNMEIzajNOOUxtcFJEQkdEQlg4R0hIZkkzaUR5eHR5Rnk5Wm5WbHNheHpNVUVqcFM3U2U0TFNOcDhZM2FIeHBRU3ZiNWxVTTVwOUhXREIwN0wyZTh0VTBBWHl6NHVDcDBLd2tqQlFiLW04QlJQLTZHS2ZIazQ4anI5REFndUh5RXFUbjl0STN0cjhPQkpUcTNPM3JBUmh1S1NEY25JOE9PMFRkT05EX1lLcTUtbENKd213OWhjU2l1Y1RLZldqQUpMX2N0WllGZE9sUHJGQklvZDRvN1VLWjFWZ0dLTjY4azZNUQ?oc=5",
+          "ts": 1790883300000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "TSLA",
+              "name": "Tesla",
+              "pct": -3.8,
+              "dir": -1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Acción de la semana: Micron. El ciclo de las memorias en la era de la inteligencia artificial",
           "source": "XTB.com",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLUdDLXA1TWdXdHNPWUQ3THUwMDRneXg0MTFwNjR2YndtQmViN09DOExDMy02cjRrZGx5R3dCMUJRS0xuRmFxZ3kyalJYb2NYOWV2a1lvcTZVWXB0M1E4WkM0ajFkd0t1XzJCQ0pKUDFPSDIzcWlGbEtOdTRmRWFmTEcyOXpTaXNRNUF3YUdod0R1LXZDc3pOMmNlcUUzVXFmOGlkMi1UNi16d01EajZkbUlSdkRCMEdLbFVWNXZiamZaOGxnMnRIRnlrMnVnRGxtTzFxalFaNWhsSnh3SnQxZzd2X1k4N2xZd0E?oc=5",
-          "ts": 1790878293000,
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNa05FZjBVY2hNSlFneTg3ZUhXY3J0SENHeWE4QzY2SUI0NnVJRmZmVFNnTS1IeFpkbDhMZkstUEtjc2JuOS1uQktKN2ZFY09DTjhmallXOEpmVS1wTnhFWTVvWGtvUEduaWRKYUZPSmxxdW1rYWNxRkNEMWVuUW84dEZKRkloeTE4bDZBWi0yR1FqR1JoeDgzSUp0VHM0WG9ZU09wZXdtdnZDQVByM2lXSVZiUzJvQ2hreWtOSGFyZ3gtZ3VISU5TbTE5STJGU0Etb1BUVDlWb2c0UEJQLUNwM1JEQktkUEtIbVZV?oc=5",
+          "ts": 1790877742000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -232,16 +296,16 @@
           "category": "semis"
         },
         {
-          "title": "Gemini 4 Argon: nueva y potente inteligencia artificial de Google para tareas complejas",
-          "source": "Cinco Días",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORHZuT1A0QXVDZnRXQncxcFp5RW94S2VOS0F1SHBKamF6S3VKTmJnUzFVWmY5VWgwMnV5UHJXa0RNUV9QLXVmb0MwS040eHdUbU1QYTZEN0F5d09oTFczQzJQazBtUWxteTkwWmwtTmxqTGJoeTl2UFNodldKRUpZS2VSN0dLU0prUTJiLVljVDlYOEN4MFJzZjUxN2N0dFN2SUxwWWZKWXFPS3pjYS1ZZ2tJYTRCRzRucWZXM3ZBNEvSAdQBQVVfeXFMTm9TQmp6eFRKYXBwdnVZbGhfS3Vlc3pZNVVsM2pocnA5dVNSRWZZenFkbXluUmF1Zmk1ZEpIQ1dfWDBvVzU5QnZEY210MWV5V0F1eVVNYlhHd3NRLUM2eXh4T3lVSUd5Vl9uWG1sVmgtbExvQ0VidUdBODc3WnJOYU1CN1lZaHhNZXU3emhCMnR4Ykd2WlVva014ZUJmSHg1eUNPR09OQlBqNmh5VHJwZTdyeDh3RkQ5Q3BicE5SRlR2d245MVp0anFhYTBVamRUR2lQWFA?oc=5",
-          "ts": 1790874000000,
+          "title": "Amazon Ads Agent: la inteligencia artificial que simplifica la publicidad para negocios de todos los tamaños",
+          "source": "About Amazon México",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ3QxZlBNSjF2MlhiZk05QUEzUGU2V2FYelM4cnE1Sl9DX2t3c0EzX3ZYb08zM0RJNDdNdnJJY1N4UzJqdWN6ZmUxUi1Xa1RNWWZ0Tl9IMUpUd25xM3Y4eTFiMlFCdDFSZjNCLVJ4Y3JrdFlQdlRib2dHdVZqY1BRcjFNeHJfT3lFVk1FZHFCQi1renVvVDJoeTY2bTZxUWxSd1l5eDlBdTllSm42clpEdnpjNWJiOHdaNWFCUDhNWWljSlFqZDFDV0d6d0YyZ1dGOEFaRWxHclhVeVg2d3pzZFI1WUh3MVZJd3c?oc=5",
+          "ts": 1790875367000,
           "sentiment": 0.0,
           "tickers": [
             {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 0.9,
+              "sym": "AMZN",
+              "name": "Amazon",
+              "pct": 1.0,
               "dir": 1
             }
           ],
@@ -273,71 +337,7 @@
             {
               "sym": "TSLA",
               "name": "Tesla",
-              "pct": 1.9,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "OpenAI lanza Dots: agente IA premium vs Muse gratis de Meta",
-          "source": "El Ecosistema Startup",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSTdzR01CSGtQTGxaNnpWVmRKZ3RwS0M5dnJURktyenRrWW44UVkxVmVRQjlLd0I1RndaeS0tTDl2VE10a251WnBEdTd0ZnpBdjdFWTFBSFV4Wi1MTDlKdzVVQzNlTi1OcTd2eUZMN0wzdGx4ekNiRjFCT3NFaU9ZNzNDY25OaloxWWFNVkxDQlNoQ0U?oc=5",
-          "ts": 1790866849000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 1.2,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "La división de inteligencia artificial de SpaceX negocia el alquiler de capacidad de computación a Microsoft",
-          "source": "es.marketscreener.com",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTE9hR19qRGVGamRtb0paNE95X29HSzA4ME1MazFQWlBEdUFnU2xmWWVPR1loNlVwUDFxLTMtYVEzWlRqUG54RVpWR2hJN3lhZVlTanZJV0cydklXTzVLQ2traGFvRk8xb3l0VndFMjJxa2t4eTBnbGFUdW1kUFloWEpPaVdhZ2ZBdkUyZzJ1NlhUMm5RaEpqN0QwbnRLVVZibWxGZ3FKWVVQa0k0SjB6X2lfTm14eW1YdzdxUFFNYkJJQjJScktaTVlVTUgzTDJJdE5QZ05mWktmTTY1ZUZwbXNNMlhjbGRkTmktUw?oc=5",
-          "ts": 1790865146000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "MSFT",
-              "name": "Microsoft",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Las gafas inteligentes de Amazon tomarán fotos cada pocos segundos para entrenar su IA de repartos",
-          "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ0lKeTR0VXUzWGNTbDZ6akNsRkpteGNJaXNvNFAzQ0ttWkhPYmVLTzlmb05GVzg1Uk93SjktcDJsMVZfZTZBblRCV1JENElpMlljaVl0NTFlWTBMRkJhamMydDlhclVZRElfR3lPNThRQnRoMzRBLTk5bjd1aE9IRjZDX1MxRDR5U2NLNnRKamJLbGx0RUswWG9lWDVlM3pQNzg5ZjhhS2NoYkZseXlYcjQ3ZFhpVlJhT1phX1pLU29DNVZwd211NWk3ZklDak1UZ1BxQ3RRVdIB8gFBVV95cUxQWEVrd0x2LTcxM2FnVEYxNDR3R3NEVkxycExuRW1pUHp1WEx3SEVhbGlVdkhhcHM5VmU5bE01S0F5bXAyQXRwSWJzWWRMc3BJZkZDUVNHSGpBU3RpaGJobWc2MkJ1QWYzcEV5ZjJkT2ZHU1k2MHRpTDVsTnRkVlYxVXp1ei0wLWJ2aHNEY0stRF8xZEp2THJSYnpIS1ZZWjAwNENkZnBCMDFTNUN6SUl0M01wdF9hZEpKUUJ1MEF3TjRyY3Y4VExXc3B0Znh6eU8zMFViaUpicUYyU3QtXzZfR1ZmTnVIZUxBd2lWeVgtMkFHQQ?oc=5",
-          "ts": 1790864891000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Kodiak AI utilizará Amazon Web Services para el desarrollo de inteligencia artificial y simulaciones de seguridad",
-          "source": "es.marketscreener.com",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMnMzNnRIM0gzYkFZakZUdDhMblBhTDNkZGh1WDFnQm90UHJZX3NicWp3LUt5MF9nR2RvNzRRTndCTkVOQTA5Y3BOM2tUZzlLaG1hQ2JUR1hwTnVaclFQNXd1dVU2eW1KdTJwRGJWUU9HOTVCd244LVNZUHY2TWo2dnE5ZXRsT2M3MXFXRnl1dTJiM2MyUUJ5MXREdkkxempyazhxZ05hd011UTItTEswX3dtWDI2NWFrRHhySng0c2lLVXk5YkRTQk02MWNDVmJZT1FVblVURE4zOWpwUHZKWXFZTlZNWlFZaHhn?oc=5",
-          "ts": 1790862025000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": 1.0,
+              "pct": 1.6,
               "dir": 1
             }
           ],
@@ -351,7 +351,7 @@
       "items": [
         {
           "title": "La empresa de satélites Astro Digital saldrá a bolsa mediante una operación con una SPAC de 587 millones USD",
-          "source": "es.marketscreener.com",
+          "source": "MarketScreener España",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSm5fcGF4eS1pdHJVN25QOGQ1emx0TWR0TE1OLS1aZGJWX3RlREhZbmw4MDRodS03MUdraW05b2dsd2xjaG1oNWM0S3dIMHgwdV9adnJJa29Cc0tISzMtTUxoSHN3QVJycVdWbEdlUXBTdGVCOXVWVjAzQVNWV3l3d2QyZ1ZobEVhbVFYVC0tSUlSaU1sY01DZkNOb0ZscTBOelJTU3JsOHE0QnhtUVlQb0xHNnNtblNPSkw1bXoycnpvOFlTQjJyZ1BoYTJYRGlUM0ZGbjRNUEx0bDA2ZjZHaGYzNjRFVjdoeDAw?oc=5",
           "ts": 1790598994000,
           "sentiment": 0.0,
@@ -366,24 +366,8 @@
           "category": "space"
         },
         {
-          "title": "SpaceX ya cotiza en el SIC de la Bolsa Mexicana de Valores y es posible comprar acciones de Elon Musk",
-          "source": "El Cronista",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNS1hqYVNaVFAySVY3dFJQUXJEMUttUVNpZUtmWUMxN1pQMmduSjhoSjBpR1N5NE5PelVHcVFuQjZ4WTloQUZfMXV0alpNc3pqTDctUDZEMlY0WDlmS21faUdEV0Nfbk0xTWRSeE5EcE81NGUyS0ZSYkszamZDU3dQTElIeGc2ZzhWY1ZPY1NzUDVNRDBQbU9qbFRzYjFtNl90WTlBNEI1RlpMRzhVVzR2T0tmTEpGa2NhV2RWN2gtUnFuU191STRSTFNvVTJpV081cGlBWnBJWHJNOGJkT2dDbHFhYUtObWPSAYICQVVfeXFMTlgwQjc4MEtGTmtlMmhfQjB4QTJMcHQzN2w4ODhaeXg5X25uZk1Jd1VfdW1BQlROUTA4MUkxd3dlWnRUSXdlV05tQWFjRUtMN3g5MlJfUHZaRVdxcEpTSTQ5Wnk3SVJ0UHQ4ay1ibWVBeEx4aTVBb2l5b3N4UnV2OTZFRUVPVFR0VFlzVDdoMFJ6MUdFckp4V2IweUN3eDhIaVZmQUZkOHpSUHd0V3hicUpTR20zRXpQWV9vb3dvbkx1U2JPMGpjbHFtd0pGSXcwRDcyQ051NlRNWkVuakdQa1h4N1JZQ1R1YUF3eVREYV9sMkcwSG0zYWNCMkJVbURyMkF3?oc=5",
-          "ts": 1788418800000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSLA",
-              "name": "Tesla",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "space"
-        },
-        {
           "title": "Récord histórico en Wall Street: Anthropic prepara una salida a bolsa para superar a SpaceX",
-          "source": "revistamercado.do",
+          "source": "Revista Mercado",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWTBaWmJjRWhBX05zcDVwcmtnWnpxMFhYQ3hENjNhSDBjTElWaThhWjZUSHc0R3hHaURhNzFDZEtXVnlEZ2FYa05kY1dISExMczlwWXBURl9qdUk3V2Y0UHMtMTgtQWNvU1lnVHVlUk16VXEtdC1GZWNfS1RMRGJPRnkyNExkcjNaTm0wUnVVeEoxX0xTb1gteXhUdGVSUmlDejR3TFVzV2EwUFNHamQyZm52YXZWYmI4NG8yT0VFVUxnaTlr?oc=5",
           "ts": 1787295600000,
           "sentiment": 0.5,
@@ -392,6 +376,22 @@
               "sym": "QQQ",
               "name": "Nasdaq 100",
               "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "space"
+        },
+        {
+          "title": "Anthropic copia la estrategia de IPO de SpaceX de Elon Musk, pero con una diferencia importante",
+          "source": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQkV4UUNZajJmeURSbmZlRXo5MEY3NFUwdURNLUhJVWN4LXNQRmtFckM5RDIzWXhMLXJPekgzMHdtbkdTdHc5XzR4ek1RWTgxOXNzcF83RU9Qd0MwejBqc2ZQOGVfRmdJYkUxXzBXVUxVQjZyaDl1TjQyejdfX1N0bkVWUDVZVHRLdW1CUDR6czZNMGpG?oc=5",
+          "ts": 1787036400000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "TSLA",
+              "name": "Tesla",
+              "pct": 1.0,
               "dir": 1
             }
           ],
@@ -479,7 +479,7 @@
         },
         {
           "title": "Bezos acelera en la carrera espacial frente a Elon Musk y abre su Blue Origin a nuevos inversores",
-          "source": "elpais.com",
+          "source": "EL PAÍS",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSGVfSEp5bUc5WkxOTHlMMHRkc1JiQ1FVS2NQbUhZUTU4NjVQeE1EMEtSVWQ5YUljUUNqT1dRWnFWZzVwNGJIWEN6Z1RHcFZpSGhMNjFxNTJVME5KTkk3bjluQWhxQ05JQ0JzQW1jT3Mwa2RKRnlCWW5Pc3k1bVl0TWxSZXZrNzlMR1B3V1FEaGhnSi1PWjY2OVNPbVFnbW1CWmVaRmpVQXVsZVJNaE1hTDdWSzJraktvU2F2Wk91OHd6cmhEZFhKZ2lmaW00djEyMG1wenMzNmvSAewBQVVfeXFMTk91Q2tBSDdRTGtGZTE4YXlUV2MwSy1hV0owZko4aDV2YVVDOEdJTV92c0dSc0JtOTAydDZERE5zY0Z4WGpMQ1RSd2NmMktvdlVESzg5VkNzcW1MaVhORWpRc3h6TW1VVy1DSE40QXFvT2hkWHFSazE2YVgtc3BtMF8tbVlvVDZUakZqMFh3ZUVLR0VxSFo5MzZqS1cyaTU5TGwzOTZNMnZva3VhZUFHNTJ5NDl0US0xRXJkRlhxdmdmMUxobGgycHBVbWoyZzM3YWtrLW00TEZpRmx6X3FKYkFETmVZNUVDZi0yT0U?oc=5",
           "ts": 1783666800000,
           "sentiment": 0.0,
@@ -529,7 +529,7 @@
       "items": [
         {
           "title": "Lockheed Martin presentó su paquete industrial de US$ 1.800 millones como parte del programa F-16 Block 70 de Perú",
-          "source": "zona-militar.com",
+          "source": "Zona Militar",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ1ZzSWlPdjdsVkhpZnh2bHdpX1lkUEtHQ29VcGd2UHJodTdsVVVFcmV6WGpHUXhoOWRYVGVsUV84c1pXbDRoZzJWbWd6Tk9VSTBsYXVCUW1JU21FSG4yZnFJWmg4OXg4M2lmRWRFVEtONWtOR3N3UTNYUHF0cTdYS2pLOEdNdWVtRlJsb3VTejZieElvTWZ2V0JnSjhLS0ZZTkRLTEtCZHY3WFduZDZsbWFhbkxOZlNXU1g1WG9ManhIQlV1Ri1iZVhEQW5acVlDNXRobWpSb2JYMEowbnRoYWtoU25nbkdJUWc?oc=5",
           "ts": 1787727600000,
           "sentiment": 0.0,
@@ -560,8 +560,36 @@
           "category": "defense"
         },
         {
+          "title": "Líderes de OTAN impulsarán millones para industria militar y Ucrania con presión de Trump",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTVUzNFFwN3Y5c3lHU0IxbDRyYUpuSHF5ZHZwZmZjWDJmeFktWll1SWtvMVZVSm51RFdWWFFYa1htQi1YSXhycURNZWNjemo3X1lZc1NSLWZBOXRPa1lGNkVVemFYOGxOV1NVSkNTUm5vdTljcWNodjkzLUJOeUlkZWl4WGFxcjNra0FZS2dUa2FOelN2MUhwbm84dHB2RXE4SXNyeUlMR19veWgzOXN1RkhRNDNLV1ZVbktPN1Bkc2NIT2RycktIdENXMGJSemNZSGpaWlRHWmJ4d9IB9AFBVV95cUxQWm53cFNsTndmbjMyOHI4ejFmOF9kQ1VZbV9rRzhpWHM3VW9SR2h2SmNZekJqb0xpMC1iTUJtWF93X0hSSW1sQ1M5NGZPQlJlTnloSjlEd0JkNGNDRUxsQzNrczAzU3NuWDhvZF9rVUNhN3lUNmNLcWR3V3ZTQl9BQXRHLUhkYTVrUGZtVVpXdThtUFg3aks0a1ZEbVpjSDVuNlRSS2sxUURRVFJmaEtPdnk5Q2loS0FnejFMTXZOeTdsQ1hleWlIS3pqRGhJQmVrLUtUWHQzOHQ3T3d6amxSZXZLVG56bmdxekNhX0hJVlFqZGZT?oc=5",
+          "ts": 1783234800000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -0.7,
+              "dir": -1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": -0.4,
+              "dir": -1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 0.3,
+              "dir": 1
+            }
+          ],
+          "category": "defense"
+        },
+        {
           "title": "Top 25 Empresas en la OTAN Global Informe de tamaño del mercado de defensa",
-          "source": "sphericalinsights.com",
+          "source": "Spherical Insights",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQTk5VENGQVVUYk5Qci1zRGJMUHJQS056ZUt6XzhtUHhVNDJJaVpxekg5OFBBc0ZOeEhOaDZIRVZUVEF2VUdHV3hxa0YxcTBKMk9NMlJlS2JlYXFqdmFTZWhVYTB1ZmYyN3VOa2JtSF9IS1F0T2FlVHVXR0VacEViRTRtOU1WZHVlRFZzdDh3ZU5ZMVZ2aEIyVzFTNWhlaXBUZTRJbmc2T3hZZmF4X2Zsa1dtZGVFa2I3?oc=5",
           "ts": 1782933464000,
           "sentiment": 0.0,
@@ -610,6 +638,22 @@
       "label": "Petróleo / Energía",
       "items": [
         {
+          "title": "Precios del petróleo: el brent se vende en 102.31 dólares y el WTI en 92.87 dólares",
+          "source": "Diario de Yucatán",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQazF2TDBYbk9TbWNza2RDU2Z0Ujd4emVFUHBkNExrOUszUm5PM3Fhby1LSXVfb0wwZUs2ZVNySEktYnk0Tnh2RlhmR25NSTNOTVFLREJOYjRsZDd2TFN6d045LTNDdDVlakFUajRwTnZDZVpGalh6V2xhR1ZER0FJYzNfaFRNaEVpWlNoRUcxYzQ4eVFrSDNTb3F4WlV3emhJX183eWhCUnduMmVCVFI3VlNfZXY5YmJidS1LdVhtdUNueTN0S2xkZDNNbG5adTRKUEE?oc=5",
+          "ts": 1790884122000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": 1.2,
+              "dir": 1
+            }
+          ],
+          "category": "oil"
+        },
+        {
           "title": "El precio del petróleo Brent rebota un 0,7% y supera los 103 dólares",
           "source": "El Boletín",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWTNGRkFJN2ROdGg5bVp4a2ctWUNBU0xDUUdTN1dYb011N19jOWFGaGJYdnVTY2pVUUt5dVFSS0lUSjNCd014RkRTT0I2WE56ZjR0Rkg4cXBwWG1qcU5FaHlSUkNuYVlqZWRoXzBPNW1yRkJuRFoyZlI2U1M1Qk9ZN0pGSHFDTXZhWTBxQldhelQ4ZzN6djZTdVNmRnZCUdIBngFBVV95cUxPWTNGRkFJN2ROdGg5bVp4a2ctWUNBU0xDUUdTN1dYb011N19jOWFGaGJYdnVTY2pVUUt5dVFSS0lUSjNCd014RkRTT0I2WE56ZjR0Rkg4cXBwWG1qcU5FaHlSUkNuYVlqZWRoXzBPNW1yRkJuRFoyZlI2U1M1Qk9ZN0pGSHFDTXZhWTBxQldhelQ4ZzN6djZTdVNmRnZCUQ?oc=5",
@@ -643,7 +687,7 @@
         },
         {
           "title": "Previsión del precio del petróleo: Brent y WTI suben mientras persisten los riesgos en el Estrecho de Ormuz",
-          "source": "fxempire.es",
+          "source": "FXEmpire",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPd3FremFuc1h3V2ZtMDlNTGhWZDliRUdmdEQ2Q0dxSXZVN0xXaDR1cmlDaDRrUjlTOWc5Y2gyNUlYenFXSHpjT3lNeHl0emU0b2hQSThMWXRmX2RPT0dDYTA2NFVwTXMwaW9QYnZ6eDMwSDYyQWx1RDM1U2pYZHRTNjQ1Tzd5dHVORk1HVkVTSjgxUXhybWZxUTdycUlSOGU2dTJWSk11NjBuZWVhNmFxLWx2bDJiZXVCa3ZtVHhCMzlsZ09Hbkd4b1g2eW9EWWsxNE1tb3lXR19wVVJia190WjVMWnBuN1VZclEtVA?oc=5",
           "ts": 1790665499000,
           "sentiment": 0.5,
@@ -687,7 +731,7 @@
         },
         {
           "title": "Cae precio del petróleo más de 1% ante perspectiva de tregua entre EU e Irán",
-          "source": "MILENIO",
+          "source": "milenio.com",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTFVoNmgzUjZCWHZwNTBfUE5yOUF0UnRudXRwTHNBdnVVNHdLaHRtSXdGNzRTZUxZUmpZemdMellodDBPN3dodXJCQXZXM2h6SGV0RWtFT2hHQ0F2M3ZSYnN2dXo2ZGdqa0dQcjNrTUZIeWFrc29LUmhlYWZlY0h0aDkyMnBfRXphWnFQaUNZNHhaZFB30gGUAUFVX3lxTE1XeDFnQ0U3cFhOY2h5R2xQeDJYUXFydnpKal9zdldJR0dnNG9jVVFpT0xyRlpXRUlJeUdmWWVPd01VQnJhSThTaTVubjBfcGt4MmJqaFpFcVhLaWcxaXhiZ0tlWldwbjFtcWtnRzd1MURYT0d6R1dOenB2ZC1KOHhhM3JMM3NHSVA2Sm53VHRBdDBOV0c?oc=5",
           "ts": 1790354400000,
           "sentiment": -0.5,
@@ -775,7 +819,7 @@
         },
         {
           "title": "Los precios del petróleo WTI cayeron por debajo de los 100 dólares por barril.",
-          "source": "vietnam.vn",
+          "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kVjNkdlJYNFZDbFBJOFY3TFRES0E1Sm5pQzVzV2J4NVR0UWVnOGI4MjJ6Q3otUWYtcXJnLWdDUVRRYVVUR0xQUnJ2TVkwckxQUWVldzFrLVNWaFNoT0hLTFNZN0hTNEpIdFdkZ0o4cnhXSTNtUVE?oc=5",
           "ts": 1789977991000,
           "sentiment": -0.5,
@@ -785,22 +829,6 @@
               "name": "Petróleo WTI",
               "pct": -1.3,
               "dir": -1
-            }
-          ],
-          "category": "oil"
-        },
-        {
-          "title": "Sube crudo Brent 64% en marzo y el WTI un 52%",
-          "source": "El Norte",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOUpDMF9fYkUyZzQyYlF6QzBzWk1qMTZNOXNrQ01nbWVKLWlqbFNjd2hOTDYtNzl4bkVoYzhyRENEUVVQWFBkV2hnWVBmazZBQ1prcnNvSU9IWXlPc1BOc2RUWU5VaDE4VFRsd1FDZmQ5RU5vRFJUOUp1aHlqSW1Ed1lSZ21namc1?oc=5",
-          "ts": 1789974000000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 1.3,
-              "dir": 1
             }
           ],
           "category": "oil"
@@ -841,7 +869,7 @@
         },
         {
           "title": "IPSA cierre con leve caída pero retiene los 11.000 puntos mientras inversionistas siguen resultados, tasas de interés y conflicto geopolítico",
-          "source": "df.cl",
+          "source": "Diario Financiero",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90d1B1OFhwYlJPTXc4cWhuZ19vTjQ3XzUtLXZBQ04tVHZFalJwbUNlc3RBQ245UHdCS0FOYWhvN0ZVaGhnS3NOd0ZhLV8taTBOaWhrNzJGYzVsSlduMUZ2SDBaVTI4QmYx?oc=5",
           "ts": 1785481200000,
           "sentiment": -0.67,
@@ -1047,7 +1075,7 @@
         },
         {
           "title": "Wall Street mira más allá de la guerra: el crudo tensa los mercados, pero la bolsa resiste",
-          "source": "La Razón",
+          "source": "larazon.es",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbDJNZXAyN2tzYTVwSThBYWxwZTZYQXpkOFdRaVQyRmRqWHM2U0tSOFF5Vll6NW0tbUE0b2lGOWhIaC0yTUZNeVlNYloyTUttNE1RTWhzeUUwVmZXV3Nhc09HTlFkN1N6eC1wVEE0M243SGJXWmpsaGRXLTVJS0ZNc245NVVIWjFOUUx1aVpDUnExQXAwRmtScHBHeUtXaXlkaHpxTndwaWFFVF85al91WnVERkhVQ0FiR3VvVE9YOXJVTFRGT0ZlZ1JMYmJCLVZ4cktzTUZnV3ZuQdIB7gFBVV95cUxPXzZDdHFBb29HdzhJclI0dUdsaDJNQXktbmhleVBwMTBnTkZNQ0NyQk5Jem5JZmdFdjJEM2hFZ19wbFdjZE5Rc2RfcHo5NzFYeGVjMld3OVhrejFFbVdyWTlBZ1NqNk5Eb081MnFuXzNwVlhBOXlmTlZQWDNRbFh3MlJiaTFROFFnYnFWTVByY1VzSnE3TEZwWWhhTVpJMjNkWWJtZEZRQVBURzRaSDdacGltaTV0YkdLQ0xCSTJSVzVPemRZTDNtMXRfUEtfNTg4dGZzVDY0NTJmM1duR0hGNVlmR2pEQmpkNXNKcl93?oc=5",
           "ts": 1777705200000,
           "sentiment": -0.5,
@@ -1087,7 +1115,7 @@
       "items": [
         {
           "title": "Wall Street abre al alza impulsada por la IA",
-          "source": "diariolasamericas.com",
+          "source": "Diario Las Américas",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMTFVUWFvQzBDXzU5MEFNRUk1MVlpRjU3Zm9ZQlNtVDEzbEZjaGV0MEV1azJ0by1hajE2a3dYR0gyT1hOOGJJcFE3SXFjQ19sNEwwUmFJNHRyZ0dfTHI3LWdaVzRiRlJ4VjZ2V3c2RWlKeHVETy16TzQ4c0oxOEV5Nkl1emFkc0w3NktsNloxb2RNZ9IBlwFBVV95cUxNREFGbm5PdEt2RmRJdHdCaHRUM3NvaF9PRzhTdTBpQTVZWDB6eXVtOWJTcmpwYnNwM3cwVHJMeUMxR1JaYzFhd0llQWFtdUxpcFN3NGFGOU1iRlR6VzRkdEZpR2Z6VXpJXzZuZEFfM1c2Rl9YdXk0eHZGcWhHQXd1czc5ZXVRZWVITmpXQ29Bdk9XSXBKMU4w?oc=5",
           "ts": 1790870760000,
           "sentiment": 0.5,
@@ -1095,7 +1123,7 @@
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 1.3,
+              "pct": 1.1,
               "dir": 1
             }
           ],
@@ -1103,7 +1131,7 @@
         },
         {
           "title": "Wall Street se recupera tras el dato clave de inflación: El S&P 500 y el Nasdaq suben al enfriarse los precios en EEUU",
-          "source": "eltiempolatino.com",
+          "source": "El Tiempo Latino",
           "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOckJlOTc0WVR0cFdxV2lTOHdLZ1RaM19aVTE4VDRiR1NKWmJ1LXlRR2RUc1VvUGFvaG1feGhnT3lFY19HazlnTHdLZlhnSkxoVm5qNGExczRFc1RVemxTRTlEemp5YnJQd1NnZDVqdmdNV1dKbnVudE5XMjJfRlplVldmM0pMbEVVUjZVWENJbmtBcG9yX19wbFNNMHhrZ19XaUJwVHZnSmRaS0k2N3JKcENHNDlCdmk3TVJjZFJ0U2FTMHRhYVBqelF6S0NXLUZmbDVkYjlqZUJqUGF0YnlJODZQay0tSXlXdXZISlkwX3FOR3J2dTRZYw?oc=5",
           "ts": 1790791287000,
           "sentiment": 0.67,
@@ -1155,7 +1183,7 @@
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.9,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -1261,7 +1289,7 @@
         },
         {
           "title": "Wall Street cierra en alza tras aumento de tasas de interés",
-          "source": "diariolasamericas.com",
+          "source": "Diario Las Américas",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTF9fR0lKYzBLNVZ2Z0t0T3N1Nm1mY0xMdzg5Rm8zS29Lb3dKVWlCNGRDOWdBVDdhQms3ZHVLR2JqY3FCaGpYbkk1dE42M1pMTVh6QTY3b2tSR213RVdLWGd2U3RLeVZBZUVqZk9EWThkeFdBUzNKTGtHeWhTY212WDEyUWdOZGVwT1haelZxRG0xRTd4NmlHYjNWLXpfZ9IBowFBVV95cUxNRHNTSU14S094bFNjOFVjUmF2cjFQd0ZNNFBQVXNtSVA5LVRsRkYtS05pM3JCYXdRMm9DWERaQ0lqeGt2WUNVMFVsYms5SGg3c3ZuYTBoN0YxSTgxcGI3X1oyZ2VqME90NC1oYXg5YWtLcUF5aWk4dkVCS3Y2ZC1QczYwWGlKdDJBQkRqZ0syQ1NRWHJ5eGQ0MlljZzdMRklXVjdz?oc=5",
           "ts": 1789628400000,
           "sentiment": 0.5,
@@ -1282,8 +1310,14 @@
     {
       "sym": "WTI",
       "name": "Petróleo WTI",
-      "net": 8.1,
-      "n": 23
+      "net": 7.3,
+      "n": 24
+    },
+    {
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": -6.6,
+      "n": 8
     },
     {
       "sym": "ASTS",
@@ -1294,44 +1328,32 @@
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 6.2,
-      "n": 14
+      "net": 5.8,
+      "n": 15
     },
     {
-      "sym": "AMZN",
-      "name": "Amazon",
-      "net": 4.2,
-      "n": 5
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 3.6,
+      "n": 2
     },
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 3.6,
+      "net": 3.4,
       "n": 16
     },
     {
       "sym": "GOOGL",
       "name": "Alphabet",
-      "net": 3.4,
+      "net": 3.3,
       "n": 3
     },
     {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": -3.1,
-      "n": 7
-    },
-    {
-      "sym": "MSFT",
-      "name": "Microsoft",
-      "net": 2.3,
-      "n": 3
-    },
-    {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": 1.8,
-      "n": 1
+      "sym": "AMZN",
+      "name": "Amazon",
+      "net": 3.2,
+      "n": 4
     },
     {
       "sym": "AAPL",
@@ -1352,6 +1374,12 @@
       "n": 2
     },
     {
+      "sym": "MSFT",
+      "name": "Microsoft",
+      "net": 1.4,
+      "n": 2
+    },
+    {
       "sym": "TSM",
       "name": "TSMC",
       "net": 1.2,
@@ -1360,8 +1388,8 @@
     {
       "sym": "SPY",
       "name": "S&P 500",
-      "net": -1.0,
-      "n": 14
+      "net": -0.7,
+      "n": 15
     }
   ],
   "ecuador": [
@@ -1379,14 +1407,6 @@
           "dir": 1
         }
       ]
-    },
-    {
-      "title": "Ecuador prepara exportación de carne de pollo y cerdo a Emiratos Árabes y analiza China",
-      "source": "El Universo",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQNkt0ZVdvWlA4RUlNeXBRN2lIUGR4N3dUcndtLUFNd2t1bWRxN3cxajhaMTVsMWVfekU5clg4VXNuUEEzbFRybEYweGFFcWVNaUptNnEyNVRFTEhUX2FtZExYSllSZmZwTW1xTjl4NXI5SFlyU3JRU0UyNWJzeVRMbTIyVDBqU3VQaDRLS1EzVzhCTHJwWEVKZmxyTFpiU1NsVHRWU0tlX1c5akVRYkVvYlBieVlQTmlzbGwyZEhRTlVlbk13c08wQzhzRnRQM09lVTBKS25IS1dGU1ZqZXQzNlJfdmlyVE1qX1FXbXdiOG94dTNEaWN3NDJyMjdCNDZ2SHhRVDl1WS10dV9PVXFj0gGjAkFVX3lxTFByNm5uNjBRXzR5LTYwd2l2V3JLcGRONU1ZY3RJWFQxWVZCdjg1ZDNNLUVlcFlBeFRWWnQ3NlFHMlpNWkZDaVJJWFdOUlFENTJNRkZCVGI2cFRZTHBIT1NkX2c2OWlzZ2lUNVJBNHlTS3JGRGFHa2VHdmFwSHNIeHpDZURUWE05MTJUMXF3MUFTWWVOQlNOb25yeGd6QWRBYU1YemJfbGc4d3hFcUpuRHROMmZoazd0TXFaa2dtWG5sdFlmSU9CdDJOblJYNGYtTl9acGgxZmhlZVF3cXVjLXliU0xmT1JtMEdSUk0ydnM3UGo4bW84TFp5TFVRcEJaenZqZ2pMa3NsVHduZThvTFBWLVhaRXpjaFV0WFZmS3ZvZFVPQQ?oc=5",
-      "ts": 1790694000000,
-      "sentiment": 0.0,
-      "tags": []
     },
     {
       "title": "Precios de los bonos de deuda externa de Ecuador caen en el mercado internacional en medio de la salida de Sariha Moya",
@@ -1575,6 +1595,21 @@
       "ts": 1789282800000,
       "sentiment": 0.0,
       "tags": []
+    },
+    {
+      "title": "El camarón supera al petróleo y lidera las exportaciones de Ecuador hasta julio de 2026; en cambio, el cacao se desploma",
+      "source": "Primicias",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMmhwaE1lVU5Hb1MzTzhvcWNLYlV3bkFFLUVrMnhvTWtreGdfOHJ2WXh5SXhSRkp1UDZ2MmNCekJfa3YydEdaUnh3bV9ZbHhHbXRFNEktNU9xRGtUTUE2bmVEWE4tMG4xRDdQRXhlTU5wRkNTR0tZS1dYNmRBX0V1ZXcxa1NGTkxCVDRjNURFaFR0V09xYmVv?oc=5",
+      "ts": 1789110000000,
+      "sentiment": 0.0,
+      "tags": [
+        {
+          "sym": "WTI",
+          "name": "Petróleo WTI",
+          "pct": 0.7,
+          "dir": 1
+        }
+      ]
     }
   ]
 }

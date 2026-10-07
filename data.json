@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T05:56:36.012653+00:00",
+  "updated": "2026-10-07T12:27:12.226351+00:00",
   "assets": [
     {
       "symbol": "AAPL",
@@ -103,9 +103,9 @@
       "week52Low": 297.38,
       "volume": 27702813,
       "marketCap": 1503513673728,
-      "pe": 349.25,
-      "forwardPe": 177.49,
-      "eps": 1.09,
+      "pe": 352.48,
+      "forwardPe": 177.42,
+      "eps": 1.08,
       "dividendYield": 0.0,
       "beta": 1.92,
       "sma50": 350.33,
@@ -269,21 +269,21 @@
       "symbol": "BTC",
       "name": "Bitcoin",
       "type": "crypto",
-      "price": 84291.0,
-      "change": -1232.64,
-      "changePct": -1.44,
+      "price": 83542.0,
+      "change": -2596.56,
+      "changePct": -3.01,
       "dayHigh": 86648.0,
-      "dayLow": 83648.0,
+      "dayLow": 83542.0,
       "week52High": 126080.0,
       "week52Low": 67.81,
-      "volume": 31965991437,
-      "marketCap": 1693728057301,
-      "circulatingSupply": 20094618.0,
+      "volume": 36466604606,
+      "marketCap": 1678946532583,
+      "circulatingSupply": 20094687.0,
       "ath": 126080.0,
-      "athChangePct": -33.14,
-      "sma50": 80296.78,
-      "sma200": 71726.7,
-      "rsi": 57.2,
+      "athChangePct": -33.74,
+      "sma50": 80280.95,
+      "sma200": 71722.74,
+      "rsi": 53.7,
       "signal": "COMPRA",
       "signalScore": 41,
       "signalReasons": [
@@ -291,20 +291,20 @@
         "Precio sobre SMA200 (tendencia larga alcista)",
         "Golden cross (SMA50 > SMA200)",
         "MACD bajo señal (momentum bajista)",
-        "RSI 57: neutral"
+        "RSI 54: neutral"
       ],
       "quant": {
-        "volAnnual": 37.03,
-        "sharpe": -0.5,
-        "sortino": -0.7,
+        "volAnnual": 37.07,
+        "sharpe": -0.51,
+        "sortino": -0.72,
         "maxDrawdown": -52.52,
         "var95": -3.61,
-        "ret1m": 10.7,
-        "ret3m": 30.46,
-        "ret1y": -30.6,
-        "macd": -214.458,
+        "ret1m": 9.66,
+        "ret3m": 29.24,
+        "ret1y": -31.26,
+        "macd": -264.967,
         "macdState": "bajista",
-        "bollPctB": 50.9
+        "bollPctB": 39.1
       },
       "spark": [
         78225.14,
@@ -346,7 +346,7 @@
         86489.73,
         85770.87,
         85540.09,
-        84290.96
+        83499.5
       ],
       "currency": "USD"
     },
@@ -354,21 +354,21 @@
       "symbol": "ETH",
       "name": "Ethereum",
       "type": "crypto",
-      "price": 2619.18,
-      "change": -81.02,
-      "changePct": -3.0,
+      "price": 2578.07,
+      "change": -130.8,
+      "changePct": -4.83,
       "dayHigh": 2723.16,
-      "dayLow": 2599.82,
+      "dayLow": 2572.44,
       "week52High": 4946.05,
       "week52Low": 0.432979,
-      "volume": 15407362007,
-      "marketCap": 319821405897,
+      "volume": 17597220032,
+      "marketCap": 314848849840,
       "circulatingSupply": 122113300.64452891,
       "ath": 4946.05,
-      "athChangePct": -47.04,
-      "sma50": 2547.28,
-      "sma200": 2126.23,
-      "rsi": 49.7,
+      "athChangePct": -47.88,
+      "sma50": 2546.44,
+      "sma200": 2126.02,
+      "rsi": 45.6,
       "signal": "COMPRA",
       "signalScore": 41,
       "signalReasons": [
@@ -376,20 +376,20 @@
         "Precio sobre SMA200 (tendencia larga alcista)",
         "Golden cross (SMA50 > SMA200)",
         "MACD bajo señal (momentum bajista)",
-        "RSI 50: neutral"
+        "RSI 46: neutral"
       ],
       "quant": {
-        "volAnnual": 52.55,
-        "sharpe": -0.44,
-        "sortino": -0.62,
+        "volAnnual": 52.63,
+        "sharpe": -0.46,
+        "sortino": -0.65,
         "maxDrawdown": -65.4,
         "var95": -4.99,
-        "ret1m": 8.4,
-        "ret3m": 37.3,
-        "ret1y": -41.2,
-        "macd": -16.438,
+        "ret1m": 6.66,
+        "ret3m": 35.1,
+        "ret1y": -42.14,
+        "macd": -19.117,
         "macdState": "bajista",
-        "bollPctB": 6.8
+        "bollPctB": -11.8
       },
       "spark": [
         2457.09,
@@ -431,7 +431,7 @@
         2725.91,
         2710.42,
         2697.17,
-        2618.95
+        2576.97
       ],
       "currency": "USD"
     }

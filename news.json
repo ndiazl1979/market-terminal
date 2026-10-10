@@ -1,26 +1,10 @@
 {
-  "updated": "2026-10-10T15:02:25.740882+00:00",
+  "updated": "2026-10-10T19:14:19.446808+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
-        {
-          "title": "Trump y la compra de acciones de Meta y SpaceX",
-          "source": "Diario El Día de La Plata",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTFozTklGbjFCRmotcFVrQ0VoYmFua0s4VEpvQ0UtR3lGRVlXZ1NUX1Rid2NRMmI5Unh4R0xIZGVaYm1Xa3M5Mmwzd1AwaXJSYTc3SDZnTjZvQzNIY2ZjQVdDN1VEV3FtZzFPNWdEbjhRSWNzRDRSc0JpOHl6Vk0yUjZyVjJEb01QNTZKeGU5WHFJNmlMNzdYSHF2QQ?oc=5",
-          "ts": 1791607020000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
         {
           "title": "Musk vuelve a ser billonario gracias al repunte de las acciones de SpaceX y Tesla",
           "source": "Forbes Perú",
@@ -47,7 +31,7 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.5,
+              "pct": 1.3,
               "dir": 1
             }
           ],
@@ -63,7 +47,7 @@
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": -1.4,
+              "pct": -1.1,
               "dir": -1
             }
           ],
@@ -79,7 +63,7 @@
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": -1.4,
+              "pct": -1.1,
               "dir": -1
             }
           ],
@@ -95,7 +79,7 @@
             {
               "sym": "AMZN",
               "name": "Amazon",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -170,6 +154,22 @@
             }
           ],
           "category": "tech"
+        },
+        {
+          "title": "Pronóstico del precio de las acciones de Nvidia: gana casi un 2 % intradía para poner fin a una racha de tres días de pérdidas, ¿está a punto de comenzar un nuevo rally?",
+          "source": "TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNmw4Z2tyNlBJcFZjSWltWGtnRG9XRS1fbV96QU9FMHljZnhwQ2hGWWtJZFpHX04xbG9QblY4dVc3LUlXdzdoOFVjaWRLcHFONHNzUHBMdjlSMnRfQzNJN3htUndwM2xiRVcteXA2cFBFRXBUbnFsdkNpSmZ2Y09vZGlPemxNNGQxQW1KeThVaEppc3VTSWp5VjZnZElDTnZTM3MxcDVCREVzYjhyazc3N3JuNHR5ZGhDV3c?oc=5",
+          "ts": 1791546776000,
+          "sentiment": 0.67,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 2.9,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
         }
       ]
     },
@@ -177,6 +177,38 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Pronóstico del precio de las acciones de CBRS: retrocede más de un 50% desde su máximo histórico a medida que el giro de OpenAI hacia Nvidia debilita su posición estratégica; ¿se recuperará la acción?",
+          "source": "TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWjBrbUc3NWkzVHpQME1valFUMlNOMVp2REx2UzFEX2I1VzFTSkd2S2JsUkJLNi1XMU96Y3pEeUFxZjNXNUtScVdfRmpLa3ZWTXA5aWxTY0RfdVZmaHNLU1Zqd0FzLXlKTFRDaEhybGxmSEdNWll1Uk8tN0RKMUp0QXhoc1RHajJKME1zT3YtRU1uOFNVbngyVHJNa3hWcjVtUFZYMjBKRVRmUDVyd2JvMnZXMEJmOGtJallFYXc0VEVTZG42QkFpZnZmTHNNT0pVR1lMZF90dlBkSF9S?oc=5",
+          "ts": 1791659262000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Acciones estadounidenses: La ola de inteligencia artificial impulsa las ganancias, pero aumenta los riesgos.",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOenpFb2ZuaDdvY05sQzdMWTMzYnNBbzBkWVRtRkRheklHLWJzSGs5ZnQxOTkwb1VOa20zOTFXaWZqU1VrOEpVVjRCOHBKejJvMkVTc2Rob295VEZTN2xZdWprQ0xLd3htdXlGNGcyakNqZ280SnRXMThIUVpQbjFpbng1V1pIYXJWNHVHZnU2ejZxNDdTODhQUQ?oc=5",
+          "ts": 1791646816000,
+          "sentiment": 0.67,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 2.3,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "UNAM recibe reconocimiento de Google por uso responsable de la inteligencia artificial",
           "source": "Sociedad Noticias",
@@ -194,6 +226,34 @@
           "category": "semis"
         },
         {
+          "title": "Wall Street está inventando un sistema financiero nuevo en torno a los chips de IA de Nvidia",
+          "source": "Business Insider España",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX2pBcnJURUc3R2FydXJ5eDYxaXFXTEtkOVhrdXVlV2d6eTM0aWFwQUlONGV1RUM3TXRNd3BwUzlYdFcwLV80UW1rWjRUY0ZKQnZIU1ZDWTVPcnUyazdUbXRrbWQxNUltbUFDbk1ORDdQeGtMVWZBNWlwZU1faDRGcHF1MWg1aml6aVEzUmd4d2x6TERqUDJJdnd2VndmSjNfV0h4UVNkUU9HLTUtTm0xQ1hlT0JmWnRvYTdoay0zT0R4RzRMN05Z?oc=5",
+          "ts": 1791642203000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "¿Esta imagen ha sido generada por inteligencia artificial? Google te ayuda a responder.",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XcmFsNGxuTEh3Nm05N3VzUmozVE9rdV84NWxmRWNuTlJEYXd5WmlPbFlkUW1Pdjd4MEdTOFZoX25ZdXh4RUhCY1Vpb0VCaWFtSzgzcUhSMkFmNHRhdFhnRWczMTdoZUlaVVZXTTlfeUdNY09nNUJ6aFRPc0QzRlU?oc=5",
@@ -203,7 +263,7 @@
             {
               "sym": "GOOGL",
               "name": "Alphabet",
-              "pct": 0.9,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -251,7 +311,7 @@
             {
               "sym": "MSFT",
               "name": "Microsoft",
-              "pct": 0.7,
+              "pct": 0.6,
               "dir": 1
             }
           ],
@@ -262,22 +322,6 @@
           "source": "DiarioBitcoin",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSkZiSzQ4STZ6M1htUEQyMDBtdWVOSWRWbncwTS1NdUliQlROOWJaaUM4azI5UWx2Tk1FUlVZQmR6UkZYREw4YnJPRFB6c2VuZWY2OWZ2TWNWWlR6cFI5UVNPbjFqQXV5a0xLaVVMWW1rSTBJRi1HX1JfTWdGWThwcndyZ25MOWpEWWZNRThwemJ5bGEwWHR0dU0xZ2xITVByazBucmlTOS1MR3hQc0hvOVl2d3JsTE85dWwtWg?oc=5",
           "ts": 1791556246000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Transacciones bancarias automatizadas mediante inteligencia artificial: ¿Cómo protegen las nuevas regulaciones a los clientes?",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdVVvbUdwNWZtcHRVQ3JLTE9KVTFRWG9kTGZTU19BY0d2clZiT0I0MzdOLWQ1WGczSnQwYU9wb3B2WVpJNHF4THdtZkJCa05sSzhPOFpKaUxKMXk4alRVejgyOVNJUDJwLWdBR2RkaXZITWhZSXJsNjhtNDA3eElNT3ZqbzdzUFRfMHZwR0ZZUk5iMWhUMi1sNVdtODZnT1g2M1FtUWg0OXA?oc=5",
-          "ts": 1791530556000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -304,22 +348,6 @@
             }
           ],
           "category": "semis"
-        },
-        {
-          "title": "Acciones de inteligencia artificial: ¿Dónde están las oportunidades?",
-          "source": "Morningstar",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeTduX2FDSnVQS1NBaFg3bjNwOUJxYTVKUnNiZTlJYnY0TUpTbWZ1bW5FVEV0ektfa2F3eGt1QV92T1pkdF9naHpNeDJkTzJKVkpQU25WaGpWaU5LM05CUS1yN3Fnbm1nbVd2WVhNeFVaNW9uVmJPWXNYMV9ocDRhald1TFVXRmJ0Vng0QjE1MWNNeG9qd3hKSU02UUdTdHRaTmNDRWV5bDNaZw?oc=5",
-          "ts": 1778482800000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.6,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
         }
       ]
     },
@@ -337,19 +365,19 @@
             {
               "sym": "ASTS",
               "name": "AST SpaceMobile",
-              "pct": 3.2,
+              "pct": 2.6,
               "dir": 1
             },
             {
               "sym": "TSLA",
               "name": "Tesla",
-              "pct": 1.6,
+              "pct": 1.3,
               "dir": 1
             },
             {
               "sym": "AMZN",
               "name": "Amazon",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -365,7 +393,7 @@
             {
               "sym": "AMZN",
               "name": "Amazon",
-              "pct": 0.7,
+              "pct": 0.6,
               "dir": 1
             }
           ],
@@ -376,6 +404,22 @@
           "source": "MarketScreener España",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSm5fcGF4eS1pdHJVN25QOGQ1emx0TWR0TE1OLS1aZGJWX3RlREhZbmw4MDRodS03MUdraW05b2dsd2xjaG1oNWM0S3dIMHgwdV9adnJJa29Cc0tISzMtTUxoSHN3QVJycVdWbEdlUXBTdGVCOXVWVjAzQVNWV3l3d2QyZ1ZobEVhbVFYVC0tSUlSaU1sY01DZkNOb0ZscTBOelJTU3JsOHE0QnhtUVlQb0xHNnNtblNPSkw1bXoycnpvOFlTQjJyZ1BoYTJYRGlUM0ZGbjRNUEx0bDA2ZjZHaGYzNjRFVjdoeDAw?oc=5",
           "ts": 1790598994000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "ASTS",
+              "name": "AST SpaceMobile",
+              "pct": 2.1,
+              "dir": 1
+            }
+          ],
+          "category": "space"
+        },
+        {
+          "title": "La empresa de satélites Astrum Space saldrá a bolsa mediante una SPAC de 1.000 millones USD",
+          "source": "MarketScreener España",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMFlkR0JqQU8yMlBxNG95WUVGa0Z4MXNuMXlSY2QwY2FxN0VYcU1WLXI2cTh1TVI0SWtUcktiUlNSemJPM296TndvYlM0TVZvZnFVRTVXZUdjRy1rM3F2OFNoWEhoRll2LW9BYkhkb1J0NU5EQjZNQmw0TGVMaVRlb0F3dTJId2ltbndfRG81OFp1bC03dWFOYUNwaS1fTXBZNUhnbUMyY0JDMXJsZmJqY25uMVNwZmRELTJfSDgyd1AydTRLRVFxNnBfdUkwdXlBUUhJTWFMN0ZCT2RGY1FZ?oc=5",
+          "ts": 1787831266000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -478,22 +522,6 @@
               "sym": "QQQ",
               "name": "Nasdaq 100",
               "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "space"
-        },
-        {
-          "title": "Los primeros resultados trimestrales de SpaceX como empresa que cotiza en bolsa superaron las expectativas, pero los costos relacionados con la inteligencia artificial afectaron a la cotización de sus acciones",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XNnFFMGxsWXVFR3VrVFFoeGRKLXZ2V2JYaVJ5Ymg4WWRnVnJFaDJtdk5mdkxnM3ZDXy1KenUxVzA2TVV2ZngwQnlzUFRNaTdQLXU5R3MzS1RmRWJpODBDYXRQcnZ4b1oxT2tkQi1sOW5WeXVnVlU4?oc=5",
-          "ts": 1785826800000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.6,
               "dir": 1
             }
           ],
@@ -1090,7 +1118,7 @@
         {
           "title": "Mercados: subió la Bolsa argentina y bajó el riesgo país pese a la rueda negativa de Wall Street",
           "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWElqekJqWmVpdURzNnItQ3huTHg4THBMNmlHSU54eTZyMy1nZVlSU3Q2c2pHRU0wMU5jOWZ5VWxIdGQ1M3AyV18wcWFyMnJucV9QMGtPaEh1VTZJNHJZRkQzbHVXUEhZZ3VWR1JhRXlhaWdzdXFPMmV3akxRQkRjMUFPdFBsZ3pjU0hMM3JzZm5xRnZXVTlWM2Uyc3hmWG1zcmp3MGlZNy1uZ09mRHBMdm5kNWhjSlZOcHJHZTE0bFliZWVGQ3pES3NULTl0S3ozVUFpV0Z3SDB6WUFyOWc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWElqekJqWmVpdURzNnItQ3huTHg4THBMNmlHSU54eTZyMy1nZVlSU3Q2c2pHRU0wMU5jOWZ5VWxIdGQ1M3AyV18wcWFyMnJucV9QMGtPaEh1VTZJNHJZRkQzbHVXUEhZZ3VWR1JhRXlhaWdzdXFPMmV3akxRQkRjMUFPdFBsZ3pjU0hMM3JzZm5xRnZXVTlWM2Uyc3hmWG1zcmp3MGlZNy1uZ09mRHBMdm5kNWhjSlZOcHJHZTE0bFliZWVGQ3pES3NULTl0S3ozVUFpV0Z3SDB6WUFyOWfSAfgBQVVfeXFMT0FfSkhqMi1ITlB1QVNPT0pxR2J3ZXVVMHlvcDhHRTFMWXBxMGNpUDVVYzhCY1IwcktCRFBlRUtPMWIyaHNPeDJ0cVN4YTAzUWVlMl9WaTREVGl5UW10UkgyUFd5UDlSWEd1MVNfMnRHdVNCNlpJeVNKZDJGcWZqZDZHQkV6OTZlcGxSNGt5TWdCWk14SDhEMy1ZVzB1UjRfNnFNZEp2TlRFU2p6Rm9BS1p6VS1xTGRCVWRvdlp3TFVkMmF4Y2VEcFVlOUFCdk1OZUhsN185VkVvNzVVTTZENm9fSlI2Y3NkWTBOQWwzNFlzT0YyaEZ4OE4?oc=5",
           "ts": 1791492064000,
           "sentiment": 0.0,
           "tickers": [
@@ -1113,13 +1141,13 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.5,
+              "pct": 0.4,
               "dir": 1
             }
           ],
@@ -1272,20 +1300,26 @@
     {
       "sym": "WTI",
       "name": "Petróleo WTI",
-      "net": 11.7,
+      "net": 11.6,
       "n": 23
     },
     {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": 8.9,
-      "n": 6
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 9.1,
+      "n": 5
     },
     {
       "sym": "ASTS",
       "name": "AST SpaceMobile",
-      "net": 7.4,
-      "n": 3
+      "net": 8.9,
+      "n": 4
+    },
+    {
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": 8.6,
+      "n": 6
     },
     {
       "sym": "ITA",
@@ -1296,37 +1330,31 @@
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 5.8,
-      "n": 15
+      "net": 6.4,
+      "n": 16
     },
     {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 4.2,
-      "n": 6
+      "net": 5.6,
+      "n": 5
     },
     {
       "sym": "AAPL",
       "name": "Apple",
-      "net": -3.3,
+      "net": -2.7,
       "n": 4
     },
     {
       "sym": "AMZN",
       "name": "Amazon",
-      "net": 2.9,
+      "net": 2.6,
       "n": 4
-    },
-    {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": 2.8,
-      "n": 2
     },
     {
       "sym": "GOOGL",
       "name": "Alphabet",
-      "net": 1.8,
+      "net": 1.7,
       "n": 2
     },
     {
@@ -1342,15 +1370,15 @@
       "n": 1
     },
     {
-      "sym": "META",
-      "name": "Meta",
-      "net": 1.0,
+      "sym": "MSFT",
+      "name": "Microsoft",
+      "net": 0.6,
       "n": 1
     },
     {
-      "sym": "MSFT",
-      "name": "Microsoft",
-      "net": 0.7,
+      "sym": "LMT",
+      "name": "Lockheed Martin",
+      "net": 0.4,
       "n": 1
     }
   ],

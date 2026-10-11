@@ -1,10 +1,32 @@
 {
-  "updated": "2026-10-11T14:02:25.474362+00:00",
+  "updated": "2026-10-11T18:46:36.080068+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Wall Street fija el precio de las acciones de Google para los próximos 12 meses",
+          "source": "Bitfinanzas",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SR0tXZkk4VTBXRXBIN2QteXlTSnZFSVlJZGcwWmxVcC1VeENPTGtFal9WSUJjN05xajNSN05YNWpUbmtremdXTFRXZ1JSVXhOcUExLVRKdU5JVUdVNl9wN3NXdXZxSUpOWC1FUmdPNXo3YXJXN2hn?oc=5",
+          "ts": 1791722171000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 0.8,
+              "dir": 1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.6,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Apple Stock Drops After Reports of Reduced iPhone 18 Production Orders",
           "source": "TIKR.com",
@@ -15,7 +37,7 @@
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": -1.6,
+              "pct": -1.4,
               "dir": -1
             }
           ],
@@ -54,38 +76,6 @@
           "category": "tech"
         },
         {
-          "title": "Apple recortaría pedidos del iPhone 18 Pro y sus acciones caen en bolsa",
-          "source": "El Tabloide",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUksxTUQ2MHlKYmwtT2g1eUpYQTM3YzRfc2JwVkZaNFd5a1NXNGs5Z0l5bk92eHdtS1k3Z1FiaElFUk1faDRxOVRjdS01a21NS01aZ2loSWdseXJoOFRCTG9wTzBnaXFMSFlIVncxVzN5Zl9iV2pHaWM0UzRUdHRDeldGN1hOVVdzVjc5cGRGeDJSZW43WEY5bG5FbVFyVUE?oc=5",
-          "ts": 1791671942000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": -1.4,
-              "dir": -1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Musk vuelve a ser billonario gracias al repunte de las acciones de SpaceX y Tesla",
-          "source": "Forbes Perú",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNXBocXZ3eVN4WVI4ODM0eTB0ZGFhU09sNFA1emVKbXhDWlN5SGhXcWJpOFBVOENYNldtZGQ1ZlVYcFZEemphNlhxRXJQdk1pVjZKbElkemJ4aG5jY3dLaUtDTzlDSTFoeVRCUy16YWVuM3d2YXAwNWRCWW41b1JmSGltWktkZC1PV0RzaGpNa01mV3lkdHRaV3NMZHp0bmpRd2UwLWJ1azJMUmFlSFgzR2dkUzRWWEwwWTFuMw?oc=5",
-          "ts": 1791585313000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSLA",
-              "name": "Tesla",
-              "pct": 1.3,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
           "title": "Acciones de NVIDIA enfrentan señal de advertencia crítica: ¿Se está frenando el trade de IA?",
           "source": "Yahoo",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNakFLSzZtcU9FQ250QW9RVDJWbG80UzkxYms5U2dmQ1VnVU9WSExqWl80SlNQQVNXWlVfUDIwZjJ1dWczbmt3UkR1dXhuczVuUlF0N2Q4VjV2VkpsakdwWUFab1dFdUFqUjJYYUN4eWVBaXhROFJwQndHSFZjVFZGSXpLMFlYejcwbl9DaHFKbUxxem4wek5xQlpfemh1UG9jR2ZN?oc=5",
@@ -95,7 +85,7 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.3,
+              "pct": 1.0,
               "dir": 1
             }
           ],
@@ -111,7 +101,7 @@
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": -1.1,
+              "pct": -0.9,
               "dir": -1
             }
           ],
@@ -127,24 +117,8 @@
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": -1.1,
+              "pct": -0.9,
               "dir": -1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Amazon está infravalorada en Bolsa: una analista destaca el potencial de AWS y la IA",
-          "source": "Benzinga España",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORU5wcXByWVBZTzBQQXR5OXZJN3ZHTm11LUpjaUsycDVUeElYUzB0dE1vSnRoaGJ2ci1pUW4waEFHS2ZrNkJKTUJ2WVZjcW5TZTVDYkQ3eUpfcmJIMjRibVpyN2k2bF8zUElxWmw0dnotVC1rX0NFcHZGd19VMzc2YnVWU3JPSW10bDFWRXVSa2lRSzhmZGVic092RUdPTVA3aURHalhObXBQdw?oc=5",
-          "ts": 1791561165000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": 0.7,
-              "dir": 1
             }
           ],
           "category": "tech"
@@ -159,7 +133,45 @@
             {
               "sym": "TSLA",
               "name": "Tesla",
-              "pct": 2.7,
+              "pct": 2.1,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Acciones de Apple caen tras informe que indica que está recortando pedidos de componentes para el iPhone 18 Pro",
+          "source": "Forbes México",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbE5jMDRPUTBVV2FvbHpOVjNndzB4V3NLY3ZXOFRucnpxODFkaXd6QkhwaV9NZUhUbm9RNVVlV0tieHhGRmhBR1pLVTd0Y21kakpEWW5MMDJtUnAtUXVVeVFERUtHUXl0UU03blViSjU5YVR5dVVCSjgzYU0yRkx4OC1ZZ25aLVFxYlRBSGk0Sl8yaktPUksxZzB5aEpvalk3MG02SFltZ1Vlei01QlR5VTB5OTNSUnBJeUxJVzJvRFk4VWNvU1lDM20wb2JDSGs?oc=5",
+          "ts": 1791556680000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": -0.9,
+              "dir": -1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Las acciones de Nvidia y Micron repuntan ante el objetivo de ingresos de $70 mil millones de OpenAI",
+          "source": "Quartz",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVmc4bF9DejMwQWF4V2NHVGJ2NmczekNQbURCbFV3T1VPWnk0Y1A2RW1HR2g1b1NkVUhiNlo2M1NlZUpzUTFpNjRncGw1aGc3Z1lSNVJRc0pid280VmVDWWxTVVd1YURXdEVzVmJXRFk1VUVRNjdUREgzWXhkVTUtRG5QN1B5aUo4bWxFVg?oc=5",
+          "ts": 1791553472000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.0,
+              "dir": 1
+            },
+            {
+              "sym": "MU",
+              "name": "Micron",
+              "pct": 0.9,
               "dir": 1
             }
           ],
@@ -172,48 +184,48 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "Nicolas Cage le declara la guerra a Amazon por la inteligencia artificial y adelanta su llegada a True Detective",
+          "source": "Nación Flix",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPV2pxNGpaUXp4aE5ONG1XTFBmY2o2THlEeEpKMjJGRzAyNkh2YUNETGR6RTdWdXh2Yk9GVUNLWXRkRmJmUUJha1B0YWZKRGVCZWpMbEdjaUdKc1FtUlVWcUFiSGc5UFFISk85Z0lOdUNLUldoZ2hXRVdqZWlhc0NDX1dGY2lTU3pIVjlwanVmenBrYl9zV3BnSmw3aXg0ZnlWeFZyaW5ZYUxFMVJWVE1SODhyRHlkOVh2eTlDblVZRDVHdGd4RjBRMWVCempJNTdKQm9wTmpTUTZLYWJFOFc4NGJIOThzdmRjSEZiWHZGMHNzalZhaGd5UHB3RQ?oc=5",
+          "ts": 1791735060000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "AMZN",
+              "name": "Amazon",
+              "pct": -2.0,
+              "dir": -1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Sam’s Club tiene con descuento hasta agotar stock Smartphone Samsung Galaxy S25 Ultra: con potente procesador con inteligencia artificial",
+          "source": "El Heraldo de México",
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOT1c2alRuVndTMkNVOEpabEw3SDNkbE1hOFZoWElwbnJGMS1yMUVtY3JWWVM1SWdfeTVHbHZvVEhiZksyUFZWOFkyOE5iSUVGU2czb0ROZm1vZE5FMjY0YlN3dVAxeUlVRjh0aEtxY29sd3NKMUFiQ2J5OHpiNENHaHdQVzY2YmNiRlFSMkw2V3RRTHBaLUpQZDZCZ1NrWnJndFRIak9vRlg2U0NCTzNtc3Q2VlZLVUF2cDQ4cGFBUzB1MF9pZlZGSFRwVW1OelItdlpXOWZvR3ZZX1dzUGp4WUlvMjZrWTJPbFkwU3JJTWpYWHNnTlB3cDEyWWNTMVoxZ05qSUpaSnRaSEpFZTRYZEgzeHU1ZEtFZjRVT3JndUMwbkxV?oc=5",
+          "ts": 1791732840000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "\"No soy amigable con la IA\": Nicolas Cage explicó por qué rechazó el acuerdo de Amazon para 'Spider-Noir'",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTUdYY2t6M05KS1hpMWs2ZVdnT19tSl9oS0ZEdW96aUdPQkFRbDViUFh5WWtzemw2RnlOWmpyaXMzTjBuNmZLWGVHYzVWeVlpN3JVWlJCSHZuWjNVdFA1YTNZQTFtY3hhTE5FZXFueVZhWVBGblA3V29KMnQ5R3F5eFJEam5XOVdMZGlleGN5QmFVcEwyZ2toUF83VkpSdVNEOE9xT1lNbmJiR1RxaldyQXRxRzl4QVlERDhwWEdILVlicEVRTGJJeGdoS3FXNkh1dVNHTzlwYUp0SnZCd2NoQXFoclBzYUnSAYICQVVfeXFMTnZuME1vSzRmOFZfa1hNSWtJcWZQdmZXRExDenMwc0ZZVHo3LW9iekl2MV9mQjVOMW15Z1Zub01NZF8xWXJQOWR0UDJaQk4xUEVHcHgwMFNvUHdJcmpxejlUR3p3LVA5TTdhQW5iX1hWXzczQlVoRjRxa3A5VFhEZVFUaVdrRWtob05WdHhDbHlFZ0xRV081dzhIUkZzbnJXOG9ha2JuNlRHNy1oNnJ3WU1rTDZWYlpuVDd3a2lYNFB1WkRtQ3doakVlNXltajV2SUVDbWhEaWVNWkZrMkMyY0M3VENFOEhsUGxkWm9jdzUyb0FIQWQxajNxNjlLMWJaS1Vn?oc=5",
-          "ts": 1791724721000,
+          "ts": 1791727920000,
           "sentiment": 0.5,
           "tickers": [
             {
               "sym": "AMZN",
               "name": "Amazon",
               "pct": 2.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "17 billones de filas de datos al descubierto: un adolescente de 16 años entró en una base de Microsoft ayudado por la IA y cobró por contarlo",
-          "source": "La Razón",
-          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNQWhqM0paOTZ1bzRxeVdXWUZsd3pETjUtQzJYWWYzQ3BDNzZKWTIybXE3OUp5bVV6RkJZWFhVMEZVWEJUcFBfN1JYRThsQ0lKUlI0dUs3X1FONXNQNGhKZG0wZXNCeFE3WThGS3p4cTk1RERnRVRXd1pUUUV4bDVxaW1nWWwwZ1p0RnU3dTlnNnJuWjllaHdNeVRkWTdkQTNzY2RFbzZlWE5OMDhsNS1LYXNHaURhdVBLemVtTzZ3UFlpMUxzZS0xVTRSazN5bkg4YWxNeWU5ZEVDbmFKb3c4T1NxbGhaR0VUVHg0LU1EVmdiTFZjYnh5a01EOUN1LWV3WGZ4cVhhR2J2MlNVQzlsSjBMeWdzZThJYWt3djY2Zlh2azUtWGlpbEd4QnZKLVU?oc=5",
-          "ts": 1791716400000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "MSFT",
-              "name": "Microsoft",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Nicolas Cage desafía a Amazon por la inteligencia artificial y deja en el aire su futuro con el estudio",
-          "source": "La Razón",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSDc1bFB3U3E1V2JVaERwb1NObmt0TXdtX0hPd1ZYbVpjeVNTVEpzQWJ1dWhRUGtUdTVmZFM2MDd5OGN2aE9oSjJWR3NVRmpramg3ZWNQU2RwcWVqR3NTeUVXUnpYSnJxY0l4WHd1SmRoM05wMDFkRWswa2Q4YjRqRjRKNE5xaGswNlFSeThxNFQzQ09hcmNjVUhDTURTS2ZkOVppaS15b2ZOTzhPOHNMMm9EVlp5d0NyOEJnWERzRlFPSmMzRDVTajBCSW5McGQ3bkhhMi05X1NNRGVBS2dSRXFB0gH2AUFVX3lxTE9LWTFYQmJTVU92aU1zbm1wWFV4MzEyWXZHcDkwbUZQRmgxMDVMWWJUeDg2clRCTmtxUTRBYUxaNTNWb0xLUGxZN0ppTkdvRWZFUlhKS1FWa0EwdVRoTl81Z1ZTZUpPTG85NlBmMVdhQXBFbHRKWEl4NF9SY0FFU053ZVNSQ1B1b3FNY3ZSSlhpYlMxcHhjbkFXRldlOE56bEZzYk5mLXBaWWVWa29lMDR0UkFvaHVWUk02MVNiejJtN2dhN1dibmhMcERIazFjYTR1MEpTVld5aGZhV3hFd3BrSTdHcXJNMjBKMTdGdEJRVEFNNXlPQQ?oc=5",
-          "ts": 1791703814000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -230,22 +242,6 @@
               "sym": "MSFT",
               "name": "Microsoft",
               "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Shakira y Amazon lanzan cursos gratis de inteligencia artificial para mujeres: así puede inscribirse",
-          "source": "Teleantioquia",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeERtUHhuRElnTXRJekttc290Ui1QZ21ib2hmOGR5UEpNZ2tJcG1TRzBBc01OT1d1cU9zb25UNUctcmNKTXJGUTFvUlRXR1UzbUtBTHNiS3FzSC1nRjFtVmg0TkdldVhGTnViZkVicTlOWmtRbjJBMFRKam5LVlhhLVZfVDFYY1FzNDE1d1ZUc19ZUm1SM05MZ29MWGQ4Uk5TSXYzX2ljMVhycnlsMGZMMnhtcnNyNWcxMGhONmotUExkSHRaQ2dSSWNLWGk5V05SbWZjRjRFUlNZeVpibUhtdTU0NUbSAfABQVVfeXFMUFIyNGI3aVAzeHRVWGZfRzZpNDhva012WjlFZjk3TUoyU1lkM1V5RThHaXNRMzVuVnlUdEpDWUs0NTB2dklPZEs4d0MtUmpKT2pKVHhNc1FZZnFGQmNhX3dqQUU4TDQ5cE9WYnFZNXFJWXQ1Yzh1WW42VEpOalg3b1U1eDBVNTRlM0xKZkhQUHlyNmVDUGJ2Mms3b2d2TkwwMktTZDh2U2huM0tUTjNJU1JJdGdTcjJvNElzZFdfZjR3MUJwclN0Zy1tMmhzX2NhUnVQOFdpblIzMlM5TkVaZDNacnRoM040eGNzblpadWtp?oc=5",
-          "ts": 1791668087000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -277,13 +273,13 @@
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.6,
+              "pct": 0.5,
               "dir": 1
             }
           ],
@@ -337,19 +333,19 @@
             {
               "sym": "ASTS",
               "name": "AST SpaceMobile",
-              "pct": 2.6,
+              "pct": 2.1,
               "dir": 1
             },
             {
               "sym": "TSLA",
               "name": "Tesla",
-              "pct": 1.3,
+              "pct": 1.0,
               "dir": 1
             },
             {
               "sym": "AMZN",
               "name": "Amazon",
-              "pct": 0.7,
+              "pct": 0.6,
               "dir": 1
             }
           ],
@@ -505,6 +501,22 @@
       "key": "defense",
       "label": "Defensa / Armamento",
       "items": [
+        {
+          "title": "Negociar con «la amenaza rusa»: euroburócratas hipotecan lo público al servicio del rearme",
+          "source": "teleSUR",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xR2ZydUdvNzcxbzhsS1BEZExWbnNYaHJLZXUtRXc1Qm5FUmpxeVQ4NXRpUXFya3pUbFhyRmZJRkJ6Ni0yV3UybWhQcUtUbkdkbTU0QlN5cFQyaWhhdURBUWgwNHVneE4wTFNLZEJ3?oc=5",
+          "ts": 1791740625000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": -1.6,
+              "dir": -1
+            }
+          ],
+          "category": "defense"
+        },
         {
           "title": "Ucrania recibió US$ 1.240 millones de la Unión Europea para fabricar drones interceptores y misiles",
           "source": "Zona Militar",
@@ -948,34 +960,6 @@
           "category": "war"
         },
         {
-          "title": "Las bolsas europeas rebotan en bloque por el alivio geopolítico: el IBEX lidera las ganancias",
-          "source": "Estrategias de Inversión",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWmhnS3dxMTZJTHRUUmtJY2JOcjRseTFVaDFUM2FwZkVxWjZpMjI5alVQQ3h2cjdCU0tCc0E2OHp1cmRUMktRRmhpTFB2eUhCVlVPWHNwanhxbUNsU2RFQUl0dndiTUl0dmtVdVJ2TGp4NkhjWmo2RkJyMmp3YW5FUzBqTExaYTlYUVdZSTNyMkJzczlPNXExZ1JtLTRRWjhUemRUUWtiSDNHcTZGTmMxWEdnVnEzb1pXanR5Z1ZnMUdPMVZiYVJ30gGeAUFVX3lxTE1QRFdpTmh1SXZVM19kWXJzdUg2Yy1RWm5FaXEyc2xXY2xTajhKcDJIQjNVLTlJNTFxc19zMmhkLVl1RDJJeEF0Y3J1emF4VlZYZUdyTTJVb3pZSUlGRjBvMUlrakZQeW44SVczTGR0NHp3T3RXcHpGNWNITnJiel9lNm1ETElXdG90dUlaRDRZY0E5RS1rdDdKNjc0X3NR?oc=5",
-          "ts": 1781247600000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": -1.3,
-              "dir": -1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": -0.9,
-              "dir": -1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": 0.6,
-              "dir": 1
-            }
-          ],
-          "category": "war"
-        },
-        {
           "title": "La Bolsa cede ante el cóctel de guerra, inflación y ajuste tecnológico",
           "source": "Cinco Días",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFdPMVR0UGdRRVRXTUc2RVMzbm5MZU9yMWpxY2FGVU9ncTluWU9mbDFyYlhGdjFMLXpUX2VIU1lPaTRxMWlVNmt6MWU5Q2JJaDlhVm5LZmpyWTlDWkZZY2RMWDBxeHR1WXlYNUt4SEQ5YXNtM2tUX3JLN0ZnOTRZTlFldHg4Z1VNZ2FMNVBEcjTSAaQBQVVfeXFMT0c1TzRQNEVWYWdWaDJpU0ZFTGJYd2NTdUNubFdqaTlSVVdnU0Z6ZXV6TllsSUhfc1JtUnFycHRKNUNyUXpmY2s5bnlTZHZLcGY0Q2l1R1VuZlVFNXlGQzcycjRDN1ZlTlVRbXVuZ3hnNDMxel84Y0I0dWhkS29kY0RPWWVRcnlXUzY1RWlmcTA3bll6enJfckxoMURnNm9EdHFCNWE?oc=5",
@@ -1071,6 +1055,34 @@
               "name": "Nasdaq 100",
               "pct": -0.7,
               "dir": -1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": -0.6,
+              "dir": -1
+            }
+          ],
+          "category": "war"
+        },
+        {
+          "title": "La Bolsa se olvida de la guerra y empieza mayo desligada del precio del petróleo",
+          "source": "Cinco Días",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd3RHbkpjaTBENEd5S0FlSjVHaFVBbW5TTW9jRmV2bmkycUhaN0p3MThWZVdpOTlPTEJ6QjNCV3E5dTJpSklERURxWWtyS3V5UzdhQi1GRXFiX1AxcDg4MUk4R3hld2lTM1pqOG1xR1poMGpyUXVlU3RxTl93OHp6VF9kemRMV2RlMUFWeW1BVkwxNDZuWFd3Wk9jcTB3ZjVoQ09ZZ0hfcHJ4QWZqZmFJS1FMVTFQcldOTHpLTEZWWWhfVEVIeVI5NzI0Wk1RdURxQmNLRVhxRkZMSjBHeFZB0gHzAUFVX3lxTFB3YTQxeUlLWlNSaTJ3RW1nS2FtT1BncF9KcWZXeHFkWXd5S3JQYnMtNWNfSTN2VVR6b20tNFl5cG4zdmQxQjBSWVptcUhPRjcwWnR2c3Vhd0hlYnljQmsxWngwR3ZFbUZZcV90ZWQtT3NjTVdfV0t5VERjby1FTzN1cXN4NWFjcjlmTmt4a01kcnVyVVBweUtxbER4OENEMTFDUUNkbUkxZGloNkVKcVFsMVJkdVRUVGxMWjh2MG9XdjhCRE9ZcDctMkxLTGlxVlpPSkllTE8yMjdzOEFVQmstN0pmS1JGQWJxbUNmMjVKOTNUcw?oc=5",
+          "ts": 1777532400000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -1.3,
+              "dir": -1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 0.9,
+              "dir": 1
             },
             {
               "sym": "SPY",
@@ -1278,67 +1290,73 @@
     {
       "sym": "ASTS",
       "name": "AST SpaceMobile",
-      "net": 8.9,
+      "net": 8.4,
       "n": 4
-    },
-    {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": 8.3,
-      "n": 6
     },
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 7.0,
-      "n": 14
+      "net": 7.2,
+      "n": 15
     },
     {
-      "sym": "AMZN",
-      "name": "Amazon",
-      "net": 5.6,
-      "n": 6
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": 6.1,
+      "n": 5
     },
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 4.4,
-      "n": 15
+      "net": 4.9,
+      "n": 16
     },
     {
       "sym": "AAPL",
       "name": "Apple",
-      "net": -3.8,
+      "net": -2.7,
       "n": 6
-    },
-    {
-      "sym": "MSFT",
-      "name": "Microsoft",
-      "net": 1.9,
-      "n": 3
-    },
-    {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": -1.8,
-      "n": 2
     },
     {
       "sym": "SPY",
       "name": "S&P 500",
-      "net": -1.2,
+      "net": -2.4,
       "n": 12
     },
     {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 0.8,
-      "n": 1
+      "net": 1.7,
+      "n": 2
     },
     {
       "sym": "GOOGL",
       "name": "Alphabet",
-      "net": 0.7,
+      "net": 1.5,
+      "n": 2
+    },
+    {
+      "sym": "AMZN",
+      "name": "Amazon",
+      "net": 1.2,
+      "n": 4
+    },
+    {
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": -1.1,
+      "n": 3
+    },
+    {
+      "sym": "MSFT",
+      "name": "Microsoft",
+      "net": 1.1,
+      "n": 2
+    },
+    {
+      "sym": "MU",
+      "name": "Micron",
+      "net": 0.9,
       "n": 1
     },
     {
@@ -1508,19 +1526,12 @@
       ]
     },
     {
-      "title": "BCE informa cambio en cálculo del riesgo país de Ecuador",
-      "source": "El Comercio",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORV81MmRMRjdtTUtLOHdCa2hUSkFHYWduOWlmVUxfd0Z5TWMydURRZmphTnRTUG9jeDlBNENBX1h3N3loWkpmUHVoV3lsRC1aZVVMenlvY090ajEzSDRTS3VNM1FsVld4THpNRHdXakNlMFRJYkkySjc3UE1yU0hvY3VTZ0ZzYWZWd204eDNiRW5QejdMQzhsZnk3eFI4cTNtNF9ibTJVUQ?oc=5",
+      "title": "De Ecuador a China: empresa ecuatoriana prueba su mercado de ‘snacks’ en tres grandes ciudades",
+      "source": "El Universo",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZWFMRDFJTC1SYmJ2YXlzTmhhUGQ0dHVDYWhOSmw5UW81X3ZwZVZOR0NyWDhLalZWdEE1Qm1rNmRVRlVSWlBkRFM0bE5sZEdvbDVwa0JGMnZySi1sNVpPWDRMVHdqWHdSOTBUc0VXRC1YMno0OUp6SDF0eExOc2dIVHN6bEpXTE9nMVByb3U0VXcwd3ExemtQWjZPRDgtRmVoM3VBakw2dzUxNlYzcHR1ZzBhNXBkV1NFX2dCN3UwWXpwS1lXYU5sclRER2J4ejVROTA1Q2s4UVFJQdIB7gFBVV95cUxPVm9xZXdyMHh2VFdicDc4cEJOaUFwV3Y0LWRpWF9KbkZrM1ZmemRaZ1FrUmxZcElDQlZ3VWlNbGZqRzZ3X3puRVQxT2h2S0xkNmlpb2VPdEplU3dCUk9UeFFjSV9fV29GdHFkdE9STmpxR1ZnblRfQW5veU94MXpFLVlzZE5PU0xMMDZfSVI4WXcyWXgwWDV1bHFjUVltZXJMSGh1SDlYbnI2ZWNyY2JwYXFrZVdKMlVpWE80eEpvN0VsbmktTVhpQXZJLXNodWZxWVdNQ2N2ZXpnWVlZTWZzaWZ2ZnU3ektzS1k1b2ln?oc=5",
       "ts": 1790060400000,
       "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "RIESGO PAÍS",
-          "name": "Riesgo país (EMBI)",
-          "pct": null,
-          "dir": -1
-        }
-      ]
+      "tags": []
     },
     {
       "title": "JP Morgan cambia la metodología para calcular el riesgo país, ¿qué pasará con el indicador de Ecuador?",
@@ -1538,9 +1549,9 @@
       ]
     },
     {
-      "title": "J. P. Morgan actualizó la metodología de cálculo del riesgo país",
-      "source": "El Universo",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORy1qcnpLMlBPdVpZODl0MC1nZ1YxX05CV2VleTJacmE5cnNSWXNLRjB4YUNvZjNlS1BKVlppNVJoV0xtUWZoUTI2UnZNN25HVzNSNEMyTklEOGRQZW81dE1WSGdSWUlDd0pEVWF1dmhxMXRvTWQ2aDZtTTlkMVdIVlBOdFd1cTRzLTEzYUhZcmVUajl0VnpWQUZRQzItd0U4akh4emlodHhrN1R5U1hfNnlmZ9IBxwFBVV95cUxPaXJaa3k1OWxnaTZEdnN6ckt2RFI3MWptYTdsNzR3WmZPd0k4Wmd4QWtmSE9WY0dsRlhvcVl2ZkZrb0habWZCU3hZUmUwRkRMX09ITC1lV08zLXZERUJBXzRUUGlhVkRyakFtYXVwbk5jNEY0akJOYnlsY1RSZXBtRVNFTXQyeWZ4alIxUDdvVG9XWGt5MjlQbzdzcmhQU2phMUprWV9Mb0d1MUpxQzY1Q3lhVklLekpvUGVvNzROek8zRlI0eVpZ?oc=5",
+      "title": "BCE informa cambio en cálculo del riesgo país de Ecuador",
+      "source": "El Comercio",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORV81MmRMRjdtTUtLOHdCa2hUSkFHYWduOWlmVUxfd0Z5TWMydURRZmphTnRTUG9jeDlBNENBX1h3N3loWkpmUHVoV3lsRC1aZVVMenlvY090ajEzSDRTS3VNM1FsVld4THpNRHdXakNlMFRJYkkySjc3UE1yU0hvY3VTZ0ZzYWZWd204eDNiRW5QejdMQzhsZnk3eFI4cTNtNF9ibTJVUQ?oc=5",
       "ts": 1790060400000,
       "sentiment": 0.0,
       "tags": [
@@ -1553,9 +1564,9 @@
       ]
     },
     {
-      "title": "JP Morgan cambia su metodología del EMBI: el riesgo país de Ecuador registra un incremento técnico",
-      "source": "La República EC",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOXBVYXMtUHpqejBseHNOSDRiVTRiOTJVTEtjM05GYTZ3LVNLTnFIV3dUS1FEM1BFTEpZY005Y0xfTFduclp0VmNZbEJueENTWUl2VXVIQjFVYzhBTmNaSU8wYlRVYWc2QnRicGdxUXE5aGwzQkhjT3Z1REJKdDM0WVBWX0RUY2VQTjlPVzNwRGFwZkdFUlAxNEZkZWtEWHFZUnZKRUVVaEdjZTZiY2JDV1g3VjQtQXdwZHJ5WWRQYW1GTWZUOGZoaDZwbldZQTB0eS1teEQxMkk?oc=5",
+      "title": "J. P. Morgan actualizó la metodología de cálculo del riesgo país",
+      "source": "El Universo",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORy1qcnpLMlBPdVpZODl0MC1nZ1YxX05CV2VleTJacmE5cnNSWXNLRjB4YUNvZjNlS1BKVlppNVJoV0xtUWZoUTI2UnZNN25HVzNSNEMyTklEOGRQZW81dE1WSGdSWUlDd0pEVWF1dmhxMXRvTWQ2aDZtTTlkMVdIVlBOdFd1cTRzLTEzYUhZcmVUajl0VnpWQUZRQzItd0U4akh4emlodHhrN1R5U1hfNnlmZ9IBxwFBVV95cUxPaXJaa3k1OWxnaTZEdnN6ckt2RFI3MWptYTdsNzR3WmZPd0k4Wmd4QWtmSE9WY0dsRlhvcVl2ZkZrb0habWZCU3hZUmUwRkRMX09ITC1lV08zLXZERUJBXzRUUGlhVkRyakFtYXVwbk5jNEY0akJOYnlsY1RSZXBtRVNFTXQyeWZ4alIxUDdvVG9XWGt5MjlQbzdzcmhQU2phMUprWV9Mb0d1MUpxQzY1Q3lhVklLekpvUGVvNzROek8zRlI0eVpZ?oc=5",
       "ts": 1790060400000,
       "sentiment": 0.0,
       "tags": [

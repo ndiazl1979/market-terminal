@@ -1,10 +1,26 @@
 {
-  "updated": "2026-10-10T22:34:02.731973+00:00",
+  "updated": "2026-10-11T01:12:33.854310+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Apple recortaría pedidos del iPhone 18 Pro y sus acciones caen en bolsa",
+          "source": "El Tabloide",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUksxTUQ2MHlKYmwtT2g1eUpYQTM3YzRfc2JwVkZaNFd5a1NXNGs5Z0l5bk92eHdtS1k3Z1FiaElFUk1faDRxOVRjdS01a21NS01aZ2loSWdseXJoOFRCTG9wTzBnaXFMSFlIVncxVzN5Zl9iV2pHaWM0UzRUdHRDeldGN1hOVVdzVjc5cGRGeDJSZW43WEY5bG5FbVFyVUE?oc=5",
+          "ts": 1791671942000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": -1.6,
+              "dir": -1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Acciones de NVIDIA enfrentan señal de advertencia crítica: ¿Se está frenando el trade de IA?",
           "source": "Yahoo",
@@ -154,22 +170,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Acciones de Apple caen 1.9% tras reportes de recortes en pedidos de componentes del iPhone 18 Pro",
-          "source": "Revista ADVFN",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNFlreTB0R0hvWjNSU3ZxRVRqNG1hbHdYczVua05zSUo3U2pRUFBtN2UzZnh2S0sxMXpMWUVVbHVqa0kyeFN4bFBBaXRoTUJoaEdnTl82aWo0eWVMeUYtenVnUU8yckowZ1FqakZxTmhyZExmMW5OOVZVdXNORU1QUXVFS1dBeG0xYVRrU1RNSnhwXzlkZEg1M3pjbTBqR3dYV2VtTGpZVmM3TW9FaE1DLVpiTnFkNjAyRlNxTFo0bWExWlZFeElxck56djJTbFBPSWtXT2NVblFFZHVHNGwya1VSQTM?oc=5",
-          "ts": 1791543188000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": -1.1,
-              "dir": -1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -235,7 +235,7 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             }
           ],
@@ -280,50 +280,6 @@
           "category": "semis"
         },
         {
-          "title": "Wall Street está inventando un sistema financiero nuevo en torno a los chips de IA de Nvidia",
-          "source": "Business Insider España",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX2pBcnJURUc3R2FydXJ5eDYxaXFXTEtkOVhrdXVlV2d6eTM0aWFwQUlONGV1RUM3TXRNd3BwUzlYdFcwLV80UW1rWjRUY0ZKQnZIU1ZDWTVPcnUyazdUbXRrbWQxNUltbUFDbk1ORDdQeGtMVWZBNWlwZU1faDRGcHF1MWg1aml6aVEzUmd4d2x6TERqUDJJdnd2VndmSjNfV0h4UVNkUU9HLTUtTm0xQ1hlT0JmWnRvYTdoay0zT0R4RzRMN05Z?oc=5",
-          "ts": 1791642203000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
-              "dir": 1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.8,
-              "dir": 1
-            },
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.6,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Reconoce Google a la UNAM por su liderazgo en el uso responsable de la inteligencia artificial",
-          "source": "DGCS Unam",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fNHFyNGtoeVlNcUZKWUd0OEZsdVlpVVAyZTJMS1dORjR2NGlZbU03Z3d0V3hmWUNIbFZZRFdadlZ0TzRzREhMQ2ZfSGdycTBPWnNhLXNxcUZaUGY5ekc4d2FzcVJLeEE?oc=5",
-          "ts": 1791641012000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
           "title": "¿Esta imagen ha sido generada por inteligencia artificial? Google te ayuda a responder.",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XcmFsNGxuTEh3Nm05N3VzUmozVE9rdV84NWxmRWNuTlJEYXd5WmlPbFlkUW1Pdjd4MEdTOFZoX25ZdXh4RUhCY1Vpb0VCaWFtSzgzcUhSMkFmNHRhdFhnRWczMTdoZUlaVVZXTTlfeUdNY09nNUJ6aFRPc0QzRlU?oc=5",
@@ -350,6 +306,38 @@
               "sym": "SMH",
               "name": "ETF Semiconductores",
               "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Microsoft presenta su nuevo dispositivo tecnológico que usaría inteligencia artificial de forma local",
+          "source": "NTN24",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTkFaQUF1NmZiQVFVZFNEM0JyYlpVYktXWjRjT3l5c2x1c01lR2VmQXRDMFRjQ0VQcDFlNFBIbEpoQXNhcWZVY3U1UUxraXNFbWFLd08xaU1DZ3VmZWJwdUloNGtoOFI2YVNaZmlhWmRFVEVkUEdWMlpmcHNaYVlVaURwaXB5MHVET29TNTZKS3ZMQW1qRVB2RllIQko0RlRqUlloQ3ZPZTlrT01zajBoS3BLUkZlbi1jcjh4S05nbC01TUxQc01SdUtJN3Y0cjRFOHpISjd1Z9IB1wFBVV95cUxQd0xsVC1SUmVjSnpQNE5IMExPZUxpWWswSHRWRktkdUFrRlRkbWRMRGo0QkZQN1BFLWFtb2xnYTZ5amF5MjhVNzdSdjE4Ym1lYk1Cc21TWGUzUmZIM0FRQy1rQjJIX0lLYWpqUmR4MlE3dFJuemtjMHlmU1JwNG42bDV3Y1VqQ19FUm9QeFp5bk9XNEhXaUVRb2g2QzV3cnZFakNZWEd2YUJRNUZNcGljVW41WFB5azNQNlVhb3lwRTVTeE5wWkRuVEpLZy14MEcyUnJJdEo2OA?oc=5",
+          "ts": 1791565231000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "MSFT",
+              "name": "Microsoft",
+              "pct": 0.6,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Aptos compromete más de USD $50 millones para trading e inteligencia artificial",
+          "source": "DiarioBitcoin",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSkZiSzQ4STZ6M1htUEQyMDBtdWVOSWRWbncwTS1NdUliQlROOWJaaUM4azI5UWx2Tk1FUlVZQmR6UkZYREw4YnJPRFB6c2VuZWY2OWZ2TWNWWlR6cFI5UVNPbjFqQXV5a0xLaVVMWW1rSTBJRi1HX1JfTWdGWThwcndyZ25MOWpEWWZNRThwemJ5bGEwWHR0dU0xZ2xITVByazBucmlTOS1MR3hQc0hvOVl2d3JsTE85dWwtWg?oc=5",
+          "ts": 1791556246000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -518,16 +506,16 @@
           "category": "space"
         },
         {
-          "title": "El gasto disparado en IA de SpaceX diluye su crecimiento y hunde en Bolsa a la empresa de Elon Musk",
-          "source": "Cinco Días",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeUhsc2I0YlA4WVJmMGNGa0RvWWNaSjBrZndyOEFpRGwzYXpBVDE3U2k2UGhmWW55NlNQOHB2YUlYZEdpWC1RU1BRSE5seWNTSFotU0x2OFFESGl5a3FaWktWeHR3aVk4UUlhTkN1bUNkNzNKb05OT3I2bERGckN0OXJ1M2Vaa19ZWDQ1MnNNOW0yc0ZTMGQ1NnpBMkxKWlFyZGxrQmRmOTlWWkQzQzZSemlHU0ZMVC1raWRjbXVGUHBsbGJwckFOTjUycXN5M2h2Zk5kQVg2WmZZRXBaUmtnUVJCejJkd3g0R2NCbEVlYmlnbHhSVkZiWGNBUXR6QdIBkgJBVV95cUxPTlA5ZVZRQU9IN1M0SjFXZHFINFBpbHEyZnMtc1ZtTDZjMjRMU29TY0kzOEJaOGFCZk5vYm5Cc29BNlJzaWMxUlgzQ3FYdzBfM3l1b0lYOFN6ZVRPQ0ZpeElDRTg2UXdXaWhNbm5HVk1CT2Z6eHFZZVdPZFgwVjJBNDN1V1FVM3F6ZkhFWHVUdkhFUHl1MmNKYWt3bEY2T1JIWTBvV1JtVGVOeU9KQUJRZUstaHFURkpid0Z1cXdsMlFGRVV2UE5FaE5QX3N0STJ3SGxTNnFtTHdMM2FGS21uTEJvbE1kM0diNjlucVFoTHZiU0FsLXlVeC1xMjVQcGwwM1Z0REJnbTR1SFdOSFpxTXB3?oc=5",
+          "title": "SpaceX ‘se estrella’ en la Luna y en Wall Street: se desploma en bolsa tras su reporte trimestral",
+          "source": "EL CEO",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcDRIR2hweG5aVDQ0R0M3ekVJRTNIZVA4V3plUDFiNFpxcFVnbFRyMVpsVzJxOEt6NHE4RTh6enBRMWlqZExmTi11QU00WTVCU3F5dVZCNXRLbjFKZ3E1SGJXOF9sQjlaMHRya2t5b1RNdXNKZTYtaVRXLTlGWk9sbVNYQmxUUVdlaThodHAyM3NqaGYyTEFseGsxRXN0bDVlOWFheld6VXl5TmtJN1laRDRERFFtam5tc0NPMW1hRQ?oc=5",
           "ts": 1785913200000,
           "sentiment": -0.5,
           "tickers": [
             {
-              "sym": "TSLA",
-              "name": "Tesla",
-              "pct": -2.1,
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": -0.7,
               "dir": -1
             }
           ],
@@ -714,6 +702,22 @@
           "category": "oil"
         },
         {
+          "title": "Los precios del petróleo suben ante la llegada del huracán Isaías a EE. UU.",
+          "source": "Diario Libre",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOODNYNDd3QkFfdWlaeUtHRjRpQ1FjZ1RrbGcyY1pEd3M1OUhCdFJCbE5CQUZqUmJOaDdPNmg5UzRWSENSdXNXUnJ1bmQ4MWJnVGhuenNmaERGUVUxYzVRTVotMGhCYzdzRG5xNVFRNkxCcE5udGpiWVp4NmNVNkU5cWxQV2ZFWkdScXZwalJHSEZtd3M0aW9sRVlBT2FjbUNHdmVzVW9rMNIBrAFBVV95cUxNOERtU2hvdXpuNVQtR1dNWVB1MEZhY1hsbnM0RWxaQWpuX19PLU8zVDViUmFfYldyLWhIaFFtT3Q4MWN5ellCdl9CQktrYURqZ3h0SWF1YmNKZ3oyQW5YemlzNjBXNC1wRXk5U21MRXpPZk9oenI1ZUwzNDBhWXJQMzdiMUI3UTUwSTZXQThBTUVDbE8zWS1QZGJtVnJHNzA5Z08wUFVrdzN6YWN1?oc=5",
+          "ts": 1791583020000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": 1.7,
+              "dir": 1
+            }
+          ],
+          "category": "oil"
+        },
+        {
           "title": "El barril de petróleo se abrata a 103 dólares ante la distensión militar de Trump",
           "source": "Andalucía Información",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcUtBa2JxaE1SclFVdEQ0M082U3FWVlZxWFdVd1JfbFN3dHIyS242OXBKRG0zVURTSXpKVWFWMmJHMmVBY2lPcHBsTElrakhoMFExZFlRSEZwOFM0c3JIdzVlRm9SVTJHeXFLcF9aVEg0NENNczlGQURValp1d0g5NnpoT1VUNFdPWnlyY1JzcGZrRlpIXzZ3Yms3QkRvTjNDMFd0Ui1MSzBJY2NoaUl3eXVxOURLUW1tRVdNR3Z0OFdjNVZKNHZsTWVlOFo4RjFET29mcNIB2gFBVV95cUxPWEx0UzZBMTlvZHFRUWQ1RjVrQmNZdU9fWmNGY2JMVFppbkVsWTVCQzJ6LVp2MEtrTXVPSnAtNjV6R3JxUXQxQ0tsVFAwdGFqUGdxRDJrNW9nR1Q1dm9NdFlBaGE0QnFDaUstelYwemxvUlBGOWVia1NBWDBvRlRxM3hRbjhrTDFsTnpjX1B6STZ1M0thZjBDOHhHdllRZjlRQy1pdGg5UWRZNmJOQmhIVEp1WS1IQlB1cDFfXzRfQnZlamY4V3UyQlRkbXBMM1d0RGhNa2thdWlWUQ?oc=5",
@@ -820,22 +824,6 @@
               "sym": "WTI",
               "name": "Petróleo WTI",
               "pct": 1.3,
-              "dir": 1
-            }
-          ],
-          "category": "oil"
-        },
-        {
-          "title": "Precios del petróleo: el brent se vende en 102.31 dólares y el WTI en 92.87 dólares",
-          "source": "Diario de Yucatán",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQazF2TDBYbk9TbWNza2RDU2Z0Ujd4emVFUHBkNExrOUszUm5PM3Fhby1LSXVfb0wwZUs2ZVNySEktYnk0Tnh2RlhmR25NSTNOTVFLREJOYjRsZDd2TFN6d045LTNDdDVlakFUajRwTnZDZVpGalh6V2xhR1ZER0FJYzNfaFRNaEVpWlNoRUcxYzQ4eVFrSDNTb3F4WlV3emhJX183eWhCUnduMmVCVFI3VlNfZXY5YmJidS1LdVhtdUNueTN0S2xkZDNNbG5adTRKUEE?oc=5",
-          "ts": 1790888667000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -1312,8 +1300,14 @@
     {
       "sym": "WTI",
       "name": "Petróleo WTI",
-      "net": 7.9,
+      "net": 8.9,
       "n": 23
+    },
+    {
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": 7.0,
+      "n": 5
     },
     {
       "sym": "ITA",
@@ -1324,31 +1318,25 @@
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 6.1,
+      "net": 4.8,
       "n": 16
-    },
-    {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": 5.2,
-      "n": 6
-    },
-    {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": 4.9,
-      "n": 6
     },
     {
       "sym": "AAPL",
       "name": "Apple",
-      "net": -3.8,
+      "net": -4.3,
+      "n": 5
+    },
+    {
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 3.4,
       "n": 5
     },
     {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 3.4,
+      "net": 3.3,
       "n": 4
     },
     {
@@ -1360,8 +1348,8 @@
     {
       "sym": "GOOGL",
       "name": "Alphabet",
-      "net": 2.4,
-      "n": 3
+      "net": 1.6,
+      "n": 2
     },
     {
       "sym": "SPY",
@@ -1373,6 +1361,12 @@
       "sym": "MU",
       "name": "Micron",
       "net": 1.1,
+      "n": 1
+    },
+    {
+      "sym": "MSFT",
+      "name": "Microsoft",
+      "net": 0.6,
       "n": 1
     },
     {
@@ -1436,14 +1430,6 @@
           "dir": 1
         }
       ]
-    },
-    {
-      "title": "Banco de Machala capta otros $15 millones mediante emisión de obligaciones",
-      "source": "expreso.ec",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNmhKNFFGY0lwVFVweFpFdUdkTE1LYVVIZWt0Y3pnaWhpRFQzVUlYOTBCdjJVYTFMdGlTTFZzcm1fUzdNSWE0Ml9GV3JrWGhGcXJ1OHh1SWpUUjNtTFM5TldtbXJkUklMbXM3cEQ0cmlITHdTV3R4WW0zcFBFZGhZdk9kdHJKSjhaY0pNYzdzNzJBVDdSRF9mVXBDNzk3N0h2T3RleEdJb1dGa3Rra0djcnliSzJzWE9WY3FmUGFkSQ?oc=5",
-      "ts": 1790785486000,
-      "sentiment": 0.0,
-      "tags": []
     },
     {
       "title": "Precios de los bonos de deuda externa de Ecuador caen en el mercado internacional en medio de la salida de Sariha Moya",
@@ -1535,9 +1521,9 @@
       ]
     },
     {
-      "title": "BCE informa cambio en cálculo del riesgo país de Ecuador",
-      "source": "El Comercio",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORV81MmRMRjdtTUtLOHdCa2hUSkFHYWduOWlmVUxfd0Z5TWMydURRZmphTnRTUG9jeDlBNENBX1h3N3loWkpmUHVoV3lsRC1aZVVMenlvY090ajEzSDRTS3VNM1FsVld4THpNRHdXakNlMFRJYkkySjc3UE1yU0hvY3VTZ0ZzYWZWd204eDNiRW5QejdMQzhsZnk3eFI4cTNtNF9ibTJVUQ?oc=5",
+      "title": "JP Morgan cambia la metodología para calcular el riesgo país, ¿qué pasará con el indicador de Ecuador?",
+      "source": "Primicias",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWVh3aE9nZU5sSklLNEJ2UG1vcEh2cDVzNGtacTFEY3hSQmF3SUVONHFLcjJNbXlic0cxak1Ia2VqM1lTOW1tZzdSV1VTaEdmUUJ2UmM2bUZLZjlKVDhnR1lSR2gyTUtoSzllRG9nLXoxNmlmUGpyS3hBWmN1Z3RKekxVdEhiZ3NoRFlhV3FwMnlCbmVORk9tZl83dndqOXpO?oc=5",
       "ts": 1790060400000,
       "sentiment": 0.0,
       "tags": [
@@ -1550,9 +1536,9 @@
       ]
     },
     {
-      "title": "JP Morgan cambia la metodología para calcular el riesgo país, ¿qué pasará con el indicador de Ecuador?",
-      "source": "Primicias",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWVh3aE9nZU5sSklLNEJ2UG1vcEh2cDVzNGtacTFEY3hSQmF3SUVONHFLcjJNbXlic0cxak1Ia2VqM1lTOW1tZzdSV1VTaEdmUUJ2UmM2bUZLZjlKVDhnR1lSR2gyTUtoSzllRG9nLXoxNmlmUGpyS3hBWmN1Z3RKekxVdEhiZ3NoRFlhV3FwMnlCbmVORk9tZl83dndqOXpO?oc=5",
+      "title": "BCE informa cambio en cálculo del riesgo país de Ecuador",
+      "source": "El Comercio",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORV81MmRMRjdtTUtLOHdCa2hUSkFHYWduOWlmVUxfd0Z5TWMydURRZmphTnRTUG9jeDlBNENBX1h3N3loWkpmUHVoV3lsRC1aZVVMenlvY090ajEzSDRTS3VNM1FsVld4THpNRHdXakNlMFRJYkkySjc3UE1yU0hvY3VTZ0ZzYWZWd204eDNiRW5QejdMQzhsZnk3eFI4cTNtNF9ibTJVUQ?oc=5",
       "ts": 1790060400000,
       "sentiment": 0.0,
       "tags": [
@@ -1593,6 +1579,14 @@
           "dir": -1
         }
       ]
+    },
+    {
+      "title": "El mercado de motos se acelera con el 68 % de ensamblaje local",
+      "source": "El Universo",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMExLbDZYN3g3eGMxcWdmbnd5NjFEUFlwUnFfOTNWczdKTGNuSDR2WFpvWE4zRkwxUjhITEt0MHdFRC1FeUVnWTJmM1h2bllQUVh2eG1IUmE1SW5nUDhqRlp3N1g5M3RJeG5EZkd4MGtlcHR3eUJBR2RzOFlEWmtUZEd2RzI0SDlYWDdaTUpJQzBfRDJ5S3FDdG1HMUl0TzlkUnhldzBOVzlGNGxqSC1hVUxiNTJ4OXdiNW1Sck5hZWlaWjVNREdsaHB0dnBNLW5XU3FibzlROUvSAewBQVVfeXFMT285UzZlQjNHUmxyTFpieWtBd0VuSHRTbFE2eFh3TzQxTkpDdkV0bUUxSkRZbC1wLTQ1VGY1VVlfSE9wcmwxOGMtekRIUmh6U2tPNjVrako4S3BmSjRVX2FqTnQ3blFNQXdEOFNPYkRheXZuU0VnY0ZoUVRfUU9MVGFkcS1vSTZIbkdzVjRKa2d4azRVTGE1WjRnajZRZHI5LVc5WllRQ1BHWnRma0l0ck9iUGh6OXNCVVZEeXRFdXFaTEs4cWhjcVpHZks2MEJObllnQzk1RHM5elNzQ2hBTDZBRzh3M3U4bU5BLVU?oc=5",
+      "ts": 1789974000000,
+      "sentiment": 0.0,
+      "tags": []
     }
   ]
 }

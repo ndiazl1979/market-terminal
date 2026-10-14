@@ -1,21 +1,81 @@
 {
-  "updated": "2026-10-14T17:17:51.678425+00:00",
+  "updated": "2026-10-14T20:45:10.086631+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
         {
-          "title": "3 acciones de Wall Street que podrían dar la sorpresa esta semana",
-          "source": "Bitfinanzas",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTFFmUEV0YmJESGdGNm9TRzhhcGpnRTNYMWRHZ2I3QXBGaXowMUhCQ1lYVzJtMTB2UzBudzB1eV8wVVpVdEk0QTJCU200QzFRUlNJZ0E1RGdLUWZwd2U5ZkVYQ1l6QnlDMmFCYlNiNFU3RnJoeWw1QU1KUWpWZm4tZnE4QnBwd3RkTzR1dnRtT3laWFdj?oc=5",
-          "ts": 1791988326000,
+          "title": "¿Por qué caen hoy las acciones de NVIDIA?",
+          "source": "Investing.com España",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQclJ6R0dzakZ0aUw4M3pDQTNNbjJfUW1lbm5IUzNNVkUxQ3VYc0ZuUzgxbEtXMjdHSWpTRHhHZUZDTHJSMEc0LXgzUWhxbHhjVVBGUVIwTGY4ZVQ0b1F6RWtfZC1NMDRsT3pldmp5dlM3NFhPNnl5QUdsRV9uaXVyN1h4Vk53ajNZeE5TNE1DYjJkeURlcUJrNDk1WjNWTFM4dXc?oc=5",
+          "ts": 1792003560000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": -3.6,
+              "dir": -1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "¿En qué invierte Trump? Las acciones que compró y vendió en agosto, de Meta y Nvidia a McDonald’s",
+          "source": "Revista Mercado",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR2VOTkdGYXIxcTA5d0J3Qm15RGpHdnBxb2lBVTlvdVBrMTEyMWJrcWZFdnhubjBtQXhycjZ3MmRzTGFTWWo0eWlTeVRDcC1zUUs1N2doUkxGMEFKc2RSaF91OUM2MXJwTmxtdUlZTmJjQ2JTZENxZ2F5WjBFZzVkczZPZ0UtZ0g2ZUlwczVQWE0?oc=5",
+          "ts": 1792003207000,
           "sentiment": 0.0,
           "tickers": [
             {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            },
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": 1.2,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Las acciones de Meta caen: por qué los analistas de Wall Street están divididos",
+          "source": "Invezz",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa2pZcmdjT2FzZVVvX1FEcGl2d2t6dWZkQW1jdEMtYXQxa1hOOTRISkt4LXdFMGRGMVNJY3FSVm94cjVFaW5ZSERFYnh3MElnTUxmMjNhcVQ5ZG9FWXgwbXo1Y01Ha0g0ZWhIVUhfTndpZWc4SGdOUEktTk1BZ1llT0VES2FSV0VNT0pZWVRhZmFpYnlRbXAyU0paOHFaSkd6M1JmRjVLR2pocDMwQXhKZThpaDR4QnR6MHVVaVpn?oc=5",
+          "ts": 1791996332000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": -2.4,
+              "dir": -1
+            },
+            {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.7,
+              "pct": -1.3,
+              "dir": -1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "¿Por qué las acciones de Nvidia han caído más del 2% el miércoles?",
+          "source": "Invezz",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUFiUlJHbklHcHM4ZlRCWjdWbkRPVkltWGlmeHFLNlZlbmIzN0U1VkN4UVczV2pzR3JxS3dUYmt4RVA3OXVzT1hpd1psZlFaTGdDUjh4alhWR3ctYzFLQ2FoY2xreGZGZ255YjB1ZlNrbmt2VUxwNjZYWTBGdVFYN3lZcVJ2UVQ0d1AwZ0tSS2NBRHd5dk5rQlZnZDgyaklpRkxrQXF0UWVfbkh0UmdSOEdoWQ?oc=5",
+          "ts": 1791993027000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
               "dir": 1
             }
           ],
@@ -31,7 +91,23 @@
             {
               "sym": "META",
               "name": "Meta",
-              "pct": 1.2,
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Las acciones de Tesla podrían moverse un 5,1% con los resultados del 21 de octubre",
+          "source": "Investing.com España",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTm4tSVV1TG5qeTh0bmlWVDVuUVFsbTNUQVpneFhaV2Q5N1ZTYUNUMTEyRkFWTm5nZXk1WTVIaTMydmNtQmUtTDVNUmpQS0R4SzNTaE9jam1LekpaR09UTEh6cDNiZU9TdDZHenFmUVI4b01wd3JqWmtNQlJmSk5WcVFCMjQwUlFkdmI4RWk3VExFMEI3QkQ3MklRSEZtT3ZUR1ZqdUU4MlktNm5BOVl2S01fcS1QNTVpTTVfOGp3RmJsQTFoYlRuT3FST3BlVEtqN3o2by1yUS0?oc=5",
+          "ts": 1791987660000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "TSLA",
+              "name": "Tesla",
+              "pct": 1.6,
               "dir": 1
             }
           ],
@@ -47,7 +123,23 @@
             {
               "sym": "META",
               "name": "Meta",
-              "pct": 1.2,
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "3 acciones de Wall Street que podrían dar la sorpresa esta semana",
+          "source": "Bitfinanzas",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTFFmUEV0YmJESGdGNm9TRzhhcGpnRTNYMWRHZ2I3QXBGaXowMUhCQ1lYVzJtMTB2UzBudzB1eV8wVVpVdEk0QTJCU200QzFRUlNJZ0E1RGdLUWZwd2U5ZkVYQ1l6QnlDMmFCYlNiNFU3RnJoeWw1QU1KUWpWZm4tZnE4QnBwd3RkTzR1dnRtT3laWFdj?oc=5",
+          "ts": 1791987408000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.6,
               "dir": 1
             }
           ],
@@ -96,98 +188,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Trump compró acciones de Meta y Nvidia por hasta US$25 millones; también invirtió en SpaceX",
-          "source": "Rosario Finanzas",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTVdkQUNjTEdPd1dpREl1TEFMRFlCdFBwelJJRnIwTVJSR1RXSkRTTjNUNkNIbkI2Zm9hb0JSVE9KQ2NEdkRXaDBtUUdtcmpzSDdHV1pjUmlGbF9FWW9tVVdmMmhERWEzdGVxOVhwTWtGQ3hlaFNYcWZ6ME95Y2IyQXZKLUFoRm84OFlCd29xc1ExY3g1LS1VRDdma2FLMXhlbVFLSFIzXzBRamhvN2I1U19BUUQzSGxEOXZuQk10MkVMdlpm?oc=5",
-          "ts": 1791975601000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
-              "dir": 1
-            },
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Las acciones de Apple baten récords: el iPhone Duo podría sorprender",
-          "source": "Benzinga España",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVlNUcUM3QjFxSGtmRzEzdm9tYXhaRkRUQ28tVG5US2hNUGRZOFlkRWw5VXFHdmpsRWpxOUFIX0Y2TWZqQVZSVHg5ZlRrOFVaVFlHcXFKM2FtNm15VDE4R2xtR0pKUEhsQ0hkVUdPYmhrb1k3UFVGcHVkalpHYWlsbXZ1S3pYZ01Q?oc=5",
-          "ts": 1791966328000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Las acciones de Meta suben tras el lanzamiento de la familia de modelos Muse Wonder AI.",
-          "source": "Quartz",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS3BqQjVLbnl6cVN2eU5hRV9hTXl2V2NzNm1mMEdZSlhvRU1wYmhabkJDMWRSR0ZuS291NGwxbDV1X3ZmMGRQc01OckZubXBtamMzeUY3OGtlSDZZMWtMcWl0ZjUwdWUyOG1pTU1QWEZoX2Rnd056M0xLR3g5dGRfTw?oc=5",
-          "ts": 1791923444000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 2.0,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Las acciones de Microsoft están en camino de cerrar con un récord por primera vez en casi un año.",
-          "source": "Quartz",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRUVQTDhhbEEtNGUxbjRFMS1fUUhKR2FpZ3UyTzlUbVktVllPNjZ2NmstOE80QW5NOTF0QndBbzlqYm5xenRWY3NTQmRsSGVtRF9pZUhwMTUxbVNONldwbVVvYlI5VUJYNmJ0YlVETFRZUmRCMGplWFBHQW5FZ0ZndmdfYw?oc=5",
-          "ts": 1791912642000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "MSFT",
-              "name": "Microsoft",
-              "pct": 1.4,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "4 acciones a considerar, 5 a evitar tras caída de semiconductores hoy: ¿y Nvidia?",
-          "source": "Yahoo Finanzas",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMnk1bGV5MEZlYjNld0hya3JlYnNjRnhwZ20xVWtmTDN4OXFPWGhOZkVvbHlRT09NRVpDQ0d1TkE5TDhVUnZORkdFcU50c1BjU1paaENIV3BwZmg5cDA3OXRxUVRTaTJEZDRrOXByYV85YnJwQjU3V2NqSHhaeWJhMGpmNTZLTm9hanQxLWU5SEI?oc=5",
-          "ts": 1791912113000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": -3.1,
-              "dir": -1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": -1.7,
-              "dir": -1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -196,10 +196,32 @@
       "label": "Semiconductores / IA",
       "items": [
         {
-          "title": "Google lanzó Gemini 4 Argon, su nuevo modelo de inteligencia artificial para tareas complejas",
-          "source": "MDZ Online",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZzRhZWk2VzRIa0Y2dE9fS1hJMmMzOHl0bjFxZFFBSVR5YWt5VWpZSlh2N0hqekhwZzQzUVhZZTF3NzFwR0I5TmtOcXpmMFhpczYtaTIyX2tzNmk4Q0VydTBiUVlzcG4xX3NYRHlCNFZKN1llSVlpeEdtSm11Qm5ucjVoX1FuUVZudUJvNXRsWDdFQ3FVOElpeHkxeEFtbjFLZjlUZ2E1cF9JVlZLZFRscDdqQnFoRjR6dEhUWXpJYngxMEJPT1c0TTBwRW1HODV1WG5ISHJhZmpsT1BxbU5Fb21MMA?oc=5",
-          "ts": 1791997200000,
+          "title": "Wall Street sufrió su peor jornada desde julio tras el informe sobre la inflación en Estados Unidos",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTWZneUVOWll4dG1jTkdiMHVlNnlTRlp3bXgxMnQ5T0lzdVMycjBqb1NxLXJOWXg0NnhGZkhwOHB0cEJIUnF2V3BCcTJab1ptbjZaenRteWxRb2Z3bTF6V2JJVWhuOGE4MktMT1MwSWNMakowMTItaGRlWDFISU5nanBmN3RXUlFDaTdGcUVEU0FqS3ZFX2swWFhJbWlWcVhRRTItYW9rbG9DeU1ZdXRJU1FnZmV5VUNzSWRpNmlGdmhfdEZsLXY5Q1ktT1hxY3ZiaURVRFJ6Rm5DXzRhOFl0am10M0_SAf8BQVVfeXFMT3FIVXFQNGoySGp5azBtYmpGUWNEUDV2NFhLc2oycENyNS1kRF9DOURDNG5vY1hsSzZHU3lSWDV0ZzJfM1BXNTdvZXhpdDZtbUhOQ0t1N1N5LTREbVdTNzVHLTZCV2xTTFR4T1FpV000ODVwaU52ZUFXVm1fZ1djR3Jjc2REcW1zbUhoLTRqa3liT2FTbkE3X2U4Y2EtOExzamNMZEt0aTNSUkRlbXoxcldsVE5wTDlBOWxOeFY0a0Vzc2IxQ055VW9pQVRXN3JBQVB1RzhPeDNTZ3Zaa0lCT3NtVTU3Q1Fic29GTkpKS3M5TmJ6Z0lDVm9lMEhlRkU0?oc=5",
+          "ts": 1792009930000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.7,
+              "dir": 1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 0.5,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "YouTube Music etiquetará las canciones creadas principalmente con inteligencia artificial",
+          "source": "DiarioBitcoin",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeHRqaDVKV1BxY2FJQ3hYN3ZCWnc2dWJkaDJKMFNTd0gzcGRwSkQtdHd4YlVIR2h5ZDFPMlBBMzNwR2hkUWhTYWo2Vnc0dFdFNXNRRE96Wm5XZjdFZVRDYnI4WHZRNjJKZlZjMWVmS3JfZGdRWnp2ZmNiNC15QkwwdVlFMWpLWjJCRmFfZlgwb1duRERfU3kxclFqcFBFa19uRVQzVV84Y3R4aGFHU0JEMk8tQWxfZnduOThxMlBZb0c2Z0lwOFVjdQ?oc=5",
+          "ts": 1792003471000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -212,26 +234,74 @@
           "category": "semis"
         },
         {
-          "title": "Microsoft: IA abierta que predice el clima a 6 semanas",
-          "source": "El Ecosistema Startup",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLW80SXRVbXFGWWRRZEJ1SEZubzRwVDRuODF3ZmFnRnhrQUstRHRaV1pSamFyR0xKb2xIMi1ZTW81b3NSLWhXVVlTZ3NmU1Fuak0yenRTbVg5Q3lRZzc2NW1UZy1tSG82Vl80TTlyZm1aSVRXWE9MbzJJTWRLTTZnel9KZDBuQ2R4WHV4Rw?oc=5",
-          "ts": 1791995298000,
+          "title": "DeepSeek y Huawei unen fuerzas contra Nvidia: liberan seis herramientas para desarrollar inteligencia artificial con chips chinos",
+          "source": "El Imparcial",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNbUhoMjZLbHVaQWx6S21HMV92TXdORS1oQk03V0NWX1dCbXNFU3l1Z1VuaFdLOFp3dUNlTEdsUFMySFZ1blgyNG9jczFvYmpPRTRJX1ZoeWM0ZWRRRXBMQjJnOWNxY2hMV09NODBoOFBPNExGdlBhWWtqb1NRbWJZV3ZGc3ZrZDVqVWY3U19BbEJES0N4MVpkSHE2UktKSzR6aE1Ic0FjSWZkOG83ZWtNeGVmNXRvYlRQTXF5YTlWRXhvbUZvNEN3TTBNYy1XOC12ZmU4cE91cGNmTzZzMEtlc3Z1TGFSZ1p1MTJxSHN6UGtZd1lpTlVqZ0lxYjVmcVVWNk5MbnRTTTRhcWfSAaYCQVVfeXFMUGNrdkpDRlJjVVNsZlZfVkJjS09jM2JmNEV0QzFUdUtteG1iMU9nQkprWC05ckVYcjVBaFZMR3ZwbXRiYU5SZzZaQXdNb0VDQVRTbmtDWF96U3o1cDFYZ25nT2o2RlpGYXZVMExfbFN0ZFctS3ZXa2NxeEtKOVE3QzBudXFsTTNNdUkxTV9YenBqUVlBbmx0ckhNQTQ5ZzVHV2t2RjhFell4ZVctYlhmSnJXbmxhRFRoMGg5MWxwUDJkX25Ea3NHLW1vZ1E0NWdaQXhnZGtPODBBeV9GWlA3VTRnTkp1OVdCeXRtazRLXzZPQnZpV3QwRHVYYV9aUkIxN2p3SlZDakVLQ1JlNV8zSjRCRUlQNGwzQ29LeXFDYVZFa0ZZSW93?oc=5",
+          "ts": 1792002105000,
           "sentiment": 0.0,
           "tickers": [
             {
-              "sym": "MSFT",
-              "name": "Microsoft",
-              "pct": 0.8,
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
               "dir": 1
             }
           ],
           "category": "semis"
         },
         {
-          "title": "Las empresas de infraestructuras de inteligencia artificial se desploman al aumentar las apuestas por nuevas subidas de tipos en Estados Unidos",
+          "title": "ASML afronta dificultades para atender la fuerte demanda ligada a la inteligencia artificial",
           "source": "MarketScreener España",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMnVKcW82Q2ZyM0ltbk00MDhGYVNvYndJX1hIQjdxYlhBUUoxa2ZmZ0Y4MmhrOGVhazJENzZSR2NEdGdlR0drWTFBWVRfMjRPdHo2N3k5WjNQd2x0VnN6ZjRLUUNsWmNkZzNCX1pTRXZYdWZXMDlxNkt2Y1Z3OXNXZVo1emlrVGpmdlZLZERmSlVCc294ZExrRC0ycjhwV0VoQnF2aGpfVFhOclZjOHlreUg5RTVBS2JSeE9XbkwyV1JvNlJJbi1yWjZrVDRXbXFVUl9RUC1LbEN4NmRBb1laNlBJb3JSZW9sNjgwNw?oc=5",
-          "ts": 1791994379000,
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRzFwSC1WNHp0Z3RvZHpRbmhKQkc0amQ1OE9SaERsOVlSS2hTVi0zRS14amM1V3F5QW1FcGQ5WGlXYm15NGpBcGZ2c1NnTkVkcjFDdVMwOWR0QTgybDY3dFVkQlA4MHFHMFJCLWNCVW4xNW9NOHlCMGkyQ2k1cElsa01mZUdRQ0JYYjhlQUZGTkp4VG1kY0tOTDdYajktbDNmdFhlM0ZuTmNsbVdxM0wwdGFnSVk4Z19hQ2RsZmhvUDYyNmFSdUt5N0FwYTY3SkNGT0RMQXBnRWROUnhpdEpYd2h3?oc=5",
+          "ts": 1792000897000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "ASML",
+              "name": "ASML",
+              "pct": 1.2,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "El director ejecutivo de Nvidia cortaría el suministro de chips ante una IA insegura",
+          "source": "Investing.com España",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSnVycHYxMlJibk5uVEdTTDJieVBFcE1UTzJtM3otOFdMSVIxbW1ETjREZXBOUGZ3NGFzWmswZDR5ZmFvbm5seG5QN2hYeWJqcEw5dG1ZOVZvdlhwRHdDaWdKNFZ2VkJCRWpDdXltSF9rNllyVFN0aDNKcUVLV05IMGQ3MWs1MHM5MGhnN2RQMVNmaUxhU29nc1EzaEFVaUJoaEZ1dE91Qkd2VnVJX0NDWGFaWGFzb0tuTENoM21fYkZqZHZwei1FWGczeXNQbHk5aXRVWC1MZlRSZ3ZITDdRanl5QXJzTEJrcVF2cw?oc=5",
+          "ts": 1792000500000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "NVIDIA presenta cuPotential mientras los líderes del sector de los semiconductores adoptan CUDA-X",
+          "source": "Unite.AI",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORGFURFNaM3hJaEhZeDhnUE1EOXpNeEI0YW92Mzhya0RYOXRzSVI4WkVfWHFmOHlOSllQdjJlN09GRk5iZWxfX2hUcmppaFZjR204T0VfQlNLZ2pVVlUxZ1JpSGQ2TXpHX3R0ajN2Z2lNUjB1cWpvWkF4N2JUYVNHeEtlTG1lcnNEaE4yQVR3eWxOWGs?oc=5",
+          "ts": 1791997141000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "La financiación de la inteligencia artificial tendrá que recurrir a los mercados globales, según August",
+          "source": "MarketScreener España",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRk9iblVVcWFWVVV2bzRwa3FTakNDYUo0Q2ZzWHNEUW5SZUZvaXdjc3pOSFBOb3Z3N1VSTG9HU2hJVmpzcjlCOTVzcVJkZHh0SEU5bHNRS3l0Y09FTExWNVpESThjbXRWd1R2ai1qSGYwQ3gwdkRMaVhWaFV5SDk0OGhzNGhRVWhMSHpCMUlhNUNwcFZSenBteGxJZWJuc2pfdnRISnMzaE1UaGNUa1VtT0FfazA0ZDJWblh5UXF0Q1d2bm84ZlBTRjhEVWpIaXNJXzQtN2FuVjlZcE90QlQzN3pfUHpHQVFSYkE?oc=5",
+          "ts": 1791996405000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -282,22 +352,6 @@
           "category": "semis"
         },
         {
-          "title": "La inteligencia artificial pone a prueba el Plan Bolonia y obliga a las universidades a replantear la evaluación",
-          "source": "GNDiario",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVYWhmT0tGZF9ZTU5fZFBEc2VCVTRHNHBTVHc5R2dtWGYwaHc0c3I3YmFuOVZaWkdlcGpJMFN1amhVeDExbGNkQzdLT1Y5OTVFQ0xGcTZHSnZlRW5hcXE0Z2hDYnh1T1FRV3c0a2xRQ1RDOHQyZkxxWEJiOA?oc=5",
-          "ts": 1791990000000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
           "title": "Nicolas Cage se niega a firmar una autorización para usar inteligencia artificial en Spider-Noir y advierte que podría no volver a trabajar con Amazon",
           "source": "El Imparcial",
           "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQVEdrS3pSNVJLS2F5c2ZlOE8tZVkxTjlPU0p0S05WR21LMzFuUEJZT3AtRzlBMm56bHlfdlJqMHB5X1VBMU8tR2Q0QXU3R2U0ZVBjaHYyMXJIQ0c1OVhGUXN0MFBEOWhHM1l6SUIzdlZ2SEJuSXdOV0xLcFktM3hreHFBRmdZd2dxWklQZUZXRG5ZcUVwRHpRMHpZNHhicFQ4RzlaVDhpOU1TUElyNFRreXl1ZnRHQkRleEJlRUUzUEx0elJPUE5UbE5CSEZsQ0pkNnNUcFdvUVQ1VmZoeXhucGgzc1VqWVFqcXl3SHdPcEdXT0VkLTFXWEFVUDBxTENXbWl3WnBud1Zodi11TWlLUGVBcVgtQkdXWmFWajZBRUYxMkXSAb4CQVVfeXFMUFBEQV9DNk5CU21uYU1RY1hVV2VVczBfbE5VQm1KZF9HbDFwTnlkZTNwRjE4MEt0VEc3RWJCVWphNVdMb3owbTNBMU1HQUZFek9PbTJsTkozOHJSVFdJdmtBcjhIcDRvMXlhc3BGeS1JWXFpX0RGS1lUR0I1bVRIMWpsUWxhRTZ1ZWlxcWF4dHM2TkhEM2FkVmhwMWZfSUZpMXhNb2xRaFlkNjY0Q0xSVUQtU0pKNmprcHZGczRiZXp0c055ZG91QnNSNWl0ZFdUU2ZmajZCaEdsMFNuMzh6TVN3ZWJQbkZGZHY4OU1Rd05EcWpZS005V18yaWhuOWwwaW5tWW1hMWZyY1FOWVZxcC1HLWluRmRiVHFpbTd5cWNSQm5KbGxvN01XZmlwQjFkMWVseHhraGdUVENDcW1R?oc=5",
@@ -308,54 +362,6 @@
               "sym": "AMZN",
               "name": "Amazon",
               "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Nvidia pide a las empresas de IA asumir la responsabilidad por la seguridad de esta tecnología",
-          "source": "Yahoo Finanzas",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc1dpdzB4STF5Mm12LXdDQ2xLOHQxZW1CMmhxek0ydmFSUlJ3ZHFRTVhoLVZCT3NtWVB1SWh6QWJhZVAwMGhLNUh3bHNQaEtzT2VWRmRTMndUekxZbTBsRWpXTzJxbWFoRGFWWjg3TEtxYlF4YzNZMUNlQm4zcFBhMHlzeHlhYmFFdE9QSzk4Yk8?oc=5",
-          "ts": 1791988953000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Google alerta sobre los ataques de inteligencia artificial: “Podrían ser graves en los próximos años”",
-          "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQW9iUXZyZ1o3YnpzWUVyUGRpRXpBVDQ4Tmd5Wi1CSGNuMmpZei0wODdyUlJJWXkxbVRXcWh6djNtNDFIQmJYS3FScGNuU20zTDRXMnBJVlg0cnM2T2psbFZkX2tSQV9MaDdzMldKTDNOckdTYlk4ZUVMclpUZ2tGZndIU1NheDV6N0luQUpaSUxVb0hiOS1NSTJUNEVscy0ybmFvRmhsNzNXYzBIMGo5ZjdWWTVfRDVqVnZqLVdXZ2JyaHljVW9BOXNrNFI2MUZIZkVTUXVkTdIB8gFBVV95cUxPcUp2THpiY2owSWpROW9pWmRLSHR0R3NuZEtZdmVDWkQ0cXl2Umw1VFUxVkpSOEMzMVRVZEtPRVZEZ0g3d1FXT2pxbnpsZnR2Y2hobzdFeC1icFQzS0o0UVBYbGtEckpUaXBDUEpTcXRTX2JTLUt1cVF4ZHVZb2NXcnhyaVQtdi1oT3ZSQy1xQUw2N0lJZnlEcWhGN3hzdXF5S0EyX1QtcWNNMEU4VThiUmIweHlpemZqMTN4MXg0d0IxNk5GZzdhaC1VSE9odnR3X2tmaDVBclBuVE5MellucXd2LXY4ajdlcVVjZUpyNHNjdw?oc=5",
-          "ts": 1791987429000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 0.9,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "En Singapur, Google está desarrollando un modelo de inteligencia artificial para detectar estafas en teléfonos móviles.",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUEo4VzdMcjVwV055cXVWWE9kYjFGQzZia0xBR0xDVU9KRWo1THotdThhYnVXdTRILXdVc0k0N0JxYVFLNXFvT2JJN1VmbWg5Y0tBOXN5MmhUOFFWZlV1VWxtUXh3WFNEd1N5bnBZN3BaTjhPSFRTeXdDdWtnazdSejdlVEJ6RXRuTkgzS3M2WUc1bVFvamxHLTc4SkFPSlk?oc=5",
-          "ts": 1791986807000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 0.9,
               "dir": 1
             }
           ],
@@ -546,22 +552,6 @@
       "label": "Defensa / Armamento",
       "items": [
         {
-          "title": "Airbus, Boeing y los cuatro grandes programas que transforman la industria militar española",
-          "source": "MONCLOA.COM",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZkF6MTNGUHkxbGhxNjgybmhWTko2QU1wMERXLWZ4NXM0bmFsMHA4WFhNWkN5VlNxMUFndV8zV0xPOUtYanRnRTV6V3hLM2NnVm0zQW5sMTdraHU1b2lERXRUNm11eTA5X1dWQy0weVN2OFU1OVk0TVFHd01aR09kbA?oc=5",
-          "ts": 1791862200000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "BA",
-              "name": "Boeing",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
-        },
-        {
           "title": "Negociar con «la amenaza rusa»: euroburócratas hipotecan lo público al servicio del rearme",
           "source": "teleSUR",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xR2ZydUdvNzcxbzhsS1BEZExWbnNYaHJLZXUtRXc1Qm5FUmpxeVQ4NXRpUXFya3pUbFhyRmZJRkJ6Ni0yV3UybWhQcUtUbkdkbTU0QlN5cFQyaWhhdURBUWgwNHVneE4wTFNLZEJ3?oc=5",
@@ -712,6 +702,22 @@
               "sym": "SPY",
               "name": "S&P 500",
               "pct": 0.3,
+              "dir": 1
+            }
+          ],
+          "category": "defense"
+        },
+        {
+          "title": "El gasto militar de Turquía se dispara a 30.000 millones de dólares y lidera el crecimiento de Oriente Medio en 2025.",
+          "source": "Al-Monitor",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM3RWYjZrQ0VITWdoSzVGbERVTF92cmVFdnBfNGRNVUJfbmlkT29FNXpaMkl1VHdQOEU1amRfWVVUMGRiQU9HYW40MUZhTndOY3dfUDYtRDBwY1dtVm9xOTdRaDNKQ0JvME90aFBjaFVObi1lOGN6MzdLVWJkSVowS29ZR1VPYVFTWDJBX21ZTkdFNl9vamUzTHpMdm93LXVSY0dxNnNDTlRvX0pqU0pJWWNtM2M5NlhqeEJnWm5rdG1CUQ?oc=5",
+          "ts": 1777273200000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 0.9,
               "dir": 1
             }
           ],
@@ -1164,6 +1170,28 @@
       "label": "Macro / Bolsa",
       "items": [
         {
+          "title": "La Bolsa sube un 0,1 % pese a caer Wall Street tras crecer la inflación en Estados Unidos",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRVBBbjlFbkdCX0prYkdqVmljRUFqdGJfdVBTeTZZUHFUbG55NGRyN19KSVp5Nk82WE9rWV9WX3N3NC15aHo0Ty1ieVRoU1B6MFNUMkFNUTcyZTlGaENIZHMwbDNEbk1qMVFuNFZwUy12emMyTEZUYmNOdF91Z0E4dllpZEVIdlZ6akJuS09PZlYzbWo5TVk5Q2x5T3M1OG9pdW84b3ZuYV9zYzJiQlEySGRZUjdRbHJqdXdnNGYxQXdCemh2WEVYTm1xOGpSQktybjV0NmtDaW9SeGdlNWRMdTZmb0pNaVFPOWdvZURnc9IB7wFBVV95cUxQRVBBbjlFbkdCX0prYkdqVmljRUFqdGJfdVBTeTZZUHFUbG55NGRyN19KSVp5Nk82WE9rWV9WX3N3NC15aHo0Ty1ieVRoU1B6MFNUMkFNUTcyZTlGaENIZHMwbDNEbk1qMVFuNFZwUy12emMyTEZUYmNOdF91Z0E4dllpZEVIdlZ6akJuS09PZlYzbWo5TVk5Q2x5T3M1OG9pdW84b3ZuYV9zYzJiQlEySGRZUjdRbHJqdXdnNGYxQXdCemh2WEVYTm1xOGpSQktybjV0NmtDaW9SeGdlNWRMdTZmb0pNaVFPOWdvZURncw?oc=5",
+          "ts": 1791997399000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 1.3,
+              "dir": 1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "macro"
+        },
+        {
           "title": "Malas noticias en Wall Street: la Bolsa abre con caídas tras el dato de inflación",
           "source": "Negocios.com",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTmt4bnl4UnFCT2FaUlBiR3RPeFNhWkhYQjJwUThtODBxYjB1SzNnVzI0RkpjaGcyZkg0bURZbldBUGE5SF9aeVU4Zm5VM3E5UGtpcTBKZW95dXA1endjNU91M3hPS1FsV040anRGUzBLdzczNUNoSUVkcG91Mmo0bnhUQjVacGktamhZVW1RWjhieV9EalR4NWNHYjAxYlFMN2F4NzUtZ2MxUUY3MHBTcjJRWlJPM0RjU0I3MHZyclNpcWprOU5v0gHMAUFVX3lxTE9jdWM5aXJncWh2MTdDSEIzaUN5TFVhMF8zSlNwMFB4eC15eDBIV182WWcyN29tOGJ2MkxLWEc1VjQ5STl1a21DeVZEOTk5TmRhZ0NhbTFiX0M2QVl5OHBxbnptRU5RSDlTSXVVaVdoRmVMQ3Z1eVVwYVZDTC02dEVSYzlWSHJMU00yVWJoT2Fwc3lIQlVfZkZkV3NHVEF2S0VJT1FLUjl5NlVIS1lfeUZaUUZvQ2tEam14Vjlra1lqajZFQWROb2NfdkFZSg?oc=5",
@@ -1173,13 +1201,13 @@
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.7,
+              "pct": 0.6,
               "dir": 1
             },
             {
               "sym": "SPY",
               "name": "S&P 500",
-              "pct": 0.5,
+              "pct": 0.4,
               "dir": 1
             }
           ],
@@ -1202,12 +1230,18 @@
           "category": "macro"
         },
         {
-          "title": "El repunte de la inflación de EE UU tensiona el mercado de deuda y las Bolsas",
+          "title": "El repunte de la inflación de EE UU pesa en la deuda y Wall Street",
           "source": "Cinco Días",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYnk4YmNZcjBCLU9ncmlkeko2VWJ3Tl9RUnZ0Z1ItdHVfWk85YmY5UHN4Wm5EZm1YT3ZuU0Q4NXNldkxsR0pra0FNU2J0T0dZNlVETkVDTTBYSHZ2ZC1rM0RXQW01Uzcxc25fMkgxZkxQN0VOWE53ejBSVndFZWlvdTNlVll2dW8wUlBLTnp0c0jSAaQBQVVfeXFMTVpzOWgtVmd4LXlFV29jQjczemg0LU1DeHV1d1JyUzBzNDg3aUMxM2l6SEhHRElRVS1rdXcxUUQxQUhkNkUyandrQzhBV3U2QlF6UUJVU1ZIZmpxbjhTeEtQaXdWd0QyUGpxbkhsWUdZQVFXd0JmZTVSaUVJUEpLM0c5TG4weWN1cVM4TENtLWg2MUJqVFFqSzRSOGdrU2lxVjJrSTk?oc=5",
           "ts": 1791955055000,
           "sentiment": 0.0,
           "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.6,
+              "dir": 1
+            },
             {
               "sym": "SPY",
               "name": "S&P 500",
@@ -1278,6 +1312,22 @@
           "category": "macro"
         },
         {
+          "title": "Wall Street celebra el frenazo del empleo: menos presión sobre la Fed y subidas en bolsa",
+          "source": "Bolsamania",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNTRTMjRLSUNkUjJKNnY3dGJrQVo2ZmVtNlhBb3RJbjBQa3ZEazdTSHZmMzhBbS1BX2VySEFGS0VGUHhyS0xHM21TRXUwOUFFVWxjQ0tZSVBqWGxRSmw5WUVVdi1iU29kR2RMSjNfdmRkWXNpNFlMeThxeXpDOVZGd3dSM2RsR0hjM2NVSkVIZzJBV09zQ3BaRTB3ZnJ3SG5uZnFpUS1kbHFpMFVhTHNuZHF4UTNveE0yNURsX0EyejU3Z1VBTERYSHAtS3FmRjlOZEFPcC02dnVpc3ZoSEJpYjBZTkg0b2NPdm1fZXZ30gHzAUFVX3lxTE9zdEVxVjNqbGhjTkZ2cG9uT2g1c1JFQWNtVC0tVzZuTm1TUU5HMjFKdjFZSkhiMkUwMVlaeGc5VFpZVWVUdUlpcTFlaV83dkhFVVY3ZWtHWVhnNmx6VHlxMW9ac3gxTXBpemlZVzRrcmRTS3FmOS1SQzJGcUpyWklEUjZLQjVxTGVoZmhTeHpabG5DWUZyMlItNW40UFNuMW5HaXctMXh1UEd1dzUtU1U1V1R3MkVSMlFPOXV1Z2VQYlNYY2dlTWpsOUJCQWVZZzZEdTVxN05pWlY3TTRLMG84V3gtX190cTVVZVZNaFFxd05ERQ?oc=5",
+          "ts": 1790950200000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "macro"
+        },
+        {
           "title": "Wall Street abre al alza impulsada por la IA",
           "source": "Diario Las Américas",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMTFVUWFvQzBDXzU5MEFNRUk1MVlpRjU3Zm9ZQlNtVDEzbEZjaGV0MEV1azJ0by1hajE2a3dYR0gyT1hOOGJJcFE3SXFjQ19sNEwwUmFJNHRyZ0dfTHI3LWdaVzRiRlJ4VjZ2V3c2RWlKeHVETy16TzQ4c0oxOEV5Nkl1emFkc0w3NktsNloxb2RNZ9IBlwFBVV95cUxNREFGbm5PdEt2RmRJdHdCaHRUM3NvaF9PRzhTdTBpQTVZWDB6eXVtOWJTcmpwYnNwM3cwVHJMeUMxR1JaYzFhd0llQWFtdUxpcFN3NGFGOU1iRlR6VzRkdEZpR2Z6VXpJXzZuZEFfM1c2Rl9YdXk0eHZGcWhHQXd1czc5ZXVRZWVITmpXQ29Bdk9XSXBKMU4w?oc=5",
@@ -1314,38 +1364,6 @@
             }
           ],
           "category": "macro"
-        },
-        {
-          "title": "Miembro de la Reserva Federal descarta una subida de tipos en octubre",
-          "source": "Estrategias de Inversión",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU3ZtSndHNTNFdjh6T2h5QmZ6MTZsT2w4bWxyTk96eWpid0lIMU5FYVktcmpXZlJZMFFqMHp1N0g4VWt2NVF1Y0lCS0I5TVpuNzJUdW53QmZWejh3NmxQcEoxU1lOSTBQVXBKZzZQR3A5RnpCRVluUWRIenJfQWRWYktyOENXeXlFZmxneEFrRGtuYlJaRTVGTzVZZnpHOTYtaVRKY2RseWowNWJUVFNmVlhXYVlZMWtMcHBSRjdYNDhRb1pPSjlR0gGjAUFVX3lxTE9VVjhPeFF0WENvV1NlWGRyLU11X0tTVlVqSzBoeldhcXJEMmY5Q1VCV3hiSjUtTlVGZGMya0NGZ1JMVkUyZUFnbEFqM0NvdmtocngycEJZSXh6U19oSEtoY21CdTdDcndORWQ0VWZBa282U2swMXZFMDAyRS00VjhvTW5HUFlxa0wtcFVzODFVTGlYYjd4R3lnNHN2MTliTWFOaEU?oc=5",
-          "ts": 1790751600000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": 0.3,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
-        },
-        {
-          "title": "Wall Street cerró con bajas moderadas ante el alza de los bonos del Tesoro",
-          "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLXBGU2NURVNEajVhcTVuM1N3UmlGdmlzQ2lzekdKc0RBNlV4akNkWGVhaFRzUW9IYWZISUhsMjBqMkotcnpVbF9IY0duY0R6LXZZTkZEQ3hDVFNkYndGWG5qMmRERVVoRDNiRHRINWJ4MzFnTF9iRDMySEtnQnFjazdubFZsVEZvcW5rZ1FpaTNWNlFKVWRMV3pQNlY5M2RyOUhnODVrVlJyUEZMMFk1V08yZ0VyZ2ZPR3gwUXpUSS1CMWfSAd4BQVVfeXFMUFZxMDc2SlZ3dkl0WjRCNzFUQ214VlNtQkV6UnlQV0pfNV9mOUZNdzdOVmVURlB5SmpHSUVTa1RzUHMtV1hSc1lZTWd0QXoxZlVDMlZhRDNDbm9ydVFfUWhGcjNsVlMwOFNPM0xod3M0TUFzWHg3YkUteTZETmFyYmtpWnlBb2ZkSmJ1TDJOSGtnSUpCNF9RUGlOQ0pmcnFNT3M3Nm4wVjAwcGlCSkJVZVRpbnNCWTFLdzVNR3lGb3BtTk5rdXg4SGQwS3AzQWdMelBTS0ZPRk9DSDA5Q25B?oc=5",
-          "ts": 1790665200000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
         }
       ]
     }
@@ -1354,8 +1372,14 @@
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 10.2,
-      "n": 16
+      "net": 11.1,
+      "n": 17
+    },
+    {
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 8.7,
+      "n": 8
     },
     {
       "sym": "ASTS",
@@ -1370,46 +1394,28 @@
       "n": 22
     },
     {
-      "sym": "META",
-      "name": "Meta",
-      "net": 7.4,
-      "n": 6
-    },
-    {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 5.7,
-      "n": 14
-    },
-    {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": 3.5,
-      "n": 5
+      "net": 6.5,
+      "n": 18
     },
     {
       "sym": "TSLA",
       "name": "Tesla",
-      "net": 3.0,
-      "n": 3
+      "net": 4.6,
+      "n": 4
     },
     {
-      "sym": "MSFT",
-      "name": "Microsoft",
-      "net": 2.9,
-      "n": 3
+      "sym": "META",
+      "name": "Meta",
+      "net": 2.8,
+      "n": 6
     },
     {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": 2.7,
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 2.6,
       "n": 3
-    },
-    {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": -2.5,
-      "n": 13
     },
     {
       "sym": "AMZN",
@@ -1418,21 +1424,33 @@
       "n": 3
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 1.9,
-      "n": 5
-    },
-    {
       "sym": "AMD",
       "name": "AMD",
       "net": 1.7,
       "n": 1
     },
     {
-      "sym": "BA",
-      "name": "Boeing",
-      "net": 0.8,
+      "sym": "SPY",
+      "name": "S&P 500",
+      "net": -1.4,
+      "n": 14
+    },
+    {
+      "sym": "ASML",
+      "name": "ASML",
+      "net": 1.2,
+      "n": 1
+    },
+    {
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "net": 0.9,
+      "n": 1
+    },
+    {
+      "sym": "MSFT",
+      "name": "Microsoft",
+      "net": 0.7,
       "n": 1
     }
   ],

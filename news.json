@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T23:28:23.462297+00:00",
+  "updated": "2026-10-15T01:41:08.232455+00:00",
   "categories": [
     {
       "key": "tech",
@@ -15,7 +15,7 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": -3.6,
+              "pct": -3.1,
               "dir": -1
             }
           ],
@@ -31,13 +31,13 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             },
             {
               "sym": "META",
               "name": "Meta",
-              "pct": 1.2,
+              "pct": 1.0,
               "dir": 1
             }
           ],
@@ -196,10 +196,26 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "Ingresos de Anthropic se disparan 45% en el 3T: inversionista • Inteligencia Artificial",
+          "source": "Forbes México",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcWVYMmpUUzFHd0RFX09BX3gxb0lkemVYclBZWmdKVzRCdEEzNmZuTm5YNlpHM0NSUWNOU0ZyNjZRNGE4TXp5Rl9MZWViUXM4M2I4LW9lcnNTX3BNeUdXM1NJLTNvSHpHMERyS2tyak5ZcE11QWJLZ3BTU1NERnNYWHpvRTlpTmhVY2c?oc=5",
+          "ts": 1792023420000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Apple usará inteligencia artificial china para el iPhone Duo y otros dispositivos",
           "source": "PanAm Post",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYm5wYWIzVDdvTUwya1FuMl9QTGVMblJoRWM1dGQ0dzF0MXhSUjFwT1lxNlpIbUd4X1dNaWNUYTMtMnpaSFlNTHRnMWE5UmY3eG9jdVJ5U0hnemdhWWxLRTlnT0xhSUNIM29NSU1BS3lxT2dqT1QzTlJIWXk5VFRocktROFloYnJmTkUySmhmUjJ3SlFoWUttUENERGswNFp1VERUc1ZnTlh0WVhiLXpWRzhIUXJWdzJ2QTV3SjZsZ0dmQXFJNDA4?oc=5",
-          "ts": 1792019840000,
+          "ts": 1792019827000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -216,22 +232,6 @@
           "source": "TradingView",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83TkVzM3BsZERKSjBMVENOaWdMZlE4V0VpNm1BaXFWa2c0SUljY3o0R24zQ1hsYlRmQ25xMkhiYkN1N3N5NVBpaV9QcVpZZ2pNWTlrSGx4VW1OanlXS2w0Sm0teTJyNFotZTJseVJBaUFLTUkxc3RF?oc=5",
           "ts": 1792018837000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "TSM",
-              "name": "TSMC",
-              "pct": 2.4,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Se prevé que TSMC registre su sexto trimestre consecutivo de beneficios récord gracias al auge de la inteligencia artificial",
-          "source": "MarketScreener España",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPekNKSi15Z2g1QzFrbUR2MXhqRjdIWGpVaW1Wd1lSUmg1aU90WmhXc0J6Qk8wNm1MVE1GT1k3UWMzVmxLZXdJNHctVURKV0pqVS1YVThmQ0VLYXBpNmNTQWMxd3hNRk9vTXk0Y0d5ZE0xUHFUTkloNzdMd0xwbkcteGJOZ0VhdElsWGc1SHhlUzJ4SEtjdGJjRmZ6N2t0NUVENk5XbXIzR0Z6cFJxbjE5N0FkWTdFZUdfbEhzcnN5V0JUWkRNTXE3aE5iR3M2ekMzdWoxem5WeWhYTG5rV0ZVNHBpV1Q2aU0zdDhqUQ?oc=5",
-          "ts": 1792018831000,
           "sentiment": 0.5,
           "tickers": [
             {
@@ -263,7 +263,7 @@
           "title": "Wall Street sufrió su peor jornada desde julio tras el informe sobre la inflación en Estados Unidos",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTWZneUVOWll4dG1jTkdiMHVlNnlTRlp3bXgxMnQ5T0lzdVMycjBqb1NxLXJOWXg0NnhGZkhwOHB0cEJIUnF2V3BCcTJab1ptbjZaenRteWxRb2Z3bTF6V2JJVWhuOGE4MktMT1MwSWNMakowMTItaGRlWDFISU5nanBmN3RXUlFDaTdGcUVEU0FqS3ZFX2swWFhJbWlWcVhRRTItYW9rbG9DeU1ZdXRJU1FnZmV5VUNzSWRpNmlGdmhfdEZsLXY5Q1ktT1hxY3ZiaURVRFJ6Rm5DXzRhOFl0am10M0_SAf8BQVVfeXFMT3FIVXFQNGoySGp5azBtYmpGUWNEUDV2NFhLc2oycENyNS1kRF9DOURDNG5vY1hsSzZHU3lSWDV0ZzJfM1BXNTdvZXhpdDZtbUhOQ0t1N1N5LTREbVdTNzVHLTZCV2xTTFR4T1FpV000ODVwaU52ZUFXVm1fZ1djR3Jjc2REcW1zbUhoLTRqa3liT2FTbkE3X2U4Y2EtOExzamNMZEt0aTNSUkRlbXoxcldsVE5wTDlBOWxOeFY0a0Vzc2IxQ055VW9pQVRXN3JBQVB1RzhPeDNTZ3Zaa0lCT3NtVTU3Q1Fic29GTkpKS3M5TmJ6Z0lDVm9lMEhlRkU0?oc=5",
-          "ts": 1792012701000,
+          "ts": 1792013220000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -307,23 +307,23 @@
             {
               "sym": "GOOGL",
               "name": "Alphabet",
-              "pct": 0.9,
+              "pct": 0.8,
               "dir": 1
             }
           ],
           "category": "semis"
         },
         {
-          "title": "El director ejecutivo de Nvidia cortaría el suministro de chips ante una IA insegura",
-          "source": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS05YWkRFQzluajlhRXBvMkNaRS1yU191WDVUeFRJOVRoS2ZuZlRmVW50S0dYOHNkaUl4Q0Y5T2xFRjlOOVdhSkhxYjBta0M4blhPZ25tMm40ZVM3VFcxWGNXTjJXVHRVQldPYzB2YXZrRkRKOE9acFdEWnRzci1TMWptYWw4S3FTV0Y5RW9Va3IwZDRLQnJpRVZEZG90TW9WUkpJVTBB?oc=5",
-          "ts": 1792002333000,
+          "title": "DeepSeek y Huawei unen fuerzas contra Nvidia: liberan seis herramientas para desarrollar inteligencia artificial con chips chinos",
+          "source": "El Imparcial",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNbUhoMjZLbHVaQWx6S21HMV92TXdORS1oQk03V0NWX1dCbXNFU3l1Z1VuaFdLOFp3dUNlTEdsUFMySFZ1blgyNG9jczFvYmpPRTRJX1ZoeWM0ZWRRRXBMQjJnOWNxY2hMV09NODBoOFBPNExGdlBhWWtqb1NRbWJZV3ZGc3ZrZDVqVWY3U19BbEJES0N4MVpkSHE2UktKSzR6aE1Ic0FjSWZkOG83ZWtNeGVmNXRvYlRQTXF5YTlWRXhvbUZvNEN3TTBNYy1XOC12ZmU4cE91cGNmTzZzMEtlc3Z1TGFSZ1p1MTJxSHN6UGtZd1lpTlVqZ0lxYjVmcVVWNk5MbnRTTTRhcWfSAaYCQVVfeXFMUGNrdkpDRlJjVVNsZlZfVkJjS09jM2JmNEV0QzFUdUtteG1iMU9nQkprWC05ckVYcjVBaFZMR3ZwbXRiYU5SZzZaQXdNb0VDQVRTbmtDWF96U3o1cDFYZ25nT2o2RlpGYXZVMExfbFN0ZFctS3ZXa2NxeEtKOVE3QzBudXFsTTNNdUkxTV9YenBqUVlBbmx0ckhNQTQ5ZzVHV2t2RjhFell4ZVctYlhmSnJXbmxhRFRoMGg5MWxwUDJkX25Ea3NHLW1vZ1E0NWdaQXhnZGtPODBBeV9GWlA3VTRnTkp1OVdCeXRtazRLXzZPQnZpV3QwRHVYYV9aUkIxN2p3SlZDakVLQ1JlNV8zSjRCRUlQNGwzQ29LeXFDYVZFa0ZZSW93?oc=5",
+          "ts": 1792002105000,
           "sentiment": 0.0,
           "tickers": [
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             }
           ],
@@ -339,23 +339,23 @@
             {
               "sym": "ASML",
               "name": "ASML",
-              "pct": 1.2,
+              "pct": 1.0,
               "dir": 1
             }
           ],
           "category": "semis"
         },
         {
-          "title": "La financiación de la inteligencia artificial tendrá que recurrir a los mercados globales, según August",
-          "source": "MarketScreener España",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRk9iblVVcWFWVVV2bzRwa3FTakNDYUo0Q2ZzWHNEUW5SZUZvaXdjc3pOSFBOb3Z3N1VSTG9HU2hJVmpzcjlCOTVzcVJkZHh0SEU5bHNRS3l0Y09FTExWNVpESThjbXRWd1R2ai1qSGYwQ3gwdkRMaVhWaFV5SDk0OGhzNGhRVWhMSHpCMUlhNUNwcFZSenBteGxJZWJuc2pfdnRISnMzaE1UaGNUa1VtT0FfazA0ZDJWblh5UXF0Q1d2bm84ZlBTRjhEVWpIaXNJXzQtN2FuVjlZcE90QlQzN3pfUHpHQVFSYkE?oc=5",
-          "ts": 1791996405000,
+          "title": "El director ejecutivo de Nvidia cortaría el suministro de chips ante una IA insegura",
+          "source": "Investing.com España",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSnVycHYxMlJibk5uVEdTTDJieVBFcE1UTzJtM3otOFdMSVIxbW1ETjREZXBOUGZ3NGFzWmswZDR5ZmFvbm5seG5QN2hYeWJqcEw5dG1ZOVZvdlhwRHdDaWdKNFZ2VkJCRWpDdXltSF9rNllyVFN0aDNKcUVLV05IMGQ3MWs1MHM5MGhnN2RQMVNmaUxhU29nc1EzaEFVaUJoaEZ1dE91Qkd2VnVJX0NDWGFaWGFzb0tuTENoM21fYkZqZHZwei1FWGczeXNQbHk5aXRVWC1MZlRSZ3ZITDdRanl5QXJzTEJrcVF2cw?oc=5",
+          "ts": 1792000500000,
           "sentiment": 0.0,
           "tickers": [
             {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.8,
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.5,
               "dir": 1
             }
           ],
@@ -546,22 +546,6 @@
       "label": "Defensa / Armamento",
       "items": [
         {
-          "title": "Negociar con «la amenaza rusa»: euroburócratas hipotecan lo público al servicio del rearme",
-          "source": "teleSUR",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xR2ZydUdvNzcxbzhsS1BEZExWbnNYaHJLZXUtRXc1Qm5FUmpxeVQ4NXRpUXFya3pUbFhyRmZJRkJ6Ni0yV3UybWhQcUtUbkdkbTU0QlN5cFQyaWhhdURBUWgwNHVneE4wTFNLZEJ3?oc=5",
-          "ts": 1791740648000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": -0.9,
-              "dir": -1
-            }
-          ],
-          "category": "defense"
-        },
-        {
           "title": "La industria de defensa española factura por primera vez más de 18.000 millones ante el aumento de gasto militar en la UE",
           "source": "Diario Público",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWnhnLUtCX2w0UGZ2NnlidWlhR1pBWU0xS2hub2FZZk04Y2pVYkZWMWhmbWh0N1I0X2RpbmJ3N3BVc0VYcEtHNkI3Yjd5R3dKUXRpSGxIQkctaXMtTDF3cWdLNV9vdlpBU0F2UjZkcGZCQ094TFFFTUpaZkRzVW5tNDUxdW44N0pSb2U2N1hWekJfejk3THZhMXFmVGw3QVlsdUczLXRUY0FuU0h0WjNsUUNueGVyUzNENUpkaldrNmYxQdIBxwFBVV95cUxQanZJZldsdUxXSUJMQzE2cnpTY0NxVkJ3WWxEeERrdy16Si1KRXlpak54MHdKdnFJdEc5VHpiV1ZJMHg3Yk9YZjlmWVAxMjg1aVhQT3c1Q3hQdVB2NVNuZE9CNkJwcXEyUkdRV2lNUUJ2YmFMc3hqZlA3amhwRmFReXgtYzlma1NCYUhVRDlNNU9zYXI0d3ZLbkxSejJySlZxVUczcTFscHRRcXlyWDVMdUZEcDJhUDQta1UwZnlmY1J1U2VrdjN3?oc=5",
@@ -733,7 +717,7 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": 2.0,
+              "pct": 1.5,
               "dir": 1
             }
           ],
@@ -1148,6 +1132,28 @@
       "label": "Macro / Bolsa",
       "items": [
         {
+          "title": "Fed e inflación tumban a Wall Street: ¿Cómo cierran los mercados de EU HOY?",
+          "source": "El Financiero",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVzB6U2JVaVoteExmN3prVVBqdEJEemtRbnBYSUdHYVM5OTNUWm1iOXpPXzhrLUR5TmVrWEl1SC0ycXBmaDZUMmFabFFQZERWaUNBS0R6eTNURGdCTjJRUGo0cTU5S2tDXzBMc1dMVUx4MUgwcDVjb1QtMU9PaXVsLWtzWjNLdWNwZ3dmZnc5OElHaWswejNpcHZxYWRKMWdzX3REeDV3?oc=5",
+          "ts": 1792017840000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.7,
+              "dir": 1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 0.5,
+              "dir": 1
+            }
+          ],
+          "category": "macro"
+        },
+        {
           "title": "La Bolsa sube un 0,1 % pese a caer Wall Street tras crecer la inflación en Estados Unidos",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRVBBbjlFbkdCX0prYkdqVmljRUFqdGJfdVBTeTZZUHFUbG55NGRyN19KSVp5Nk82WE9rWV9WX3N3NC15aHo0Ty1ieVRoU1B6MFNUMkFNUTcyZTlGaENIZHMwbDNEbk1qMVFuNFZwUy12emMyTEZUYmNOdF91Z0E4dllpZEVIdlZ6akJuS09PZlYzbWo5TVk5Q2x5T3M1OG9pdW84b3ZuYV9zYzJiQlEySGRZUjdRbHJqdXdnNGYxQXdCemh2WEVYTm1xOGpSQktybjV0NmtDaW9SeGdlNWRMdTZmb0pNaVFPOWdvZURnc9IB7wFBVV95cUxQRVBBbjlFbkdCX0prYkdqVmljRUFqdGJfdVBTeTZZUHFUbG55NGRyN19KSVp5Nk82WE9rWV9WX3N3NC15aHo0Ty1ieVRoU1B6MFNUMkFNUTcyZTlGaENIZHMwbDNEbk1qMVFuNFZwUy12emMyTEZUYmNOdF91Z0E4dllpZEVIdlZ6akJuS09PZlYzbWo5TVk5Q2x5T3M1OG9pdW84b3ZuYV9zYzJiQlEySGRZUjdRbHJqdXdnNGYxQXdCemh2WEVYTm1xOGpSQktybjV0NmtDaW9SeGdlNWRMdTZmb0pNaVFPOWdvZURncw?oc=5",
@@ -1320,28 +1326,6 @@
             }
           ],
           "category": "macro"
-        },
-        {
-          "title": "Wall Street se recupera tras el dato clave de inflación: El S&P 500 y el Nasdaq suben al enfriarse los precios en EEUU",
-          "source": "El Tiempo Latino",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOckJlOTc0WVR0cFdxV2lTOHdLZ1RaM19aVTE4VDRiR1NKWmJ1LXlRR2RUc1VvUGFvaG1feGhnT3lFY19HazlnTHdLZlhnSkxoVm5qNGExczRFc1RVemxTRTlEemp5YnJQd1NnZDVqdmdNV1dKbnVudE5XMjJfRlplVldmM0pMbEVVUjZVWENJbmtBcG9yX19wbFNNMHhrZ19XaUJwVHZnSmRaS0k2N3JKcENHNDlCdmk3TVJjZFJ0U2FTMHRhYVBqelF6S0NXLUZmbDVkYjlqZUJqUGF0YnlJODZQay0tSXlXdXZISlkwX3FOR3J2dTRZYw?oc=5",
-          "ts": 1790751600000,
-          "sentiment": 0.67,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.8,
-              "dir": 1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": 0.6,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
         }
       ]
     }
@@ -1350,8 +1334,8 @@
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 10.7,
-      "n": 16
+      "net": 11.6,
+      "n": 15
     },
     {
       "sym": "ASTS",
@@ -1362,26 +1346,20 @@
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 7.6,
+      "net": 7.5,
       "n": 17
     },
     {
       "sym": "WTI",
       "name": "Petróleo WTI",
-      "net": 7.5,
+      "net": 7.0,
       "n": 22
     },
     {
       "sym": "META",
       "name": "Meta",
-      "net": 6.2,
+      "net": 6.0,
       "n": 6
-    },
-    {
-      "sym": "TSM",
-      "name": "TSMC",
-      "net": 4.8,
-      "n": 2
     },
     {
       "sym": "TSLA",
@@ -1390,34 +1368,34 @@
       "n": 4
     },
     {
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 4.4,
+      "n": 6
+    },
+    {
       "sym": "AAPL",
       "name": "Apple",
       "net": 3.1,
       "n": 4
     },
     {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": 3.0,
-      "n": 5
+      "sym": "TSM",
+      "name": "TSMC",
+      "net": 2.4,
+      "n": 1
     },
     {
       "sym": "SPY",
       "name": "S&P 500",
-      "net": -1.6,
+      "net": -1.7,
       "n": 14
     },
     {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 1.4,
+      "net": 1.6,
       "n": 2
-    },
-    {
-      "sym": "ASML",
-      "name": "ASML",
-      "net": 1.2,
-      "n": 1
     },
     {
       "sym": "AMZN",
@@ -1426,9 +1404,15 @@
       "n": 2
     },
     {
+      "sym": "ASML",
+      "name": "ASML",
+      "net": 1.0,
+      "n": 1
+    },
+    {
       "sym": "GOOGL",
       "name": "Alphabet",
-      "net": 0.9,
+      "net": 0.8,
       "n": 1
     }
   ],

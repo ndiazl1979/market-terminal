@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T06:09:24.303260+00:00",
+  "updated": "2026-10-15T11:20:46.538685+00:00",
   "assets": [
     {
       "symbol": "AAPL",
@@ -104,7 +104,7 @@
       "volume": 30868569,
       "marketCap": 1450115858432,
       "pe": 346.38,
-      "forwardPe": 168.61,
+      "forwardPe": 169.32,
       "eps": 1.06,
       "dividendYield": 0.0,
       "beta": 1.92,
@@ -269,21 +269,21 @@
       "symbol": "BTC",
       "name": "Bitcoin",
       "type": "crypto",
-      "price": 80543.0,
-      "change": -2830.21,
-      "changePct": -3.39,
-      "dayHigh": 84025.0,
+      "price": 80964.0,
+      "change": -2394.45,
+      "changePct": -2.87,
+      "dayHigh": 83791.0,
       "dayLow": 80444.0,
       "week52High": 126080.0,
       "week52Low": 67.81,
-      "volume": 40293634828,
-      "marketCap": 1618174070434,
-      "circulatingSupply": 20098456.0,
+      "volume": 40580104173,
+      "marketCap": 1627104522180,
+      "circulatingSupply": 20098500.0,
       "ath": 126080.0,
-      "athChangePct": -36.12,
-      "sma50": 81196.87,
-      "sma200": 72270.62,
-      "rsi": 43.4,
+      "athChangePct": -35.78,
+      "sma50": 81205.09,
+      "sma200": 72272.68,
+      "rsi": 44.6,
       "signal": "MANTENER",
       "signalScore": -3,
       "signalReasons": [
@@ -291,20 +291,20 @@
         "Precio sobre SMA200 (tendencia larga alcista)",
         "Golden cross (SMA50 > SMA200)",
         "MACD bajo señal (momentum bajista)",
-        "RSI 43: neutral"
+        "RSI 45: neutral"
       ],
       "quant": {
-        "volAnnual": 36.48,
-        "sharpe": -0.42,
-        "sortino": -0.6,
+        "volAnnual": 36.47,
+        "sharpe": -0.41,
+        "sortino": -0.58,
         "maxDrawdown": -48.81,
         "var95": -3.49,
-        "ret1m": -4.52,
-        "ret3m": 27.02,
-        "ret1y": -27.32,
-        "macd": -637.009,
+        "ret1m": -4.03,
+        "ret3m": 27.67,
+        "ret1y": -26.94,
+        "macd": -610.767,
         "macdState": "bajista",
-        "bollPctB": -1.8
+        "bollPctB": 3.6
       },
       "spark": [
         80329.35,
@@ -346,7 +346,7 @@
         81794.85,
         83115.1,
         81603.65,
-        80566.85
+        80978.06
       ],
       "currency": "USD"
     },
@@ -354,21 +354,21 @@
       "symbol": "ETH",
       "name": "Ethereum",
       "type": "crypto",
-      "price": 2348.75,
-      "change": -152.18,
-      "changePct": -6.08,
-      "dayHigh": 2524.82,
+      "price": 2363.88,
+      "change": -138.74,
+      "changePct": -5.54,
+      "dayHigh": 2514.81,
       "dayLow": 2332.43,
       "week52High": 4946.05,
       "week52Low": 0.432979,
-      "volume": 17925274734,
-      "marketCap": 286691474325,
+      "volume": 19208528600,
+      "marketCap": 288668939581,
       "circulatingSupply": 122136580.3876922,
       "ath": 4946.05,
-      "athChangePct": -52.51,
-      "sma50": 2552.34,
-      "sma200": 2142.13,
-      "rsi": 33.5,
+      "athChangePct": -52.21,
+      "sma50": 2552.64,
+      "sma200": 2142.2,
+      "rsi": 34.3,
       "signal": "MANTENER",
       "signalScore": -3,
       "signalReasons": [
@@ -376,20 +376,20 @@
         "Precio sobre SMA200 (tendencia larga alcista)",
         "Golden cross (SMA50 > SMA200)",
         "MACD bajo señal (momentum bajista)",
-        "RSI 33: neutral"
+        "RSI 34: neutral"
       ],
       "quant": {
-        "volAnnual": 50.88,
-        "sharpe": -0.47,
-        "sortino": -0.67,
+        "volAnnual": 50.86,
+        "sharpe": -0.46,
+        "sortino": -0.66,
         "maxDrawdown": -62.34,
         "var95": -4.75,
-        "ret1m": -12.61,
-        "ret3m": 24.62,
-        "ret1y": -41.17,
-        "macd": -37.075,
+        "ret1m": -12.05,
+        "ret3m": 25.41,
+        "ret1y": -40.79,
+        "macd": -36.121,
         "macdState": "bajista",
-        "bollPctB": -3.0
+        "bollPctB": -0.6
       },
       "spark": [
         2514.01,
@@ -431,7 +431,7 @@
         2445.89,
         2496.59,
         2419.69,
-        2348.26
+        2363.21
       ],
       "currency": "USD"
     }

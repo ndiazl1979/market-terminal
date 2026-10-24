@@ -1,26 +1,10 @@
 {
-  "updated": "2026-10-24T13:28:21.219797+00:00",
+  "updated": "2026-10-24T16:48:39.179587+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
-        {
-          "title": "¿Cuál es el refugio favorito de Wall Street ante la volatilidad de la IA?",
-          "source": "Gestión",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU290OWJTdWJZZjZ5alJ2NXNZeVBNN3R5UXFGVzdoVlgwbVoyb00xNUpvbjUtcGNSM0pySjlMSHB4Mnd5Y0VENGJzZjBPUVRrd1c4dk1sUXV3SURTTlQtc01VXzhVa2FVajJtN1N0ejhfVTRwTTRFZ3FzRXdTSjk0Skl1Y2stUVNhTXI4ZDlfWWJkTTlRWEhkcnAxeGk5MURjbWN2OW5ZcWxfc2liY19UMEg0dm1yVVRfVUQ4RnRhWGdrb2FHRGRBNQ?oc=5",
-          "ts": 1792813375000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.6,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
         {
           "title": "Nvidia está revelando una fábrica de inteligencia artificial en contenedores mientras las acciones de neocloud caen.",
           "source": "Quartz",
@@ -31,13 +15,13 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": -3.1,
+              "pct": -2.5,
               "dir": -1
             },
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": -1.7,
+              "pct": -1.4,
               "dir": -1
             }
           ],
@@ -53,7 +37,7 @@
             {
               "sym": "META",
               "name": "Meta",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -69,7 +53,7 @@
             {
               "sym": "META",
               "name": "Meta",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -85,13 +69,13 @@
             {
               "sym": "META",
               "name": "Meta",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.6,
+              "pct": 0.5,
               "dir": 1
             }
           ],
@@ -188,6 +172,22 @@
             }
           ],
           "category": "tech"
+        },
+        {
+          "title": "Acciones de Meta se desploma 6%: Su apuesta por la IA enciende las alarmas financieras",
+          "source": "Yahoo Finanzas",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd3dvWjZUZlc4TEZDZG1vUTVVQWhsV25GRjV5LTN0dXhub21JTkU0VkVOUHlMWk5YNEo1THhMTFNmRGdHRFdZZTBzSm1rLWV5UzkwQnRQWERVN0ZlYVE0ZW5HcDJEWlJBYlVhcFhLUHZDRldXYUc1ekNQUGRTQVd6S2dENjRMMWoyTkhDUHFIR3lNY28?oc=5",
+          "ts": 1792689652000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": -1.7,
+              "dir": -1
+            }
+          ],
+          "category": "tech"
         }
       ]
     },
@@ -195,6 +195,22 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "La verdadera brecha de la inteligencia artificial no se mide en dólares",
+          "source": "Corrientes Hoy",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWGtQaGdsbjdUNks0bUVXcG9BWmNwazQ3OTVEUWE5MFNpOURRTlA2eEtJVHFjN2d6VExMSHExc0gzUXo1X1BOZWRXSEp6Qm1UOEFuV2VXM3lzV2h4a1ZtakV4MG5qUndVS29fUlREOElBSjVCb1pjRVp0M09NblZ6aVB0VkMwZ09qLUs3NGMxd09NbjlpZHFmMUJZTFNTUVJMOXpjRkplY3FCdzF3QTNyUURHUVljQkM2dGRNRl9XcUh5dw?oc=5",
+          "ts": 1792850560000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "Amazon utilizó una herramienta de inteligencia artificial para evaluar el riesgo de sindicalización en sus almacenes canadienses - The Globe and Mail",
           "source": "TradingView",
@@ -213,9 +229,9 @@
         },
         {
           "title": "Por qué el entusiasmo por la inteligencia artificial empieza a mostrar grietas en Wall Street",
-          "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWVktX1M3YzMxU093OG02Xy11enlEeXV4SHF0a0d2Q0xVMzE1MjZNSi0xcGpVN3NETkdSYUxpYlFlQ2NOS2c4c1hLV2JTWmx1bXc4c29Ick5hMEZnc1c2bkZialh2Rlk5WGQwWkNrN0oxY3l1Y3FfUGFYdXFwdUxzSnRfcjRYT3ZxTUhGYUtfT0N0LTNUUVlhbW9rTjd5UzdIcF8wRmhiSDhCZDhPbU9BREZKY0lZdFFRbXlRRzVOZzhVU3VBRVRvejZYMjNhcXZrd1FR0gHuAUFVX3lxTFBiVmJnMmRyX25ZUUNWa25uOTBBdDVZSlJXendOdTM3NWxHMmRyQk5XeE11NGw4NzhTbGVybVhLUEo4ZUk3dnFfX3V4b2NwN3VzVXBidXlnODJJTGpiWWktZDE0WlR1MDFWWWM0cmw2MFFDVkp4bkl4Sm5TM01HendkU01Pay1HV2VDb0pPQzd4RzExUkpCUDNaQzNPMTdPMGRkTWFzTDM3VWp1VlpsUXBHUHlWSFZwa1FYRUl5X204VWVvVmduNm5STk1PTThFd2VZQnVnVFp5YU9SS0JEYW1qZFViU1BDTzJBU3FfX2c?oc=5",
-          "ts": 1792822680000,
+          "source": "Rosario Finanzas",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSWg5ZnhXTlZ1R0hqOXR3ZERoOWdCbWh2QWRNT2dzTkl6ZlRZc2dnNjk4WWhRaHlzSm1xNEZ2ZnFreEI1bFpudTRETmxpSWQ1RE5haTJFbGM3cmp0Sk9vd0o3Vi00X19RQVVPNVhZZ1c1ZkVQcUI2ZVREVXdtV1BUODRiMXhKWlBNZXphSXNLLUNrMlFudEI0eTlQTmc1QVlHbmcta3RpX3pVdHZTR2cxSXRrRGtEVmd4cUNtbWVHcF96dUw1SG5ILQ?oc=5",
+          "ts": 1792819110000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -291,22 +307,6 @@
             {
               "sym": "GOOGL",
               "name": "Alphabet",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Nueva York destina USD 10 millones para formar a 40.000 personas en inteligencia artificial",
-          "source": "DiarioBitcoin",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRTRabHJyQVZRazdNdEx3c2FyRW5zVXIyRkU4dFFnMjZjb2U3UFRPNjd0ZnpzUm1XbzVUd2RTQlZkbkh3ZWpTY2NXdDNnNXdZYXVoQS1KRC1QTW53UEdNcHEtd1JOWk9NZmJmZHhyQzNtamdhbkV1dnhkaGdjd0RtelRzUmRENnRYdlprd3NrQzZGS0JIcVhiN3VxQWxaXzd3Y2M4TUptMjZjRHl6aHhwQmxUcDFXVWtZZ0lSZ2E3S3pDYmRNTFlhNEh6MS1JSGc?oc=5",
-          "ts": 1792778887000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
               "pct": 0.8,
               "dir": 1
             }
@@ -561,25 +561,25 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             },
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": -1.2,
+              "pct": -1.0,
               "dir": -1
             },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": -1.0,
+              "pct": -0.8,
               "dir": -1
             },
             {
               "sym": "SPY",
               "name": "S&P 500",
-              "pct": -0.8,
+              "pct": -0.6,
               "dir": -1
             }
           ],
@@ -595,25 +595,25 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             },
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": -1.2,
+              "pct": -1.0,
               "dir": -1
             },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": -1.0,
+              "pct": -0.8,
               "dir": -1
             },
             {
               "sym": "SPY",
               "name": "S&P 500",
-              "pct": -0.8,
+              "pct": -0.6,
               "dir": -1
             }
           ],
@@ -1384,8 +1384,14 @@
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 4.7,
+      "net": 5.1,
       "n": 18
+    },
+    {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 4.5,
+      "n": 9
     },
     {
       "sym": "ASTS",
@@ -1396,32 +1402,20 @@
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": -4.1,
+      "net": -3.5,
       "n": 3
-    },
-    {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 4.0,
-      "n": 9
-    },
-    {
-      "sym": "META",
-      "name": "Meta",
-      "net": 2.9,
-      "n": 8
     },
     {
       "sym": "SPY",
       "name": "S&P 500",
-      "net": -2.8,
+      "net": -2.4,
       "n": 17
     },
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 2.6,
-      "n": 17
+      "net": 2.3,
+      "n": 16
     },
     {
       "sym": "AMZN",
@@ -1434,36 +1428,27 @@
       "name": "Alphabet",
       "net": 1.5,
       "n": 2
+    },
+    {
+      "sym": "META",
+      "name": "Meta",
+      "net": 0.6,
+      "n": 9
     }
   ],
   "ecuador": [
     {
-      "title": "Morgan Stanley ve primas atractivas en bonos de 4 países",
+      "title": "Colombia al 13%: dónde invertir en renta fija en LatAm",
       "source": "El Ecosistema Startup",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEdId2otbEpSd1BhZld1Ym8xclBJYWtTZGlnWkFBNW9TckF2T2w1SGpEZFhweWJpdGtuOU0yRGlLVlZ6ZmxXQzE5LUZwMzdmandwQWltX3Z6V0JLMFlFYWZ1aTNxdG1MbDAwaExkdG9OOUtITUxGdWJtRUk4eUdLekR5YWJUYkI3MnE4X2hCdkw?oc=5",
-      "ts": 1792686288000,
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRGVZZW1BRGotZllyYW9qVTBGa0FUdWVKZVRQY0VZT1NrcnJ4RjVtd0ttSG5SRk9XaUI1RUJsNjYxOTlHV1pkWWxNaElhOHo0d1NFamFQT0d4RUhWdUo2dTY1VVNBdndiakFwTFZqTmdHQXlubDBDOFJNMWk1SVluTWlGbndTVU5NcnhV?oc=5",
+      "ts": 1792761708000,
       "sentiment": 0.0,
       "tags": [
         {
-          "sym": "RIESGO PAÍS",
-          "name": "Riesgo país (EMBI)",
+          "sym": "BVG/BVQ",
+          "name": "Bolsa de Valores",
           "pct": null,
-          "dir": -1
-        }
-      ]
-    },
-    {
-      "title": "¿Vale la pena comprar bonos latinoamericanos? Morgan Stanley señala cuatro mercados con primas atractivas",
-      "source": "Rosario Finanzas",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQlZfYUFrYk1ySnBIc1U2ZU95M1VyVkhXQWVRRlBmSTh2TDIxb21ubG5mQnhVcUJDZ1ZlVlcxdGVFNXk1SVRvakJLM0NZMTMxVVZRY21iOXJIWXRELThORHZpMy01ZWwtYURkT2FjNmhXZVNsak4wcVVjTHBSU24wT0lBMVhhUDM5UW51RmdlRlVGa3JMMlVubVhYR0FTZW1uWWhrVldaWmlacHFfYnpVUmZRLXZ5ZXRWdDBGV3JrNU9Zdk5ic1ptTkI2Q3dVU2ZKNFd3X0Vn?oc=5",
-      "ts": 1792684808000,
-      "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "RIESGO PAÍS",
-          "name": "Riesgo país (EMBI)",
-          "pct": null,
-          "dir": -1
+          "dir": 1
         }
       ]
     },
@@ -1511,6 +1496,14 @@
           "dir": 1
         }
       ]
+    },
+    {
+      "title": "Mercados de América Latina pierden impulso: la incertidumbre política amenaza las inversiones y el financiamiento del agro",
+      "source": "AgroLatam",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS2cxRUYwMTJzLWJhZml1emFRVm9qeHROWXNfbnhjVG1tRExsSEhVN0pNUmIwRGtJQUlnMG5VcFgyeTRfWW5OVm1vblZqakZVN3NnVkxMRzUwSEZQM2RyY0NESzk1NF8waWFGV1BwVUY0VDZzYWYxcXdJQnROaUloT0tkSHEyb0pOcDlB?oc=5",
+      "ts": 1792364800000,
+      "sentiment": -0.67,
+      "tags": []
     },
     {
       "title": "Faltan medicamentos en el sector público, pero el mercado farmacéutico privado crece en Ecuador",
@@ -1598,48 +1591,42 @@
       ]
     },
     {
-      "title": "De Colombia a Ecuador: inversores recortan riesgo en emergentes ante repunte de tasas en EE.UU.",
-      "source": "Bloomberg Línea",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd09UX3FiYzFpX3MxWEhYeWFLa21FMDV4bXppWGcxamNxc2JtbFVVcXd0MnlVekFFVUpUY2NCSkpyOVV1VjVBelNMOElBNE0zSHpScUpfaUtlWVNoanFGdDNuVWVaUGVoc3IzYmRMazRFRDFVbUVrcEU0RmczQTBMUklHZDFGd2VsM3BNbEZIQnJTTVFBNm5BNEpJOGVyVHh4Y19nOHdWM05HMXFRWGZHeDkzeG91Rm5obExWcExhcXVoYkN3NzR2TUhtX1F4QdIB4gFBVV95cUxOVmRyLVRjQWlKVE5MclhGaVlVYzRIRWJZa2VLUmtWQy1wTGFtT0ZMXzVscWIxQ3VpNWx0WXc4dzlhZmc3a3dvLWZUdGExUk8zTGIzU0owZm13aUMwOHVvUWQwRUktdkVyRHROY0FINjRETXlVWXJCTTdLX05yVzJqZThvdWp3SlFtX25iUVZnSGgwaDBDMlFSTThfa2RJdjhKTU1ZVGVXYVl2Z09zQnRmRndQcXkydllGTkRTZ2tPWTRpUi1KajIzd2RVNTFhUFo0VTNaYldlNTZacHloaVp3OHRB?oc=5",
-      "ts": 1790492400000,
-      "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "USD/MACRO",
-          "name": "Macro / dólar",
-          "pct": null,
-          "dir": 1
-        }
-      ]
-    },
-    {
-      "title": "Fondos recortan bonos de Ecuador ante alza de tasas en EE.UU. ¿Qué implica para el país?",
-      "source": "expreso.ec",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcmlGYmRDRXZfeHVQVmdSdVVtelVPaHo0UWZPN1lSaWpXS29rOXlMX2VvYUtBYlZvRGRNc1FjM2NjMWJIc2V1dkJHNkxyd01qNVdRVjhXM2k4b2VmMldqRkk0SkNOcTNvZkJUN2syazFRTk91eFNvdThUT0FqNHl5YllDUl9hclBIbTNxX1pWVFhUVnpqWVlhQVRXeDgzU1NQbk4wZFNMWlRScTVuZkhBVDRXa0M?oc=5",
-      "ts": 1790492400000,
-      "sentiment": 0.5,
-      "tags": [
-        {
-          "sym": "RIESGO PAÍS",
-          "name": "Riesgo país (EMBI)",
-          "pct": null,
-          "dir": -1
-        },
-        {
-          "sym": "USD/MACRO",
-          "name": "Macro / dólar",
-          "pct": null,
-          "dir": 1
-        }
-      ]
-    },
-    {
       "title": "Ecuador crece, pero no hay cifras nuevas sobre el empleo desde mayo de 2026",
       "source": "Diario La Hora",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdlozd3ZiMlphcjAwZVJiWjhweWN2WERMdlVEX2dhZ3N3VEhrcHJJMThwdXA5R01BQWxXQ0ctOFczaHBmYk5mcFhNRDU3bkU1TFdzU1o4enNqb2Q1UU51VVlpOHBIVDVtQW5ab1JKTUROSEp2cUJRUm5RSGE1TnlWcU9kZEllR0pnU09KLV9Kb052S3gtb2dZNXVLdVpiOUhaNHhPU0lEWG1weFB5bDFmU09QSEhyWmhQVXV0V25COVBkcUpjUExn?oc=5",
       "ts": 1790319600000,
       "sentiment": 0.5,
       "tags": []
+    },
+    {
+      "title": "Nueva fórmula del riesgo país ratifica mejor posición de Ecuador",
+      "source": "El Universo",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd0ZWaVpXZF9jQkJjVnhyVGF4a0dEaGpsWW5ta2dFM2JDMHpoLUtGcFFaX1pJd1NBelRydjVwR2ZMdVVJS3QxZWRPYTFNUmVzYkZpNG9tSEpadkRzQ0NtNFBCYy1zb2tudkJvcFV1c0NRcm5aM0dMX2dXR0pONW5KVGZPcWZLMDFXSzRKSzFxYTRyc3FuS1hTRFd4aUg3akpfN1BIUDR6OGd4cWpuWG5wWGMyNTg3d9IBygFBVV95cUxONE5YeGEtRWpxM2JIQVNCdnRJWGtpeHJZamc5Z2pRUjVPZkwyWUN3ZGZsLVpORzNLLVNpLVBiUUotYmRaS2lFTkR3Y211Ni0wZkhxQ1lJQnN2b1VTYWN1RkpoMzN1MXNjdWtHN1VWVVdXbE1CSGNMcmRHakdjajVJV2dVSXhSQ09zWWxYLXJHa0duaEFNSHZ4QnhBSks4UmVPMHZ0Y0RmdXhvZWJxVFdLQTNVTm8yTDN1QzBSY1VuM0pwaWtJTU5zYndn?oc=5",
+      "ts": 1790233200000,
+      "sentiment": 0.0,
+      "tags": [
+        {
+          "sym": "RIESGO PAÍS",
+          "name": "Riesgo país (EMBI)",
+          "pct": null,
+          "dir": -1
+        }
+      ]
+    },
+    {
+      "title": "Juan Lorenzo Maldonado presidirá el directorio de la Bolsa de Valores de Quito",
+      "source": "El Universo",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMmxiQlM1dWdVdVh3MXNWdTF2aFVhWmM2RHhKNmpfMF9QVmhJNXRmcXYxbllZdmpmUlRBbG1QLXlSSEYta0IyUEtiQkVxRHBhc2NTMHBEZnktS3JiaGhrc04tV25uekZjRFpvQVhUUXIwOUVTNXdVRFpaYnNLZGtpd092d2ZmU3FYazZkYWdXZ2oteUNFVzNoWWJLaUxYaVAyQjJIMU01aE91ZF8wRFdLZzRkQ0NTS2N2eDlqWTdXLWU2bHhD0gHYAUFVX3lxTFBtV080TlMxZm15cUtzWGp1VDJlRlEtWlR6X1lCWFNyN296M1JONFlSbVBCQzMwenVfdFlWb21uRE9tQmhNR3l2UExBZDVVLUctNldJeGFoLVNLTmpTZmZZb1dsVFAtQXozYkxsejdYX2RhMm5naGw1aFB0ZGRRQWxja2RlZ25uSTVwQjhnV3ExYzlLMGctOU9EMVdya1lFbm5iQkI5Ty13OGFIUEJyeWpEWnlEcTA1YzNwY00zaXBsV3lDY0VUM2VJeEpkNTBlSXJZNTIxS0U2bg?oc=5",
+      "ts": 1790146800000,
+      "sentiment": 0.0,
+      "tags": [
+        {
+          "sym": "BVG/BVQ",
+          "name": "Bolsa de Valores",
+          "pct": null,
+          "dir": 1
+        }
+      ]
     }
   ]
 }

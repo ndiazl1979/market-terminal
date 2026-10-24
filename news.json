@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T16:48:39.179587+00:00",
+  "updated": "2026-10-24T19:04:45.833457+00:00",
   "categories": [
     {
       "key": "tech",
@@ -23,22 +23,6 @@
               "name": "ETF Semiconductores",
               "pct": -1.4,
               "dir": -1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Acciones sin voto de Meta buscan proteger control de Zuckerberg",
-          "source": "Yahoo Finanzas",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQVlKSXc2cGgxYm16Y2hxOV9TQkhRZHlJRTlCSkJrM2tQc0VMd3g4NWNPcURtdGRzNGVrM1JoN21rUUQ4Xy1ReWxZZ2F4QndxQW9XTlNtMlVVRVhsX28wTDA3c1BnbEIyU1JOaTFZOTVib2gxNGJxSkUwd1o1b2ptTDQyTzJ0dGQxcXB5b3lwOXZaZHVxVkE?oc=5",
-          "ts": 1792765216000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 0.8,
-              "dir": 1
             }
           ],
           "category": "tech"
@@ -183,7 +167,29 @@
             {
               "sym": "META",
               "name": "Meta",
-              "pct": -1.7,
+              "pct": -1.3,
+              "dir": -1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "¡CAÍDA TECNOLÓGICA! 5 acciones para comprar, 5 a evitar tras reportes Meta y Tesla",
+          "source": "Yahoo Finanzas",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcGExdWNfRTRHYkx5bEVRNG8tcWhSbDF0TWJDdVdpRWlRMklnMks0SFFHVEdRbkE5ZlpQOGVNNzBhdlVkTjNVcUhFZVdfemJUak1PU2VqRy1lOVhpQk1vX2lnbDN4ZHJZQXhQWDVwQTlOcXh1RkVuQTk4aFJGMmFQcC1vRmI2eHhHYXVJOVJXVXR4TlczNTN6STZrOGFVNVMyRVMySXNB?oc=5",
+          "ts": 1792687290000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "TSLA",
+              "name": "Tesla",
+              "pct": -2.1,
+              "dir": -1
+            },
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": -1.3,
               "dir": -1
             }
           ],
@@ -195,6 +201,38 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "La IPO de Anthropic: una apuesta de US$ 2 billones por una inteligencia artificial que admite su propio \"riesgo existencial\"",
+          "source": "El Observador Argentina",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNllnekZ1WlBfNGhseUNtQ3RWeUVaZlRBNGhhNWYyRkt0UFc1dnEwNEtmOGZhU0c2b3FtSTVjRDcydWdMdTd1cUFxRktFTmV2QTFRWk5rX0djTDQ1cm1WekpvdXBEMndxeU5DZGNLNVRzb0c2YUdLWm5CN1k0cDJkcW1CZWNxRndCc0lRSEdfaUdNcjVKQ2VKNTU5RU5MREVHRUtyZHpWb25WSWZ5TlBWZnY5TmFjbkZYOHF0UktEUmNTTnprd0N0bkVubDgtb3dBQ2pGd1lpUWFfRklWVUsyN1MwelVaUW83bk9SZmNfbzdKS2dOTFNXd2lMelVYSFnSAYQCQVVfeXFMT0x4eE14Nm9nTmg2bUZfYzR4cXcwWEMwUzY5UmVvdUJ6NGE1S0cyU1dWTmIxWHZRVEpGTGwyN1Jjd3ZTSGZuZ2t6MWphVk1PSkVyVXpLR005WjRlTHpvbGc3NU1OTkNRV2tjVmRqcU9iZ2M1ZmZiRmo1WmJpWGs1QkVXNEoyRXJSMk5keE9RYTctdF9zU212c3dhVV84LXN1NUhtQWFaYzN1dnFJN1hNbHdvU2N4c3dKQWVZcTE0OGtPWjUtZGxFUjYxWjk0Y01zaUdpa19iZTdxbjU5RHk3eXJrSVdrRm5FcXNyY1FKYkZhb3pLaTMzazlEbU5aSXk4aktuT3k?oc=5",
+          "ts": 1792861800000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Japón creará un equipo de hackers con inteligencia artificial para combatir la creciente ola de ciberataques",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMmYtQlNwU0NJZzdpMVJwWkMzeWloajA4V2g1QlF0ZVB0LWc0a1dLVlZOUHhEUjBERFNRd3FOd3k3aVg3R3RmcHZhOXVPVnFzTEVQcW1Ta2QwdEdwblUycnJEcV8wdFRFbDBqUndydERDODAwNHhNOWZVVXhIUnV0X29ya1VQSUU1UHI3bmt4MkRMZy14SENIWmIyVjVXWVpXSFJXVTBJakI1QmhRLTRtNWNEdDY0QTE0eS1KZ3dYRzFsbE5fMi1kenRHY0ZqWnNHM19zS3BnSDNCUzRXMURiNS1pajHSAf8BQVVfeXFMTmhVV0pHU1NLcVFoYzlCdkxjY3VycThCQ3FMd3g0OTRGOU11V3FJOW1nSXNxRk5UbjQxaU5uLUtCRlBmUlVFYXJxbExYTkZxaFZsRWEyM2Z4U29VUExBYjhhVXAtNklOUTZFWEZxS2xvejdzUU16VTR1UHNLRENVUTFBbjdEVS0weHdLVkZnTF9oZFMtRVFxNUdjYmYxUy1zYy12Z2NDd2EtODh2bExQM2ptQUdxS253c0dTcTVJOTRVcW85bEdmT285eXd2NlZJSUFTS0tleVUtaW5UbVRQVmZpRU4xRmJ0TDh5VVJlMWpzcU9uWUFMczV5cFVoclp3?oc=5",
+          "ts": 1792852560000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "La verdadera brecha de la inteligencia artificial no se mide en dólares",
           "source": "Corrientes Hoy",
@@ -282,22 +320,6 @@
           "category": "semis"
         },
         {
-          "title": "El Gobierno británico destina 800 millones USD a la seguridad de la inteligencia artificial",
-          "source": "MarketScreener España",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQR1lJRGhMYUM3cGNEN0NUMXlPU2pqaWc3U1A0MUlGYkVVZVctVF9QTFVnbmlqdGw0OUNOWXJ2UF8xd05rTjYxOWZqaTg4ckwzdDd6SGRaV1lReEltWFYwV2VNZGE2VDRSMFFtUUdlbkNZSlM5M0tCUDJHTmRyVGhlYUFneHhZdWo1elliYUp0aEVGZ0M1dTc1OGFnMzByWWR1Z09qY1NwMWVCSkMtM0hySElOdHBOdzQ4OWtRRUJLREhQTkJkUGdNMWllOHhJSUJ1WDY2bXdPNF9mT19fV1BXbg?oc=5",
-          "ts": 1792796564000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
           "title": "Eric Schmidt, exdirector de Google, afirma que trabajaba 60 horas semanales: “Sentado en reuniones 12 horas al día”",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVVkwbWQtemtyZTAxQ05BZm9GaHQ2WXZUTENMTjQ5bGVOWHh3MFFsbFF3SE5Cdkl2SjhwT1ZXUjZaY2REOG4zcUVmdmVUb0FuUk9helJ5UEtnQ3NwcE44R0YtX3JwTUhGTVJJU21yMy1vRmwtYTg2a3JzY0w1aDFxaDRwNnBLbEJqUUZnb010R3J6ZUw4SDc5bzVCRHgyUHNCc3U3ZGcyb1VBNncyZWh5eko5cU5rbHM4ekhtSXY3ZERlSmhQZWNZUE9jX2UzQWtBQXZ0cGdTVXpBUGVFS0pZUWU3VjRsZ03SAYICQVVfeXFMTjFTRFJ2ZW5sNTlHbjcyRzJyUFZsQXlNOWpRSUFQUWpZY3ozTE1YRmV2VjZRb01FN0k3Y1VBOFlmYlFLVkdjMXppUEU4NDdremtSaG9KYlZLS1VTZzh4c1ZsZHhzcklpQ0xpTkN2SUU0TkxNQkhvY24xdGdlMDlYa1UxWkNWOXZKVXFrNFY1NVBxX2c5Yk1rS2o4Y0VWWm5vNUhSZFVjaDBOdWVMWnV3NkdRU3FJRXItbWM3X3l0X1psdzVTTm9YUkFucHV4dld5dmFjaWE3YmRpbzBKeVRPaUszckxXcGlDQTExamxlQ3dkZlZQRk5UcVRKcndiT3IzN1dB?oc=5",
@@ -334,22 +356,6 @@
           "source": "EL PAÍS",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa0lBVnRFTTVRM1pjSm53aFBGZFc3SWFoTWhzcFkwbzlrc1k0R2FMejMzQWlTdml4Sy1YSHlIdFJqYTh1eERCdk5oWnpkeFpCUVY0ci1WODRNM19ka3BVTnJwWlcxbkx2Rllrc0lsWURNSktvSk9VWGZXRFZEcGR5MGl0WUpyeXMydjRoSS1GSW05S25OMlZxV21TZzdadmx0VlprcEJpMzFGQkVFRnJkZlBsYktfYTYyanVoOTgzY1ZwNTA4TVpmUUVDOV9aOG4xUFhXNVc4M3ZqdTJ5eW5sSlBIZTbSAfgBQVVfeXFMUHJQVHZ6Z2c2M0RqYlFQeWJJNmN2Q3B0eW81eVZxS1lRNElFUWJudEZZYnlqaWlJWHowV3g5cFhacnMxdDg3OVNiU1pyMld0NzM2RGhtS2JiMkpPc2NTMFo0anp2M1pvTjM3cVp1UlJTOFF3d0N5UWJyM25GMWhjNzB5S0ZtRUZESG5OR2stTGVCR2JXMWJwU1Z6Z2d4TkN4NEM1dzF6bnliN05fbHcwOUZ3Z2p4TnhtaTRqcHZXU3ZYQ283ZkliOTcyYzQyZk9VeWVnUlNrN21YNlMyOFRGOHRXX0ktbHliWlRCRW13bmJyTkRCbVllaS0?oc=5",
           "ts": 1792661400000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.6,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Ética e inteligencia artificial: de los principios globales a la acción empresarial en Uruguay",
-          "source": "UNESCO",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS3BqTGhja2VNR2J4Q3dSbU04MDFKQVJDcW5mWlN6OWZBMWc2X0JkSHpXWGxHYVFxSzFfcEtJeW8wclBNTk9JVlFUYlVpcDZwcXE1S3I2TE16X3Y3bVRuM180ZFotZ0tOekF3bmJGcnA0U0RVcDQwbnJEQkdrb0ktWjZmR1hlZlNjeTN5YVFuN21rSXA1czdvMlZ5Yl9nRUdBNjVtLTNlUVdYbm84OHRSUkhwaXRmUExIa1BSeHN6bi1QdGJ4?oc=5",
-          "ts": 1792526230000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -694,6 +700,34 @@
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
               "pct": 0.9,
+              "dir": 1
+            }
+          ],
+          "category": "defense"
+        },
+        {
+          "title": "Cómo vende Rusia su industria militar frente a Europa y EE.UU.: la batalla de narrativas en el mercado global de defensa",
+          "source": "Escudo Digital",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOd3ExTTQ4eHVfN3pYMEtUQ3dCMW5ETlJsVkV0YzROaWp1SUtBTXBYV055NF9tZU1IeUVkT2MtenVmSUw3Q3MwQjFRUkVzRzM3NVcta2hEandXNFlaa25meGwxLXRqajFjVVM5MGxiWXRFZ3czQWk3WEhhM2VoZXpwMm5MRXVLMTVaSENpdi1RSkNUVHhWeXg3MGJYcndNVmNoVEJoXy13bFpPaVNDODZsTFRLamkyWVZUNDNaMFZ1VWNuc1ozYjJhZGs1X3BkZFczeVByYmZQalBFcFlUejNxVDBZVjQyelZYNEZINlZpTmhBdFlPNXgxUmVIemlGVHJ3?oc=5",
+          "ts": 1781247600000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -0.7,
+              "dir": -1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 0.4,
+              "dir": 1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 0.3,
               "dir": 1
             }
           ],
@@ -1290,22 +1324,6 @@
           "category": "macro"
         },
         {
-          "title": "BMV y Wall Street hoy: así cierran las bolsas este 14 de octubre de 2026",
-          "source": "EL CEO",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSDB6cHhwUXVqbzFIakdZWnVCRXB0Q2hMaGxzeVRiNDF6WWMybEs3RmNKVkhZdDUyUm1GYlQzZFNycG1Kc0JkRG93RXVFT0F4NlVBYmlYeGF1UGd4LXR3eFZQcGlWbjNCUG9Zd2VIVlNLeXZQbHg3VVlUemNiWHdkRlhISkI3ejQ?oc=5",
-          "ts": 1791961200000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
-        },
-        {
           "title": "Fed e inflación tumban a Wall Street: ¿Cómo cierran los mercados de EU HOY?",
           "source": "El Financiero",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVzB6U2JVaVoteExmN3prVVBqdEJEemtRbnBYSUdHYVM5OTNUWm1iOXpPXzhrLUR5TmVrWEl1SC0ycXBmaDZUMmFabFFQZERWaUNBS0R6eTNURGdCTjJRUGo0cTU5S2tDXzBMc1dMVUx4MUgwcDVjb1QtMU9PaXVsLWtzWjNLdWNwZ3dmZnc5OElHaWswejNpcHZxYWRKMWdzX3REeDV3?oc=5",
@@ -1322,6 +1340,22 @@
               "sym": "SPY",
               "name": "S&P 500",
               "pct": 0.3,
+              "dir": 1
+            }
+          ],
+          "category": "macro"
+        },
+        {
+          "title": "BMV y Wall Street hoy: así cierran las bolsas este 14 de octubre de 2026",
+          "source": "EL CEO",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSDB6cHhwUXVqbzFIakdZWnVCRXB0Q2hMaGxzeVRiNDF6WWMybEs3RmNKVkhZdDUyUm1GYlQzZFNycG1Kc0JkRG93RXVFT0F4NlVBYmlYeGF1UGd4LXR3eFZQcGlWbjNCUG9Zd2VIVlNLeXZQbHg3VVlUemNiWHdkRlhISkI3ejQ?oc=5",
+          "ts": 1791961200000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.4,
               "dir": 1
             }
           ],
@@ -1373,24 +1407,24 @@
       "sym": "WTI",
       "name": "Petróleo WTI",
       "net": 12.0,
-      "n": 23
+      "n": 24
     },
     {
       "sym": "TSLA",
       "name": "Tesla",
-      "net": 7.8,
-      "n": 7
+      "net": 5.7,
+      "n": 8
     },
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 5.1,
-      "n": 18
+      "net": 5.5,
+      "n": 19
     },
     {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 4.5,
+      "net": 5.1,
       "n": 9
     },
     {
@@ -1406,16 +1440,16 @@
       "n": 3
     },
     {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": -2.4,
-      "n": 17
-    },
-    {
       "sym": "QQQ",
       "name": "Nasdaq 100",
       "net": 2.3,
       "n": 16
+    },
+    {
+      "sym": "SPY",
+      "name": "S&P 500",
+      "net": -2.1,
+      "n": 18
     },
     {
       "sym": "AMZN",
@@ -1432,23 +1466,38 @@
     {
       "sym": "META",
       "name": "Meta",
-      "net": 0.6,
+      "net": -1.1,
       "n": 9
     }
   ],
   "ecuador": [
     {
-      "title": "Colombia al 13%: dónde invertir en renta fija en LatAm",
+      "title": "Morgan Stanley ve primas atractivas en bonos de 4 países",
       "source": "El Ecosistema Startup",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRGVZZW1BRGotZllyYW9qVTBGa0FUdWVKZVRQY0VZT1NrcnJ4RjVtd0ttSG5SRk9XaUI1RUJsNjYxOTlHV1pkWWxNaElhOHo0d1NFamFQT0d4RUhWdUo2dTY1VVNBdndiakFwTFZqTmdHQXlubDBDOFJNMWk1SVluTWlGbndTVU5NcnhV?oc=5",
-      "ts": 1792761708000,
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEdId2otbEpSd1BhZld1Ym8xclBJYWtTZGlnWkFBNW9TckF2T2w1SGpEZFhweWJpdGtuOU0yRGlLVlZ6ZmxXQzE5LUZwMzdmandwQWltX3Z6V0JLMFlFYWZ1aTNxdG1MbDAwaExkdG9OOUtITUxGdWJtRUk4eUdLekR5YWJUYkI3MnE4X2hCdkw?oc=5",
+      "ts": 1792686288000,
       "sentiment": 0.0,
       "tags": [
         {
-          "sym": "BVG/BVQ",
-          "name": "Bolsa de Valores",
+          "sym": "RIESGO PAÍS",
+          "name": "Riesgo país (EMBI)",
           "pct": null,
-          "dir": 1
+          "dir": -1
+        }
+      ]
+    },
+    {
+      "title": "¿Vale la pena comprar bonos latinoamericanos? Morgan Stanley señala cuatro mercados con primas atractivas",
+      "source": "Rosario Finanzas",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQlZfYUFrYk1ySnBIc1U2ZU95M1VyVkhXQWVRRlBmSTh2TDIxb21ubG5mQnhVcUJDZ1ZlVlcxdGVFNXk1SVRvakJLM0NZMTMxVVZRY21iOXJIWXRELThORHZpMy01ZWwtYURkT2FjNmhXZVNsak4wcVVjTHBSU24wT0lBMVhhUDM5UW51RmdlRlVGa3JMMlVubVhYR0FTZW1uWWhrVldaWmlacHFfYnpVUmZRLXZ5ZXRWdDBGV3JrNU9Zdk5ic1ptTkI2Q3dVU2ZKNFd3X0Vn?oc=5",
+      "ts": 1792684808000,
+      "sentiment": 0.0,
+      "tags": [
+        {
+          "sym": "RIESGO PAÍS",
+          "name": "Riesgo país (EMBI)",
+          "pct": null,
+          "dir": -1
         }
       ]
     },
@@ -1498,18 +1547,10 @@
       ]
     },
     {
-      "title": "Mercados de América Latina pierden impulso: la incertidumbre política amenaza las inversiones y el financiamiento del agro",
-      "source": "AgroLatam",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS2cxRUYwMTJzLWJhZml1emFRVm9qeHROWXNfbnhjVG1tRExsSEhVN0pNUmIwRGtJQUlnMG5VcFgyeTRfWW5OVm1vblZqakZVN3NnVkxMRzUwSEZQM2RyY0NESzk1NF8waWFGV1BwVUY0VDZzYWYxcXdJQnROaUloT0tkSHEyb0pOcDlB?oc=5",
-      "ts": 1792364800000,
-      "sentiment": -0.67,
-      "tags": []
-    },
-    {
       "title": "Faltan medicamentos en el sector público, pero el mercado farmacéutico privado crece en Ecuador",
       "source": "Diario La Hora",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcmpuc0dsN1pjanppUUVkMUw4VF9QOU9ZbnR2a0VVRFRaNGZDMGhZT1libVJ3bE0yWjBlMzY3aUkxcDdBM2ZQT1pLTG13VHdrNkFsSHVab19yY1RNRHlHZkxnVElQanNSWTUyQ1VIaDczWS15clVhSG9abzlmQ2tKSFNUanJwekM4MkNhM3dJcW9mRm9CWWx3X2tNRGxoNVNRcy1mbC1qSi01R0d3dmNBejBjN3NQOC1JTDJVR2FmU0M5eHBjU2xuX201VV9WOXpxYUN1dERtN2pFcEdRRXp3VVF3?oc=5",
-      "ts": 1792128600000,
+      "ts": 1792134000000,
       "sentiment": 0.5,
       "tags": []
     },
@@ -1591,6 +1632,27 @@
       ]
     },
     {
+      "title": "Fondos recortan bonos de Ecuador ante alza de tasas en EE.UU. ¿Qué implica para el país?",
+      "source": "expreso.ec",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcmlGYmRDRXZfeHVQVmdSdVVtelVPaHo0UWZPN1lSaWpXS29rOXlMX2VvYUtBYlZvRGRNc1FjM2NjMWJIc2V1dkJHNkxyd01qNVdRVjhXM2k4b2VmMldqRkk0SkNOcTNvZkJUN2syazFRTk91eFNvdThUT0FqNHl5YllDUl9hclBIbTNxX1pWVFhUVnpqWVlhQVRXeDgzU1NQbk4wZFNMWlRScTVuZkhBVDRXa0M?oc=5",
+      "ts": 1790492400000,
+      "sentiment": 0.5,
+      "tags": [
+        {
+          "sym": "RIESGO PAÍS",
+          "name": "Riesgo país (EMBI)",
+          "pct": null,
+          "dir": -1
+        },
+        {
+          "sym": "USD/MACRO",
+          "name": "Macro / dólar",
+          "pct": null,
+          "dir": 1
+        }
+      ]
+    },
+    {
       "title": "Ecuador crece, pero no hay cifras nuevas sobre el empleo desde mayo de 2026",
       "source": "Diario La Hora",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdlozd3ZiMlphcjAwZVJiWjhweWN2WERMdlVEX2dhZ3N3VEhrcHJJMThwdXA5R01BQWxXQ0ctOFczaHBmYk5mcFhNRDU3bkU1TFdzU1o4enNqb2Q1UU51VVlpOHBIVDVtQW5ab1JKTUROSEp2cUJRUm5RSGE1TnlWcU9kZEllR0pnU09KLV9Kb052S3gtb2dZNXVLdVpiOUhaNHhPU0lEWG1weFB5bDFmU09QSEhyWmhQVXV0V25COVBkcUpjUExn?oc=5",
@@ -1599,34 +1661,12 @@
       "tags": []
     },
     {
-      "title": "Nueva fórmula del riesgo país ratifica mejor posición de Ecuador",
-      "source": "El Universo",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd0ZWaVpXZF9jQkJjVnhyVGF4a0dEaGpsWW5ta2dFM2JDMHpoLUtGcFFaX1pJd1NBelRydjVwR2ZMdVVJS3QxZWRPYTFNUmVzYkZpNG9tSEpadkRzQ0NtNFBCYy1zb2tudkJvcFV1c0NRcm5aM0dMX2dXR0pONW5KVGZPcWZLMDFXSzRKSzFxYTRyc3FuS1hTRFd4aUg3akpfN1BIUDR6OGd4cWpuWG5wWGMyNTg3d9IBygFBVV95cUxONE5YeGEtRWpxM2JIQVNCdnRJWGtpeHJZamc5Z2pRUjVPZkwyWUN3ZGZsLVpORzNLLVNpLVBiUUotYmRaS2lFTkR3Y211Ni0wZkhxQ1lJQnN2b1VTYWN1RkpoMzN1MXNjdWtHN1VWVVdXbE1CSGNMcmRHakdjajVJV2dVSXhSQ09zWWxYLXJHa0duaEFNSHZ4QnhBSks4UmVPMHZ0Y0RmdXhvZWJxVFdLQTNVTm8yTDN1QzBSY1VuM0pwaWtJTU5zYndn?oc=5",
+      "title": "Sacha y las finanzas públicas: las dos cartas de Noboa para atraer capital extranjero",
+      "source": "Diario La Hora",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZHN1S1hFQmlpTkNuREtFamxXN0lQZ3BfeXJaNmduQVBOdzJVMjRFWFBuMHBwdFBnbGtXb1FubF92MjF5OXk5cEZLUGFaVUI5eUdvaTB3UXpYaGZXS1NKTVM2d2tqb3lreW9Tam5FMEhhQXRJUGRQM1pRSjJVUnJRMXRObTlFeEtHclpEd2Z2WTU0RnFOdGlZWVFBVDNNck1memhwM0t6c09rcXhoQ3AwQTJaUUYtNGNOWkkwempLRVFZcUlTVzF6dHdWdXNVNHZPa3VHaw?oc=5",
       "ts": 1790233200000,
       "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "RIESGO PAÍS",
-          "name": "Riesgo país (EMBI)",
-          "pct": null,
-          "dir": -1
-        }
-      ]
-    },
-    {
-      "title": "Juan Lorenzo Maldonado presidirá el directorio de la Bolsa de Valores de Quito",
-      "source": "El Universo",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMmxiQlM1dWdVdVh3MXNWdTF2aFVhWmM2RHhKNmpfMF9QVmhJNXRmcXYxbllZdmpmUlRBbG1QLXlSSEYta0IyUEtiQkVxRHBhc2NTMHBEZnktS3JiaGhrc04tV25uekZjRFpvQVhUUXIwOUVTNXdVRFpaYnNLZGtpd092d2ZmU3FYazZkYWdXZ2oteUNFVzNoWWJLaUxYaVAyQjJIMU01aE91ZF8wRFdLZzRkQ0NTS2N2eDlqWTdXLWU2bHhD0gHYAUFVX3lxTFBtV080TlMxZm15cUtzWGp1VDJlRlEtWlR6X1lCWFNyN296M1JONFlSbVBCQzMwenVfdFlWb21uRE9tQmhNR3l2UExBZDVVLUctNldJeGFoLVNLTmpTZmZZb1dsVFAtQXozYkxsejdYX2RhMm5naGw1aFB0ZGRRQWxja2RlZ25uSTVwQjhnV3ExYzlLMGctOU9EMVdya1lFbm5iQkI5Ty13OGFIUEJyeWpEWnlEcTA1YzNwY00zaXBsV3lDY0VUM2VJeEpkNTBlSXJZNTIxS0U2bg?oc=5",
-      "ts": 1790146800000,
-      "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "BVG/BVQ",
-          "name": "Bolsa de Valores",
-          "pct": null,
-          "dir": 1
-        }
-      ]
+      "tags": []
     }
   ]
 }

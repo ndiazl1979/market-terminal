@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T23:29:53.253117+00:00",
+  "updated": "2026-10-25T01:26:57.769926+00:00",
   "assets": [
     {
       "symbol": "AAPL",
@@ -97,7 +97,7 @@
       "change": -2.36,
       "changePct": -0.63,
       "open": 373.13,
-      "dayHigh": 377.3,
+      "dayHigh": 377.28,
       "dayLow": 365.27,
       "week52High": 498.83,
       "week52Low": 297.38,
@@ -269,21 +269,21 @@
       "symbol": "BTC",
       "name": "Bitcoin",
       "type": "crypto",
-      "price": 80543.0,
-      "change": -366.42,
-      "changePct": -0.45,
-      "dayHigh": 81104.0,
+      "price": 80745.0,
+      "change": 19.46,
+      "changePct": -0.02,
+      "dayHigh": 81002.0,
       "dayLow": 79263.0,
       "week52High": 126080.0,
       "week52Low": 67.81,
-      "volume": 21810843985,
-      "marketCap": 1618877926716,
-      "circulatingSupply": 20103015.0,
+      "volume": 21168927115,
+      "marketCap": 1623057971493,
+      "circulatingSupply": 20103046.0,
       "ath": 126080.0,
-      "athChangePct": -36.12,
-      "sma50": 81801.77,
-      "sma200": 72898.31,
-      "rsi": 43.3,
+      "athChangePct": -35.96,
+      "sma50": 81825.53,
+      "sma200": 72950.14,
+      "rsi": 44.0,
       "signal": "MANTENER",
       "signalScore": -3,
       "signalReasons": [
@@ -291,23 +291,22 @@
         "Precio sobre SMA200 (tendencia larga alcista)",
         "Golden cross (SMA50 > SMA200)",
         "MACD bajo señal (momentum bajista)",
-        "RSI 43: neutral"
+        "RSI 44: neutral"
       ],
       "quant": {
         "volAnnual": 36.39,
         "sharpe": -0.43,
-        "sortino": -0.6,
+        "sortino": -0.61,
         "maxDrawdown": -48.81,
         "var95": -3.49,
-        "ret1m": -4.95,
-        "ret3m": 4.5,
-        "ret1y": -27.45,
-        "macd": -304.473,
+        "ret1m": -6.64,
+        "ret3m": 3.91,
+        "ret1y": -27.67,
+        "macd": -302.574,
         "macdState": "bajista",
-        "bollPctB": 13.3
+        "bollPctB": 16.9
       },
       "spark": [
-        75590.24,
         76146.81,
         76371.36,
         80873.58,
@@ -346,7 +345,8 @@
         84082.27,
         81328.21,
         81102.31,
-        80547.97
+        80810.57,
+        80747.17
       ],
       "currency": "USD"
     },
@@ -354,21 +354,21 @@
       "symbol": "ETH",
       "name": "Ethereum",
       "type": "crypto",
-      "price": 2343.35,
-      "change": -33.44,
-      "changePct": -1.41,
+      "price": 2355.59,
+      "change": -18.73,
+      "changePct": -0.85,
       "dayHigh": 2386.37,
       "dayLow": 2286.76,
       "week52High": 4946.05,
       "week52Low": 0.432979,
-      "volume": 8911599720,
-      "marketCap": 286198757772,
+      "volume": 8848038930,
+      "marketCap": 287723883966,
       "circulatingSupply": 122158316.66611369,
       "ath": 4946.05,
-      "athChangePct": -52.62,
-      "sma50": 2546.22,
-      "sma200": 2156.59,
-      "rsi": 35.3,
+      "athChangePct": -52.37,
+      "sma50": 2544.0,
+      "sma200": 2157.54,
+      "rsi": 36.2,
       "signal": "MANTENER",
       "signalScore": -3,
       "signalReasons": [
@@ -376,23 +376,22 @@
         "Precio sobre SMA200 (tendencia larga alcista)",
         "Golden cross (SMA50 > SMA200)",
         "MACD bajo señal (momentum bajista)",
-        "RSI 35: neutral"
+        "RSI 36: neutral"
       ],
       "quant": {
-        "volAnnual": 50.74,
+        "volAnnual": 50.73,
         "sharpe": -0.45,
         "sortino": -0.65,
         "maxDrawdown": -62.34,
         "var95": -4.75,
-        "ret1m": -12.78,
-        "ret3m": -3.3,
-        "ret1y": -40.46,
-        "macd": -10.883,
+        "ret1m": -13.58,
+        "ret3m": -4.33,
+        "ret1y": -40.42,
+        "macd": -9.668,
         "macdState": "bajista",
-        "bollPctB": 15.7
+        "bollPctB": 18.4
       },
       "spark": [
-        2397.5,
         2415.96,
         2446.14,
         2611.56,
@@ -431,7 +430,8 @@
         2472.68,
         2386.48,
         2384.75,
-        2343.51
+        2356.57,
+        2355.75
       ],
       "currency": "USD"
     }

@@ -1,10 +1,32 @@
 {
-  "updated": "2026-11-01T21:25:58.030918+00:00",
+  "updated": "2026-11-02T00:56:57.516999+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Apple supera a Nvidia en valor de mercado pese a caer ambas acciones",
+          "source": "https://fomoera.com/",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jLTRTbjI0Z0JqS0RMUUJiSU5yTFRoWHUxV0liS3pGOU5MN2szeUVPNlhycEN0OEplSlVCY2dSdVF0XzdycXRacFd4NHBmcWhnNnhKT3BVUFk4X3dCZHUzaEFvTThUUWdDS1ZoZVl4emZlYlc2blZZ?oc=5",
+          "ts": 1793553060000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 3.1,
+              "dir": 1
+            },
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 1.4,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "¿Por qué se hunden las acciones de Apple este viernes?",
           "source": "Bitfinanzas",
@@ -91,7 +113,7 @@
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": -0.9,
+              "pct": -0.7,
               "dir": -1
             }
           ],
@@ -166,28 +188,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Las tecnológicas se desploman tras los resultados de Amazon e Intel",
-          "source": "Morningstar",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSENPUDlGZXlLUXJnRldSZU9mdUpVTmw0UThPcnhXNjNQcUFNWnEwcFNReG51VV9LcTJuellibkVfRVpidVFsV2gxWXBHR2xhY2VIVGY3bFV6WnRybVNvMUo1NVZFWWdZQ0wzLXI0Yi05QlhoYmg2OW1fYXI4SXZ2dC01UDAwUnB0ZVktUF9ERVM4RmVmZFVxWE5NUDRGTVdrbFoya2F6SGRfeVpjb0E?oc=5",
-          "ts": 1793375734000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "INTC",
-              "name": "Intel",
-              "pct": 0.8,
-              "dir": 1
-            },
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": 0.6,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -195,6 +195,28 @@
       "key": "semis",
       "label": "Semiconductores / IA",
       "items": [
+        {
+          "title": "Las bolsas asiáticas ceden ante la presión sobre la inteligencia artificial a la espera de los resultados de Apple",
+          "source": "MarketScreener España",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMk05eHJXLXo3WDJJWHZ3VnF6SkxDLXhQblNQX0o2UHRpRlRkVU5SN2hjM0M3RjRBcWZQNW1FWVI3S3AxR0MyUWp2S3hkTFRlTGgwVVpEQVJIekhkRzQ1V3pDX3ppTjJjU1Y1OHlMN01nVjAyXzJBNFhOd1MzQ1VkaU9hQXZhMG5QSTVBSWZ4ekw2THdQZnZVZ2gyX2VwTzNYQjd5Z1lLUVNhQ1BXOS1icWpiOE0tVUtYZ1lDS1l4d0I5U05zM0ZmQi1IOHcyTlAydzdFdFFUN05EQndJY3E5SjVwSUZsYk9SdENNXw?oc=5",
+          "ts": 1793579605000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": -2.0,
+              "dir": -1
+            },
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": -1.6,
+              "dir": -1
+            }
+          ],
+          "category": "semis"
+        },
         {
           "title": "La petrolera Aramco da un giro tecnológico: invertirá US$2.600 millones en una empresa de inteligencia artificial",
           "source": "Portafolio.co",
@@ -243,7 +265,7 @@
             {
               "sym": "AMZN",
               "name": "Amazon",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -253,13 +275,13 @@
           "title": "Google ya ejecuta inteligencia artificial en el espacio: su primer satélite responde desde la órbita terrestre",
           "source": "Alta Densidad",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTjFFYzc5YWZwcUJScHNXMEV4aG5TRzhTaE5EQS1nbk1PSTNhYVJfNE02bFpiTW1GOXlFT2dVSHBNNHJ5dEtCOGtITVJwcDVCeTk5YjFqSi1LSHgtY1gwbkJid3RrcE1tbjB0VEpDRERDRXZrUHlkb0FFTnE0QWhYWjdzU1ZtQ08wRF9JeQ?oc=5",
-          "ts": 1793554819000,
+          "ts": 1793554881000,
           "sentiment": 0.0,
           "tickers": [
             {
               "sym": "GOOGL",
               "name": "Alphabet",
-              "pct": 0.9,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -275,13 +297,13 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             },
             {
               "sym": "AMZN",
               "name": "Amazon",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -297,7 +319,7 @@
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -336,22 +358,6 @@
           "category": "semis"
         },
         {
-          "title": "El mercado retira el cheque en blanco a la inteligencia artificial",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wVDFYaDBiX3Zka0o2SklyS2dqM0xUTXdSX2tIZ1k4NDJlM0w5LXdUeEowbEJZTy1IclQ2bjZhSW1yeUxMUGltaDZ2TWV2X1Q3SWdpX3M0RVFNSFp4aFE4MEJ2ZWJmWVFk?oc=5",
-          "ts": 1793505300000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
           "title": "Reacción de Emma Coronel tras ser descrita por inteligencia artificial en transmisión con Davis Flow",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZkQ0NlhUbktHcXluaFFWN3ZmcDFTZHJ3aWFOZmg5dTBTQ0lrNllteE9kTFhpN21rT240cnNVa3lISGxVbndSNFU1LWFjM0FWbFk3emhhaXNPcnJNWjBHNXA0MVNvT0tMTDFhZk5MMXppWGpqbExsUGctU3FBcGpRbU1aOUl5eUpBVnR6cTA5bmxRMVZfUFhxRWpoZG1VZjN3cGM3YUtxVWFtZnVubWU4SFZBODlacUtObTIyMHNzSlJ2RVd4TzJiX0dNOFJrU2VmTkVheVpHbzl5dHIybWpMUQ?oc=5",
@@ -377,7 +383,7 @@
           "title": "Blue Origin saldrá a bolsa, pero Jeff Bezos asegura que todavía faltan varios años",
           "source": "Infobae",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWDduUUFqd2RMNGd2Y0tlU0JDVThQd2ZGRE5YclVJOXpBVzVoOFJZdVZETkxmQTFLbEhqN2YyMl8wUEpaQmZ3SWU4Q0JvLUtBNjVfUEZkdm9UeG1kVkxlSnVSYXg1S0dzTEJxY2kydWxRQ1pJQWZEbG9aOExQcmtKX0ZtOE54aWRQRVR1UkRsTm5aUG5oRHdOajZVWW5raGhhMXlMMjNJbkZ1OXVuQnFxT2pWd3dxWl9lQ1pPZmttc3rSAdsBQVVfeXFMTXlSeUJLdHltR0RmYlNpUTd3bXo5RXc0MXhFek0xUWVsQnEwdGhQcDhLcFR2Qi1pTEtSYzdjVzUxUUhwLWt5MHFuUTRNS1BWclJWV29Dc2ZvcExmZnBSbUdmNG51RFZjYVNrUWZ4eVBxMnpNZDR0V0RpUDJ5WU1TN1BBMW52YXR5QXU2eTFTRmZjaFlhVUdoaHZWOW9hRXB3eFJpVHFpcGlqcWd6Wl9OTHZEa2RwRzZfT19uM3BEdlI5dS1MWHoybE5VX05oZ3ZlUnl3Ym1BcWRNa0FZ?oc=5",
-          "ts": 1793506717000,
+          "ts": 1793509800000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -592,10 +598,72 @@
           "category": "defense"
         },
         {
-          "title": "ETF de defensa: los mejores ETFs y fondos para invertir en 2026",
-          "source": "Finect",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVEJ1c3pPRUlDVnlETjhtZFozUHVhVlgwRks3YnhsMUtRYThBSkJMcGNlVFdyY290M2ttUnRuTTR0MVVFNzBPNGNyMkhuZ2NHa19tMG1oNnpiQ1llVEVydWFwaXlIMDYzR3dJdmJYSGtYQlhQYkk2c1RSQnpXRW5laVFheDN4NE5iRlluY2o5dWk0ZE92R3NwYkZnMV85S245b21yYmhKZUlkdFlBVUFmLUo1OA?oc=5",
-          "ts": 1792047600000,
+          "title": "Economía de guerra: el rearme global impulsa balances de empresas de defensa, pero sus acciones caen en Wall Street",
+          "source": "Ambito",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU0Uya2lSWjRyMllORHA1czBHbnNzYnY1QTJNMlEtT1BuTjFOUWFZT1A4eUtoUmtBTEE5a0FFLW5qMEF1YVdZRlVxUTBqaTl1UW5uUGpCTkIwbXpnWVJMVlNNOVF5LWxtbW1GS0pRNkxZZnN1WUpMbVBlY2xxVUd1SXpwVlBSNnp5SUZpU2JDRVNabDhrOVQ0YmU4UDlCSmgxZTJoMWNYb2U3aERocDE1UUZoSUszM1R5bzFTWVRZUGhzam9uZTRzNWJCMHVZZ01TdVZOa1JwYmNrUdIB3wFBVV95cUxNRGlHekxwVUt0Q0x6OXFMSEpDcDlPc2NQY01xMnY3cEtkTzNOejUtMURndlJkYU5SS3VJS2R6dlpiaTcwWlBnX1NvWHdiOUtJa3VFbW5QTV9VblluUVRfR3dVWEx3Q1otelFPaWhxUFZ0UklXZFNQWncyZlJWYno0MVJ1dGdHbVNFcTdjYmRsLTJvR1J1NEpBTHVqcVBrYXhnTWh3TDJyc2g1QnEwSkl2Q2I1RzEzZnNfeWg1UkpDX2JJbmw5R0ZYYWdGb3hPY3J0T3gyNnZLMlR0aEI2VzZr?oc=5",
+          "ts": 1792836000000,
+          "sentiment": -0.25,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": 1.0,
+              "dir": 1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": -0.7,
+              "dir": -1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": -0.5,
+              "dir": -1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": -0.4,
+              "dir": -1
+            }
+          ],
+          "category": "defense"
+        },
+        {
+          "title": "El Ministerio de Defensa se sube a la guerra de los drones y las Fuerzas Armadas ya piensan en una flota propia",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcFpmRTI3MWNteEVuVnNWaE1CS3g5Mmp2amd1b1hibm5jTUFKdmFvTXFsSVI1YVE5VFdGazNCMDUwYUtWVVdZLTZPUGtsdzYtYWhPZDVsUUlTVnZHaTI3NENSZUU5Um91ZW1tNWFNNms0cWdlRDdiV2YzWG43VUVuTk51TVhGR2lRT2h3c19abmZHN05CZXExMnVFYWlTVnQ5aUg1S1BFek1RaWgyUWRrMjJTNTJhX1FSdUtmT2NxWU42c3lINnZTLXBFMDZuZUFGaHpqc2tvSE94d0xtZ2xhR0pFeHllZ9IBgAJBVV95cUxPNEpMaVNSYnI4dENGRnhGNEp4ejN4M0NtSUFIbmZMMWlaQkRUZmZhOEdvZzZZd09lYUhPSU8yekZkRDlKWGRuUkZpVHIyaVo4NEFiZnoxZGlKZzBDQ3hZUlZHb080V2wzRVJyb0xoQno3eFNGT1pxb1NBVllZQUpiclBEdWd2RGhNVjBVQks3ZkNIYVZaOHpvdUlmdXY3X0M2S0ZLQ0dDdFFiR21YNzJPTkRvRVVsMS1POVZ4MEg0d240UEJ5c3lENlE3WEhlRXpNb2R4VVNHM1dwYTZuNTJqbHQ2Z2hVWWdzcmJkeWVETmV4ZmR2RTJDTnBTTmRMYzFO?oc=5",
+          "ts": 1792738800000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -0.7,
+              "dir": -1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 0.4,
+              "dir": 1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 0.3,
+              "dir": 1
+            }
+          ],
+          "category": "defense"
+        },
+        {
+          "title": "Defensa aprobará 15 nuevos programas de armamento por 1.400 millones mientras el Gobierno mantiene el rearme por vías extraordinarias",
+          "source": "Diario Red",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQaWR3TjdCSGRabmtQTF9rZ0dBUHB1ZWY3WlVId3ZWYmFEcE5yanRIYTBXZkY0WTd4N0hMRDBvX1ZocldDeWZTY0JZR2IwSUZ0Qk1RaTdVckpRUUF5NDlTY3p5R255ZkZSVW5DWU01bXpNNlJzVlAyUFJsbl96eFdPNzZxaGZ3NkVmSG9lNXYwSzBjckFkbUpZWHF4a0tWNmNIN1NyX3hmbGlZMFBEVktEeDJSVDM3ejdUSWRDaGZ0WGFaS1ZfZU41OEJNZVhJV2RiWl9DaG5LenFXNXFWdmJ0RlRKaFdCYVplT0FrNkNLN29USXRFd3NjaU15eEhXZzVTSVA2ODZB0gGLAkFVX3lxTE9yaW5OTHdjRVJzMTR6ZGFUMGxib0dnOVBKYlI3dm13U2dpeXpXRExmc3lFLXgtaHE3ZlBfemdDY3VoWnJESl9EV0FBNjdxYnYyeF9KNEthcEFVdjF4ek9Ld0ZvRGloc3BnVEN1cTRQbFppb3dMdU5ZMFJpZUtpOHRKSUxvclhzVkctdzdwUnM5Vml1TDB2WlpGSU5lWXM0dkNIaEtFZkE0ZS1waV9fZ0dsRjVqOTZnaEpxZ0FuOGVZWVlBUTV0ZXpCZUpqTHRFMXd5dzNmc056TzcwRjFzeFhxN2pXbjZxTUNNTV9YaHI4YXNKS21mLXEzYVhLWDV5eTUzZDAtOHg2d25nYw?oc=5",
+          "ts": 1792566000000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -608,10 +676,10 @@
           "category": "defense"
         },
         {
-          "title": "ETFs de defensa 2026: los mejores del sector militar y aeroespacial",
-          "source": "Rankia",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tVVN6UDJMTjRTNTU5SEZCQ1N3U2VPSEpKVHZtR1pIMmRWaFBzREZ0Xy11dXlrOEpTdDBMckZoLVBPbDF0NWk2ZUVLUXpsaTYzdTkzb3lSTFA5YzJ5X2pFellzNGRYN253WWlnMw?oc=5",
-          "ts": 1791874800000,
+          "title": "El Gobierno compromete en un mes 8.000 millones en armas, más que en cinco años de Plan de Vivienda",
+          "source": "El Salto",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdE94RnN3OFZCMFdKejZVc25hY01nSUZlejNUbHJETGtEQ1FETDZ5UXFONDRDZVRfZVRCWDNYYmZlcDZRMXVDLUFobkcwVHJ5RlpXa3ZsRi1mc0VVRGxHdkJJN1JKbHpYYkdfS3E1MmJFUF9zQjJ5UFR3Ri1UWUxlaHVvUGRfeW9BT2tBWnNPajEyNGVSWXlHeFlkdERvUGo1cHFFbmVsRTR3QUJIaVNtSmFCcS1VTjZpSF91cW9R?oc=5",
+          "ts": 1791442800000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -640,26 +708,10 @@
           "category": "defense"
         },
         {
-          "title": "España dispara en 2025 su gasto militar un 46% y ya absorbe más de 23.000 millones de dinero público",
-          "source": "Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU1pueFBBTkRJVUpOUWdWb09DS1YxXzZoSmlkTk1nZTdXRTZmNVhDUEtfejFYTmJHSW8zZUpHZUZZWGFfNkZuZTRxZUdRMTFLcXVna3JoVE9aSXZudm55X2M2c21pemVMLW45dUtENXZlNHNJMHVqUjlSTm9KMmJCV20zXzNQdHVSSzJ5bHlsMHZNQTAtanQ2ZGVDSjdWNVBCVWV6R2t1d0tJT3h1NFdCRW1R0gG3AUFVX3lxTE81WnR2UnBSUnV4T0pXNXZsLWhPaFZGZ3Z1QV9ldUZ4MktUVUFCb0FWNWNOX3pJeXhCR21hSURXbEtyVVpGbnRwUGZOeUFIMkUwSVFYYlRseWxPVlhRZlRXSWtXaUdNNTFWeWcyS3BzWjhsNnE3X2MwaVdtOXEzQzlCMzluMHgwRHhzZVFtaGJ0NERsRlh2dWhTbnZPRFczU3FuWFNwR09iZVdCTTNfYlY3ZXVMN3Bldw?oc=5",
-          "ts": 1786863600000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.9,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
-        },
-        {
-          "title": "Gasto militar récord en España: la inversión se dispara un 49,6% en un solo año hasta los 34.000 millones de euros",
-          "source": "El Economista",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMHpBX3FGRU50MXk2SUw3Q285blM3Mm9kUy0xUkhIeFoteTB6Q2Z2cnlLZk52V0l0bmpCTUs0QkZVSUdKTEEyT0tMX2g2V1A2eXlpaExqeDdvRW9oR3gycFJDMTkxbS0yXzlOenk2dGNLQVZKR3ZZSm1yVG9id1BMRVJKTWd0T0JrckQxNS1SbEpyWGlDUnpwUXhpbUtGTU9KdVdxWmE2VThiNjlOTm4tY09ocTRXc3MtZVU4a0FLdUMtS2VaV2poSE1BWG12cll6cXEtR0V2XzBuTzR0d013UGpxbGlkZUJERVkydy0xbEUyVC04a3UxN2ZmQlQ3U010d2ZUVUY5TkfSAfMBQVVfeXFMT25GZURqekNnOV9yTWhpUWEzZnpYSXRLeFBITC12dTJmZng3M08xRXFzMm93ZjhXTmdBaFRWMWIyT3FabnlHRzE2cUdRN3dqNVVQWlJrcHd4bE41Z0RHUDRtdUNYdEVZekxKSUMwd0tvMjZZNHJ3UUVsSnVSeWFHQjd2Z1B4ZjhRWWg0OG9ZTTJ1THozU0E3VW5ZWmdTeXROWTBzRWVnVi1IaEhVZFhLNEE3UjdUaHBnZW9uOTFpN2pOQUhEaHotOTlSVWNFemdqY1NYbjU2emRJNmVsMVZxQ2JYZTJtbjVER1k1M0RNUDZ2OURz?oc=5",
-          "ts": 1777705200000,
+          "title": "La industria de defensa y aeronáutica marca récord de facturación en España y ya supera los 18.000 millones",
+          "source": "RTVE.es",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZkNpVnRINGVxUkxLcWhBTkE3Z0lDc3BWcFQ5QVpwS0VHNklOWUxQRFZYaU8tbzdYMVBxUGc1c01zUkVUODJTR2Z2ODRHdXh0aU5XZGJ4VTlTYi0wakpRY1UzRXNxbThlMzZveG1iMVU1djVQNURPdkNCaTg1RzRuTGNFQ1I1S1NZbmZJSDlFSU54R1BINnluUFA2X1N1Z0dOZzZhbUVrM2NUWTM5M24xV0hDWW8tenl5ZTJselV6RXZkVnBXMklOX3p5Yk9rVzlScGQzSWNn?oc=5",
+          "ts": 1791183600000,
           "sentiment": 0.67,
           "tickers": [
             {
@@ -672,10 +724,10 @@
           "category": "defense"
         },
         {
-          "title": "Marruecos incrementa un 18% su gasto militar para desarrollar una industria de defensa propia: 14.500 millones en 2026",
-          "source": "El Español",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQl9ObmRWdnR0MC1Lc3JRX2NqMk1ZUzd6N1lNcThGZXZUVjgyU2FoOEpVWjlxOGpYYjVwWHlGUmpxOEw4ckxBWmg4bGlMTW41OTNPbkRDV2NLZUQ0Q01KTzRtNFZpcGtfczZibHNpUFc0WFdMLXo5Q0paYUlXZ0c1QncxRmd4cTU5aGZNRy0xVVNUWGNhUEE5X0RKVTJENHUwWTdoR3hMUVlCSnJRTlpEYnB3T1l3LUhCSjhIT1AyS1hua19rQy1mWnhNVGxiRENQazFYbGVURGdxMXBGYVczeG9FZng2VWNHcnotZUl3?oc=5",
-          "ts": 1763798400000,
+          "title": "La UE abre por primera vez inversión directa en empresas de defensa: hasta 30 millones y plazo hasta el 28 de octubre",
+          "source": "Estrella Digital",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLUVoSXVTY2hMY3VJa2ZmMnNOZWRLM09vaWJ5UUVxU0hrZmZNTXZOVXptVVBzQ2VYWktqZFdJTzJoRkJJX2tPaVg4NW4wWGt5aXRoLTZfc1I0N0pBdl9GMEk5MFZMMTQwV05VcUtTWUdNUm1uRkhMRVUzalhZYWNnQUxOY1lXZmxqM1NqejVCNWhuOVdrX2s2Q1lXdW5KRDN3YlNwZ2Y0QXVpTERIUldURkRmUkR3bjk4ZGpnLXAtdzZHYzdKblZpaHo5QTd0d9IB0wFBVV95cUxQR0lvcUFaR1drd2xfakR1WU1lSFJHcWgyR1hOUnZiR0d5Y3RfY0RTZmx6Yk5lRlV5aUxOUmxVNS1KZ0d5dk4yWW16REdoVHRqQnhnUm93Z3dJaUJoXy1KV0o2ck9pQXZHQWFJeGlvdzFXUVlyclVQd0RrcXpYNUJpaGtyT2ZmSGtGcnd3RTlKRHRKNFVadUdKeVlVOUxDVUtWWElvWnZMTWdpUXA2bFo0c05VZENUWE1ab1l1QW9ZZ3NORXZZT25UVzlfMWhoaGl5MDhV?oc=5",
+          "ts": 1791183600000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -688,32 +740,32 @@
           "category": "defense"
         },
         {
-          "title": "El Gobierno presta 14.200 millones a la industria de defensa para el rearme: Navantia, Indra y Airbus, presentes en el 98% de los fondos",
-          "source": "EL PAÍS",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNYl9SZDhFSlFZdzRaV2ZJdW9PNk40WjFXOUc5MVpKOFN0aXpHTlR4RFVRTVBFU1NuZ01sMWJFdURjbldJZnhORHJITkdXeHBGRnB5bllpTmRTanlKdDhjRTAzbFR5Zno2YWFjNEhhdGhGRGFsOUszZXhnN1VlbUNNWGFHSV9nbElNcEdWWUFVRmF5S3RZZkNrSUNCTHZiVHVLc2dxMUxzMy1Ud0dlallqUGN5WE1JOW5WLXU2ZjFnN0w3aExvazI1TmJrOXhKb2xCN20tSElUUVk0Yk5jRlNBLXlKNlBxbXEyUlNGSzgxczRuM0QwU1A2eXVNbUJ5YnJJeWZFdzJ30gGaAkFVX3lxTE5mbGFlV08wb242a25VUUlUYlZBN1gtbE1hTjZ2RUV0V0JhbnNsNGJPT2xWVHZ3Mm1wYWR0SWt3MnVmcnBzWFpGVm9Mems3aTg0X2Fyd1diVXJva1FfMWZiUDNvbmhvRlQyQVBxMXNSaG5keUN4S2N6QzZEajdQQ1JyYTlXdHQxaFlqa2RnVHkxb3BVbVRxenNpRFNHLTg5cGRNSnRjNXVleTJCZmtLbUpycVozRjFUQkJJREtxUHp5dTFYcWxFVl8zXzhBbVI1S3FzaDlaNFVUY3dQaG9ZUEVYa2dtajBRQVQ3aGxPaENVbUZNUl9LU0lSR3VWSml1QW81eDJjMkZSaVBSVmhicTlJMUVBM1pKVVhVUQ?oc=5",
-          "ts": 1762675200000,
-          "sentiment": 0.0,
+          "title": "El Gobierno aprueba más de 6.800 millones más de gasto militar en solo siete días",
+          "source": "Diario Socialista",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcHVRTngyZktjdU5kVGJ1T1Y2c2U5QXc1dU00eHpfV0tZamJrclkzamFzOXFtWWRQVTRWbU95b0Z2QjhfUkxBUXZyYnBPY0R6dDcwSTBOLWMxbHFobW8wNEtlY09QdThTRWowLVk3Q2VqSmxOSlhHQkJZRE9xRXd3djlMMnV4Zk5KelQtVmtzTjdKQWpocWJndkRFUXVscHZUVFF3bkF1eE5WZjNrLVhvdWwtVG5SUHoxb1ZpWElHSQ?oc=5",
+          "ts": 1788505200000,
+          "sentiment": 0.5,
           "tickers": [
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.4,
+              "pct": 0.9,
               "dir": 1
             }
           ],
           "category": "defense"
         },
         {
-          "title": "¿Cómo invertir en empresas de Defensa? Acciones seleccionadas",
-          "source": "Bankinter",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5acUJXVVhBd0lqcFNoalVReWRnbU1YUVJfVHpPYUh2SGhJNWFXdjlEbk0zRU5pejlPVzBqR0NZelh6YnJ0ZXBndVBDRWYzSXJGMUlKVFAwd2tYMWdCc1FPbXpXYkNXVVJCWHBNT2ZxOA?oc=5",
-          "ts": 1731323011000,
-          "sentiment": 0.0,
+          "title": "Europa se rearma y dispara el gasto en defensa para no depender de EEUU: “Esto abre una buena oportunidad para los inversores”",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNLUMwVWtLbGtIODFWNW1UR0Nrb1NvYS1XOHJwZllsTjVlR0VqR204NUU3SEo1eGhUZ0UybERHTnhKQ2tYa2ZJZGdyVWQ4RGpQbWtCaUR1RFhXMjQ1eW9aRmdSRWxaQ1RXNVdSSW9uZnE4RzNNdHh0dlYwZUFtYWF5eFYzZnBBem85MXlUOFN1T3FMUy10RTZUMHVibVRXelhmdmZlN1FISmVEbzV4LWJVRDI1RDdKelhjN3NrMzVZSnJkcWRXZ1NVODh0b042WHlIRlFzeFlmalp1ektGRGt3UC1xaWhwRERRSUpSMWphdXhjQ1dXVzBlN1dR0gGUAkFVX3lxTE03a2FDV1pFVTljNFhmSl9tejhfeWxUcm5rR3lCUDd2Z20zZjI5dzFaMVBsX3A3QUpaYjNnUzdic2JUaEJ4NHdXTFp3Y0xBNUtxcUMwajhCbElCTXJnOWRJTUh4UDV2TmJLb0l3TGtXRFpneVFJLTkwS0hCeS0xX1QyRGxocnhWeURTWGNGUUZIVUtReWtHR0lZR09PYW9zVkhKc0pjVFRrNk9nRFptVmRpUC1ldzNkOXZJNmFQMnhnRFJoTXFfb0JucW5Zc0k2UTM3UWpQdFRDdDVpS3VkVmRucDhJeVJFeTdpdDVZS0NKaFRQVk9JZkZFWEUxSlFRd09mX0xnWE13bm9TRDhjUk5nMFIxQQ?oc=5",
+          "ts": 1787209200000,
+          "sentiment": 0.5,
           "tickers": [
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.4,
+              "pct": 0.9,
               "dir": 1
             }
           ],
@@ -830,22 +882,6 @@
           "category": "oil"
         },
         {
-          "title": "Petróleo WTI sube 2.8% y alcanza 102.78 dólares por barril",
-          "source": "eltiempomx.com",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQlctQlpkUGc2X1UwbFh2RjhYRmx1dGk2YWd2d0FodEluMU1VcUI4WVRnemRuM0xWOUNwRXpSUk9obHZHZW0ybnlRT1djOEFWWnQzRHA3djZxT2tYSU1XRlpNOVJ6dl9Nd0ZkNnlHdVVCSXl5T0ZZVERhX0lrbnp1SVpGZ25GVE1SYjdhTWJJUTNLQnR0Ui1MeWNmb3TSAZABQVVfeXFMTXlKTXFOTFhJbFNWOW9jNjFMSmQ0alJkWFJtS3NqSG9lUkVjSXlCNkk0OHE0YXRCNmhRd3hFeXowaWdHbEhGNlBTNUpwaEFjcWpGTFJGVW90QmhwOTRTQkZiSmhHN25aaTdfUm9KemQxbmdzNW1OYmgzWjZzZFotMmhkNDBpSnNvR1paMTl1M0U1?oc=5",
-          "ts": 1793219111000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 1.3,
-              "dir": 1
-            }
-          ],
-          "category": "oil"
-        },
-        {
           "title": "¿Por qué caen hoy los precios del petróleo Brent y WTI?",
           "source": "XTB.com",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcWdvT2t6SFNPUHliU3V2aGFhemZ2UGZRT3F5OUZWcGJmbEwtYVVpNE84SENaUzBlMlFlc2NkS0YxNjFWNmp4djF3V3F1OUd2YlN5OXM2WGdTUmhrR1NzNjdGXzhRY1ZsTDhQaVM3ZUlqQlhWdWRIblJMZU9vdlBTaFZDdmVkNE5BWExZUUhpUi1mMWgzcE12MVctQkJTQWxyUTM5VS1pNEw1cEhZVzJxTE4wQThlLVJw?oc=5",
@@ -898,6 +934,22 @@
           "source": "TradingKey",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSjI1T3Vsc3J4anUtX2pHZGNzakxNQU15NjV5LW9uclB5OUxpc0EyMEJpeEp1MjR6dkFyc05aRkt2RjlvQ0hjVjJ6cE9uU3l2Q0xYLTBBaVdvc3VIcWhJN0RMWkRKb0pBTV92LWg4YXByVk5SbUx0U090OTZKbU9LVUg1X0EzRkQyX09OX2dfZWM2ZzA4QkxNRkcwRVFvNE9ZNVAxNUVvVVo3WGxBOW4tcDlwQlhadkpqS3N3?oc=5",
           "ts": 1791442800000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": 1.3,
+              "dir": 1
+            }
+          ],
+          "category": "oil"
+        },
+        {
+          "title": "Previsión del precio del petróleo: Brent y WTI suben mientras persisten los riesgos en el Estrecho de Ormuz",
+          "source": "FXEmpire",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPd3FremFuc1h3V2ZtMDlNTGhWZDliRUdmdEQ2Q0dxSXZVN0xXaDR1cmlDaDRrUjlTOWc5Y2gyNUlYenFXSHpjT3lNeHl0emU0b2hQSThMWXRmX2RPT0dDYTA2NFVwTXMwaW9QYnZ6eDMwSDYyQWx1RDM1U2pYZHRTNjQ1Tzd5dHVORk1HVkVTSjgxUXhybWZxUTdycUlSOGU2dTJWSk11NjBuZWVhNmFxLWx2bDJiZXVCa3ZtVHhCMzlsZ09Hbkd4b1g2eW9EWWsxNE1tb3lXR19wVVJia190WjVMWnBuN1VZclEtVA?oc=5",
+          "ts": 1790665200000,
           "sentiment": 0.5,
           "tickers": [
             {
@@ -1050,6 +1102,34 @@
           "category": "war"
         },
         {
+          "title": "La Bolsa respira por el desplome del petróleo ante la expectativa del fin de la guerra en Irán",
+          "source": "Cinco Días",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSkd1eTl4TmZuQ3gxZDd0cEx1d2QwZC1SWjNlUjR2WjdJQkhrclhBVGh0NnUtemZ4bDBxTTd4VXQ3QTR4OWU0a2R3Yl9EbXQ4aHhSaWEtRThkVlpMeGpsWFY2VV84ZHJBblRlZ3RYU19UNG10SVFVWXNhWHZoQ2hWZUNPUUdQdWF4M1ltalNURUnSAaQBQVVfeXFMT1ZOdm9GSmJnSzV1MjlFSXdEUkY0OUtLNmxJdzdMQ3pYZ19lQkpsWFRuaVJiMkozbHFKeXhjUU11c3prWDZ4a0NYMmxpT3N2czlleDk1YmxLRVV6OVRiMUc4MXYwbGZKNnI2d1RReHdMcG9PQm1LMlh4ZFVTa1R6SlVZVzZBaWF2ZXlOa3BRcW9sU2VTOEhLU3VoMmYwMENCMjFOdWI?oc=5",
+          "ts": 1780038000000,
+          "sentiment": -0.67,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -1.5,
+              "dir": -1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 1.0,
+              "dir": 1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": -0.6,
+              "dir": -1
+            }
+          ],
+          "category": "war"
+        },
+        {
           "title": "Wall Street mira más allá de la guerra: El petróleo tensa los mercados, pero la bolsa resiste",
           "source": "Banca y Negocios",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPczU1Z0JiaDNTMF9iNTRWLTRIZ3YwNEdCV213NEprQlBCdy1ZX1BFUnhmR3llbFJ0QUhYbDN2MTdvVHMxU1IyMDAzbng1bVdiRUd2bW5MTERtODN2RTZpalA2d29GQk5rdXFwWERvN1BtMUhHZEVjWENmZUUzUjlJMFZKQkFLTGxLRENKNWl5ZGp2SDdQS2l0QlFuS041WlFWaFBYRDBXa2VyQXFnUzZ0aWN5MzZZbktKNkdQM004UHA?oc=5",
@@ -1163,34 +1243,6 @@
               "name": "S&P 500",
               "pct": 0.6,
               "dir": 1
-            }
-          ],
-          "category": "war"
-        },
-        {
-          "title": "Las bolsas vuelan por el fin de la guerra, oro sube y el petróleo se desploma",
-          "source": "Negocios.com",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWVpiUEVWZGR3eXNtRm41NkFadmFfVG9yRmUtRlJWSU1PblV0QnI4VHp2akx4Nm1McEFZN252Vm4yQ29jZUdIUlRRUWlyUkI3TC1oWFZBTjFoUEVJWS15TFZrbHE4Si1rNHJXMnRCRXlPZHFKVEJQcFpwRkUzNnVud2tBRmI1S1VZZ3ZITEw5MXY2OHBWY2FVYTZ6NzZKWDRIMFR4NW9KZ09OSTI3QzdFSXJrMnhFeEVXVjBJY2FZc1FOXzJLdXR1aTBjTFBUeDg1a2lqT9IBzgFBVV95cUxQMm8zS3JJRFdWckhXQzFXWlQ3alQtbW0xakMxSTIzOU1acXFHVnNURm92OFFmUEtVbG1xVzhTMmZ1ZlBpdzMyVFBkNlZUUXFwZHBKZVNsNDhpbVJrbzlUbXh3NkVWYUdLa0ZoRDJjUmlkQkdidXRoZUZ1NC1PbmRBT09vZ1N2QmVKNHZiVThpWEFMYU5RY29NLVNCQXpUYS1xMnBRQThhQXVHZkNvdmJRMzZLVVk1dmYtLUJ1Q19iNjZKX1g1VG1yMm9NRkx1Zw?oc=5",
-          "ts": 1775631600000,
-          "sentiment": -0.25,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": -1.0,
-              "dir": -1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.7,
-              "dir": 1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": -0.4,
-              "dir": -1
             }
           ],
           "category": "war"
@@ -1398,8 +1450,8 @@
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 11.4,
-      "n": 20
+      "net": 11.5,
+      "n": 21
     },
     {
       "sym": "TSLA",
@@ -1410,14 +1462,20 @@
     {
       "sym": "AMZN",
       "name": "Amazon",
-      "net": 6.5,
-      "n": 8
+      "net": 5.5,
+      "n": 7
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 3.5,
-      "n": 4
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 4.6,
+      "n": 7
+    },
+    {
+      "sym": "SPY",
+      "name": "S&P 500",
+      "net": -2.6,
+      "n": 18
     },
     {
       "sym": "META",
@@ -1426,28 +1484,22 @@
       "n": 2
     },
     {
-      "sym": "WTI",
-      "name": "Petróleo WTI",
-      "net": 2.3,
-      "n": 20
-    },
-    {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": -2.3,
-      "n": 16
-    },
-    {
       "sym": "ASTS",
       "name": "AST SpaceMobile",
       "net": 2.1,
       "n": 1
     },
     {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": 1.8,
-      "n": 6
+      "sym": "WTI",
+      "name": "Petróleo WTI",
+      "net": 2.1,
+      "n": 22
+    },
+    {
+      "sym": "INTC",
+      "name": "Intel",
+      "net": -1.8,
+      "n": 1
     },
     {
       "sym": "MU",
@@ -1456,15 +1508,9 @@
       "n": 1
     },
     {
-      "sym": "INTC",
-      "name": "Intel",
-      "net": -1.0,
-      "n": 2
-    },
-    {
       "sym": "GOOGL",
       "name": "Alphabet",
-      "net": -0.8,
+      "net": -0.9,
       "n": 6
     },
     {
@@ -1476,11 +1522,25 @@
     {
       "sym": "AAPL",
       "name": "Apple",
+      "net": -0.7,
+      "n": 4
+    },
+    {
+      "sym": "QQQ",
+      "name": "Nasdaq 100",
       "net": -0.5,
-      "n": 2
+      "n": 16
     }
   ],
   "ecuador": [
+    {
+      "title": "Ecuador sumó exportaciones récord en el segundo trimestre de 2026",
+      "source": "El Universo",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeDZidGNLUmNpQ0NpdkpDMmxQZ2U0dVlVMWpWMGhLbGRZcW05RHZIa3NrLVF4dGRybF95VkdxeUt5YWE0Qk94aDRZTldWVk5TZnJNcFZUOEZ5ZV9wNDhxamZOUDRNT183NFFtVENZNGxGSlhyS0QzNkc4SjAtQUs1YWg1WVh4VzBjcmk2dmZLUEtCcmM4bzVsMXFpZ185cVRHQ1ZvNGdhZW81cDg3elFaVlkzZlFGWXfSAcsBQVVfeXFMTldPVVpjUGtFYmltWnRMQ0xKQjdpVEFoSmRuZkZ2cXU1aEQxbW5PSmJKTjlmdTUzTlFrLVJKY3lySlFqTXN4N05tWFdVV1oxYkRmLTl1NVdmaWQzM0VMZjlrVXBTS1d5aTN5bEJxV21EU2YxTXZ5SU1aZDZYMy1KTmwtNkNtWV9lT1YwTThrbmVHSkh1eVU3NExKMjZJUmFBMEtDY2NZSWNpaE8tcHkxYzdRNng1dmszMkwzOGdRak5uZXBLaFdlQ2tlY2s?oc=5",
+      "ts": 1793379300000,
+      "sentiment": 0.5,
+      "tags": []
+    },
     {
       "title": "Ecuador, entre los países donde tener empleo no significa vivir mejor",
       "source": "Diario La Hora",
@@ -1488,21 +1548,6 @@
       "ts": 1793198649000,
       "sentiment": 0.0,
       "tags": []
-    },
-    {
-      "title": "La estatal Petroecuador reduce sus exportaciones para destinar más petróleo a la refinación local",
-      "source": "Primicias",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYXFVSG5jU0xyQkE5emYzTWFPZERmZVdnQTBzZExSYzRqMWloRm81VmdSN1RxM20zcWl2RlVlcEtxYVVsdEhFb3JrMXZpZE45TWs2NWh0V0hQN2UxS0ZvUExQam42bmlvNExGcS1ENXA2NzQwckhrSUQtYUJKelYwN0hIUXUtTWFaV1VnVEdFNmF1VmMyX05jRXhuT2tKemZlMUNWUHRsb0lPQQ?oc=5",
-      "ts": 1793184900000,
-      "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "WTI",
-          "name": "Petróleo WTI",
-          "pct": 0.7,
-          "dir": 1
-        }
-      ]
     },
     {
       "title": "Petróleo crudo en el Comercio de Perú | Observatorio de Complejidad Económica",
@@ -1543,9 +1588,17 @@
       "tags": []
     },
     {
-      "title": "Petróleo ecuatoriano se venderá a Perú",
-      "source": "El Comercio",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHdkTXMtME56X0h2N3lpZGpFd01nS2hBMGNrcHczMG5NZ0M1ampzT1NVYWN5UGhyeERFTE4xSl9EVFVOV2gtdjBEWW0zWGR1b3haVFQ0Q3pRZ1lfMnc2QUp3ZVA0Y3RmaEJObXhzTFhnS0dQVFd4dGdYY1BIVG52VFFZU2lRQWxzV2tWazln?oc=5",
+      "title": "Ecuador exporta más camarón que nunca y enfrenta una difícil ecuación económica",
+      "source": "AgroLatam",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMXlWb3lraTdhdkoxS1RVcU04T2xibGNOWlRSSmc0V2NaSmtCa1JWRlIybElUazU1RFA4bnd0NllPTlFHc1J1MGxYZS01bDFQeUtBVV9rUXhFTEtIejU5NkFmTDBEeXZPQmVGNFYtQnkxVVpnRjJORVBLNHVXSGRMXzJrN2ItRnU2YjJsd01Pckl3ZEw2STA2SE16Y1JjQ3JmM1JtRjRCSFJEVnJBYUMzTS10R01JeEVmY1ZZSnF3?oc=5",
+      "ts": 1792479600000,
+      "sentiment": 0.0,
+      "tags": []
+    },
+    {
+      "title": "Petroecuador retoma venta de petróleo a Perú: crudo ecuatoriano abastecerá el 60% de la Refinería Talara",
+      "source": "Primicias",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdWpjWGNuNEt4Nmx5eTZkNDFxa2NZbkxEQlpzV05jQzY2WklRVmR5T2VGYjVrc0JyNU1ibzRDQ3pCYjU5THpUaDB2c1gycVFna25SaHpCRVJGODFDS1NmUWh6anE1TVdGZkpISmxXUlRYOHBQa1hYVE15YzlxU094cmN6cmg1OUVhWmtDalR6OHZEaFY4cXN3Y0w4ckkwSXRPNkNuX1VMa2FqMU1KZ3I1MlNhMEwtN25QaWc?oc=5",
       "ts": 1792479600000,
       "sentiment": 0.0,
       "tags": [
@@ -1558,9 +1611,9 @@
       ]
     },
     {
-      "title": "Petroecuador retoma venta de petróleo a Perú: crudo ecuatoriano abastecerá el 60% de la Refinería Talara",
-      "source": "Primicias",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdWpjWGNuNEt4Nmx5eTZkNDFxa2NZbkxEQlpzV05jQzY2WklRVmR5T2VGYjVrc0JyNU1ibzRDQ3pCYjU5THpUaDB2c1gycVFna25SaHpCRVJGODFDS1NmUWh6anE1TVdGZkpISmxXUlRYOHBQa1hYVE15YzlxU094cmN6cmg1OUVhWmtDalR6OHZEaFY4cXN3Y0w4ckkwSXRPNkNuX1VMa2FqMU1KZ3I1MlNhMEwtN25QaWc?oc=5",
+      "title": "Petróleo ecuatoriano se venderá a Perú",
+      "source": "El Comercio",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHdkTXMtME56X0h2N3lpZGpFd01nS2hBMGNrcHczMG5NZ0M1ampzT1NVYWN5UGhyeERFTE4xSl9EVFVOV2gtdjBEWW0zWGR1b3haVFQ0Q3pRZ1lfMnc2QUp3ZVA0Y3RmaEJObXhzTFhnS0dQVFd4dGdYY1BIVG52VFFZU2lRQWxzV2tWazln?oc=5",
       "ts": 1792479600000,
       "sentiment": 0.0,
       "tags": [
@@ -1589,6 +1642,22 @@
       "tags": []
     },
     {
+      "title": "Pronósticos deportivos en Ecuador: el debate entre prohibir las apuestas y regular el mercado",
+      "source": "Vistazo",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX2E2N1A1Q1JMbzJnSDBFU3FkV2VwVDh2bURjbURnLTFMOGtvWUFzemNqVXd3WTFVX0hyNk9KQjJPbGtHaTMwUTBrclNyNWRnVi02cmZKeWVGR3NmbHlNVGNLMENIQ0FLQzZkLVZNM0JpTzhxd3doNEF3c252dllOZWFSQlhoVEZoVFZ2Q05DVGZBTjViWE5fYVZQaTNSd0ZfVldXd0hpOGpicjJtd0dNalhSRXM0OW5CZVc3andLSE9JaXBlMjNPVXZIRFR6RWNtX2fSAdcBQVVfeXFMUGNvc3FFemstU0UwMnZNTlJJWVRDNVh4bnFPSVptekdBMmNiTlRDbVM4YlJXcDlZVVpsZS1OQzYyeE10MGdMUHZ1ZUl5SUpBZEs4d1d1dXEwRkUtdTdQVzNOc1AwUFQzYVFMSS1HU2hmNVFLcmNfbURhaVdmWWFjTmxkVWY5MnpYZGxXMFl2bThHc3hyOWtZNWYzSzBBSG9vSFlsZ3FvZll3SklpS25laHNEOW5FSmZzME5iSWxvbS0taUtQQ004ZDRHVmxmMzNNbTlsd25jZFU?oc=5",
+      "ts": 1791442800000,
+      "sentiment": 0.0,
+      "tags": []
+    },
+    {
+      "title": "Menos gallinas y cubetas hasta $5: ¿cómo explicar la crisis del huevo en Ecuador?",
+      "source": "Diario La Hora",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQREt4dWFqMWhvc0E1RHpWTlpiT09DVW9wUVhiSi04RzRFbG5lNUJvWmx3ZW1FcE5WZ000bXhmZXlMcDBTcnBUTGhzT2o5ZEVSR2J1cG9LS1VnVnhuWVhCYWk5dDJPMmgwQW9LUjloSnpDNnhhUmNvN3hKc0NGSF85X2N2bVd0eHRNNXhZclpBckZUYUNMaURTOWx0STFXa01ObEFqdVVfUHEwN3ZFLVZxZTc1Z240enNXT25nU25QSm9FUEdmeUdHMXZhZw?oc=5",
+      "ts": 1791356400000,
+      "sentiment": -0.5,
+      "tags": []
+    },
+    {
       "title": "Seguros de vida y vehículos lideran el crecimiento del mercado asegurador en Ecuador",
       "source": "El Universo",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUU9MZmJvZi0wc2lDSmhITkJQaGhDSVNzZHRBNEJJZXlBRmw2S0dwZnBiMXdhX3NqM2p6YnhBbERoaGhydEtNWUE2SEw4c3pHV3hRejAxaXV2MVRXLXJObzVGbjZOMXM0ZXBkMWUzcjVwMkNVX3dZX1k4UzBoSnEtNDFzRTZ4ZndWdjd0Nkp1NEphMXN4VFVCNDdMYjUtOHFMbENYb29iUlhsVHZmZlpUTHljNk8xbTQwOVdNX1k5Rmk2RkNMRXJ5UTZXZEYwNXFkTGZGWFB4b2dFblNoblFKNDJKaFo3QUnSAfsBQVVfeXFMT012aUd0Z0F5UEtzeF9WM3FFYjhsVlQ1eUF2dnk4a2ItaGg5b1FFZkhwRUo2ZU90N3d4eTFvUWZNZHdlZTNNN0swcmNoSHhua2UyTWd6cFF1QWstN3BqM2JIYVJjQ3F1bExtZzgtYUpTX1dkNmxpYTlqUXlmZm5xTXJUNU00SjM0S2M4TC1rVHB4RnhYN1VhWW1qczVlNWk2YmpjbWNCT2dZck1FVkY4SkdIQ01YV0hBZUVnTHlyQWl1Q3ZibTVkcjNLWS01LXFrbHlYby1SNUxPcmVHQzh3c3RiSmZKTmtjVlRkM1AyUXAyeEJrTWJlMTRNRjA?oc=5",
@@ -1597,10 +1666,10 @@
       "tags": []
     },
     {
-      "title": "Banco Mundial mejora a 2,8% la proyección de crecimiento para la economía de Ecuador en 2026",
-      "source": "Primicias",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV29Mb1JBaXAwZDUwWUJyR0MxM3lINlBnOTgyRkxoZGo4eEdlME1qZ0xUYUNpN29XeEVzYmZ5VGc3Y0ozMnFhczlWUjI1Z3NKWnQ0cTJZcGFuR1JHbzJCd2dTcG5rTVlaZzV5Q3o3UUpHbXdRckpFMnN3SXljOHpObW1lR1BJYllWaXc5c2ctSkc2NVZGcUY0QjNiZEVySnFaaGx2ekNEVTFNaTZkSXBieg?oc=5",
-      "ts": 1791270000000,
+      "title": "La sostenibilidad: Un sello que exige el mercado externo a la oferta ecuatoriana",
+      "source": "expreso.ec",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT2hTUjhJZ0RGU1pRX0pWWlpydzVFcHltemU3anhOQW5URnE5U2NTOHNGX0dCdDFHVnAzUVl4b29yVGlqUVgxR25ZVnNNU1JNSTdZWEc0QWRTeTdYczRoeWJTWjFhNGNKZnNuWU0wUzRITXFDSEF5Ui1Wc0dXTmxKXzNfRHo5RjVwM3FBSWVxYmpkUUZwVS13SXdTYUpDQzRYQkVINGZqdGdqRk5oWU1lX0dsUFlHRmc?oc=5",
+      "ts": 1791010800000,
       "sentiment": 0.0,
       "tags": []
     },
@@ -1626,50 +1695,6 @@
       "ts": 1790838000000,
       "sentiment": 0.0,
       "tags": [
-        {
-          "sym": "USD/MACRO",
-          "name": "Macro / dólar",
-          "pct": null,
-          "dir": 1
-        }
-      ]
-    },
-    {
-      "title": "Banco de Machala capta otros $15 millones mediante emisión de obligaciones",
-      "source": "expreso.ec",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNmhKNFFGY0lwVFVweFpFdUdkTE1LYVVIZWt0Y3pnaWhpRFQzVUlYOTBCdjJVYTFMdGlTTFZzcm1fUzdNSWE0Ml9GV3JrWGhGcXJ1OHh1SWpUUjNtTFM5TldtbXJkUklMbXM3cEQ0cmlITHdTV3R4WW0zcFBFZGhZdk9kdHJKSjhaY0pNYzdzNzJBVDdSRF9mVXBDNzk3N0h2T3RleEdJb1dGa3Rra0djcnliSzJzWE9WY3FmUGFkSQ?oc=5",
-      "ts": 1790751600000,
-      "sentiment": 0.0,
-      "tags": []
-    },
-    {
-      "title": "Precios de los bonos de deuda externa de Ecuador caen en el mercado internacional en medio de la salida de Sariha Moya",
-      "source": "Primicias",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM0xfYmJGM2xQN1U1SlVOZ3N4d2xUaXZ2RWtwLUFQUm91QlpUZzFjTTFIMzdiblVHNVhMdlIyN1RFakVuWWdLTzg5R3pmdzNLNjV3Y2dYblgyaldVc0NrdFZFOEljdnhKQmo2Qno0YTdvc01yU1JlMnYwNko2OWkwS1lULVJJSW1UQ0Z6NElmb0tCWEFnSENRRzN5N1BqcW43NHVRX21VMjhYSHg5cXhV?oc=5",
-      "ts": 1790578800000,
-      "sentiment": -0.5,
-      "tags": [
-        {
-          "sym": "RIESGO PAÍS",
-          "name": "Riesgo país (EMBI)",
-          "pct": null,
-          "dir": 1
-        }
-      ]
-    },
-    {
-      "title": "Fondos recortan bonos de Ecuador ante alza de tasas en EE.UU. ¿Qué implica para el país?",
-      "source": "expreso.ec",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcmlGYmRDRXZfeHVQVmdSdVVtelVPaHo0UWZPN1lSaWpXS29rOXlMX2VvYUtBYlZvRGRNc1FjM2NjMWJIc2V1dkJHNkxyd01qNVdRVjhXM2k4b2VmMldqRkk0SkNOcTNvZkJUN2syazFRTk91eFNvdThUT0FqNHl5YllDUl9hclBIbTNxX1pWVFhUVnpqWVlhQVRXeDgzU1NQbk4wZFNMWlRScTVuZkhBVDRXa0M?oc=5",
-      "ts": 1790492400000,
-      "sentiment": 0.5,
-      "tags": [
-        {
-          "sym": "RIESGO PAÍS",
-          "name": "Riesgo país (EMBI)",
-          "pct": null,
-          "dir": -1
-        },
         {
           "sym": "USD/MACRO",
           "name": "Macro / dólar",

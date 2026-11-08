@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T06:53:01.642542+00:00",
+  "updated": "2026-11-08T13:55:51.221766+00:00",
   "categories": [
     {
       "key": "tech",
@@ -15,7 +15,7 @@
             {
               "sym": "META",
               "name": "Meta",
-              "pct": 1.2,
+              "pct": 1.0,
               "dir": 1
             }
           ],
@@ -54,22 +54,6 @@
           "category": "tech"
         },
         {
-          "title": "Precio de acciones, noticias, cotización e historial de NVIDIA Corporation (NVDA.MX)",
-          "source": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NM0ZCMEZkZDBTdEhIQ2NyQzhHR2hScmg0YkJjSE9IVlM5ZjI3ZFhXZmcxaUVXOHNxdzFYb0JVdW9ocUJ0MGpLSW5TUGs4UElheF9ELWpR?oc=5",
-          "ts": 1794055854000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
           "title": "AMD asume 1.070 millones en acciones para OpenAI y Meta",
           "source": "Foro3D",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY051STZEZjZRRXNvcW9BR3pnanQ1M3JUam5JRExTREN5ZV9YR3dmeFRtbHc4X3hoX3lNS1FSSTlTN1dReGFhNEk2WThab3Vpbk5HbDhucFlzWUhiOVk4d1J6NzAzY0N4QkV1bTNxa29PbThmaFh5NnZzUDZvZHVCR2tRako2Z2FEc21jc3dSZWJwaVRQSEZqcg?oc=5",
@@ -79,13 +63,13 @@
             {
               "sym": "AMD",
               "name": "AMD",
-              "pct": 1.4,
+              "pct": 1.2,
               "dir": 1
             },
             {
               "sym": "META",
               "name": "Meta",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -130,6 +114,22 @@
           "category": "tech"
         },
         {
+          "title": "Acciones Tesla, Inc.",
+          "source": "MarketScreener España",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15TG8zRmxkUks0U1VTQ0dTUHhLREtlYkNsZGFJSEtjU1l5SVBnWXNBRW5xYjZxbDM2ekdGbGs4OVJubVJhXzRrRlpmTlNNNklfWWVYSjRmdTJSMktzOWJfQ0ZndnZJXzRJMDZqeHdoZnJhWWRM?oc=5",
+          "ts": 1793998800000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "TSLA",
+              "name": "Tesla",
+              "pct": 1.3,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
           "title": "Apple y Meta rechazan los planes de acciones tokenizadas de OKX–ICE, dejando a las empresas de criptomonedas como las que hay que seguir",
           "source": "CoinDesk",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUjVQS3FGeGtYSUVaWHNJM3p6U3B0aE1OWjhWVWt2bU5DbWc1TmdzRXhiVDMtM09KbjU1U1JHUUFLZGEwUlNkT29mazl6dTRvUkZTZmw5VDgzN0pKSkdDdkxwWTBWczJIUWtWTGc4ejdibUhDU1VnU3JMX3A0VmFTb1otYTR4MFdwWTI3dkU0ODVDRFNkWS1Wbzk5S1F3TktraFNUZmhHcTQyT1RWaWkwMmYwR2x3YnlTRFlzNkxhSGpfNm9nWVlULUJTNl95RDhL?oc=5",
@@ -161,7 +161,7 @@
             {
               "sym": "TSLA",
               "name": "Tesla",
-              "pct": 1.3,
+              "pct": 1.0,
               "dir": 1
             }
           ],
@@ -177,13 +177,13 @@
             {
               "sym": "TSLA",
               "name": "Tesla",
-              "pct": -2.7,
+              "pct": -2.1,
               "dir": -1
             },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": -0.9,
+              "pct": -0.7,
               "dir": -1
             }
           ],
@@ -196,6 +196,86 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "Google eliminará los Gems de Gemini: esta es la fecha límite para guardarlos",
+          "source": "La Verdad Noticias",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU3Y5alliaHFBQTJZbGxjcnQxdmxvd3dyUzJiMkFFbm9YNDVxRHlSdGlJdVZrblFHdGVlbENQenhISEFZVTY3SHdJeGhRVEJHeWdINFhiMlVlZWpXR0RTZFJsUElpMlNvYzN5NDB0d2FCN3UzWGVGbDdiOE9Lb0JrTUF4emxNUXFQSklXVGFHU25yZ3FlN1IzM3lPVmtnV0ZpcUl4Tzl6a01ZZ9IBsgFBVV95cUxOdFVrZmRwTXFyU2EyeUF6NjU1QlBDQmFMNEE4V1I4cnhMZzZwV25uZVU1TjdUaG5kelVYd3M3bldvODEydzVBYXlKd2tRLWZyS0hOb1pscmRBSVAwYk5MaTNCLXpGcGkzbElwd0lZNVl3S1pJTWJ6RDY0SzN2RDdFZ0tRckdGQTA1V2ttRzJpSGswaWhOVERRQ0tTRkQxSFZ4SEY3dktIakNidklvU2tFc1NR?oc=5",
+          "ts": 1794145252000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 0.9,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Inteligencia artificial: el 86% de las empresas amplía sus equipos tecnológicos y crece la demanda de profesionales",
+          "source": "Diario Neuquino",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUVJETzVyXzRfZWVVc3hvX1V5NEZxVWVReGtrRWs5RTZkVTAyZTlLc1hFVlFqa3hQQS0zTkRYakZGbmZaWnpTSVpjRzV1WDFtZHpXNF9zZ1pPN3pXemdfWkY5QVRST2M5OTdVOFkybE9VR08xakFhV0dkb2cxdGJYdWNKRFFJSkxHUVRQUDR0ajBaazV6VkZNTDZOMTlNN1NKdjBvZ2NwckhLb0NMdk1IT0pRM3lQTGtUa29VTVJ3dk1nQW5taDBaWXFoV2FQdFcyMXVlRGQyTXhuU3E0?oc=5",
+          "ts": 1794139506000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "A medida que la ola de inteligencia artificial se enfría, los inversores ajustan sus estrategias de inversión en Asia.",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWURDUmxtcnY2NFRoeHI1RnozYmwyeGEtTmlYT3hFRkROaXRodlRXVGdjR183WXgtbTV0Sm5mbm8wdVlKR1BPQ1ZOYXVQTXU2RjBMeEJRUjhhTTBCcXVfSkg4MXhqMThrOW5RRnJiSld0VUJtNzlhZzU1TGI2d1ZaX05qZDRTTllqbGpCTzlIeWlJMjlfVG55Vl92Zmc?oc=5",
+          "ts": 1794130926000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Alemania invierte 50 millones de euros en el desarrollo de inteligencia artificial.",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zRllnMHA2MExIMXhYbnkybWlubUFSOEYwYVZXcnZSY012YWhHRlhOZG05MmtTdFdtd3NsMTRzQlE3QnpuVUpZSG16TDVvTUt5alFwQXRZb05oZlRCbVFfQmtjSU1ZUzF2R3dUQUZkblhkYi1ZdzROOVlOY0FSdw?oc=5",
+          "ts": 1794126545000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Gonzalo Alonso, exdirectivo de Google: «Si no sabes Inteligencia Artificial te van a reponer, y si sabes, van a recalibrar tu puesto de trabajo, seguro»",
+          "source": "Las Provincias",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVkxJM05vQXl5anIzekRCankzdkg2SXhDN3JkV2xHTnpTRnhwY1hneW8yRjZaalJCNVBiUjNocjZ3ejFDTE4xaVBsWVJ3S3V1QzBMM0IzLUdHc2lQS01PY2FCUksya2dhWklqSkRfVGxHS1hTLTlZbEpMMUp5Unl5N2NjTFpFLXBUd3VMLXZFWGM0RFY2X1VPekRsdjg1OE9wck9r0gGoAUFVX3lxTFB3SFdQRFI4WVJiR2J5UW11Ty16TzFfUkNVWXQ3YWNsZm9DWGtXXzJnem12UjFGZGJ5dDViSHBrajBSTm8wN2RjSDU0WFZiN3VGNUpUMHNZOVl5LTRhMUpXQmRjZ0VidDhPd29Mdi1oTFJfWmZrNFdmR21oUmxmcUE2ZTNGY05jbFZpeVZoR2FuYmR1X2kza21samozNDVjcDN1a0RheG9QTw?oc=5",
+          "ts": 1794122928000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Cómo puede ayudarte la inteligencia artificial a invertir en bolsa",
           "source": "Estrategias de Inversión",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOFFiUmdNaUwyX1BxTmd0Vl9ManVlYWphQkx5VTU3Q1FVRHA5OVNCUHdvT2VwZU1IOXpVWUtISU5PNEY0UllWWS1mSkdyMTlpekFZeG9QUTROaGVObzdmOU5GOURkb0w2MTFOZ0VLRlRaWk1sNTFaZl9uVV80cldQVE1fb2tCMnkycTFEMUd1M2NJOGdsVXFPbVo5NkV1cU5yeVJhSEFQYUItZC1aQmRoRjZRY2s2NmpRMy05enZLVkQwZm5jTGh3NNIBnwFBVV95cUxQQUtxY3F6TG9MZVhQSUZqN20ySWxjQVRDVmhZZ1VzNS1YLXZ4MTJSbU1EY0NrMTZ4Tm44QWQzcXJ2UkdKbURpU2s0ZlQzUXVtWktzMzRwQS01aHUxN2o3MHg4Mm5ZTkFFdWpiMXNHMkE3c2FsbTBObHkwc0FiY1d4ODBYdktPQ2dsSEplZXpfdm1SMzU4cEtkQU1TSXBpVTg?oc=5",
@@ -205,7 +285,7 @@
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -221,7 +301,7 @@
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -275,86 +355,6 @@
             {
               "sym": "GOOGL",
               "name": "Alphabet",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "FADERyCIPOL aborda los retos éticos de la inteligencia artificial en el Derecho - El Sol de Durango",
-          "source": "El Sol de México",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMDI0YUZTa3BjZ0VzaXdiS0JzVUhidkdjOURVbFNQYTl5aDBQOHlROHRPN1lLampLWDBrTXpGMHB1SmtIdWlXa1p0MjItSnluTlZidjlhUEVnUVludHhGeTNzb3FpekpSMFZ6U1h6Zm5TbERPcndjcGhkRFJiZGVla1hYbDhPWTc1SUNtcEZpVzNXTWxQZ1FZOHEzUXpCU2NnZDY0cHRzYXZud2pjY0UwLUFBOGxqVE1JSTllZU5GWHd3OHFMWWY0?oc=5",
-          "ts": 1794074042000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Un trabajador rechaza utilizar ChatGPT por motivos religiosos y consigue una exención legal para no usar intel",
-          "source": "Diario AS",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQOVRHNXZxOXFmNWdDdkstclpKVzdmQVZ3aUpjaVQyUDZ4bzJaSjJkMl8zUU9FaHNNWGtaMDBCZ3NOX1NLTW1UVFh6NmdRckItM0F3RThGWXFobjVXUGF6MUh1c0R6TWd1ZnVHRzdNNkVrTHNwQW1IcGJaQzY2Wnh4SDFzZXNvQUJWSGRybm1tR0lOX19uM0NjdkM5TGZSQUxTaTREMmd0T2lrQUszWWxDRUduR2dHWE1zNFQwTXA4b1RPNzVLT0ZSMG1vT2Y2Vk5hWG5fVnptY05oVUNuSVVSbEJIU1FsdUVUOV9DRWVraldFYmtTQ3ZmTFhmSC1RdEUxMVNFV083VGxsN2JOVDA0amhFX29YQkdMRmVRZGlvWHN0VlHSAbcCQVVfeXFMUHM0MUZ0bzFqMXRydFkzYS1ORWdwTUhoelBoV0dHdXc5U1BZc3pRekxLVmJtS09ZcHJqdGVoWFhSUmpUUzg4QXNNMTNLRllRVWNnNnBtclh1WjJFUjZxOTJ6aVJlRHRad1h4T1dGMVpoVWdJM3lXYTVBMGhBamxoZmRNMktuU2lua1hCZWZMYmdtb3ZXaHFkc29lUG5FMnlGcmswTkk0eXlhSzYxaEtSXzlEb0twenlNN2p4NWJadTN0ZFVkNWVKeG1XbDZGZHZaY1l5aXVmTGVUVmp4OWl1MnNaUUFlakFHdG9XTjJnV1pqU2ZkU2RoXzlGblJSc29JZzBuVzVJSmU4dW55Z2ZidjI3VkUzQThxcFYxaVZMMXJRVnlUR1JTcjU5bUZ4UGJOQ2hSOWNuYXM?oc=5",
-          "ts": 1794070934000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "INTC",
-              "name": "Intel",
-              "pct": 1.2,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "‘The Creator’: la película de ciencia ficción que vuelve a conquistar al público llega a Apple TV con una historia sobre la inteligencia artificial",
-          "source": "Nación Flix",
-          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOaGFMVWhTZ296cXNiRGNxWlRYM2ZueDBvWVNYMlJuQXY2OWlqbmtLYkVwY0VnTGMwbUo1Y21mVXhpYTRxM3ZfdGZEUHdnZ3FtVWp1RDlCMnNkLXFCLUZOX2xmMS16Y0N5RTBOd3ZhdFE4YUJpZFlMUTRRTzFYQWEzd0FRSE84Vi1uUmdudG9sbGZwTkp6ZFYzY0ZyRmI0Q3dsOTExWWF2alMyVDhEWjhpcFRyc0VyQ1Z2QlRfRGcxVVB0eUVwWndaeDRWWjNrN1RZNEd6cGZ1NkF4UFJCTENJV2NMWmVXUjlMYzBzU3JIdnFRaWRsZGxCMVQ1NHRlc2x5alhJQWFlRkotRXZaZTl3Tmt0VE1MLUllc21hS2V4bzgwaUxfSHc?oc=5",
-          "ts": 1794069993000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Memo de EE.UU. alega vínculo romántico entre CEO de Nvidia y espía china",
-          "source": "Investing.com México - Finanzas, Bolsa y Forex",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ2E0Uzhfem9EdjZUemlEbnV4by1hX1VGdFBBTFFLbTdvRTFINXkwYjltWTBiUGZ3VHAwQWk0Z1pHU1QxOFFJNmlrMFFkMHdnUmtmR2FjRFFWNEQ1SWpreXRka2pwWUFZYWlPTlZpRUtIcExTUXBHOUQ3UENkNlp0ZU1JVjA5Rng4cWlUS3RTSkNRcmpFTGl6dUxzMk1zLUVXdlg2RWpZaVlPYnRVbThxU05KaGlhYVBidTEzOTZManVoZDNq?oc=5",
-          "ts": 1794066953000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Acciones de inteligencia artificial se dividen tras victoria demócrata y rotación hacia gigantes de la nube",
-          "source": "Revista ADVFN",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNkxpMmtUQzQ5YTRTOEdPXzA2aHBvWXNFSXQxeEpDbmEzRVZNSXVaWGlzTGRpNGxVMzJyMlRiU1FGT2xXajZ2RkFZZk04VFF0TEtCbHh1eF9KaV8yUFljTkw3bk9aalcyN3hvZHFiZWhFUjRJaE9ZQ0VnaW4zeVhNVGxBano5VTNEOGlxQlRRYTJPOUZEeFA5Mjc5WXF0cHE1NkhaRC1LU3EzTEVTTV9Wc0FHLThhMDFBdVA2OWgzNjFCQjREeGMwNWZPZ2k0T0JtYzZ6U1VQME9BWFBwazNkQ3VtUTVFQTdja1RsRFZjMk1BeXdx?oc=5",
-          "ts": 1794066933000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
               "pct": 0.8,
               "dir": 1
             }
@@ -555,42 +555,14 @@
           "title": "Rheinmetall se desploma en Bolsa y arrastra a la industria de defensa europea: el mercado pone a prueba el rearme",
           "source": "Infodefensa",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNU3NsMjdfV2FtcWFoTWpLeHo2MmlpcjNvQkFSSFN0cmdyWkhQMXZrZ2ZLdXVjNVF1YU9rRTZzQy1maDAxZ3ZFSDNCQ250eEwwTEdhSjR4blFnS1BJRURGRFYybjg1M2xFdDlLb0l4ckprRUswbkw3OW9zRHMyQ3JYZkVOOW5kb2ZPRWRXbjRhNVhXSmlMWllDc3RUQmxQYURjdzlVaGVEZnJoeEZLR1B2dlFGc3VWTy1ja2txSzUzb0M4bnl3UnJzVDdNeEx4bTlUdlZuU19ueWpmQmY0OVE?oc=5",
-          "ts": 1793947178000,
+          "ts": 1794132887000,
           "sentiment": -0.5,
           "tickers": [
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": -0.9,
+              "pct": -1.6,
               "dir": -1
-            }
-          ],
-          "category": "defense"
-        },
-        {
-          "title": "Ucrania.- La UE desembolsa otros 4.360 millones a Ucrania para financiar servicios públicos y reforzar su defensa",
-          "source": "Notimérica",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaHlrblVpSjY5QllyRjRvWEdsWkVNbUtRS1NsMjlyNFN4a3EwRGNkZGxkenA5WHFKaWhSaGlqMjVwbFZKSzZsVnZLWHFvUkdRQmdDYm1FbzRjUmFZRWFuS2ZZdXQ5WnNmQTZyR2dDOHk2eWdMaF81ZjJFLUZFQzdCbDBfUG96ckc2c2g0LUNDX1NDb05JaDFFeTBXTGVZM3JvZkNSSm11N2RDdjNFaENDVWVwQUFiUmNfZWFGbkhLVjRWUDRVYTdRSGhlcTI0dUNILUtsMWNlaGhJMkJZTmJ2YlBxNkU0dVI2aENOYkp5Ynk?oc=5",
-          "ts": 1793877814000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": -0.7,
-              "dir": -1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.4,
-              "dir": 1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": 0.3,
-              "dir": 1
             }
           ],
           "category": "defense"
@@ -712,6 +684,22 @@
           "source": "extraETF",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1SW1SUlF2UW5RQ1hQc2o2aU90b2lVR01NQXNudHdJeWxIblpReGNCczFvOEhpSUdIY0N4MDdIT0ZkVGFEcjBBeXhoTzdrUWh4Umw0bkF2Yjk?oc=5",
           "ts": 1738802692000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 0.4,
+              "dir": 1
+            }
+          ],
+          "category": "defense"
+        },
+        {
+          "title": "¿Cómo invertir en empresas de Defensa? Acciones seleccionadas",
+          "source": "Bankinter",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5acUJXVVhBd0lqcFNoalVReWRnbU1YUVJfVHpPYUh2SGhJNWFXdjlEbk0zRU5pejlPVzBqR0NZelh6YnJ0ZXBndVBDRWYzSXJGMUlKVFAwd2tYMWdCc1FPbXpXYkNXVVJCWHBNT2ZxOA?oc=5",
+          "ts": 1731323011000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -976,6 +964,34 @@
           "category": "war"
         },
         {
+          "title": "La guerra en Oriente Próximo castiga al lujo en Bolsa sin apagar el optimismo de los gestores",
+          "source": "Cinco Días",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQY2NOWF9fWE11cU5IV2VxX3Nha0dwX0xlWXBIU3Nsb2tSdUt3ZWE0UzFuTVhseUVXYkR0LTlfS19LTnRNcGlsS1hXUlU3RndObnRwMjYtc05iTUxBb2NkVzdrME5WOXZhVzd6MkRuSWNITDRIcjlGNHluUnYzMi14M29FczRFbzMwS09iWEc0UGpjRXRybjllaUlKdTZTeHMxRlIyQmdUeGlNb09rcHExcVZrZkRyM2ZzUzFuZ2NuUUN5TVM1bGxBcE1GQTdGc3QwWE5hWDRQZXRLeURjb1pHX2Rnd093LTN2ci1IbzhwSDjSAYQCQVVfeXFMTU1FQTRlYmRuSThXQjAwQk5QSmdMamt6WHdvbFFveU1FRDlVc2dDVjgzQ1ROS25LVGx1TUMySm5TM0xVdTJ3QUpoaDBMaUtFS0Izd2xvMkxhUWphbW16ZHdGc0l6OUMyb0g4YUU2ZHVvN3dHNW8wS0lJeTRVZkJ1WDNSY0pRcVFiYmRIT1NGbmd5TG1UYlVmMVJVSmtuUW5XS0ZrbTg1a3BiRGZ6cG1CQzJuLUc4T0RFQTg1SFdHb3dSLVlVY083YlhXSzRJa3Rlc3Zyd2E0RFJINV9IcmxCRU83Q0VNaWVHaVFrb1RYQ1RBUGZpWDZQczFjR2Y5UEhLRE4wRk8?oc=5",
+          "ts": 1776754800000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -0.7,
+              "dir": -1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": -0.4,
+              "dir": -1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 0.3,
+              "dir": 1
+            }
+          ],
+          "category": "war"
+        },
+        {
           "title": "¿Por qué la bolsa sube mientras el riesgo geopolítico aumenta?",
           "source": "Rankia",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTTVsaXZtQ2FmT3JwRVZVeWhLZmpiZk5aZTRNNUp4bnBOcGMzYVVpSTBuNEt6dXBLME1WRFpuTExDN2F4MWZNTUtMSkFFcFZoTUNvOTZCTlFqbGJRbm1HbEZvd01vX05OeG4wRWFXQVBsQXNDenBubm5RMVYxZ2twZFo3X3N5MUFJbkI1MFBxM0xJNnpYYkRNUzlMWVZlMk9ER3E4dkNR?oc=5",
@@ -1148,34 +1164,6 @@
           "source": "Estrategias de Inversión",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYXBGQXpJMHkyZjRGNVZLbXd0WGVBUThkWTA2S2c2YWVKQjNJbUw3T19RVE1ET0FaY3liVTIxLUgxdWE0ZzllbjV1akUxYm9XYm1BcF90dEpaZ0RhcG5KaG5zYWlERzh4SlQ3N0tPWVpkUUtDdXMtRmFtZDhHSFhSVlZFMmJaWS1wLVgtYjVoYWZBMktVaGQwc0g3ZHpjSUI0OE5TYUg4ck04SXlaVnUtcGlaWmZfTGZmRS1qZ3hDREp0a2V5TVN1QXdzTk1iZUVJMnVOYjJVWlBWd9IBpgFBVV95cUxOZV9JczVxWll2bG5yYzU0MlhqVHVLTnpjNzVxNmh3R2RkejBSV3RJZExqdk10M3pWZTFWUHliUjJrd3NFX2ZzR3ZFX01mOHRpbmREdUYtZGVNVWVPZGY0NndIWG9pckg4SGppZnoyVy1GQVRjXy1SemkwLXJMdFduYWl0Nk9leU5MYlFuUHQtNjlxZm42amhMZl8tSjZLMnBkRG5HZkxB?oc=5",
           "ts": 1773644400000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 1.3,
-              "dir": 1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.9,
-              "dir": 1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": -0.6,
-              "dir": -1
-            }
-          ],
-          "category": "war"
-        },
-        {
-          "title": "Las bolsas han recuperado históricamente un 3% tres meses después de un conflicto bélico",
-          "source": "El Economista",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNQk1Pa19DOTdWRlh0T1ltSUk2NGU4X2ZuOVJyT2VpMjF1TUM1NmFlaHNSWWVpSUJFbkVyYnhfc3gwVmNuWS00Z090VUp2ZVRWeXFYU21kV3JNR2FVMGZ3MXBFWXdkNmx1bWticVdCU184c010MFpPckRybFNJcEd6TnZTMDNVcERlRldGZzE5dVF6Y3c2Sk1QbmVWT3Uya3VLUWhQZ2c4VzJBQXNJR2dPcEdYalFYOTdQSFR5aFkzdFp0UmVsbW90WktkQVVqdnZOUHJlQUtWWWdVdEpmb2kwZ1phN0xPZU9zY1ZVZUh3MzFRNDZDUG5qcTRn0gHkAUFVX3lxTE5oQ2lPd1o4bE9RMVduSE94NDJzZy1EY2lxb0NGRWJhMFd0dFZzRll1RXRMWXdjNHd4N1BCV0otYkFMbHZ3d01xZ1N4T0ZMNjExNkdwcG85MkVlRkpSSUk1X1UtU0MxODZOczZmand5ZEJ4X1FqdW95ZHZrWkNmd0ZZaERiTVlSUnFOLTdiOE0yaVA3UFM2M001NGM3MS1GNHdyQkFmYm1zSWp1Ykh1Z3NNRzNIVHVJRTFpUmVQWHJDblEzOFJpd09EbVc0MUNqN2tZT2toM1pQWVVhck1pMTlmbVpRbw?oc=5",
-          "ts": 1773126000000,
           "sentiment": -0.5,
           "tickers": [
             {
@@ -1396,50 +1384,50 @@
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 9.2,
+      "net": 7.2,
       "n": 22
-    },
-    {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": 6.8,
-      "n": 5
     },
     {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 4.4,
-      "n": 5
+      "net": 5.4,
+      "n": 6
     },
     {
       "sym": "TSLA",
       "name": "Tesla",
-      "net": 3.6,
-      "n": 11
+      "net": 5.2,
+      "n": 12
+    },
+    {
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 3.8,
+      "n": 3
     },
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 3.4,
+      "net": 3.6,
       "n": 11
-    },
-    {
-      "sym": "META",
-      "name": "Meta",
-      "net": 3.0,
-      "n": 3
-    },
-    {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": -2.2,
-      "n": 18
     },
     {
       "sym": "WTI",
       "name": "Petróleo WTI",
-      "net": -2.1,
-      "n": 21
+      "net": -3.4,
+      "n": 20
+    },
+    {
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "net": 3.3,
+      "n": 4
+    },
+    {
+      "sym": "META",
+      "name": "Meta",
+      "net": 2.6,
+      "n": 3
     },
     {
       "sym": "MSFT",
@@ -1448,28 +1436,22 @@
       "n": 3
     },
     {
-      "sym": "AAPL",
-      "name": "Apple",
-      "net": 1.9,
-      "n": 3
-    },
-    {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": 1.6,
-      "n": 2
+      "sym": "SPY",
+      "name": "S&P 500",
+      "net": -1.6,
+      "n": 17
     },
     {
       "sym": "AMD",
       "name": "AMD",
-      "net": 1.4,
+      "net": 1.2,
       "n": 1
     },
     {
-      "sym": "INTC",
-      "name": "Intel",
+      "sym": "AAPL",
+      "name": "Apple",
       "net": 1.2,
-      "n": 1
+      "n": 2
     },
     {
       "sym": "AMZN",
@@ -1493,14 +1475,6 @@
           "dir": 1
         }
       ]
-    },
-    {
-      "title": "Parte del negocio de las margarinas en Ecuador cambia de manos",
-      "source": "Diario La Hora",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUnVzS1hEcUxKS2Z4Q0k1U194M1ZkY0VwOXlMN1ZYQjVQMDY3N2ozM1Z1RmtGYkpGNVBabXBZNHFObGN5emg1OG9iSnh1VzM3aUNqMXpqTEJ4SFc3MjRNOXBhVkhNQmNPazVzMEt5bDNjbzROLU9KSmd6YXBFc0hROGh2b000cmk1dmJnNFBDMUNYNkgtR082eTJiZ1VUUE41Q1Fya0M4dUVHWEo3cWZOdnlTZXc5U1U?oc=5",
-      "ts": 1793809420000,
-      "sentiment": 0.0,
-      "tags": []
     },
     {
       "title": "Los bonos argentinos muestran un peor desempeño que sus pares",
@@ -1552,21 +1526,6 @@
       "source": "The Observatory of Economic Complexity",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNmJwa1dtSHZpUmliTDFPRm5iaW00dkxhR0VkNXpTRjVXcFh1ZTRLS3F0M1lYS2ZWRUJMam5NSWVZRmxHT3p6eDNGTzVmZHQwRnJWcVZLS1k2d0wxYTQ5dVJ1eGJSOWVTX2Z0SlloSkctYVBrWm1tSkl2ZDR5S2tOQw?oc=5",
       "ts": 1792825200000,
-      "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "WTI",
-          "name": "Petróleo WTI",
-          "pct": 0.7,
-          "dir": 1
-        }
-      ]
-    },
-    {
-      "title": "Petróleo crudo en el Comercio de Perú | Observatorio de Complejidad Económica",
-      "source": "The Observatory of Economic Complexity",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWEp0N25BQmdIcVgxMXRWdUZKNWhkX1hwbXo2MktCLV9aVGJfNW9ORU13NnNFaEtWTWRrdWVFejc1aVpwaW5tZEVrdWh2V2NYVDVIZWtJeWptcHNzNWRtV29peFp1bVRrNlZXUkNxdWMycVN0RjN2RENBdVNqeFpwcw?oc=5",
-      "ts": 1792738800000,
       "sentiment": 0.0,
       "tags": [
         {
@@ -1639,17 +1598,17 @@
       "tags": []
     },
     {
-      "title": "Seguros de vida y vehículos lideran el crecimiento del mercado asegurador en Ecuador",
+      "title": "El sector privado plantea transformar al Gran Guayaquil en un mercado unificado y un ‘hub’ logístico al 2035",
       "source": "El Universo",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUU9MZmJvZi0wc2lDSmhITkJQaGhDSVNzZHRBNEJJZXlBRmw2S0dwZnBiMXdhX3NqM2p6YnhBbERoaGhydEtNWUE2SEw4c3pHV3hRejAxaXV2MVRXLXJObzVGbjZOMXM0ZXBkMWUzcjVwMkNVX3dZX1k4UzBoSnEtNDFzRTZ4ZndWdjd0Nkp1NEphMXN4VFVCNDdMYjUtOHFMbENYb29iUlhsVHZmZlpUTHljNk8xbTQwOVdNX1k5Rmk2RkNMRXJ5UTZXZEYwNXFkTGZGWFB4b2dFblNoblFKNDJKaFo3QUnSAfsBQVVfeXFMT012aUd0Z0F5UEtzeF9WM3FFYjhsVlQ1eUF2dnk4a2ItaGg5b1FFZkhwRUo2ZU90N3d4eTFvUWZNZHdlZTNNN0swcmNoSHhua2UyTWd6cFF1QWstN3BqM2JIYVJjQ3F1bExtZzgtYUpTX1dkNmxpYTlqUXlmZm5xTXJUNU00SjM0S2M4TC1rVHB4RnhYN1VhWW1qczVlNWk2YmpjbWNCT2dZck1FVkY4SkdIQ01YV0hBZUVnTHlyQWl1Q3ZibTVkcjNLWS01LXFrbHlYby1SNUxPcmVHQzh3c3RiSmZKTmtjVlRkM1AyUXAyeEJrTWJlMTRNRjA?oc=5",
-      "ts": 1791270000000,
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNc3o5ZWJLMDE4NnNTVWtnR2dBVWs2eTRXVi1OZ1FkNWhjYnE5X0kxempIeWlLUUljbG5YY3NwbGJ4cWM0TzlyWFlTYXZpcW9EbmpuQlREc0xucDhOME9SbGNzcnViRC1YcUtrUW5wWkZOa01pYTZFWFh1eDBOWW40RTQxdkFEZHBtcTR0TTR0UDR6WmRGQjBmdWhSLXJjZHJzOHV3LW9zWjFqUlA1eEdKcXUwVmpUSkZfR2xoQm1oRUoxMEhKeEtmS2JoTFFPQWhSdEc4OEpEdEZhelpFZlh6ZXRSM0x3enJxby1FU3h4THNtV1dLYzdHOUt1aHE5RUU4c0dmcUluM21jRzBtZ3lhR01tNlBSXzkxNUdvSE9SZ3N6cnfSAbcCQVVfeXFMTkJON2pwT0psXzcyWVpBd20zd1BTaWcxVzJoc0dNS1NDdXRtY2dYeXBSdkNRRHVpZXpDQTQxcjhVME1CTDhCeTNxN1lrUW02bHpHVEZBWm8zZEhZaE1lZ2hfNFdPbjM2UXBZS01tRWdTakJxXzVNcWttNmUwUnpFZjhyV1k1eElqTmQ4SExvLWJGVFVRcmVNNXVSY3FTUDluQm9ZeUZzYy1wd2UzS21YbE1ZU09QWWUta1gtWHFsV01jRWpRTmFzR0dxYXBIZjNjZmJsMXV6WWxZdFlGU2tQRTRkaFQ5aEpFeVdEcGFLMDNSMWJGUFVHbExvaTNLN21GclB1YjJjNkZxaC1mdERqeEN4OFhWdHdxQ3NrbW9OY1hLNjZGWGlTMkhBWmktRUpxeDhOLVdwZFE?oc=5",
+      "ts": 1791356400000,
       "sentiment": 0.0,
       "tags": []
     },
     {
-      "title": "Banco Mundial mejora a 2,8% la proyección de crecimiento para la economía de Ecuador en 2026",
-      "source": "Primicias",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV29Mb1JBaXAwZDUwWUJyR0MxM3lINlBnOTgyRkxoZGo4eEdlME1qZ0xUYUNpN29XeEVzYmZ5VGc3Y0ozMnFhczlWUjI1Z3NKWnQ0cTJZcGFuR1JHbzJCd2dTcG5rTVlaZzV5Q3o3UUpHbXdRckpFMnN3SXljOHpObW1lR1BJYllWaXc5c2ctSkc2NVZGcUY0QjNiZEVySnFaaGx2ekNEVTFNaTZkSXBieg?oc=5",
+      "title": "Seguros de vida y vehículos lideran el crecimiento del mercado asegurador en Ecuador",
+      "source": "El Universo",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUU9MZmJvZi0wc2lDSmhITkJQaGhDSVNzZHRBNEJJZXlBRmw2S0dwZnBiMXdhX3NqM2p6YnhBbERoaGhydEtNWUE2SEw4c3pHV3hRejAxaXV2MVRXLXJObzVGbjZOMXM0ZXBkMWUzcjVwMkNVX3dZX1k4UzBoSnEtNDFzRTZ4ZndWdjd0Nkp1NEphMXN4VFVCNDdMYjUtOHFMbENYb29iUlhsVHZmZlpUTHljNk8xbTQwOVdNX1k5Rmk2RkNMRXJ5UTZXZEYwNXFkTGZGWFB4b2dFblNoblFKNDJKaFo3QUnSAfsBQVVfeXFMT012aUd0Z0F5UEtzeF9WM3FFYjhsVlQ1eUF2dnk4a2ItaGg5b1FFZkhwRUo2ZU90N3d4eTFvUWZNZHdlZTNNN0swcmNoSHhua2UyTWd6cFF1QWstN3BqM2JIYVJjQ3F1bExtZzgtYUpTX1dkNmxpYTlqUXlmZm5xTXJUNU00SjM0S2M4TC1rVHB4RnhYN1VhWW1qczVlNWk2YmpjbWNCT2dZck1FVkY4SkdIQ01YV0hBZUVnTHlyQWl1Q3ZibTVkcjNLWS01LXFrbHlYby1SNUxPcmVHQzh3c3RiSmZKTmtjVlRkM1AyUXAyeEJrTWJlMTRNRjA?oc=5",
       "ts": 1791270000000,
       "sentiment": 0.0,
       "tags": []
@@ -1679,6 +1638,29 @@
         {
           "sym": "USD/MACRO",
           "name": "Macro / dólar",
+          "pct": null,
+          "dir": 1
+        }
+      ]
+    },
+    {
+      "title": "Banco de Machala capta otros $15 millones mediante emisión de obligaciones",
+      "source": "expreso.ec",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNmhKNFFGY0lwVFVweFpFdUdkTE1LYVVIZWt0Y3pnaWhpRFQzVUlYOTBCdjJVYTFMdGlTTFZzcm1fUzdNSWE0Ml9GV3JrWGhGcXJ1OHh1SWpUUjNtTFM5TldtbXJkUklMbXM3cEQ0cmlITHdTV3R4WW0zcFBFZGhZdk9kdHJKSjhaY0pNYzdzNzJBVDdSRF9mVXBDNzk3N0h2T3RleEdJb1dGa3Rra0djcnliSzJzWE9WY3FmUGFkSQ?oc=5",
+      "ts": 1790751600000,
+      "sentiment": 0.0,
+      "tags": []
+    },
+    {
+      "title": "Precios de los bonos de deuda externa de Ecuador caen en el mercado internacional en medio de la salida de Sariha Moya",
+      "source": "Primicias",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM0xfYmJGM2xQN1U1SlVOZ3N4d2xUaXZ2RWtwLUFQUm91QlpUZzFjTTFIMzdiblVHNVhMdlIyN1RFakVuWWdLTzg5R3pmdzNLNjV3Y2dYblgyaldVc0NrdFZFOEljdnhKQmo2Qno0YTdvc01yU1JlMnYwNko2OWkwS1lULVJJSW1UQ0Z6NElmb0tCWEFnSENRRzN5N1BqcW43NHVRX21VMjhYSHg5cXhV?oc=5",
+      "ts": 1790578800000,
+      "sentiment": -0.5,
+      "tags": [
+        {
+          "sym": "RIESGO PAÍS",
+          "name": "Riesgo país (EMBI)",
           "pct": null,
           "dir": 1
         }

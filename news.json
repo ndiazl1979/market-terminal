@@ -1,10 +1,26 @@
 {
-  "updated": "2026-11-08T22:27:20.862697+00:00",
+  "updated": "2026-11-09T01:49:43.628281+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
+        {
+          "title": "Precio de acciones, noticias, cotización e historial de NVIDIA Corporation (NVDA.MX)",
+          "source": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NM0ZCMEZkZDBTdEhIQ2NyQzhHR2hScmg0YkJjSE9IVlM5ZjI3ZFhXZmcxaUVXOHNxdzFYb0JVdW9ocUJ0MGpLSW5TUGs4UElheF9ELWpR?oc=5",
+          "ts": 1794176397000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
         {
           "title": "Tres riesgos para las acciones de Nvidia después de que Huang admita una aventura con un presunto espía chino",
           "source": "investingLive",
@@ -47,7 +63,7 @@
             {
               "sym": "META",
               "name": "Meta",
-              "pct": 1.0,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -63,7 +79,7 @@
             {
               "sym": "GOOGL",
               "name": "Alphabet",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -79,7 +95,7 @@
             {
               "sym": "GOOGL",
               "name": "Alphabet",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -133,7 +149,7 @@
             {
               "sym": "AAPL",
               "name": "Apple",
-              "pct": 0.6,
+              "pct": 0.4,
               "dir": 1
             }
           ],
@@ -160,22 +176,6 @@
             }
           ],
           "category": "tech"
-        },
-        {
-          "title": "Acciones Tesla, Inc.",
-          "source": "MarketScreener España",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15TG8zRmxkUks0U1VTQ0dTUHhLREtlYkNsZGFJSEtjU1l5SVBnWXNBRW5xYjZxbDM2ekdGbGs4OVJubVJhXzRrRlpmTlNNNklfWWVYSjRmdTJSMktzOWJfQ0ZndnZJXzRJMDZqeHdoZnJhWWRM?oc=5",
-          "ts": 1793998800000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSLA",
-              "name": "Tesla",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
         }
       ]
     },
@@ -184,32 +184,10 @@
       "label": "Semiconductores / IA",
       "items": [
         {
-          "title": "Claves de la semana: Wall Street busca respuestas tras perder la confianza en la inteligencia artificial",
-          "source": "XTB.com",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOekpfb0dsekxON1hXTG5WTlQ2R0h4MGVHZUpPWVVvcjJRUEVKQlRaRDN6YWVWd0VTNmxIM1I0dHh2RXpkM2kwSU5NeThFYzR4YTJtRmhLWGJVdGlfd0xzVEphVzVPaWM2SEdmbWEzUUpLU0Q1bm5rN3VEd0hrQlhoMDY0NVBrM2hLamRtazVFZUphaEtNZTg5aWc3TXpVOVdQYTN4Zy03NjZGVDd4N0FzdHJzSTd0a09QXzZrQlUwWHBxbFJkalc0TVdmdVhLdmF3WWlkcjNkR1ZPUld2M3pRUWNhQlpDWWk3VzJ6MkhTdHdhTlZ3MzNkbUl3?oc=5",
-          "ts": 1794175408000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.0,
-              "dir": 1
-            },
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Nvidia abre una investigación por la relación de su consejero delegado con una espía china",
-          "source": "La Voz de Galicia",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRHhzMXdPcURRMGlTSVJESjhXVG1IOHdZdDRTMTljYVRrMEpDUHRXZExISFJWSko4cXpjMW02Wmp5X1ZQdDcwZ2pkeXJrYk5WYUNyVUNTc3pnQkdYUlBkbkgybDJUNDNhUVFRR1hWcXpxVHdYRjR2TEcyZ0h3cWx5ZjlIazR0ZDhLVDNrQ2ZtMjJpQzFPXy1WTUw4YUNZQWh1WVU1YzBJaVJBS3NvVzkxanUxMW9Vd1ZUanpDQ18zd0pkM3FtY1VNS2RudVJxY0xGTTFHcGw0bzdhSlg2VjNPWTRFR3EwQdIBggJBVV95cUxOQUlTeVF6MFZ0OEZET3M1Uy1KQmNKWkpubU5xZXByaUhtRXF5X1pwTTQxamcybWpvMUlSSi1yZzdhVFJOcElueXFIb1dHR2JZSnFCRkZBeUxXYmJPTmotdkVadUU3NXIwdUhFVWVaU1k2bjY3cjZGeW1BVVBWSGZpaG8taVVkSkpTVzc4Y0lBcXJFVG5vdVcwMzlCQW5feTJSeUFfaEUwLVFWZ1BLd0gzZWJTdzBaZlJma3Q0ajFpell4enZnMXhqaVR4d3N2SEwwQ0JlQ0pPbnkyV08xVG1JWk02MnY1QVE4U2ZtWlFURDVqaTEzVDlHX29SRFpHWGVfZ0E?oc=5",
-          "ts": 1794173600000,
+          "title": "Nvidia investiga presunto espionaje de China a su ejecutivo Jensen Huang",
+          "source": "France 24",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzdOOS16a3JrQVY5aEJnZ1FRU1J2OEQxU0VtWVVKblVwT1puaTMtYmlueUY0ZllYM01uS2RQSVQzZzhoSWo1VmRNZHFXUU9YemR3Z3pVZmpPMy02M1ByUzduOVBrNk5pLWZRdHVpMjZtOF9acnN2ZlFFYThHZTZ0elJRLWp2VkdqdkRlSnUwSzVqVV9PRmFsZ1ZXamtSLThmRFdRSGw5dm5OTW95VE5pX2c5QWZvWkZFY3Rjc2hTX3VaZkE?oc=5",
+          "ts": 1794187917000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -222,10 +200,86 @@
           "category": "semis"
         },
         {
-          "title": "Consejo de Nvidia Abre Investigación Independiente Sobre su CEO Jensen Huang",
-          "source": "N+",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb0RRSHZ0LWtsLWc2Z0ZoYnRzRXBiQ21JdlNzT0pYaFBZZ0ZCT1JTSzdjU1NlWWtCOTNtdTJYWnRKNFN2cEFiUVBEeE5PaWkyOUJ4b0xIanp1VDNuLVFiY0txT1plcTF1RXVtTXU2MWdTd1hBWnljbWgtZmFVZkVTX2ZmNVJ3SXozVUlMN2Q0UDFJWFNzM0VtdXFiTlVGVHBVR0tRaWRjb0xtVWxQYmZmcG1HTXhjQQ?oc=5",
-          "ts": 1794173400000,
+          "title": "Microsoft deja de renovar los servidores de Oracle porque sus chips Nvidia ya no cumplen sus requisitos de inteligencia artificial y revisa contratos por más de 80 mil millones de dólares con otros proveedores",
+          "source": "El Imparcial",
+          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPTmZVNHo3YWdOa0lmRXUzS1FPWDR3amlGU3ZZMTJSZGl4R3YwdlE2ZTB0eEVjWWs1R3BfQi1Cb1p6eWZkcUtEdTM5d2ZlTWtJcDJQMnR3RUdZUUNocWRJeVVzMnhPQ3czbElLWHVOSDFnMzVwdDJSUFdBQ0hNRUhqVmJFVElQeXAyTW9SUzctTlRWS1NJME1JQ1JDaTJtLU5nb1lYUVROYkt4Sm9ZWDZ3N2tVZ1lDOXl2YWpYZEg5LW9HV2xqbDZaNzdfZVlmb2U3X1NiVHhvV1F0TWJTU1RVWWV1TVlRUlN1LW9DSlViVlpfUTljWWJ5ZXQ3TlRiLWpGR253bHJhZG92N0Z0QUNjUjM2RW1fRk02LVFUaFlrLVZUQ3pGMU9UYlE4cTZ5d195cWdhYlppZmVEcFRtOXFGcU1ZOUhlZ0UwVXFXbU9welpMOUtuYi04Snk5WG1sZHVLZ3BCUDdkNmRuSTlIVkxBT9IBiwNBVV95cUxQRjRndElFNEtUbkFhMVFGVzI5YUJvYzBrWThhMF9TMkxUalZ6bWc0cDFEQmJCZEs0UlVOOV8yZXdPeFJ0REhGZ1dUanZIb1N0d3F6ZTZ6WkxHWHBJUExjREJLWV9WZFdkM1c1VjNKbkw1R21iWEh4VkdUMnVyM0dDSlVGRmVoTXN6d0QtNEhLenhOZ2IwbU51YjN1OWtPRjFsRzdsVGo4UXJfaVdzVUNkVWpSeVhmc3RxNzhmOXhmNHBRbU56OEZFTm9hLWNHcXB4TkhNbDhpNTByaUhlQzJLQ3dPWnVnaDRCWkw0cm10MTJzdHdTN1ZFODJuZHpUVVRLckRSN200dkhBYzdLYVJ5cnIxT0pCNGVUclNzUGFjN2xURjBrTDd1WURUZExIemtDZEVHa2RVMnVpZC1uTnNwNmg4ZGNQUjNpVl9PbXFoTG8wdmh5S0c1dUl4X1Z0Y00xb2hPQ3ZhWGhxb3g5bFB4UDBmY1lpT2duNUpVUmNwdTljUnI2SG4zN1dEUQ?oc=5",
+          "ts": 1794187423000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            },
+            {
+              "sym": "MSFT",
+              "name": "Microsoft",
+              "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Nvidia investiga a su director por tener una relación con una supuesta espía china y Trump lo defiende",
+          "source": "RTVE.es",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcmFwR2k2cDZOczhnbTF2Wjk1UkhRcUoxR255eTdRSkVnZVpqLWpTcC1ZOHk4UTF0LU9LSjFuRF84N2VHV21GWDU2bTd6N1NXa3VkM2ZhNHhtX21SeVdYNF9NcmUwWEJmcnZacWh0ejRQMkg4OHBFSW9hYTFZLW5pOEpfeFFJYkgwT2tyRDJfbmo3UW1zcEEyVEJKZlQzbXJ5?oc=5",
+          "ts": 1794187186000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "El consejero delegado de UBS afirma que los inversores en inteligencia artificial 'descontaban la perfección' antes de la brusca corrección del sector",
+          "source": "MarketScreener España",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQejU4aXNFSHRndmUyZEJpNTV1UFJYRnJyNGxaNUxIZWxyRF9CT2x2RTVHdDRYVHNkT3JlT2xzdUNfcDRBUWZqQmU1bDdkWlpDcmZBRzVPczhnR1hKSTBzaHNwUVlVOEE0S1c1eHVQTGhZN2s4T25uU3Y0aU10Y0RsNS13T3d6dklZNFdSWHlfZGRDYVE4ZmJIY1pfd1FfcnFyQmxwcEF0cm1wSVlrX2dHaUxYZVFlYzRqQkhFbUFDQWNaMGlJMWp4TVVOWm51M1piZk9rSnBVZEJmQ2VMTE84VExLcmNzTDEzZkFz?oc=5",
+          "ts": 1794183560000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Nvidia investiga a su CEO Jensen Huang tras revelarse amorío con una presunta espía china",
+          "source": "El Comercio Perú",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNa1IyNXh1WHJPSXE5amlHdy1lX3dfbXk0TE1UTThucWV0UDNJMnF1eXNvMlBCUlU0ZHFyd29RTXdDNW9ET2ttSWdTWUhoVFpEdTVZLUVBUi1sZlhZNHBoenFvcTRvQkM5R3hFRnpQbmFBY3I4RlU5aGZFMGhCem1EX2Z4ZEsxakhiNVJ1bzZ3a1oyNzdyRkJZZHdRWV9iSXQtYzdfUUdjQXBNOC1xc0hPdnZnbXhPUmhOVzNLdjBla2RVa1JIa3FpUG55Zm04bEZKWEpqeERiY3FrN0kwSXU4VElsT0RLUk1NSGRBNnFRRdIBgwJBVV95cUxNWTU3d0JrQXc3RElYc3ViZEtKOHZrMVRLOHZUcE1KM0FRS1hmUjB5RWNtY29wZWNmTHNKaEQyYzhCSmlIQlpqYk8xSFlxTVBNVWxEWGNHU1JDSE9qVXBINUE3UzcxSklsQUVGM1M3WTJqRHFnRUxMTUsyQnIxUjVNVVpXN0RPbmphNEJnOTVXWkNlV1hwN2hTTUV1QldQeWtNTDBmTVgwZDFsaEd6WFJyQXRmek1GWm1PbEM4QU9ZejVBZTF3bmozLVg1VUROR0k4NC1UNmNuNVE3RXU3QlBpRVhhVnBUWDJGVVQzT056MDQ4dUFFUkV5Y3JaRElxM1hkOUxz?oc=5",
+          "ts": 1794183068000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Investiga Nvidia a su director por romance con presunta espía china",
+          "source": "MVS Noticias",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUVYwdkhWeDRWdEdiX3c5YW1kZGtFV2hQS1hfR0wxNnpYSHI3ZV9DdUN2QzY4cHlScURtVG5TSzlOcEI3ekg1dC1hYlpMZG5zWTRvWHAzeHQ4LXRHSktyZ2pRZEJNVGhwbmUySXU1SFItYTNHc1FmOVA1b0NVTUVVTVJ6cmliU003NHJES0ZxdFJ3ajlCM1A0ZDBtRU9vRm9HZGdQb3JfVHFCd09VSnhXcjBlUVpVdnF2dEpB?oc=5",
+          "ts": 1794182872000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -241,7 +295,7 @@
           "title": "Nvidia investigará a su CEO, Jensen Huang, por preocupaciones relacionadas con inteligencia extranjera",
           "source": "CNN en Español",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYXZNTVVJdm55bkh0N2J1cmM0VFNNNDY0SDJpdEIxdTRlZDZHUlRPRmpBaXFOdEd2cGNaRG5vOHRIWC0tSzdLdkVJMzVoeEVRQ0pycklTWVBmTHJyUE1BYUlsdG1JS2ZLclNITFlVa3VLVXNIcWFSdDVlQXVoVmVsbV9jSnRydmlFUXVRbEZ3?oc=5",
-          "ts": 1794172860000,
+          "ts": 1794181860000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -254,10 +308,10 @@
           "category": "semis"
         },
         {
-          "title": "\"Blanco de una operación de inteligencia extranjera\": Nvidia investigará a su director ejecutivo por amorío con supuesta espía china",
-          "source": "RPP Noticias",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZ2hsa3h6WHViTmUweGFNUE4zZTh0RVg3bVQxdlg1U1p6QXFiRkRBZmVHVHp2dHl0Y2wtQjVUWEVySDZNLWwtSFhTUy1xREw3NVBySy0wWTNUYmJ0ZjhOSWxyOW01N294RkE0aXNnSDFpd1NTdzBJZHNOdnJ0eEdMTWdCaHBEOGtwUVBBYkJmNFNGaHplR2dNUzItR0xaM25abVM5MFA1Nk5XM2l2NDh6amtGQzYwOEYtMTVFNW9FMlVLbDhRZEg0cnZpalBDOGVNMWVNT1IzQ3FBVVduV19CeG1KOE9wQWRIQXFsWG5jRTR4RUJVakJHWW53ZjZ4a1NtWlYzdENPVEI5RVBIUEE?oc=5",
-          "ts": 1794172592000,
+          "title": "Nvidia podría afrontar mayor vigilancia si Warren preside el Comité de Banca",
+          "source": "https://fomoera.com/",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpSXBZcnI5ZEtodVdVQk1YQmpkbkpjZ3hleW1VN2JJZldCQnUxWHlzcGd1VkZWMWtERzBMMHZsWHJnVUQwQ052RUhCQnlPWjdZT2pPR21wTlY0OWlHRU1tYmRQQ1JuWjdEV0h1am9n?oc=5",
+          "ts": 1794181620000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -270,12 +324,18 @@
           "category": "semis"
         },
         {
-          "title": "Qué ofrece Gemini Omni 1.2 Flash para la creación de clips con inteligencia artificial",
-          "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNFY4b09qVy15VUJuejhZYnlNSHBYaUgwQzNpT0NVR1p4N0ZDaG5nWTE1YTVZSnNhWGM4YmRsMzVSSkFlOFVHMFQ1cEU3LVB3YTNQM0tQbTJWdnhMblhEMWN3cnhMQWplZVRyQ1BsbVZLN01jZTlIOFl5eS04RFA1LTFUeXg2d3RUaURHa3BqZDY4Qi1QQmFxUG15YkpEWnRza0lkNllyRGw0QXpNNlZpcTZLcUZublpEcERxUjZYZWNySlRfVWfSAeABQVVfeXFMUFFKVHd2SG9HaUNPSTZPa1JYY2QtNkhyTVJrRzg5NjVrVEN6b0p3bnVHZGVZaGdKcm5McWNOc3M0WTRrSm8xNTM0TDVwSU5LSDNuTFZMcDUwdnNHWkdoWXVfTTVHS2VQMmFIMTYxV2k1X1B1X25ZU3BtM2dnLW43QUFLSzIyNEJSV01xNi1kVGN3WDljY3MtYjI0MklBNVlhNDJRRElRYTgyRkdZSGJOZ2pMcjVaX3RHWjNtbk5WQ3JjMlk1TldMSFNTMlZWUnIzcTNhVEZqSkhWMGJZTF93T3k?oc=5",
-          "ts": 1794172200000,
+          "title": "Meta, LinkedIn, X y Google: cómo negarte a entrenar su IA",
+          "source": "El Ecosistema Startup",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNTZEd1BIM0hMUDRueDhpT29FdXdGR01JTkEtMGZXbWxBU1dFMHE2SGxCelN0WjcyaEgzSUp3SVpmUjBnTXZDYk5xcE5zLXlDTDJCNzN1REp3UTJ4TFJSR1RCVHNGaUd1T0xJSF9xSHAxMHhZSm1XRGVNTTFwSDI1STVrTjhOZEFQMldKUVZB?oc=5",
+          "ts": 1794180082000,
           "sentiment": 0.0,
           "tickers": [
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": 1.2,
+              "dir": 1
+            },
             {
               "sym": "GOOGL",
               "name": "Alphabet",
@@ -286,64 +346,16 @@
           "category": "semis"
         },
         {
-          "title": "El consejo de NVIDIA abre una investigación tras una presunta operación de inteligencia extranjera",
-          "source": "Unite.AI",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVEx0dC1DLWJpdmNFay1EVnRGNFMyN01pMFZWb2FSeTM5VlRKS01fUFRVUy1BRnJiTC00NVZQNnQtYkw3WTgxMnJBelRMMV9TaFpYWmNSRnEwQ0tVTjFyd0ZmRU9KYVFSTmg1NlFzc3FjZE9RV0VQVjFmZkctdWVrYzBKeDJLSUE5YnRpenhlRWYyY2ZJeWJVSw?oc=5",
-          "ts": 1794169561000,
+          "title": "Nvidia inicia una investigación sobre la relación extramatrimonial de su director ejecutivo con una presunta espía china.",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16cDRoNFlrYnJfbGhvN0dSZklUUGM4ZnlRRm5mM0h4bVdJNmxzVUdvbS1NUzVfVUNobzRWVnJKcFk5Q1FtSVFHazRwTmV5bVpPMWItWGRWNk5ORklz0gFiQVVfeXFMTmY3MjRteXZaWF9QMG1UWWt0ODd6TVVyak8wVDg3Y1VIZ3lnbTA0cGUyRVN6a1Z1aml1MDJ5N3dGWGxGckZhMk5NN3A5MzFQYThHd0VLUGwtQXZULU5WZmNsVHc?oc=5",
+          "ts": 1794177387000,
           "sentiment": 0.0,
           "tickers": [
             {
               "sym": "NVDA",
               "name": "NVIDIA",
               "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Meta pierde a uno de sus principales directivos: Dave Wehner deja la compañía para unirse a una startup de inteligencia artificial",
-          "source": "El Tiempo",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPT1pFX3luREtTdEpIS1U0Z1F3T1JNN0Z2eFZYU2QzN2E3YnBScTRLQ2MzVHVpQVJMSjVxRFhkQVZCdWtEcmlHYjYtZXdtMUxRZmRvbHpKWURKeGxKUXFHMmY3Y1BrOHNvWWxQU1d0b25ZMVE4ZFlDRlNrc3dXenhZMDVFd21iZHdkZDItcTlOSFVUamRSQjF2SFNMdkhGczdtNDBydlJrVmlaSWFwYVlGM19yTU1zajU5UXJZcnJnb0dJaHhCcXJlWmNsUmxaMlltb0NIcFdoRGRabjBWeVJzQnQtYV9jYXJuNm80NmFUOEdoWFRib0JPTHJIWGthbHRqT0JXLVZkQdIBjAJBVV95cUxOanRuckkwbXZYS3dEWDlyamdnR2F3VXBoMUltRlFaa0lkbGtmZnpuX3FFWkg4cXh0NWhESDJHQmt3MFVqSFcxZG1SU19NbTBFNEhUa0NxbzZscG9aZDFNbW1tY3pZaHNGcVEwNnYxUks4NmRiOFktaXQ5WVNOR3c4X0p0bXFGcG1fdW9CbFo1eUJSczE2WU1pMzA0NkdyNmhkNGhyODRNVHM3MTMyRUFac2hCcFV4VTJGaWxtR0hyYlA5YVVUWDd0OVRNWnBSRXotUHV5SUE1UWt0Ym9ZOXQ1VmM1Uzh3LVAyWDJCdUtVVFdSNGNIOHRNT0htVzZSaWJPLTh6NXZ3bmdDeGFf?oc=5",
-          "ts": 1794167706000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": -2.4,
-              "dir": -1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Netflix también se rinde a la inteligencia artificial: así quiere ayudarte a elegir qué ver",
-          "source": "Espinof",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdjJtcl84Z0dxQ0dpYVR0SkJ2NEx3WTdxbDZBWVptaFJHZVVUTUtHcXdnOVNwc0s5ejllZ1FrS1ZxLU9VU252RlN5ejUtRndJRjJGd3dLQmZ4ZDEwNTdmOUtWbFA1NkZ4MVJZRGpnUHVGdV8xbUg0X3EwcmVPdGtNWVBicjB2c2NvV3ZkTWFFTTJBZlpsNERsTzYyMzJlX01BLUw5QjZKS0NfUGxPMVNfZldlRjhtQmp6Wmo40gHAAUFVX3lxTE5oUktWRG95LWMtYnNORXlFaVotb2taa2xiTW04aWw1RUF2d0FXWXcyNnVVeDZJZTZBbUlrZGtpQzh3Q2lKOHBKZ1c3bWpBUjNMUm9maHA2enVad3ctT1o4SjVGMXh2MzFJSkFrcS1jWWcwWXppZVlVbEdocGNBVmJJX2swdVd1VURfa1hMOEJzSTQ3Yjl0S3hSdFA0LUY3ODUtcG5DbVRHekJPZm9lU19GYm1LVWZkZXFwaUJNc25BeA?oc=5",
-          "ts": 1794153666000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "La inteligencia artificial ha transformado completo la industria de los equipos de computo",
-          "source": "HSB Noticias",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWGVHVHlUUnBTUlNqaUZFUDd2bEVCWW92VThqR3ZCaGhIRVR1WG1FakhTVER4MmhFa25tR2JFdzVhN3pCTzJvNXl2OThhSFRNUkhOM2VweDNNZmJFS0JnWjZLMF9Dd3B5ZUx4Y1BmVFpwLXBXMnU5dVhvOTRUUV9GUEtBRWpFT3NlQ2xaX0tnNFdjMWNzV1Jkc19ESWhNOUdSUXNhRnhfUkxObG1NZGJrcTA3ZDRNenZmYmJicGsyOW0?oc=5",
-          "ts": 1794153068000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -794,22 +806,6 @@
           "category": "oil"
         },
         {
-          "title": "Precios del petróleo caen más de 8% • Mercados",
-          "source": "Forbes México",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hZm03SkplWTVNRnlXelczLThyVzRqeGFNVlBCM0hpSVhlaW5acGM3dzFtbWZHeHBqTlB6Mkl0dGp2dm1sRnFObEp3cm8zdE8tMVJ2cE53R1RmUElXMmlBLW83Q2J4R1hs?oc=5",
-          "ts": 1793829480000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": -1.3,
-              "dir": -1
-            }
-          ],
-          "category": "oil"
-        },
-        {
           "title": "El crudo Brent se desploma un 10% cerca del nivel de los 90 dólares: ¿Qué causó la rápida caída de los precios del petróleo?",
           "source": "TradingKey",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY040NTl1TGM4aDI3S05sT3AxMkJWUzkwRTNPYjlOOUR6akZQVU4yMG95eTEwZUNCbFNnUHhBUDdrX2hYdTJyNWFpS04wWk82NW9qbUxiemNreFlhVHhLUldOYzg5TWhma2x4d1Q0WGVJQkVDZTN2MWpTWVVmM1BFT1l4WjJBQWxWZWVxQWpMYnBUcnNwQU4tYlJhTlhaZzZLS1Z5TnJ0YkxEck1UbGhKbGJ6VXJJMGZnQm5KMVZ1cVFsTmNoeS1Rbm9YOA?oc=5",
@@ -884,6 +880,22 @@
               "sym": "WTI",
               "name": "Petróleo WTI",
               "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "oil"
+        },
+        {
+          "title": "Los precios del crudo WTI y Brent se disparan más de un 4 %: ¿por qué suben los precios del petróleo?",
+          "source": "TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSjI1T3Vsc3J4anUtX2pHZGNzakxNQU15NjV5LW9uclB5OUxpc0EyMEJpeEp1MjR6dkFyc05aRkt2RjlvQ0hjVjJ6cE9uU3l2Q0xYLTBBaVdvc3VIcWhJN0RMWkRKb0pBTV92LWg4YXByVk5SbUx0U090OTZKbU9LVUg1X0EzRkQyX09OX2dfZWM2ZzA4QkxNRkcwRVFvNE9ZNVAxNUVvVVo3WGxBOW4tcDlwQlhadkpqS3N3?oc=5",
+          "ts": 1791442800000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": 1.3,
               "dir": 1
             }
           ],
@@ -1191,7 +1203,7 @@
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.9,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -1296,22 +1308,6 @@
           "category": "macro"
         },
         {
-          "title": "Wall Street no se esperaba este aviso de la Fed: vuelven los números rojos",
-          "source": "Negocios.com",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaXppQkxDUFpHMjFOV0FCV2xULUJvZURtQjRJcEQyX2s1RnJjbU5Gd25jazRObXpjX0hkNmtSNDFsVGNfYkJ0al92R1pOb0RadkwzY1VRYUp4aVloV19iQXhYN1RYTTF6VXU3cGE2U1k0Rmxsa0dlUGp0TVZPMlJZeEtnWlJtb0I2MUJpcmNxX2R3WExFRE5GQTJqdV9LZHFXNHRqcEFISkMxQ21zY2psR3VHbWVNcmtwb0hLajJB0gG3AUFVX3lxTE1HdmF6Mm9QT2hFU2N3aFZNTlNZaUpWZzItYTlVbno5SC1zQl9LOVVKeExXX1AzQnBaaFBVOEJZeGU3OHljVDVyeDQ4dm1BNkE5SFl4MzM0UDFpc0FkY1AwQVBzc2JWRkxXNmVkaWJXbVJlNEFlMFdWa1JPOUlyd3kxT3E3ajEtNmJPV2RwZkdwLTBxSjgwZmFfVWhROUVmNWQ2OXFEbXZGcnFtdU5uc2VobWd6OW1qRQ?oc=5",
-          "ts": 1791442800000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
-        },
-        {
           "title": "La Fed presiona, pero Wall Street se aferra a la historia para mantener el optimismo",
           "source": "Estrategias de Inversión",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR0NNaHhabC1RS2gzREh4OEFlTWNhMnNRTUZYVlMwNG9HczFnaENzSDVfUEFFTmZ2TmozNnlJaTgtdldkdFg0RVVSNW5YWEFpV1VDaW9Lc3VjbVBFQWMxQ1dyN0VLY2pBb0xLMFBfcV91RWIwcXo0MS02X0tQY1lhTjM0LURqTVNIXzV6cVRKcHRIRWhQYUhRSVdaTFN6emViZ2FwcDQ4QVJWOWlaLUtpU0JELXNhbFJJYVFpMktJRGx1OElp0gGgAUFVX3lxTE5qbzVMLUhiWEtQMzJmVmUyZU9sSTJmTF9GeEVoRkJxMWZkMU9VZjd3aWw1THZGdHQyWTdDNHhRNnlCbTA1dElRMVdMOW5oUkZHZ0RZVk5SUEt1XzFYVFVmM0lTS3lZdHlXRFZYV2dZMld6TUt1YVk1SlNYMlBFaF83VDZLejRUY1B6SHFUeGdlNG5SR0lyWFZSVUt5c1YwcF8?oc=5",
@@ -1364,6 +1360,28 @@
             }
           ],
           "category": "macro"
+        },
+        {
+          "title": "Wall Street cae luego de subida de tasas de la Reserva Federal",
+          "source": "CR Hoy",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMi01ODFDSG1ibDczQ1VzSmZUT1dfcTQ1WFpqd3QwNEtTd0VBTWgwUC1kMkI0STRaUGVsTkY4a0RfbkE4cmRHbm91LUJsdkpuUkdWa2E0SFotU2xmUlV6c1l0b2tRc3BTQmZOdFFVUW8td2ZEV05qb015SC1GY243Y3hMSWY2bVlkMmtPMFVWY1Nmenhl?oc=5",
+          "ts": 1789542000000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": -0.7,
+              "dir": -1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": -0.6,
+              "dir": -1
+            }
+          ],
+          "category": "macro"
         }
       ]
     }
@@ -1373,7 +1391,7 @@
       "sym": "NVDA",
       "name": "NVIDIA",
       "net": 12.0,
-      "n": 9
+      "n": 13
     },
     {
       "sym": "ITA",
@@ -1384,32 +1402,50 @@
     {
       "sym": "TSLA",
       "name": "Tesla",
-      "net": 6.0,
-      "n": 10
+      "net": 5.0,
+      "n": 9
     },
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 5.0,
-      "n": 11
+      "net": 3.0,
+      "n": 10
     },
     {
-      "sym": "SMH",
-      "name": "ETF Semiconductores",
-      "net": 2.6,
+      "sym": "META",
+      "name": "Meta",
+      "net": 2.8,
       "n": 3
     },
     {
       "sym": "GOOGL",
       "name": "Alphabet",
-      "net": 2.5,
+      "net": 2.3,
       "n": 3
     },
     {
       "sym": "SPY",
       "name": "S&P 500",
-      "net": -1.7,
-      "n": 17
+      "net": -2.3,
+      "n": 18
+    },
+    {
+      "sym": "SMH",
+      "name": "ETF Semiconductores",
+      "net": 2.0,
+      "n": 2
+    },
+    {
+      "sym": "MSFT",
+      "name": "Microsoft",
+      "net": 1.8,
+      "n": 3
+    },
+    {
+      "sym": "WTI",
+      "name": "Petróleo WTI",
+      "net": 1.6,
+      "n": 20
     },
     {
       "sym": "AMD",
@@ -1424,27 +1460,9 @@
       "n": 2
     },
     {
-      "sym": "MSFT",
-      "name": "Microsoft",
-      "net": 1.0,
-      "n": 2
-    },
-    {
-      "sym": "WTI",
-      "name": "Petróleo WTI",
-      "net": -1.0,
-      "n": 20
-    },
-    {
-      "sym": "META",
-      "name": "Meta",
-      "net": -0.6,
-      "n": 3
-    },
-    {
       "sym": "AAPL",
       "name": "Apple",
-      "net": 0.6,
+      "net": 0.4,
       "n": 1
     }
   ],
@@ -1469,14 +1487,6 @@
       "source": "Diario La Hora",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSDVBQmdkMC1IQTRVNXMtVVk3STZUTFl1TTZmZkRRLWNWNDVocHV3alllZFIyXzZTTS0yOTZhaVpQNG5IZkp2cnJTdnhwZ2Q2ZkZCZ2Q2NGZHV0RXajZvdVRNZVZTaUNxbVZlaU53LWFxeEd6OUM0QS1CUXBWTFh5WTczcEM4WTc4VF9HSlhYa3B1U1J1aGZqWmpTWVhacGNnLUJURDdHT2hscVhoamc?oc=5",
       "ts": 1793976529000,
-      "sentiment": 0.0,
-      "tags": []
-    },
-    {
-      "title": "Parte del negocio de las margarinas en Ecuador cambia de manos",
-      "source": "Diario La Hora",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUnVzS1hEcUxKS2Z4Q0k1U194M1ZkY0VwOXlMN1ZYQjVQMDY3N2ozM1Z1RmtGYkpGNVBabXBZNHFObGN5emg1OG9iSnh1VzM3aUNqMXpqTEJ4SFc3MjRNOXBhVkhNQmNPazVzMEt5bDNjbzROLU9KSmd6YXBFc0hROGh2b000cmk1dmJnNFBDMUNYNkgtR082eTJiZ1VUUE41Q1Fya0M4dUVHWEo3cWZOdnlTZXc5U1U?oc=5",
-      "ts": 1793809420000,
       "sentiment": 0.0,
       "tags": []
     },
@@ -1637,6 +1647,21 @@
           "name": "Riesgo país (EMBI)",
           "pct": null,
           "dir": -1
+        }
+      ]
+    },
+    {
+      "title": "Banco de Machala coloca 15 millones de dólares en Bolsa para impulsar sectores productivos",
+      "source": "El Comercio",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbUxmS3pGWjFzanlZM093WDBUUDUtbUxuYVIzZkREcWlTeEYzUUl0UlV4VHVpNTgzTHlJUEtKejA4bDlHNVBhVW9Kcm8wOFcxM0hoTzdrUFNLZl9DdG84Zl9ONnBaYkE5bER6dmc5WC1JNlhwRmdXVmVTTmxUNS1fbjhoazQ3RjZpaHBMeWxIYkNtNGE3bF9yenpQRFdsVFVVTnhZcUZ3ZVhLamxYLU92bXVUS3hLS0k4U3c?oc=5",
+      "ts": 1790838000000,
+      "sentiment": 0.0,
+      "tags": [
+        {
+          "sym": "USD/MACRO",
+          "name": "Macro / dólar",
+          "pct": null,
+          "dir": 1
         }
       ]
     }

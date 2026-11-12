@@ -1,15 +1,53 @@
 {
-  "updated": "2026-11-12T12:22:22.204696+00:00",
+  "updated": "2026-11-12T20:09:29.230025+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
         {
-          "title": "¿Qué pasaría con las acciones de NVIDIA si despiden a su CEO? Esto advierte la historia",
-          "source": "BeInCrypto",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsSjd1bER4TEVpWDYzMm5oUEhfTnlaZXBNR1E0dWhwV0k2Y3VaZG11NGJYZmRGTm1Ucm42ejEzdTViaWhWSWIwRHBsby1oclI0c3JhOU5IVUpJVXgzOWdzQ0xNX2p4cFd5RUpraTBheXN0S002UTJvSDdLcGpaZDQ?oc=5",
-          "ts": 1794485444000,
+          "title": "Los inversores particulares frenan la caída de las acciones de Nvidia",
+          "source": "TradingView",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13Q2FwSktIQ3U1THdXamJ6QjN4UWpKSFYxZnZiZmpEUkE4X3EwTWl1bHhwODhucE1sT3VLZWoxQUgtemR6YzJOZkJhWVBzbTdSQ3J4UEZTWmhmZEc5X3N4VHhvN2EyRW1aQjRzLVFhWXRWMVY2dks4?oc=5",
+          "ts": 1794513270000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": -3.6,
+              "dir": -1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Wall Street repunta mientras caída de Nvidia impulsa rotación",
+          "source": "Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTHBQS2tKWXJYb1p2V2FNOFBIb0UyY2k1REtUM0RFM2loYWkxN1ZQV2tuV3BPWEM2WVdwN3FpZ3pBbU96SkVPMXVaWjlMV0NqN29rVzFYa3dYQVkxMkxxV3FqZ0lBYmJ5RmEyeG9CWTVzeGlNUjg4bk84TW9wRE9FRzNic2NSemkwNnB4Wm0xSDlNZFRmZnJlMlBRRUNSOXJ6c2lpdXpjNjY4Z20tT0VqcndHZTBwQ3p3Q0Zj?oc=5",
+          "ts": 1794508040000,
+          "sentiment": 0.25,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 2.7,
+              "dir": 1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Acciones de Nvidia sufren una fuerte caída de 7,45% en Wall Street tras confirmarse la dimisión del cofundador, Jensen Huang",
+          "source": "NTN24",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQQVRKamtLeTZzLUdBbzFKLS0wSk5rQkk1LUtaaUk5NVBnZ0Jfa09ZNmVDRkRXTlY4bUtySVJGdk9jLUcyT3J3Z3dZclQxQkxJVmo2bDlxamcyb0NtY0xoS2NKWXdFai1Hb1pRcVVhVG9VV0xKVHRaOUpLbFRKLUM2NFJiVWpEQzRVbWlQdV8wS2JIUzhod3FRME9Fc0xQc3VnNWZWOU54YVFzMWR1bFd3LXpyaTUzNGdRT3ptQ0psZTZUN1czS3dKR0hybTN4TXNZX3l0VzMzN2VHMDlzZU1uYWJkNkFYa1JnUkYzYW01bEtKeXJrYlotUm02Q3RFNzI10gGAAkFVX3lxTE40QTZMa3lzdlljT0FUU28tRFZPTVlENnh4R1ZjWmY4WmlWOG1XbnAtd1ZKRGszamJodnJ4WldVenhFSUpIR05yaVVncTVjNjhDdG42VUNBXzVxR0RtS3U3Z3BlSFNraURIRkkyU1hQbkVQZFpRMmhLaGg1bjV4SUxvRHI2SEY0MGR0aHRiMl90MFlzXzdMX0s4bEd6V2xGMnZlNW1RTkpFRk01cU1ia1k2eUg3N1dlNEs0M0RuSjB2OWsxN0NnemxWZ2Z1ZDVLS25ZUlRJSDR4ck1KRGU3Tzh4ME8yZ1NSbVJOVlREMENPUUVZeEhzRXNwVkpBUWRZaWM?oc=5",
+          "ts": 1794507737000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -17,111 +55,21 @@
               "name": "NVIDIA",
               "pct": 1.8,
               "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Nvidia ultima destitución de su CEO tras revelación de nueva relación extramarital y desplome de las acciones de la compañía",
-          "source": "La Tercera",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNU50ZVRoeHNCLV95UWFXclprLUtKeU1FY0Z0N2Z1dmJLcFFiblVHSGlzVVg0cjl6WGhISjdGWm1LR2IwZ19IMklvQ0JhQVZzREJrelJRa2M2ZlJNeXo0c0dXdXlqN1BUc0U5RnVWUzk4TGtVRkU1UVdBS3JxQmx4RmlpUlNONk0xdWY2bmpfUGFMRWtfUHJpenlXTnhOSGwxSjh6Ymw4dDJRcGJaTzVKOTdjWW90RHRfeWhvdXJ6UzRZTlFXZWxfZ2J1djR0UHlPT3VJcklBUmZhVXlKUjd5SlJWREktSUVGVkkwbFNDY1VERjZ1dERpTNIBmgJBVV95cUxPT0IxcDAxRUt0Nlhob0NzNEFqTV9MXzJhcm5qYk1FY01iYUpaZ3FZVWY3Y3BZOHNmLWV0cVE2ZjYtM25yY08ySGp1THVfTF8xM1kwNS1fSklYMUZjQlZsUmdoeWl1NjNTbko4MTVFbHAzWDR2d1drZUZmU0dzVHRkMnRyd3E2S1BGRHdSV3RiVVg0TGJKanFsRVZTVGFPZVEzRHU3OEtjYjN6a1ByUmJ2Q2c1WGtmR2E4VkpVU3VjWUlrejI3Z0pNM1hpYjBFcURLOGlHcFFNd3BOYWlLWm1XdFZzMkcyajQwSkdtTGY4b0RCYkJEVWd3ZkUtb2lBajI4b1VGNmtfNWxiZFF2YVV5eXM2YW0zSmFnV3c?oc=5",
-          "ts": 1794485293000,
-          "sentiment": -0.5,
-          "tickers": [
+            },
             {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": -3.6,
-              "dir": -1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Acciones de Nvidia caen más de 8% fuera de horario ante una posible salida de Huang",
-          "source": "Finanzas Digital",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMndJNXZSVVNWUUdDb0NYUFVMR0ZydVBQTGNpczduQzF1Y1pHNThselIyZlhaazE4bDYwV2pwR2tMVGVpa0plOWVWTnJTeEIzc0RKQ2cweWZQOVBMZ001VzRfTjYzSzFoTzJGSVBVVkpLLUNFNFlGOGZDWGFfajhCajcyYzdnZjBHM1BNNXNhbUVSM1l5OHZGYk5kcmFqTUFtTjJOTHowaU9DanM?oc=5",
-          "ts": 1794483462000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": -3.6,
-              "dir": -1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Fuerte caída de las acciones de Nvidia por el escándalo de Jensen Huang",
-          "source": "Mendoza Post",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSlEtbnJLS1c5SDJnXzk1ZVl4WVB6cmY4MlQwa0p1QnJCN3pQYTR0NG1OTS1MUzNFaDAwVXFlNlVGd3VwMnBPWVl0MzduZlZ6bzVMOHJiTnEyY09GSjVNZVQxWTdzT1NNYWpBc1dETGZQSmZzMHY2UVNRRzhCZ3lxSmhjdEhiWHMzRUhFeHBlUUpSV0Z4WnkyeDBmM2jSAZwBQVVfeXFMUEpRLW5yS0tXOUgyZ185NWVZeFlQenJmODJUMGtKdUJyQjd6UGE0dDRtTk0tTFMzRWgwMFVxZTZVRnd1cDJwT1lZdDM3bmZWem81TDhyYk5xMmNPRko1TWVUMVk3c09TTWFqQXNXRExmUEpmczB2NlFTUUc4Qmd5cUpoY3RIYlhzM0VIRXhwZVFKUldGeFp5MngwZjNo?oc=5",
-          "ts": 1794483145000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.7,
               "dir": 1
             }
           ],
           "category": "tech"
         },
         {
-          "title": "Infidelidad de Jensen Huang golpea a Nvidia: acciones caen ante posible destitución del icónico CEO",
-          "source": "BioBioChile",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNS256a1pLYjVBQ2ZEc1RtVEQycGVfV0hzenFLN2hiNDZrNFhxTFZvdFFQVmNOYjRqNW8tdVgxUUlYM3I3X3NyNGJ0LXpWQk9mWG9qYXhMLW4wUVpMUmcwYkozZGRnNmN0Ty1mQ2paS1JjSlM4WmQzN3pQWjFNNV9ReGRpOTgyWjhlbnBtZXhETHVoRzhZUFc1N3pid19hNE5MV1h0MG8xMGR1SExDbkdCakR3X28wbTlyQ1V0dDczaF9ydnFIczV4ZHpBS1hLNlRmYTlMSXNhTTNqWERNSVlMbTUtaGtHOVkwT0Y5TTE0WDY1TUsyb3Y3SGF1RjdOZkxiTUE1SW5HYTVWZGF5?oc=5",
-          "ts": 1794482773000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": -3.6,
-              "dir": -1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Acciones de Nvidia caen 7% mientras el consejo evalúa el futuro de Jensen Huang como director general",
-          "source": "Revista ADVFN",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZzFJSXZ5Y01XbURsbWM5MFFCTl9xLVFkUm0wRFRWZURuRzJDVDFQWl84TUJfSU11eHhVWHcxdmpzTHZpWmliUzFyTjNxNWlNa3NrZHRKWlFiWWNVQTRfbDVZUWRCc2NQbEVFOGctaENRTG5wWjFzRXRoamxtbHQxSDk2Uk01U0piZTlaT3RZMGV3djd2R1RIQXIydU8tb3pHQktaTWltSnpDdENXOEtkWGZGTzZidzBJSVZlZ2tYRG9YM0MzVG5ka2o0bkVGY2dlZWRHNEYwM3lHRjR5dkJVXzFZdHNfZmJ4MnA4?oc=5",
-          "ts": 1794482090000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": -3.6,
-              "dir": -1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Las acciones de Nvidia caen 10% tras segundo informe sobre el caso Jensen Huang: ¿dejará de ser CEO?",
-          "source": "BeInCrypto",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa0JlV3hWU1Vwa2ktanpJeUVzeVo1VVpEX0FNaC1ha0YyQ0tVQ09VRmNWbGNYMVBLM1RlSnBOc3dQelRwbkdVYUIwN3ctVHVsUHlBV19qb2tqQ3JiLW9VQ25QbkVCTmJSelV1NGRXX0d0RVFIZDlsTU5mV3hOemNNYkVFM3djUQ?oc=5",
-          "ts": 1794480750000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": -3.6,
-              "dir": -1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Acciones europeas marcan máximos históricos pese al impacto de Nvidia",
-          "source": "Investing.com México - Finanzas, Bolsa y Forex",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaHlydWc3RHNpbDc0VTh0b19KZ0JadlpkNFJMT1daVEdXdzR5M1UxeHRGbEFKeUxhMmlRZmJ4MXJ4Q2VuOXlSMHowcGNDWTJ0OV9zVnEyV1cxT3Z2REtKUUltOW9ieXkzMjEzU2w5Q0NjVkwzX2RyYl9FNnBZWWpFMHBfNDluMXQ2a2x6bnBDTGpJQnkwR3Z1cG5TVHhkUFB3LWJLbVAwemFPYnVsQ2pYMGJ0bmd5RThj?oc=5",
-          "ts": 1794479540000,
+          "title": "S&P 500 y Nasdaq: acciones tecnológicas rebotan mientras rivales de Nvidia, AMD y Broadcom suben",
+          "source": "FXEmpire",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYzQ1VTBsVVRUdklCamlHdjVfLTc0M2szSVRoN29iMmlVdHNxQUlsUWhHb3RCd05SYkc0YV8yenJSWThybnFYdFo5SWhyT0Z1YWFYMnJqNmctVWdFQkFiVXRSbXVfcnREN0R1SjdXX2taY1N6SDVKS3l6N0x2cGJNRHVFTk1melhIWmdOOGRNNVBiVm44eFdSSGU2aFZhUkRaOFF6UUF0WGNfX1NnTnhPSFNfV2NFakJkMmVmWWdHY3ZmRU0wUUdTMk05NEtDcWt0T1hUU3RkakdudUVOV0dz?oc=5",
+          "ts": 1794506065000,
           "sentiment": 0.5,
           "tickers": [
             {
@@ -129,15 +77,65 @@
               "name": "NVIDIA",
               "pct": 3.6,
               "dir": 1
+            },
+            {
+              "sym": "AMD",
+              "name": "AMD",
+              "pct": 3.4,
+              "dir": 1
+            },
+            {
+              "sym": "AVGO",
+              "name": "Broadcom",
+              "pct": 2.6,
+              "dir": 1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 1.3,
+              "dir": 1
             }
           ],
           "category": "tech"
         },
         {
-          "title": "Acciones asiáticas caen por turbulencia en Nvidia; chipmakers chinos suben",
-          "source": "Investing.com México - Finanzas, Bolsa y Forex",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcmhWVm5EM0VjTy1uRWdmVTBkM3RwRXpYR2dfeFJhZGVtc2o0dHZ4WEhNaUtSTTdzcDB3RjJlLXpsNzVOOGQ0M0lwek01MFhhanJFaWhlSGNjODhyYnZNYzQ4anRhclNoQU5MVEZNV2p1V3dMVXZvaWt4Wk5oLUV4RkRhVnJlaGhTU1A4UlZyLUtrTUlmdEE5eHp4WjBYeGRxLV96T3lxa0hWVWlmQ1lac3gwYjdhbFlIQjJ2Qy1TOHNQT1FkOHFvUzdFeUJUQQ?oc=5",
-          "ts": 1794478050000,
+          "title": "Las acciones de Apple alcanzan un nuevo máximo histórico: la lógica de la prima de valor refugio de la IA detrás de un PER de 37x",
+          "source": "TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTXNxYmlUQmlBSGZPOFVPWlFDNjh0WkQ4RUxRX3A5NXl4SXZ0aExWX0pYd2hHcWFuUWpLX290eVZzWGdEOHZSenE1SFdVNWl1eFZ0VFZUQmprSEF3dXR2YUtnc2F5NFE2R21vZzRYMVUyNlRFWFdLdmFET3VJbTl0V1RHMC1FaGJDSVhpSloyZFdOYVN3ak14SmttN0djVXRFTVdkTFRvMkphWk5sTURuZGJWQUVoelEyRzkzaVQ5M1NiQ3d2VmxrUmxHSTNWVmdhNkRUVEZlekhNZw?oc=5",
+          "ts": 1794504325000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 1.6,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Nvidia pierde hasta 600,000 mdd en valor de mercado tras la salida de Jensen Huang",
+          "source": "EL CEO",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUHRkeXU2Nk5EcmtBTlhiRU9mcmdGMUNZY3JfUlRjX01Dem9lUDM2MDNYYlNVRDJmdkdvSEZKeDFkaE1kOWlTcnlnenN2VzNYdHdQODZLOHJDTGRaZFVETEs5M0xkVXFhWnhmQ3QwR09hSmtzOG9UUEJQdWQwUVk3cWhHTGp4YVRLRkxZQw?oc=5",
+          "ts": 1794504233000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": -3.6,
+              "dir": -1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Acciones de Nvidia se desploman tras salida de Jensen Huang, ¿qué dicen los analistas?",
+          "source": "Gestión",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTGRMWnNfVzZVb2F4OWYwRTJhcE9OX1VfaVctaTZaNTNQR1BzeUw5Ujd4YU43bFBGRklES2Jsdjhtd0UxS3QySDBNSXp2YUk1Wl80Zk9NLTVtanZSa0kzQlI0ck5ZLVJRVTJKb2xYV0V6Z2pKQzJpY3V6S2FhXzF6X0pZZWVFdmM3MGFSUGluNDFUTW05b3lvNUtWbGd2WFFocmxtN1RjU0JSTjktOGdmNHJtelJYM2lpQXVV?oc=5",
+          "ts": 1794504189000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -150,10 +148,32 @@
           "category": "tech"
         },
         {
-          "title": "¿Por qué caen hoy las acciones de NVIDIA?",
-          "source": "Investing.com España",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVkswcnBLSEYtS3c2b0x0WnozeTZaUG5uTTViQXhfMXVoUUNHeVhxU09GcDF1OVJyQXFiZWJhNXJ4dDNtSmJONDdKTnJlWlRJRWtFMWZ2SERoLWdvLVpBZVBLRmZoT1NPVllSYXA5RmRUdzU2dU5kUFZIclFUenNldnM2RWo1b3B1OU4wSlJTRzlEem02RXhwQmY1clM4X0psLVE?oc=5",
-          "ts": 1794477120000,
+          "title": "Las acciones de Nvidia se desplomaron un 8% en Wall Street tras la salida de Jensen Huang",
+          "source": "Canal Doce Misiones",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcFZjeDJsdGtMQ2w1Q0RlLUhrekFyWlJ2bWQtaEVEdXk4V2VkNHVXQlc1cjJYSjFXYVdtSEhRcy03Rlh5YUNlNmpqcU1SLXRRV1lpMTBQYk5DdzZ4SFJ3MGN3X01OSzA2NFFWMktyY3FhZUowT1E3MkFTOTlFTFRNTUJvb2tqSzRiV1h6X1NYbjVXa2txdVoxRVZ1UEpPWXp1SFExMDFPeUFkeE4y?oc=5",
+          "ts": 1794503873000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Renuncia de Jensen Huang desploma acciones de Nvidia",
+          "source": "IT Masters Mag",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSjYyN1p5R2o1WWFRWW1RTGZfaF80ZV8tU2pNbGZ1cU53eVVFdkpQOWRSX1NqYlBBblpzbUJ4VjZObktjUE16N3RYVjZMZDdncHVNMEROZ3doRHgybmlxam5nc1RnMmY0d0xpNjBVQV9HYUJfWUpRb1NGVUFyNlQza0hTWi05d1ZWcERKX2w4T1V3WFZ3NFVlaEFzSQ?oc=5",
+          "ts": 1794503319000,
           "sentiment": -0.5,
           "tickers": [
             {
@@ -161,6 +181,28 @@
               "name": "NVIDIA",
               "pct": -3.6,
               "dir": -1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Acciones de Nvidia se desploman mientras que fabricantes de chips rivales suben tras la dimisión de Jensen Huang",
+          "source": "Forbes México",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVnR5d3FabHpSQ2huMnZhRzR4clVMbnpaRnVEZzRfbTIwLXJPZloxOEpuZFo5RXFFYTh3dGJJdGFocm1CWElHWFFUVE51LS12YThKTFhsQ0xpMWg3aWJMMkhWelprVjFTYzlXeHpiVk1JRVB0cWRyb21WOUQxTl9SMkR1WC1maGstaVEtdTh0Yll6akZTbXZvTVQ5Z2llTWswODZiNWRyLVllNWpOSnlEaFdOaTFwZGY5Sm1pV3hvdW03aEhyZkFPSVR3Q3k1WXVS?oc=5",
+          "ts": 1794503220000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 3.6,
+              "dir": 1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 2.0,
+              "dir": 1
             }
           ],
           "category": "tech"
@@ -172,48 +214,70 @@
       "label": "Semiconductores / IA",
       "items": [
         {
-          "title": "China acelera la búsqueda de chips Nvidia ante el temor de nuevas restricciones de Estados Unidos",
-          "source": "inteligenciaargentina.ar",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVGFhaFZMVVNlQVBMQjgyUEJpNmY5aDAzOFJoN1VLcTNuaWJUT1dVQ0NTQU9xTUpmRkFMNTdyczI5TktSdTFYV1YtX0ZQZWFmRXpzYy0zYUhkRENKazJWQ3NjRURZZnhnRjQxb0Zsa1lDNWhSOTFNNUFIbGQzSDJ3YXVOTGN3T1ZUUGlhS2xObF9sZEkxN0JnY1l4YnRwLXF0SXNHNWgteWFDTFVCTFZmOGhtQU5rX0xhMEJWOHFQOW5CeGQtT2MzWU5JS2lBams4dHFNbXZEOHRSN0wyMkF0dEF3c0ItZjBMNGc?oc=5",
-          "ts": 1794485678000,
-          "sentiment": -0.5,
+          "title": "Es probable que se impongan más restricciones a venta chips IA a China tras dimisión CEO Nvidia",
+          "source": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR3hhSVM3djUzalhwRWpJVzBPc203Szdlc3VkLTNmLS1nSThEMUZtU2lDaE9hT1NIa1ZyLWtyVlRPQXBwVWsxbDNuLVBMTnZFZmZoTmFsQUJEa21FaElXVmxrSnVpMm9RSGZvclNpbS1qQXZ6TExYRno4ZEVneWRyNldWdEV6c3F2NGxxTWFKTnp1VVp2Rjhod05TaUw?oc=5",
+          "ts": 1794511815000,
+          "sentiment": 0.0,
           "tickers": [
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": -3.6,
-              "dir": -1
+              "pct": 1.8,
+              "dir": 1
             }
           ],
           "category": "semis"
         },
         {
-          "title": "Meta, Google y TikTok rechazan una ley que busca o...",
-          "source": "https://inteligenciaargentina.ar/",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNktndURpdl8wVXg1U09lTTdzamV3NUdYTDFWZUduTjFOajlITmhCVVdwbU1YY01JRjNXLWF2ZkV1SkZaejgybWRuS3kwbVhsblN0aDVCcDUtS2hUUi1JbC03aGwwd0xvazJFY01iYmdFdlZQN3VyWEJmSGhacURHaXc5NUVSdUJLNnNrVmI4ZUpvVXVSa2lyTDJLbG9vVlhkLTM3OE92UmVLNTVHa3pROVFNNjNBVFI0blJfS05aU2R2LWpVN2oxODZWYmR5ZF93WXRYeFpteGx4NlFiY2hEOTRSdHFNaldyaHhySnduaEc1VE9PRm5vSm5aYw?oc=5",
-          "ts": 1794485642000,
+          "title": "Quién es Colette Kress, la financiera que toma el mando de Nvidia tras la salida de Huang",
+          "source": "Observatorio Blockchain",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR29UWVRXX3RzN19HRFB1cU5ycVBnX2w3NGstWTRuU1VESWhmUUVRQ1NzZW42WkQ4X1RCdnBIaDhOUVRxTlBhNU91dEd4MXd3R1FaQ2NKYjFoOWg1SHlGOFU5bURBZldlaUhZLUU5ZUR3djhjWDJZV0U2R1hEV1VNbDRxbURPRXRscmJyLTh6TVlQTERtQmVFZzE5WWNrSDJGWEJBMGd6dldoLWFNZkgxVA?oc=5",
+          "ts": 1794511565000,
           "sentiment": 0.0,
           "tickers": [
             {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 1.2,
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Wall Street se recupera en medio del escándalo del CEO de Nvidia y el repunte del petróleo",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSzQzRUJXTjBJclMzSXJMUHlhRGNwZDFjX2lOVWtfT3h5ZUR1eHJqUUZxdm5KZ1lFb0FnWVVJUjNFdDV3MlZndlFzNktfUXl0RHhMZmtoQUh2OGQ0Sjh0ZGl2SXJpalptdnRVZlR5UVFlQXh2d3FkbUhEWnhHX19hT1VqNjB0QWxsN2lPYzMxZGcwbXl3bEpsSFJ4VGV1UG5DRDMyQUs2dFc0dHVSUk9iRlE0bDBwbE5Sd3phdFdVYVNkV2d0cUdQR1hqVEljaG16Yk00OGZkMm7SAfMBQVVfeXFMTXRSRW9OU20tZmowUE9HS3JadkR2R3cyOUlKV285WWV1MG5Qd0VvMVFlZUhqaktPVURZSFFvSVVWZTA2TG1idE9FU0NQUG42dHcxOXVuZWNyZzhsNnhQWVg1LW5acFlRNVVHSDlBX3RjOERUQjdzUnoybEJCNmxVamVCeE5pNkJHTm1yaHdsYi11M0pZQWN5RnhiTEJOaDZ6QjRhUk9hLU51ZnJISTBHQ0VfMUthLUFxUTYyQkI0LXRiZDl2aVktQmhZRTJVclo3b3ktd21lNGxPNDVZeUhBdkROZGZBS2JrZGZla09IOXhkNkE4?oc=5",
+          "ts": 1794510360000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 3.6,
               "dir": 1
             },
             {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 0.9,
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": 2.4,
+              "dir": 1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 1.3,
               "dir": 1
             }
           ],
           "category": "semis"
         },
         {
-          "title": "La pasión derrota al algoritmo de Nvidia y acorrala a Jensen Huang",
-          "source": "Observatorio Blockchain",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQemVBa3oyMGZRbHVNWUpHY2JWTzVuT2FtM3VhbjM0X2JDMVZqMHYteDVwajQzT05xaVNaNW9JVUpmUmttZ2tjQVBua2hSTC1EV25LQnJTaWhqRUlsRE9uYkFfNW9YeFRUclpJcks4eG1MZXdfODRLcGE4NFhiMm1XQWV4RVZ4SWFKSi1BcURZUlpXWDlYczgyZHhMOTlGZjZkcjBpbjJRVGxzQVpqVXJKanRBR2xubE1LT084R1JiV21jNE9z?oc=5",
-          "ts": 1794485385000,
+          "title": "Renuncia CEO de Nvidia Jensen Huang luego que su amorío genera preocupaciones de seguridad nacional",
+          "source": "ABC7 Los Angeles",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM0VfOFkzZlJvNWlNNEVKT3doSmlIQVNoS09KNWtSTVZlVU1vS1JOTnp0WWo3Nkl2YlpGRVk0WncxUjMtM1lERDJLNWpoTHNySGNSenZQYWtIZnc3T194bHNkMHFFc282cWFtRUVFTFFURU5wcmtfRkRkYWJsQ0RudFlfZWtrWGEtWFpBLWtveThKY0RqUlVFOXJITnlqX2VfbnRfYVVYRnFFRGxMZnllRTBWS0h2X3h2SURQT2hsNUZBdkwtXzNtU051ONIB0AFBVV95cUxPZlNqUGxTSDJyTWg4a0xFWmRTU2ZqN2RNbkNzZTk2LVplM050QXJ0b1U3Wjk3WXNZbE93T1pCNE80elhsN0x1VkpfclYxLVBHTi1GT2hDaDdhd1hOVDFJbWpZWjdHbHBOZU50SkpOVm1tWFl1Y1JYbURrbzJxUU00SEl5M3VPN1dlUllGYktXWFYyLTZiNjFmcXRmY212SnhRZXh1MmJobW1hTWdaOHZRMTZQbExmOFVBOVlDU19rem5iaktnTFFJRVRSRHJEY09V?oc=5",
+          "ts": 1794509977000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -226,10 +290,10 @@
           "category": "semis"
         },
         {
-          "title": "De las finanzas a las sospechas de espionaje: ¿quién es Alice Huang, la mujer en el centro del escándalo de Nvidia?",
-          "source": "France 24",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNYVZqcHlSOWhOcFlkS3V0czkyd08wdTZEZk5YeGEyWmMydDNXMnBuVXdYcV9IYmlTTXFJZmNUSnBEZE4tYlN4aG45ZUVlN1lmbGY3cFRzUjVwTWkzZFF6TTZnMFFTWVhHQjRmTmxQdFZfU25QUk0xT2ZLQ0dqVnhtR19EbjllUndPTlN6T0hNRU9nX19EVjZmZU13RlJvNVdqOE1fMDJaaFpRT1k1bFdMZXFnTVJmZEppSi1kaWxwWHdKNzBZc3ZUdUlZNS1TMXlWUDUzZHQ0Vkc0dHl0UDVXMDVIb1J5LXdvOEJzTUNGMFc0RXpWN1BiV0hOLTRUSXNJLWlOd3JDQnJ0QQ?oc=5",
-          "ts": 1794485151000,
+          "title": "Megaspeed responde por el caso Nvidia y sus chips de IA",
+          "source": "Inspenet",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPUmZneVZiYnRlOFlaVmZtRDJMbW9CTk8tVndUSVlmWEFmWHNQcllJUHhjdy1pLUN6Rmo2NFNaTEktNTVHYWtHUTNHRVF3M2ZOdDZBLVduWU80UEs2b0h6ZmNmdC04OVN3ZzNvTkJMYVdSaS1pQTFNWkhOd3VhUQ?oc=5",
+          "ts": 1794509590000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -242,74 +306,64 @@
           "category": "semis"
         },
         {
-          "title": "Megaspeed, empresa clave en el escándalo de Jensen Huang, CEO de Nvidia, prometió cooperar con la investigación de Estados Unidos",
-          "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZU1Ob3ZFTldwNk1WdE5KbzR3M3lab01OUlNzLVdHR19leFI1dmM1Y0RjWVI5VEJzaHg4TW5VWXZzZGR4MjdGZi04S2ZUQWZZWTlsX1p4S2RwLUtKWVRpQXVmcFZwR3l0aklWRDNVaUNaYVgwX3BQM1pYb29lUTJiWUV2dEFXcnBWZmRocVJaS3I0Z1NpcHgtaEZEbmpnMUlDd0tCQkRtQmNCb3YxWVY2THRsbnRRTFlBNDByVEM5a0xCdFpyV2M5TVVPWXhxUVBTYVBMbDBhWkkwNFlmUmUxWENheFRQWnhlVmk5WEhvaGcxVjlQbzNZN0R1S0ozZ2k1X3J2enVCR3bSAaMCQVVfeXFMTjZTTE5FckFKMDhuOUFCcW9yZjFoMmhlSm9NSEVweTdPOXFBQ3VMM1JXUHVONS1lVzFKZmltMkNTTnl5djRESDRwSzFpQUM2SXpXYm5rRXc2TnlqQlpKVWVTRlJfRzdzSnNEWURMNHR3YW1zM28ySkxiNnVOUXpCdGVsUEVoRnd1cm5WV1ZQcTZwLWM3dS1xbUJISTJiYjEzbVhDdTN4YVpMUThCYjdLY18wU3pienhUaE83ci1kSklYMm5VUl9JZlJ3cHlyaFNKb19CcVFtYmt0TXJUVTJJN2NLekJ2Um1zazRSb0ZpOVZ5SlZ5MmNJWHVSTnMtem9wV2JFWHl4emNtYXBEemY3UWJDVC1OaUI1T2JrbkdxaVBEdzBZ?oc=5",
-          "ts": 1794484260000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Los tres israelíes que podrían suceder a Jensen Huang al frente del imperio de inteligencia artificial de Nvidia",
-          "source": "- AJN Agencia de Noticias",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLTZpS3E3NkEtcWpON25tSHFlMU5hRVZjSzB3dWtDUUc5Mms2RWJoUmRwREpFTmZHUTUzak95V3Q1R0RVVTdFNi1OZW5XZHg3UGxFUmtiNmxGQkZhYXI0SFRvUkVNN1dpTHk4bGp3QjVyZUFvZVlxcUZWSUtSQ2NTaWhkd245eXlKbFFtdmMwNnJKcDdzLU9TWS0xMHNaZkVzel9SS252U3QxdExhWW9PR2xoaE0zbUxienJtU1ZGUUVNUi1QRHBJQ2dacVFoT213UFYtckNnYWtaTnloOXpGLXNaVTE?oc=5",
-          "ts": 1794483924000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Megaspeed, la empresa en el centro del escándalo del ejecutivo de Nvidia, promete cooperar con Washington",
-          "source": "El Nuevo Día",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQamEwYXEzS3VDdjNuOWRWb0dlZlJ4RHUwaGxhYmprQzF1dldTWVNsWnh0LWJOZWJXS3lCZGVQLWdVUUNkUFJmYW1TMkZ4VlNHU195UzZGQVJXdm5rQ0dKdUh3NklQSUNaZVJNQ3dDWERmT3JlSFNOM1Z1SDBuY3lpa1lWa1BZZWg0cnEwMmI1UjUxT2lSWU5mQ3prY1dCMHBab0hSSkJzX3hkRjFoR0h6alRPQWdteng4VnBtU0VqWnhGSzYwQnJCeU82WkV6MGQ4bXNOOXJyT2ZRUTdFdE1KdG1sbGQtNTlwX2tPel9VVVhoc3M?oc=5",
-          "ts": 1794482580000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Foxconn aumenta 34% su utilidad trimestral a 77,500 millones de dólares taiwaneses y prevé mayor demanda de inteligencia artificial",
-          "source": "Revista ADVFN",
-          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNQnBwdmVVN3BsV0RBenQya3FkRFNqdTBQTVc4eFJyVGNZUnd4eUh2WWYybV8yM3ZndWdnLUZsdnZVY29TX2hlbnlNR3ZtdjJOcDdfS0JTZWJOWVp3TkVEbDVwbXVGUnJfenNTX0tMUS1HMWtZRUVxNWhtMXNkSlJLU3M3ZERmYUVqTkhySnRNSnctdzhJWE1VVzNPajg1bTdoMi1VQmJubDFURzNvVDBqTE5wR1lmalI4RW1wNjZRaXo0NzJFWEtsMUt3REF2cERRdWxlWjJXc2xXTkFERFJaeDRlb2QzakVubHV5VlhZb3VJMWJvMnZDQXpzWS1lelNwU2VNM3UzQWNJOVc4S1J4aVV3?oc=5",
-          "ts": 1794482090000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": -2.0,
-              "dir": -1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "El ajuste en la inteligencia artificial da mejores condiciones a los inversores en convertibles",
+          "title": "Es probable que se endurezcan las restricciones a la venta de chips de inteligencia artificial a China tras la dimisión del consejero delegado de Nvidia",
           "source": "MarketScreener España",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWG5uZ2RzOUZlS3laTlN4NnNWeU9KMEhaVlotXzNqX1FOdEZQeXhyakQwQXF3ZEljYzVRRVdzZnBxSXJSX3FWOXRzejBZaUVXSF82cGJ1MDQyeGhrU2JMT09YWk1qWTFKNFBkOXhJRS03V3EwalRwS2YyY2NmaHpzc3ZpbkpCMjdxQ1JaM25wSDhWb1VBYnJmc05ydFBNc0F2LTBLNFVSMHd3WjJXbDlqVHFRUUZwMTRlMDY2bmhkTVdfTTNxWlV6YWxfUFVKVk8yWkNSTW5TSm5Id1pJSkJCODQ2czdpdw?oc=5",
-          "ts": 1794481421000,
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYkVhMHhVZ2lzeVJaM1FHMWpRSlNtSVE2dERMdzJ5OFA4X0RUWHVwblctLVVmQUQyVHBmX0hJUTNyUHBQbTk5T0ZybmdSRU5lOFEtVHh0MDhyck1MR3ZUQU9ZeHlNVGlNdkdHZ2V3UmdsUld6cjRwbUE0Mk9qZVZnV29FSlE2NzNmR28xYk5HLWVtT2E5MUJ4dW1GWFo2Rzk2TUM1QnpsWEFqeU9qN2NuZWVOTFRBTWpGam82NWc2RFpIQkVuMFJ4ODI2REEwSl90Z09qdVF3T1ZyaFJXT2RIYm1MUlRESjVtUllYcA?oc=5",
+          "ts": 1794509178000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Economía - Jensen Huang renuncia a Nvidia y sacude los mercados en plena carrera de la IA",
+          "source": "France 24",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ25iMDlDM0R0aS1jR1pGdkY0TWhTbXJaLXlUby1VbW80UTkweHFGbE4xSmJLejRSN3NQS3Q1LXhYZXEtUHVvM3VRYlFkdWFCVWtYOE1CbXl4ckZRQjhVR0xFaGpyc2w3RWJ1QzU5WFF2U3ZwTjJwOGpKbUdDRmZCbGQ2d1gtYzJWX0J3UjlJQW43WEhvOGN2MTFaWk9lS09VTjZaUFUxdGZpMTNIVGgtNEtncnYxX0VPS096SGdhdkxaU0J4VktjakVGU1ZpYnlsMl9jMFJB?oc=5",
+          "ts": 1794508339000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Elon Musk podría incorporar a Jensen Huang a una de sus empresas tras su salida de Nvidia: “Sería un honor”",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX0RxQUR5cDRVQS02dk4wSlpyd3lYN2ZEQlZDek5YOGZNSkdnZXpRWmVfSFFaVVR3dUVmUE9FNFJyS3hjNkNjV1dEbFZuYnFNd2daUnJBMU0yM01uU2IxVjhzMDBEYVE3U3I2N3VwbWxxNk81dTZmbGNVaFdMNUJXZ2VDSG1yelBBMnd3TlNwUUtHOXZYLW1ZdUZ2OEFYb2E4LXVOemtOeUVIVGJ5Q09renFCd0d5bWFyT3NYVGVNT0NjenBySEVoRWtHbm51SFh3WXVsc2J4LTVENVVUanBN?oc=5",
+          "ts": 1794508080000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "TSLA",
+              "name": "Tesla",
+              "pct": 1.9,
+              "dir": 1
+            },
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "México recibirá US$250 millones para impulsar producción de tecnología e inteligencia artificial",
+          "source": "Rumbo Minero",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPenB6eE5BSXlzN3NfTlhubFhCNExRSlZzTVVXN0NVc3hXZWVNdzRZOVJ2RHlZbTJkd1hBMGZROC11ZDVBV2c0bnhUTmpGd3VoMzhnUE15NHZwMzA0Tkk2XzBZSnFBR2J3SUE0RTQ3czdGU2JuR21lTWR2bEphUm03Nnhac2VDQ1V5RVdhZ3RPMWY5eVNEeTlRb3g1TU91cHB4Z09VYm9IUkFKVzVEanR1Z09SWnZOQUNJZ0JOcmpUdmIwYW9WMEw0UFpjZw?oc=5",
+          "ts": 1794507988000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -322,16 +376,16 @@
           "category": "semis"
         },
         {
-          "title": "Las empresas chinas buscan reservar chips de Nvidia fuera del país ante posibles controles de Washington",
-          "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTHVUcXRiN0FxaWZqd3NxRTUtUWRsY2lLSC0tUVVWb1A2MU1lZ0lpbjNoVXpOYWZvRUtSQ2lFVGNwZExjSWFZU1MxR3pENmduTzlFdXJPUzFHVzJnblBCdVRnOUR2MEZYdTEzb3ZGc2pJV1N0U0Z2WDNVNUlqNWRPVnNvRHRVMm5uczdvNWg4dlhWcldZa216YWFBdDNiNTVqZEhZZEtZVEw5TzFsR3dDVjhZekdUYUZfR3ZBbGxEeDFRc2tjYkpnY3ROV2cxbTVUWVlfMVVubVc0dFZlM3FR0gH6AUFVX3lxTFBqWEdicmo0UFdVc25LU1BidXp5NnhmNkxOazMzNWYtSnJCV2ZqTld2aWJTbENoME8tXzd0Tmh6RWpndnJxcnZVeWlxTThBME9aMUJjQ1Vfc0taeEZlcFhhT1BKeWEwMDd5bXNmaWxlYTBuelRyLU16b25rNlhSN3Ntd2tETHc2TkR5cUU2cFBfU3JKR29VYUQ5cDJnTXZWZVN0b0ZtYjRJYm9yN2p5SlllU0RFbFBRNW5lNVBraEZibEp2N1pBX2Z3V3RzQVMyWDFHR0RPaGkyWVFLdzVoaGZDWm1EMl9VV29jeTNKb0xUZER1bjlwY2lBOGc?oc=5",
-          "ts": 1794481380000,
+          "title": "OpenAI, Google y Anthropic, demandadas para frenar el desarrollo de la inteligencia artificial más avanzada",
+          "source": "MarketScreener España",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUXpYUTd2aEFDY05CYm81cnI0T2lRaFpJdTdJM0Q3UW1nVW81aVhocEEzeHdpVm5ORVVsS0xiOE9pYnNfT1BfNEpSTEJzSjhhbHI3QnRyYTM4YW8ydHB5Z3EwX05zWDlaSXR0ZThnVWVlNW1obWkxbEhiVllXU0FFSkpqTXFqYmJlbnBtd3ZOc29neWl1RzJObm9BaTFPbmdjTDBUVTQtX1piUE1zcm1TczNaS0tUSjRMU29LV2c5eDF1MHBMbVhxOVhZMmFic3BMYXQwamZKdF8xeWc2aXdKdDdkVE9kN0lJWnc?oc=5",
+          "ts": 1794507920000,
           "sentiment": 0.0,
           "tickers": [
             {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
+              "sym": "GOOGL",
+              "name": "Alphabet",
+              "pct": 0.9,
               "dir": 1
             }
           ],
@@ -343,22 +397,6 @@
       "key": "space",
       "label": "Satelital / Espacio",
       "items": [
-        {
-          "title": "Cómo Gwynne Shotwell, la mano derecha de Elon Musk, ayudó a convertir a SpaceX en un gigante de las salidas a bolsa",
-          "source": "Clarin.com",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd0lObXo5QnNzWktldzBfejlyaVRqUnI0RDJ5NkdCYXhZcW5DZEl1WXJSeXRhNURpTnJzMzlXNHMyQ2lUQmZjQ0s2a29SYTlaMmdFT3E1dERXS081NFFFbVZHd2Nxdnpoc01kVDRjdmZsczRaaGdvaE9ibm1qZHRUSk5qck45TFNLMXh4N2FSc0ZEb25kMnFzOWoyYjJHTy1OSVYxeHQwZ1BCM0ZoOGp4dHBDcnp1WktzVWJ6MHVaUXNjZU5IbVc5c0hzWnpQVmdyakgzYzhB0gHbAUFVX3lxTE5MTTdadXdiUmdTRXZoR0xkcmMxbU9vbms5emdJQnFaVWRWcnA4cU9vUU1CcWRzWks3MnRfcVhld3FYU01COWpfREt5ZlVqUVdrajl4T1JwT2s5VGVOZXJvR19ZQTZqOEdHaUNMRHNBZUJHY0dKZG5PNG51cm4yUE05M0JhWFdTdU4xaXBza3ItVDRJSUVEVWh2amplS3VhOE9PU0toVjZqNjg5Zm40S2tubTVGQ0NjRWItZEE5WHRwR2xEVURxMzNqNGd3aHJPRFZrck5Dd0x4VUVDUQ?oc=5",
-          "ts": 1794328793000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "TSLA",
-              "name": "Tesla",
-              "pct": 1.3,
-              "dir": 1
-            }
-          ],
-          "category": "space"
-        },
         {
           "title": "Tesla y SpaceX, empresas de Elon Musk, caen en la Bolsa tras la derrota de conservadores en EU",
           "source": "La Jornada",
@@ -520,6 +558,22 @@
             }
           ],
           "category": "space"
+        },
+        {
+          "title": "SpaceX: una salida a bolsa entre las 10 mayores empresas del mundo Meta",
+          "source": "Bankinter",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX0prc0ZNcGZ5ZlhvSzd3OXpLU19CUENtWjJRZXpZLVpabU9EWjFvX1k3SndWNDItQjFlQ1Bna2UxMmo3OTRQZ09aT3RuZ1pBQVZSdlU3X2Jpbnh4ZXJzU2tkZEVTODFPZkNUZ2lVNklHMkltMVBON3E4Z0tjcnJuOWpJbXYzcDRfV185Z0pB?oc=5",
+          "ts": 1781113247000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "META",
+              "name": "Meta",
+              "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "space"
         }
       ]
     },
@@ -662,6 +716,22 @@
       "label": "Petróleo / Energía",
       "items": [
         {
+          "title": "Precios del petróleo caen por mayor producción de crudo",
+          "source": "Inspenet",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11TTA2QXl1ZUFKWU9PTDZNQkhwQW1wMlQta2VfcTZHbmVpMURSSTQ5LWNzVkZGM3JET1R1N3RDSk44RkhCbHRxV0dLeWpFNUxZRFlIMHRoQk9jWXZ3eGpDU2pBOC01bTNjVWJXb2JvTHJNME9rMkd3?oc=5",
+          "ts": 1794489615000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -2.0,
+              "dir": -1
+            }
+          ],
+          "category": "oil"
+        },
+        {
           "title": "Precios del combustible hoy, 12 de noviembre de 2026: El crudo Brent sube, ¿cómo estarán los precios de la gasolina esta tarde?",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUHlWUUdOYldsTGlvNVBpZzRGRERwb01vR09JRmgydjk4ZUUzSjY1Q3VVc2JCeDFYdHV6YXA0RV9xT3JvRkNlR3JwdE1VUFRFZ050a2dRQUNBODBrN2R3bXMyZ05fcHBuXzMyX3hQbG5IcjhHOTZndk0tRXp6YnQwVUpMc2IySnBnRVBIRm80MUhJV0tqYjlkVVRB?oc=5",
@@ -687,7 +757,7 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": -2.0,
+              "pct": -1.7,
               "dir": -1
             }
           ],
@@ -783,7 +853,7 @@
         },
         {
           "title": "Petróleo cae por debajo de 90 dólares, Trump resta importancia a posibilidad de escalada con Irán",
-          "source": "MILENIO",
+          "source": "Milenio",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd3NvWE5OZnN2aGVjTk5pVU8yalVvdXZOdTlZWTB5d1lGMzlWYUt0MVRFdXd0ekNjTXNPZURxel85MnItM21LZjhndVBWWS0xRllDSkVFaFE1N2pTVXgxZzJQQUwySVZ6cXJHRl9NTllhVzNiQ0VtekxCYTFVMF9PblA5NDJibkNRME00OGhVWHhRRF91OUw2cdIBmAFBVV95cUxQWGlUUW96dXByci1aS0RoMkFlQTJLNGdJM2xzS3ZlVlo1S3pJS1d1ZXNfellXT1JNRVJDXzRpWkZDVTZfeHdFY29VN3loaGFka0lmZWpFQk80UHlnWk5iSFpfRkVPSkRCcFR4V1JwYnBJZ3VwaTFQQlhKZk4tdFVYWVVncWZuaXI0N3pPM3c3eFI4bXg3Si1pbA?oc=5",
           "ts": 1794324420000,
           "sentiment": -0.5,
@@ -791,19 +861,19 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": -1.7,
+              "pct": -1.3,
               "dir": -1
             },
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": 1.1,
+              "pct": 0.9,
               "dir": 1
             },
             {
               "sym": "SPY",
               "name": "S&P 500",
-              "pct": -0.7,
+              "pct": -0.6,
               "dir": -1
             }
           ],
@@ -819,19 +889,19 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": -2.0,
+              "pct": -1.5,
               "dir": -1
             },
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": 1.3,
+              "pct": 1.0,
               "dir": 1
             },
             {
               "sym": "SPY",
               "name": "S&P 500",
-              "pct": -0.8,
+              "pct": -0.6,
               "dir": -1
             }
           ],
@@ -842,22 +912,6 @@
           "source": "TradingKey",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWGtPWjlwRjJCR0oxSGJ5cWRFQkZXMEhYazFLNEdYdTFyczhudFBhd0VsSW5XM1JuRnluRzgxbW8wcEpnMjdJc2FpdU1ja1BhNS1zVG03bzBfbGk1bExGMEt6SUtVbzZpeFZSZDZuNHRJTWtTd2Vicm1PSGtObUZNYzZoNUYwZlBDY183R01Mc052NXJBcTdoRUxpanE3Z0hBb3BfcHI0NVpsNUZabkV4eDROS2pIRDhMY3pfRXNPUnQ1XzRSR2UxYmdsNlktQ0JTR1BmZ1NQX3ZhSlpoTHVqaktObXpIakU?oc=5",
           "ts": 1794306171000,
-          "sentiment": -0.67,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": -1.5,
-              "dir": -1
-            }
-          ],
-          "category": "oil"
-        },
-        {
-          "title": "El petróleo sigue en caída este martes 10 de noviembre: el Brent baja a US$ 91,54 y el WTI a US$ 85,79",
-          "source": "Diario Neuquino",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdmdxSjFtWVpGcndoSXQxN0JPM3Q1S0VDTmNWdDgxODRxLTdCbHByX05TeHgwSnkxenI3RHdyblZKNE5WaDU2Rkl3LTNKSlRUd1JiN19oMlMxTVg2SnJka2xqNVlhOEtEWEoxaVliOUlyaHBEdzNCWkhsTEpFekFySERpdmEyU212MFVRZTJwd0hnVGJ5aVRqdVozdmRYa3RkcWVyWG8wX0N3N3dqVGg2S3ZGem84TmJtVllwSllSaGpwX1RvSk84?oc=5",
-          "ts": 1794304889000,
           "sentiment": -0.67,
           "tickers": [
             {
@@ -1044,34 +1098,6 @@
           "category": "war"
         },
         {
-          "title": "¿Cómo afecta la guerra a los mercados de renta variable?",
-          "source": "Funds Society",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM194bUtTSjRUZk80M1NHd1IxcWtmcUNwTmZxNnBpTGVESVVOekI0RXVENzJ1Tk5sMFE4akFmNzdRX2pIdHB3eTJ0NVhyU1VQMlhUdmZHRjRDdElVWDRkX0RGVE9TdEhXVGlEN1ZsRk84OC1TZ3FwcVJpWXNQSVFmaEMwaEhMeHVzbW9RUXVOaVNwQ0RIRV9FZXFWd2RXdjBGdnFxd1YxZTBNa1JQbHFRNg?oc=5",
-          "ts": 1773817200000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 1.3,
-              "dir": 1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.9,
-              "dir": 1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": -0.6,
-              "dir": -1
-            }
-          ],
-          "category": "war"
-        },
-        {
           "title": "Por qué la bolsa USA se mantiene estable durante la guerra en Irán",
           "source": "Morningstar",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRnFUMEpibXAybWx2UEF2eGlxcjdNNE5nY2Q5bmphbGtuQjk1cThuQ19nVVFtRGZFOHhBQ21DMHJrRHEwY3hTYTJaQ18xZE9ERDVPNG9wYkZHYWdOeXdIU0xSYjB1bmsyS3lMTlpSYVRTLTBEZUlrYkNzMWY0TGo5aFBqQWhvdTcxdk4wakhNam55cWRGZDNORmw0OUlIaEhULS1qQVFJUGx4S2s?oc=5",
@@ -1154,6 +1180,34 @@
             }
           ],
           "category": "war"
+        },
+        {
+          "title": "Posibles impactos del conflicto geopolítico en los mercados",
+          "source": "Self Bank",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOHV6azJLZHdDX09LZ0tFMVl4UFBZNGZCMlgwSHpDWHZQSUVEdzBIdzEzb1FNRmRVNzBFc3prYTlQeXI1NjkzNkNHYVlyM2NaTnVZamt5b21qVUZDZGY5N2pNTklCSGJrSzlzRGtqck9oTFVrRDgzVW4wUDRhSFY0LQ?oc=5",
+          "ts": 1772697600000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": 1.3,
+              "dir": 1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 0.9,
+              "dir": 1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": -0.6,
+              "dir": -1
+            }
+          ],
+          "category": "war"
         }
       ]
     },
@@ -1166,6 +1220,22 @@
           "source": "EL CEO",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc2JWbjlBd2I5OHdHVGpmQU4xc1NZXzRxRDlGUlNiT2tRNnFVbTdhZVpQOVo1ZExDM0ZyQTFuc1Q3MTlxOWFVa3c4cFVwdmo3LXUxNGY4WnZtckgzdXR2UEJJNjNmemdSZ0tNZklDdXotYTdGa21XWlZfakstTmpnc0FVd2FiWUxnZzduRw?oc=5",
           "ts": 1794431026000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.6,
+              "dir": 1
+            }
+          ],
+          "category": "macro"
+        },
+        {
+          "title": "Mercados: las acciones argentinas operaron dispares en una jornada con actividad limitada en Wall Street",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd1VPbXBHejBNQ2JQbG9OQzFWWGlvTWpfbE5Fd2xmWjV5VURPM3JWcGZlSkpjbFliQUNPQldTcDN5RzBmWXpPNGhpLVFqTW00OXlpYk0tUHVkbVFGZk82elhzTXQxZVJNekJXUU1HdVV0em5zN0lqXzgyTU1fcUpKVlotLVZOdjVKUGFyb1pLZm9xQnd5OWQxOTd0Y19ZTGRxRzA4ZVd4Z1o0c0hQd3lOQXZPUW9udTluWXl1Xy1INS1XamRzaVNVaTJoMVdLdS1EdkJrWWFwRDdZVTBNSXp1M24wVdIB_gFBVV95cUxPOUt6X1FZN1Biem5tRmZaN3pwaVFseDF6bEdQLXZ0WU1XUGF3RnVld3c5UkZySEJXRUFJa2ZlbmpiUVBFOXNMVjlnUGVSUlp1NGdDTlpuZ2lrUHZiVmF1SldXZm5aWG0tVzJveVEzSDU0NnN2UVVHLUEzeVFvbDh5RHlBN2hLTmJpd2FiNzJKbmoydmpWWWd6NWdvYmRBVlhIOEtxOHB5c3g4SkJ6OGJ0YTJKQTVZa3JIWE1qQ0YwT3ZJNFNoa1JNdTlheGN0aDBQZWJlTGxTbVk1S0k5cC1hTnFhcTdES0RKdVM0OE42VnA2TnBUYXZVMjkyRndjQQ?oc=5",
+          "ts": 1794430906000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -1253,7 +1323,7 @@
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.5,
+              "pct": 0.4,
               "dir": 1
             },
             {
@@ -1275,7 +1345,7 @@
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.9,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -1346,27 +1416,17 @@
             }
           ],
           "category": "macro"
-        },
-        {
-          "title": "Wall Street entra en su trimestre históricamente más fuerte con el Treasury por encima del 5%: ¿qué puede s...",
-          "source": "Estrategias de Inversión",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMFk5SjJwN0VJcHlWV2Rxa0VzbG1ZNHhGV3VnNjJkU0YyMzlCanhKd3ZIclVnc0w3THNfSTAyUjlqQzRzLWdrR0R6eHhNbThZdC02cmNLS3JiaUh4MHdtWTBxWXBZa09CUS1JcnpGdHRmcVB1NFdydmRaUUtqaUJyVm4tSzRTc3otYjhBV01NcENwQkhlZFZaWVh3V1NRZ2twQjFwSW5ZdUtla2k2cXRNbmpHSWNUeWU4WEJUbFpiZjM4UFNJVXfSAaIBQVVfeXFMTzg4XzduT3BlSGhHYVg1ZUExdU1fVE8wWWRRbTVBeFhtTmNCR0VQX0FhMThtdUJsMXF6ME5ERmxfb2FaT1h3V1V0WjZoOE0yMUJWNDJMLVU5T0ZvQ01zMWQ4aDcySE41Mmg3OFFLeVJ5dFVfMUpkMHFQTlM5WC0zT0FNUVlMSzdXVFViQnRCMWJGVm1DZ2N2QTZpWXZyUXdqMG5B?oc=5",
-          "ts": 1791961200000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "QQQ",
-              "name": "Nasdaq 100",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "macro"
         }
       ]
     }
   ],
   "tickerBoard": [
+    {
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 12.0,
+      "n": 19
+    },
     {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
@@ -1374,40 +1434,52 @@
       "n": 22
     },
     {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": 8.7,
-      "n": 9
-    },
-    {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": -6.9,
-      "n": 19
-    },
-    {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 4.8,
-      "n": 12
+      "net": 9.4,
+      "n": 17
+    },
+    {
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": 9.3,
+      "n": 9
     },
     {
       "sym": "SPY",
       "name": "S&P 500",
-      "net": -4.1,
+      "net": -3.8,
       "n": 20
     },
     {
-      "sym": "META",
-      "name": "Meta",
-      "net": 1.2,
+      "sym": "AMD",
+      "name": "AMD",
+      "net": 3.4,
       "n": 1
     },
     {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": -1.0,
+      "net": 3.0,
       "n": 2
+    },
+    {
+      "sym": "AVGO",
+      "name": "Broadcom",
+      "net": 2.6,
+      "n": 1
+    },
+    {
+      "sym": "WTI",
+      "name": "Petróleo WTI",
+      "net": 2.2,
+      "n": 21
+    },
+    {
+      "sym": "AAPL",
+      "name": "Apple",
+      "net": 1.6,
+      "n": 1
     },
     {
       "sym": "GOOGL",
@@ -1416,10 +1488,10 @@
       "n": 1
     },
     {
-      "sym": "WTI",
-      "name": "Petróleo WTI",
-      "net": -0.9,
-      "n": 20
+      "sym": "META",
+      "name": "Meta",
+      "net": 0.7,
+      "n": 1
     },
     {
       "sym": "AMZN",
@@ -1472,7 +1544,7 @@
       "title": "Riesgo país en Latinoamérica comienza noviembre con Venezuela al alza y Argentina y Ecuador lejos de sus mínimos",
       "source": "Bloomberg Línea",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRV9BaDZ5SXdQcHllZldZelNsSTJ0Zmxtb3dTOXkyd3RkM240b1UyeFRpbXBMeDI2YWw0T1NiazVnR0VRNTF5clh0X3ktdFFZd3YyTDcwcVQtUEVtZXhEcWtEUFJkU3dqUG5aMkxLSVc0WHJMa3FDenJaY3RWVUFNTTMwZkNzMktfb1lwaXN0c3JVZFhNaW9kaklzWFBvRndOUDFWM2JFTzlMdVVxWnZZSmduUjJBNUluclE4VjFFMG1MT2wyLTZOdnVmRjBPb1gxbFRkb1ZydW0zcnNFTXBLYng0cHFoUnFw0gH8AUFVX3lxTFBPQTRBeXljOHE3Ql9jdG1TZjJEYjRHcjJGX0lKZ3luZFQ4YmdFRGpHR0ppak5uU1duRk1pbnEwRWJ2YVBsT0R3UTliSGNJNjFqU1JxWkFzVGxBOGtSNnVQd19XTThtT2Nrcmw0eF9HNTJiLWxqdUNjVElwLWd0czF3UUxqcDhQajhRa0oyM2pzQjM1bE05QUdBVFVnREdjcU1EdjBxVXBBRVVMREJ3U3d6ZzZWMFlKWHNuQ1ZUbWFyeHhkbEh0U2I2eDR4eGt0TjVDZnB4SHJudkhYM0JGUlpzMERpSUYzMHpVa0dRUUg2di1ITzNRRWRBVkpIZg?oc=5",
-      "ts": 1793790001000,
+      "ts": 1793779200000,
       "sentiment": 0.5,
       "tags": [
         {
@@ -1487,7 +1559,7 @@
       "title": "Así se movió el riesgo país en América Latina en octubre: fuerte alza en Argentina y Ecuador",
       "source": "Bloomberg Línea",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdXNLNlRmQ0wtNkVXRzBqQnBKYmxjeE9NLWFDSHMzY2djMG5wQTRvMXcxdWx2X2dBOHdMa3lJZkVUdjdTRVFCN3pXem54cW9TUi03UnZOR2VpVkFhdjhQSmdYV3ZyTGRhR1g2ZmtFVEVUUzJaR01Ta2FIcmNxbllMY2NWaXZ6aFRGS1JxM0ZSNndWeUVXME1WcnNjYnBwT1g5TVQyaFg2YzFwaVV6alFpRWVsLVpOVDB3d0ZwR2dhQ1F6SjROT09LLUFKVEJGUVZiVlFyM0xuSdIB6wFBVV95cUxQc2RHdU5CZmpsVlEyVkJydm9Fa2dkUUppTFhMUHY2SmFuU2RQWXd4SEFvTWxsWF9RRkxtVkxYVHZmNW1qbC1SR2QzeXlwWVVIYVQzMzFoOWFaOV94Z3VEcmUzSERybHZwOWNtb3FraFBWTnN0b2dDSy1menRHMHYzNFpWbEhKRlFRcWJOQU5BOXNiNzJ2QTlpWTlRTXRRZ3Q3ZEYxM2k2M0lPNXNGeF8zcUdiS3JfekE3eDBNU3ZORzlvN0RHemJGeVc5VWRMc2hmWjNmMmltbmQ5cVQydlRuNkhfenlBWDRFQVhV?oc=5",
-      "ts": 1793696400000,
+      "ts": 1793692800000,
       "sentiment": 0.67,
       "tags": [
         {
@@ -1497,6 +1569,14 @@
           "dir": -1
         }
       ]
+    },
+    {
+      "title": "Ecuador, entre los países donde tener empleo no significa vivir mejor",
+      "source": "Diario La Hora",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2VSMTJrX0N4ejZwYzZLMXdjVGpmX3F2VWVISWROcmpVWlNFbVRKMl81OWNDbjU5M3JQTjFIT0xINFVMU3RDWlZWY2lEMXFZeWFsYV9rMUdGamg0NTFZWDgzUGI4Z2tjLWtYWjc3ZmJZTVBWbkRsbUZWeFpMbjdNOWZZVlZoWHM2Nk9xWlQxN19ISXdrQ3lJY0RIVWhWV1c2cjJRcW1Za3pKaWU1dW5VeC1lY0REMm5sMlZBdERhZw?oc=5",
+      "ts": 1793170800000,
+      "sentiment": 0.0,
+      "tags": []
     },
     {
       "title": "La estatal Petroecuador reduce sus exportaciones para destinar más petróleo a la refinación local",
@@ -1611,21 +1691,6 @@
       "ts": 1791270000000,
       "sentiment": 0.0,
       "tags": []
-    },
-    {
-      "title": "Así cerró el riesgo país en Latinoamérica en septiembre: fuerte alza en Argentina, Bolivia y Ecuador",
-      "source": "Bloomberg Línea",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMkRvNUhVUkY3OUd6Mzh2U3NQWXRUa0hHZnBxQWh0bXZnWHN6WFoyTjU3M1VGMDRKOERWNzBILVBfQUhqM2RsOWhOZXpOWTRVVHRqLUNQLS1tSkRzX0F3SFE0ejlFV0FPZ21mYmRwRHJoUWp5bVZXaVFyeFNCWlBlWldLN2I0bUNrQ1h5Q2xiOURiWTBEeF9ZMUNkZjhYZ2xXTWhyd2JNejNFTkVYbEhTSmxWZ3RidTJ4RnFPSllRSWxZNTNqOG0zeXc3U3ByQVpsekg4OFUtVGpEWUpM0gHwAUFVX3lxTE1IZlpTUTdrdzZKSzZMQnFJZ2xBRTlBbjM5XzZKdzBiOUpLUnZsVkw5RjhYcWhSYlE4Tml5am9PMDBqMVJyQjJwVHJVbWY5dGNCX3I0NmZTM2xUeTNZNXlKTlNHNWhraEQxQWdwR3BFM2hpWWdXbm1iaGY3U0dKU1pGd3ljemtTVjBVZHZhSjVpRnhEWk1oMlppd3R5VDU0bDNnRU1KVVN0TkY4SF9tbXFmdkF0MXlCNkdITUF1RHlNdEplSXVqNXF2dkxLcTZCRUNvWFNYQzdzdVJVS1lwU25wT0JQcTl6ZjBsQkd6X21EUA?oc=5",
-      "ts": 1790924400000,
-      "sentiment": 0.67,
-      "tags": [
-        {
-          "sym": "RIESGO PAÍS",
-          "name": "Riesgo país (EMBI)",
-          "pct": null,
-          "dir": -1
-        }
-      ]
     }
   ]
 }

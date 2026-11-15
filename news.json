@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T23:24:38.133636+00:00",
+  "updated": "2026-11-15T02:54:23.725461+00:00",
   "categories": [
     {
       "key": "tech",
@@ -9,13 +9,35 @@
           "title": "Alerta de venta para las acciones de Microsoft ante una posible pérdida de 1,2 billones de dólares",
           "source": "Bitfinanzas",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sRFhMdXEzazJYdDY0b1BJMWF1QktEY214QkFBQWhwamNIeWhfRXJ0bV94bEE5WS1CeDNNSlAzYjg1V2pRSkMydm1aZ216MTFiZ2ZHeXdqNzZ2WWJYSUJoOHpFa2FCU3VsSmxBSHJRUl9mR3FJUU1XM3BR?oc=5",
-          "ts": 1794681168000,
+          "ts": 1794702768000,
           "sentiment": 0.0,
           "tickers": [
             {
               "sym": "MSFT",
               "name": "Microsoft",
               "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "AMD experimenta su mayor rally frente a NVIDIA desde 1999: ¿Podrá superar los resultados trimestrales?",
+          "source": "BeInCrypto",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQZDNVX3gxRV9jMVJaLXBaZTFTamFpX24tYkRMRnVtMm1WZ21HNXJUX3R1RmxiWEYzTGlEWmRKLWJvR0dKM3IwdVpZYTNmcnkwUDNYNEEwYUlkaldFNUwyMWItM0NuMHJ1bURwOGFBYzZEemZDUHVUdG9BSm8?oc=5",
+          "ts": 1794690129000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 3.6,
+              "dir": 1
+            },
+            {
+              "sym": "AMD",
+              "name": "AMD",
+              "pct": 3.4,
               "dir": 1
             }
           ],
@@ -114,22 +136,6 @@
           "category": "tech"
         },
         {
-          "title": "La ‘cereza’ del pastel para Nvidia: Perdió 570 millones de dólares por amoríos de Jensen Huang",
-          "source": "El Financiero",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNblVjSGlZR3d3R2tIdkFUbjJnNXBXWjQ0dnRmdkhvQTl5NGlpZEFoeTcyQm4zME5hbGtVQUt6OVBRQzlIeFFWdkgzbFIxeldOcHBrSWl2am9MOVZlemV4WnJ1aEFOTWc3aUNqWVdNYmloN0VzZWlQMVJId2dwdkRHYnhqTGI1Z0swUEJPM0dSUjhUUFJyaGxXR2hrRmI1Tl9SaW1YdERFZU15V0Y5dU5KWGU1UEVBZzRLNWpOald5RnN3SFN6YTRKUWFnSjdaMXVlTXlTX1JfQQ?oc=5",
-          "ts": 1794618540000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": -3.1,
-              "dir": -1
-            }
-          ],
-          "category": "tech"
-        },
-        {
           "title": "Pronóstico del precio de las acciones de Nvidia: Michael Burry afirma que la salida de Jensen Huang podría debilitar el dominio de la cadena de suministro, la acción podría caer a $142",
           "source": "TradingKey",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMEtKblN4U3dRek5KeUVhSmlyaGE1Q25UNU9PS1l1NjVQZlRmOGdGYURzQ0Z6Y3Z3V3NqbHVHeHBiMmdpaUZKeDRHZGFlQ1FXWUFqUzBCUmpVUUthcE1WdXR0S3RrU2FtdTVRVjc4dGpDenpDWUNicy0ycDFBMmxVQWJGZWJHczJRNjNld3Q4Y1dWNVJEQzhzbnU5dURRbGxBNDQ0b1RONG5ZU2gzVEZ5NGZPUzVpbnl5NGRHalNNVXlfM0RUVTNvVHJvbFpWUTU4OFdmTkRkV2t2VV9TOGt4Yk1n?oc=5",
@@ -190,6 +196,54 @@
       "label": "Semiconductores / IA",
       "items": [
         {
+          "title": "Jensen Huang renuncia a Nvidia; Colette Kress es CEO",
+          "source": "El Ecosistema Startup",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQlpfc0lrbmQ2NHNnZDZhZUhXQ1kxdmpRZXRkRTJpOEtBY0NSV1gxTE5aczVka1Vsd1liVmxJY0p1MlJPc1pjcVRxemtmZVZ6eUhsWjdqRnpiRWFlVTJ2cG1VNWFOaHZoOU5ZTExIMjVrTWRQc0FhdkNRMjZIWmlqbkphbl8zSlVtc3c?oc=5",
+          "ts": 1794707490000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Caso de presunto fraude con chips Nvidia en Singapur arrastra a un quinto sospechoso",
+          "source": "IDNFinancials",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLURmZzlmSmE5NTlfNTNiZWNEUDR5S05scDhHbzAzZmV4ZU0zbXptV3B1Ml9LSTZmM3V5LVN2VE95REZMS1lNZmZzeWdZUGNTNjBsMmkzV0NBbWdaTjMtZzhFbkRiOWt0UnRlSm1nYW1iWDBCZmdTdzBNLVUzaFVEdUw1bnlPX004QTNXN1Jtajd0UGV3bDVMUEYzdUowWmdKLXJxMV81Qm1HbklmMHhGTDlIS1B1TzFwdUNqVm1GXzQ1RGpGRVlz?oc=5",
+          "ts": 1794700800000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "El escándalo de Nvidia suma tensión a la carrera entre Estados Unidos y China por el dominio de la IA",
+          "source": "La Nación",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPci1MSEdQc2d5b0VjdGtxZTEya0tKelhBajdSRE5wYWVzY3B0aFBwQzh0NDRmeVpQVTUzYXExMThlQ2tDNTVZOUkzTGRDREJVSVRUU1lZSmpqM0NGN0xWUUl5ODMwaUktbEpwYWpSM25CV19KeEJsYkZhcWZYai1XZllza3Q2bEZiTVY0MFFqbERLOTZCVC1BUjNoYlIzVERWQlZPZ2NOQllKOGJVclZLdW9kZ05kc3hwdWY1eWRZdVFjbVNoa0xmOU8zaUhaeVBDRUNIbzV0TFJCc3RsWVVXLVp2NUxmQXFpLVE?oc=5",
+          "ts": 1794695220000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": -3.6,
+              "dir": -1
+            }
+          ],
+          "category": "semis"
+        },
+        {
           "title": "Allegro, chips de potencia, sube ventas 29% por IA",
           "source": "El Ecosistema Startup",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdHc3RlI1cVpudmNrLWJha1JDcFcxdDJDVDh1Tkh1NVlNRG45ODFiZW5OUWc3ZVk2d05oQUJQU2xpMzJqWkxudmdtU3VJVTNwcnp0QUhXeWNjVXBHTDFzc1NtRC1MNzEySUFtcnRtX0tRM1JMU1o2NzJuSTJfc0d2WVBieXE?oc=5",
@@ -247,7 +301,7 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             }
           ],
@@ -263,7 +317,7 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             }
           ],
@@ -272,30 +326,14 @@
         {
           "title": "Demócratas investigan a Trump por las ventas de chips de Nvidia a China y sus vínculos con la compañía",
           "source": "uy press",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYjJYRWpZZnNpVHVBaVVoaEMzOVZIRHZoaVZ2QXZ1QnlDUktqOWlYQW4wM2JDQ3lpOHRLVGlpVHgyRG5ldHRZWDlaQkZGZ2MzSTVRNFNKcUZfdU9hTlJnVUtFbmpyVkF4V0MxNUQ1WG00NTZHbFpLSGYtVVJvOUJUeFVmMEtfRWctMzlqeWpjRTMzX0NqZFZxNnRaSkJTUmJ2MnpLM3hERFlHMHNWWWpfR2lFN1dVY1pQc1N0YjdVQTE0ZHhRNVJhVWRIek9NMWhzcHJQblE5dzBwYW4yUmJ1eWVVaXktZw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44VFFwcnhsSDRhbGR6YmRTekM0N2szRUxBSENHQ1E5SkpteUJuZEpXNi1aQU5LdEZtaWpUNjhOUFRnQ1NiTEx1VGpsN3ZVNG9u?oc=5",
           "ts": 1794687676000,
           "sentiment": 0.0,
           "tickers": [
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Microsoft asegura que sus servicios se han restablecido por completo después de su apagón global",
-          "source": "Univision",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMmMxZXBraklJd1lYeGNPWERyYnh6SXdPYVdsdlFuODYwb1E4bi1WOGhGU085OXZGWWVCYnR4eW01V2R5MGpRZW10QTBBcHZtaWRYUHdhcnhvZFNjc3dXU25oNEh6WHRHSVduejk0bWg1d0I1UUV2dFRlTnA0czNEZ2xack1LUzZ6WDRQLWdRLU5tcHQ0NUxPM0MyUlZkdXRFdVFNWUduN0JVV0M2cmRoMnQ1b2tmOTVHaUItV0dFTDQ2LW50R20ybjU4bHBOVXJsZWtJ?oc=5",
-          "ts": 1794686845000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "MSFT",
-              "name": "Microsoft",
-              "pct": 0.8,
+              "pct": 1.5,
               "dir": 1
             }
           ],
@@ -311,51 +349,13 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             },
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Nvidia lleva la IA a los robots, pero los márgenes de sus chips también preocupan",
-          "source": "DiarioBitcoin",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZER0eEl4NjBCVGhOVVM0Q0lBSGtfTnFnY3JTRjQ5UVU2OFM5Tm1JVVc5SWN0UjMtc2J3NmZVN09FOU1ybkd4ckJ2TmxzdlF6QkRhZ0ZZQjZwSUJLQ19NakkzMnNJSVlnTEl1Vko4ckZjUVI0UnRMeGxQeW94RDBnUjZFbTZ4UGNRSFVydjZ1clFnZTkwZ0JxdHNrb0ZrbjM5NTJkTFkwMlNHcHRoQ0V4Q1A5bEJ2LUZOYlY2SFhmbw?oc=5",
-          "ts": 1794685185000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Google amplía sus chips de IA y reaviva la presión sobre Nvidia",
-          "source": "DiarioBitcoin",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMmNOZENHZW5SbWFzM0lXWGxQOVhBNFhKb2dKU1NSa0lnNFNuMEZLTXhLbksxc082aG50d00tT3BVbTVxbnA1dFdiaWJQalUycDFFY3Z5VmQwbExKVUtKWnNQNkF4Z2l3c0dva0tuWXhZd0tZTHh2dm9NNU02S1I2cHI3Tk9TVWFxRGRjXzE2SFY1WjBNVkQ0cmhua09LM2ZFWlBHU0psVFM?oc=5",
-          "ts": 1794685185000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            },
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 0.9,
+              "pct": 0.8,
               "dir": 1
             }
           ],
@@ -367,6 +367,22 @@
       "key": "space",
       "label": "Satelital / Espacio",
       "items": [
+        {
+          "title": "Tesla y SpaceX, empresas de Elon Musk, caen en la Bolsa tras la derrota de conservadores en EU",
+          "source": "La Jornada",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQzlfaVlhd3NjalA4bjAtSW1UaXI5OVMwa0VZdjJ3c091WnplcmtGY0U3TnJlM1N5WmhNSkpiZUdmVnY3VE1LSlhFN1c1OTlyYTNFTDU2dTdnRGs4VW9ZWFFBWGRpZ2E4akxNaGZfMlRkT0VCQjNza2JXZDVMaW5NMWhZODFIM2p5SklHTzRhOEdLejRlOW51aE1FeFpPZklUMlFfMnYxTXY0aVV5RXh3R3VNT2hOSXNOLTZlRHVKX1lxVGFNc2NucldLa1lmYUhl?oc=5",
+          "ts": 1793779200000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "TSLA",
+              "name": "Tesla",
+              "pct": -2.1,
+              "dir": -1
+            }
+          ],
+          "category": "space"
+        },
         {
           "title": "Competencia para Elon Musk: la empresa espacial de Jeff Bezos saldrá a cotizar en bolsa, como hizo SpaceX",
           "source": "Ambito",
@@ -540,22 +556,6 @@
             }
           ],
           "category": "space"
-        },
-        {
-          "title": "SpaceX: una salida a bolsa entre las 10 mayores empresas del mundo Meta",
-          "source": "Bankinter",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX0prc0ZNcGZ5ZlhvSzd3OXpLU19CUENtWjJRZXpZLVpabU9EWjFvX1k3SndWNDItQjFlQ1Bna2UxMmo3OTRQZ09aT3RuZ1pBQVZSdlU3X2Jpbnh4ZXJzU2tkZEVTODFPZkNUZ2lVNklHMkltMVBON3E4Z0tjcnJuOWpJbXYzcDRfV185Z0pB?oc=5",
-          "ts": 1781113247000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "space"
         }
       ]
     },
@@ -573,7 +573,7 @@
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -730,6 +730,22 @@
       "label": "Petróleo / Energía",
       "items": [
         {
+          "title": "Precio del crudo Brent: 95,84 $ sábado semana por delante tras segunda pérdida semanal, alcista 98, bajista 91",
+          "source": "FinanceFeeds",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZG14TnphOU9wZVJSS2dQMWRDS2lFTS1wWUZmaXNYNDF1WG1OcjhmZkxFemJIV3hCUVFLU29tSDd0RnBiZVE2aUI5bFRuRlkxa2Zia1dZR0xsZWNQZE1FNUFYUndhRGEtWnkxV3hXZG5TamhHcHJzR0d6a016OEVYMDd0VXk3WGhDMFV5aDZoa29qS1J3QlNKVA?oc=5",
+          "ts": 1794643805000,
+          "sentiment": 0.5,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": 2.0,
+              "dir": 1
+            }
+          ],
+          "category": "oil"
+        },
+        {
           "title": "Precios del combustible hoy, 14 de noviembre: Los precios mundiales del petróleo suben ligeramente, ¿qué ocurre con los precios nacionales?",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaXJPS3Fhand4LV9jd0pUamNCX3c5MWdHNm56cmJiTkpZcmNJQXpkUkRIcHFoWTVFV2FhRUJObDJ0Q3RLM2pFZlFORzhKTnhjQUg3YkRuYlNuY29DcHVhNWtlZUFwSHJ5U3pvNW1kZk5idWtOc2EwY3M0OUsyMTRfNTdENEM5U2t6UDlCbTJrQ1p1WmQ5X2NfbjlXdmY?oc=5",
@@ -739,7 +755,7 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": 2.0,
+              "pct": 1.7,
               "dir": 1
             }
           ],
@@ -771,7 +787,7 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": -1.7,
+              "pct": -1.3,
               "dir": -1
             }
           ],
@@ -862,22 +878,6 @@
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNERkc2VTcE91b1FIV3AtUXo5eVVCXzJwSGJDZWVIQU5PWDJRV1ZhZFZqMmQ5ZEh5SHktbjFmY1NibE5QVmUwSHdPZ0lQd1E4VFpCVTVyZ2xFaVlkRkR2bzRKQVk5QWh2bnY2cHNhYkU2OGViVEVwNGRscFN2Wlp3TnZfM2g2di1XRzJCX21NZWs1VnJ1VUlYLW9SOGE?oc=5",
           "ts": 1794361326000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": -1.3,
-              "dir": -1
-            }
-          ],
-          "category": "oil"
-        },
-        {
-          "title": "¿Por qué caen hoy los precios del petróleo Brent y WTI?",
-          "source": "XTB.com",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcWdvT2t6SFNPUHliU3V2aGFhemZ2UGZRT3F5OUZWcGJmbEwtYVVpNE84SENaUzBlMlFlc2NkS0YxNjFWNmp4djF3V3F1OUd2YlN5OXM2WGdTUmhrR1NzNjdGXzhRY1ZsTDhQaVM3ZUlqQlhWdWRIblJMZU9vdlBTaFZDdmVkNE5BWExZUUhpUi1mMWgzcE12MVctQkJTQWxyUTM5VS1pNEw1cEhZVzJxTE4wQThlLVJw?oc=5",
-          "ts": 1792998000000,
           "sentiment": -0.5,
           "tickers": [
             {
@@ -1191,13 +1191,13 @@
             {
               "sym": "WTI",
               "name": "Petróleo WTI",
-              "pct": 0.8,
+              "pct": 0.7,
               "dir": 1
             },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.5,
+              "pct": 0.4,
               "dir": 1
             }
           ],
@@ -1368,10 +1368,10 @@
           "category": "macro"
         },
         {
-          "title": "Wall Street subió gracias a las tecnológicas y tras la decisión de la Fed de mantener las tasas",
+          "title": "Wall Street subió en la previa a la decisión de la Fed y tras el anuncio de que Anthropic saldrá a la bolsa",
           "source": "Ambito",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNLU5sSVljRC05SVMxa29lbkJ0akpYX1pBTGhtMzJnSmx2VDQ1bC1wMlRyUDdUY0t1NXNERUhhQjhHSEF5NGRYSGZrMlcycW5QLTBBcHl6X0xMajB2ZTBuY3NXR29oeTNPOE1hU21lZFJtd1B3eDFDTlBnaDlvMnJKZXRpTHZBdDhDbU5zRWF3dWpNQ1JpNHhzSXVETkVVTENELWVWaWdoZk5oX1VsQkYyZHpocmdFN2tpLTlYdFdaVHVNMkJ0ZVRRNkQ5MThMUWoyX21jeDlqUDZwcjlfWU8w0gHkAUFVX3lxTE5OUTdRRDJtWVl5OUVwTDZTZXRIejZnR21GbExNanNJNjUwTW9RSHBVUk9zd0FpenBJUXlMUFpEbUkzQlBjVEpFckZ0ZDM1bFo1SkxrQm5hVnJidUpEaW92SzJ3azdMR25jSmpYN3REcHdTdFpxNWROZnFsNnA0WUpaWVlwQm1oTkw2U3NkbU1VMjNNbjZ3RWZ1SjkwMWFLbUF2cHpfdHR1eEtmRjRxTFFoTW1FWUE1Y1BaSml0Xzl0ZlFJVXRoYjJJRHllbG9DcmJpdVhlaUZMRVhIMk13SHhBWHdnRA?oc=5",
-          "ts": 1793170800000,
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNkpJR2k4M2otMHdTSXZSX3lTNjhEMThfWVpZV0NkekVLbTRMajRQYXN5dUJKYy1aV3NoQjkxWXR6UDFjRm5CWDVZQlpsZmZuQXpOSnhrbTdHcnRLN2xZY3VEWFJpVXp1QWFfVS1yV3VSVXphQmpqZUFSN1ZfTV9PT0dud0ExWGN3cUFqLWZ6U2YxUTNmeDIyTUx1elc3Wm5fcTV1amEyeDTSAa4BQVVfeXFMUG1NcjFQWFdYLTJ0MnJQVFNKOTlhVXRWQWZHU3ZFX1hiQkd3YmlqdDBjRUI2LUR0VUdzRTlXRms1Sml3MTVmbW5qZE9sUDFYejFScHI4OVphenk1N2JTbl9wNnhQUlppdkhmVV9EQXUzRDIxUDRFZDA3MHFjY09UMDJWamxYUlkxV1hoT2kydmp4UTJOSnlSTXlnOHlSZENtR0x2SllOOFFJWVMtd25R?oc=5",
+          "ts": 1792998000000,
           "sentiment": 0.5,
           "tickers": [
             {
@@ -1394,34 +1394,40 @@
       "n": 20
     },
     {
-      "sym": "TSLA",
-      "name": "Tesla",
-      "net": 10.5,
-      "n": 8
+      "sym": "WTI",
+      "name": "Petróleo WTI",
+      "net": 9.4,
+      "n": 21
     },
     {
       "sym": "NVDA",
       "name": "NVIDIA",
-      "net": 7.4,
-      "n": 19
+      "net": 9.3,
+      "n": 20
     },
     {
-      "sym": "WTI",
-      "name": "Petróleo WTI",
-      "net": 6.1,
-      "n": 21
+      "sym": "TSLA",
+      "name": "Tesla",
+      "net": 8.4,
+      "n": 9
     },
     {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": 3.8,
+      "net": 3.6,
       "n": 3
     },
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 3.6,
+      "net": 3.5,
       "n": 14
+    },
+    {
+      "sym": "AMD",
+      "name": "AMD",
+      "net": 3.4,
+      "n": 1
     },
     {
       "sym": "SPY",
@@ -1436,31 +1442,27 @@
       "n": 1
     },
     {
-      "sym": "MSFT",
-      "name": "Microsoft",
-      "net": 1.6,
-      "n": 2
-    },
-    {
       "sym": "AMZN",
       "name": "Amazon",
       "net": 1.2,
       "n": 2
     },
     {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": 0.9,
-      "n": 1
-    },
-    {
-      "sym": "META",
-      "name": "Meta",
-      "net": 0.7,
+      "sym": "MSFT",
+      "name": "Microsoft",
+      "net": 0.8,
       "n": 1
     }
   ],
   "ecuador": [
+    {
+      "title": "Gobierno lanza plan para ampliar acceso de pequeños productores a mercados internacionales",
+      "source": "Primicias",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRmZlZ0t0VVdadkdUN2x5aXpjMkZHQmN4SEtCRlVpSHpQVVE4T2p2NVVaUXBOX0xOZ3VlQXZBNFpaMzgxd0xDdm5uRlRYcWNwNzRpQlktY0xqQkJpSWhWYUQ0QnI2eXBuNnVMS3FnRlJQYlVVak9OSTJSQ1RscUNHeE10LUREc3lHTGtBZzJEbVJlNG1UTk56YlhOYzRyUFE?oc=5",
+      "ts": 1794686746000,
+      "sentiment": 0.0,
+      "tags": []
+    },
     {
       "title": "Ventas de camionetas crecen 33%; nuevos modelos 'made in Ecuador' entran a competir a un mercado liderado por modelos chinos",
       "source": "Primicias",
@@ -1470,18 +1472,10 @@
       "tags": []
     },
     {
-      "title": "Exportaciones a Brasil: ¿por qué el gigante sudamericano es un mercado casi imposible para Ecuador?",
-      "source": "Diario La Hora",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOenJDVVdsV010LUlST2JnbTkxOThMRHlMMlZ6UFhaXzRkcGY2dmFJWURqQ1ZxcDdsUjQ1LVBhc1RUOFhTRFVSSFdtQWh3RUUzcWx6dWFybW94bmF0WDlSX0JXSnFEUTNUMnJwdmh0OFVxUGtsUDVFODdyd3hRMU8wNnQwbXU2M0xETnc5M2xEdHFaUXRoTDRMV1BkSE1BWmVPR1dLdU5relpuNWNEa3UxRm9xUVNnSHBXUDV4V05uUEZRcEdyRUlhb1FhUXAxbFZ0ZXEzdEV0NktkbV8zeHU0X0hKT2Q?oc=5",
-      "ts": 1794411706000,
-      "sentiment": 0.0,
-      "tags": []
-    },
-    {
-      "title": "Boluda Towage Latam entra al mercado marítimo ecuatoriano tras comprar CITI TUG",
-      "source": "El Universo",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMXJTRVdBbFpxNjcxNmg4U1hCOVlzaWhlaTVZQ3NMRnJrSlM3SW1VVzBfSUY2QmI1TkJVc2MxYmlhMjM1Q09zRjhwU0F6TEhkU2NPRXJiV1ZnWEMyOWxJUWlKekliZXlFOUQ2MWhTbUh4SGhZSTl3akdLVkFFb3VoN1U1RGdXX29ucGg1aGVXVExNZE1lbmR4VGxqUUV6UEhoRGFCWnFsalBRUWVHbm1aT2lBVWl3YzVqR01TLXppeTVydm00Mjc1eGhkYUYyVGhNRGY2bmhaUHY2Uk5tOTFudGFCSGpYdnVNQ3F4QjRqMnlhdmtxTUItWk5R0gGOAkFVX3lxTFBWOG1nQUFrN3RPeElTRVMySXBOelUwbEFSNFRNRThpVHpyVmRBMDFwa0lBUElpcFcwbVZvZkZNeFhOUmRJVzh4cU5QNUZaamdqbUFfZG4tU2VyZzlvR3IxSnNyelRRVlFnRXlMZjdCdFdZaEFZUzZHSXVXemExWm5VUHM1LWlqOFVrWm9BMkIxVkRieUJQLWtuVnVlME9EVW5uUzRwVmRUdVRLUnNpVmMtNHZvbGtfTTFkYXVLNWV3RmMxS0V2WEFRMlY3NXBaUklJcFNBVmRCU252VkJKWV9ydS1Sb2JEUUZlbWdkdzg0aUpSQXZSMkNwMTdUOVFBbGlSSzBQN29tNmgtMVZIQQ?oc=5",
-      "ts": 1794408000000,
+      "title": "La fábrica de galletas de Nestlé, Surindu, busca financiamiento por USD 30 millones en el mercado bursátil de Ecuador",
+      "source": "Primicias",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVno2Q1VSbmRDbDdIUFBqbWhuZ0U5aUJmc3pYVkVteFBsbnNQSGJLYlhsRmRZVkZOSmZadnNIc1ZxSE10Z2xoWl9WWWl0OHZwS1p2WlVra1l4bzZlV3RIbUY3VGpoYUpEaXQ0UlZvWF92RF84eEJLZ3k5R2pEaEZ0eldpWVdsNW9PaG1pbnd1eW91anBDS2s4ek9zdktPQnJMbHp5QlFraXo4RmtyOGNIRmpfTnVzYXVD?oc=5",
+      "ts": 1794408956000,
       "sentiment": 0.0,
       "tags": []
     },
@@ -1569,14 +1563,6 @@
       ]
     },
     {
-      "title": "Ecuador reanuda sus exportaciones petroleras a Perú con contratos por USD 1.652 millones",
-      "source": "Infobae",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOHMwTW5LSThFNDQ3U09MdVJIdmthVVVOWXNpV19GWDI1dXpvN3hQUWk0eGtPOTMyQmZoNkRFcmtVY3dCb1JESW9rdWZ6MU5JOXV0RjNlV2hSdnZEVjV6NVQwRmZVcHFOOHlQSUswODlaNm9kZjJ1RXgwT3VCNHBsSk1RLUdDWkVkNG1NdWxSb1lHU0NNb3R3eFNnV1BzZkU1NVQ3RlNIZkNfZXg0eVhLZlpodkZMOGFFVW81c05MNUlGMDl6bXB3eDE1LUdzaTFxMUtQRGRZMmxVNGV5WFM40gH6AUFVX3lxTE5FS213T0NQN2pNVGlRaTFnX2d5WVVfc1VnYlBmd1lCdWZYbTFwOEdoaVZFMXIzcmFrN1ZQV2JVYmEtODBjNEVLclF6WVo3aFFWODZOSFV3Nl9FZWV3Y0cyUnJnNDdybWNHVGJUWTZmN1BWcDVPdDJDZU50RlBfSVA0MmFOeTcwY0p3ZmJjbXZKVTVPYTV6M2ZNNi0yRXU3ZkM2VXB1Y1R2LXVnNFFoWjlMUzRxNVhsaUZJcnFuclN5dVpEU0h6Mmk1UlhZcTMwVFZUZ0JkVVNXaXRiNnNwSElESnhvQ2VDeTZfS3dUb09jbEEtSmc1QVdNc1E?oc=5",
-      "ts": 1792566000000,
-      "sentiment": 0.0,
-      "tags": []
-    },
-    {
       "title": "Petróleo ecuatoriano se venderá a Perú",
       "source": "El Comercio",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHdkTXMtME56X0h2N3lpZGpFd01nS2hBMGNrcHczMG5NZ0M1ampzT1NVYWN5UGhyeERFTE4xSl9EVFVOV2gtdjBEWW0zWGR1b3haVFQ0Q3pRZ1lfMnc2QUp3ZVA0Y3RmaEJObXhzTFhnS0dQVFd4dGdYY1BIVG52VFFZU2lRQWxzV2tWazln?oc=5",
@@ -1644,6 +1630,14 @@
           "dir": 1
         }
       ]
+    },
+    {
+      "title": "Banco de Machala capta otros $15 millones mediante emisión de obligaciones",
+      "source": "expreso.ec",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNmhKNFFGY0lwVFVweFpFdUdkTE1LYVVIZWt0Y3pnaWhpRFQzVUlYOTBCdjJVYTFMdGlTTFZzcm1fUzdNSWE0Ml9GV3JrWGhGcXJ1OHh1SWpUUjNtTFM5TldtbXJkUklMbXM3cEQ0cmlITHdTV3R4WW0zcFBFZGhZdk9kdHJKSjhaY0pNYzdzNzJBVDdSRF9mVXBDNzk3N0h2T3RleEdJb1dGa3Rra0djcnliSzJzWE9WY3FmUGFkSQ?oc=5",
+      "ts": 1790751600000,
+      "sentiment": 0.0,
+      "tags": []
     }
   ]
 }

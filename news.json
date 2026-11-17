@@ -1,37 +1,101 @@
 {
-  "updated": "2026-11-16T18:22:09.437885+00:00",
+  "updated": "2026-11-17T01:54:50.159462+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
         {
-          "title": "Trump compró acciones de Nvidia antes de relajar ventas de chips a China, según un diario",
+          "title": "Las acciones tecnológicas se desplomaron antes de la publicación del informe de resultados de Nvidia.",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVmxVY3dvbWszejJtV3hGTG40TTZHNUU1ZHA1RUVOLVh6cWtELTl3c2VLSXJGTGRWNWVqVVNKa3g5S182VDg0QzBTTktGaGs4d18xTDFJY25kelkwcUJKNlRMZFdoTS1EOWwzbUM2TkhheU50aTRjSVMwUVlBYnhOR1hVZ2ZnQQ?oc=5",
+          "ts": 1794877781000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Las acciones de Nvidia caen un 4% mientras la junta supuestamente descarta el regreso de Huang",
+          "source": "TradingView",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBranM2UXlFZ1RQTVJLYlN1TUxTVTk4S1V4bVlvSXFfazZ2SHR4RWlYU3IwSF91RGVlY1JhdTA3U0lLMEt6MS1XWE5ueUItRFAyb0hRazc1bFpLbi1kN2ptOTFRWnc4VVdxWXpCcU1SMA?oc=5",
+          "ts": 1794876578000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": -3.6,
+              "dir": -1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Tesla desembarca en la Argentina: ¿qué potencial de suba tienen sus acciones en Wall Street?",
+          "source": "Ambito",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOXpKdEZPTEd4N1RUOEVGYWdqWUhfVDREY0ZsX0F1QV8wZXhGc2ZTaGo0MEtublRNcE02RnVXRTRUS3NNSW5ZcmZMWUwyaTQyejNHVWlzVzhSQzc5RFFEX2duVTU3RFNyS3ltMmRQTHJNb25tNjF2c04zV19RenhRSjFaaEphcmJ5WjhFVDhHQ3d5UDFIRkZMVlNuM0s4ZVl4b2ZuMVZOTUxxTEx6TUFoM2NOV0hUZHpua2V0dGt30gHDAUFVX3lxTE9pdHJQbWtaVGI3aDd4UkhxV1FYM3Y3QzQ5OGR3enlPd1FzZ3lYNVB0dlEtQy10cWRUVmpCTDBWSVJtT3IwZnJhOVRVa1c3SDJBN19taW1GdUhUQXNWQ1ZxOU93UTlnVFNRZ0kyQjZ2STFSMlBxU3U1dmZLRWJPdUNkVlNUR0o4V2JEOHA0R0ExWXNuOHowcVJCRWU3WldjN1dMR3VrRzk2OWxVNXZhSXpIbmI4bkZhMGNDSnNKektwREJOVQ?oc=5",
+          "ts": 1794875880000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "TSLA",
+              "name": "Tesla",
+              "pct": 1.9,
+              "dir": 1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Acciones de Trump en Nvidia llegaron a valer hasta 62 millones de dólares",
+          "source": "La Jornada",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbXdqMG84dzlhMzJ3c3FRQ2dSeXR1Q3d1czE1SjhiV1V0ZDdIbUVEVEktQ09qUjlRMDBWYjdBSzBEaGI5Q3poakJqeUlfdjd1ZVZEUlpvbTNWWXFranE4UzlzVUNTQ2UzcGlIU0NoTXZLd3hhRlJnZ3NZMDdDUk9FUEliSHlLVFczbFdZeUxRZGlPWHRMb3JRTXVYTEs0ME52cUUtZllBU1FXVmtkdG1iODE0emhhOWZ0akFXdFJXZDQ4Y0VhMkdJ?oc=5",
+          "ts": 1794875040000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Las acciones de Nvidia caen tras la renuncia del director ejecutivo Jensen Huang",
+          "source": "Ecos Diarios Necochea",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONEZtTWdaLXV5bWhoaFNyQU9RRGdPOURfajJyanpFWFNaUV90cjdtMDFIRlk4VzAydUhHM19YOTVPeFRlLVFvdDlweFRTRGR4NjZMSEhncUxtdnN1Q085dkJMS1gxcXYtTmMxX1ZZT3dRVHdFajN3RlRfQ01RaVlMbUhkbmc5NXNOR1lPTnFxSDFLakVvZ1kwaDg4X1BLejZhb1FnQg?oc=5",
+          "ts": 1794871606000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": -3.6,
+              "dir": -1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Los resultados de Nvidia quedan en segundo plano mientras la destitución de Huang domina el mercado",
           "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZlNiaWVDc3lla3BYbFRhYzJKZ2JybDh1Tmp2RGZYR08tRm9IUHV6N0JQeV9rNlc5cHpTNkt6ZDlpRWFqUDZqTlFsOWxDYnhldWR5S3ZMYldzaTBHbG5nODh4M1RwNUExZEt5OWtqQ2hLNy1NaktBWk1vWlBFM2RwaUs5Y0NtWjVJQ1RrOUppb1hYeVZRYzBvaUFEcGZQZ1dXVmFPSUs2Z0Rqb1dJbS1saXNMa05vOXBIY2ZraVhVNTRjQnJSWmoyUE1LeUdpWkRfZ0FFdHNfVmLSAfMBQVVfeXFMUHZqQVhhMExIdzlaaE45enJQZHo4ZlNKQnVtb0FlYUgySFctMUwwLUU1U0JyeFhiM3lMeXdGdVl3aGsySkVlbnZNd3lnRlltMXhqVURQWFR1clRzbkk2MDAxYVJOMFd1LWV6UlF1M3VYeHFobmstWWd4eG9EbFRkVkRHTVUxblhlWE55dURDeHVFRndaLURVSWlPSlE3NEo2R21pbjZBSE12SFFmYXJ1enJMYmlQZGJ0dWg2SEtVeXEyVWdyRWdldXpSVnZsUW9ib2ZmZllBOU1iN2NYR2g2U3ZCRXRSdmJSdmlEWVVIWm5OMThB?oc=5",
-          "ts": 1794850200000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Jensen Huang evalúa volver a Nvidia: quiénes lo impulsan, quién lo frena y cómo reaccionan las acciones",
-          "source": "Diario Río Negro",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNVNVRTlNMkRMTDhqUklqdU16M1FzRjFUb2dmaXdJV0NmNVNMZ2dNQ21tZWcydTFLemVJQ0syZk1xT3NSMGdLaWVuUzV5NXFlRE4yWEpPWlUwZW93ejRucXVvTlVuLTdTMndlY2R4RFlVTm5icmN5aUtiSVZCY0RaVEVEeUlzVVo2WnN0QXBuM243T3hEbXhZQ2ZkX2FUTXZ0LXU0MTVBZm82Q3hlbllMRUpWQ1dtT0M1QnVkU01hWnVxZWExRlZKZ29OUEFEOElCUGNiZEdkT1dEZjJR0gHkAUFVX3lxTE9uYmZVbHozWjl4WFcyc0xnaGhpa0J0NUNNTEtCTU9DbGVaT1ByWHgzQ3hzdEVpRVdOX2stQ1ZwU3Z1RnVUZXYyRTNZTVJKYlpUUzM5Q1ROYnJHMDktM19VcmU2NlE2Qlo1YVo3ajFsRnhpTWQ2Z0MyMXZwc09kZnUwVzRTWll4Y2I3bXRxdUpLeHZndGQwcFdTdm5mX3NWak5YdGFFazQ2bEgxaFhNclpXUnBUSmJBcHlzZHExVmlTUHlxbzE1OFJzdnJ2Q2tIcUhSZ1laVGFwdU1UWkk2bXdZQnN1Xw?oc=5",
-          "ts": 1794848752000,
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ05iNHFCZXE2Yk9ER0dDbnZpSWFLazJuM1VtdkNVeGEzb0k2V1FscjhYZmZHNFctMHBLM1hoMG1mRW9obW1oR28yLU9PaEw0VlNPaGg3MEsxTTFwUmYzb0VDQ3AyQ3ZzOHpqV3VkS084czhrODh1M1ZlQTZVd3U1TW02UXZDQkhFa3VCWjlwREFJTjhkN2tIZHk3U1o3R0lOV1BEX012aDc4Zl83bXF2SnJyeGdhZjFwZlRFMFVDMFc4MkgyT1NZRkJEZlYyQXdmOGp4dWNwb3JVeXhKcWQ0enM1b9IB_gFBVV95cUxQVWI4RWJ6SGx5d1hBSHgxVF9DeHY4UEtwT1pfYk5NdEVnVnhPTWRJYXNlNXRVakNNQTRjclV5WlFIZU5DSEt1NGMyOE1rVXFZZ2NobzZBV1drUzVSWjVySW42cklEczZaZGF0WFZ2NmsybC12YUN6VS1sZHJ6UE9NRHRsblJmRTNyaWY1QkIxZnlEOUtfd0h5ZURpQ0tRWjB5SDAtQ1FiSTRBSjRaaXA4cnI2SzFJVjJsdC0xTEFXOC1heWlEV1JTV3lSMEQxd1ZtVzAxRFZFN243UE9qTHkwdm1aejF4RjNpaHVyVkZobUxQaWlFck50Vk4zNmx1Zw?oc=5",
+          "ts": 1794869340000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -44,54 +108,10 @@
           "category": "tech"
         },
         {
-          "title": "Acciones de chips en EE.UU. caen antes de resultados de Nvidia",
-          "source": "Investing.com México - Finanzas, Bolsa y Forex",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbDkteEdTNTdYVUxvQnpJYlhwVDhBMXRjcUF3alRKY0ZCSklIU2trTDhxVzVRZWtQV2ZaM2lwOXJKN2szWGdOT3hTTWJ3YzE3Skx1UXRXQ25WWTJGeW83S0xTZlBqRmNaS1dZYjhOUk9nb3FfckNGdUlkNlpvdUJCNTZxbE5icDVpQlBsSEFlUWkxcVhobWp5dy1kdHVGYUpwVFRXNEZZb25Ba01zcDlpakttUlVncjg?oc=5",
-          "ts": 1794843801000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": -3.6,
-              "dir": -1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": -2.0,
-              "dir": -1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Las acciones de chips en EE.UU. caen antes de los resultados de Nvidia",
-          "source": "Investing.com España",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVkxhcjBSYXQwek5Zd1NvWmhBZ1pqU3JXRWtCeE9HM05wbExnY2t1SVBSVk5OMERRLTNmWWxBanlIRk9zeDBoUGR1ZWVVSE40WTFqQ1BmNVY5X0xOTXJuUm8xbVR5OUktOE91WWt3ZTRTQWJsSWNzTlFXT0dXU0RrLWMxd1h1b1A5M2EzY1RualBycTlESExxTU5Qa2pSaXRGM04xS2FFMzhWbW9MNlBjejJfWXV1ajhmM0NjRTFYWUJ6QQ?oc=5",
-          "ts": 1794843360000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": -3.6,
-              "dir": -1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": -2.0,
-              "dir": -1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "¿Por qué caen hoy las acciones de Meta Platforms?",
-          "source": "Investing.com España",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYXpYc0hNeTR4elQ0VjRoMTNKT3RvUkVGYUtlRnpOZ2JneGFaLXhnbnhwYVZsS3NEOHk3elFrT1ZoX0NfaGRrbmZTZ3R3cTllMUFsTlBJcEFabFdkNGNFQWZSVDlPT1g5dkt1QXNUcXJWWTlJTnc3cWVKSGxqZDVPNXctc3VEZlFTRm5vdWhqR3dWUDl1SVhxdTA2dFZMT0Z3TlA0TEhkOVhta0Ru?oc=5",
-          "ts": 1794841800000,
+          "title": "Acciones de Meta hoy: bajan un 2,38% hasta 626,41 dólares",
+          "source": "The Officer",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX2ZfYzlxRklhRXhOdWtlTkhBT25RVDhwVDIzLVNMZTU5QjhON3JjY1ZCYnozd1pLeWVDN0ZuOVBfd0h1WTVmbGtzZXoyLW1vZXdTYkV3OUZNcGVpalhqeVQ1ZER2S3p3N3JkMWhKdmFXWWxTQk1tSHFiS3JwMnJjekZn?oc=5",
+          "ts": 1794868800000,
           "sentiment": -0.5,
           "tickers": [
             {
@@ -104,26 +124,10 @@
           "category": "tech"
         },
         {
-          "title": "Las acciones caen mientras Nvidia lidera la baja de nombres de IA antes de los resultados.",
-          "source": "Quartz",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUUtsZUJadm5LemxqT1NCREVvVFVZQjFUY0NLME11UjMzN2cyMXR3TVlhbzgxazlkQmkxYy1HWWNEMkR3OHZsNjNKTHFkNlpfbmtBQjhPSnVmajlwRTM3MEExOUpVVmJYOGtBYno2V0s3QmdlWW9WLWZFcTRWVkY4aEJjMHFrY3dvalFSSUt4UFB6RUFWZFpLZ2h5U0ZyTlQzdnVB?oc=5",
-          "ts": 1794840858000,
-          "sentiment": -0.67,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": -4.2,
-              "dir": -1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Acciones tecnológicas caen mientras Wall Street espera resultados de Nvidia y salida a bolsa de Anthropic",
-          "source": "Bloomberg Línea",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNmVQZmRWUTJKYjNoMXpWc1MyRHkyc3NsTXFVWDdIeGtMV1p3SVZhTXFyS25ZRlVyWDFHTmFPU1JUZ0liVEE3b3dpLXFUQlVtUjlwTEx4aVh5cUxHV0tWaXRIUWU5VVhDZ1NyQ29GRVNBNG5XcjIzV0tfX0JLV1Qxajh0WHp0YmVRVlo4ODhqRkR5VGl4MUxta1VoTFBjdXdHektvcThLNWd3VWQ5RnVZV3VaQzcwM3dIcEE1RnFzODNPZTV1TVFYR2k3dFdfNGZQUHh4OUpaNFN6ZjBDQ2c40gHzAUFVX3lxTE90UHNPbmZ5b0o1NGtBbklSMHhLYjdkbzZDTWc0RVpFNVNIZzlBV3FOX3hmNENIYmVWSkZPaE1LMFlJWnpicnduaUdJUmRBcUZBdThlRXZoUmV0czdtQWdULXk0TzFQTjR2RmdZNWRkc2lFVHlqQ01XdjJ5VXpYaTdreWtraDVDZ2pYSm9FQ0VIY3ZLeTc0UmRCWTR1bWZyTnRqRTI0eER0Y1lub3V0OXJwVkVQTUZLWVJQbXVFb05WdHdYZDVUTkdiZGtodGR3SVkta1FMSzBsNF9CU3REUG9vWm1CTEhQanNXYmszR3pHam4tNA?oc=5",
-          "ts": 1794840555000,
+          "title": "Las acciones de Nvidia caen en la preapertura mientras Jensen Huang, según informes, sopesa regresar como CEO",
+          "source": "Forbes Colombia",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTGJBbnlXRUpTWG9FWDhRQnhYVXk1QjlhMEp3cEJLOTVkU0txeDVtTkkxVUUxSHdNSjJ1NXdLQUdjY2VzNTJyRzZwdnJIRDNwZFlwUEJITHZrWHRXUGNlZHNSWDV6LUh0V0E0NVN1Tkdybnd4MDk4M3lJTzh2TWhMMUI0YXpBLWh1dG14QTB1M1VnUEFkOFdWR0JQbEptYTR3V1BySmtkeGFiaGxnVVpkQjhwbnBVNHRsN2NrTHVKbVB2RzVaNFZWelNkOGtKOFdyTmgzbUNMdWN6OGxmMVJVRnlNS1ZOQQ?oc=5",
+          "ts": 1794865388000,
           "sentiment": -0.5,
           "tickers": [
             {
@@ -131,59 +135,43 @@
               "name": "NVIDIA",
               "pct": -3.6,
               "dir": -1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Reportan compra de acciones de Nvidia por Trump antes de levantar restricciones tecnológicas a China",
+          "source": "Forbes Centroamérica",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdHRITlZkWDZrLUNnZVZYUmpGRkVZQ2JPOUx0dGJGekVpaWNtV3NDbDlBRjVUcy1TNmUzZzRjZTlieC0xTmlDUVJ1TDUySWEyTk9zRUxJTE9oLWE2eHJ2RGRJRDFMU0FCdUQ1bGJUcnZaTzlEdGl2Y1ZDUzFsbWVqQ055VHpITnZwX3dWS3RBRzRiZll3SkJ3V1p5dW9fcFBYelNrTWpUZmJoaV9lbXNXS2VJcXkyRFRGZFE3UmxWc1dPVFZTbkV3bTZpOTRRTXFSLXNZTXI0T1A4VjNm?oc=5",
+          "ts": 1794864407000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Wall Street extiende las pérdidas tecnológicas mientras espera los resultados de Nvidia y la OPI de Anthropic",
+          "source": "Bloomberg Línea",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNmVQZmRWUTJKYjNoMXpWc1MyRHkyc3NsTXFVWDdIeGtMV1p3SVZhTXFyS25ZRlVyWDFHTmFPU1JUZ0liVEE3b3dpLXFUQlVtUjlwTEx4aVh5cUxHV0tWaXRIUWU5VVhDZ1NyQ29GRVNBNG5XcjIzV0tfX0JLV1Qxajh0WHp0YmVRVlo4ODhqRkR5VGl4MUxta1VoTFBjdXdHektvcThLNWd3VWQ5RnVZV3VaQzcwM3dIcEE1RnFzODNPZTV1TVFYR2k3dFdfNGZQUHh4OUpaNFN6ZjBDQ2c40gHzAUFVX3lxTE90UHNPbmZ5b0o1NGtBbklSMHhLYjdkbzZDTWc0RVpFNVNIZzlBV3FOX3hmNENIYmVWSkZPaE1LMFlJWnpicnduaUdJUmRBcUZBdThlRXZoUmV0czdtQWdULXk0TzFQTjR2RmdZNWRkc2lFVHlqQ01XdjJ5VXpYaTdreWtraDVDZ2pYSm9FQ0VIY3ZLeTc0UmRCWTR1bWZyTnRqRTI0eER0Y1lub3V0OXJwVkVQTUZLWVJQbXVFb05WdHdYZDVUTkdiZGtodGR3SVkta1FMSzBsNF9CU3REUG9vWm1CTEhQanNXYmszR3pHam4tNA?oc=5",
+          "ts": 1794863919000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
             },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": -1.3,
-              "dir": -1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Acciones europeas planas mientras persiste turbulencia por Nvidia",
-          "source": "Investing.com México - Finanzas, Bolsa y Forex",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMTZfMnhpVUUzTWFIcDkydG4tb2pmUUFqOEJiUWMtbk1pcUFBUDNXRk01anB0VUU0blVLdmladERzLWtmMVYyWFNhVWNwbHVPclFSVTNPRjliejJ6NWVCWmswRmtQTWRHY2cxWEhudF9DYTBtSWM0RldmVUF6cjZ2QzVHZFREYzVFTFNWVm10SXhaZFdiRnl1X3pEcVlOZWwyS0hNdnVwSnBZbWh6REhDLXZSbUtJUXprM0liYzZR?oc=5",
-          "ts": 1794837825000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Analista señala 3 factores clave para las acciones de Nvidia",
-          "source": "Investing.com México - Finanzas, Bolsa y Forex",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY2k3cnVoeTZTVjIwN3VDLWxNSi0wUU9odF95aXl3YnM0TW9WUktyRl8yMlRGdlBVSzVqeXZrMjBhS2pEWkFYb2NwTkJRWk5NQzRvUWtieGNCbE1rYkd3OHNDbVVGTDN6cko3bFhHQl9SZHcxcW4yREFOOU5udjV6d0pTcTRzdEQ5eUNDS2x0eF94Qi1JSFJLZnhneloyRElrN3pIV0tkY2JBUzBRQmIzb2U5RThpWGs?oc=5",
-          "ts": 1794837783000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "El analista señala 3 claves para las acciones de Nvidia",
-          "source": "Investing.com España",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSmlyTEhXWTJNem95ano4dGFjY3YxbnVnR3huTzBka09ZQnlSbC05QTlFRi1NUktlVzR3R1RobUJJcDhvbjhnSHBkSGtTVU5aSHM0MGQ3X0g1cTMteHJaYVlFVWdLVngwYjQwZG5sY09iaTZpUTZTbGtfTm90SThjNzlUUVJIdHYzaUEtcUxBeWV2WDg5MTBWTm5LQlpkR0F2N1Q1VTBGbmxrbGU2RjlUZA?oc=5",
-          "ts": 1794837600000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 0.7,
               "dir": 1
             }
           ],
@@ -196,144 +184,140 @@
       "label": "Semiconductores / IA",
       "items": [
         {
-          "title": "Apple HomeView: la inteligencia artificial llega al corazón del hogar",
-          "source": "Robb Report en Español",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWmppd0MwZVJxc1VnYWI3MDk4Vl9OME1wM2NTTllOOVUwNk1PRmNOSHNwR1VvaGRnVUhMQ1ZncGZFTTJPRGV5S1Z4QTJ5R3FKS0tHaC1nWWh1X3FidE9mUTFrVmdBb1cxZC1Wa0NhaUROaTZLS3pRX2FVeTF4dThFdEdFUVJJQ19rMFhpWm05bUVDUzhNeW9mMF84dnZoaVlRVlZxZXhHUnJVUQ?oc=5",
-          "ts": 1794851652000,
+          "title": "Wall Street registra pérdidas por preocupaciones en torno al sector de la IA",
+          "source": "UnoTV",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYVN0Wnh4Q204TGl5cl9YdTEzMjdGMDhiZHlLdF9ya1VGZkRqQ2NoM1diSy01dXJrTlNTS3JialZfMFRQV3lISll4TEdKdGdVdmJRbjZ6OWJKY3IxWjU4NzdSQXVySEhHbkZ2OGl6c1dvQzNjdHpxMGpQSElkQWYwOFRCbWVsQnB6cDEyTzYyaHMtdEN4RDYtYmUyc1JMY2NQcXZxVFFpVWJ0VldvWlc1UDE1eXlWSXFY?oc=5",
+          "ts": 1794877022000,
           "sentiment": 0.0,
           "tickers": [
             {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": 0.8,
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.7,
               "dir": 1
             }
           ],
           "category": "semis"
         },
         {
-          "title": "Wall Street cae ante las dudas sobre la inteligencia artificial y los tipos de interés",
-          "source": "Bolsa Digital",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV2JHeWhiTGtKTXlqcWxRQURRckZIUGlpRlJ1eEFxY0I5VUZDX1lFMUJ5UDFXMFJGU0FGT2xvb0R0T0paQWlJb3M0RFpKUVh2OFRHT2oyNWs0bndaWlkyaDNyRDZIOEJ4LWlORFo5WTVJdTM3TTJqeDFUVjNQbnJWYWtmYWJvckN3UXJLUFFoMkZ0U3ZKQ3VXZWl1OHU1RDFxSWVwOEF4ZkVRVjhsUHpqTHIwalBULWlGVklOd2MxQUk?oc=5",
-          "ts": 1794851034000,
-          "sentiment": -0.5,
+          "title": "Wall Street cierra en rojo y Nasdaq pierde 2.49 %, pendiente de la crisis de Nvidia",
+          "source": "El Informador",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV25fOEdiLU1BQ0E1YzRkdEhSWEs2UTg3NkRDR3VXM0ZsemRWWHJ0akpCMlJLNXFlak1VU3V0eVRWQkstUjY4WnQ1SUpUZGxyRXBiQ2w3YkhaRjAtYzJ3WTljdnhJVnJTRXZGcmhybkMwak1JZ1huTDZHdi1ldmlENmRYaThVSnFxdkVnZllGZnhnOVJqUjNJVnJWbm9PQ0dkSUU5cFBZUk1FNmlNRnZpZ1o4cnIyTVBOMjFJcjBBQzRHb05IRGlPTFNJT21MNE5R0gHWAUFVX3lxTFBoVzBpWUNaY1FMcWoxYWpOb2YzOE9TYXEwcWRIQ0E0LVZqTHhwQlZPeHJpYWVDTDJHTFV6Y080Y3JuWE4wOEl4eENWQUdnQmlqZUNFMTN3Q2tlVGtwUUhzNERFc3FMb1ZqMGZScDZQa0wtYjExdnh6ZEt2dnRSV1c0U2pXeWhROU4wTVhXWGNiUFdLeVVveVBCS3J5RkZtZDUzN2xucVN5UXl6bG14Z01pZk9GZ3ZueGhYMWZhMWgxTl9helVGUHpIN3JCeU9tQTNuM2xhTHc?oc=5",
+          "ts": 1794876789000,
+          "sentiment": -0.67,
           "tickers": [
             {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": -2.0,
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": -4.2,
               "dir": -1
             },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": -1.3,
+              "pct": -1.5,
               "dir": -1
             }
           ],
           "category": "semis"
         },
         {
-          "title": "Trump se muestra a favor de que Jensen Huang vuelva dirigir Nvidia",
+          "title": "Nvidia H200 en China: permisos y chips en Hong Kong",
+          "source": "NeoTeo",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNTluNVU3NmxyYnBRSk00QnVBMjRtbUN1b2owNXoxT1lKOER1dWoxTTJPUzdOQjlfUmZDWFYtTDlEWlVXSlQyWkV6UEVhLWFBaThYSkNsTTRSRUNCazRDZ1htRDJIQ21vZ0E4SndPTVNWbWRlOWVLR2F2dUhCeXdCZ2dmbW0xRjZzVURVdTVVdmpla0lPOTR1V21oQjZhdGJYVk9pMXdoQWx3X2QxUVhaMQ?oc=5",
+          "ts": 1794875419000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Trump respalda restituir al director de Nvidia pese a acusaciones de que tuvo amorío con espía china",
+          "source": "Audacy",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOGhndUJaUVZCclV1ZlpySlQxbmpaRjExcG4td0hhQy0zR2FyY2p2VU9QLV9WQ2MtTVc5ZmE2ODdPX2tyWU9pT0pIYkkwT1Eza3MyaS1DNnVmM3loRnRyTHgwbzZJcDQweDJlMEE4enJrMXVlRUtaTm9qSTRrakFmWFEyUjZ2eFZNa0FXQXJmdzMyZy1oZXpzUnpCZG9nSlVhUDNuOEdnaG5Ha3RlX295QmlIc0poNk8xdXZkWGlPaWdEUzZMalE?oc=5",
+          "ts": 1794871080000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Los resultados de Nvidia quedan en segundo plano mientras la destitución de Huang domina el mercado",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ05iNHFCZXE2Yk9ER0dDbnZpSWFLazJuM1VtdkNVeGEzb0k2V1FscjhYZmZHNFctMHBLM1hoMG1mRW9obW1oR28yLU9PaEw0VlNPaGg3MEsxTTFwUmYzb0VDQ3AyQ3ZzOHpqV3VkS084czhrODh1M1ZlQTZVd3U1TW02UXZDQkhFa3VCWjlwREFJTjhkN2tIZHk3U1o3R0lOV1BEX012aDc4Zl83bXF2SnJyeGdhZjFwZlRFMFVDMFc4MkgyT1NZRkJEZlYyQXdmOGp4dWNwb3JVeXhKcWQ0enM1b9IB_gFBVV95cUxQVWI4RWJ6SGx5d1hBSHgxVF9DeHY4UEtwT1pfYk5NdEVnVnhPTWRJYXNlNXRVakNNQTRjclV5WlFIZU5DSEt1NGMyOE1rVXFZZ2NobzZBV1drUzVSWjVySW42cklEczZaZGF0WFZ2NmsybC12YUN6VS1sZHJ6UE9NRHRsblJmRTNyaWY1QkIxZnlEOUtfd0h5ZURpQ0tRWjB5SDAtQ1FiSTRBSjRaaXA4cnI2SzFJVjJsdC0xTEFXOC1heWlEV1JTV3lSMEQxd1ZtVzAxRFZFN243UE9qTHkwdm1aejF4RjNpaHVyVkZobUxQaWlFck50Vk4zNmx1Zw?oc=5",
+          "ts": 1794869340000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Wall Street se desploma por temor al futuro de la inteligencia artificial y las pérdidas de Nvidia",
+          "source": "Misión Política",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRld5c05uQ1dHaS15RmpNY1BUY3dEbkwtaWRlbGwxam9LdzdEMWZGeXktc3Aybno5UE5Ea0NBOHZUdkM4bU9Ld01EZk5ZdkNQVVE4NFVURVhFS25vT1p0U1JGR2k5Qlg0VHBQSi1EbFZPbFltXzlSNFU3WUQzSVIzNUNWR1pHbVNnZzVlZjI3UGJlVXJQRi02bWh3bVYwYnJGRnp4bDEzYXRhaHlVckZOenpGZ21zU3EyUU8xWUJRZElNSm1OcDdvcTJKZk4zcVhaWGw4?oc=5",
+          "ts": 1794867916000,
+          "sentiment": -0.67,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": -4.2,
+              "dir": -1
+            },
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": -2.3,
+              "dir": -1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": -1.5,
+              "dir": -1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Actualización: Los índices bursátiles estadounidenses caen a medida que los fabricantes de chips se hunden después de que el Departamento de Comercio planeara cerrar las lagunas legales para adquirir chips de IA restringidos.",
           "source": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR0kxQ1ZNYUNHWDJiWjVLU1VkTkM5WUEwNWI0NXFsWV8zYjFUeXBzZk1hN28yS1d6MHhUR0FCdk9iOThvX2VzcnJRRl9GSWM0Z2J2c05lTnhiamp3NXRkeWFFTzJtUzRUMGJOeFhVT05HTVlwN0d6b1EzQ0tRVTBCWTBRaWtpX28?oc=5",
-          "ts": 1794850196000,
-          "sentiment": 0.0,
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcEsxczNrRzFYRnEyS0paU1Nod3MwVGNyUE5saDk0ZDVHdnI4LWh6Nl80b1VTeENTeFdBMlNNNlczeU5nQm1KbzNja3lwblAwZk1wSDZfZWZqVEFUR3dfaHJMSGo2bmQ2MWx0dUJjVmE0U3ZhQmJmUTc1WTBFZU14RVBkLWdib2swT3EwdGpma096elltVzlQbVFqTGFuMzBuSU1VZHBaQTJUOXBwcGtQOUFsSkt4bUYwOEluUmJB?oc=5",
+          "ts": 1794867815000,
+          "sentiment": -0.67,
           "tickers": [
             {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": -2.3,
+              "dir": -1
             }
           ],
           "category": "semis"
         },
         {
-          "title": "ChatGPT, Gemini o Claude: cuál te conviene si tienes un negocio en Cuba",
-          "source": "14ymedio",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZEVXWVBFUlJIbjU1U3d5SjZWOGNHLTVVYWttVmV0MTczM1plekxnY3pINWlrZ2xMOFBuTHdPMTVtd3Z4eDExOE9XT3g2Ymc2LTZUcGc4VUxNNWNIOTZfbmlVMzZkeUltOTBla1BhcWpaaUsyY2lITXFjVHA1SzNnTVJNcUgyMHczc1lLT3Bqc0YyaTFlM0VZ?oc=5",
-          "ts": 1794849541000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 0.9,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Nvidia sin Jensen Huang: por qué seguirá liderando los chips de IA tras su salida",
-          "source": "Forbes Centroamérica",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNME4zcWRic2tHb1Jtd3RtckZTOUdfaUEyVTFqb2NtVHFVVjk4M2ZBSmFSUmhodmNJZnVrb0dyNVhIVWQtWElQT1RPTk5xUXlWbklyLWZyRloxUk5TU1VhbTJLWVc5bi1PZjNaMzljWFo2bU1YUGlickQ4Tk1oLWNXbExpV2dMWmo5cjJ6NFpYUG9fWGMtRV9kMEZUc3g5Q3dZSjlvcDBicXlXTGJLa0txNWp1M0hfQ3FLbkNmMkJUS2Rydw?oc=5",
-          "ts": 1794849287000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Estados Unidos endurece sus controles de exportación tecnológicos a raíz del ‘caso Nvidia’",
-          "source": "EL PAÍS",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcXJWWXNSTHJaOTBuLW45YVZFNVNvbk5hT1otdExkSjdnOEFkVWFnX2J6MXJLV0tVQUY2emxaYjlNVnJtN0ZsVi1rLUtZcDNkT1FHckliUmN5LUw5RnZtVVU5OFJDcmhwV1BMaWxObTIyeVhPSjB6YzhQcjczbEVDcUFaeHMwVVNxM09XUTdMZ2psT2RwN2p6Z0JZdnNKRTNYME1JU2ZPNVZ4TDRWS1FGUURvWnZCZ3JRT094M1B5QVRzZG5tUXJpcWJWeU_SAeABQVVfeXFMT3l4ZWRscTEyaVBWaGltaHB3eGdCNUVUMmZmX2hKcHNudHloWWUyZFA2UzhTWmFKa19UeWIweUNrWjdxakRlbHhOb3diZUtNY240a1V6ZWtQZHNTdlFSUUVKR0tDZjJuUkcwOWN6ZjhieTg2THF4YVJPUnZ3ZVE3cWhzdFBrajJyUmQ1MkItQzl0YTZCN3BYbWNfX3FlOUhpcWFlTTIxUW14LWJIUWN5RGxrVnVfWlEyY3BYcENKdjlQNjhfOVNQQmE0Yjl2WWU5TTBlRW1TYjBnbDJjWmlxSWE?oc=5",
-          "ts": 1794849176000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Jensen Huang aseguró que no había pruebas de contrabando de chips de NVIDIA, pero una investigación los encontró en drones rusos usados en Ucrania",
-          "source": "Tarreo",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV19oVGFJaURjMVlvNWxOa1NVZHUtUzdVTWsxSkVXaVlFLXRlUVBfNlNLTTdENnN1TzdOZFFZNDF6M2dGeGN6SlE0Rmx1cEtUYUZ5aGIyeFptdWE0eEdZV3ROaE1oUmlWdEFHcWZnSktQOU5iSUtwTFhBaTNGLVIzdWNuV2MzVEZsWnF1aHVIdkRHQV9x?oc=5",
-          "ts": 1794848790000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Trump afirma que “no tendría problema” en que Jensen Huang regrese a Nvidia",
-          "source": "EL PAÍS",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaUdEYzQ1SzJfbzI4MDMtZGFXQTNibGxHQ1lPaUFyMlh3blY2c2JiYmR4TElEVlo4cmNsUzZnVGo2SE9XTlkwaUtTVVVCdzYxNTVVQUhZV19zaWNzZ2x4RW55Q0NRaEJEM1Z3N1RnUU9HVTFOS0oxd3U4aDNTaFJFUW9ja0xVb1lnZjZXMXVmVEtMc0R6ampscDhmQmV0Q1pYNTJrQjN5MURJYTFGTTMw0gHDAUFVX3lxTE9LRjFMcVVfZEFjeExoXzdtS3F5TnhaTWtNT0k0OE8wWFplakFINW1adTA5ckVFNUdFQ2Fja3ZLbUpjblVPTzd0U1BnZjBINFRjMDJwdU1EbjZMb0E0eGFnalRaZll6RVlLRENoTTVJT1d1aThZb1JzTjUwclpHSGJYN3h0cE9NSncxVDA2cUl3MXJmQ0p0V0ExZ0hrUldnWkFfdGhJUHlFUnFRSV9JOVNYbWwxT2xzbURacnFLdDNqOENBOA?oc=5",
-          "ts": 1794847657000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.8,
-              "dir": 1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "El BCE advierte de los riesgos de volatilidad del mercado si la ola de inteligencia artificial se ralentiza.",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeENCa3JrU2M0WjIzZVpyVlgtU2RFMXdYY0RPYXZQVTVuUFBvcHliZDdQT0w4bUMwVEVVVjgydTlHbnphcDNubzZoNVRTRVoxbDNyN0plZmptc3VpREZZelJyMHJjOExpME9NQzNnVTVHbWw2RXRINkxONE5SWTkwZVN6cVNoQUNYUFNyOGhtWFg2elpiLTY0?oc=5",
-          "ts": 1794847442000,
+          "title": "Llegan cuatro nuevos Cedears de ETF para invertir en China, India, EEUU y empresas de inteligencia artificial",
+          "source": "Ambito",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTHFQOFpOQmxvY2l4YjhlRjZ2YTJYM3JkbGc3cC1zMkNpanltZGxTcnIwMk00LXlFdDU1VTFzNFl6ZldNN1dMUW81bXJoM0lSMUFkbmw1MFlIZmRhMkR0TkNNekZCUzR1WFhIN205SDR0c2lEUzRZRkdGZ0dXQUVfd3pEa0NzY3pWZ3YyQlBJSjg3aDVWVGtYNWk2WkFLOEkyOENIZFFUclpNZ3lzQWxVcHp0YkM2SlVySWpKc1RCNzdqYTBEV0tDT1dXNjdwRFnSAdQBQVVfeXFMT3FrRmN6NkZHZGZFbzhvbnlUSTIxa0FzRnZhWUNQY055R25oQnZPQTFFS1JQSUhnOXVWR0JEa094N3VaUlc4NXJwQkdZdDNURHhRc2pCOHVudTFGdUJFaWE5NV9lNUZLQTBEdHFDS0ViT3R6bXAyalZZd1RXRkNGUVoxVnpuQjhGUU83UkFXQUhMZDh5R19nSXFoUTF0UE1pWGRSR0F6RUJjZWhBbzhQSmNuRmtvVHluRXNDV3dnMUtrZ0JTd21KeGthV3lqaWdDQnJLbzI?oc=5",
+          "ts": 1794867300000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -346,17 +330,45 @@
           "category": "semis"
         },
         {
-          "title": "Nvidia sin Jensen Huang: 80% del mercado bajo amenaza",
-          "source": "El Ecosistema Startup",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV0NlcWJwb2xVbVdKekVPSmJiNDl4eENXYlNzXy1sSUpZQ3BFMmtJaTZjc3plSjdpbi1xb20zb2JzZFdENEdQSWhZaV9qMkdkcGhEOVJzNE9zRkU5LWtIQ0gzMlJZSUI1MUN4dmN0MlFoWjRVV29BNkVJWV8xQ01oV2wzOTBieTVhclE?oc=5",
-          "ts": 1794846455000,
-          "sentiment": -0.67,
+          "title": "Fuerte caída de los mercados de la Bolsa de Nueva York por nuevos temores con las firmas de inteligencia artificial",
+          "source": "Portafolio.co",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcjg3WmI2ZTFraXBhNDdfa1NvZENVTmZDcUhMaDhyY1B6T29qT0FoaE1UMnJxNUV4QzZfeGo2djNxMm8xMmpqLTNaV1g1SFFFT2dwbjItNnpPOGo4YzVuZFdmUFA2b1BsU3dnRUJVU3J4TE1KUTIyWlYzRS1fdTFUTlFFWlJiczRxVWtFczNsV3RPZjJaOHItUV9WbHFjaThHYVdPdmtWQTJoeG5xcWg5SVRIbHVCZEZoczZXcVp0U2o3djdqelgyWWM2bW5HZzdkaWJiYzdwU1E2cTN1bGxlZGd1alp2bHJLQ2NjQnJmcHVHQjdl0gH6AUFVX3lxTE1MZ0xtUnhUQXFuT2ZRZmZYNnhYMXd1QmtGMVdURDIxaWg0Ml85cW1ELTQ0dVJGcTRkZkZGUTYxZXFtYjZrOXMwc1BEbDBmU1NnUDNJRGQ4ZUJhVUNQN0k2dG9iM1V3ekhJS3pOcUR3R1NVNnZ5NHZnQXZuQVFQSUpzOFZCLW9LMEltdzk2WmNobmk2U1lYZ2JSdkg3VTVqQlFFenBrVi1hdUo5TVN1MVlkVDdSaUN5cnZpV2FVMVdmSUgwWG9UeFlkRlplaE9NRGg3OHowYXlPSU1qV1R5cG9SbVl2dDNJSXRKTWZ3aUh0Rjh1Y1lPdXhmcmc?oc=5",
+          "ts": 1794866828000,
+          "sentiment": -0.25,
           "tickers": [
             {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": -4.2,
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": -1.5,
               "dir": -1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": -1.0,
+              "dir": -1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "JORNADA BURSÁTIL-La inquietud por la inteligencia artificial castiga a Wall Street",
+          "source": "MarketScreener España",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSTJNeUNvVWZzN3RUbFBQNTVPU19Ray1zdEwtNGJaUzBGV1VDMS1uRTRkRmlUZFg1MTNQQ2FvdjZ0cTRPWVF6WWJldDlCR0FCNjFNaGcwb3lIb1N0ajJtWTJ2UEJHck5LS01BMXZZbnpaSEtsZXpKS3E4OGFBMWlsc0pMWXNIaHhETHpYVGFHM1BDYW1wNWZab3VOc0dfMHJkSUFFWm83OWI2cmJ4dFZZM2RackFMV05qSTZBY2xNeUtxYlN1QnlaU0ZwNWstYVFwa1JUUw?oc=5",
+          "ts": 1794866607000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            },
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": 0.7,
+              "dir": 1
             }
           ],
           "category": "semis"
@@ -562,358 +574,12 @@
     {
       "key": "defense",
       "label": "Defensa / Armamento",
-      "items": [
-        {
-          "title": "Nizar Derdabi, analista de defensa, sobre la industria militar marroquí: «Marruecos ya no se verá obligado a comprar su armamento de catálogo»",
-          "source": "La Razón",
-          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNeUtGNHFNSFBxcEt5RXNyY1AwVmlzWTB5bS04RnI4b3ZZTEZpRV9fUjFOX0ZKRmpiUUdVclNGXzJwdUxCRGsyRnNYY2g4TmdBWnI2a3c2dEsxZ2ZtRlpEMG9LN3RvdHY2azBWX2V0LV9MVnNYV2ZjRjlUdjlRMTJ2WGVRMG90cDZJcjFlTkNGdjAzVHR2aVBUYXFRdWVEYll4SGpfeVN6b21lSkZNb2JKdWdEVFJsOW1jX0FXcjFXaEJDT2NOclRrZFpKRTRQcWd1dVBaam54b3hKUDg0cXFHdWZmbHJtV2E0YXluendTeFBYZWs3ZEpydFhJSTlXdHpuN3FsUVpFa1NreVd1a25mTFMteUJmazRQdGk0cHU0Rjlyd24wWGJN?oc=5",
-          "ts": 1794807000000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
-        },
-        {
-          "title": "Marruecos acelera su rearme industrial con 333 millones en inversiones y eleva un 4,7% el presupuesto militar",
-          "source": "El Español",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMEFlY2dBQWVfdTZOdzhjT19HSklqbUtQcEN5REZXemJnSUc0VHdWV2V1cUdPY2E4S0NaaGNHY0Fad3BpUnVPN3JkX2k2LURiaVhoLTlxUUxEUjhkRUVBS19SUW1EQmZwQUZPZHREOG1Fd29icmIwT3VObFBMcGZMZGRYbVVBbmJKcGIySDJTUVdMOUk3WW5ta0gzUnZLYjljMkxiX3hwNEg1VHV2NF9yd3ptcEtmSDdrY0tDTV83M2xid0RqRDAtZkhFWTdRVER2VlJFd0gyVFlpMzdtX2dfWmJoWlR0YUd3Xy1GYUVkbFnSAfYBQVVfeXFMTnZOaksydjdzS2pULVgwUVNkY0U4aHp5Tmd6aGdPTjkwY2RXLXFGNkwxTVRBMlgybUR3LUNFTFJCSk1Ib05FZEVDcnAzZXBmMmVrNGF2dVVjRUJmbTFGNHhRNUJGZzQzNW1HSENleHNDcGVkN0lpZGVfMXR0clNiQWMyYkxxR1VOb2dPZWpxcFdvZFRfWHlQQTJEbUMxa1pVdTgtOVJjRkc0QmtYZHNuTHkwOHdtdVFpOWJwY2tNWXpHc1NlU0pIR1BwRk1wdVV1TDlkQ2lIdHBZWGpIc28tUHltVVFDTkRpLXZUNHFlb3dWTWx0Z3pR?oc=5",
-          "ts": 1794678116000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
-        },
-        {
-          "title": "Marruecos impulsa su industria de defensa con 333 millones de dólares desde 2020",
-          "source": "20Minutos",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNalpYZlVnSFhndlFCeXRySmp5VUIwbzJnVVBSem1WZmRhVlZhZlhuLWNZRGRnaC1mc1ZMUjNfMW4xSVZrN3pzSXhPWkxzdXpJTXVISVZwLTVLR3dBbmd3RjBKS3AwM0VxWWlvYk1hMm5GaHlJc3ozMWQ3ZVRkM1NudGV5U2dIbzRkVXZqWXZQY0VyYlBuYWNNZE9jYkxhMjhqUW5ZT3FQb2FsV3dnSjRsTHV6bjh2LVJwaWhtbFdFQURWQVRfQWxB0gHMAUFVX3lxTE9EOW91TmthZ2hfZWJ2bkYzblpnT1FuUmN1UXBKYmI2bDdhWFAtWkR0eEJaUTloN1pZWE9tc1ZSaElBWGZ1dE8wNDRScTM4OGtuOVE4dmFLX0R5U2NBNkdKSXVnWWZwTVJpc3NwcUhHLXpzS0hsVWV3MEgwcnpZNXY4YVRCZmRfclhad2lVLUdiR1hwQTZLZk1nM0ZfX3UweDJvN0ZRYmxPZnd4LW04OE9HeC01aHh1NXNGbUxGZEd6cWk3X0Z4Z0pwSGlzNg?oc=5",
-          "ts": 1794673137000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.9,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
-        },
-        {
-          "title": "ETFs de defensa 2026: los mejores del sector militar y aeroespacial",
-          "source": "Rankia",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tVVN6UDJMTjRTNTU5SEZCQ1N3U2VPSEpKVHZtR1pIMmRWaFBzREZ0Xy11dXlrOEpTdDBMckZoLVBPbDF0NWk2ZUVLUXpsaTYzdTkzb3lSTFA5YzJ5X2pFellzNGRYN253WWlnMw?oc=5",
-          "ts": 1791874800000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
-        },
-        {
-          "title": "La industria de defensa española factura por primera vez más de 18.000 millones ante el aumento de gasto militar en la UE",
-          "source": "Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWnhnLUtCX2w0UGZ2NnlidWlhR1pBWU0xS2hub2FZZk04Y2pVYkZWMWhmbWh0N1I0X2RpbmJ3N3BVc0VYcEtHNkI3Yjd5R3dKUXRpSGxIQkctaXMtTDF3cWdLNV9vdlpBU0F2UjZkcGZCQ094TFFFTUpaZkRzVW5tNDUxdW44N0pSb2U2N1hWekJfejk3THZhMXFmVGw3QVlsdUczLXRUY0FuU0h0WjNsUUNueGVyUzNENUpkaldrNmYxQdIBxwFBVV95cUxQanZJZldsdUxXSUJMQzE2cnpTY0NxVkJ3WWxEeERrdy16Si1KRXlpak54MHdKdnFJdEc5VHpiV1ZJMHg3Yk9YZjlmWVAxMjg1aVhQT3c1Q3hQdVB2NVNuZE9CNkJwcXEyUkdRV2lNUUJ2YmFMc3hqZlA3amhwRmFReXgtYzlma1NCYUhVRDlNNU9zYXI0d3ZLbkxSejJySlZxVUczcTFscHRRcXlyWDVMdUZEcDJhUDQta1UwZnlmY1J1U2VrdjN3?oc=5",
-          "ts": 1791183600000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
-        },
-        {
-          "title": "La industria de defensa y aeronáutica marca récord de facturación en España y ya supera los 18.000 millones",
-          "source": "RTVE.es",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZkNpVnRINGVxUkxLcWhBTkE3Z0lDc3BWcFQ5QVpwS0VHNklOWUxQRFZYaU8tbzdYMVBxUGc1c01zUkVUODJTR2Z2ODRHdXh0aU5XZGJ4VTlTYi0wakpRY1UzRXNxbThlMzZveG1iMVU1djVQNURPdkNCaTg1RzRuTGNFQ1I1S1NZbmZJSDlFSU54R1BINnluUFA2X1N1Z0dOZzZhbUVrM2NUWTM5M24xV0hDWW8tenl5ZTJselV6RXZkVnBXMklOX3p5Yk9rVzlScGQzSWNn?oc=5",
-          "ts": 1791183600000,
-          "sentiment": 0.67,
-          "tickers": [
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
-        },
-        {
-          "title": "España dispara en 2025 su gasto militar un 46% y ya absorbe más de 23.000 millones de dinero público",
-          "source": "Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU1pueFBBTkRJVUpOUWdWb09DS1YxXzZoSmlkTk1nZTdXRTZmNVhDUEtfejFYTmJHSW8zZUpHZUZZWGFfNkZuZTRxZUdRMTFLcXVna3JoVE9aSXZudm55X2M2c21pemVMLW45dUtENXZlNHNJMHVqUjlSTm9KMmJCV20zXzNQdHVSSzJ5bHlsMHZNQTAtanQ2ZGVDSjdWNVBCVWV6R2t1d0tJT3h1NFdCRW1R0gG3AUFVX3lxTE81WnR2UnBSUnV4T0pXNXZsLWhPaFZGZ3Z1QV9ldUZ4MktUVUFCb0FWNWNOX3pJeXhCR21hSURXbEtyVVpGbnRwUGZOeUFIMkUwSVFYYlRseWxPVlhRZlRXSWtXaUdNNTFWeWcyS3BzWjhsNnE3X2MwaVdtOXEzQzlCMzluMHgwRHhzZVFtaGJ0NERsRlh2dWhTbnZPRFczU3FuWFNwR09iZVdCTTNfYlY3ZXVMN3Bldw?oc=5",
-          "ts": 1786863600000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.9,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
-        },
-        {
-          "title": "Marruecos incrementa un 18% su gasto militar para desarrollar una industria de defensa propia: 14.500 millones en 2026",
-          "source": "El Español",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQl9ObmRWdnR0MC1Lc3JRX2NqMk1ZUzd6N1lNcThGZXZUVjgyU2FoOEpVWjlxOGpYYjVwWHlGUmpxOEw4ckxBWmg4bGlMTW41OTNPbkRDV2NLZUQ0Q01KTzRtNFZpcGtfczZibHNpUFc0WFdMLXo5Q0paYUlXZ0c1QncxRmd4cTU5aGZNRy0xVVNUWGNhUEE5X0RKVTJENHUwWTdoR3hMUVlCSnJRTlpEYnB3T1l3LUhCSjhIT1AyS1hua19rQy1mWnhNVGxiRENQazFYbGVURGdxMXBGYVczeG9FZng2VWNHcnotZUl3?oc=5",
-          "ts": 1763798400000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
-        },
-        {
-          "title": "ETF de defensa: los mejores ETFs y fondos para invertir en 2026",
-          "source": "Finect",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVEJ1c3pPRUlDVnlETjhtZFozUHVhVlgwRks3YnhsMUtRYThBSkJMcGNlVFdyY290M2ttUnRuTTR0MVVFNzBPNGNyMkhuZ2NHa19tMG1oNnpiQ1llVEVydWFwaXlIMDYzR3dJdmJYSGtYQlhQYkk2c1RSQnpXRW5laVFheDN4NE5iRlluY2o5dWk0ZE92R3NwYkZnMV85S245b21yYmhKZUlkdFlBVUFmLUo1OA?oc=5",
-          "ts": 1742369805000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
-        },
-        {
-          "title": "Mejores ETFs de Defensa en 2026: Recomendaciones y Oportunidades",
-          "source": "extraETF",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1SW1SUlF2UW5RQ1hQc2o2aU90b2lVR01NQXNudHdJeWxIblpReGNCczFvOEhpSUdIY0N4MDdIT0ZkVGFEcjBBeXhoTzdrUWh4Umw0bkF2Yjk?oc=5",
-          "ts": 1738802692000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.4,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
-        }
-      ]
+      "items": []
     },
     {
       "key": "oil",
       "label": "Petróleo / Energía",
-      "items": [
-        {
-          "title": "Precio del crudo Brent: 95,84 $ sábado semana por delante tras segunda pérdida semanal, alcista 98, bajista 91",
-          "source": "FinanceFeeds",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZG14TnphOU9wZVJSS2dQMWRDS2lFTS1wWUZmaXNYNDF1WG1OcjhmZkxFemJIV3hCUVFLU29tSDd0RnBiZVE2aUI5bFRuRlkxa2Zia1dZR0xsZWNQZE1FNUFYUndhRGEtWnkxV3hXZG5TamhHcHJzR0d6a016OEVYMDd0VXk3WGhDMFV5aDZoa29qS1J3QlNKVA?oc=5",
-          "ts": 1794643805000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 1.3,
-              "dir": 1
-            }
-          ],
-          "category": "oil"
-        },
-        {
-          "title": "Petróleo Brent registra una jornada estable y termina en 95.84 dólares",
-          "source": "eltiempomx.com",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNXzkweXR6R1VBUkc3WnhxUVZSY1BpRzFVT0g5MkNfZDhDSkd3LUxyX09Kd1lZUnU0bFdxbFlRRER1OHpsZXliTTlVZTlsWENMR0VseG9xbnFDbFU2UF9oX29UVTJWSUpjMVE0UkZiS0lJeXpHc2pxVHoycGxFcUhzWmdVd0FoOGtMMVFpMFZKS05iMlFUMVQwS2lCRE0yZFNGb3dFSnFCVm5mRXZ2WmRN0gGjAUFVX3lxTE43ekNBQ1pfRzIwZFdQcVJJdm1fZzktQkZTZFdkMTBDa1dBRmhvTVNKV0x4YlFENlQ5dWxUajBiZVpySVpsZlRzSGtRSUtjVUtscmZDenN3cHF0QU91MkNfb0NhRUlDSTlIUTgyd2ZnTk13UWRTdVp3b1Q2ekVCTVBycldMQktMblVXTEJ3eGhNeVRiOUtNMlE2VXdwX2dNdWhJQmc?oc=5",
-          "ts": 1794603124000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "oil"
-        },
-        {
-          "title": "Pronóstico del precio del crudo: WTI y Brent suben tras ataque a un petrolero en Ormuz",
-          "source": "FXEmpire",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeWduOV9rWUdFcWVxWDEteUp4V29UOVJ1MmtOSmFUcDlNcVBOR1VqNHhFTmc0QjBXcmpfUUhnT2pwb3hNM3oycEhUV3dxNVRXZFhBR2l1R1VPb2JkQ3Z5OEpvMzFVenhTS1JtTURGVnljSHJvajdsazVLb1FJQjFaSWo2Ymd4ZkMxanhIQTNaQVlHdmJFWHRhX3dzVk12aFdEQW5MdDkxVzdHY2Ywb0x4NzFMOFlqVTRaUFdySEt1eEMwQkhlZEl1cEQwZUZROXpqLWlqSHhpY1NDQktZcVBz?oc=5",
-          "ts": 1793343600000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 0.7,
-              "dir": 1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": -0.4,
-              "dir": -1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": 0.3,
-              "dir": 1
-            }
-          ],
-          "category": "oil"
-        },
-        {
-          "title": "¿Por qué caen hoy los precios del petróleo Brent y WTI?",
-          "source": "XTB.com",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcWdvT2t6SFNPUHliU3V2aGFhemZ2UGZRT3F5OUZWcGJmbEwtYVVpNE84SENaUzBlMlFlc2NkS0YxNjFWNmp4djF3V3F1OUd2YlN5OXM2WGdTUmhrR1NzNjdGXzhRY1ZsTDhQaVM3ZUlqQlhWdWRIblJMZU9vdlBTaFZDdmVkNE5BWExZUUhpUi1mMWgzcE12MVctQkJTQWxyUTM5VS1pNEw1cEhZVzJxTE4wQThlLVJw?oc=5",
-          "ts": 1792998000000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": -1.3,
-              "dir": -1
-            }
-          ],
-          "category": "oil"
-        },
-        {
-          "title": "¿Por qué sube el precio del barril de petróleo Brent y WTI?",
-          "source": "XTB.com",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQTNNb3hGX0VvRk83bzdwN081M3FncXVwVHVpaUsxUjV6dkFMSy1TQ05uZWNBVHhZUzB1YkZLSEZGR2dpTjBKbFNXTVI1cm9TdFdlbW9NR01CNkYxNFlWRnY5X0JvbEFkSHVyS2l0aFF6M0xsQ0dhMTZLdktFd21jLTNoVVFHOHhaV1IxcW5CanlYd3FwSzFzZDF1d0RJNTVTOGg0VDRITFdxeVBoa0t1enRxTGpYVUhIbW1ZRXFTM2p1dw?oc=5",
-          "ts": 1792479600000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 1.3,
-              "dir": 1
-            }
-          ],
-          "category": "oil"
-        },
-        {
-          "title": "El precio del petróleo Brent roza los 110 dólares: el WTI supera los 101 y amenaza la gasolina en España",
-          "source": "Merca2.es",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbThjQmVucmtvTXJDWDZkQWxrblp1V1M0SEFqRGRhNWdGeUlCUXpMQ0hSYnpxOWdQZFFPZnNNcVhQSWt1TTFUcVltcEtXbDdfM2lSLWFla2dyRW1xY05BNjZubDAzRzBrcU1KcUY5Nkpjb3hOdWdoQzJlTFFrb1o1b0FhU1dzMms?oc=5",
-          "ts": 1792134000000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "oil"
-        },
-        {
-          "title": "Los precios del crudo WTI y Brent se disparan más de un 4 %: ¿por qué suben los precios del petróleo?",
-          "source": "TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSjI1T3Vsc3J4anUtX2pHZGNzakxNQU15NjV5LW9uclB5OUxpc0EyMEJpeEp1MjR6dkFyc05aRkt2RjlvQ0hjVjJ6cE9uU3l2Q0xYLTBBaVdvc3VIcWhJN0RMWkRKb0pBTV92LWg4YXByVk5SbUx0U090OTZKbU9LVUg1X0EzRkQyX09OX2dfZWM2ZzA4QkxNRkcwRVFvNE9ZNVAxNUVvVVo3WGxBOW4tcDlwQlhadkpqS3N3?oc=5",
-          "ts": 1791442800000,
-          "sentiment": 0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 1.3,
-              "dir": 1
-            }
-          ],
-          "category": "oil"
-        },
-        {
-          "title": "🛢️El Petróleo WTI prueba los 90$ y el Brent baja de 100$",
-          "source": "XTB.com",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU2hEM2tZZlloRlh6TUpLbE9CclpUQUFxWDJYRWxQV3VHaG1aMzFjRU9PMG5icmswMzQ3Xzd1T3VqMmtlX1FDRlJ2N2E1YmxLZGpIc05tWFRFVmZDSUw4d2FrRWxhMVk3Mnl1azdfWFphbjAyUmY0NkJHZnEwNnc2d3JxNVhtMTQ5bzVkRDVRRTg2VG1nc0RxXzZtQQ?oc=5",
-          "ts": 1790060400000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": -1.3,
-              "dir": -1
-            }
-          ],
-          "category": "oil"
-        },
-        {
-          "title": "El petróleo superó los 90 dólares y alcanzó el precio más alto en un mes, mientras la guerra en Irán mantiene en vilo a los mercados",
-          "source": "Infobae",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNkROSlc2SmloYVlDUGcwTkxuS1B4Y1VzeG1qSUI0U25oOXZzRjA4LUVodHZBVjBHejBJb0ZBRG10QUpfT1FIb1VqTjdvY2U5UVEwR1QyOHJFZnlNSEp3YVdCc1Q1c2wyVmVDbGx0ckF1TkxHM2dkVW9HNkloeVRMU21td0NXMjRjX2R5R1J0OFItQU5vMUhXTEcydUJsR2JTT2Fubkg1RmRaQ25KdGFlQ0xCT0Nmb1pWUVd3WnBQX1N6VWRoN1lLVjVjZlRqVEpmcnhiZ3JkMklwZ0podE1GMXJTNm1odWVDR2RJVzlTNUlxMUlzUXpKWGFhdDl0MWhUS3djVW41ckcxUdIBpAJBVV95cUxPcmp3TVFUSERsNXRManBaa2p1MVhfSzg2eHVCT1JQLS1FQWtOWWUwVGpNbURvSzdsRk9BU3YxVUNhRnVKVlFVSVZFdTRITUc4ZEYxUlBLT1o4Vlh4WUNWMExzU3BYNWotVGNOa3REZWdDeC1iMFhOcFdKa2N0OEo3ZkJjNllMTFR3RDBiSEhEbGNkWG1IQ1ladF96SGdGcjRHMzVjcWJUb21TYVA1S1MxaEcwZjR0Y3dnTXMyMFVvRmtNQ1lFQjJGZGQ0dmprbXFwQmxvNmVNTGJxbjRyM1V2UnIxMU1GSW0yMV9aVkJmOXdBdExPM2JPMTY1aGZfYmVrZjBtemtiMWZkRDQ1NkxKT1VpX1h1ZVpiazZHYkxOUzZEbFI1?oc=5",
-          "ts": 1784530800000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 0.7,
-              "dir": 1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": -0.4,
-              "dir": -1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": 0.3,
-              "dir": 1
-            }
-          ],
-          "category": "oil"
-        },
-        {
-          "title": "Petróleo Brent WTI cae a mínimos por negociaciones opep",
-          "source": "Inspenet",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nSkVTT3JvSVBYRGpsSFRKQXhPdi13Vnl0RFlndVUya0xSLW84SDJfXy1lTVR5eVpGbmQ1UzVfLUNXeHhxbDFCREtPZVhPR3dBc0NCWnAweGhid0Y2TFc3aHk4SDZUd3h0d2pzRkVmRDF1SmVWZHpYTnFwcEI?oc=5",
-          "ts": 1782975600000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": -1.3,
-              "dir": -1
-            }
-          ],
-          "category": "oil"
-        }
-      ]
+      "items": []
     },
     {
       "key": "war",
@@ -1215,19 +881,19 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": 1.8,
+              "pct": 1.5,
               "dir": 1
             },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.7,
+              "pct": 0.6,
               "dir": 1
             },
             {
               "sym": "SPY",
               "name": "S&P 500",
-              "pct": 0.5,
+              "pct": 0.4,
               "dir": 1
             }
           ],
@@ -1243,7 +909,7 @@
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.7,
+              "pct": 0.6,
               "dir": 1
             }
           ],
@@ -1380,12 +1046,18 @@
           "category": "macro"
         },
         {
-          "title": "Dow Jones cae al cierre ante la especulación de próximos movimientos de la Reserva Federal",
-          "source": "Estrategias de Inversión",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdk5LWGFob0RWYWlaNFQtaDEwa20tblp6a1pfM3RSSWFCMVRNQWhNQXA3VjhFbGtYNVdiNDJLalc4YWxwQ3hYUU5lQk1HVmNjR1N5WDhQQ0gzakhhMVBqMUNIWGhVVlRGSlhtNHZIeXhER1g5bFVQdHNtTkJFMVFHa1FoWjA1UjZHM3JSVmFDNlUwb1Rtc0k5MFF3dERnTmVJQnhQa3pXbkk0Z0ZyZE9HcU12b1RWRnFycHoxMGZJTUtXMHlT0gGgAUFVX3lxTE9leHNsTFUtdHRCbms0QmNzbXNvMi1yNnNUaDIyZ0t6T0xjNDgySE0zSTI5cUNjY054UHREZmV3cktaQkpSUGswLTZqSHpsSTFTaG4yMjFFTzRsNkxIQXhSQU13RW1YM2FkeXNwSTdKWlhtcVZxVlQ3bUh6NDdJaXJWNEFJcHdOb3RDS3k3RTBFelIwT2Z2U0U2dzFQMHYxa2g?oc=5",
-          "ts": 1789714800000,
+          "title": "Wall Street cae luego de subida de tasas de la Reserva Federal",
+          "source": "CR Hoy",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMi01ODFDSG1ibDczQ1VzSmZUT1dfcTQ1WFpqd3QwNEtTd0VBTWgwUC1kMkI0STRaUGVsTkY4a0RfbkE4cmRHbm91LUJsdkpuUkdWa2E0SFotU2xmUlV6c1l0b2tRc3BTQmZOdFFVUW8td2ZEV05qb015SC1GY243Y3hMSWY2bVlkMmtPMFVWY1Nmenhl?oc=5",
+          "ts": 1789542000000,
           "sentiment": -0.5,
           "tickers": [
+            {
+              "sym": "QQQ",
+              "name": "Nasdaq 100",
+              "pct": -0.7,
+              "dir": -1
+            },
             {
               "sym": "SPY",
               "name": "S&P 500",
@@ -1402,32 +1074,38 @@
     {
       "sym": "TSLA",
       "name": "Tesla",
-      "net": 10.2,
-      "n": 8
+      "net": 12.0,
+      "n": 9
     },
     {
       "sym": "WTI",
       "name": "Petróleo WTI",
-      "net": 9.1,
-      "n": 20
+      "net": 6.3,
+      "n": 10
     },
     {
-      "sym": "ITA",
-      "name": "ETF Defensa/Aeroespacial",
-      "net": 8.2,
-      "n": 22
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": -4.1,
+      "n": 14
     },
     {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": -4.0,
+      "net": -4.1,
       "n": 5
     },
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 2.6,
-      "n": 12
+      "net": 3.1,
+      "n": 18
+    },
+    {
+      "sym": "ITA",
+      "name": "ETF Defensa/Aeroespacial",
+      "net": 3.1,
+      "n": 10
     },
     {
       "sym": "ASTS",
@@ -1436,94 +1114,30 @@
       "n": 1
     },
     {
+      "sym": "SPY",
+      "name": "S&P 500",
+      "net": -1.8,
+      "n": 16
+    },
+    {
       "sym": "META",
       "name": "Meta",
       "net": -1.7,
       "n": 2
     },
     {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": 1.6,
-      "n": 17
-    },
-    {
       "sym": "AMZN",
       "name": "Amazon",
       "net": 1.2,
       "n": 2
-    },
-    {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": -1.1,
-      "n": 18
-    },
-    {
-      "sym": "GOOGL",
-      "name": "Alphabet",
-      "net": 0.9,
-      "n": 1
-    },
-    {
-      "sym": "AAPL",
-      "name": "Apple",
-      "net": 0.8,
-      "n": 1
     }
   ],
   "ecuador": [
-    {
-      "title": "Ecuador prevé contratar deuda por US$13.843 millones y la mayor parte será interna",
-      "source": "LaRepublica.co",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPamlRXy10ZjVQTHMzcTBKTkExWmdQWjJpTDFid3V5RF9JOGl1Sy1IWE0zbVRobTN0QmRqMXZzYU5WSzV3V053cE5JWmhXUXlnZzY0LTBBc3NKMVpnamdjTUoxX19XdUNsd0FFYnM3T2RhZTFtSjVmZFJWdGlFUzhIMnJaYnNGY0xjSVBUUFE3aGRfajJvelhDaC1HQmVyMnI0bjEyUVhUWXg3dVVvREdackFqNmVFUEhjcGcyZDlQX2VnQ1BVWjEzTDFZNNIBywFBVV95cUxNMV9Gakl0c0RlOGRVXzFaTS1CUjF0aXdXVzExTkRzeEJNd2w2eXJ5dGZ5bzJ6akJxSUFTU3RlT2xxTnJ6akQ0Yk1NRzNKV3dmZVN5VkFHUWFwZ3NPSHdWQ0c3dWd3LUdHa1U1TE1OWjlMQklWNEhIcmNwTjF6eE5JSTA4Rk1oa1RESXNrR0ttZ2NrWUxEUnZTLUZfajA5N2tQdE1PVGc0MnFXNUFqVnhFOHNsRUhlMEJkNVdFWlp0d2pySHV2Zi1CbjJENA?oc=5",
-      "ts": 1794851441000,
-      "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "RIESGO PAÍS",
-          "name": "Riesgo país (EMBI)",
-          "pct": null,
-          "dir": -1
-        }
-      ]
-    },
     {
       "title": "Nutresa adquiere La Universal: cómo el nuevo gigante del chocolate reconfigura el mercado en Ecuador",
       "source": "Diario La Hora",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOVdmQ18ycnM5bUFzejFMWFVjYWxVUDVITkx0UDdYdjdWTVZlZ0lEVThfNVhTcUM4enZIalFQZzAtc0pJNUszcUxwTVpBLUZlZVNwUkN5OUFlbTMxT1lwb0h2M0RaOUdCWDZPbXdkaDVMUDJ5TUJVdHhFVkRFWC1Ra0xwbS1vNURDVktaV1hOVjF3bDJaaDYyVGpPa3VTNEtSRHQ0U2tCOEZyNkc1ZzFwU1VacEdkYnNQR3JEY016RUFuNDgxTEhNSDluUkp1SjhGeWFDTjdWVno5TXZWX2s2RVB5SkEzS09L?oc=5",
       "ts": 1794845088000,
-      "sentiment": 0.0,
-      "tags": []
-    },
-    {
-      "title": "Ecuador prevé emitir su primer bono verde soberano en 2027 para financiar la conservación",
-      "source": "ElOriente.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUFFTclZrYkZGU2I1dkVOTmJ4S3lORm5QQnJ4dTRFUVFNMFhsOUtGMi1rb0pYc1VZOEtFUjRGQ3E0UFZJcGJOcHk4YzRsdUh0dExVX3d2M2p6VFV5ODR2MGlWT216aGhNWTZsdm0yX0VUNXFYR1B3clJBN0Y4eHA3bWdlTzJKMGh6LW9IbHFaTW1VcDZuQmlCc0xNOWJPX0cxWHhVT2pOZml3VmQ1bHlxSVh5dzBPeUI3U3pReklLcXB3d0VnUTEwVjV3?oc=5",
-      "ts": 1794845030000,
-      "sentiment": 0.0,
-      "tags": []
-    },
-    {
-      "title": "Ecuador prepara su primera emisión de bonos verdes para 2027",
-      "source": "Diario La Hora",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONGd5ZnlkdlR6ZXdiMTdlRzh3S1NwRUx6RG5TZnBqWmktUHpKZVgybDlDX2RDejNhZkFVY1o2ZHV4UHI4ZnRoVk9VS0FqaWJtZjE4S2hNTnNaczZXR1VQREVDb1d3b3BVS0Q3Ukg3YkFkanVXc256X1pjZ3JRQVdOMndOSS15UjVySi1IMjFZU2t2Ui1Na1QzNmtZd0hpSDFhamRjUnpuR3h1ZnhmRnE4Z2pmNEg?oc=5",
-      "ts": 1794840300000,
-      "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "RIESGO PAÍS",
-          "name": "Riesgo país (EMBI)",
-          "pct": null,
-          "dir": -1
-        }
-      ]
-    },
-    {
-      "title": "Gobierno lanza plan para ampliar acceso de pequeños productores a mercados internacionales",
-      "source": "Primicias",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRmZlZ0t0VVdadkdUN2x5aXpjMkZHQmN4SEtCRlVpSHpQVVE4T2p2NVVaUXBOX0xOZ3VlQXZBNFpaMzgxd0xDdm5uRlRYcWNwNzRpQlktY0xqQkJpSWhWYUQ0QnI2eXBuNnVMS3FnRlJQYlVVak9OSTJSQ1RscUNHeE10LUREc3lHTGtBZzJEbVJlNG1UTk56YlhOYzRyUFE?oc=5",
-      "ts": 1794686746000,
       "sentiment": 0.0,
       "tags": []
     },
@@ -1534,66 +1148,6 @@
       "ts": 1793170800000,
       "sentiment": 0.0,
       "tags": []
-    },
-    {
-      "title": "La estatal Petroecuador reduce sus exportaciones para destinar más petróleo a la refinación local",
-      "source": "Primicias",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYXFVSG5jU0xyQkE5emYzTWFPZERmZVdnQTBzZExSYzRqMWloRm81VmdSN1RxM20zcWl2RlVlcEtxYVVsdEhFb3JrMXZpZE45TWs2NWh0V0hQN2UxS0ZvUExQam42bmlvNExGcS1ENXA2NzQwckhrSUQtYUJKelYwN0hIUXUtTWFaV1VnVEdFNmF1VmMyX05jRXhuT2tKemZlMUNWUHRsb0lPQQ?oc=5",
-      "ts": 1793170800000,
-      "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "WTI",
-          "name": "Petróleo WTI",
-          "pct": 0.7,
-          "dir": 1
-        }
-      ]
-    },
-    {
-      "title": "Petróleo crudo en el Comercio de Ecuador | Observatorio de Complejidad Económica",
-      "source": "The Observatory of Economic Complexity",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNmJwa1dtSHZpUmliTDFPRm5iaW00dkxhR0VkNXpTRjVXcFh1ZTRLS3F0M1lYS2ZWRUJMam5NSWVZRmxHT3p6eDNGTzVmZHQwRnJWcVZLS1k2d0wxYTQ5dVJ1eGJSOWVTX2Z0SlloSkctYVBrWm1tSkl2ZDR5S2tOQw?oc=5",
-      "ts": 1792825200000,
-      "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "WTI",
-          "name": "Petróleo WTI",
-          "pct": 0.7,
-          "dir": 1
-        }
-      ]
-    },
-    {
-      "title": "Petróleo crudo en el Comercio de Panamá | Observatorio de Complejidad Económica",
-      "source": "The Observatory of Economic Complexity",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3I5aW5YVTM2ZmRFOHo5bHB2RTdESlE5QW1PbzNiMVV4ZHo5ZWlHc2R6N1c1Q1BERS05Nkw4M0Q1R2NkdlVXZXZkSTFRN3JONml3TXRyM2VGQWVRSkN5REFiYWtLZmJNeDRwc0I4OXpEVDFlVG1KdEQ0bFRnTVFqOA?oc=5",
-      "ts": 1792738800000,
-      "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "WTI",
-          "name": "Petróleo WTI",
-          "pct": 0.7,
-          "dir": 1
-        }
-      ]
-    },
-    {
-      "title": "Petróleo ecuatoriano se venderá a Perú",
-      "source": "El Comercio",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHdkTXMtME56X0h2N3lpZGpFd01nS2hBMGNrcHczMG5NZ0M1ampzT1NVYWN5UGhyeERFTE4xSl9EVFVOV2gtdjBEWW0zWGR1b3haVFQ0Q3pRZ1lfMnc2QUp3ZVA0Y3RmaEJObXhzTFhnS0dQVFd4dGdYY1BIVG52VFFZU2lRQWxzV2tWazln?oc=5",
-      "ts": 1792479600000,
-      "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "WTI",
-          "name": "Petróleo WTI",
-          "pct": 0.7,
-          "dir": 1
-        }
-      ]
     },
     {
       "title": "Faltan medicamentos en el sector público, pero el mercado farmacéutico privado crece en Ecuador",
@@ -1661,6 +1215,119 @@
           "name": "Riesgo país (EMBI)",
           "pct": null,
           "dir": 1
+        }
+      ]
+    },
+    {
+      "title": "Juan Lorenzo Maldonado asumirá la presidencia de la Bolsa de Valores de Quito",
+      "source": "expreso.ec",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGxNMXJTSG5rTXp4d0l1TWxQZ29YakR0bk5YMkNFVnNPUGxNUXdkS0gwcGZhRkhBZTZiLXBYVXB6SDh4ZXpvQmQ0NFcyaHYwalk2bWJXTmQyS3NCSnZqVTZ6SXZBU3R6alE1RGt0QVJMaU5tT0lOZjRrNVc4a0pGRDhvNEI2anFoZUVsRjIxbUVmWTJPMmpVbWl6ak5wUjA2RElqNEg4eVQ5MWk5VWVqNUttdG1LOFQx?oc=5",
+      "ts": 1790146800000,
+      "sentiment": 0.0,
+      "tags": [
+        {
+          "sym": "BVG/BVQ",
+          "name": "Bolsa de Valores",
+          "pct": null,
+          "dir": 1
+        }
+      ]
+    },
+    {
+      "title": "Juan Lorenzo Maldonado presidirá el directorio de la Bolsa de Valores de Quito",
+      "source": "El Universo",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMmxiQlM1dWdVdVh3MXNWdTF2aFVhWmM2RHhKNmpfMF9QVmhJNXRmcXYxbllZdmpmUlRBbG1QLXlSSEYta0IyUEtiQkVxRHBhc2NTMHBEZnktS3JiaGhrc04tV25uekZjRFpvQVhUUXIwOUVTNXdVRFpaYnNLZGtpd092d2ZmU3FYazZkYWdXZ2oteUNFVzNoWWJLaUxYaVAyQjJIMU01aE91ZF8wRFdLZzRkQ0NTS2N2eDlqWTdXLWU2bHhD0gHYAUFVX3lxTFBtV080TlMxZm15cUtzWGp1VDJlRlEtWlR6X1lCWFNyN296M1JONFlSbVBCQzMwenVfdFlWb21uRE9tQmhNR3l2UExBZDVVLUctNldJeGFoLVNLTmpTZmZZb1dsVFAtQXozYkxsejdYX2RhMm5naGw1aFB0ZGRRQWxja2RlZ25uSTVwQjhnV3ExYzlLMGctOU9EMVdya1lFbm5iQkI5Ty13OGFIUEJyeWpEWnlEcTA1YzNwY00zaXBsV3lDY0VUM2VJeEpkNTBlSXJZNTIxS0U2bg?oc=5",
+      "ts": 1790146800000,
+      "sentiment": 0.0,
+      "tags": [
+        {
+          "sym": "BVG/BVQ",
+          "name": "Bolsa de Valores",
+          "pct": null,
+          "dir": 1
+        }
+      ]
+    },
+    {
+      "title": "Ecuador y la oportunidad de consolidar mercado tras la crisis de sus competidores",
+      "source": "El Universo",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWmNoSUdsdkZfU0FoMUtKV1JtZmFwNGliRGQwZXdZSVpHOWFDclZvNjd6UEIyZk5Vd3dFOFJFVEdnX2Juazc0Wjh0Rk9ZUjV5QnByU0hSOEVweE1WVVI5S2YwcFlsTHVrWG40ZzQ2dUhtckR6RG9UR3pDbHlLVkw5cHpzcFpqSnZrZERJZTFBWUN2WmxHN2s5eFlDUzlJNDNFYUNTSEtpcmhKRjVZRVNkVkdwN25LVDdydGlyVEJmRDNiR3ZRU1ZBQ2xxLUZJSmJQZjhmcG03T2pXeEc5SE9qdNIB9AFBVV95cUxQX3c1MUpvUDBqbVVVOURsLWdWRE94QmExRWhSRHVlaHRhbUxMTjMwMVUzdlJpYlplbnRaQnBaUzBRRUg2NThxZkpHcEp6cmtmamJXcTRFQUVGeEk0bGFaR1RMVC1MbEJXQ20tVDVaX0M3V1VCcDlOQTFZRmxxSFBhbzhPRC1VR3dHdzJXUWZWRjU1Y2ZmaUE4YVNXOUp1UXEzWTJmX3dkR2pqaTQ4S3J6dDRqdXVTYWt2WGRXNTNSb2cwOWk1YU1rNDhSWElxZ1F5d3lzcFV5TktiTTNROTJYREF0MlhGTTQtUjlBUWJfdDR1VzRM?oc=5",
+      "ts": 1790146800000,
+      "sentiment": -0.5,
+      "tags": []
+    },
+    {
+      "title": "Bolsa de Valores de Quito (BVQ) designa a Juan Lorenzo Maldonado como presidente",
+      "source": "El Comercio",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZmJZamp0dXVHelMwLWYzd1lna3huVXdqaXd3SkYwRmlBWGpOdU54eVdoejNvV0poZ2g5dVFFc2Y0WUl3TnlmS3hPNlo0OU5pYXZheWN1MnFzNU92ZmtDdHUxZkRIZWliUm8tOF94OF82R1RhVzBHbGNGdTRiUGFfVDlmYWtBcVdWVndDcV9FLVBWSWEtemJDWXFqVjQ2R2YzQ294OU0wak9uQmhvOS1raW90OGxITkp6Z0c2VXZ2c0tFLXl0?oc=5",
+      "ts": 1790060400000,
+      "sentiment": 0.0,
+      "tags": [
+        {
+          "sym": "BVG/BVQ",
+          "name": "Bolsa de Valores",
+          "pct": null,
+          "dir": 1
+        }
+      ]
+    },
+    {
+      "title": "JP Morgan cambia la metodología para calcular el riesgo país, ¿qué pasará con el indicador de Ecuador?",
+      "source": "Primicias",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWVh3aE9nZU5sSklLNEJ2UG1vcEh2cDVzNGtacTFEY3hSQmF3SUVONHFLcjJNbXlic0cxak1Ia2VqM1lTOW1tZzdSV1VTaEdmUUJ2UmM2bUZLZjlKVDhnR1lSR2gyTUtoSzllRG9nLXoxNmlmUGpyS3hBWmN1Z3RKekxVdEhiZ3NoRFlhV3FwMnlCbmVORk9tZl83dndqOXpO?oc=5",
+      "ts": 1790060400000,
+      "sentiment": 0.0,
+      "tags": [
+        {
+          "sym": "RIESGO PAÍS",
+          "name": "Riesgo país (EMBI)",
+          "pct": null,
+          "dir": -1
+        }
+      ]
+    },
+    {
+      "title": "BCE informa cambio en cálculo del riesgo país de Ecuador",
+      "source": "El Comercio",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORV81MmRMRjdtTUtLOHdCa2hUSkFHYWduOWlmVUxfd0Z5TWMydURRZmphTnRTUG9jeDlBNENBX1h3N3loWkpmUHVoV3lsRC1aZVVMenlvY090ajEzSDRTS3VNM1FsVld4THpNRHdXakNlMFRJYkkySjc3UE1yU0hvY3VTZ0ZzYWZWd204eDNiRW5QejdMQzhsZnk3eFI4cTNtNF9ibTJVUQ?oc=5",
+      "ts": 1790060400000,
+      "sentiment": 0.0,
+      "tags": [
+        {
+          "sym": "RIESGO PAÍS",
+          "name": "Riesgo país (EMBI)",
+          "pct": null,
+          "dir": -1
+        }
+      ]
+    },
+    {
+      "title": "JP Morgan cambia su metodología del EMBI: el riesgo país de Ecuador registra un incremento técnico",
+      "source": "La República EC",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOXBVYXMtUHpqejBseHNOSDRiVTRiOTJVTEtjM05GYTZ3LVNLTnFIV3dUS1FEM1BFTEpZY005Y0xfTFduclp0VmNZbEJueENTWUl2VXVIQjFVYzhBTmNaSU8wYlRVYWc2QnRicGdxUXE5aGwzQkhjT3Z1REJKdDM0WVBWX0RUY2VQTjlPVzNwRGFwZkdFUlAxNEZkZWtEWHFZUnZKRUVVaEdjZTZiY2JDV1g3VjQtQXdwZHJ5WWRQYW1GTWZUOGZoaDZwbldZQTB0eS1teEQxMkk?oc=5",
+      "ts": 1790060400000,
+      "sentiment": 0.0,
+      "tags": [
+        {
+          "sym": "RIESGO PAÍS",
+          "name": "Riesgo país (EMBI)",
+          "pct": null,
+          "dir": -1
+        }
+      ]
+    },
+    {
+      "title": "J. P. Morgan actualizó la metodología de cálculo del riesgo país",
+      "source": "El Universo",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORy1qcnpLMlBPdVpZODl0MC1nZ1YxX05CV2VleTJacmE5cnNSWXNLRjB4YUNvZjNlS1BKVlppNVJoV0xtUWZoUTI2UnZNN25HVzNSNEMyTklEOGRQZW81dE1WSGdSWUlDd0pEVWF1dmhxMXRvTWQ2aDZtTTlkMVdIVlBOdFd1cTRzLTEzYUhZcmVUajl0VnpWQUZRQzItd0U4akh4emlodHhrN1R5U1hfNnlmZ9IBxwFBVV95cUxPaXJaa3k1OWxnaTZEdnN6ckt2RFI3MWptYTdsNzR3WmZPd0k4Wmd4QWtmSE9WY0dsRlhvcVl2ZkZrb0habWZCU3hZUmUwRkRMX09ITC1lV08zLXZERUJBXzRUUGlhVkRyakFtYXVwbk5jNEY0akJOYnlsY1RSZXBtRVNFTXQyeWZ4alIxUDdvVG9XWGt5MjlQbzdzcmhQU2phMUprWV9Mb0d1MUpxQzY1Q3lhVklLekpvUGVvNzROek8zRlI0eVpZ?oc=5",
+      "ts": 1790060400000,
+      "sentiment": 0.0,
+      "tags": [
+        {
+          "sym": "RIESGO PAÍS",
+          "name": "Riesgo país (EMBI)",
+          "pct": null,
+          "dir": -1
         }
       ]
     }

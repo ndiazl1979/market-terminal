@@ -1,203 +1,15 @@
 {
-  "updated": "2026-11-20T10:29:17.368626+00:00",
+  "updated": "2026-11-20T18:44:25.278782+00:00",
   "categories": [
     {
       "key": "tech",
       "label": "Big 7 / Tecnología",
       "items": [
         {
-          "title": "Google y Amazon poseerán más acciones de Anthropic que todos sus cofundadores juntos",
-          "source": "Forbes España",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcG5WcXRoeWsyWWZQeFdjaWdYRUZ1VHdwNXdjQmVnWXFrdS1Ib3FpUzZOdWNLZmpTSnRiYnVzdkkzNGt6dWpjc245akFTR3VKeThJNE96ZFB1QTY2T2lZXzNjbFRpamNvaUJNTFhPNWk5bjVKc1NaZ0JGYlJ5QzF4Nkl2Q21ma05LWE1RTVhR?oc=5",
-          "ts": 1795158666000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": 1.0,
-              "dir": 1
-            },
-            {
-              "sym": "GOOGL",
-              "name": "Alphabet",
-              "pct": 0.9,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "El estatus de refugio seguro de Apple la lleva a estar entre las acciones más caras del mercado",
-          "source": "Bloomberg Línea",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMDd3cUZiQUFfRE1YRjR2SS02OHB0d1A3M2h3Y2lDRWtFUXNjM0RkZGlfZ1VZSkM0dlljQjFfczhmV3AyVVROS19yWWtXczFIcms4N2toUnFkaG51bS0xS1hSWkFJOUFiRE1hZGYtUmpyMDZPeERGRl9WWk9kNzNzZ2IxOHUycWlQZjBqUXRuLTFBWE9pdG0zcmFWeEc0RlA4MnhiYkl1SzU0RGMxZV93cmY0SUdtVkdWVG5Ra3psYkgzWFpxRlBzbU1oU2J4Wm9RR0HSAeYBQVVfeXFMUHFlVlItREw3Z194eEZmLUxLVzJGSXFLdVhxcXI1RjFlVnBMQ29qaXJvVFB3b000dFY0d1V6R3dkTVlQNVhpN1YzNHdSVk5XWXdxMzZsZUN0N09NM041S1g5WUJzZ2xXRkhCbGZCUXRlODR5c0J5NTFHWjhOQ1lkaTJuUlNzQzZ6czhSV0dFNVIwdFE3dnVRVGVUZ3hqRlZoRS13X3puNlRVSU40Z0hKLUhVMl80OFZYNHhYaWxjaXZYWW9FQUphREtIWERvMGFvdVE0VVluX21JMEZPbW5rUWtkckFOdFE?oc=5",
-          "ts": 1795151114000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": 0.8,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Trump compró acciones de NVIDIA antes del escándalo",
-          "source": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2k3Rzc3aUJjdWFWRXlKWXMtdl9sZ0NfUS1aMm1oZVQwenQ0NUdDX3dzc2I4NElJMjhwM1FIaDhaSFplWHUwRVd3WnRsVFh2RDFORzItdEsyNUZXZVY4OW9hZHpKQVZzWXdRVGNROEx2LXlKbWh5cWsxdFF4Z1IyUm5iVlJOcE5falpiYWY5a1ZzVVhJcHVQb0sxc24?oc=5",
-          "ts": 1795144440000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Donald Trump compró acciones de Nvidia por hasta u$s265.000 en septiembre antes del escándalo de Jensen Huang,",
-          "source": "Ambito",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMjB6R2R2dlgxVmxETFZYOWJuQ3hhZmx3eU5IcVFZZFdVVmlEb3ZySmt4N0k0bjh4XzBxYUhONXRqQkxmYktLbHZkdnlDUTRaSVBGTHRSSzNEYkRJQW0xSEwzMFZtdmQxRlVFSW5EODJMN1VfeHpxU1Q2M1MzMy1VUFZ3Y3VqeGFZU3R0MWtCZDlNUk1WZVJPem03RS1jamU2c3hnQTlmMkxyUlhTZ1Rwb1VMcHM5VXdjUTJSd9IBwgFBVV95cUxPYkQ5MzV2cU4tZVBRTk5SVVRDZS1iTEdKc0lSdWNOM09fZDdUdjl1ZURueU9RUTRlUWRSaHpvdGtfUFA5MzBlR1BpQkx2al9HVHlYNWhGeFpoTHZ6VWI4d0cxOUphdHJ2dDU0M0RSZzhaUFAyTFhSZHhkS190XzNfTkFQcG5KeUhJU3k2bVdhRFZtVUFwb2g1V2dJR3ZtTXRsMmYydDVGaHJLMU13WXZBOG5xVE1fQUdxam14QzQ5eVAxdw?oc=5",
-          "ts": 1795139040000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "NVDA",
-              "name": "NVIDIA",
-              "pct": 1.5,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Meta pausa la emisión de acciones Clase C durante el litigio",
-          "source": "NeoTeo",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRDhVOXBDeDJ1ejZEYkdvVm9yVEJZdGxrVEJ6QzV2MzhaMWhkWGJ1Slg0Z0xndTRfb2J5SllWQ0ZXUFUxOVM0YjRma3RUSXUzY20zYjM2Nmpob2dsbEVRTjdsTEFTNS1wTzdGZHNhNkFFdS1DS05odTZXa2RBNjh5QXYtYXg5czhneThBcm5xTQ?oc=5",
-          "ts": 1795138649000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "La directora financiera de Meta Platforms Inc vende acciones por 5,72 millones de dólares",
-          "source": "Investing.com España",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVWdZV2dxS0ZkaENxa3lxaXcta3Y3R3kxd3A0cFJPQWMtUmtWUlp5SDU2d05aS2hENV9uR2k1Xy1zLU9EdnRkc2J2UzBTc2VMTHhuUkM0MmNodmhsTi1MNHB1NDUxQlRaR2JxWVZvUXRxUHNkY2NCeXBqUW52QXdRei1PZ2xEeFZoT0pZelhoV1owQUV1RmJaMGNaSHZsaWZtMXdyYXk2aVZPR1VObnh5U2VTaDFyYmUwd2xFZmJQSmlUVmk3Wkc5N25SZTYtNExPUGM2N1JmUjBvRzVabnlzU3ZiNDd5SEU?oc=5",
-          "ts": 1795136760000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "META",
-              "name": "Meta",
-              "pct": 1.0,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Jennifer Newstead, vicepresidenta sénior de Apple Inc, vende acciones por 845.942 dólares",
-          "source": "Investing.com España",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRFdZMHBURGpOdWhVZ3NvUEd0cHJWdHBwTVREMlA1Y05vX2swSnNsbUJZN1lCNnR2VWlpMmVrVndoMGRKczhJbU54bS1kQy1ENEVWc1NTd1BBY0hNMkt4b21NRG5IVkhDcW9sNFE5clZqdm03Z1UxX0Rnd0JrMWRURGdLWFZMVzhQSThRVGpQa0l1NzUzeGVWa0JqdFFGNjFmNWs3UXQ1VnN0NmNrblNVOHhXMk56UGhoY1RqX1FHbjVfWFRsOTlJdjlNTzZUdlJFVkZPV0xkMk1zajhfTFBfczJKUnQ?oc=5",
-          "ts": 1795136760000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": 0.7,
-              "dir": 1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Acciones de Amazon hoy: caen con fuerza un 3,87% hasta 257,37 dólares",
-          "source": "The Officer",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSWwwejFpYUZKbXRfd1JHb29FbS1sZlFZVFB6SlVYbTdlMUUzR2xaclBDcVk2dW51N05XYWtEak9MYTQtbEtkMnRvZktKek5yenZNblg0Rm5VTkhNZjYxZ2xaYldxV3NaTFlXMDNnNHQxSURZNVdOZl83MW1adzhSaDYwZ3hoUzNoMVk5dEJodEdZdw?oc=5",
-          "ts": 1795134900000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "AMZN",
-              "name": "Amazon",
-              "pct": -1.7,
-              "dir": -1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Acciones de Apple hoy: ceden un 0,92% hasta 349,21 dólares",
-          "source": "The Officer",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSDFURUFFTUhsZzdheU9MNElBX215bC1nWHRVdDAyS0piczEyYWoyYVRuREotbEwySVVsOEZMWldIQ1NqYjBNN3JOekJOYXF0T3AtU2lWZ1hoeW5RQUh3Y2FxbHVoNFoxYkt2d0h4dm5ISk1PTTFxcjJnUTZsMEJkdjdRUQ?oc=5",
-          "ts": 1795126800000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "AAPL",
-              "name": "Apple",
-              "pct": -1.4,
-              "dir": -1
-            }
-          ],
-          "category": "tech"
-        },
-        {
-          "title": "Acciones de Tesla, hoy: bajan un 2,43% hasta 374,41 dólares",
-          "source": "The Officer",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVlqLUU0SU02a1JrVHA0eHI1VjFDQ1lTNHVvckYzTFhNTnQ2YkQ5TGpmU01VZG9ucXROVzlfTmstMjFlam1URDZWQkFEWE5mQ0hJNDNETDhGekVOMXNKbnhQTVBhRlc4TnBEbDV0VTFMUGNDdjFqeHZjS2NwemthQmVDMA?oc=5",
-          "ts": 1795126568000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "TSLA",
-              "name": "Tesla",
-              "pct": -3.2,
-              "dir": -1
-            }
-          ],
-          "category": "tech"
-        }
-      ]
-    },
-    {
-      "key": "semis",
-      "label": "Semiconductores / IA",
-      "items": [
-        {
-          "title": "Las bolsas caen ante la intensificación de las ventas en inteligencia artificial y Asia se encamina a su peor semana desde 2020",
-          "source": "MarketScreener España",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTUEzWlBYTmZzbW84LUR0WFhUQloyQmN4SHU3MThSbjhEOUNfa2xFREdaUkdDWEVuVEQxY000cnpDcWZGQy0tQ0xkVTR1ZjVtbllYalRDdU1FOUEzVkR1SUVFeVN4SGx3OUdtOWxjVko4aUlXUk13R0kycDJsMkVJOVZ4NHFqYWUyWk5aWEVYd1dvVkV3NzdFc01CaktWeDgxMEhpQnVjeUc5NENYYWZyRk53U3YwbEYtTXBmdVdadVRxX3BuM2ZVcUhNOTVwTjlDWXAtaGdVMTdxZ3NINEJIWXF2YUdMdncyQTJV?oc=5",
-          "ts": 1795169622000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": -2.0,
-              "dir": -1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Universidades chinas incluidas en la lista de EE. UU. reportaron compras de chips Nvidia",
-          "source": "NeoTeo",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRGpDU0xpU1pZSVJDeWFzRnd3MUg2RUx3VEdCVUNfd1hFd05aZGliY1BhWGxtaGNVM3hWMXZCdTFUZlF2QVduWTNob1dhdU4xTFoydkJKazlWTlJFQzNLZVVJc2JLV3JWQzJtLWJUZE1iOVlIakdxUk9xbHNaMFgwYmpkcTJvYUE4LVo4WTZLRndNZWtUcXRFREZhNWxoTzVJdDZYWERBemljSlAzOXRoZkpn?oc=5",
-          "ts": 1795166374000,
+          "title": "Las acciones de Nvidia se encaminan hacia la racha de pérdidas más larga desde 2008.",
+          "source": "es.qz.com",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LR0MxOHlBdG10UEFJNUprSnhkaEZ3R09Vc3dBYnFkUWdSSXhFUUFJTWtHS3dEUDZWT3MxbU9SektBclRyaEIyRHRrRmdZay1MSENXcExBOW1QQmxSR04zcG1SclZSWTBvUXdlRGJtNzViclhf?oc=5",
+          "ts": 1795198067000,
           "sentiment": 0.0,
           "tickers": [
             {
@@ -207,13 +19,45 @@
               "dir": 1
             }
           ],
-          "category": "semis"
+          "category": "tech"
         },
         {
-          "title": "Los semiconductores caen más de un 10 % en cinco sesiones: ¿qué hacer si tienes Nvidia, AMD o un ETF de chips?",
-          "source": "Rankia",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN21EQ2d3UU0xdDRySkZXTjY2Yk16N2NmbDFXTDNLMTFEUTM0S0pqdmpMdW9pbS1HeGd6ekg0XzFQVUVsVm9IWi00WGVoeWd4ZWxhYnd1c3FOcFM0ZWlYeHhiNjg1WHprRkdzaHM5blk5Qk9XalpRWnJEd0JpdmJHZUdVWGdkenI2WkdMVS1ZMU5RWDBoVDB5Z3lhV05xWGZIckpPcnpYSkJyUDd1bU5ON3VYSDRyY3c5RjI3MlVQSUtlMnBPUllqOW5ScXI?oc=5",
-          "ts": 1795166052000,
+          "title": "Las acciones de Nvidia se encaminan hacia la racha semanal de pérdidas más larga desde 2008.",
+          "source": "Quartz",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TQ0VOdUY3WHJCaEt1VnFKalJZYy11ZnJqVzN2cFNyTnMwajlwTDJlcjFxVV9QYnJBZ0hNMkMwTENsMU5TTDh5SS1DeVdBYjE2dk91Z0NlSW56S3N3RUU1NkxfZE1xcjRCN0VlTnlCb19zLUU0LTB2Rg?oc=5",
+          "ts": 1795197274000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Nvidia reporta ganancias récord, pero sus acciones caen 37%: ¿pinchazo o ganga del mercado?",
+          "source": "Imagen Radio",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVXp6S3pMOTRVZFBFNnIxOW1wOXZlYmZ3LXlDRVZkMHFLbERyUVZOZTRIUXlsWTU0Wlo4c1BoUFZvT3dHUGxGRm45Y3hVVlZ0RlJjTTh4RjM3MWl2OFZKVVhEUkpRam90UVp5SUl2LVZpSUtBYnlEZEdBRWhzc1E1VFNfYXFuTFhLdUZYQTBqTjR4S01pcEttNlhfVGFTY2ZTSjdQMC01OTBYR2E2MWtzYtIBtgFBVV95cUxQZE1kV0IzNWVEM2NRN3RNRXN3TGEtS3dUTmtFMlpEdmttd19Rdm1jakdLR1VRQVh5N3lLUFNrRkdhSng0WnFoZE5RUWpUTnU1X25qb0RUaWQ0cEJNTzJtamdEOWFJeEh1MHhNSmJVZzNnOUxMcE9ydnVhS21VTThDV1gwbXJuX3ZGS3p5aFp6WjVnZDhoWnZlYlFUUnRQVHRXaGUyOU00NzZ4cmVvajdYc3FOYzhWQQ?oc=5",
+          "ts": 1795190222000,
+          "sentiment": 0.25,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 2.7,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Acciones de AMD, rival de Nvidia, caen después de que un informe señalara que tiene \"su propio problema con China\"",
+          "source": "Forbes Colombia",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPaTVnRUxYTDRlZUxxcHhEemd0alZ3RDFBRGdxZ0hkUVBlVFBNZ2ZXSkZCaXBaUnJvY2YtWTM5NjV2eGozXzRVTmkyLXFDZ0pVWlJ6TlQ0WEx6SkhKTi1HakhUWXp4emU1Yno1MkxZWGlvcjdZOWQ2bG5QcEdrUGFUTHlldGxIYS1sS0t5NVJfc1JiSF90OXJ5ZHkwWjNDelIxbjU3eTltVnBwdkRIeW8xRkdwc0dadzJaU2czWTlRQV9UNGVGX1lrOUE1T09oYlVUVFg2czV4S1kwbDBOdWdxM0RKM2FkZngyXzMwUzB1c0NEZw?oc=5",
+          "ts": 1795187700000,
           "sentiment": -0.5,
           "tickers": [
             {
@@ -227,103 +71,205 @@
               "name": "AMD",
               "pct": -3.4,
               "dir": -1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": -2.0,
-              "dir": -1
             }
           ],
-          "category": "semis"
+          "category": "tech"
         },
         {
-          "title": "TSMC frena los chips avanzados a China tras el veto de EEUU",
-          "source": "The Officer",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWEpRT19KcXNWTlpLcnBJSTFuSkhKOHcwVG9aa3hrNldFcFdqWXFnaC0xaGRYZFdHejdWS1BzbTd4alpnaVdIV01MUUZXeU1CRlNybF82VEUxaE9fRjdENFZreGlaN1JPNTJmX2RUNS1qV3p0dmF5YTJuUU9oNEhpZFJrZjdXNHdSQXc?oc=5",
-          "ts": 1795165966000,
+          "title": "Trump compró acciones de Nvidia mientras su gobierno analiza restricciones",
+          "source": "Notisistema",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWm1DTm9aVTVWeHFOSWVvbG5hTkNJTV9yckJ0WjVUdW1QRGZyVDFLNU1DZmF4QkpuNHRSX1pxWWNCWmtKTmFuYmwyd1lhMUNmQV8tMG1LNXJUYWlTYi1iZURrbTRpV185bzNLUXhqQ0xERDV5T3RIUnotbXN0WGNtUXhlM3hUYThRb2M1VDQ1bmFhWVNZVldnczNKMWg4RXUxNENCZnBXQVVGNDNndHZ2SGdn?oc=5",
+          "ts": 1795184160000,
           "sentiment": 0.0,
           "tickers": [
             {
-              "sym": "TSM",
-              "name": "TSMC",
-              "pct": 1.2,
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
               "dir": 1
             }
           ],
-          "category": "semis"
+          "category": "tech"
         },
         {
-          "title": "La Bolsa de Hong Kong cae al intensificarse las ventas en el sector de la inteligencia artificial; CATL y Zhongji Innolight retroceden",
-          "source": "MarketScreener España",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMEhqSU9QbHRoVzR2Ymxoa1lLUmZRanRiUV8xVU9YYzVmY05FYmRsb3ZmeXBtdVppOHBvblF4cEFoQTM0MGVfa3JVR3pmTkJXRGRIeWdMTXlKdHU2MFd0UWpQQU00UzdEOUtoc3lyNGV5eUw3X1hMOEp4YU1qcktUYmtNRnl6M2JnRVpqelFjYVhSNEVwY1lQbkQteGZPMmdQejl4U1BROVpNSzFLdGY5UmZsekZYVHFmeXFURXg0T3lOQWdoUG95WnJ2TEVCUGpIR0daVVgwNVRTNmJsZVZIdEJLSV83REdvbEo0?oc=5",
-          "ts": 1795164196000,
-          "sentiment": -0.67,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": -2.3,
-              "dir": -1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "Scout24 se desploma en bolsa: JPMorgan reaviva los temores sobre la inteligencia artificial",
-          "source": "MarketScreener España",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd1otaDNRY3AwSlV6NzhQMEFOT0ZKc0xJOW1TN05TbXZsM2U2SXlkeTBkZUJudDcwaHVrOVFoeXlEUElmWVd4QWtkOHZOeHB1NzhJRHZnQkVTb1BudjFqUGliWmFqVFFnb250ZmhKS1BZb0RGdWlmSDFlTk1fcjVIWEhBQ1BYSnViR0VVQWdhWlUzNUE3eHVIRGdiSGNKbjhpT290YVVRamRoOVM1WVl2UU5DUTk2NWlhdmlnUmdQWThJcWVCeFBCS0REQW51TzNwRHRuNy1GeUVxemJVNHpF?oc=5",
-          "ts": 1795163964000,
-          "sentiment": -0.67,
-          "tickers": [
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": -2.3,
-              "dir": -1
-            }
-          ],
-          "category": "semis"
-        },
-        {
-          "title": "La oleada de ventas en inteligencia artificial arrastra a Taiwán a su peor semana desde 1990 y sacude los mercados asiáticos",
-          "source": "MarketScreener España",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd2h4ZTdwTFNqcl9aMHBCdU81bEdpZ3ltZ2ZnakhsSllvajVkZ01oNVdfWXY1bEpmU2tTN3lOUlpiQVJWMGVwSmUwc1FubFZ0dTFjcUt1YmpkWWVZc2hVRkN1TW5wdGlSc29GcnFLVW9qTGE4a2FxVzMtUE1Va1F1MEV0djhVSkNOR3pVeEU3b24yYS1SUi1zTENPNmdpR2haOEtFUWs5VTRRRXowVTZPVW9XaW1IT05rWmMzWnZfRHhhQmNZSllHNXNCMmt6THgxUS1wQ2Q1VUp3YXZOb2ZDaTgtaklYQkFmV1FpQw?oc=5",
-          "ts": 1795163309000,
+          "title": "Apple Is “Buying Back Stock at 40 Times Earnings.” Cash in Treasuries Would Earn More",
+          "source": "TIKR.com",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNWVrRzNUYjBvS2NXMmpZc2hjV0lZQ21fSE4yamExS1Fzd2lwc1lrSmp3WnpSM1dnVl84LXViQ1BpSDNSeHBueFo4QWxDUjhCdDcxVDFGUEpoV05DSi0zdGtWR0trQWpMNk1sRFZCNjh0MXNtVVYyZmZlcnlSdG5takI5XzB4QUxUSV9LQS1sZzlwbEhsVkxuOHZZZmItMWdXY3NhWVA3U0tyeFA1UzJnUw?oc=5",
+          "ts": 1795184100000,
           "sentiment": 0.0,
           "tickers": [
             {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": -1.2,
-              "dir": -1
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 0.8,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Riesgos de financiamiento de Nvidia presionan acciones de chips IA",
+          "source": "Investing.com México - Finanzas, Bolsa y Forex",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZWNua0lJRzJXc0R6eGFWZWE2dGNJZms5enZNSE1wdWhDbGR0WXpNUUpDNWZ5NDgzTFNLTndlMEtadjNVSjl2ZDItVmh1Tm94THZMakxudVlJNi0xcVl5TTdRT2JlUGJMQ3JUVGlRcFEtSjZpTWZENzlTNkpLSXFvdXByNjk4eGFiNklndHNnYUpmNHBTX3pmeEhMTGZrS3E5bTFMOXFhLUp5aUpSMjVMTUx5M3ZMM1Q1MndBWkhrNA?oc=5",
+          "ts": 1795181300000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
             },
             {
               "sym": "SMH",
               "name": "ETF Semiconductores",
               "pct": 1.0,
               "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Los riesgos de financiación de Nvidia podrían mantener presionadas las acciones de chips de IA",
+          "source": "Investing.com España",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNTJQbmFqU0MtVGFyeXhoQUZpa0VOakVta1dVNEFGbUREZTc0N185eE9vQ0tra25Wc1pwQXBxdGJtdXFmQUpadFN1OXhuX0ZEdnJIOER2MWJGMVZVbl9ZSEpMT21SLWp2RTJxdE5uV1dIQkFZek5Gb1I4bWwtMHVVVmwxTmVzYUJZR3lKbDU2OFBhTC1WOW5YUFhQaVlxZmxPbVJHZko0N1A0V1hEWEYyX1VBaEV0M1JhbFdVaUdCZ1RQNWpuWDFDdkdacHpOdVVWUXc2SHpTVGEweTRlbUgtNnVEd28?oc=5",
+          "ts": 1795180980000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
             },
             {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": -0.8,
-              "dir": -1
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Las acciones de Nvidia han perdido el rumbo, pese a sus excepcionales perspectivas de crecimiento",
+          "source": "FXStreet",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRG9od195MWlOODE3VG5rWW4zOEkyU0JZYW9adWJtYTdPTi13YXRLVktua2EzdVp0RS1iYzZkcDNfZXozbVBINTd0NDI2Y1E1akVkcUwzTEc1V3FQdzJBcUZCeXZzNUlNdTZSamlJcHpWcDA1a3gwTklfZ3Y0SzNlaEFMZ0hUOHNadlJHMXZtY2VfcGpIM3JsTTJiaEt2blNQQ1VSQlVIYk4tUU00cVRyUENCek8yemg4UHFuN0N5SFJHeEV3UEk0Q2p4RlhmVnhxdEN4cldqU0VEQQ?oc=5",
+          "ts": 1795180554000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        },
+        {
+          "title": "Las acciones de Anthropic caen tras récord en su salida a bolsa, mientras la venta de IA arrastra a Nvidia y AMD.",
+          "source": "Quartz",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaVM2dnI4c3Z1UjVpNnRUTTRoQjVSR3V5OXFva2Y0V1pacFRjaDBJUjJNSEJwWmZ6M0xPN2swcU9wRGJZUl90bnV6c0NPZ3NzZXlUVGkya0thQklCd3p0Tlpvd3lUMkJsZ2RRUDI3eTJXXzlmb0FEbHhHTXI1eTVaaXVoQVVSc2xaS0doZUJ2bEFJd0l5VTVrNjZkVk9XelRqemc4OEpFZmN2QQ?oc=5",
+          "ts": 1795178070000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.5,
+              "dir": 1
             },
             {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": 0.5,
+              "sym": "AMD",
+              "name": "AMD",
+              "pct": 1.4,
+              "dir": 1
+            }
+          ],
+          "category": "tech"
+        }
+      ]
+    },
+    {
+      "key": "semis",
+      "label": "Semiconductores / IA",
+      "items": [
+        {
+          "title": "Scott Bessent mantiene los H200 de Nvidia como límite para las exportaciones de chips a China",
+          "source": "EFE - Agencia de noticias",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVXJnWmd2UUxEZE5MUlRhUWtoVkQyTEVBWkNILTA4OTBndUtqLWdPU0FDOE1LTUtoRHJOYXJpSWF5YWFjOE5rbEowTzhWYy1xNmR2U1AtNXVzcjZHcWFvWmlScVBYVVRTcTNWSWJiNkJfaVRoeDlxTTJIUjBnSFRjSDZyeFNsZDBSN3BYa0ZXekpxdw?oc=5",
+          "ts": 1795197865000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
               "dir": 1
             }
           ],
           "category": "semis"
         },
         {
-          "title": "El atractivo de una India ajena a la inteligencia artificial atrae compras récord de extranjeros; los resultados determinarán si la tendencia se consolida",
-          "source": "MarketScreener España",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNUhieGJSY3p5RXpqaDVfLVNxakNvQTFDNzZNdWlTdUFwS3VMQkI2RVZlako2SDlwTE5TSzd5Z2p5R3lGRmdxOG5iXzRTbFFQU3FoRlNacVVPQ1JuY0lwOW5ZZ3hmVlJjOHBETVZkdVZVaTdjSThMVEtwaHZ6bUdLWEVtT3JIVWZhd0lrZk9zbUFKanMzV0xVUEJSemxBNzZYMnJJaHRNMVdSd0NVUXBpQS0zaGt2a1BLbFhwSWx4WXlEUTljdlVXZXFoZWlzUk55NmFkU2NXR21FaDZVSzNnUnFpN3MtQ0pEZGw4?oc=5",
-          "ts": 1795162770000,
+          "title": "Las Bolsas europeas amplían sus caídas ante las dudas sobre la inteligencia artificial",
+          "source": "Bolsa Digital",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQnU0Vm1IS0RlV0F2OE9TV1l2S01QRkRkTHFtT1hET3hkUkdiV2s4U2lIVWRYQ2hyWWxfdkY4QUcxYkJYeGt5d1ZReXl3VGxZd2h6SGdzNUFpMVozUzF6UVp4bWNwMUxQTGUyX3JiZC1MOGt5YnJFR3AtV3hsTElCRGw5R3RYMkFaU3ozTnNLUWpTaHBzRzRucTNQSjhmUFhWM0VHZ1NTV0FGa3c5RUp6cjdhUXpMV2JsS29mQ1RmNlc?oc=5",
+          "ts": 1795196866000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Primero Nvidia, ahora AMD: los gigantes de los chips bajo la lupa por sus vínculos con China",
+          "source": "Expansión",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa3VHdDRjQ18zdjZ2WFJuclBwSTJkbkRqaExXTlR4WFBldnZWWXVrLU1CcXdHczVaakEwTzB0Nkl1SDdSWElYNnFLazlURVliRkRYQVRMQTQySVRndHRpelFkTnBWQlhXODNwUVJneDVuMjZZeWE3bnczZmc3WkYwNHhNVXZrNFc2bHJKRzBrb0gtUHFqaTdKd0xmb0Exd9IBqwFBVV95cUxNZ0JtZEMwU1VRd3hHS0I0cEhlRzh4NER4bHFJNUhyWTJ4ZDl1d2RDbUZKVUFnd3Zhc2l3TWRhLU5qNjRkVklPSHFmdHpoc3NyemFERENYRVFNVGJsMWNuZkc1WVlocWRBRnVDVUFtWjBORE9vV2lLNjc2TFZnYmVNNEFNSEJwdXROaWxqeEh4N2xkbkN0aFlHZnRncE13Wm5UXzRsWThsNk96STA?oc=5",
+          "ts": 1795196040000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": -3.6,
+              "dir": -1
+            },
+            {
+              "sym": "AMD",
+              "name": "AMD",
+              "pct": -3.4,
+              "dir": -1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Amenazas de muerte, insultos y humillaciones: el lado oscuro del liderazgo de Jensen Huang en Nvidia",
+          "source": "EL PAÍS",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbzNvN3E1cDRkOHFIVjBseUY3RUVuUnktRHlETGNPamN5YjIyOUhQVXA1NUgyUkgtb19SRkxVeDFVOS13dDZhTzFVd01PcHhFdktlTmxzMkowTVEyODRYVDZJazFXc1JEclh5cDB0ZV9tTjhYWWxLSW5KdURlMzFMQkZjM3NpSk9ya0xiM3E0SXhfS1pQUGtwd1ZlY1ExeWhtYjFURzJKU1JidmY3d05teFNabEJHQmNyZVUxT3hZX1hlZmZhWmpoY2JCX0oyU2NXc2c?oc=5",
+          "ts": 1795195263000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Con la inteligencia artificial a su disposición, ¿les resultará más fácil a los inversores obtener ganancias en el mercado de valores?",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaXdlZlZOOVN2endJd2RuSUJ6VDVNWEJ5SjJlT1h2SUF5c3NVNXJ2UTNzOU9OeWFsZTVFUlpvOU5uTnZ0cVFETVFmNXdZa0J3N0k1amoxNDlydGhEUE5fUXpHb1NPcXRnZFRoeEYyNWZqTnI1dmYzYkhpb1NVc0E4WjFrdXZUdjdtdkgzczFOOWNuMFd5REtPcmRhaVY?oc=5",
+          "ts": 1795193940000,
           "sentiment": 0.5,
           "tickers": [
             {
@@ -336,50 +282,80 @@
           "category": "semis"
         },
         {
-          "title": "La caída de las acciones del sector de la inteligencia artificial lleva a Taiwán a su peor semana desde 1990 y sacude los mercados asiáticos",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1ZDRHdURQTmRTbGROd25aemxkY3VpU2FfX29kQjliWjRnbWtJTVlDZnFaRm9DSHpnT05tZFZQZUVUTDFNaHZkSEl1czZUMmRyVEE2MnItVzZ0ZnhQeTI4X1dIUnBickdONURvSkhjT082cHdMRFln?oc=5",
-          "ts": 1795160220000,
-          "sentiment": -0.5,
+          "title": "Apple prepara un agente de inteligencia artificial capaz de manejar aplicaciones y programar",
+          "source": "Negocios.com",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMk5tMDBpS05hTFNnUDd6cW1oWjA1UXNvNGRIN1RCbDNvNVpLSHZzMS1FSmpsNTFoWWxCUWJ3cWljZkhGd0s0UjFmb2VQa2FRdGhRUzdpc3NlTWFIOFF0bFZ4S1F6dE56MmxvOWdWTHVoVjVKTFFDOUFLQURLWUdiSm5URjFaSUZ5WEJzbjVkZVFLUU4yeHhOTUxOWnVkZ3NrcDRKVzJQYVJmN01nY2J0cnczLTBnSzFmY0VlUDJOZUhDYVRUNnJ2Yi1aY3V0OENFOGFCWi1UZ01jZ2fSAeABQVVfeXFMTnNmUTFZbEdOb0JUbnY3QkdQc3pfSUwtWXVIRzVFZEVFZGtwOEJnbkJHbERBUk56THB0RDBTUnVrQXZpTGFQb0lmem4zdTRDY2FXbk1xQlZ0emtRQU5POUNydUU1NTg3QV9LUTJSalVaZktaSXFLQ0hHckQ5b3dqZWZsdkR2OGtuNGFSWWNfVnQ3MWV0ZmM2M1lTd29PNVFsdDRUOW5uOUZwOFhnRWwzQVN3NmFiNWN3U3ZTUkNlY1piOGpsSGpQZHRleVlYaDZuRldDNFdTc2VqUmdZSWtXdDY?oc=5",
+          "ts": 1795192282000,
+          "sentiment": 0.0,
           "tickers": [
             {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 2.4,
+              "sym": "AAPL",
+              "name": "Apple",
+              "pct": 0.8,
               "dir": 1
-            },
-            {
-              "sym": "SMH",
-              "name": "ETF Semiconductores",
-              "pct": -2.0,
-              "dir": -1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 1.6,
-              "dir": 1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": -1.0,
-              "dir": -1
             }
           ],
           "category": "semis"
         },
         {
-          "title": "Copilot diagnostica tu PC en 30 segundos, pero no lo repara",
-          "source": "El Ecosistema Startup",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQmtXcUx1UEFlSEhPMFdyQ2tBZWY3MG9UaVVYNHNOaGk5dHpJbXZub0trb0YzY1FQN2ROLUtIZlB1R3RpUjlpMGtPc1ppblFxLTdTczBQMVdtUGM3ZTJGSTVEZ2c5ampGd01WMEhWQVZ3Vktlcl96eWd3YjdtMHhBQ0hlYkFXdHR2QnNUSXlPNnVPUUk?oc=5",
-          "ts": 1795159299000,
+          "title": "Licencias de chips Nvidia para China: cifras clave",
+          "source": "NeoTeo",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ0xnX0tlT0dTRWpaM2EwNVNuSjVFMEJsajRyd3RFMzh2QW9ZNWFoSEhDXzhoa3R5cWZZYlNpTGRDcjIyaWxFVzktMlVuejJnd3pXX1JVemdrTEhGYldlR3I3WHVEMFo3MUt2RU1aeTBhZHZJRzdlX3lLbEVSUk03UU04dnNrY0E3SWRyUE9NeGpaWEpfdGpmZTVaUzFWUDRqZUE4Q2U2WVVnT2M?oc=5",
+          "ts": 1795191303000,
           "sentiment": 0.0,
           "tickers": [
             {
-              "sym": "MSFT",
-              "name": "Microsoft",
-              "pct": 0.8,
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "A Jensen Huang le dejaron pasar todo: los insultos, la amante y los chips para China",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb1NZYlpMWkMxcHJOUjFNcmdUOFM1azZVR1FVUk5TZTVYRldxSlYtR2l4VFlPYUs3MGN3aXQ1V0FLY25kX21JdlJBcDBENzN4VmRvTExIRnNvNjQxUmtXTzJwOUkzY0ZWeDNhUV9ZVlFKdHl4NEZEOFdfZkVheEF4SUlhMUpETHdtUmlyTlM5aHF2am05LXBtUTR2MnY1eno0NjdTRHlDb0lHY1ZfTjRuVm9NQnBWRndjS1FISVdmQ19MVmlkcEtqVlpOU1dUZ9IB6AFBVV95cUxQbzFNOS1FSjY2TVJhMGdQZU1SUDBiaVFmYjNDQ0EydVBCVmJ3MXhGR3RoanloQlJBbXhTbWJhWjZLQnpqRk05WHBmOTZabm1GNEQ5N3BXb3oyZmNfc1NWcFRyT3hUa2lvRC1HZnl4WHREOF84ZXlKeDFEQTFFSmNBTWVsWWE0bUZ3b1Z0Q1Q1S2tIWlFxNnk5NWdoc0stc29RRjJ3YmZHQjJ4TVlESk9LcFF2dE91ZHFuWHJ6SlA1NzRYb0RIVnJrQkg1eE9mMGJ5UzZkSmJ1WkdzN256ODZjQVEtQ0hvY1lw?oc=5",
+          "ts": 1795190400000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "Turbulencias en los mercados: elecciones en EE.UU., inteligencia artificial y volatilidad",
+          "source": "Gestión",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSmV6bThfU0tmRVoza2RBZkhnY2ZOdmRzcm0zRFhHY24tOUs2OXRMS3QzX2tOdDhEQVg1eDVKd3lGTW9ReXE1bl8wQlJGckFHUHBIZkdnUlNEei1HOXM3Wi1pazZsckpQcllFeGhCVVRjbnFZbmx6aGdvQlZaX1ZGSFRsSjJOczQ0NjJjQzU3YlRYeXk2ZWR4UzMyd251NnVILXlSZDE1WTBSdFcwX1FsS3Z3YWhKMXZvSUN2UngwaDAtMWFEeGZoTXBWSDdUMU00WHBWbW9yaG5RWm9DMmc?oc=5",
+          "ts": 1795189680000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "SMH",
+              "name": "ETF Semiconductores",
+              "pct": 1.0,
+              "dir": 1
+            }
+          ],
+          "category": "semis"
+        },
+        {
+          "title": "California cita a Nvidia por la posible transferencia de chips o información a China",
+          "source": "Mezha.net",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV2tnZ3A4cEY2NWJOVVVzNEtPSjN2ampWYV9JS1ZZNV9uY1ZDVzdtanFocUdSeVJGRDNjLVQ4dWRnQ2Vtb2VSS2pUQWp6bmtLbVZPTzJ2WVFqOW11QmRqYkFZNDFMREo4ZzNqM2NiYnMzTVVMVVJ4M3VaSW9oRVk5blZlU0J6UklmNXdLMmJnS2FxUGs?oc=5",
+          "ts": 1795186249000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "NVDA",
+              "name": "NVIDIA",
+              "pct": 1.8,
               "dir": 1
             }
           ],
@@ -433,7 +409,7 @@
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 1.3,
+              "pct": 1.1,
               "dir": 1
             }
           ],
@@ -449,7 +425,7 @@
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.6,
+              "pct": 0.5,
               "dir": 1
             }
           ],
@@ -465,7 +441,7 @@
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 0.6,
+              "pct": 0.5,
               "dir": 1
             }
           ],
@@ -576,6 +552,22 @@
       "label": "Defensa / Armamento",
       "items": [
         {
+          "title": "Así se reparten los 6.400 millones adelantados a la industria de Defensa que no aclaró el Consejo de Ministros",
+          "source": "Libertad Digital",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZktZT2dEVUY0VEI2Qzcydjc1Y0R4ZEVSMS14NzlQN3oyb2N0c3dxMVJnd3BqZWF4OGxFbEtFZGJZU0tXZW1rTUZibXk5Rko5dkR6VUlLNklGY2VZT3p0SFEzYnBtOHkyVFJzMDQwaXpKQXZxV0VVbGNERTdIV3UwNDVQVkdxYktjZXZwRThJQkx5bkZ6dGptWGM1QXNtMnVycVF1NnloSGRyUGpRZm5SemZ5cHowRVVzV3RBZWhaVEFONDRDZ2R1ZUd5MkVpSUNwaXEwdjhDWEN2RDlxcHBSSzlLdk0ycDYyUDJxS3BEYVZPMVhvR1FmMTVCVGlJWEHSAYoCQVVfeXFMTmsxY2QyY3pFbUJxYlhYN3R4NllNcmw5blFVcFNFRW1kckFvVlY5LTFmZHFPS2p3dU5jVnA2ZHpzQzZadHhUbTdwNkt2MmRoUEhXNzJGVGxFOE1ZV1k4QlZLOGdYeDNSekZQMG80X20tSFQtTDNBLThhbzFkT2o1X2d3bHowQUhYY19HQmVrQW1vRjFQcVdiUUpsS3diSVEwT1ZsWFctSGhYNDU0UHBNaFRxekJnbDNTaHVyYUJ1SnRfdlpJQUpiTk1JRG1vSnhGc0JHVmtMYTNpWW1tazJjYks5aTNkU1k3QnZHYmZTd0E3NHA4dmtQcjA1UnBvOGFiVFlnMmM5OUpxVlE?oc=5",
+          "ts": 1795174569000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 0.7,
+              "dir": 1
+            }
+          ],
+          "category": "defense"
+        },
+        {
           "title": "Marruecos anuncia 366 millones para fabricar su propio armamento y venderlo al exterior",
           "source": "The Objective",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ292RGVMMjFrczJFOHg0bXZKMTZVcGZka0FFQlZaXzVaSDg2Yl9Ma3FWUDRyVUdHeFkyTUtJZ3pOb1RCMmdhLUNxT1ROYUFRdC1TTUlraGdYRERFa3RmemxOWDlpMmkwRS1QLU50d0MxejQydkM2di1SdURhR2doMzEyb2VqUllxVWZmMnBpTndpUdIBlwFBVV95cUxNUEZpczIyZmZGNS1EXzV1UDktSGEtLVVFMDcwNzNuLXlLeVU2NWdWaUxuQnc3bHZuWHZhdXVoU2FocDNPSjdJOTVHQnhZSGowTjZ0UHJpOFRucXJ5TUFJd2VidG52WlpoS0FtSGRBNkNSQndYdHlvSDlYdU0xQVV3VGs5OV94NnhqVWVKS00teEs0NnFRZlRz?oc=5",
@@ -585,7 +577,7 @@
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.7,
+              "pct": 0.6,
               "dir": 1
             }
           ],
@@ -601,23 +593,7 @@
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.6,
-              "dir": 1
-            }
-          ],
-          "category": "defense"
-        },
-        {
-          "title": "El Gobierno financiará con 6.400 millones a la industria de defensa",
-          "source": "Identidad Correntina",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSnRLUDJZTEEweEFaU25QU3Y1eXptazJKa0F3S1VsYXN1SlFJanR0WS1mZ0E2MWYtRTdwaWE1LUMxY3NydEQ2dEhveDRIdDl3ODFOMVpndi12VzcyMnZya1VRX0Z3SlUyMmpTcTFuTTExUkJPd2luZV9hMFV6TnFfeXhkcGJpVmo5RGZ5Um05aUZQcG9BbFhCS1ZuS0p2UkJ2YlVZd2RhS1Z3YVZ5bTFSd3BMUVdSOE9ERGVydDdsWQ?oc=5",
-          "ts": 1795014762000,
-          "sentiment": 0.0,
-          "tickers": [
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.6,
+              "pct": 0.4,
               "dir": 1
             }
           ],
@@ -633,7 +609,7 @@
             {
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.6,
+              "pct": 0.4,
               "dir": 1
             }
           ],
@@ -964,6 +940,62 @@
           "category": "war"
         },
         {
+          "title": "Conflicto en Oriente Medio sacude los mercados y presiona al peso mexicano",
+          "source": "Imagen Radio",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdnNTaXVJTHhyNWNYNTM1RXpqaXpfUkMwWDlDRkhFN2I1bHM1eGI4ZVdPVVVoZ1dMMTh5REJXYWl1VzhMc0lCcmFtMUw2SXRtcVM0bEIta0ZyckJMaVJyaVlBT2t3MjFXb2J5ajd6UnRCaGdVWTIzbDZMSGY1UlBmQzVXcFM1RElJOExGVk9FaDdGamhOS1F4aXFMbnA2ZVpHb0RNRNIBqgFBVV95cUxOOXFJeXdnR2JldzViNHZOdjBqWmY0SmhUREVXbmNKcHR3ZWpBeC1OamFEYjN1Z2l6eGFoZkNzVWN2U1dEQXRKbGpqVlI4cVlhU2pQLXFfYUg3N0hodkJDSEl6WE50T2hYUVFBcXcwTXViMG1xUHR2RVlvVzR0QkREa0FmbWt4MF9wbC00NlFBVU52enFsamJuUzRNUzNtOUZmZkowMEhiVTR2QQ?oc=5",
+          "ts": 1784012400000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": 1.3,
+              "dir": 1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 0.9,
+              "dir": 1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": -0.6,
+              "dir": -1
+            }
+          ],
+          "category": "war"
+        },
+        {
+          "title": "El mercado ya mira más allá de la guerra en Irán: sectores que pueden liderar las subidas",
+          "source": "Estrategias de Inversión",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZmRLYVhOYjRoTlVXQlJ3T1hvbDRMd29CYW1ReG9CaTBUcTFGZUFNM0hZa3R0UF9HcERpZUNUbWJldTUybVRnZWRFVFpqOEZub0VJdW9Hai1TZ3hkVnhfVFh3M2hSLWpyaHJwV0Ntd1dHdVM3OXRmWkp6MzRzRjJkd0ZaaEZ4T1Ezcngyd0JIT29jLWx1LTg2WGZvUUpjTEFmTnB1YTVfVGs5RjBoc3hfWGRmNmU2QVZ3RGxRMWZXcXE2dF9FRTRrY3lsQm9ZYzNOcmxhNjB30gGiAUFVX3lxTE9PZWxLMG1waUtocXFRaEpEYVdmMC1GeGdkbHk3bllqazU0bndOWHBwQjV3NFBQOVhVU1hUQWtWRnFyLVhsT3lDWGUxWGVycEctaEltWW9kMFBrTkc0SVpzazBUNjN3NVRZUWJ3UEc3MU5MN3JoNVhBTElHZXdxWkVXcWFjWGk3ek5nazFad0lYX0RXUGRHMFJpZXFtc1dMa1dlZw?oc=5",
+          "ts": 1782802800000,
+          "sentiment": -0.5,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": 1.3,
+              "dir": 1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": 0.9,
+              "dir": 1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": -0.6,
+              "dir": -1
+            }
+          ],
+          "category": "war"
+        },
+        {
           "title": "¿Por qué la bolsa sube mientras el riesgo geopolítico aumenta?",
           "source": "Rankia",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTTVsaXZtQ2FmT3JwRVZVeWhLZmpiZk5aZTRNNUp4bnBOcGMzYVVpSTBuNEt6dXBLME1WRFpuTExDN2F4MWZNTUtMSkFFcFZoTUNvOTZCTlFqbGJRbm1HbEZvd01vX05OeG4wRWFXQVBsQXNDenBubm5RMVYxZ2twZFo3X3N5MUFJbkI1MFBxM0xJNnpYYkRNUzlMWVZlMk9ER3E4dkNR?oc=5",
@@ -1048,6 +1080,34 @@
           "category": "war"
         },
         {
+          "title": "Bolsa de Lima se recupera ante expectativas de solución al conflicto entre EE.UU. e Israel con Irán",
+          "source": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWmpibW9VdG9oLS04dVZwOU12N1ZJTGFLbmhkYkZHb3ZWZDB5OEVXRmNfMW9EOTJhQnBrc0d5ZVAzYV9SNjVnMkZldjkxa0Z3M1JPdTI3RnRGcFE1c2ZWOTE5amxiZExjaHFOem5IMmVhbjZVbkp4ZHA5SUZBZWV0TDYwVEl3blJZbEFEWmd6QjhWZl9WcnJJN0h2d1JuakdGRTZRSjA5eVBDaFBZMWtvcGhmdkQ4VjNocnVBMWhfTW8zd2JLcDhJWjJyNU9lbXJBUWZCSdIB7wFBVV95cUxOb3RSakhmVWVnVWJmR01NLW1TdFBQek9xd2NROVlnY2Z1MEZzWlo1NzBrUTBVNUlpY21ReFZUMENERzg3Q1ZCeDNpTWkyRnlWNUxoaE1CZnIyeWpkQTVvc1FMdUZnMmt3RHI5cmpLdjlUcjdzdkZhbTZoRTJld2N6NE9fbXk1SEJnNWpiczFPYkx6RWo1RFNfZFNoMlhYT2dxelhHYTBOSEZmVHh5S0F3aGlnNE1kb1p6NHVFa1lLVC1faFZpN1IyMkJEQUtYdi1PcU14NlVZWUVzc0dFLUJVbGNmZXpLUWc1QTlqcFJrVQ?oc=5",
+          "ts": 1774422000000,
+          "sentiment": 0.0,
+          "tickers": [
+            {
+              "sym": "WTI",
+              "name": "Petróleo WTI",
+              "pct": -0.7,
+              "dir": -1
+            },
+            {
+              "sym": "ITA",
+              "name": "ETF Defensa/Aeroespacial",
+              "pct": -0.4,
+              "dir": -1
+            },
+            {
+              "sym": "SPY",
+              "name": "S&P 500",
+              "pct": 0.3,
+              "dir": 1
+            }
+          ],
+          "category": "war"
+        },
+        {
           "title": "Por qué la bolsa USA se mantiene estable durante la guerra en Irán",
           "source": "Morningstar",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRnFUMEpibXAybWx2UEF2eGlxcjdNNE5nY2Q5bmphbGtuQjk1cThuQ19nVVFtRGZFOHhBQ21DMHJrRHEwY3hTYTJaQ18xZE9ERDVPNG9wYkZHYWdOeXdIU0xSYjB1bmsyS3lMTlpSYVRTLTBEZUlrYkNzMWY0TGo5aFBqQWhvdTcxdk4wakhNam55cWRGZDNORmw0OUlIaEhULS1qQVFJUGx4S2s?oc=5",
@@ -1092,90 +1152,6 @@
               "sym": "ITA",
               "name": "ETF Defensa/Aeroespacial",
               "pct": 0.9,
-              "dir": 1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": -0.6,
-              "dir": -1
-            }
-          ],
-          "category": "war"
-        },
-        {
-          "title": "La bolsa chilena entre nuevo ciclo político y el conflicto armado internacional",
-          "source": "Diario Financiero",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORzRMVUpBQVZmZXpxX2E3Q1JZcU9peFcxSjBucXU0ZmlBX0JTZGVFQ1Jza3EwZW00QzZhMWJyR0RlOEUxalZGYkdJa0pudjlxc0ZOdUU2cW5yTU9iUzhKWkpQa0RWblNGdThfenhJNEtjZFVtd0lPa2drV01QdHdqRnRqa3EwT3FNdXJvX0hMVEJvcnVEYUJ3dXRkWEFwOEVFYzFQYUhLMDJlcXpKZXM3SzNn?oc=5",
-          "ts": 1773385200000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 1.3,
-              "dir": 1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.9,
-              "dir": 1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": -0.6,
-              "dir": -1
-            }
-          ],
-          "category": "war"
-        },
-        {
-          "title": "Conflicto geopolítico: posibles impactos en mercados y sectores",
-          "source": "Self Bank",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqcnlDM2tzMm9tcU5GVFY4YjlsRnIzQTlMbHNadlFvNld0Vk9HZGNjZl8yVW8wWW0xMkZBVVA1NEw5amphZmxsenk5Q1RITXRVdHpOb21EOEtyTU16c3JGSzBNWjB3aGRVTEtPUkFJazMtRXZnZWZr?oc=5",
-          "ts": 1772524800000,
-          "sentiment": -0.5,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 1.3,
-              "dir": 1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 0.9,
-              "dir": 1
-            },
-            {
-              "sym": "SPY",
-              "name": "S&P 500",
-              "pct": -0.6,
-              "dir": -1
-            }
-          ],
-          "category": "war"
-        },
-        {
-          "title": "Bolsa y guerra: qué acciones se benefician del conflicto con Irán",
-          "source": "Euronews.com",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUVBRbk1qN0xYZVJVbnNiM05WRlZPS3dHRWMtSXc2bFhIOGpUZ3VCbHl0cHFxZlNocHpwRlZaY01VVGlyYVk0WkFpVnhZdzNpc1RDRTBSRGJJVF82Z2Q2UWlhbVBoY0YzLTZhREt2aVBOdE90Y1JUNWdMWlMybUR1ejRRZHd5aFVsY0E?oc=5",
-          "ts": 1772524800000,
-          "sentiment": -0.67,
-          "tickers": [
-            {
-              "sym": "WTI",
-              "name": "Petróleo WTI",
-              "pct": 1.5,
-              "dir": 1
-            },
-            {
-              "sym": "ITA",
-              "name": "ETF Defensa/Aeroespacial",
-              "pct": 1.0,
               "dir": 1
             },
             {
@@ -1235,7 +1211,7 @@
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 1.1,
+              "pct": 0.9,
               "dir": 1
             }
           ],
@@ -1251,7 +1227,7 @@
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": 1.1,
+              "pct": 0.9,
               "dir": 1
             }
           ],
@@ -1349,13 +1325,13 @@
             {
               "sym": "NVDA",
               "name": "NVIDIA",
-              "pct": -2.5,
+              "pct": -2.0,
               "dir": -1
             },
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": -0.9,
+              "pct": -0.7,
               "dir": -1
             }
           ],
@@ -1371,7 +1347,7 @@
             {
               "sym": "QQQ",
               "name": "Nasdaq 100",
-              "pct": -0.9,
+              "pct": -0.7,
               "dir": -1
             }
           ],
@@ -1382,40 +1358,40 @@
   ],
   "tickerBoard": [
     {
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "net": 12.0,
+      "n": 18
+    },
+    {
       "sym": "ITA",
       "name": "ETF Defensa/Aeroespacial",
-      "net": 11.6,
-      "n": 22
+      "net": 9.0,
+      "n": 20
     },
     {
       "sym": "SMH",
       "name": "ETF Semiconductores",
-      "net": -6.9,
-      "n": 8
+      "net": 6.7,
+      "n": 6
     },
     {
       "sym": "QQQ",
       "name": "Nasdaq 100",
-      "net": 6.6,
+      "net": 6.2,
       "n": 16
-    },
-    {
-      "sym": "WTI",
-      "name": "Petróleo WTI",
-      "net": 5.8,
-      "n": 22
     },
     {
       "sym": "AMD",
       "name": "AMD",
-      "net": -3.4,
-      "n": 1
+      "net": -5.4,
+      "n": 3
     },
     {
-      "sym": "SPY",
-      "name": "S&P 500",
-      "net": -3.2,
-      "n": 13
+      "sym": "WTI",
+      "name": "Petróleo WTI",
+      "net": 2.4,
+      "n": 20
     },
     {
       "sym": "ASTS",
@@ -1424,64 +1400,37 @@
       "n": 1
     },
     {
-      "sym": "META",
-      "name": "Meta",
-      "net": 2.0,
-      "n": 2
+      "sym": "SPY",
+      "name": "S&P 500",
+      "net": -1.8,
+      "n": 11
     },
     {
-      "sym": "GOOGL",
-      "name": "Alphabet",
+      "sym": "AAPL",
+      "name": "Apple",
       "net": 1.6,
       "n": 2
     },
     {
       "sym": "TSLA",
       "name": "Tesla",
-      "net": -1.6,
-      "n": 4
+      "net": 1.6,
+      "n": 3
     },
     {
-      "sym": "NVDA",
-      "name": "NVIDIA",
-      "net": 1.3,
-      "n": 7
-    },
-    {
-      "sym": "TSM",
-      "name": "TSMC",
-      "net": 1.2,
-      "n": 1
-    },
-    {
-      "sym": "MSFT",
-      "name": "Microsoft",
-      "net": 0.8,
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "net": 0.7,
       "n": 1
     },
     {
       "sym": "AMZN",
       "name": "Amazon",
-      "net": -0.1,
-      "n": 3
+      "net": 0.6,
+      "n": 1
     }
   ],
   "ecuador": [
-    {
-      "title": "Deuda interna al 9%: el sobrecosto de financiarse en Ecuador y más de $7.700 millones previstos para 2027",
-      "source": "Diario La Hora",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQT0dWRkVLeVpiYl9YdFNUQ1BiLUo5Z3dNeGN1RTgwVmtFNHJZeGJ6anNTMFBVVm9hNkR1UjE3OEJMREl5VlBrSlVPNG5FeWpmSU56S2l3Um9zZEk5dHZTQ1hMVGhzQ2FLek5YaVh5cmJ6TVotbjJ3bUZwLVpjRlZBbjk1dWtsSTJQQjYtX1AxNHlVUklMSmo5ajdhWDFxdEZqWE1GZGU3cF9ybUNna0t0M0RDMG5YQU4yS0Z2UWZnOVAxd0dQaTNpMWlaYlpoZ3ZicTIybndLTlRFa2Voam1SZks1ODdEd1lzUjAwYQ?oc=5",
-      "ts": 1794981540000,
-      "sentiment": 0.0,
-      "tags": [
-        {
-          "sym": "RIESGO PAÍS",
-          "name": "Riesgo país (EMBI)",
-          "pct": null,
-          "dir": -1
-        }
-      ]
-    },
     {
       "title": "Industria automotriz apunta a captar el 30 % del mercado de camionetas con nuevos proyectos de ensamblaje",
       "source": "El Universo",
@@ -1519,6 +1468,21 @@
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRV9BaDZ5SXdQcHllZldZelNsSTJ0Zmxtb3dTOXkyd3RkM240b1UyeFRpbXBMeDI2YWw0T1NiazVnR0VRNTF5clh0X3ktdFFZd3YyTDcwcVQtUEVtZXhEcWtEUFJkU3dqUG5aMkxLSVc0WHJMa3FDenJaY3RWVUFNTTMwZkNzMktfb1lwaXN0c3JVZFhNaW9kaklzWFBvRndOUDFWM2JFTzlMdVVxWnZZSmduUjJBNUluclE4VjFFMG1MT2wyLTZOdnVmRjBPb1gxbFRkb1ZydW0zcnNFTXBLYng0cHFoUnFw0gH8AUFVX3lxTFBPQTRBeXljOHE3Ql9jdG1TZjJEYjRHcjJGX0lKZ3luZFQ4YmdFRGpHR0ppak5uU1duRk1pbnEwRWJ2YVBsT0R3UTliSGNJNjFqU1JxWkFzVGxBOGtSNnVQd19XTThtT2Nrcmw0eF9HNTJiLWxqdUNjVElwLWd0czF3UUxqcDhQajhRa0oyM2pzQjM1bE05QUdBVFVnREdjcU1EdjBxVXBBRVVMREJ3U3d6ZzZWMFlKWHNuQ1ZUbWFyeHhkbEh0U2I2eDR4eGt0TjVDZnB4SHJudkhYM0JGUlpzMERpSUYzMHpVa0dRUUg2di1ITzNRRWRBVkpIZg?oc=5",
       "ts": 1793779200000,
       "sentiment": 0.5,
+      "tags": [
+        {
+          "sym": "RIESGO PAÍS",
+          "name": "Riesgo país (EMBI)",
+          "pct": null,
+          "dir": -1
+        }
+      ]
+    },
+    {
+      "title": "Riesgo país de noviembre en América Latina: dónde queda RD frente a Venezuela, Argentina y Ecuador",
+      "source": "Revista Mercado",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRDNPUDROOWgzb1hjakM5eVh0RzNyVC1yaEg2ODZYODhNNF9ULTdCTzdCalhJYWR6Ui1NRUk3WnZuTXFvbDljRVBjLTRHNmRJdm1SU09sRFU5TlNfX3NwQS12RUo0WjJ0WEJBbm5ZdUgwTXRCQlAwMVZCbVlJemp0TVY0MmlHRUp5UGg2bXJyNzdBNXZ5aHlYQ2E0NlVudzlIQmJqcHk0WXFjNDlzZE5rYi1HZzRzM1NVeEk1QmszX2ZiQQ?oc=5",
+      "ts": 1793779200000,
+      "sentiment": 0.0,
       "tags": [
         {
           "sym": "RIESGO PAÍS",
